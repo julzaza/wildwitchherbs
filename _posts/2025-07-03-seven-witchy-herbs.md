@@ -17,14 +17,13 @@ author: Luna
 date: 2025-07-03
 ---
 
-
 Not every witch plants roses. Some sow curses, cures, or protection into their soil. The herbs below weren’t chosen for their looks — they earned their place in gardens, pouches, and spells through centuries of use. Painful use. Sacred use.
 
 Let’s walk through stories carved into root and stem.
 
 ---
 
-## 1. Basil (Ocimum basilicum) — Haiti
+## 1. Basil (*Ocimum basilicum*) — Haiti
 
 In Haitian Vodou, basil isn’t seasoning. It’s spiritual weaponry.
 
@@ -34,7 +33,7 @@ In Catholic-colonial times, basil was a holy plant — but in Vodou, it belongs 
 
 ---
 
-## 2. Mugwort (Artemisia vulgaris) — Slavic Lands
+## 2. Mugwort (*Artemisia vulgaris*) — Slavic Lands
 
 Mugwort is dreamkeeper, travel guide, and grave companion.
 
@@ -44,7 +43,7 @@ Used as an amulet herb, tied to babies, stuffed into pillows, smoked, or boiled 
 
 ---
 
-## 3. Frankincense (Boswellia sacra) — Yemen, Oman, and the Horn of Africa
+## 3. Frankincense (*Boswellia sacra*) — Yemen, Oman, and the Horn of Africa
 
 Resin of kings and spirits.
 
@@ -54,7 +53,7 @@ It’s an herb in the sense of ritual fire — not leaves, but what it releases 
 
 ---
 
-## 4. Achiote (Bixa orellana) — Amazon and Central America
+## 4. Achiote (*Bixa orellana*) — Amazon and Central America
 
 Blood red. Protective. Often misunderstood.
 
@@ -64,7 +63,7 @@ In some traditions, it’s believed to shield the soul during shape-shifting jou
 
 ---
 
-## 5. Lavender (Lavandula angustifolia) — Europe and the Middle East
+## 5. Lavender (*Lavandula angustifolia*) — Europe and the Middle East
 
 Don't let its popularity fool you.
 
@@ -74,7 +73,7 @@ In folk Islam and Mediterranean Jewish households, it was sometimes used to anoi
 
 ---
 
-## 6. African Dream Root (Silene capensis) — South Africa
+## 6. African Dream Root (*Silene capensis*) — South Africa
 
 This plant doesn’t smell, taste, or look magical. But drink its tea, and you’ll see.
 
@@ -84,7 +83,7 @@ The practice is private, passed quietly between chosen hands.
 
 ---
 
-## 7. Hawthorn (Crataegus monogyna) — Celtic and European Highlands
+## 7. Hawthorn (*Crataegus monogyna*) — Celtic and European Highlands
 
 Witches didn’t plant hawthorn casually.
 
@@ -96,10 +95,13 @@ But witches? They’d clip a thorn, hang it above the door for protection, or us
 
 ## Final Thought
 
-You won’t find these herbs in beauty blogs. Some smell sharp. Some stain your fingers. All come with stories. Real ones.
+These herbs don’t exist for decoration or trend.
 
-If you choose to grow or use them, do it with attention. Not just for the aesthetic — but for what they remember.
+They carry centuries of human stories — pain, protection, power, and survival. They speak in whispers only the willing can hear.
 
-They’re not decoration. They’re conversation. Between you and something older than you.
+Grow them with intention. Use them with respect. And listen.
 
-And you don’t need to speak loudly to hear it.
+The past is rooted in the earth beneath your feet. The magic is waiting.
+
+---
+
