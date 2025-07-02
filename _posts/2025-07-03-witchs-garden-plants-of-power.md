@@ -16,8 +16,6 @@ author: Luna
 date: 2025-07-02
 ---
 
-# How to Start a Real Witch’s Garden  
-**Plants of Power and Tradition**
 
 Some herbs were grown behind monasteries. Some in courtyards with bones under the stones. Some tucked behind wooden huts where midwives hid from the bishop’s men. A witch’s garden isn’t a mood board — it’s a living piece of culture, resistance, medicine, and magic.
 
@@ -42,70 +40,70 @@ Let’s move past lavender and sage. These herbs carry stories. Their roots go d
 
 ---
 
-### 🌿 **Artemisia annua**  
+### **Artemisia annua**  
 **Region:** China, Central Asia, now naturalized across the Balkans  
 **Use:** Malaria medicine, fever cure, spiritual cleanser  
 **Folklore:** In Chinese Taoist tradition, sweet wormwood (Qing Hao) was written about as early as 168 BC in the *Wushi'er Bingfang*. In the Balkans, wild Artemisia is still used to “smoke out” sickness or stuck spirits, often burned in cow dung for potency.  
 
 ---
 
-### 🌿 **Rue (*Ruta graveolens*)**  
+### **Rue (*Ruta graveolens*)**  
 **Region:** Mediterranean, Balkans, Latin America  
 **Use:** Protection against curses and envy  
 **Folklore:** Called *sedefili* in the Balkans and used in village rituals to break the evil eye. Italian *Streghe* wore it tucked behind the ear. In Afro-Caribbean traditions (esp. in Cuba), rue is used in spiritual baths to remove malefic energy.
 
 ---
 
-### 🌿 **Lemongrass (*Cymbopogon citratus*)**  
+### **Lemongrass (*Cymbopogon citratus*)**  
 **Region:** Africa, India, Caribbean  
 **Use:** Cleansing and spirit banishment  
 **Folklore:** In hoodoo and Santería, floors are washed with lemongrass infusion to remove spiritual grime. In Vodou, it’s used to calm disturbed spirits and open ritual space.  
 
 ---
 
-### 🌿 **Mugwort (*Artemisia vulgaris*)**  
+### **Mugwort (*Artemisia vulgaris*)**  
 **Region:** Europe, Asia, North America  
 **Use:** Dreamwork, protection, travel between worlds  
 **Folklore:** Roman soldiers put mugwort in their sandals for endurance. In Japanese *omamori*, mugwort is sometimes used in amulets for protection. In the Balkans, young women bathed in mugwort-infused water before Slava or solstice rituals.
 
 ---
 
-### 🌿 **Tulsi (*Ocimum tenuiflorum*)**  
+### **Tulsi (*Ocimum tenuiflorum*)**  
 **Region:** India  
 **Use:** Spiritual purity, protection, healing  
 **Folklore:** Considered the earthly embodiment of Lakshmi. Almost every traditional Hindu home grows it in a central altar pot. Watered daily while chanting mantras — not for decoration, but for divine connection.
 
 ---
 
-### 🌿 **Dittany of Crete (*Origanum dictamnus*)**  
+### **Dittany of Crete (*Origanum dictamnus*)**  
 **Region:** Crete, Greece  
 **Use:** Healing wounds, trance induction  
 **Folklore:** Said to grow only where the blood of lovers was spilled. In Cretan folk magic, it’s burned in love rituals. Its fumes were believed to guide souls safely through the underworld.
 
 ---
 
-### 🌿 **Yarrow (*Achillea millefolium*)**  
+### **Yarrow (*Achillea millefolium*)**  
 **Region:** Northern Hemisphere  
 **Use:** Healing, divination, battle protection  
 **Folklore:** Named after Achilles. In Chinese *I Ching*, yarrow stalks were used for divination. In European folk medicine, it was packed into wounds. In Slavic lore, yarrow was placed under the mattress to protect a woman’s fertility and marriage.
 
 ---
 
-### 🌿 **Neem (*Azadirachta indica*)**  
+### **Neem (*Azadirachta indica*)**  
 **Region:** South Asia  
 **Use:** Disinfectant, curse breaker  
 **Folklore:** Hung above doors to block malevolent spirits. Bathing with neem was said to remove “black energy” or disease caused by spiritual imbalance. Also used as a toothbrush twig in Indian villages — a magical ritual masked as hygiene.
 
 ---
 
-### 🌿 **Mandrake (*Mandragora officinarum*)**  
+### **Mandrake (*Mandragora officinarum*)**  
 **Region:** Mediterranean, Near East  
 **Use:** Fertility, protection, trance  
 **Folklore:** The screaming root. Pulled from the ground with a dog’s help, so the legend goes. Used in Jewish and Arab folk magic. In some Slavic traditions, the mandrake was kept wrapped in silk, fed milk, and consulted like an oracle.
 
 ---
 
-### 🌿 **Ashwagandha (*Withania somnifera*)**  
+### **Ashwagandha (*Withania somnifera*)**  
 **Region:** India, Middle East  
 **Use:** Strength, stamina, grounding  
 **Folklore:** Used in Ayurvedic medicine for thousands of years. Root powder is given to those recovering from illness or spiritual depletion. Also considered a protective plant for the “householder” stage of life — keeping evil away from family and hearth.
@@ -116,16 +114,16 @@ Let’s move past lavender and sage. These herbs carry stories. Their roots go d
 
 Let’s be done with “plant by the moon and sing to it” advice that leads nowhere. If you want ritual, let’s talk about actual practices:
 
-### 🕯️ Soaking and Imbuing  
+###  Soaking and Imbuing  
 - **Balkan midwives** soaked wormwood in warm water to wash newborns — cleansing and protective.
 - **Andean farmers** spit on seeds before planting, adding personal life force to ensure growth.  
 - **Jewish traditions** sometimes included *hafrashat challah* blessings over seed storage areas, dedicating food to sacred use.
 
-### 🌑 Moon Cycles Matter  
+### Moon Cycles Matter  
 - **In biodynamic farming** (popular in Europe), moon phases affect root and leaf strength. Root crops on waning moons.  
 - **Old Ukrainian calendars** marked best planting days with religious feasts and lunar signs — folk Catholicism intertwined with pagan rhythms.
 
-### 🌍 Offering Before Digging  
+### Offering Before Digging  
 - In **West African Vodun**, spirits of the land are greeted with offerings before breaking soil.  
 - In **Nordic folk custom**, a coin or grain was offered to the land wight when planting fruit trees.
 
