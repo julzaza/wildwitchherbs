@@ -7,7 +7,6 @@ description: "While witches across Europe burned, Balkan witches survived. This 
 image: /assets/images/balkan-witch.jpg
 ---
 
-## Why Balkan Witches Survived: Magic Rooted in the People
 
 The witch hunts swept across Europe like wildfire, burning tens of thousands — mostly women — accused of heresy, devil worship, or simply knowing too much. But in the Balkans, something different happened.
 
