@@ -24,7 +24,7 @@ They carry the hands that planted them, the curses they soaked up, the fever-sli
 
 ---
 
-## 1. Pennyroyal (*Mentha pulegium*)  
+## Pennyroyal (*Mentha pulegium*)  
 **Region:** Mediterranean, Middle East  
 **Use:** Menstrual health, curse-breaking, spirit banishment
 
@@ -34,7 +34,7 @@ In witchcraft, it’s a plant of agency and danger — a boundary plant. Not for
 
 ---
 
-## 2. Guinea Hen Weed (*Petiveria alliacea*)  
+## Guinea Hen Weed (*Petiveria alliacea*)  
 **Region:** Caribbean, Central America, parts of Africa  
 **Use:** Spiritual clearing, curse reversal, hex protection
 
@@ -44,7 +44,7 @@ Some say it keeps the dead from whispering too close. Some feed it to the spirit
 
 ---
 
-## 3. Belladonna (*Atropa belladonna*)  
+## Belladonna (*Atropa belladonna*)  
 **Region:** Europe  
 **Use:** Trance, seduction, death rites
 
@@ -54,7 +54,7 @@ No herb better captures the line between poison and power.
 
 ---
 
-## 4. Tulsi (*Ocimum tenuiflorum*)  
+## Tulsi (*Ocimum tenuiflorum*)  
 **Region:** India  
 **Use:** Sacred protection, purification, heart and home
 
@@ -64,7 +64,7 @@ No incense needed. Tulsi *is* the ritual.
 
 ---
 
-## 5. Calea Zacatechichi (Dream Herb)  
+## Calea Zacatechichi (Dream Herb)  
 **Region:** Mexico, Central America  
 **Use:** Dreamwork, divination, contact with the dead
 
@@ -74,7 +74,7 @@ It’s bitter. Dream herbs usually are. The truth rarely tastes sweet.
 
 ---
 
-## 6. Hellebore (*Helleborus niger*)  
+## Hellebore (*Helleborus niger*)  
 **Region:** Balkans, Alps  
 **Use:** Curse magic, plague rites, invocation of fear
 
@@ -84,7 +84,7 @@ In some stories, witches grew it in grave dirt mixed with their own blood.
 
 ---
 
-## 7. African Blue Basil  
+## African Blue Basil  
 **Region:** East Africa  
 **Use:** Ancestral offerings, protection, house blessing
 
@@ -96,10 +96,10 @@ Sweet on the nose, but not a plant to ignore. This basil bites back when mistrea
 
 ## Final Thought
 
-These herbs don’t ask for followers. They ask for attention.
+These aren’t just herbs. They’re reminders.
 
-If you’re going to use them, plant them, or burn them — learn their stories. Don’t just collect power like it’s yours by right. Earn it through relationship. Grow it with intention. Listen before you touch. These plants weren’t grown in sterile labs. They came from conflict, survival, devotion, and dirt.
+Of how people survived. How they healed, cursed, protected, and prayed — long before any of us were born.
 
-Use them like someone who remembers that.
+When you work with these plants, don't rush. Sit. Listen. Let them teach you. The wisdom is still alive in the leaf, if you’re willing to meet it there.
 
 ---
