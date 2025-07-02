@@ -78,7 +78,7 @@ Achilles carried it into war. Chinese diviners used the stalks. Slavic women stu
 
 ## Final Words
 
-These herbs have history. Not from books, but from breath.  
-They weren’t grown for display — they were grown for survival, for power, for knowing.
+These herbs carry memory — not just medicine.  
+They weren’t grown to be pretty. They were grown for strength, survival, spirit.
 
-Learn their names. Learn their voices. Don’t just harvest — **honor**.
+If you plant them, know what you’re planting. And why.
