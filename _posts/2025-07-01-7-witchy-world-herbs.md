@@ -17,6 +17,7 @@ date: 2025-07-02
 layout: post
 ---
 
+
 Herbs don’t just grow. They carry.
 
 They carry the hands that planted them, the curses they soaked up, the fever-slick prayers whispered over boiling pots. Every culture has its plant allies. Here are seven herbs still humming with power — and the old stories that make them more than ingredients.
