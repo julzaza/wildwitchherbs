@@ -17,8 +17,6 @@ author: Luna
 date: 2025-07-03
 ---
 
-# 7 Witchy Herbs from Around the World  
-**and the Stories They Tell**
 
 Not every witch plants roses. Some sow curses, cures, or protection into their soil. The herbs below weren’t chosen for their looks — they earned their place in gardens, pouches, and spells through centuries of use. Painful use. Sacred use.
 
