@@ -17,9 +17,6 @@ author: Luna
 date: 2025-07-01
 ---
 
-# Wormwood in Witchcraft and War  
-*From Babylon to Balkan Graves*
-
 *Wormwood* has never been a gentle herb.
 
 Mentioned in the Bible, feared by medieval priests, and planted on Balkan graves long before borders or countries existed, *Artemisia* carries an ancient power. Bitterness isn’t just its flavor — it’s its weapon.
