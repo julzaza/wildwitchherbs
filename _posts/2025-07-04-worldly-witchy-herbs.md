@@ -1,5 +1,5 @@
 ---
-title: "7 Witchy Herbs from Around the World — and the Stories They Tell"
+title: "7 Witchy Herbs from Around the World and the Stories They Tell"
 excerpt: "These aren’t just herbs. They’re warnings, prayers, and secrets passed in whispers. From Haitian basil to Slavic mugwort, meet the plants that witches trusted long before Instagram spells and matcha moon water."
 layout: post
 categories:
@@ -27,9 +27,9 @@ Let’s walk through stories carved into root and stem.
 
 In Haitian Vodou, basil isn’t seasoning. It’s spiritual weaponry.
 
-Basil baths are used to cleanse the aura before ritual. Leaves are rubbed over the body to draw away illness. Some practitioners steep basil in rum and spray it in corners to banish spirits that refuse to leave.
+Basil baths are used to cleanse the aura before ritual. Leaves are rubbed over the body to draw away illness. Some practitioners steep basil in rum and spray it in corners to banish spirits.
 
-In Catholic-colonial times, basil was considered a holy plant. But in Vodou, it belongs to the loa — especially Erzulie, the spirit of love and fierce protection. This isn’t the sweet Genovese basil for pasta. It’s pungent, commanding, and alive.
+In Catholic-colonial times, basil was considered a holy plant. But in Vodou, it belongs to the loa — especially Erzulie, the spirit of love and fierce protection.
 
 ---
 
@@ -39,7 +39,7 @@ Mugwort is dreamkeeper, travel guide, and grave companion.
 
 In old Slavic midsummer rituals, young women wove mugwort into wreaths before bathing in rivers to purify themselves. It was burned at thresholds to keep malevolent forces away — especially after childbirth or death.
 
-Used as an amulet herb, tied to babies, stuffed into pillows, smoked, or boiled — mugwort isn’t gentle. It opens the gates between worlds, not just the lungs.
+Used as an amulet herb, tied to babies, stuffed into pillows, smoked, or boiled — mugwort opens the gates between worlds, not just the lungs.
 
 ---
 
@@ -47,9 +47,9 @@ Used as an amulet herb, tied to babies, stuffed into pillows, smoked, or boiled 
 
 Resin of kings and spirits.
 
-Frankincense was offered at temples not just to please gods, but to summon them. In ancient Egypt, it embalmed the dead. In desert mysticism, it’s used to thin the veil. Somali women still use the smoke after birth to heal and spiritually protect the womb.
+Frankincense was offered at temples to summon gods. In ancient Egypt, it embalmed the dead. Somali women still use the smoke after birth to heal and spiritually protect the womb.
 
-It’s an herb in the sense of ritual fire — not leaves, but what it releases when burned.
+It’s a ritual fire herb — not leaves, but what it releases when burned.
 
 ---
 
@@ -57,9 +57,9 @@ It’s an herb in the sense of ritual fire — not leaves, but what it releases 
 
 Blood red. Protective. Often misunderstood.
 
-Indigenous Amazonian tribes use achiote seeds (aka annatto) to paint faces before ritual and battle. The pigment protects both body and spirit. The plant is associated with fire, vitality, and the power of the ancestors.
+Indigenous Amazonian tribes use achiote seeds (aka annatto) to paint faces before ritual and battle. The pigment protects both body and spirit.
 
-In some traditions, it’s believed to shield the soul during shape-shifting journeys — physical or otherwise.
+It’s associated with fire, vitality, and the power of ancestors.
 
 ---
 
@@ -67,9 +67,9 @@ In some traditions, it’s believed to shield the soul during shape-shifting jou
 
 Don’t let its popularity fool you.
 
-In medieval times, lavender was stuffed in beds to deter demons and sickness. It was burned in sickrooms. Carried in sachets to courtrooms. Worn as perfume to survive plagues.
+In medieval times, lavender was stuffed in beds to deter demons and sickness. Burned in sickrooms. Worn to survive plagues.
 
-In folk Islam and Mediterranean Jewish households, it was sometimes used to anoint the dead — gentle, yes, but sacred through sorrow.
+In folk Islam and Mediterranean Jewish households, it was used to anoint the dead — gentle, but sacred through sorrow.
 
 ---
 
@@ -77,28 +77,22 @@ In folk Islam and Mediterranean Jewish households, it was sometimes used to anoi
 
 This plant doesn’t smell, taste, or look magical. But drink its tea, and you’ll see.
 
-Used by Xhosa shamans to enhance dream recall and enter lucid states, the root is often taken during initiation or divination training. It’s not psychedelic, but its dream power is considered ancestral.
-
-The practice is private, passed quietly between chosen hands.
+Used by Xhosa shamans to enhance dream recall and enter lucid states, the root is taken during initiation or divination. Its dream power is considered ancestral.
 
 ---
 
-## 7. Hawthorn (*Crataegus monogyna*) — Celtic and European Highlands
+## 7. Hawthorn (*Crataegus monogyna*) — Celtic Highlands
 
 Witches didn’t plant hawthorn casually.
 
-It’s sacred to the fae. To disturb it was to risk madness or misfortune. In Ireland, solitary hawthorn trees were “fairy trees” — left untouched in fields. Farmers plowed around them.
+It’s sacred to the fae. To disturb it was to risk madness or misfortune. In Ireland, solitary hawthorn trees were “fairy trees” — left untouched in fields.
 
-But witches? They’d clip a thorn, hang it above the door for protection, or use it in spells of revenge and justice. Blood-red berries, white ghost blossoms. It guards the heart — literally and magically.
+Witches clipped thorns, hung them above doors for protection, or used them in justice spells.
 
 ---
 
 ## Final Thought
 
-You won’t find these herbs in beauty blogs. Some smell sharp. Some stain your fingers. All come with stories.
+These herbs aren’t for decoration. They’re for conversation — between you and something old.
 
-If you choose to grow or use them, do it with intention — not just for the aesthetic, but for what they remember.
-
-They’re not decoration. They’re a dialogue. Between you and something older than you.
-
-And you don’t need to speak loudly to hear it.
+Grow or use them with intention. Not for aesthetic, but for what they remember.
