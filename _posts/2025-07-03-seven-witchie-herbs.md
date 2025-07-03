@@ -1,3 +1,4 @@
+yaml
 ---
 title: "7 Witch Herbs from Around the World — and the Stories They Tell"
 excerpt: "These aren’t just herbs. They’re warnings, prayers, and secrets passed in whispers. From Haitian basil to Slavic mugwort, meet the plants that witches trusted long before Instagram spells and matcha moon water."
