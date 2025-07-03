@@ -1,7 +1,9 @@
 ---
 title: "7 Witchy Herbs from Around the World — and the Stories They Tell"
-excerpt: "These aren’t just herbs. They’re warnings, prayers, secrets passed in whispers. From Haitian basil to Slavic mugwort, meet the plants that witches trusted long before Instagram spells and matcha moon water."
+excerpt: "These aren’t just herbssss. They’re warnings, prayers, secrets passed in whispers. From Haitian basil to Slavic mugwort, meet the plants that witches trusted long before Instagram spells and matcha moon water."
 layout: post
+author: Luna
+date: 2025-07-03
 categories:
   - Witchcraft
   - Herbal Lore
@@ -13,8 +15,6 @@ tags:
   - ritual plants
   - protection herbs
   - healing herbs
-author: Luna
-date: 2025-07-03
 ---
 
 Not every witch plants roses. Some sow curses, cures, or protection into their soil. The herbs below weren’t chosen for their looks — they earned their place in gardens, pouches, and spells through centuries of use. Painful use. Sacred use.
@@ -95,13 +95,8 @@ But witches? They’d clip a thorn, hang it above the door for protection, or us
 
 ## Final Thought
 
-These herbs don’t exist for decoration or trend.
+These herbs aren’t trends. They’re stories in leaf and thorn — passed in whispers and smoke. They carry memory, pain, magic, and protection.
 
-They carry centuries of human stories — pain, protection, power, and survival. They speak in whispers only the willing can hear.
-
-Grow them with intention. Use them with respect. And listen.
-
-The past is rooted in the earth beneath your feet. The magic is waiting.
+Grow them with intention. Speak to them with respect. And maybe, if you’re lucky, they’ll speak back.
 
 ---
-
