@@ -41,6 +41,8 @@ Not just symbolic — smoke **moves things**.
 The type of herb burned shapes the purpose. The timing, the way it’s lit, even the direction you waft it matters in folk tradition.
 
 ---
+## Ritual Smoke Herbs From Around the World
+
 ### Myrrh (Commiphora spp.) — Africa & Middle East  
 Dark, thick resin used in **mourning rituals**, **death work**, and **binding ceremonies**. Strongly connected to sorrow, passage, and sacred endings.
 
@@ -59,8 +61,6 @@ Sweet, deep smoke used to **invite benevolent spirits**, clear heavy energy, and
 **Important Note:** Only use **ethically harvested** palo santo from fallen branches. Overharvesting has endangered the tree in some areas.
 
 ---
-
-## Ritual Smoke Herbs From Around the World
 
 ### Artemisia vulgaris (Mugwort) — Slavic & European Traditions  
 Burned to **open dream gates** and guide between the worlds. Used after childbirth, near graves, or at midsummer for protection.
