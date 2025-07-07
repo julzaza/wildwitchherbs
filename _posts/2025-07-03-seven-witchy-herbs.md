@@ -108,8 +108,6 @@ Used as body paint in ritual to invoke ancestral strength and protect from harm.
 
 ## Final Words: Grow What Remembers You
 
-Some herbs were never meant for windowsills. They grow best in shadowed corners, near stones or running water, where stories collect like dew.
-
 These are the plants that wake when called — not with commands, but with respect.
 
 Plant them not just in soil, but in your practice. And if they answer, listen carefully.
