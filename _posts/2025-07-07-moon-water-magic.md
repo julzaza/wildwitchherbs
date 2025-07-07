@@ -99,7 +99,7 @@ Mix moon water with rosemary or wormwood infusion. Pour into a spray bottle and 
 
 ---
 
-## Bold Ending: You Don’t Need Permission
+## You Don’t Need Permission
 
 There is no “right way” to make moon water. You don’t need to be part of a coven. You don’t need a high priestess title. You don’t need white robes or silver chalices.
 
