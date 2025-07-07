@@ -20,7 +20,7 @@ date: 2025-07-07
 
 ## Smoke Has Memory
 
-Before incense came in neat little cones, it was a fistful of bitter leaves, cracked resin, and whatever could be burned in a dish over coals.
+Before incense came in neat little bundles, it was a fistful of bitter leaves, cracked resin, and whatever could be burned in a dish over coals.
 
 From Balkan death rites to South American protection spells, **smoke has always been more than perfume**. It was language. Offering. Defense. Invitation.
 
