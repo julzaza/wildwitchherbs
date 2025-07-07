@@ -19,61 +19,61 @@ In cultures across the world, herbs have played a sacred role in these moon rite
 
 ---
 
-## 1. **Mugwort and the Moon: The Dream Herb of Europe**
+## 1. Mugwort and the Moon: The Dream Herb of Europe
 
 In European folk magic, mugwort (*Artemisia vulgaris*) was *the* moon herb. Linked to Artemis, Hecate, and the dark feminine, mugwort opens the gates of dreams, visions, and intuition.
 
-### 🌕 Ritual:
+### Ritual:
 Burn mugwort as incense on a charcoal disc under the full moon. Let the smoke bless your tools or your body. It’s said to awaken psychic vision and protect from harmful spirits while you sleep.
 
 > **Folklore Note:** In medieval Europe, travelers stitched mugwort into their shoes to protect them from exhaustion and evil on their journey—spiritual and otherwise.
 
 ---
 
-## 2. **White Sage and the Full Moon: A Misunderstood Cleanser**
+## 2. White Sage and the Full Moon: A Misunderstood Cleanser
 
 Used in sacred ceremonies by Native American peoples—especially the Lakota, Navajo, and Chumash—white sage (*Salvia apiana*) is burned in *smoke cleansing* rituals to purify space, body, and soul.
 
-### ⚠️ Respectful Use:
+### Respectful Use:
 Due to overharvesting and cultural appropriation, many witches now grow their own white sage or use local alternatives (like rosemary or juniper).
 
-### 🌕 Ritual:
+### Ritual:
 Light a bundle (or sprinkle dried leaves onto hot coals) and walk counter-clockwise around your space, letting the smoke carry away stagnant energy.
 
 > **Folklore Tip:** Always leave an offering when harvesting any sacred plant—some hair, a whispered thanks, a drop of moonwater.
 
 ---
 
-## 3. **Basil in Indian Full Moon Offerings (Purnima)**
+## 3. Basil in Indian Full Moon Offerings (Purnima)
 
 In India, the full moon (*Purnima*) is considered highly auspicious, especially for spiritual purification and blessings.
 
-### 🌿 Sacred Herb: Tulsi (Holy Basil)
+### Sacred Herb: Tulsi (Holy Basil)
 Tulsi is believed to be the earthly incarnation of the goddess Lakshmi, bringing love, luck, and protection.
 
-### 🌕 Ritual:
+### Ritual:
 Bathe or sprinkle your altar with tulsi-infused water during the full moon. Meditate or chant near the plant, asking for clarity, harmony, and divine connection.
 
 > **Ayurvedic Folklore:** Tulsi is said to balance all three doshas (Vata, Pitta, Kapha) and lift the heart out of darkness.
 
 ---
 
-## 4. **Wormwood and Balkan Moon Magic**
+## 4. Wormwood and Balkan Moon Magic
 
 In the Balkans, wormwood (*Artemisia absinthium*) is a bitter herb of protection and power. It was burned on coals during moonlit divinations or tucked in doorways to ward off spirits.
 
-### 🌕 Ritual:
+### Ritual:
 Place dried wormwood under your pillow on the full moon. Ask for guidance in dreams—or burn a pinch with incense during ancestral prayer.
 
 > **Folklore:** In old Montenegrin and Albanian villages, women brewed wormwood tea and sipped it under the full moon to strengthen their will and keep curses away.
 
 ---
 
-## 5. **Lavender: Moon Herb of Peace Across Cultures**
+## 5. Lavender: Moon Herb of Peace Across Cultures
 
 Lavender (*Lavandula spp.*) spans cultures—from ancient Rome to English cottage witches—as a calming, cleansing herb. It's often used in love spells, sleep potions, and moon bath blends.
 
-### 🌕 Ritual:
+### Ritual:
 Create a full moon bath with lavender, rose, and a handful of salt. Light candles, speak your intentions aloud, and soak until you feel reborn.
 
 > **Folk Tip:** In Southern European villages, lavender was burned in bedrooms during the full moon to prevent nightmares and tempt true love to appear in dreams.
@@ -85,16 +85,16 @@ Create a full moon bath with lavender, rose, and a handful of salt. Light candle
 Craft a small pouch with herbs aligned to your intention—dreaming, healing, love, protection. Charge it under the full moon overnight and carry it with you the next day.
 
 **Sample Blend Ideas:**
-- For love: rose, lavender, cinnamon
-- For clarity: mugwort, rosemary, bay
+- For love: rose, lavender, cinnamon  
+- For clarity: mugwort, rosemary, bay  
 - For protection: wormwood, sage, juniper
 
 ---
 
 ## Harvesting & Storing Ritual Herbs
 
-- Always harvest with respect. Speak to the plant, offer something in return.
-- Harvest under the waxing moon for growth magic; under the full moon for maximum potency.
+- Always harvest with respect. Speak to the plant, offer something in return.  
+- Harvest under the waxing moon for growth magic; under the full moon for maximum potency.  
 - Dry herbs in a dark, dry place and store them in glass jars or cloth pouches.
 
 ---
@@ -116,4 +116,3 @@ Whether you burn a sprig of mugwort, stir tulsi into tea, or simply sit beneath 
 - [How to Make Moon Water and Use It in Magic](/moon-water-magic)
 
 ---
-
