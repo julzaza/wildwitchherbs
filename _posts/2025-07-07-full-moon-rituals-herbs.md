@@ -135,10 +135,6 @@ Charge with candlelight and moonlight overnight. Store on your altar or bury at 
 
 ## Final Words
 
-The full moon doesn’t ask for perfection. She only asks for presence. For you to show up, quiet the noise, and listen.
-
-The plants you work with don’t need to be rare or exotic. They only need to be known—by you, your land, your lineage. These herbs carry stories. They’ve grown beside us through plagues and weddings, births and burials. Their power isn’t in the performance. It’s in the remembering.
-
 You don’t need expensive tools or elaborate altars to practice moon magic. A single herb, a bowl of water, a whispered truth in the dark—these are the things that open doors.
 
 The rituals offered here aren’t instructions. They’re invitations. Make them your own. Let the old ways meet the life you’re living now. That’s the true magic.
