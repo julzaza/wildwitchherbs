@@ -41,6 +41,24 @@ Not just symbolic — smoke **moves things**.
 The type of herb burned shapes the purpose. The timing, the way it’s lit, even the direction you waft it matters in folk tradition.
 
 ---
+### Myrrh (Commiphora spp.) — Africa & Middle East  
+Dark, thick resin used in **mourning rituals**, **death work**, and **binding ceremonies**. Strongly connected to sorrow, passage, and sacred endings.
+
+**Folk Practice:** Used in combination with frankincense in Egyptian embalming and funerary rites to anchor the soul for transition.
+
+---
+### Juniper (Juniperus spp.) — Balkans & Northern Europe  
+Spicy, sharp, and powerful. Burned in rural Balkan homes to **banish illness**, **curse energy**, or even unwanted spirits.
+
+**Folk Practice:** In Montenegro and northern Albania, entire rooms were fumigated with juniper during funerals or illness outbreaks.
+
+---
+### Palo Santo (Bursera graveolens) — South America  
+Sweet, deep smoke used to **invite benevolent spirits**, clear heavy energy, and restore balance.
+
+**Important Note:** Only use **ethically harvested** palo santo from fallen branches. Overharvesting has endangered the tree in some areas.
+
+---
 
 ## Ritual Smoke Herbs From Around the World
 
@@ -58,13 +76,6 @@ Used to **summon spirits**, carry prayers, and clear deep spiritual residue. Hig
 
 ---
 
-### Juniper (Juniperus spp.) — Balkans & Northern Europe  
-Spicy, sharp, and powerful. Burned in rural Balkan homes to **banish illness**, **curse energy**, or even unwanted spirits.
-
-**Folk Practice:** In Montenegro and northern Albania, entire rooms were fumigated with juniper during funerals or illness outbreaks.
-
----
-
 ### Rue (Ruta graveolens) — Mediterranean  
 Bitter and sulfuric. Burned to **break hexes** or for **protection** from the evil eye.
 
@@ -72,24 +83,10 @@ Bitter and sulfuric. Burned to **break hexes** or for **protection** from the ev
 
 ---
 
-### Palo Santo (Bursera graveolens) — South America  
-Sweet, deep smoke used to **invite benevolent spirits**, clear heavy energy, and restore balance.
-
-**Important Note:** Only use **ethically harvested** palo santo from fallen branches. Overharvesting has endangered the tree in some areas.
-
----
-
 ### Artemisia annua — China, Balkans  
 A sharper cousin of mugwort, burned to **ward off disease** and **malicious spirits**. Especially potent in ancestral rituals or protection rites.
 
 **Folk Practice:** Hung and burned during Chinese Ghost Festival. In parts of the Balkans, tossed into ritual fires near cemeteries.
-
----
-
-### Myrrh (Commiphora spp.) — Africa & Middle East  
-Dark, thick resin used in **mourning rituals**, **death work**, and **binding ceremonies**. Strongly connected to sorrow, passage, and sacred endings.
-
-**Folk Practice:** Used in combination with frankincense in Egyptian embalming and funerary rites to anchor the soul for transition.
 
 ---
 
