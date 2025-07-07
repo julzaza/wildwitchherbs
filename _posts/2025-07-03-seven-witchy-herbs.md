@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "7 Witchy Herbs from Around the World (No Lavender, Just Power)"
+title: "7 Witchy Herbs from Around the World"
 excerpt: "From Balkan graves to Amazonian rituals, these seven herbs are anything but ornamental. They’ve protected the dying, summoned ancestors, painted warriors, and guided dreams. This is witchcraft rooted in survival."
 author: wildwitchyherbs
 categories: 
@@ -106,14 +106,16 @@ Used as body paint in ritual to invoke ancestral strength and protect from harm.
 
 **Folklore Note:** Amazonian warriors marked their faces with achiote before battle or ceremony. The red wasn't for beauty — it was for **fire**, **bloodline**, and **boldness**.
 
+## Final Words: Grow What Remembers You
+
+Some herbs were never meant for windowsills. They grow best in shadowed corners, near stones or running water, where stories collect like dew.
+
+These are the plants that wake when called — not with commands, but with respect.
+
+Plant them not just in soil, but in your practice. And if they answer, listen carefully.
+
+The most powerful allies often arrive in bitter leaves.
+
 ---
 
-## Final Words: Not All Magic Smells Sweet
 
-These herbs weren’t grown for decoration — they were grown because they worked. They healed the gut, shielded the heart, cleared the dead, and brought visions that saved lives.
-
-Want to use them? Learn their stories first. They don’t like to be rushed or reduced. These are plants with teeth and memory.
-
-Grow with respect. Gather with care.  
-And if you light a fire with them — listen closely.  
-The old ways don’t shout. But they never stopped speaking.
