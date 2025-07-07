@@ -27,7 +27,7 @@ That wasn’t for looks. That was a message.
 
 Across the world, certain herbs have followed us through war, sickness, birth, death, and dream. They're not cute. They’re **protective**, **prophetic**, and sometimes **provocative**. They’ve been burned on altars, tied to cradles, smeared on skin before battle. 
 
-Here are seven such herbs — no lavender, no fluff. Just the ones witches have always kept close.
+Here are seven such herbs — the ones witches have always kept close.
 
 ---
 
