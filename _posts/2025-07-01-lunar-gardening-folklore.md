@@ -14,6 +14,7 @@ tags:
   - herbal traditions
 author: Luna
 date: 2025-07-02
+permalink: /lunar-gardening-folklore/
 ---
 
 Witchcraft doesn’t end at the altar — it continues in the dirt.
