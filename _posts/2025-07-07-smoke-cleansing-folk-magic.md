@@ -16,6 +16,7 @@ tags:
   - Balkan witchcraft
   - ancestral practices
 date: 2025-07-07
+permalink: /smoke-cleansing-moon-magic/
 ---
 
 ## Smoke Has Memory
