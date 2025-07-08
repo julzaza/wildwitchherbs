@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "How to Use Smoke Cleansing in Folk Magic (Beyond Just Sage)"
+title: "How to Use Smoke Cleansing in Folk Magic (Beyond Sage)"
 excerpt: "Forget California white sage and crystal shop bundles. Real smoke cleansing is ancient, regional, and often gritty. Learn how witches, healers, and rootworkers across the world used smoke to protect, banish, heal, and summon."
 author: wildwitchyherbs
 categories: 
