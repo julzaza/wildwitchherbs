@@ -103,6 +103,16 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+  defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      show_tags: false
+      show_categories: false
+
+show_date_modified: false
+
 # Analytics
 analytics:
   provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
