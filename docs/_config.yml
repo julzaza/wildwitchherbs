@@ -331,3 +331,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+    collections:
+  herbs:
+    output: true
+    permalink: /herbs/:name/
+
