@@ -5,6 +5,7 @@ author: wildwitchyherbs
 categories: [Witchcraft, Herbal Rituals, Moon Magic]
 tags: [moon water, full moon ritual, lunar witchcraft, water magic, herbal spells, witch tips]
 date: 2025-07-07
+permalink: /moon-water-magic/
 ---
 
 ## Not Just a Pretty Jar in Moonlight
