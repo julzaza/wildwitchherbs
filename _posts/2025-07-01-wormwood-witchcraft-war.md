@@ -15,6 +15,8 @@ tags:
   - plant magic
 author: Luna
 date: 2025-07-01
+permalink: /wormwood-witchcraft-war/
+
 ---
 
 *Wormwood* has never been a gentle herb.
