@@ -51,14 +51,6 @@ White sage is sacred to many Native American tribes, especially the Chumash and 
 
 ---
 
-## ❌ Palo Santo — South America
-
-Sacred to Indigenous Andean cultures. True palo santo (Bursera graveolens) was burned during death rites and ancestral offerings, not daily smudging. Today it’s often sourced unethically and burned indiscriminately.
-
-**Instead:** Burn **copal resin**, used by Aztecs and Mayans for spiritual clarity, or **cinnamon bark** for fire offerings.
-
----
-
 ## ❌ Rue *(Ruta graveolens)* — Mediterranean, Balkan, Middle Eastern
 
 Rue is a powerful protector, especially in Mediterranean and Balkan traditions. It was worn behind the ear, hung in doorways, steeped in water — but burning it releases acrid, lung-irritating smoke.
