@@ -17,6 +17,8 @@ tags:
   - global witchcraft
   - ritual herbs
 date: 2025-07-07
+permalink: /witchy-herbs/
+
 ---
 
 ## The Plants That Refuse to Be Tamed
