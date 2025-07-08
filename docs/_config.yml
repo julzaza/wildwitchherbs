@@ -116,6 +116,12 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mmistakes"
 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: false
 
 # Site Footer
 footer:
