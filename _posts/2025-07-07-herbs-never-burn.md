@@ -27,7 +27,7 @@ Let’s walk through a **global witch’s list** of herbs you should *not* burn 
 
 ---
 
-## ❌ Henbane *(Hyoscyamus niger)* — Greek, Slavic, Germanic
+### ❌ Henbane *(Hyoscyamus niger)* — Greek, Slavic, Germanic
 
 Used by ancient Greek oracles, Norse seid-workers, and Slavic witches to commune with spirits. But **never by smoke**. Burning henbane can cause delirium, convulsions, or death.
 
