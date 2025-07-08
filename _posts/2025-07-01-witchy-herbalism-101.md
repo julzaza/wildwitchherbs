@@ -3,6 +3,8 @@ title: "Witchy Herbalism 101: Real Plants, Real Magic, No B.S."
 date: 2025-07-01
 categories: herbs, witchcraft, magic
 tags: [witchy herbs, herbal magic, witchcraft basics, rituals, artemisia]
+permalink: /witchy-herbalism-101/
+
 ---
 
 Let’s get real: witchy herbalism isn’t about pretty flowers or vague “energy.” It’s about **using plants with real power**—plants that have been tested by time, ritual, and sometimes blood. If you want magic, healing, and connection, you start with understanding the herbs that hold the fire.
