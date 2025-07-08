@@ -6,6 +6,8 @@ tags: [herbs, witchcraft, rituals, artemisia, folklore, protection, healing, beg
 description: "Ten powerful herbs every modern witch should know — from ancestral folklore to protective magic and plant rituals."
 author: Luna
 image: /assets/images/starter-herbs.jpg
+permalink: /herbal-starter-kit/
+
 ---
 
 **10 Plants That Have Protected, Poisoned, and Empowered Witches for Centuries**
