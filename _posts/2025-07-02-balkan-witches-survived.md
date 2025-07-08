@@ -5,6 +5,8 @@ categories: [Witchcraft, Folklore, History]
 tags: [balkan witches, folk magic, artemisia, survival, rituals, history]
 description: "While witches across Europe burned, Balkan witches survived. This post explores how folk magic, community service, and ancestral trust protected them from persecution."
 image: /assets/images/balkan-witch.jpg
+permalink: /balkan-witches/
+
 ---
 
 
