@@ -6,6 +6,7 @@ author: wildwitchyherbs
 categories: [Herbal Rituals, Witchcraft, Folklore]
 tags: [full moon ritual, lunar magic, herbal witchcraft, sacred herbs, traditional folklore, moon plants]
 date: 2025-07-07
+permalink: /full-moon-rituals/
 ---
 
 ## The Power of the Full Moon in Folk and Witch Traditions
