@@ -14,6 +14,7 @@ tags:
   - artemisia annua
 author: Luna
 date: 2025-07-02
+permalink: /witch-garden/
 ---
 
 Some herbs were grown behind monasteries. Some in courtyards with bones under the stones. Some tucked behind wooden huts where midwives hid from the bishop’s men. A witch’s garden isn’t a mood board — it’s a living piece of culture, resistance, medicine, and magic.
