@@ -15,6 +15,7 @@ tags:
   - folklore
   - mysticism
 date: 2025-07-07
+permalink: /never-burn-herbs/
 ---
 
 ## Not All Herbs Are Meant for Fire
