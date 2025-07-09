@@ -10,18 +10,14 @@ tags: herbs folk-magic herbalism
 categories: [herbalism, witchcraft]
 ---
 
-Long before antiseptic wipes and factory-sealed pills, people turned to what they had: leaves, roots, resins, and instinct. The original first responders were witches, midwives, and grandmothers — women who knew what to rub on a sting, steep for a fever, or smear on a burn. Call it folk herbalism, witchcraft, or old country know-how — these remedies weren’t meant to impress. They were meant to work. 
+Long before antiseptic wipes and factory-sealed pills, people turned to what they had: leaves, roots, resins, and instinct. The original first responders were witches, midwives, and grandmothers — women who knew what to rub on a sting, steep for a fever, or smear on a burn. Call it folk herbalism, witchcraft, or old country know-how — these remedies were meant to work. 
 
+It was the kind of healing that smells, stains your fingers, and works better than you'd expect.
 Before clinics and pharmacies, there were forest paths, kitchen cupboards, and women who whispered to plants.
 
-When a child burned their hand, when a soldier bled into the soil, when fever took hold — the healer came with herbs. Not a doctor. Not a priest. A witch, a midwife, or a wise old neighbor who knew which root to boil and which leaf to bind.
+These weren’t treatments pulled from textbooks. Some passed from grandmother to granddaughter. Others came in dreams.
 
-These weren’t treatments pulled from textbooks — they were born of necessity, memory, and myth. Some passed from grandmother to granddaughter. Others came in dreams.
-
-This is the old way: **a folk herbal first aid kit shaped by hands, seasons, and spellcraft.**
-
-
-This is your **folk herbal first aid guide** — gritty, grounded, and real.
+This is your **folk herbal first aid guide** — take notes witches. 
 
 ---
 
