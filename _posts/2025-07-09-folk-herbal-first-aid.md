@@ -16,7 +16,7 @@ Call it folk herbalism, witchcraft, or old country know-how — these remedies w
 
 It was the kind of healing that smells, stains your fingers, and works better than you'd expect.
 
-These weren’t treatments pulled from textbooks. Some passed from grandmother to granddaughter. Others came in dreams.
+These treatments passed from grandmother to granddaughter. Others came in dreams.
 
 This is your **folk herbal first aid guide** — time to take notes from witches and generational healers. 
 
