@@ -12,7 +12,7 @@ categories: [herbalism, witchcraft]
 
 Long before antiseptic wipes and factory-sealed pills, people turned to what they had: leaves, roots, resins, and instinct. The original first responders were witches, midwives, and grandmothers — women who knew what to rub on a sting, steep for a fever, or smear on a burn.
 
-We’re not talking about fantasy potions or polished crystal salves. We’re talking **smoke, spit, pine pitch, and raw garlic**. The kind of medicine that smells like it works. This is your **folk herbal first aid guide** — gritty, grounded, and real.
+We’re talking **smoke, spit, pine pitch, and raw garlic**. The kind of medicine that smells like it works. This is your **folk herbal first aid guide** — gritty, grounded, and real.
 
 ---
 
