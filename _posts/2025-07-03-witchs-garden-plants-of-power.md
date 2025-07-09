@@ -1,6 +1,6 @@
 ---
 title: "How to Start a Real Witch’s Garden: Plants of Power and Tradition"
-excerpt: "This isn't about moon water and matching flowerpots. It's about the dirt, the bloodline, and the herbs our grandmothers trusted. From Balkan Artemisia to Caribbean lemongrass, here’s how to plant with purpose, not pretense."
+excerpt: "This is about the dirt and the herbs our grandmothers trusted. From Balkan Artemisia to Caribbean lemongrass, here’s how to plant with purpose, not pretense."
 categories:
   - Witchcraft
   - Herbal Gardening
