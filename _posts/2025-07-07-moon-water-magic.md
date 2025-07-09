@@ -118,5 +118,5 @@ The moon won’t ask if you’re worthy. She’s already pouring down your name.
 
 ## Related Posts
 
-- [Full Moon Rituals with Sacred Herbs: Folklore & Moon Magic](/full-moon-herbs)
+- [Full Moon Rituals with Sacred Herbs: Folklore & Moon Magic](/full-moon-rituals)
 - [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
