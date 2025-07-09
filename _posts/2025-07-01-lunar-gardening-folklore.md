@@ -113,7 +113,7 @@ Watch this space if you want seeds that carry stories, not just genetics.
 
 Every lunar planting is an act of memory — yours, your ancestors’, or the land’s.
 
-So plant when the moon pulls, not when the market says it’s trendy.
+So plant when the moon pulls, not when the seeds' packet says so.
 
 That’s how witches do it.
 
