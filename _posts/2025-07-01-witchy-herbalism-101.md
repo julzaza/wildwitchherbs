@@ -30,6 +30,8 @@ Pick one herb. Learn it. Work with it. Make tea, burn it, carry it. Pay attentio
 
 Keep a journal. Write what you feel. Be honest. Magic is messy and personal.
 
+You can also learn [How To Start Your Own Witchy Garden](/witch-garden/)
+
 ### The Bottom Line
 
 This isn’t about fluff. It’s about plants with teeth—plants that have shaped witchcraft and folk medicine for centuries. These herbs demand respect, curiosity, and a willingness to learn the hard way sometimes.
@@ -41,6 +43,8 @@ If you want magic, start with the plants that are real, raw, and powerful.
 Stick around. There’s more coming—rituals, recipes, and real talk about what witchy herbalism really means.
 
 ---
+## Related Posts
 
-*No smoke and mirrors here.*  
-— Luna
+- [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
+- [Why Balkan Whitches Survived](/balkan-witches/)
+- [How To Start Your Own Witchy Garden](/witch-garden/)
