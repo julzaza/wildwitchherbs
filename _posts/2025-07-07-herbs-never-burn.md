@@ -124,8 +124,9 @@ These herbs hold power — and don’t poison the air:
 - **Mugwort (Artemisia vulgaris)** — Dreaming, scrying, threshold crossing. Found across Eurasia.  
 - **Cedar** — North American Indigenous smoke medicine. Also used in Sumerian temples.  
 - **Artemisia annua** — Revered in China for thousands of years, tied to spirits and healing.  
-- **Rosemary** — Universally protective, used in funerals, love spells, and exorcisms.  
+- **Rosemary** — Universally protective, used in funerals, love spells, and exorcisms.
 
+  Here is a detailed guide on [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)
 ---
 
 ## Final Words: When Fire Opens More Than It Burns
