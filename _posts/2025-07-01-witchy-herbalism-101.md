@@ -47,4 +47,4 @@ Stick around. There’s more coming—rituals, recipes, and real talk about what
 
 - [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
 - [Why Balkan Whitches Survived](/balkan-witches/)
-- [How To Start Your Own Witchy Garden](/witch-garden/)
+- [Full Moon Rituals With Sacred Herbs ](/full-moon-rituals/)
