@@ -63,7 +63,6 @@ It’s the difference between planting something that thrives and something that
 You can also [Make Moon Water for Witchcraft](/moon-water-magic/) according to the moon's phases.
 
 ---
-
 ## Planting Rituals Across Cultures
 
 Witches didn’t plant just by phase. They planted with **offerings**, **spit**, **songs**, and **superstition** — all tied to the moon.
