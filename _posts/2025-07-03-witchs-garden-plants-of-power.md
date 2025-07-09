@@ -112,8 +112,6 @@ Let’s move past lavender and sage. These herbs carry stories. Their roots go d
 
 ## Real Planting Rituals From Real Traditions
 
-Let’s be done with “plant by the moon and sing to it” advice that leads nowhere. If you want ritual, let’s talk about actual practices:
-
 ###  Soaking and Imbuing  
 - **Balkan midwives** soaked wormwood in warm water to wash newborns — cleansing and protective.
 - **Andean farmers** spit on seeds before planting, adding personal life force to ensure growth.  
