@@ -39,10 +39,6 @@ This isn’t about fluff. It’s about plants with teeth—plants that have shap
 If you want magic, start with the plants that are real, raw, and powerful.
 
 ---
-
-Stick around. There’s more coming—rituals, recipes, and real talk about what witchy herbalism really means.
-
----
 ## Related Posts
 
 - [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
