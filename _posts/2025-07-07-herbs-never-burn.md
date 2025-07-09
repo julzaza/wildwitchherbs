@@ -127,6 +127,7 @@ These herbs hold power — and don’t poison the air:
 - **Rosemary** — Universally protective, used in funerals, love spells, and exorcisms.
 
   Here is a detailed guide on [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)
+  
 ---
 
 ## Final Words: When Fire Opens More Than It Burns
