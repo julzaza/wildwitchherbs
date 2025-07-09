@@ -141,4 +141,4 @@ Build your apothecary. Learn your plants. And remember — you come from a long 
 
 - [Witchy Herbalism 101: Real Plants, Real Magic, No B.S.](/witchy-herbalism-101)
 - [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
-
+- [Why Balkan Whitches Survived](/balkan-witches/)
