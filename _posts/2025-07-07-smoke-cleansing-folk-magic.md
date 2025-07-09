@@ -84,14 +84,14 @@ Bitter and sulfuric. Burned to **break hexes** or for **protection** from the ev
 
 ---
 
-And here are some [Herbs You Should Never Burn in Ritual](/never-burn-herbs/)
-
 ### Artemisia annua — China, Balkans  
 A sharper cousin of mugwort, burned to **ward off disease** and **malicious spirits**. Especially potent in ancestral rituals or protection rites.
 
 **Folk Practice:** Hung and burned during Chinese Ghost Festival. In parts of the Balkans, tossed into ritual fires near cemeteries.
 
 ---
+
+And here are some [Herbs You Should Never Burn in Ritual](/never-burn-herbs/)
 
 ## How to Perform a Smoke Cleansing Ritual
 
