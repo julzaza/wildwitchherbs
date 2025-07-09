@@ -76,7 +76,7 @@ A rare essential oil safe to apply directly (in tiny amounts). Soothes wasp stin
 
 Before silver creams and spray bottles, burn remedies came from the garden, the forest, and the kitchen hearth. Folk healers knew which plants cooled fire and which sealed in the wound — and which ones to avoid.
 
-### Plantain (*Plantago major*) 
+### Plantain (*Plantago major*) Major Star of the Folk First Aid Kit
 
 Used across Europe and the Balkans, plantain leaves are a classic folk remedy for burns. Crushed fresh and applied directly, they draw out heat and reduce swelling. This was often done on the spot — chewed into a poultice and slapped onto the skin.
 
