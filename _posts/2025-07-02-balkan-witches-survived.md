@@ -47,6 +47,8 @@ Simple. Gritty. Real.
 
 And it worked — or people believed it did. In a world with no doctor, no pharmacy, and no help coming, belief is powerful medicine.
 
+Learn more about [Full Moon Rituals ](/full-moon-rituals/) here. 
+
 ---
 
 ### Rituals Rooted in Survival
@@ -94,6 +96,6 @@ If you know a folk ritual passed down in your family — share it in the comment
 ## Related Posts
 
 - [How To Start Your Own Witchy Garden](/witch-garden/)
-- [Herbs You Should Never Burn in Ritual]([/never-burn-herbs/)
+- [Herbs You Should Never Burn in Ritual](/never-burn-herbs/)
 - [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)
 
