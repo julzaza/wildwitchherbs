@@ -340,3 +340,5 @@ defaults:
     values:
       author_profile: false
 
+anchor_links: false
+
