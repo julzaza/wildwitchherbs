@@ -24,10 +24,10 @@ This is your **folk herbal first aid guide** — time to take notes from witches
 
 ## For Cuts and Scrapes
 
-**Yarrow (Achillea millefolium)**  
+### Yarrow (Achillea millefolium)  
 Yarrow is legendary for stopping bleeding — soldiers carried it into battle. Powder the dried leaves or apply fresh bruised ones directly to the wound. It also wards off infection and is gentle on skin.
 
-**Plantain (Plantago major/lanceolata)**  
+### Plantain (Plantago major/lanceolata)  
 That “weed” underfoot? Plantain pulls out dirt, venom, and infection. Chew it into a poultice or mash with a bit of water and press onto wounds. Bonus: it soothes pain almost instantly.
 
 **Witch Tip:** Add a pinch of salt to plantain poultices for stronger drawing power — especially for splinters or infected cuts.
@@ -36,10 +36,10 @@ That “weed” underfoot? Plantain pulls out dirt, venom, and infection. Chew i
 
 ## For Bruises and Swelling
 
-**Arnica (Arnica montana)**  
+### Arnica (Arnica montana)  
 Used externally (never internally!), arnica reduces bruising, swelling, and sprains. Infuse it into oil and apply sparingly — it’s powerful.
 
-**Comfrey (Symphytum officinale)**  
+### Comfrey (Symphytum officinale)  
 Known as “bone-knit,” comfrey accelerates healing for bruises and even broken bones — but don’t use on deep wounds. It seals skin fast and can trap infection.
 
 **Witch Tip:** Wrap comfrey poultices in flannel and chant the old rhyme: *“Comfrey bind, comfrey heal, bone and bruise to quickly seal.”*
@@ -48,10 +48,10 @@ Known as “bone-knit,” comfrey accelerates healing for bruises and even broke
 
 ## For Fevers
 
-**Elderflower (Sambucus nigra)**  
+### Elderflower (Sambucus nigra)  
 Cooling, diaphoretic, and antiviral — elderflower helps “sweat out” a fever gently. Steep as a tea with peppermint or yarrow for stronger effect.
 
-**Linden (Tilia spp.)**  
+### Linden (Tilia spp.)  
 Linden flower is calming, soothing, and safe for children. It lowers fever while relaxing the nerves and helping sleep.
 
 **Witch Tip:** Combine equal parts linden, elderflower, and yarrow to make an old-school fever tea. Drink warm under a blanket and let the sweat do its work.
@@ -60,13 +60,13 @@ Linden flower is calming, soothing, and safe for children. It lowers fever while
 
 ## For Bites and Stings
 
-**Plantain (again!)**  
+### Plantain (again!)  
 Its ability to draw venom and soothe pain makes it your #1 plant for bites and bee stings.
 
-**Basil (Ocimum basilicum)**  
+### Basil (Ocimum basilicum)  
 Crushed basil leaves reduce itching and swelling from mosquito or spider bites. Chew and apply, or bruise them with a stone.
 
-**Lavender Essential Oil**  
+### Lavender Essential Oil  
 A rare essential oil safe to apply directly (in tiny amounts). Soothes wasp stings, burns, and bites.
 
 **Witch Tip:** For spiritual cleansing after a bite or sting (especially from snakes or aggressive animals), burn rosemary and juniper together to cleanse fear from the aura.
@@ -76,19 +76,19 @@ A rare essential oil safe to apply directly (in tiny amounts). Soothes wasp stin
 
 Before silver creams and spray bottles, burn remedies came from the garden, the forest, and the kitchen hearth. Folk healers knew which plants cooled fire and which sealed in the wound — and which ones to avoid.
 
-**Plantain (*Plantago major*)**
+### Plantain (*Plantago major*) 
 
 Used across Europe and the Balkans, plantain leaves are a classic folk remedy for burns. Crushed fresh and applied directly, they draw out heat and reduce swelling. This was often done on the spot — chewed into a poultice and slapped onto the skin.
 
 If you're foraging or growing your own, this is one to always have on hand.
 
-**Calendula (*Calendula officinalis*)**
+### Calendula (*Calendula officinalis*)
 
 A plant of the sun, and often used in folk magic for protection, calendula also calms inflammation. Its petals are used in salves and infused oils to soothe minor burns, sunburns, and skin irritation.
 
 Steeped in oil and strained, calendula becomes a powerful skin healer.
 
-**Aloe Vera**
+### Aloe Vera
 
 While not native to colder climates, aloe has traveled into global folk herbalism. Its cooling gel is used to soothe fresh burns, especially in dry or sun-exposed regions. Slice a leaf and apply the gel directly to the skin.
 
