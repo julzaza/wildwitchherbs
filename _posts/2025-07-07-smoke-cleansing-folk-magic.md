@@ -91,7 +91,7 @@ A sharper cousin of mugwort, burned to **ward off disease** and **malicious spir
 
 ---
 
-And here are some [Herbs You Should Never Burn in Ritual](/never-burn-herbs/)
+And here are [Herbs You Should Never Burn in Ritual](/never-burn-herbs/)
 
 ## How to Perform a Smoke Cleansing Ritual
 
