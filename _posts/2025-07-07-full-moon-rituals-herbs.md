@@ -32,6 +32,8 @@ Create a jar with herbs, salt, water, and written intentions. Seal it under the 
 
 Charge with candlelight and moonlight overnight. Store on your altar or bury at the waning moon to seal a spell.
 
+Learn how to [Make Moon Water](/moon-water-magic/) even when the moon is not full and what to use it for. 
+
 ---
 
 ## Sacred Herbs for Full Moon Rituals
