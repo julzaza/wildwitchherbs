@@ -121,7 +121,7 @@ Let’s move past lavender and sage. These herbs carry stories. Their roots go d
 - **In biodynamic farming** (popular in Europe), moon phases affect root and leaf strength. Root crops on waning moons.  
 - **Old Ukrainian calendars** marked best planting days with religious feasts and lunar signs — folk Catholicism intertwined with pagan rhythms.
   
-  Check out [Lunar Gardening: How Real Witches Plant with the Moon](/lunar-gardening-folklore/) for more on planting according to the moon phases. 
+  Check out [Lunar Gardening: How Real Witches Plant with the Moon](/lunar-gardening-folklore/) for more.
 
 ### Offering Before Digging  
 - In **West African Vodun**, spirits of the land are greeted with offerings before breaking soil.  
