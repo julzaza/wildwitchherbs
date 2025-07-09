@@ -49,17 +49,23 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
-        
-{% assign related = site.posts | where_exp: "post", "post != page" %}
-{% assign shared = "" %}
-{% for post in related %}
-  {% assign intersect = post.tags | concat: post.categories | uniq | where_exp: "tag", "page.tags contains tag or page.categories contains tag" %}
-  {% if intersect.size > 0 %}
-    {% assign shared = shared | append: post.url | append: ";" %}
+
+        {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" | where_exp: "post", "post.tags | uniq | size > 0" | limit: 100 %}
+{% assign matches = "" %}
+
+{% for post in related_posts %}
+  {% assign overlap = false %}
+  {% for tag in post.tags %}
+    {% if page.tags contains tag %}
+      {% assign overlap = true %}
+    {% endif %}
+  {% endfor %}
+  {% if overlap %}
+    {% assign matches = matches | append: post.url | append: ";" %}
   {% endif %}
 {% endfor %}
 
-{% assign related_urls = shared | split: ";" | uniq | reject: "" %}
+{% assign related_urls = matches | split: ";" | uniq | reject: "" %}
 {% assign related_posts = site.posts | where_exp: "post", "related_urls contains post.url" | limit: 3 %}
 
 {% if related_posts.size > 0 %}
@@ -72,6 +78,7 @@ layout: default
     </ul>
   </div>
 {% endif %}
+
 
 
 
