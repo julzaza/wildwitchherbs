@@ -17,7 +17,7 @@ date: 2025-07-02
 permalink: /lunar-gardening-folklore/
 ---
 
-Long before apps and pretty planners told us when to sow seeds, people watched the moon. They didn’t do it for aesthetics. They did it because it worked.
+Long before apps and pretty planners told us when to sow seeds, people watched the moon. They did it because it worked.
 
 Lunar gardening is practical magic. The moon affects ocean tides, animal behavior, even sleep. It affects plants too — especially the water in their cells, the direction of their growth, and the energy they hold when you cut or harvest them.
 
