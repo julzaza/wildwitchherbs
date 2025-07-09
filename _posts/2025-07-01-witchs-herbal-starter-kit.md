@@ -121,3 +121,9 @@ They’re not decorations. They’re **tools of power** — and **witnesses** to
 Start with the ones that call to you. Grow them if you can. Burn their leaves. Drink their roots. Speak their names.
 
 And always — always — show respect.
+
+## Related Posts
+
+- [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
+- [How to Make Moon Water and Use It in Magic](/moon-water-magic)
+- [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)
