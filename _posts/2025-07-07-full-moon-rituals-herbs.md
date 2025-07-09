@@ -11,9 +11,13 @@ permalink: /full-moon-rituals/
 
 ## The Power of the Full Moon in Folk and Witch Traditions
 
-The full moon has always marked a turning point. Across cultures, it’s been seen as a time when the veils grow thin, emotions rise, and old stories surface for reckoning or release. The moon, round and bright, calls the tides and the heart alike. For traditional herbalists, midwives, and witches, this is the time to gather, to craft, to ask, and to answer.
+The full moon has always marked a turning point. Across cultures, it’s been seen as a time when the veils grow thin, emotions rise, and old stories surface for reckoning or release. The moon, round and bright, calls the tides and the heart alike. 
 
-Herbs have long been tied to the moon—not just in theory, but in practice. Whether burned in a circle, brewed into a potion, or tucked under a dreaming head, these plants have shaped rituals in moonlit forests, stone temples, kitchen hearths, and back gardens for generations. Below are full moon traditions that go beyond the surface, grounded in herbal lore and lived memory.
+For traditional herbalists, midwives, and witches, this is the time to gather, to craft, to ask, and to answer.
+
+Herbs have long been tied to the moon—not just in theory, but in practice. Whether burned in a circle, brewed into a potion, or tucked under a dreaming head, these plants have shaped rituals in moonlit forests, stone temples, kitchen hearths, and back gardens for generations. 
+
+Below are full moon traditions that go beyond the surface, grounded in herbal lore and lived memory.
 
 ---
 
