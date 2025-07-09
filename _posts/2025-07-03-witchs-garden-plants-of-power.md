@@ -149,8 +149,8 @@ I’ll soon offer Balkan-grown *Artemisia annua* seeds — not mass-produced, no
 
 ## Final Thought
 
-You’re not growing a brand. You’re growing lineage.
+It's time to grow your own witchy garden. 
 
-Real witchcraft isn’t about image. It’s about tending something real, rooted, and remembered.
+Real witchcraft is about tending something real, rooted, and remembered.
 
-Start there.
+This is your sign to start. 
