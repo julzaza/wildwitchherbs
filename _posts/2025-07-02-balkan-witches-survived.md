@@ -31,6 +31,8 @@ They helped bring babies into the world, eased pain with roots and smoke, protec
 
 To kill the witch here was to cut off your own lifeline.
 
+If you'd like to learn more, here is [Whitchy Herbalism 101](/witchy-herbalism-101/)
+
 ---
 
 ### Folk Magic, Not Fancy Rituals
