@@ -120,5 +120,5 @@ That’s how witches do it.
 
 ## Related Posts
 
-- [Full Moon Rituals with Sacred Herbs](/full-moon-herbs)
+- [Full Moon Rituals with Sacred Herbs](/full-moon-rituals)
 - [How to Make Moon Water and Use It in Magic](/moon-water-magic)
