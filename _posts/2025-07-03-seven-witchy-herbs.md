@@ -42,6 +42,7 @@ Steeped for baths to cleanse illness or spiritual residue. Burned to clear ritua
 
 **Folklore Note:** Hung in Chinese homes during the Ghost Festival to ward off wandering spirits. In Balkan graves, it was planted to keep the “restless” buried.
 
+Learn more about [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)
 ---
 
 ## 2. Frankincense (Boswellia sacra) — Yemen, Oman, Somalia
