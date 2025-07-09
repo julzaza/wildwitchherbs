@@ -72,23 +72,7 @@ A rare essential oil safe to apply directly (in tiny amounts). Soothes wasp stin
 **Witch Tip:** For spiritual cleansing after a bite or sting (especially from snakes or aggressive animals), burn rosemary and juniper together to cleanse fear from the aura.
 
 ---
-
-## How to Prepare a Folk First Aid Kit
-
-Build yours over time. Keep it small, sacred, and real.
-
-- Dried **yarrow**, **plantain**, and **elderflower**
-- Infused oils: **comfrey**, **arnica**, and **lavender**
-- Small tinctures: **echinacea**, **valerian** (for shock), **goldenseal** (for infection)
-- Tools: muslin cloth, mortar & pestle, small glass jars
-- Optional: beeswax for making salves
-
-Label everything, charge them under the moon, and always test on yourself before offering to others.
-
----
 ## Burns, Scalds, and Sunburns
-
-Before silver creams and spray bottles, burn remedies came from the garden, the forest, and the kitchen hearth. Folk healers knew which plants cooled fire and which sealed in the wound — and which ones to avoid.
 
 ### Plantain (*Plantago major*)
 
@@ -112,6 +96,22 @@ While not native to colder climates, aloe has traveled into global folk herbalis
 - Essential oils — too harsh and concentrated for broken or inflamed skin.
 
 Severe burns should always be treated by a professional. These remedies are for mild kitchen mishaps, minor scalds, or sunburns — the kind you might tend with a basket of herbs and a calm hand.
+
+---
+
+## How to Prepare a Folk First Aid Kit
+
+Build yours over time. Keep it small, sacred, and real.
+
+- Dried **yarrow**, **plantain**, and **elderflower**
+- Infused oils: **comfrey**, **arnica**, and **lavender**
+- Small tinctures: **echinacea**, **valerian** (for shock), **goldenseal** (for infection)
+- Tools: muslin cloth, mortar & pestle, small glass jars
+- Optional: beeswax for making salves
+
+Label everything, charge them under the moon, and always test on yourself before offering to others.
+
+---
 
 ##  Warnings & Wisdom
 
