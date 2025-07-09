@@ -49,6 +49,21 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
+        
+        {% if site.related_posts %}
+  <div class="related-posts" style="margin-top: 2rem;">
+    <h3 style="font-size: 1.5rem; font-family: serif;">You Might Also Like</h3>
+    <ul>
+      {% assign related_posts = site.posts | where_exp: "post", "post != page" | where_exp: "post", "post.tags | concat: post.categories | uniq | size > 0" | sample:3 %}
+      {% for post in related_posts %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
+
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
