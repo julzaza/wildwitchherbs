@@ -17,7 +17,7 @@ Before clinics and pharmacies, there were forest paths, kitchen cupboards, and w
 
 These weren’t treatments pulled from textbooks. Some passed from grandmother to granddaughter. Others came in dreams.
 
-This is your **folk herbal first aid guide** — take notes witches. 
+This is your **folk herbal first aid guide** — time to take notes from witches and generational healers. 
 
 ---
 
