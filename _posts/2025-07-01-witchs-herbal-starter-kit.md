@@ -124,6 +124,6 @@ And always — always — show respect.
 
 ## Related Posts
 
-- [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
+- [How To Start Your Own Witchy Garden](/witch-garden/)
 - [How to Make Moon Water and Use It in Magic](/moon-water-magic)
 - [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)
