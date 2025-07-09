@@ -123,7 +123,7 @@ Severe burns should always be treated by a professional. These remedies are for 
 Herbal medicine is potent, real, and not always safe — which is exactly why it works. Treat it with the reverence it deserves.
 
 ---
-Want to grow your own healing herbs? [How to Start a Real Witch’s Garden](/witchs-garden) walks you through what to plant, and why.
+Want to grow your own healing herbs? [How to Start a Real Witch’s Garden](/witch-garden) walks you through what to plant, and why.
 
 If you're new to herbal magic, [Witchy Herbalism 101](/witchy-herbalism-101) is your no-nonsense crash course.
 
@@ -141,4 +141,4 @@ Build your apothecary. Learn your plants. And remember — you come from a long 
 
 - [Witchy Herbalism 101: Real Plants, Real Magic, No B.S.](/witchy-herbalism-101)
 - [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
-- [How to Start a Real Witch’s Garden: Plants of Power and Tradition](/witchs-garden)
+
