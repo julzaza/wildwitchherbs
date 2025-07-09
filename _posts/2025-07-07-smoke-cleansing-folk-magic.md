@@ -84,6 +84,8 @@ Bitter and sulfuric. Burned to **break hexes** or for **protection** from the ev
 
 ---
 
+And here are some [Herbs You Should Never Burn in Ritual](/never-burn-herbs/)
+
 ### Artemisia annua — China, Balkans  
 A sharper cousin of mugwort, burned to **ward off disease** and **malicious spirits**. Especially potent in ancestral rituals or protection rites.
 
@@ -110,3 +112,9 @@ Your ancestors used it to speak across thresholds. Witches used it to mask their
 Don’t let modern aesthetics rob your rituals of their teeth. Pick herbs that **meant something**. Burn them like you mean it.
 
 And always ask — who’s watching, and what are you clearing space for?
+
+## Related Posts
+
+- [Wormwood in Witchcraft and War: From Babylon to Balkan Graves](/wormwood-witchcraft-war)
+- [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
+- [Lunar Gardening: How Real Witches Plant with the Moon](/lunar-gardening-folklore/) 
