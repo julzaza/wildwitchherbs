@@ -60,6 +60,8 @@ It’s the difference between planting something that thrives and something that
 - Best for banishing, binding, endings.  
 - In Caribbean Vodou, offerings were sometimes buried under herbs planted during the waning moon, tying intention into the roots.
 
+
+You can also [Make Moon Water For Witchcraft](/moon-water-magic/) according to its phases.
 ---
 
 ## Planting Rituals Across Cultures
