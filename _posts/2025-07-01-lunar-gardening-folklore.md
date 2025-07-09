@@ -88,7 +88,7 @@ Here are a few herbs tied to the moon — culturally and magically:
 
 ---
 
-## If You Don’t Have Land
+## If You Don't Have Land
 
 Don’t let that stop you.
 
