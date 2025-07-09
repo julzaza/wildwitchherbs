@@ -36,7 +36,7 @@ The answer depends on *who you ask*. That’s the first truth. What’s sacred i
 
 ## 10 Culturally Rooted Witchy Herbs
 
-Let’s move past lavender and sage. These herbs carry stories. Their roots go deeper.
+Let’s move past lavender and sage. These herbs carry stories. Their roots go deep.
 
 ---
 
