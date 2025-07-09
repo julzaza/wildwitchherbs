@@ -97,8 +97,7 @@ While not native to colder climates, aloe has traveled into global folk herbalis
 - Oils or butters (like olive, coconut, or ghee) — they trap heat and may worsen the injury.
 - Essential oils — too harsh and concentrated for broken or inflamed skin.
 
-Severe burns should always be treated by a professional. These remedies are for mild kitchen mishaps, minor scalds, or sunburns — the kind you might tend with a basket of herbs and a calm hand.
-
+Severe burns should always be treated by a professional. These remedies are for mild kitchen mishaps, minor scalds, or sunburns.
 
 ---
 
