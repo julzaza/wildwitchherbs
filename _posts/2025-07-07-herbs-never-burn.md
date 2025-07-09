@@ -136,3 +136,9 @@ Some herbs should never meet flame. Not because they aren’t magical — but be
 So the next time your hand reaches for the match, ask not just what you’re burning — but **why**, and what you’re calling toward you.
 
 Fire listens.
+
+## Related Posts
+
+- [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
+- [How to Make Moon Water and Use It in Magic](/moon-water-magic)
+- [How To Start Your Own Witchy Garden](/witch-garden/)
