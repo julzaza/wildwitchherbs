@@ -46,6 +46,8 @@ Used in Chinese medicine for over 2,000 years. In modern folk witchcraft, it’s
 
 > If you work with disease, death, or spirits, Artemisia annua belongs on your altar.
 
+Dive deeper into understanding  [Wormwood a.k.a. Artemisia in Whitchcraft](/wormwood-witchcraft-war)
+
 ---
 
 ## 4. **Nettle** (*Urtica dioica*) — Boundaries, Blood, and Protection  
