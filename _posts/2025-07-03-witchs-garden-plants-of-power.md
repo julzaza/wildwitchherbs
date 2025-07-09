@@ -154,3 +154,9 @@ It's time to grow your own witchy garden.
 Real witchcraft is about tending something real, rooted, and remembered.
 
 This is your sign to start. 
+
+
+## Related Posts
+
+- [Wormwood in Witchcraft and War: From Babylon to Balkan Graves](/wormwood-witchcraft-war)
+- [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
