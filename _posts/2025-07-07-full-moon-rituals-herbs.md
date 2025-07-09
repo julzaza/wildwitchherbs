@@ -146,7 +146,7 @@ The rituals offered here aren’t instructions. They’re invitations. Make them
 
 ## Related Posts
 
-- [Wormwood in Witchcraft and War: From Babylon to Balkan Graves](/wormwood-in-witchcraft)
+- [Wormwood in Witchcraft and War: From Babylon to Balkan Graves](/wormwood-witchcraft-war)
 - [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
 - [How to Make Moon Water and Use It in Magic](/moon-water-magic)
 
