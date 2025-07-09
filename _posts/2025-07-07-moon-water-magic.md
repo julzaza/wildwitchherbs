@@ -22,7 +22,9 @@ This is not just water. This is a key.
 
 ## What Is Moon Water, Really?
 
-Moon water is simply water that has been placed under the light of the moon to absorb its energy. But don’t confuse simple with weak. The moon rules tides, blood, dreams, sleep, cycles, death, birth, madness, and memory. When you charge water under her eye, you make it a carrier of transformation.
+Moon water is simply water that has been placed under the light of the moon to absorb its energy. But don’t confuse simple with weak. 
+
+The moon rules tides, blood, dreams, sleep, cycles, death, birth, madness, and memory. When you charge water under her eye, you make it a carrier of transformation.
 
 ---
 
