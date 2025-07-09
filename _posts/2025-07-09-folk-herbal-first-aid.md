@@ -86,6 +86,32 @@ Build yours over time. Keep it small, sacred, and real.
 Label everything, charge them under the moon, and always test on yourself before offering to others.
 
 ---
+## Burns, Scalds, and Sunburns
+
+Before silver creams and spray bottles, burn remedies came from the garden, the forest, and the kitchen hearth. Folk healers knew which plants cooled fire and which sealed in the wound — and which ones to avoid.
+
+### Plantain (*Plantago major*)
+
+Used across Europe and the Balkans, plantain leaves are a classic folk remedy for burns. Crushed fresh and applied directly, they draw out heat and reduce swelling. This was often done on the spot — chewed into a poultice and slapped onto the skin.
+
+If you're foraging or growing your own, this is one to always have on hand.
+
+### Calendula (*Calendula officinalis*)
+
+A plant of the sun, and often used in folk magic for protection, calendula also calms inflammation. Its petals are used in salves and infused oils to soothe minor burns, sunburns, and skin irritation.
+
+Steeped in oil and strained, calendula becomes a powerful skin healer.
+
+### Aloe Vera
+
+While not native to colder climates, aloe has traveled into global folk herbalism. Its cooling gel is used to soothe fresh burns, especially in dry or sun-exposed regions. Slice a leaf and apply the gel directly to the skin.
+
+### Do Not Use on Fresh Burns
+
+- Oils or butters (like olive, coconut, or ghee) — they trap heat and may worsen the injury.
+- Essential oils — too harsh and concentrated for broken or inflamed skin.
+
+Severe burns should always be treated by a professional. These remedies are for mild kitchen mishaps, minor scalds, or sunburns — the kind you might tend with a basket of herbs and a calm hand.
 
 ##  Warnings & Wisdom
 
