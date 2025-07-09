@@ -10,7 +10,7 @@ permalink: /moon-water-magic/
 
 ## Not Just a Pretty Jar in Moonlight
 
-Forget crystal-choked Instagram altars for a second. Moon water isn’t aesthetic—it’s a spell. A living, moving force. It has roots far older than new age trends, pulsing through old Slavic wells, Andean lakes, Celtic springs, and desert rainwater collected in secret by Bedouin women who knew the moon was more than myth.
+Forget altars full of colorful crystals for a second. Moon water isn’t aesthetic—it’s a spell. A living, moving force. It has roots far older than new age trends, pulsing through old Slavic wells, Andean lakes, Celtic springs, and desert rainwater collected in secret by Bedouin women who knew the moon was more than myth.
 
 Water remembers. It carries what it touches. It absorbs intention, sound, silence. And under the moon—especially a full or eclipsed one—it becomes charged with power too strange for science to measure but too strong for any real witch to ignore.
 
