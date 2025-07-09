@@ -97,6 +97,9 @@ Label everything, charge them under the moon, and always test on yourself before
 Herbal medicine is potent, real, and not always safe — which is exactly why it works. Treat it with the reverence it deserves.
 
 ---
+Want to grow your own healing herbs? [How to Start a Real Witch’s Garden](/witchs-garden) walks you through what to plant, and why.
+
+If you're new to herbal magic, [Witchy Herbalism 101](/witchy-herbalism-101) is your no-nonsense crash course.
 
 ## Final Thoughts
 
