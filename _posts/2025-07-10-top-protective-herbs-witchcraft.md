@@ -125,9 +125,13 @@ Hung by the hearth or worn as a charm, it keeps out what does not belong—but i
 
 ## Final Spell: The Charm of Thorns and Smoke
 
-To craft a protective charm in the old way, gather any of the following: juniper, mugwort, blackthorn thorn, rue, and basil. Tie them in a red cloth with black thread, whispering your intent. Pass it through incense smoke or over a candle’s flame, and bury it near your threshold—or hang it over your door.
+To craft a protective charm in the old way, gather any of the following: juniper, mugwort, blackthorn thorn, rue, and basil. 
 
-Let your herb guardians watch the gate.
+Tie them in a red cloth with black thread, whispering your intent. 
+
+Pass it through incense smoke or over a candle’s flame, and bury it near your threshold—or hang it over your door.
+
+Let your herb guardians stand sentry.
 
 ---
 
