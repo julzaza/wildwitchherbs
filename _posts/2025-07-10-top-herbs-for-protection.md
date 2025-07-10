@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "a, Top 11 Protective Herbs in Witchcraft"
+title: "aa, Top 11 Protective Herbs in Witchcraft"
 permalink: /top-protective-herbs-witchcraft/
 excerpt: "Explore the top 11 protective herbs in witchcraft—garlic, rue, mugwort, and more. Discover their rich folklore, magical uses, and time-honored spells from witches across the world."
 categories: [Herbal Grimoire]
@@ -73,7 +73,7 @@ Its cousin, *Artemisia annua*, carries this ghost-warding strength into new real
 
 ---
 
-### *Artemisia annua* (Sweet Wormwood)
+### *Sweet Wormwood* (Artemisia Annua)
 
 **The sharp scalpel of protection and purification.**
 
