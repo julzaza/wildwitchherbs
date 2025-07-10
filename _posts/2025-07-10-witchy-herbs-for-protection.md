@@ -136,8 +136,8 @@ In Jewish, Berber, and Arabic traditions, protection is tied to both prayer and 
 These herbs show up across continents, often with remarkably similar uses:
 
  Herb          Used For                                      
- **Rue**       Warding off the evil eye, cleansing spaces    
- **Wormwood**  Driving out spirits, psychic protection       
+ **Rue**       : Warding off the evil eye, cleansing spaces    
+ **Wormwood**  : Driving out spirits, psychic protection       
  **Garlic**    Protection from illness and dark entities     
  **Juniper**   Fire cleansing, ancestral protection          
  **Yarrow**    Strength, soldier’s charm, spiritual defense  
@@ -146,31 +146,6 @@ These herbs show up across continents, often with remarkably similar uses:
  **Anamu**     Banishing, removing hexes, protection spells  
 
 ---
-
-## Key Protective Herbs Across Traditions
-
-Across continents and centuries, witches and folk healers have turned to certain herbs again and again for protection. These plants are more than tools—they’re allies, wardens, and sometimes, tricksters. Each carries with it a deep lineage of stories, rituals, and regional adaptations. Let’s walk the old paths and meet them.
-
-**Garlic** is a powerful guardian spirit across many cultures. In Slavic witchcraft, strings of garlic are hung in doorways to ward off the evil eye and vampiric entities. Balkan grandmothers still tuck cloves under pillows to protect children from night terrors. Even in the Mediterranean, garlic is rubbed on thresholds to keep curses at bay.
-
-**Rue (Ruta graveolens)** is revered in Italian folk magic (la vecchia religione), Latin American curanderismo, and Balkan traditions. It’s the “herb of grace,” used in limpias (cleansing rituals), placed in amulets, or burned to break hexes. In some Slavic and Middle Eastern customs, a woman wearing rue was believed to be impervious to ill will.
-
-**Mugwort (Artemisia vulgaris)** walks between worlds. In Celtic, Slavic, and Japanese traditions alike, it’s used to drive out spirits and protect against dark dreams. Burned before ritual or tucked into clothing, mugwort helps witches travel safely through the liminal spaces—whether those are in dreams or beyond.
-
-**Hyssop** is an ancient purifier, known from Biblical texts and Hoodoo conjure alike. In Afro-Caribbean magic, hyssop is added to spiritual baths to cleanse the aura and cast out spiritual attachments. In the Middle East, it's gathered on sacred hills and used in rituals of protection and repentance.
-
-**Yarrow** stands like a sentinel. In Appalachian rootwork, yarrow was worn in a sachet around the neck for spiritual shielding. In British Isles lore, it’s said that yarrow growing near your door will guard the home from intruders—both human and spirit. Slavic witches used it in love and protection charms, often in combination with other wildflowers.
-
-**Wormwood (Artemisia absinthium)** is a potent and sometimes feared herb. In Eastern European cemeteries, wormwood was planted to keep wandering spirits from rising. In Greek folklore, it was sacred to Artemis and used to ward off illness and madness. Caribbean obeah practitioners may use it in baths or floor washes to remove malicious energy.
-
-**Angelica** has long been called “the root of the Holy Ghost.” Used across Scandinavian, Alpine, and Hoodoo traditions, this tall plant is dried and worn in amulets for powerful spiritual protection. In American folk magic, angelica root is often carried by women for shielding against manipulation or harm.
-
-**Basil** may seem common, but its magical uses run deep. In West African and Afro-Caribbean traditions, basil is a purifier—used in house washes and baths to dispel negative spirits. In Balkan and Slavic homes, holy water is made with basil, used to anoint doorways and corners of rooms.
-
-**Juniper** berries and branches are used for smoke cleansing in Northern European and Siberian traditions. In the Balkans, juniper is burned to protect livestock and children during eclipses or solstice rites. Its sharp scent was believed to drive off witches—ironically, the very people who often used it in their own practices.
-
-**Blackthorn (Prunus spinosa)** isn’t for the faint-hearted. In Celtic and Appalachian lore, it’s known as a tree of boundaries and battle. Carried or hung near the door, it is said to keep dark spirits and curses at bay. But beware—Blackthorn magic walks a fine line. It’s a protective force, yes, but also a weapon.
-## Final Spell: Herb Door Charm
 
 Want to try something simple and traditional?
 
