@@ -12,7 +12,7 @@ tags:
   - witchcraft
   - planting rituals
   - herbal traditions
-author: Luna
+related: true
 date: 2025-07-02
 permalink: /lunar-gardening-folklore/
 ---
