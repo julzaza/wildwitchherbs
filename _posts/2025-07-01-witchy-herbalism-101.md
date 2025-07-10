@@ -30,7 +30,9 @@ Pick one herb. Learn it. Work with it. Make tea, burn it, carry it. Pay attentio
 
 Keep a journal. Write what you feel. Be honest. Magic is messy and personal.
 
-Learning [How to Make Moon Water and Use It in Magic](/moon-water-magic) is a simple way to begin your witchy journey. You can also [Start Your Own Witchy Garden](/witch-garden/) if rolling up your sleeves and getting your hands dirty is your thing.
+Learning [How to Make Moon Water and Use It in Magic](/moon-water-magic) is a simple way to begin your witchy journey. 
+
+You can also [Start Your Own Witchy Garden](/witch-garden/) if that's your thing.
 
 ### The Bottom Line
 
