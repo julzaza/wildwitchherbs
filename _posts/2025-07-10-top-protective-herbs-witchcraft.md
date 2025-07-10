@@ -45,7 +45,7 @@ The Germanic name for mugwort means “midge-plant,” referencing its power to 
 
 ---
 
-### *Artemisia annua* (Sweet Wormwood)
+### *Sweet Wormwood* (Artemisia Annua)
 
 **The sharp scalpel of protection and purification.**
 
