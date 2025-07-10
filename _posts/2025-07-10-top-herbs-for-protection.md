@@ -43,6 +43,16 @@ Its old Germanic name meaning “midge-plant” hints at its protective force ag
 
 ---
 
+### *Sweet Wormwood* (Artemisia Annua)
+
+**The sharp scalpel of protection and purification.**
+
+Burned in Chinese folk rituals to banish “hot demons” of fever and spirit affliction, *Artemisia annua* has long been revered for its cleansing fire. Eastern European witches and healers treat it with reverence, using it to sever disease and dark curses alike.
+
+Unlike mugwort’s gentle guidance, sweet wormwood cuts deep—cleansing, sealing, and purging harmful energies. Balkan midwives once burned it during birth and burial rites, times when the veil between worlds thins. This herb does not simply protect—it purges and renews.
+
+---
+
 ### Hyssop
 
 **Purifier of body, spirit, and home.**
@@ -70,16 +80,6 @@ If yarrow grows wild near your door, folklore says your home is already under na
 Wormwood’s bitter scent was once the spiritual boundary between life and death. In Eastern Europe, cemeteries were ringed with wormwood to keep restless spirits at bay. In Greece, it was sacred to Artemis, protector against illness and madness. Caribbean obeah burns wormwood to cleanse spaces heavy with lingering pain and old curses.
 
 Its cousin, *Artemisia annua*, carries this ghost-warding strength into new realms.
-
----
-
-### *Sweet Wormwood* (Artemisia Annua)
-
-**The sharp scalpel of protection and purification.**
-
-Burned in Chinese folk rituals to banish “hot demons” of fever and spirit affliction, *Artemisia annua* has long been revered for its cleansing fire. Eastern European witches and healers treat it with reverence, using it to sever disease and dark curses alike.
-
-Unlike mugwort’s gentle guidance, sweet wormwood cuts deep—cleansing, sealing, and purging harmful energies. Balkan midwives once burned it during birth and burial rites, times when the veil between worlds thins. This herb does not simply protect—it purges and renews.
 
 ---
 
