@@ -45,6 +45,16 @@ The Germanic name for mugwort means “midge-plant,” referencing its power to 
 
 ---
 
+### *Artemisia annua* (Sweet Wormwood)
+
+**The sharp scalpel of protection and purification.**
+
+Burned in Chinese folk rituals to banish “hot demons” of fever and spirit affliction, *Artemisia annua* has long been revered for its cleansing fire. Eastern European witches and healers treat it with reverence, using it to sever disease and dark curses alike.
+
+Unlike mugwort’s gentle guidance, sweet wormwood cuts deep—cleansing, sealing, and purging harmful energies. Balkan midwives once burned it during birth and burial rites, times when the veil between worlds thins. This herb does not simply protect—it purges and renews.
+
+---
+
 ### Hyssop
 
 **The purifier of the soul and home.**
