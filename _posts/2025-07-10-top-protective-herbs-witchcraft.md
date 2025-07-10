@@ -107,7 +107,7 @@ In folk magic, it’s burned to invite in good spirits and expel malevolent ones
 
 **Smoke, thorn, and spirit shield.**
 
-In Siberian and Scandinavian rites, juniper is burned to cleanse and shield. In the Balkans, its thorny branches are hung in barns and over cribs to protect livestock and newborns. Solstice fires fueled with juniper invoke light and burn away spirits of chaos.
+In Siberian and Scandinavian shamanism, juniper is burned to cleanse and shield. In the Balkans, its thorny branches are hung in barns and over cribs to protect livestock and newborns. Solstice fires fueled with juniper invoke light and burn away spirits of chaos.
 
 Juniper has a harsh edge. Even among witches, it’s treated with caution and respect.
 
