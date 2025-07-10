@@ -11,7 +11,7 @@ tags: [protection, herbs, witchcraft, folklore, rituals, spellcraft]
 
 Across centuries and continents, witches, cunning folk, and healers have turned to the green world for protection. These herbs are not just medicine or magic—they are guardians, allies, and sometimes tricksters. Each one comes with its own bundle of stories, regional beliefs, and ritual power.
 
-Let’s walk the old paths and meet the ten most enduring protective herbs in witchcraft, from Appalachian hills to Slavic meadows and Caribbean shores.
+Let’s walk the old paths and meet the eleven most enduring protective herbs in witchcraft, from Appalachian hills to Slavic meadows and Caribbean shores.
 
 ### Garlic
 
