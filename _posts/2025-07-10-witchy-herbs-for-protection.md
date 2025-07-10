@@ -54,7 +54,7 @@ Balkan hedgewitches and "baba vračare" used herbs both practically and magicall
 
 ---
 
-## 🜁 Celtic Druidic Lore
+## 🜂 Celtic Druidic Lore
 
 Druidic and folk traditions across Ireland, Scotland, and Wales treated protection as sacred duty.
 
@@ -65,7 +65,7 @@ Druidic and folk traditions across Ireland, Scotland, and Wales treated protecti
 
 ---
 
-## 🜁 Nordic and Norse Witchcraft
+## 🜂 Nordic and Norse Witchcraft
 
 The Norse völur (seeresses) and folk healers used herbs in seiðr (magic) and daily life.
 
@@ -76,7 +76,7 @@ The Norse völur (seeresses) and folk healers used herbs in seiðr (magic) and d
 
 ---
 
-## 🜁 Romani Traditions
+## 🜂 Romani Traditions
 
 Romani magic is rich with herbal knowledge, passed orally through generations.
 
@@ -87,7 +87,7 @@ Romani magic is rich with herbal knowledge, passed orally through generations.
 
 ---
 
-## 🜁 Appalachian Folk Magic
+## 🜂 Appalachian Folk Magic
 
 Rootworkers and “granny witches” of the Appalachians blended Christian faith with deep plant knowledge.
 
@@ -98,7 +98,7 @@ Rootworkers and “granny witches” of the Appalachians blended Christian faith
 
 ---
 
-## 🜁 African Diaspora Traditions (Hoodoo, Vodou, Obeah)
+## 🜂 African Diaspora Traditions (Hoodoo, Vodou, Obeah)
 
 Spanning the American South to the Caribbean, these systems use herbs with **spirit-led precision**.
 
@@ -109,7 +109,7 @@ Spanning the American South to the Caribbean, these systems use herbs with **spi
 
 ---
 
-## 🜁 Caribbean Witchcraft (Obeah, Santería, Espiritismo)
+## 🜂 Caribbean Witchcraft (Obeah, Santería, Espiritismo)
 
 These traditions interweave Catholicism, African beliefs, and island-specific plant lore.
 
@@ -120,7 +120,7 @@ These traditions interweave Catholicism, African beliefs, and island-specific pl
 
 ---
 
-## 🜁 Middle Eastern and North African Witchcraft
+## 🜂 Middle Eastern and North African Witchcraft
 
 In Jewish, Berber, and Arabic traditions, protection is tied to both prayer and plant.
 
@@ -131,7 +131,7 @@ In Jewish, Berber, and Arabic traditions, protection is tied to both prayer and 
 
 ---
 
-## 🔐 Key Protective Herbs Across Traditions
+##  Key Protective Herbs Across Traditions
 
 These herbs show up across continents, often with remarkably similar uses:
 
