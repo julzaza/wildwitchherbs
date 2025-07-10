@@ -187,7 +187,7 @@ Want to try something simple and traditional?
 3. Hang it above your front door, inside or outside.
 
 Repeat:
-> _“No evil may cross, no harm may stay. Herb and salt guard night and day.”_
+“No evil may cross, no harm may stay. Herb and salt guard night and day.”_
 
 ---
 
