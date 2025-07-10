@@ -51,23 +51,6 @@ layout: default
         {{ content }}
 
 
-  
-{% assign related_urls = matches | split: ";" | uniq | reject: "" %}
-{% assign related_posts = site.posts | where_exp: "post", "related_urls contains post.url" | limit: 3 %}
-
-{% if related_posts.size > 0 %}
-  <div class="related-posts-box">
-    <h3 class="related-posts-title">You Might Also Like</h3>
-    <ul class="related-posts-list">
-      {% for post in related_posts %}
-        <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
-{% endif %}
-
-
-
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
