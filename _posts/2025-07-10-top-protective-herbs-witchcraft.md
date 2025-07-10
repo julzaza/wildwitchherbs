@@ -7,7 +7,7 @@ categories: [Herbal Grimoire]
 tags: [protection, herbs, witchcraft, folklore, rituals, spellcraft]
 ---
 
-## Witches Rely on Plants for Protection 
+## Witches Rely on The Plant Kingdom for Protection 
 
 Across centuries and continents, witches, cunning folk, and healers have turned to the green world for protection. These herbs are not just medicine or magic—they are guardians, allies, and sometimes tricksters. Each one comes with its own bundle of stories, regional beliefs, and ritual power.
 
