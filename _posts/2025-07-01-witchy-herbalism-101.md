@@ -36,9 +36,9 @@ You can also [Start Your Own Witchy Garden](/witch-garden/) if that's your thing
 
 ### The Bottom Line
 
-This isn’t about fluff. It’s about plants with teeth—plants that have shaped witchcraft and folk medicine for centuries. These herbs demand respect, curiosity, and a willingness to learn the hard way sometimes.
+These are plants that have shaped witchcraft and folk medicine for centuries. They demand respect, curiosity, and a willingness to learn the hard way sometimes.
 
-If you want magic, start with the plants that are real, raw, and powerful.
+If you want magic, start with one or a few of these herbs, they are truly powerful.
 
 ---
 ## Related Posts
