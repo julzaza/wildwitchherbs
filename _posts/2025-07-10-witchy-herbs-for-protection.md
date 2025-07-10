@@ -136,14 +136,14 @@ In Jewish, Berber, and Arabic traditions, protection is tied to both prayer and 
 These herbs show up across continents, often with remarkably similar uses:
 
                              
- **Rue**         : Warding off the evil eye, cleansing spaces    
- **Wormwood**    : Driving out spirits, psychic protection       
- **Garlic**    Protection from illness and dark entities     
- **Juniper**   Fire cleansing, ancestral protection          
- **Yarrow**    Strength, soldier’s charm, spiritual defense  
- **Sage**      Smoke purification, banishment                
- **Angelica**  Barrier against sickness and ill intent       
- **Anamu**     Banishing, removing hexes, protection spells  
+ **Rue:**       Warding off the evil eye, cleansing spaces    
+ **Wormwood:**  Driving out spirits, psychic protection       
+ **Garlic:**    Protection from illness and dark entities     
+ **Juniper:**   Fire cleansing, ancestral protection          
+ **Yarrow:**    Strength, soldier’s charm, spiritual defense  
+ **Sage:**      Smoke purification, banishment                
+ **Angelica:**  Barrier against sickness and ill intent       
+ **Anamu:**     Banishing, removing hexes, protection spells  
 
 ---
 
@@ -168,7 +168,9 @@ Repeat:
 
 ## Closing Thoughts
 
-Protection isn’t paranoia—it’s preparation. These herbs connect us to ancestors who knew how to listen to plants, read the signs, and keep harm at bay. Whether you walk barefoot in the woods or light a candle in a city apartment, these traditions are yours to adapt and carry on.
+Protection isn’t paranoia—it’s preparation. These herbs connect us to ancestors who knew how to listen to plants, read the signs, and keep harm at bay. 
+
+Whether you walk barefoot in the woods or light a candle in a city apartment, these traditions are yours to adapt and carry on.
 
 Let the plants protect you—boldly, softly, completely.
 
