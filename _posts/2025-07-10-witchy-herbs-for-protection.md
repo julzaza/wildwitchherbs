@@ -22,7 +22,7 @@ author_profile: false
 read_time: true
 comments: true
 share: true
-related: false
+related: true
 layout: single
 permalink: /witchy-herbs-for-protection/
 
