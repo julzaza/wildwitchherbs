@@ -1,6 +1,22 @@
 ---
 title: "Witchy Herbs for Protection: Global Folk Magic and Herbal Lore"
 excerpt: "Across continents and centuries, witches have used protective herbs to ward off evil, shield the spirit, and guard the home. This in-depth post explores key herbs and rituals from Slavic, Celtic, Nordic, Romani, African Diaspora, Middle Eastern, Appalachian, and Balkan traditions."
+categories: [witchcraft, spells, rituals]
+tags:
+  - protection
+  - herbal magic
+  - magical herbs
+  - folklore
+  - Celtic witchcraft
+  - Slavic witchcraft
+  - Balkan witchcraft
+  - Appalachian magic
+  - Caribbean witchcraft
+  - African traditional medicine
+  - Middle Eastern magic
+  - warding
+  - folk magic
+  - regional witchcraft
 date: 2025-07-10
 author_profile: false
 read_time: true
