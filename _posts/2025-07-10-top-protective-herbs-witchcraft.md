@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "Top 10 Protective Herbs in Witchcraft"
+title: "Top 11 Protective Herbs in Witchcraft"
 permalink: /top-protective-herbs-witchcraft/
 excerpt: "Explore the top 10 protective herbs in witchcraft—garlic, rue, mugwort, and more. Discover their folklore, magical uses, and the powerful protection spells used by witches across cultures."
 categories: [Herbal Grimoire]
 tags: [protection, herbs, witchcraft, folklore, rituals, spellcraft]
 ---
 
-## Top 10 Protective Herbs in Witchcraft
+## Top 11 Protective Herbs in Witchcraft
 
 Across centuries and continents, witches, cunning folk, and healers have turned to the green world for protection. These herbs are not just medicine or magic—they are guardians, allies, and sometimes tricksters. Each one comes with its own bundle of stories, regional beliefs, and ritual power.
 
@@ -72,6 +72,12 @@ Some witches say that if yarrow grows near your door, your home is already bless
 Feared and revered, wormwood’s scent alone was said to drive off spirits of the restless dead. Eastern European cemeteries were once rimmed with this bitter plant. In Balkan and Greek rites, it was used to repel madness and misfortune. Caribbean spiritualists burn it in protective smoke rituals to cleanse spaces heavy with old pain.
 
 Its ally, Artemisia annua, shares its ghost-walking strength.
+
+---
+
+###Artemisia annua (Sweet Wormwood) 
+
+It carries the sharp edge of plague and prophecy. In Chinese folk medicine, it was burned to drive out “hot demons”—fevers, malevolent spirits, and lingering death energy. In Eastern European traditions, witches and healers treated it with caution and respect, calling on it to banish disease and curse-bound spirits. Unlike its cousin mugwort, which guides between worlds, annua acts more like a magical scalpel—cleansing, cutting, and sealing. During times of illness or energetic infestation, it’s burned in bundles, infused into oils, or carried in sachets to ward off unseen attackers. Balkan midwives once used it during birth and burial rites—moments when the veil thins—to guard both soul and body from wandering forces. Sweet Wormwood doesn’t just protect—it purges.
 
 ---
 
