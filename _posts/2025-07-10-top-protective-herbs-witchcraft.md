@@ -85,12 +85,6 @@ Its ally, Artemisia annua, shares its ghost-walking strength.
 
 ---
 
-### Artemisia annua (Sweet Wormwood) 
-
-It carries the sharp edge of plague and prophecy. In Chinese folk medicine, it was burned to drive out “hot demons”—fevers, malevolent spirits, and lingering death energy. In Eastern European traditions, witches and healers treated it with caution and respect, calling on it to banish disease and curse-bound spirits. Unlike its cousin mugwort, which guides between worlds, annua acts more like a magical scalpel—cleansing, cutting, and sealing. During times of illness or energetic infestation, it’s burned in bundles, infused into oils, or carried in sachets to ward off unseen attackers. Balkan midwives once used it during birth and burial rites—moments when the veil thins—to guard both soul and body from wandering forces. Sweet Wormwood doesn’t just protect—it purges.
-
----
-
 ### Angelica
 
 **The Holy Ghost’s root, a woman’s protector.**
