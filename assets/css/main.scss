@@ -13,47 +13,5 @@ search: false
   display: none !important;
 }
 
-.related-posts-box {
-  padding: 1rem;
-  background-color: #f9f6f0;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  margin-top: 2rem;
-}
-
-.related-posts-title {
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 1.5rem;
-  margin-bottom: 1rem;
-  text-align: center;
-}
-
-.related-posts-list {
-  list-style: none;
-  padding: 0;
-  text-align: center;
-}
-
-.related-posts-list li {
-  margin-bottom: 0.5rem;
-}
-
-.related-posts-list a {
-  text-decoration: none;
-  color: #333;
-}
-
-.related-posts-list a:hover {
-  text-decoration: underline;
-  color: #6b705c;
-}
-
-/* ✅ Responsive behavior fix — ensure not hidden on mobile */
-@media screen and (max-width: 768px) {
-  .related-posts-box {
-    display: block !important;
-    visibility: visible !important;
-  }
-}
 
 @import "custom";
