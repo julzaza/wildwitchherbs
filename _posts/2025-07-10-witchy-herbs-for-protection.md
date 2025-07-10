@@ -3,10 +3,6 @@ title: "Witchy Herbs for Protection: Global Folk Magic and Herbal Lore"
 excerpt: "Across continents and centuries, witches have used protective herbs to ward off evil, shield the spirit, and guard the home. This in-depth post explores key herbs and rituals from Slavic, Celtic, Nordic, Romani, African Diaspora, Middle Eastern, Appalachian, and Balkan traditions."
 categories: [witchcraft, spells, rituals]
 tags:
-  - protection
-  - herbal magic
-  - magical herbs
-  - folklore
   - Celtic witchcraft
   - Slavic witchcraft
   - Balkan witchcraft
@@ -15,7 +11,6 @@ tags:
   - African traditional medicine
   - Middle Eastern magic
   - warding
-  - folk magic
   - regional witchcraft
 date: 2025-07-10
 author_profile: false
@@ -30,9 +25,9 @@ permalink: /witchy-herbs-for-protection/
 
 ## Introduction: The Need for Protection
 
-From whispered charms in shadowed woods to smoke rising from clay hearths, witches have always understood the unseen. Protection wasn’t just spiritual—it was survival. Illness, envy, spirits, and strangers all posed risks. Herbs became allies, grown or gathered not just for healing but to **protect the body, the home, the soul**.
+Witches have always understood the unseen. Illness, envy, spirits, and strangers all posed risks. Herbs became allies, grown or gathered not just for healing but to **protect the body, the home, the soul**.
 
-This post explores how different witchcraft traditions used plants for protection—what they burned, bathed in, buried, hung over doors, or stitched into pouches. Each culture offers a glimpse into a world where nature and magic meet.
+Let's explore how different witchcraft traditions used plants for protection—what they burned, bathed in, buried, hung over doors, or stitched into pouches. Each culture offers a glimpse into a world where nature and magic meet.
 
 ---
 
