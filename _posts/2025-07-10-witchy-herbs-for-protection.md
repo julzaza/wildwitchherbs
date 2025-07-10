@@ -4,11 +4,9 @@ excerpt: "Across continents and centuries, witches have used protective herbs to
 date: 2025-07-10
 author_profile: false
 read_time: true
-comments: false
+comments: true
 share: true
 related: false
-toc: true
-toc_label: "Regions of Witchcraft"
 layout: single
 permalink: /witchy-herbs-for-protection/
 
@@ -168,4 +166,8 @@ Let the plants protect you—boldly, softly, completely.
 
 ---
 
+## Related Posts 
+
+- [How to Make Moon Water and Use It in Magic](/moon-water-magic)
+- [How To Start Your Own Witchy Garden](/witch-garden/)
 
