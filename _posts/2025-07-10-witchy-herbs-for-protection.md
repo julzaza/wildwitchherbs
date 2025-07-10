@@ -6,7 +6,6 @@ author_profile: false
 comments: false
 share: true
 related: true
-classes: wide
 meta_description: "Discover powerful witchy herbs for protection from Balkan, Slavic, Appalachian, and Caribbean folklore. Learn how witches have used these plants to ward off evil and cast protective spells."
 ---
 
