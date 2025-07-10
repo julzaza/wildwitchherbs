@@ -7,7 +7,7 @@ categories: [Herbal Grimoire]
 tags: [protection, herbs, witchcraft, folklore, rituals, spellcraft]
 ---
 
-## Top 11 Protective Herbs in Witchcraft
+## Witches Rely on Plants for Protection 
 
 Across centuries and continents, witches, cunning folk, and healers have turned to the green world for protection. These herbs are not just medicine or magic—they are guardians, allies, and sometimes tricksters. Each one comes with its own bundle of stories, regional beliefs, and ritual power.
 
@@ -21,7 +21,7 @@ In Slavic and Balkan traditions, garlic is hung in doorways or braided and place
 
 In Mediterranean folk magic, garlic is rubbed on doorframes to keep misfortune out. In Hoodoo and African American rootwork, it's used in protective floor washes and personal mojo bags.
 
-Garlic doesn’t just repel—it commands respect.
+Garlic is also one of the offerings made to Hecate, the goddess of magic and witchcraft. 
 
 ---
 
