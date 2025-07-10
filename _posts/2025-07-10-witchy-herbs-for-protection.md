@@ -135,9 +135,9 @@ In Jewish, Berber, and Arabic traditions, protection is tied to both prayer and 
 
 These herbs show up across continents, often with remarkably similar uses:
 
- Herb          Used For                                      
- **Rue**       : Warding off the evil eye, cleansing spaces    
- **Wormwood**  : Driving out spirits, psychic protection       
+                             
+ **Rue**         : Warding off the evil eye, cleansing spaces    
+ **Wormwood**    : Driving out spirits, psychic protection       
  **Garlic**    Protection from illness and dark entities     
  **Juniper**   Fire cleansing, ancestral protection          
  **Yarrow**    Strength, soldier’s charm, spiritual defense  
