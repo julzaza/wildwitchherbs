@@ -145,8 +145,11 @@ These herbs show up across continents, often with remarkably similar uses:
  **Angelica:**  Barrier against sickness and ill intent       
  **Anamu:**     Banishing, removing hexes, protection spells  
 
+ To find out which plants are the most potent against the dark forces, check out [11 Top Whitchy Herbs for Protection](/top-protective-herbs-witchcraft/).
+
 ---
 
+## Make a Spell
 Want to try something simple and traditional?
 
 **Materials:**
@@ -165,8 +168,6 @@ Repeat:
 **“No evil may cross, no harm may stay. Herb and salt guard night and day.”**
 
 ---
-To find out which plants are the most potent against the dark forces, check out [11 Top Whitchy Herbs for Protection](/top-protective-herbs-witchcraft/).
-
 
 ## Closing Thoughts
 
