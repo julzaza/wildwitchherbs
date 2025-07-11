@@ -71,3 +71,4 @@ Its yellow flowers were thought to bleed red when crushed—symbolizing **wounds
 
 - [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)
 - [St. John's Wort Sun Water for Joy and Light](/st-johns-wort-sun-water/)
+- [Stinging Nettle Moon Water to Cut Ties and Attachments](/stinging-nettle-moon-water/)
