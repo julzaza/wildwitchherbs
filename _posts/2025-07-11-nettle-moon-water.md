@@ -69,7 +69,7 @@ You will need:
 
 ## Spell: Nettle Moon Armor
 
-Perform during the full moon.
+**Perform during the full moon.**
 
 > “Moon above, nettle below,  
 > Shield me now from friend or foe.  
