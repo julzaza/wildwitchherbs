@@ -86,15 +86,16 @@ Its ally, Artemisia annua, shares its ghost-walking strength.
 
 ---
 
-### Angelica
+### Angelica (*Angelica archangelica*)  
+**The archangel’s gift and women’s ward.**
 
-**The Holy Ghost’s root, a woman’s protector.**
+Tall and luminous, angelica was once believed to bloom on the feast of St. Michael, and so it earned the name “Archangel Root.” In Nordic and Appalachian folk magic, angelica is worn to ward off illness, enchantment, and malevolent forces—especially for women and children.
 
-Tall and luminous, angelica grows wild in Nordic hills and Appalachian hollers. In Hoodoo and European folk magic alike, it’s dried and carried to ward off evil, especially by women. In some Balkan traditions, it’s used to protect children and infants from illness caused by the evil eye or bad spirits.
+In Hoodoo, it is known as a powerful protector for women against abuse or spiritual attack. A piece of root carried in the pocket serves as a charm of strength and divine backing.
 
 ---
 
-### Basil
+### Basil (*Ocimum basilicum*) 
 
 **The ordinary herb with extraordinary power.**
 
@@ -104,7 +105,7 @@ In folk magic, it’s burned to invite in good spirits and expel malevolent ones
 
 ---
 
-### Juniper
+### Juniper (*Juniperus communis*)  
 
 **Smoke, thorn, and spirit shield.**
 
@@ -115,20 +116,17 @@ Juniper has a harsh edge. Even among witches, it’s treated with caution and re
 ---
 
 ### Blackthorn (Prunus spinosa)
+**The witch’s hedge and warrior’s staff.**
 
-**Boundary magic, spine and shadow.**
+Dark, thorny, and fierce, blackthorn grows at the edge of wild places. In Celtic folklore, it is the tree of spiritual battle. Its wood is carved into protective wands and staves, used to break curses or cast circles in times of magical war.
 
-In Celtic and Appalachian folklore, blackthorn is a tree of battle and protection. Its wood is used for wands and walking staffs meant to break curses and drive away the dead.
-
-Hung by the hearth or worn as a charm, it keeps out what does not belong—but it can also turn the tide in magical war. Use wisely.
+Hung above the hearth or worn as an amulet, it keeps out intruders—both human and otherwise.
 
 ---
 
-## Final Spell: The Charm of Thorns and Smoke
+## Spell: The Charm of Thorns and Smoke
 
-To craft a protective charm in the old way, gather any of the following: juniper, mugwort, blackthorn thorn, rue, and basil. 
-
-Tie them in a red cloth with black thread, whispering your intent. 
+To create an old-world protective charm, gather any of the following: **juniper, mugwort, rue, blackthorn thorn, basil.** Wrap them in a piece of red cloth, tie tightly with black thread, and whisper your intent as you bind it. 
 
 Pass it through incense smoke or over a candle’s flame, and bury it near your threshold—or hang it over your door.
 
