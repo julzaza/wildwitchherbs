@@ -7,7 +7,7 @@ categories: [Herbal Grimoire]
 tags: [St John's Wort, sun water, summer solstice, joy, folk magic, herbal ritual]
 ---
 
-## Sun Water with St. John's Wort: Golden Light for Heavy Days
+## It's Golden Light for Heavy Days
 
 **St. John’s Wort (*Hypericum perforatum*) is the herb of the sun.** It bursts into yellow bloom at the height of summer, near the **summer solstice** or **St. John’s Day (June 24)**—a time long considered powerful for harvesting herbs and making magical preparations.
 
@@ -59,6 +59,29 @@ In Cornwall, it was even said that hanging it in the window would prevent thunde
 
 - This water is for **external or ritual use only** unless you're working with food-safe, properly identified herbs.
 - St. John’s Wort can cause **sun sensitivity** when taken internally. Be cautious when handling fresh flowers in strong sunlight.
+
+---
+
+## Make St. John's Wort Sun Water Safe for Drinking:
+
+- use spring water, rainwater that you’re sure is clean, or boiled/cooled water
+
+- only speak or chant your intention, rather than placing inked paper or talismans inside
+
+- use edible, food-safe St. John’s Wort (in small amounts)
+
+- use glass jars, not metal or plastic which could leach under sunlight
+
+- strain the herb out immediately after infusion to avoid bacterial growth
+
+---
+
+## Caution with St. John’s Wort:
+- St. John’s Wort can interact with medications, increase sun sensitivity, and affect mood or liver enzymes.
+
+- Small amounts (like one or two fresh blossoms steeped for a few hours) in a tea or water infusion are usually safe for most healthy adults, but it’s always good to check with an herbalist or doctor.
+
+- Avoid drinking sun-exposed water that’s been left out too long (over 6–8 hours), especially in hot climates.
 
 ---
 
