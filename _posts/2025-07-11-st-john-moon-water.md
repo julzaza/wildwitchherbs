@@ -63,6 +63,8 @@ Its yellow flowers were thought to bleed red when crushed—symbolizing **wounds
 
 ---
 
-**Use this moon water to light a lantern through grief, not to banish it—but to walk with it, gently.**
+**Grieving is a process and it takes time. Take your time and use this moon water to light a lantern through sorrow and loss, not to banish it—but to walk with it, gently.**
 
 ---
+
+Grieving is a process and it takes time. Take your time and 
