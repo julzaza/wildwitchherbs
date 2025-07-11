@@ -1,13 +1,12 @@
 ---
 layout: single
-title: "Stinging Nettle Moon Water: Magic for Protection, Courage, and Boundaries"
+title: "Stinging Nettle Moon Water: Magic for Courage and Cutting Ties"
 permalink: /stinging-nettle-moon-water/
 excerpt: "Stinging nettle may not be the first herb witches reach for during moon rituals, but its fiery, protective strength pairs beautifully with lunar magic. Learn how to make and use nettle moon water for banishing, courage, and ancestral power."
 categories: [Herbal Grimoire]
 tags: [nettle, moon water, protection magic, ancestral magic, banishing, folk magic, herbal rituals]
 ---
 
-## Stinging Nettle Moon Water: Magic for Protection, Courage, and Boundaries
 
 Stinging nettle (*Urtica dioica*) is an incredibly potent plant ally for moon water magic, especially when you're working with themes of **protection**, **banishing**, **courage**, and **ancestral strength**. While not as commonly used in lunar workings as herbs like mugwort or jasmine, nettle’s wild and fiery nature makes it a powerful complement to the moon’s cold, intuitive energy.
 
@@ -16,7 +15,7 @@ Stinging nettle (*Urtica dioica*) is an incredibly potent plant ally for moon wa
 ## Magical Properties of Stinging Nettle
 
 - **Protection** – Wards off hexes, evil eyes, curses, and unwanted energies.  
-- **Banishing** – Burns through spiritual stagnation and harmful attachments, especially emotional ones.  
+- **Banishing** – Burns through spiritual stagnation and harmful attachments, especially emotional ones. 
 - **Courage + Vitality** – Acts as magical armor, supporting emotional resilience and assertiveness.  
 - **Ancestral Connection** – With deep folk roots in Europe, nettle can help connect with ancestral wisdom, particularly through maternal lines or warrior spirits.  
 - **Survival and Boundaries** – Teaches self-reliance, discernment, and strength.
