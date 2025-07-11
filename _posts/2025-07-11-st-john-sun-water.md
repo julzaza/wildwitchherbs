@@ -77,7 +77,7 @@ In the Soviet Union, St. John’s Wort was widely used in folk medicine for its 
 ---
 
 ## Caution with St. John’s Wort:
-- St. John’s Wort can interact with medications, increase sun sensitivity.
+- St. John’s Wort can interact with medications.
 
 - Small amounts in a tea or water infusion are usually safe for most healthy adults, but it’s always good to check with an herbalist or doctor.
 
