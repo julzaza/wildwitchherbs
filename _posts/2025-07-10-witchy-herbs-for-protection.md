@@ -165,7 +165,7 @@ Repeat:
 **“No evil may cross, no harm may stay. Herb and salt guard night and day.”**
 
 ---
-To find out which plants are the most potent against the dark forces, read - [11 Top Whitchy Herbs for Protection](/top-protective-herbs-witchcraft/).
+To find out which plants are the most potent against the dark forces, check out [11 Top Whitchy Herbs for Protection](/top-protective-herbs-witchcraft/).
 
 
 ## Closing Thoughts
