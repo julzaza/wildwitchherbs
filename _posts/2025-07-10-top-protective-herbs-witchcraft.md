@@ -126,6 +126,8 @@ Hung above the hearth or worn as an amulet, it keeps out intruders—both human 
 
 ---
 
+These are just the top plants with protective powers, but there are a lot more to explore. Learn [What Witches Around the World Use for Protection](/world-magic-for-protection/) here.
+
 ## Spell: The Charm of Thorns and Smoke
 
 To create an old-world protective charm, gather any of the following: **juniper, mugwort, rue, blackthorn thorn, basil.** Wrap them in a piece of red cloth, tie tightly with black thread, and whisper your intent as you bind it. 
