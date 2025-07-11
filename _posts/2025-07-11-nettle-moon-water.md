@@ -80,7 +80,7 @@ Splash the moon water across your chest, back, and crown of the head. Visualize 
 
 ---
 
-**Nettle moon water is not gentle magic—it’s fierce, old, and alive.**  
+**Nettle moon water is not gentle magic—it’s fierce!**  
 
 It’s a witch’s tool for those who need to stand their ground and protect their fire.
 
