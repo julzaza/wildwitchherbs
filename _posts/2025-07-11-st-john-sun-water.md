@@ -62,15 +62,13 @@ In Cornwall, it was even said that hanging it in the window would prevent thunde
 
 ---
 
-## Make St. John's Wort Sun Water Safe for Drinking:
+## Make St. John's Wort Sun Water That is Safe for Drinking:
 
 - use spring water, rainwater that you’re sure is clean, or boiled/cooled water
 
 - only speak or chant your intention, rather than placing inked paper or talismans inside
 
-- use edible, food-safe St. John’s Wort (in small amounts)
-
-- use glass jars, not metal or plastic which could leach under sunlight
+- always use glass jars, not metal or plastic which could leach under sunlight
 
 - strain the herb out immediately after infusion to avoid bacterial growth
 
@@ -85,6 +83,6 @@ In Cornwall, it was even said that hanging it in the window would prevent thunde
 
 ---
 
-**This is a potion of sunlight in a jar—joyful, cleansing, and full of golden magic.**
+**This is a potion of sunlight in a jar—joyful, cleansing, and full of golden magic.** We definitely enjoy a cup when feeling down and need our spirits lifted. 
 
 ---
