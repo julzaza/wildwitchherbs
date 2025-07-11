@@ -180,4 +180,4 @@ Let the plants protect you—boldly, softly, completely.
 
 - [How to Make Moon Water and Use It in Magic](/moon-water-magic)
 - [How To Start Your Own Witchy Garden](/witch-garden/)
-
+- [Herbs You Should Never Burn in Ritual](/never-burn-herbs/)
