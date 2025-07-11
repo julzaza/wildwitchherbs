@@ -11,17 +11,17 @@ tags: [protection, herbs, witchcraft, folklore, rituals, spellcraft]
 
 Across centuries and continents, witches, cunning folk, and healers have turned to the green world for protection. These aren’t just healing herbs—they are sentinels, spirit allies, and guardians between worlds. Rooted in ritual and folklore, each one has earned its place in the witch’s apothecary through centuries of practical magic.
 
-Let’s walk the old paths and meet the eleven most enduring protective herbs in witchcraft, from Appalachian hills to Slavic meadows and Caribbean shores.
+Let’s meet the eleven most enduring protective herbs in witchcraft, from Appalachian hills to Slavic meadows and Caribbean shores.
 
 ### Garlic
 
 **A universal shield against evil.**
 
-In Slavic and Balkan traditions, garlic is hung in doorways or braided and placed in windows to ward off the evil eye, curses, and vampiric entities. Some grandmothers still tuck a clove under the pillow to keep nightmares and restless spirits at bay.
+Few herbs have inspired as much reverence—and fear—as garlic. In Slavic and Balkan folk traditions, strings of garlic are hung in windows and above doors to repel the evil eye, witches, vampires, and malicious spirits. Old women still slip a clove beneath a child's pillow to keep night terrors and ghostly visitors at bay.
 
 In Mediterranean folk magic, garlic is rubbed on doorframes to keep misfortune out. In Hoodoo and African American rootwork, it's used in protective floor washes and personal mojo bags.
 
-Garlic is also one of the offerings made to Hecate, the goddess of magic and witchcraft. 
+Garlic is also one of the offerings made to Hecate, the liminal goddess of the moon, magic and witchcraft. 
 
 ---
 
