@@ -28,7 +28,7 @@ While not as commonly used in lunar workings as herbs like mugwort or jasmine, n
 
 - **Dark Moon** – For severing ties, cutting cords, clearing toxic influences, or spiritual detox.
 
-  Dark Moon is when the Moon is not visible from Earth, specifically the last days of the waning crescent before the new moon.
+  Dark Moon is when it is not visible from Earth, specifically the last days of the waning crescent before the new moon.
 - **Full Moon** – To amplify personal power, reinforce boundaries, and reclaim energy drained by others.  
 - **New Moon** – To root into courage and resilience at the start of a new cycle, especially after burnout or trauma.
 
