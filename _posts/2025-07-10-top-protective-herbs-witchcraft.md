@@ -23,7 +23,7 @@ In Mediterranean folk magic, garlic is rubbed on doorframes to keep misfortune o
 
 Garlic is also one of the offerings made to Hecate, the liminal goddess of the moon, magic and witchcraft. 
 
-#### Romanian Magic Spell
+#### Romanian Magic Spell for Garlic
 
 “Cu usturoi te ung, răul să-l alung!”
 
@@ -41,7 +41,7 @@ Rue is a plant of contradictions—sacred yet dangerous, healing yet sharp. Know
 
 In Middle Eastern and Slavic traditions, rue is planted near homes or worn by women to shield them from envy and misfortune. The plant is bitter—so is its strength.
 
-#### Italian Folk Magic: malocchio cure
+#### Italian Folk Magic: malocchio cure with Rue 
 
 "Con quest’erba ti scanso il male,
 Che l’invidia se ne vada e il bene resti."
@@ -62,7 +62,7 @@ Shamans, midwives, witches—have always trusted mugwort as their companion when
 
 The Germanic name for mugwort means “midge-plant,” referencing its power to ward off not just pests, but parasitic spirits.
 
-#### Old English Healing Charm
+#### Old English Healing Charm with Mugwort
 
 “Una bist þu, eorþe’s þu, mægenes mihtigost,
 Wid feondes cost, þu þec gescilde.”
