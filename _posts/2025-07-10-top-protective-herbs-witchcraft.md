@@ -41,6 +41,15 @@ Rue is a plant of contradictions—sacred yet dangerous, healing yet sharp. Know
 
 In Middle Eastern and Slavic traditions, rue is planted near homes or worn by women to shield them from envy and misfortune. The plant is bitter—so is its strength.
 
+#### Italian Folk Magic: malocchio cure
+
+"Con quest’erba ti scanso il male,
+Che l’invidia se ne vada e il bene resti."
+(“With this herb I drive away the harm,
+May envy leave and good remain.”)
+
+Often whispered while using a sprig of rue or olive oil divination to detect and dispel the evil eye.
+
 ---
 
 ### Mugwort (Artemisia vulgaris)
@@ -52,6 +61,15 @@ From Celtic seers to Slavic midwives and Japanese shamans, mugwort has long guar
 Shamans, midwives, witches—have always trusted mugwort as their companion when traveling between worlds.
 
 The Germanic name for mugwort means “midge-plant,” referencing its power to ward off not just pests, but parasitic spirits.
+
+#### Old English Healing Charm
+
+“Una bist þu, eorþe’s þu, mægenes mihtigost,
+Wid feondes cost, þu þec gescilde.”
+(“Thou art the oldest of herbs,
+Mighty against the evil one’s trials—may you shield us.”)
+
+The Lacnunga, 10th century Anglo-Saxon medical manuscript
 
 ---
 
