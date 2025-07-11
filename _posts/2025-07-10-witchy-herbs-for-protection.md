@@ -19,7 +19,7 @@ comments: true
 share: true
 related: true
 layout: single
-permalink: /witchy-herbs-for-protection/
+permalink: /world-magic-for-protection/
 
 ---
 
