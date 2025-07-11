@@ -67,4 +67,7 @@ Its yellow flowers were thought to bleed red when crushed—symbolizing **wounds
 
 ---
 
-Grieving is a process and it takes time. Take your time and 
+## Related Posts
+
+-[How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)
+[St. John's Wort Sun Water for Joy and Light](/st-johns-wort-sun-water/)
