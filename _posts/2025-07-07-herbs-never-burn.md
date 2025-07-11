@@ -38,9 +38,9 @@ Used by ancient Greek oracles, Norse seid-workers, and Slavic witches to commune
 
 ### ❌ White Sage *(Salvia apiana)* — North America
 
-White sage is sacred to many Native American tribes, especially the Chumash and Lakota, who use it in ceremony — **not for decoration or TikTok trends**. Overharvesting and cultural appropriation have made it a symbol of spiritual disrespect.
+White sage is sacred to many Native American tribes, especially the Chumash and Lakota, who use it in ceremony — **not for decoration or TikTok trends**. Overharvesting and cultural appropriation have made it a symbol of spiritual disrespect. Use it only when truly necessary and when you are sure it was sourced ethically. 
 
-**Instead:** Try **juniper**, **mugwort**, **rosemary**, or **yarrow** — all used across Europe, the Balkans, and Central Asia for purification.
+**Instead:** Try **juniper**, **mugwort**, **rosemary**, or **yarrow** — all used across Europe, the Balkans, and Central Asia for purification. 
 
 ---
 
