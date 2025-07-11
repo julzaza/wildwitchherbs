@@ -39,7 +39,8 @@ In Slavic folk magic, herbs were powerful tools to fight **"zli dukh" (evil spir
 - **Wormwood (Artemisia absinthium)**: Used to protect the home, especially during Ivan Kupala night; smoke was believed to drive away restless spirits.
 - **Garlic**: Strung on doors or worn during rituals to ward off vampires and disease.
 - **Yarrow**: Tied into charms to protect soldiers going to war.
-- **Rituals**: On midsummer’s eve, girls would float herb wreaths in rivers to predict their fate and draw protective energies.
+  
+**Rituals**: On midsummer’s eve, girls would float herb wreaths in rivers to predict their fate and draw protective energies.
 
 ---
 
