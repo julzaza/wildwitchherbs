@@ -23,6 +23,12 @@ In Mediterranean folk magic, garlic is rubbed on doorframes to keep misfortune o
 
 Garlic is also one of the offerings made to Hecate, the liminal goddess of the moon, magic and witchcraft. 
 
+#### Romanian Magic Spell
+
+“Cu usturoi te ung, răul să-l alung!”
+(“With garlic I anoint you, to drive away the evil!”)
+
+This charm was traditionally spoken while rubbing garlic on doors, thresholds, or even babies' foreheads to ward off evil spirits and illness.
 ---
 
 ### Rue (Ruta graveolens)
