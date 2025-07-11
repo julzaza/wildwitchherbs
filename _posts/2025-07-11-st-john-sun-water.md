@@ -57,7 +57,7 @@ In Cornwall, it was even said that hanging it in the window would prevent thunde
 
 ## Caution
 
-- This water is for **external or ritual use only** unless you're working with food-safe, properly identified herbs.
+- This water is for **external or ritual use only** unless you're working spoken intention and following the steps listed right below.
 - St. John’s Wort can cause **sun sensitivity** when taken internally. Be cautious when handling fresh flowers in strong sunlight.
 
 ---
@@ -75,14 +75,16 @@ In Cornwall, it was even said that hanging it in the window would prevent thunde
 ---
 
 ## Caution with St. John’s Wort:
-- St. John’s Wort can interact with medications, increase sun sensitivity, and affect mood or liver enzymes.
+- St. John’s Wort can interact with medications, increase sun sensitivity.
 
-- Small amounts (like one or two fresh blossoms steeped for a few hours) in a tea or water infusion are usually safe for most healthy adults, but it’s always good to check with an herbalist or doctor.
+- Small amounts in a tea or water infusion are usually safe for most healthy adults, but it’s always good to check with an herbalist or doctor.
 
-- Avoid drinking sun-exposed water that’s been left out too long (over 6–8 hours), especially in hot climates.
+- Avoid drinking sun-exposed water that’s been left out too long, especially in hot climates.
 
 ---
 
 **This is a potion of sunlight in a jar—joyful, cleansing, and full of golden magic.** We definitely enjoy a cup when feeling down and need our spirits lifted. 
+
+[St. John's Wort Moon Water](/st-johns-wort-moon-water/) for grieving and mourning is also there for you for days when you need consolation and emotional support.
 
 ---
