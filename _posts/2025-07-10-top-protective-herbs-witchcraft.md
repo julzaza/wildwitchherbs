@@ -57,11 +57,10 @@ Unlike mugwort’s gentle guidance, sweet wormwood cuts deep—cleansing, sealin
 
 ---
 
-### Hyssop
+### Hyssop (*Hyssopus officinalis*)  
+**Herb of sanctification and soul-purging.**
 
-**The purifier of the soul and home.**
-
-Known from the Psalms to Hoodoo rootwork, hyssop is an herb of deep cleansing. Afro-Caribbean practitioners use it in spiritual baths to release attachments and purify the aura.
+“Purge me with hyssop, and I shall be clean,” says the Psalm—and witches agree. Used from ancient Israel to New Orleans Hoodoo, hyssop is the sacred herb of spiritual purification.
 
 In the Levant and parts of Eastern Europe, hyssop is gathered on holy days, burned or added to sacred oils, and used to drive off malevolent forces. A small bundle hung over the door works quietly, but fiercely.
 
