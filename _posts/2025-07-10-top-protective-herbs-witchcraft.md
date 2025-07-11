@@ -13,7 +13,7 @@ Across centuries and continents, witches, cunning folk, and healers have turned 
 
 Let’s meet the eleven most enduring protective herbs in witchcraft, from Appalachian hills to Slavic meadows and Caribbean shores.
 
-### Garlic
+### Garlic (*Allium sativum*) 
 
 **A universal shield against evil.**
 
