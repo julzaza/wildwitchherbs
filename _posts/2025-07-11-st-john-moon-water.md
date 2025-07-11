@@ -7,7 +7,7 @@ categories: [Herbal Grimoire]
 tags: [St John's Wort, moon water, grief magic, protection, ancestral work, folk magic]
 ---
 
-## Moon Water with St. John's Wort: Gentle Light in Times of Grief
+## Moon Water with St. John's Wort: Gentle Light in Times of Sorrow
 
 Though known for its bright, sunny energy, **St. John’s Wort also carries a shadow magic**—a calming balm for the spirit, a boundary between worlds, and a guardian during emotional storms. When steeped in moonlight, this powerful herb helps us **mourn, release, and reconnect**.
 
