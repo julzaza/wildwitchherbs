@@ -82,6 +82,8 @@ Some witches say that if yarrow grows near your door, your home is already bless
 
 Feared and revered, wormwood’s scent alone was said to drive off spirits of the restless dead. Eastern European cemeteries were once rimmed with this bitter plant. In Balkan and Greek rites, it was used to repel madness and misfortune. Caribbean spiritualists burn it in protective smoke rituals to cleanse spaces heavy with old pain.
 
+Check out [Wormwood in Witchcraft and War: From Babylon to Balkan Graves](/wormwood-witchcraft-war) to find out more about its mystical powers.
+
 Its ally, Artemisia annua, shares its ghost-walking strength.
 
 ---
@@ -133,4 +135,9 @@ Pass it through incense smoke or over a candle’s flame, and bury it near your 
 Let your herb guardians stand sentry.
 
 ---
+
+## Related Posts
+
+- [Herbs You Should Never Burn in Ritual](/never-burn-herbs/)
+- [Full Moon Rituals With Sacred Herbs ](/full-moon-rituals/)
 
