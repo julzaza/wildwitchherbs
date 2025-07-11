@@ -69,7 +69,7 @@ Wid feondes cost, þu þec gescilde.”
 (“Thou art the oldest of herbs,
 Mighty against the evil one’s trials—may you shield us.”)
 
-The Lacnunga, 10th century Anglo-Saxon medical manuscript
+Source: The Lacnunga, 10th century Anglo-Saxon medical manuscript
 
 ---
 
