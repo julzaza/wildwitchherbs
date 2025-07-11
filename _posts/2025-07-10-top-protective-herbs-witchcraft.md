@@ -143,4 +143,3 @@ Let your herb guardians stand sentry.
 
 - [Herbs You Should Never Burn in Ritual](/never-burn-herbs/)
 - [Full Moon Rituals With Sacred Herbs ](/full-moon-rituals/)
-- [Herbs You Should Never Burn in Ritual](/never-burn-herbs/)
