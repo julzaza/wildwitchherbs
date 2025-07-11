@@ -29,7 +29,7 @@ Garlic is also one of the offerings made to Hecate, the liminal goddess of the m
 
 **The witch’s cross, the herb of grace.**
 
-Rue is sacred in Italian *Stregheria*, Balkan witchcraft, and Latin American *curanderismo*. It’s used in limpias (spiritual cleansings), worn to deflect jealousy and hexes, and burned to purify spaces after spiritual battles.
+Rue is a plant of contradictions—sacred yet dangerous, healing yet sharp. Known as the herb of grace in Italian *Stregheria* and Balkan village magic, rue is burned to clear curses and worn to deflect envy and psychic attacks. In Latin American *curanderismo*, it plays a central role in *limpias*, spiritual cleansings meant to remove harmful attachments.
 
 In Middle Eastern and Slavic traditions, rue is planted near homes or worn by women to shield them from envy and misfortune. The plant is bitter—so is its strength.
 
@@ -40,6 +40,8 @@ In Middle Eastern and Slavic traditions, rue is planted near homes or worn by wo
 **The dreamwalker’s protector.**
 
 From Celtic seers to Slavic midwives and Japanese shamans, mugwort has long guarded witches traveling between worlds. Burned before rituals, tucked into clothing, or brewed into tea before divination, this herb protects against nightmares, unwanted spirits, and even travelers on the astral plane.
+
+Shamans, midwives, witches—have always trusted mugwort as their companion when traveling between worlds.
 
 The Germanic name for mugwort means “midge-plant,” referencing its power to ward off not just pests, but parasitic spirits.
 
