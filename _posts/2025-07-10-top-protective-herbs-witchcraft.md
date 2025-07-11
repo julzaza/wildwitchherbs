@@ -62,7 +62,7 @@ Shamans, midwives, witches—have always trusted mugwort as their companion when
 
 The Germanic name for mugwort means “midge-plant,” referencing its power to ward off not just pests, but parasitic spirits.
 
-#### Old English Healing Charm with Mugwort
+#### Old English Healing Charm for Mugwort
 
 “Una bist þu, eorþe’s þu, mægenes mihtigost,
 Wid feondes cost, þu þec gescilde.”
