@@ -8,7 +8,9 @@ tags: [nettle, moon water, protection magic, ancestral magic, banishing, folk ma
 ---
 
 
-Stinging nettle (*Urtica dioica*) is an incredibly potent plant ally for moon water magic, especially when you're working with themes of **protection**, **banishing**, **courage**, and **ancestral strength**. While not as commonly used in lunar workings as herbs like mugwort or jasmine, nettle’s wild and fiery nature makes it a powerful complement to the moon’s cold, intuitive energy.
+Stinging nettle (*Urtica dioica*) is an incredibly potent plant ally for moon water magic, especially when you're working with themes of **protection**, **banishing**, **courage**, and **ancestral strength**. 
+
+While not as commonly used in lunar workings as herbs like mugwort or jasmine, nettle’s wild and fiery nature makes it a powerful complement to the moon’s cold, intuitive energy.
 
 ---
 
@@ -83,6 +85,5 @@ It’s a witch’s tool for those who need to stand their ground and protect the
 
 ## Related Posts
 
-- [Moon Water Magic with Stinging Nettle](/nettle-moon-water-magic/)  
 - [Top 11 Protective Herbs in Witchcraft](/top-protective-herbs-witchcraft/)  
 - [Wormwood in Witchcraft and War](/wormwood-witchcraft-war/)
