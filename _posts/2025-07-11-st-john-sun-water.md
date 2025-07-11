@@ -11,7 +11,7 @@ tags: [St John's Wort, sun water, summer solstice, joy, folk magic, herbal ritua
 
 **St. John’s Wort (*Hypericum perforatum*) is the herb of the sun.** It bursts into yellow bloom at the height of summer, near the **summer solstice** or **St. John’s Day (June 24)**—a time long considered powerful for harvesting herbs and making magical preparations.
 
-For centuries, people across Europe believed this herb could ward off evil spirits, chase away sadness, and light up the shadowed corners of the heart. In Slavic, Celtic, and Germanic traditions, it was hung above doors, worn in crowns, and even used to divine love or detect witchcraft.
+For centuries, people across Europe believed this herb could ward off evil spirits, chase away sadness, and light up the shadowed corners of the heart. Slavic, Celtic, and Germanic peoples hung it above doors, braided it into crowns, and used it in rites to divine love or reveal hidden sorcery.
 
 Making **sun water** with St. John’s Wort brings together the brightest forces in nature—solar power, midsummer energy, and the herb’s mood-lifting, protective magic.
 
