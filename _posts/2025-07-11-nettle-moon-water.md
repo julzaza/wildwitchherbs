@@ -24,8 +24,8 @@ Stinging nettle (*Urtica dioica*) is an incredibly potent plant ally for moon wa
 
 ## When to Use Nettle in Moon Water
 
-- **Dark Moon** – For severing ties, cutting cords, clearing toxic influences, or spiritual detox.  
-- **Full Moon** – To amplify personal power, reinforce boundaries, and reclaim energy drained by others.  
+- **Dark Moon** – For severing ties, cutting cords, clearing toxic influences, or spiritual detox.  Dark Moon is when the Moon is not visible from Earth, specifically the last days of the waning crescent before the new moon.
+- **Full Moon** – To amplify personal power, reinforce boundaries, and reclaim energy drained by others.  Now that's what the doctor ordered!
 - **New Moon** – To root into courage and resilience at the start of a new cycle, especially after burnout or trauma.
 
 ---
