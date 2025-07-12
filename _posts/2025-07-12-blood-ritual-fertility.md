@@ -53,14 +53,9 @@ It’s also scientifically sound—**menstrual blood is rich in nitrogen, phosph
 
 > Perform this during the **New Moon** or the first day of your bleed.
 
-### You’ll need:
-- A quiet natural place (garden, forest edge, or potted plant you love)  
-- A cloth, menstrual cup, or jar to collect the blood  
-- Water (to dilute if pouring)
-
 ### Steps:
 1. **Approach the soil with intention.** Take three deep breaths and feel your feet root into the Earth.
-2. Pour or release a drop of blood into the soil. You may speak this charm aloud or silently:
+2. Pour from a cup or just squat and release a few drops of blood into the soil. You may speak this charm aloud or silently:
 
 > *“Blood of my body, gift of my womb,  
 To Earth I return, to life I attune.  
