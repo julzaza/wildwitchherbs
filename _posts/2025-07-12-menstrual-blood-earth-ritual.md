@@ -57,7 +57,7 @@ It’s also scientifically sound—**menstrual blood is rich in nitrogen, phosph
 1. **Approach the soil with intention.** Take three deep breaths and feel your feet root into the Earth.
 2. Pour from a cup or just squat and release a few drops of blood into the soil. You may speak this charm aloud or silently:
 
-> *“Blood of my body, gift of my womb,  
+*“Blood of my body, gift of my womb,  
 To Earth I return, to life I attune.  
 Seed and spirit, root and bone,  
 By blood, I call my power home.”*
@@ -70,7 +70,7 @@ By blood, I call my power home.”*
 
 - **Safety:** Don’t leave blood where others might come into contact without consent. Use intention and respect.
 - **Privacy:** This is a sacred act, not a spectacle. Do it for yourself, not for show.
-- **Alternatives:** If collecting blood is difficult, you can bury a red-stained cloth or even **visualize the ritual** as a form of energy offering.
+- **Alternatives:** If collecting blood is difficult or you are no longer menstruating, you can bury a red-stained cloth or even **visualize the ritual** as a form of energy offering. 
 
 ---
 
