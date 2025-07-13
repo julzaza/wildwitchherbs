@@ -55,6 +55,8 @@ If your cycle doesn’t align with the New Moon—or if you no longer bleed—yo
 
 The key is **intention**, not timing. The blood carries meaning because *you give it meaning*.
 
+[Explore Full Moon Rituals with Sacred Herbs](/full-moon-rituals/) steeped in magic and lunar power to deepen your connection.
+
 ## ✧ A Simple Blood Offering Fertility Ritual
 
 You’ll need:
