@@ -16,7 +16,7 @@ tags:
   - conception
 ---
 
-Fertility has always been a sacred mystery—one woven with the threads of moon cycles, soil magic, and the whispering spirits of plants. For centuries, witches, midwives, and herbalists turned to nature to guide life into being. These herbs are omens, offerings, and allies in the ancient rites of creation.
+Fertility has always been a sacred mystery—one woven with the threads of moon cycles, soil magic, and the whispering spirits of plants. **For centuries, witches, midwives, and herbalists turned to nature to guide life into being**. These herbs are omens, offerings, and allies in the ancient rites of creation.
 
 Here are nine of the most potent fertility herbs in witchcraft and folklore, passed down through stories, spells, and the hands of wise women.
 
@@ -82,7 +82,7 @@ Ever tried the  [Menstrual Blood Offering - Fertility Magic?](/fertility-rituals
 
 Fertility is not just about the body—it’s about cycles, timing, soul, and spirit. These herbs work not only through their physical effects, but through their stories, symbolism, and the quiet rituals they invite us into. Whether you are trying to conceive, reconnecting with your womb, or honoring the sacred power of creation, these plants stand ready as allies.
 
-Always consult a qualified herbalist or health practitioner before using herbs medicinally, especially if you’re pregnant or taking medication.
+* Always consult a qualified herbalist or health practitioner before using herbs medicinally, especially if you’re pregnant or taking medication.
 
 ---
 
