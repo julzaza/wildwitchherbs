@@ -104,6 +104,50 @@ Tall and radiant, angelica was named for the **Archangel Michael** and was belie
 - ✧ Growing Tip: Needs space, moist soil, and partial shade. Ideal for a garden gate.
 
 ---
+## ✦ 10. Thyme (Thymus vulgaris)
+Used since antiquity to clear sorrow and fear, thyme was burned at thresholds and doorways to invite courage and joy.
+
+- ✧ Folklore: In medieval Europe, knights carried thyme in battle; English folk scattered it on thresholds after funerals.
+- ✧ Magical Properties: Courage, joy, purification.
+- ✧ Growing Tip: Thrives in pots near sunny entrances. Trim to keep it bushy and aromatic.
+
+---
+
+## ✦ 11. Rue (Ruta graveolens)
+Called the Herb of Grace, rue was planted by the door to repel envy, curses, and the evil eye.
+
+✧ Folklore: In Balkan villages, rue was woven into wedding crowns and hung above doorways for family protection.
+✧ Magical Properties: Banishing, protection, healing.
+✧ Growing Tip: Hardy but avoid touching with wet hands—can irritate skin. Loves sun and dry soil.
+
+---
+
+## ✦ 12. Hyssop (Hyssopus officinalis)
+A powerful purifier from biblical and folk traditions, hyssop was sprinkled at thresholds to drive out disease and dark spirits.
+
+✧ Folklore: Psalm 51 names hyssop as sacred; Appalachian healers hung it by doors during epidemics.
+✧ Magical Properties: Spiritual cleansing, healing, elevation.
+✧ Growing Tip: Grows well in full sun and pots. Keep near front steps for daily blessings.
+
+---
+
+## ✦ 13. Vervain (Verbena officinalis)
+A sacred herb of enchantment and peace, vervain was placed at doors to protect homes and honor deities.
+
+✧ Folklore: Druidic rites, Roman offerings, and French folk magic all treasured vervain for door and hearth blessings.
+✧ Magical Properties: Peace, protection, sacred rites.
+✧ Growing Tip: Easy to grow in containers. Loves sun and light watering.
+
+---
+
+## ✦ 14. Wormwood (Artemisia absinthium)
+Used to guard against spirits, plague, and witchcraft, wormwood was hung in bunches over doors or burned at thresholds.
+
+✧ Folklore: Slavic grandmothers swept thresholds with wormwood; German midwives hung it to protect newborns.
+✧ Magical Properties: Spirit banishing, psychic defense, threshold magic.
+✧ Growing Tip: Drought-tolerant and striking in pots. Keep away from pets.
+
+---
 
 ## ✦ Blessing the Doorway
 
