@@ -149,6 +149,63 @@ Royal herb of body and spell.
 
 ---
 
+## ✦ 13. Elder (Sambucus nigra)
+Tree of witches, ward of the wise.
+
+✧ Folklore: Said to house the Elder Mother spirit—ask permission before harvesting. Branches were hung over doors to protect against sickness and spells.
+
+✧ Healing Uses: Immune support, fever, colds (flowers and berries).
+
+✧ Magical Properties:* Protection, spirit work, fae magic.
+
+✧ Witch Tip: Use the flowers in healing teas and the berries in syrups. Never use raw leaves or bark internally—they are toxic.
+
+## ✦ 14. Lavender (Lavandula spp.)
+A lullaby in bloom.
+
+✧ Folklore: Witches carried lavender for peace and second sight. In love spells, it soothed sorrows and opened the heart.
+
+✧ Healing Uses: Anxiety, sleep, nervous tension, burns.
+
+✧ Magical Properties:* Peace, clarity, dreamwork.
+
+✧ Witch Tip: Burn in bedtime rituals or add to dream pillows and healing baths.
+
+## ✦ 15. Mugwort (Artemisia vulgaris)
+The witch’s eye, the crone’s smoke.
+
+✧ Folklore: Burned to open the third eye, mugwort was used in divination, protection, and womb healing rites across Europe and Asia.
+
+✧ Healing Uses: Menstrual regulation, digestion, dreams.
+
+✧ Magical Properties:* Prophecy, shadow work, spirit guidance.
+
+✧ Witch Tip: Make a dream tea or smoke-cleanse your space before trance work.
+
+## ✦ 16. Sweet Wormwood (Artemisia annua)
+Bitter healer, solar purifier.
+
+✧ Folklore: Used to dispel fevers and evil alike. In Balkan and Chinese traditions, burned at doors during plague seasons.
+
+✧ Healing Uses: Malaria, fever, inflammation, parasites.
+
+✧ Magical Properties:* Cleansing, solar strength, hex breaking.
+
+✧ Witch Tip: Steep in oil or hang dried bundles by the door to guard health and home.
+
+## ✦ 17. Chamomile (Matricaria chamomilla)
+Sunlight for the soul.
+
+✧ Folklore: Known as “ground apple,” chamomile was used in baths, teas, and spells to attract peace, luck, and golden dreams.
+
+✧ Healing Uses: Sleep aid, digestive support, stress relief.
+
+✧ Magical Properties:* Luck, calm, dreamwork, child protection.
+
+✧ Witch Tip: Wash floors with chamomile tea to invite peace into the home.
+
+
+
 ## ✦ Final Thought
 
 These herbs are more than green things in bottles. They are ancestors with leaves. They are bridges between spirit and body, story and science. Each one has served witches, midwives, and healers for centuries.
