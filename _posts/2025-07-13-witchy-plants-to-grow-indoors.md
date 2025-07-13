@@ -15,9 +15,7 @@ tags:
   - spellwork
 ---
 
-# Witchy Plants to Grow Indoors
-
-Not all witches have acres of wild forest or sprawling gardens—but a witch’s green magic doesn’t need to stop at the front door.
+Not all witches have acres of wild forest or sprawling gardens and that's ok. 
 
 A well-tended **windowsill**, **shelf**, or **sunny corner** can become a sacred indoor garden, rich with spellwork, folklore, and life. The right houseplants do more than cleanse the air—they protect, bless, banish, attract, and guide.
 
