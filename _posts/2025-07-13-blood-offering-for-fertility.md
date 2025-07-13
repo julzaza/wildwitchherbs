@@ -85,6 +85,8 @@ Whether your desire is for a child, a creative harvest, or deeper spiritual conn
 
 Let the Earth receive what you no longer need. Let her feed you in return.
 
+Discover other [Folk Fertility Rituals - Magic to Create](/folk-fertility-rituals/) witches practice. These are not just for conception, but for new ideas, new beginnings and creations. 
+
 ---
 
 
