@@ -79,9 +79,9 @@ A sweet-smelling herb used in **May Day wreaths** and **Germanic love charms**, 
 
 A fairy tree in Celtic lands, a **witch tree** in Slavic ones. No other plant walks the line between **curse and blessing** quite like hawthorn.
 
-- ✧ *Folklore:* Witches planted hawthorn by their door to attract spirits of the wise dead and keep meddling humans away.
-- ✧ *Magical Properties:* Protection, fae work, spirit communication.
-- ✧ Growing Tip: Best as a thorny hedge near the gate. Never bring cut branches inside.
+- *Folklore:* Witches planted hawthorn by their door to attract spirits of the wise dead and keep meddling humans away.
+- *Magical Properties:* Protection, fae work, spirit communication.
+- Growing Tip: Best as a thorny hedge near the gate. Never bring cut branches inside.
 
 ---
 
@@ -89,9 +89,9 @@ A fairy tree in Celtic lands, a **witch tree** in Slavic ones. No other plant wa
 
 A plant of fire and fury, nettle was used to **whip out spirits**, **protect children**, and **defend homes** from unseen harm.
 
-- ✧ *Folklore:* In Romania and Italy, nettles were laid across thresholds to prevent the devil from entering.
-- ✧ *Magical Properties:* Defense, strength, blood magic.
-- ✧ Growing Tip: Let them grow wild by the gate—or dry and place in protective jars near the door.
+- *Folklore:* In Romania and Italy, nettles were laid across thresholds to prevent the devil from entering.
+- *Magical Properties:* Defense, strength, blood magic.
+- Growing Tip: Let them grow wild by the gate—or dry and place in protective jars near the door.
 
 ---
 
@@ -99,16 +99,16 @@ A plant of fire and fury, nettle was used to **whip out spirits**, **protect chi
 
 Tall and radiant, angelica was named for the **Archangel Michael** and was believed to shield homes from **plague, ill fortune, and malevolent spirits**.
 
-- ✧ *Folklore:* Root carried as an amulet; leaves burned to cleanse doorways.
-- ✧ *Magical Properties:* Blessing, healing, angelic protection.
-- ✧ Growing Tip: Needs space, moist soil, and partial shade. Ideal for a garden gate.
+- *Folklore:* Root carried as an amulet; leaves burned to cleanse doorways.
+- *Magical Properties:* Blessing, healing, angelic protection.
+- Growing Tip: Needs space, moist soil, and partial shade. Ideal for a garden gate.
 
 ---
 ## ✦ 10. Thyme (Thymus vulgaris)
 Used since antiquity to clear sorrow and fear, thyme was burned at thresholds and doorways to invite courage and joy.
 
-- ✧ Folklore: In medieval Europe, knights carried thyme in battle; English folk scattered it on thresholds after funerals.
-- ✧ Magical Properties: Courage, joy, purification.
+- Folklore: In medieval Europe, knights carried thyme in battle; English folk scattered it on thresholds after funerals.
+- Magical Properties: Courage, joy, purification.
 - Growing Tip: Thrives in pots near sunny entrances. Trim to keep it bushy and aromatic.
 
 ---
@@ -117,7 +117,6 @@ Used since antiquity to clear sorrow and fear, thyme was burned at thresholds an
 Called the Herb of Grace, rue was planted by the door to repel envy, curses, and the evil eye.
 
 - Folklore: In Balkan villages, rue was woven into wedding crowns and hung above doorways for family protection.
-  
 - Magical Properties: Banishing, protection, healing.
 - Growing Tip: Hardy but avoid touching with wet hands—can irritate skin. Loves sun and dry soil.
 
@@ -126,29 +125,45 @@ Called the Herb of Grace, rue was planted by the door to repel envy, curses, and
 ## ✦ 12. Hyssop (Hyssopus officinalis)
 A powerful purifier from biblical and folk traditions, hyssop was sprinkled at thresholds to drive out disease and dark spirits.
 
-✧ Folklore: Psalm 51 names hyssop as sacred; Appalachian healers hung it by doors during epidemics.
-✧ Magical Properties: Spiritual cleansing, healing, elevation.
-✧ Growing Tip: Grows well in full sun and pots. Keep near front steps for daily blessings.
+- Folklore: Psalm 51 names hyssop as sacred; Appalachian healers hung it by doors during epidemics.
+- Magical Properties: Spiritual cleansing, healing, elevation.
+- Growing Tip: Grows well in full sun and pots. Keep near front steps for daily blessings.
 
 ---
 
 ## ✦ 13. Vervain (Verbena officinalis)
 A sacred herb of enchantment and peace, vervain was placed at doors to protect homes and honor deities.
 
-✧ Folklore: Druidic rites, Roman offerings, and French folk magic all treasured vervain for door and hearth blessings.
-✧ Magical Properties: Peace, protection, sacred rites.
-✧ Growing Tip: Easy to grow in containers. Loves sun and light watering.
+- Folklore: Druidic rites, Roman offerings, and French folk magic all treasured vervain for door and hearth blessings.
+- Magical Properties: Peace, protection, sacred rites.
+- Growing Tip: Easy to grow in containers. Loves sun and light watering.
 
 ---
 
 ## ✦ 14. Wormwood (Artemisia absinthium)
 Used to guard against spirits, plague, and witchcraft, wormwood was hung in bunches over doors or burned at thresholds.
 
-✧ Folklore: Slavic grandmothers swept thresholds with wormwood; German midwives hung it to protect newborns.
-✧ Magical Properties: Spirit banishing, psychic defense, threshold magic.
-✧ Growing Tip: Drought-tolerant and striking in pots. Keep away from pets.
+- Folklore: Slavic grandmothers swept thresholds with wormwood; German midwives hung it to protect newborns.
+- Magical Properties: Spirit banishing, psychic defense, threshold magic.
+- Growing Tip: Drought-tolerant and striking in pots. Keep away from pets.
 
 ---
+
+## ✦ 15. Lavender (Lavandula spp.)
+Not just for inside! Bundles of lavender were hung by front doors to calm households, attract love, and deter thieves.
+
+- Folklore: Stuffed into shoes, placed at door thresholds for peace.
+- Magic: Harmony, sleep, gentle warding.
+- Growing Tip: Drought-tolerant and striking in pots.
+
+---
+
+## ✦ 16. Rosemary (Rosmarinus officinalis)
+“Where rosemary grows, the woman rules.” It was planted by thresholds for fidelity and strength.
+
+- Folklore: Brides carried it, but it was also burned at doorways during plague times.
+- Magic: Memory, love, purification.
+- Growing Tip: Drought-tolerant and striking in pots.
 
 ## ✦ Blessing the Doorway
 
