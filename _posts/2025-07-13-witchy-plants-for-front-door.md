@@ -154,7 +154,7 @@ Not just for inside! Bundles of lavender were hung by front doors to calm househ
 
 - Folklore: Stuffed into shoes, placed at door thresholds for peace.
 - Magic: Harmony, sleep, gentle warding.
-- Growing Tip: Drought-tolerant and striking in pots.
+- Growing Tip: Don't overwater, very fragrant and looks great in pots.
 
 ---
 
@@ -163,7 +163,7 @@ Not just for inside! Bundles of lavender were hung by front doors to calm househ
 
 - Folklore: Brides carried it, but it was also burned at doorways during plague times.
 - Magic: Memory, love, purification.
-- Growing Tip: Drought-tolerant and striking in pots.
+- Growing Tip: Drought-tolerant, loves the sun, protect from frost. 
 
 ## ✦ Blessing the Doorway
 
