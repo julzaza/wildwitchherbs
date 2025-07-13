@@ -7,8 +7,6 @@ categories: herbs
 tags: [protection, magical plants, folklore, witchcraft, garden magic, folk magic, threshold]
 ---
 
-## ✦ The Threshold as Spell
-
 The front door is no ordinary place. It is a **threshold**—a liminal line between worlds, sacred in nearly every magical tradition. Spirits are said to pause there. Blessings gather or scatter at the doorstep. Witchcraft, especially of the folk kind, treats the entryway as a spell in itself.
 
 Planting at the front door isn’t merely decorative. It is **ancestral magic**. Protective plants, sweet-smelling herbs, and creeping tendrils once whispered to witches, “Here is the ward. Here is the welcome.” What follows are some of the most potent plants ever set to guard a home.
