@@ -40,6 +40,7 @@ In parts of **West Africa**, menstrual blood was mixed with red clay to mark shr
 Modern witchcraft has reclaimed this ritual as **remembrance**. Returning blood to the soil serves as a spell for:
 
 - **Fertility** (of body, land, ideas, and relationships)
+
 [Offering Menstrual Blood to Mother Earth for Fertility](/fertility-rituals-menstrual-magic/) explains how to do it correctly in sync witht the White Moon and Red Moon cycles. 
 - **Healing** after miscarriage, grief, or trauma  
 - **Reconnection** with nature and your own cyclical power  
