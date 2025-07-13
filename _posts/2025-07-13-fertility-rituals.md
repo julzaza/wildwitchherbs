@@ -67,7 +67,7 @@ Before lying together, lovers might stuff the bed with herbs and flowers like **
 
 Fertility is magic made flesh. These rituals remind us that creation is sacred—whether it results in a child, a spell, a new chapter, or a life reclaimed.
 
-No ritual guarantees results. But the act of slowing down, speaking with the moon and soil, and honoring your body and spirit—that alone is healing. That alone opens the door to miracles.
+No ritual guarantees results. But the act of slowing down, speaking with the moon and soil, and honoring your body and spirit—that alone is healing. **That alone opens the door to miracles.**
 
 ---
 
