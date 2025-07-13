@@ -85,5 +85,7 @@ And when you return your blood to the earth, **so will you.**
 
 ---
 
+Check out other [Folk Fertility Rituals](/folk-fertility-rituals/) to create new beginnings, new ideas, and possibly new life. 
+
 *May your roots grow deep, and your womb magic return to its rightful throne.*
 
