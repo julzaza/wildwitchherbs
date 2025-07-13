@@ -76,7 +76,7 @@ By blood, I call my power home.”*
 
 ## The Return of Sacred Cycles
 
-In a world obsessed with productivity and sterility, bleeding becomes a **radical act of remembering**. Giving your blood to the soil revives a forgotten truth: **you are not separate from nature—you are nature.**
+In a world obsessed with productivity and sterility, bleeding becomes a **radical act**. Giving your blood to the soil revives a forgotten truth: **you are not separate from nature—you are nature.**
 
 The witches of old knew this. The land remembers.  
 And when you return your blood to the earth, **so will you.**
