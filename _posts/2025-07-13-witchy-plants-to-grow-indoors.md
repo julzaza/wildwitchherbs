@@ -107,7 +107,7 @@ Here are the top **witchy plants that grow well indoors**—chosen for both **th
 
 ## ✧ Grow Magic Where You Stand
 
-You don’t need a field of herbs to be a plant witch. Whether you live in a city apartment, a forest hut, or a wandering caravan, a handful of well-loved pots can anchor your practice in the green world.
+You don’t need a field of herbs to be a witch. Whether you live in a city apartment, a forest hut, or a wandering caravan, a handful of well-loved pots can anchor your practice in the green world.
 
 **Tend them with care, harvest with intention, and watch how they grow not just roots—but power.**
 
