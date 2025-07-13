@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Folk Fertility Rituals"
+title: "Folk Fertility Rituals - Magic To Create"
 permalink: /folk-fertility-rituals/
 excerpt: "From moonlit baths to wildflower charms, explore the ancient fertility rituals practiced by witches and folk healers to welcome new life, awaken the womb, and honor the power of creation."
 categories:
