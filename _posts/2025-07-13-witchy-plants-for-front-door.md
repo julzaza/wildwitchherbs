@@ -19,9 +19,9 @@ Planting at the front door isn’t merely decorative. It is **ancestral magic**.
 
 Once called **“lad’s love”**, this silvery herb was grown by front gates in Britain and Eastern Europe alike. It was said to **keep away snakes, bad spirits, and lustful men**.
 
-- ✧ *Folklore:* A sprig worn in the shoe protected travelers. Hung by the door, it warded off illness and bad intentions.
-- ✧ *Magical Properties:* Protection, clarity, dreamwork.
-- ✧ Growing Tip: Thrives in pots, prefers dry soil and sun.
+- *Folklore:* A sprig worn in the shoe protected travelers. Hung by the door, it warded off illness and bad intentions.
+- *Magical Properties:* Protection, clarity, dreamwork.
+- Growing Tip: Thrives in pots, prefers dry soil and sun.
 
 ---
 
@@ -29,9 +29,9 @@ Once called **“lad’s love”**, this silvery herb was grown by front gates i
 
 In Eastern Europe and India alike, basil was not only culinary—it was sacred. In Greek Orthodox homes, holy water was sprinkled with basil branches. In folk magic, it was grown by doors to **invite love and prosperity, and drive away the devil**.
 
-- ✧ *Folklore:* A pot of basil at the threshold ensured the home would never be poor or loveless.
-- ✧ *Magical Properties:* Love, wealth, purification.
-- ✧ Growing Tip: Keep near the door in summer; protect from cold.
+- *Folklore:* A pot of basil at the threshold ensured the home would never be poor or loveless.
+- *Magical Properties:* Love, wealth, purification.
+- Growing Tip: Keep near the door in summer; protect from cold.
 
 ---
 
@@ -39,9 +39,9 @@ In Eastern Europe and India alike, basil was not only culinary—it was sacred. 
 
 A powerful plant of **thresholds and unions**, yarrow was once laid across bridal beds and front steps to **ensure lasting love and keep out dark forces**.
 
-- ✧ *Folklore:* In the Scottish Highlands, it was called *milfoil* and burned at thresholds during Samhain.
-- ✧ *Magical Properties:* Protection, courage, divination, healing.
-- ✧ Growing Tip: Drought-resistant and tough—perfect for door borders.
+- *Folklore:* In the Scottish Highlands, it was called *milfoil* and burned at thresholds during Samhain.
+- *Magical Properties:* Protection, courage, divination, healing.
+- Growing Tip: Drought-resistant and tough—perfect for door borders.
 
 ---
 
@@ -49,9 +49,9 @@ A powerful plant of **thresholds and unions**, yarrow was once laid across brida
 
 Often planted in formal hedges, boxwood was once a **graveyard plant**, sacred to ancestors. It stood for **everlasting protection**.
 
-- ✧ *Folklore:* Twigs were gathered on Candlemas or Good Friday for blessings.
-- ✧ *Magical Properties:* Warding, ancestral magic, boundary-setting.
-- ✧ Growing Tip: Plant on either side of the front steps for strong guardian energy.
+- *Folklore:* Twigs were gathered on Candlemas or Good Friday for blessings.
+- *Magical Properties:* Warding, ancestral magic, boundary-setting.
+- Growing Tip: Plant on either side of the front steps for strong guardian energy.
 
 ---
 
@@ -59,9 +59,9 @@ Often planted in formal hedges, boxwood was once a **graveyard plant**, sacred t
 
 Known as **Christmas Rose** or **witch’s flower**, hellebore was believed to **reveal invisible beings** and **banish evil spirits** when planted at the threshold.
 
-- ✧ *Folklore:* In old grimoires, powdered hellebore was used to banish demons. Folk healers planted it near doors to confuse malevolent forces.
-- ✧ *Magical Properties:* Protection, spirit sight, necromantic rites.
-- ✧ Growing Tip: Toxic but beautiful. Shade-loving. Use for lore, not ingestion.
+- *Folklore:* In old grimoires, powdered hellebore was used to banish demons. Folk healers planted it near doors to confuse malevolent forces.
+- *Magical Properties:* Protection, spirit sight, necromantic rites.
+- Growing Tip: Toxic but beautiful. Shade-loving. Use for lore, not ingestion.
 
 ---
 
@@ -109,16 +109,17 @@ Used since antiquity to clear sorrow and fear, thyme was burned at thresholds an
 
 - ✧ Folklore: In medieval Europe, knights carried thyme in battle; English folk scattered it on thresholds after funerals.
 - ✧ Magical Properties: Courage, joy, purification.
-- ✧ Growing Tip: Thrives in pots near sunny entrances. Trim to keep it bushy and aromatic.
+- Growing Tip: Thrives in pots near sunny entrances. Trim to keep it bushy and aromatic.
 
 ---
 
 ## ✦ 11. Rue (Ruta graveolens)
 Called the Herb of Grace, rue was planted by the door to repel envy, curses, and the evil eye.
 
-✧ Folklore: In Balkan villages, rue was woven into wedding crowns and hung above doorways for family protection.
-✧ Magical Properties: Banishing, protection, healing.
-✧ Growing Tip: Hardy but avoid touching with wet hands—can irritate skin. Loves sun and dry soil.
+- Folklore: In Balkan villages, rue was woven into wedding crowns and hung above doorways for family protection.
+  
+- Magical Properties: Banishing, protection, healing.
+- Growing Tip: Hardy but avoid touching with wet hands—can irritate skin. Loves sun and dry soil.
 
 ---
 
