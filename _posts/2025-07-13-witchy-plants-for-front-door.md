@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Witchy Plants for the Front Door"
-permalink: /witchy-plants-for-the-front-door/
+permalink: /witchy-plants-for-front-door/
 excerpt: "Guard your threshold with sacred plants used by witches and folk healers through the ages. Discover the potent magic of protective herbs, shrubs, and charms planted by doorways to bless and defend the home."
 categories: herbs
 tags: [protection, magical plants, folklore, witchcraft, garden magic, folk magic, threshold]
