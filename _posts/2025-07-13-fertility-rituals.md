@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Fertility Rituals in Witchcraft and Folk Tradition"
-permalink: /fertility-rituals-witchcraft/
+title: "Folk Fertility Rituals"
+permalink: /folk-fertility-rituals/
 excerpt: "From moonlit baths to wildflower charms, explore the ancient fertility rituals practiced by witches and folk healers to welcome new life, awaken the womb, and honor the power of creation."
 categories:
   - witchcraft
