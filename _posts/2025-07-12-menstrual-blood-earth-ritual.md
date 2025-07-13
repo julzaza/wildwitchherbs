@@ -31,7 +31,7 @@ Some **Balkan mountain villages** held quiet traditions where women would anoint
 
 In parts of **West Africa**, menstrual blood was mixed with red clay to mark shrines and fertility symbols, connecting womb and world in visible prayer.
 
-> *“A bleeding woman feeds both worlds—this one and the one yet to come.”* — Old Croatian saying
+*“A bleeding woman feeds both worlds—this one and the one yet to come.”* — Old Croatian saying
 
 ---
 
