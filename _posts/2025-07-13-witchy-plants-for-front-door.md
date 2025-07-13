@@ -11,6 +11,16 @@ The front door is no ordinary place. It is a **threshold —a liminal line betwe
 
 Planting at the front door isn’t merely decorative. It is **ancestral magic**. Protective plants, sweet-smelling herbs, and creeping tendrils once whispered to witches, “Here is the ward. Here is the welcome.” What follows are some of the most potent plants ever set to guard a home.
 
+--- 
+
+## ✦ Blessing the Doorway
+
+Once you plant your threshold herbs, strengthen them with ritual:
+
+- Sprinkle salt in a circle around the plant on **New or Full Moon nights**.
+- Whisper your intention as you water them—*"Guard this place. Let only good cross."*
+- Tie red string or iron nails into the pot or root space for **added warding**.
+
 ---
 
 ## ✦ 1. **Southernwood (Artemisia abrotanum)**
@@ -161,15 +171,7 @@ Not just for inside! Bundles of lavender were hung by front doors to calm househ
 
 - Folklore: Brides carried it, but it was also burned at doorways during plague times.
 - Magic: Memory, love, purification.
-- Growing Tip: Drought-tolerant, loves the sun, protect from frost. 
-
-## ✦ Blessing the Doorway
-
-Once you plant your threshold herbs, strengthen them with ritual:
-
-- Sprinkle salt in a circle around the plant on **New or Full Moon nights**.
-- Whisper your intention as you water them—*"Guard this place. Let only good cross."*
-- Tie red string or iron nails into the pot or root space for **added warding**.
+- Growing Tip: Drought-tolerant, loves the sun, protect from frost.
 
 ---
 
