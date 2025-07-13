@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Witchy Plants for the Front Door: Folklore, Wards, and Threshold Magic"
+title: "Witchy Plants for the Front Door"
 permalink: /witchy-plants-for-the-front-door/
 excerpt: "Guard your threshold with sacred plants used by witches and folk healers through the ages. Discover the potent magic of protective herbs, shrubs, and charms planted by doorways to bless and defend the home."
 categories: herbs
@@ -69,9 +69,9 @@ Known as **Christmas Rose** or **witch’s flower**, hellebore was believed to *
 
 A sweet-smelling herb used in **May Day wreaths** and **Germanic love charms**, woodruff brings both gentleness and strength to a threshold.
 
-- ✧ *Folklore:* Stuffed into mattresses to guard sleep; scattered at doorways to **ensure marital peace**.
-- ✧ *Magical Properties:* Harmony, protection, fae blessings.
-- ✧ Growing Tip: Loves shady doorways and spreads slowly.
+- *Folklore:* Stuffed into mattresses to guard sleep; scattered at doorways to **ensure marital peace**.
+- *Magical Properties:* Harmony, protection, fae blessings.
+-  Growing Tip: Loves shady doorways and spreads slowly.
 
 ---
 
