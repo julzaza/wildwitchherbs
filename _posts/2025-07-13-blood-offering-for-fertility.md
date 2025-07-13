@@ -67,10 +67,10 @@ You’ll need:
 2. Cast a circle if you like, or simply breathe deeply and call your ancestors, womb spirits, or the Earth herself.
 3. Pour your blood onto the soil with these or your own words:
 
-   *“From my body to the Earth, from my blood to the roots.  
-    I return this life-force to feed what will grow.  
-    Fertility within me, around me, and beyond me—  
-    As above, so below. So mote it be.”*
+*“From my body to the Earth, from my blood to the roots.  
+  I return this life-force to feed what will grow.  
+  Fertility within me, around me, and beyond me—  
+  As above, so below. So mote it be.”*
 
 4. Dip your fingers in the water and anoint your lower belly or feet. Let the rosemary brush over your skin.
 5. Sit in silence, or sing to the Earth if you feel moved.
