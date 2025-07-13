@@ -63,6 +63,10 @@ Before lying together, lovers might stuff the bed with herbs and flowers like **
 
 ---
 
+## 8. Menstrual Blood Magic
+
+[Offering Menstrual Blood to Mother Earth](/fertility-rituals-menstrual-magic/) is one of the oldest forms of witchcraft. Wherether you are looking to ecourage conception or honor the creative force, do it in sync with the Moon Cycles. 
+
 ## Slow Down to Create
 
 Fertility is magic made flesh. **These rituals remind us that creation is sacred—whether it results in a child, a spell, a new chapter, or a life reclaimed.**
