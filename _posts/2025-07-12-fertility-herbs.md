@@ -24,7 +24,7 @@ Here are nine of the most potent fertility herbs in witchcraft and folklore, pas
 
 Often called “the woman’s herb,” raspberry leaf is cherished for toning the uterus and supporting menstrual health. Folk midwives brewed it in strong teas to prepare the womb for pregnancy and strengthen it during early stages. In old Slavic traditions, young women would drink raspberry tea before handfasting ceremonies, tying their fertility to the rhythms of the land.
 
-***Magical use*: Womb protection, preparation for birth, feminine strength.**
+***MAGICAL USE*: Womb protection, preparation for birth, feminine strength.**
 
 ## 2. Chasteberry (*Vitex agnus-castus*)
 
