@@ -114,7 +114,7 @@ You don’t need a field of herbs to be a plant witch. Whether you live in a cit
 **Tend them with care, harvest with intention, and watch how they grow not just roots—but power.**
 
 **Looking for outdoor garden plants instead?**  
-Check out our guide to [Herbs for a Witch’s Garden](/witch-garden-plants/) next.
+Check out our guide: [How To Start Your Own Witchy Garden](/witch-garden/)next.
 
 ---
 
