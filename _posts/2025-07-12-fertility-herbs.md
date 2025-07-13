@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Top 9 Fertility Herbs in Witchcraft and Herbal Lore"
+title: "Top 9 Fertility Herbs in Witchcraft"
 permalink: /top-fertility-herbs-witchcraft/
 excerpt: "Explore the top herbs used for fertility and conception throughout witchcraft, folklore, and herbal medicine. From raspberry leaf to red clover, uncover the ancient wisdom behind these plants of creation."
 categories: 
@@ -72,9 +72,11 @@ Called “squaw root” by early settlers, black cohosh was used by Native Ameri
 
 Not to be confused with yams from the grocery store, wild yam supports progesterone balance and has been used in herbal birth control and fertility, depending on timing. Folklore from the Americas and Appalachia tied wild yam to the changing seasons and the crossing point between conception and control.
 
-> *Magical use*: Timing, threshold magic, choice.
+*Magical use*: Timing, threshold magic, choice.
 
 ---
+
+Ever tried the  [Menstrual Blood Offering - Fertility Magic?](/fertility-rituals-menstrual-magic/) Do it correctly, in sync with the White and Red Moon cycles. 
 
 ## Final Thoughts
 
@@ -83,6 +85,4 @@ Fertility is not just about the body—it’s about cycles, timing, soul, and sp
 Always consult a qualified herbalist or health practitioner before using herbs medicinally, especially if you’re pregnant or taking medication.
 
 ---
-
-**Meta description**: Discover the top 9 fertility herbs in witchcraft and herbal folklore, including raspberry leaf, chasteberry, red clover, and more. Explore their magical uses and traditional wisdom.
 
