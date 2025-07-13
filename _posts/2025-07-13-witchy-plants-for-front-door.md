@@ -15,7 +15,7 @@ Planting at the front door isn’t merely decorative. It is **ancestral magic**.
 
 ## ✦ Blessing the Doorway
 
-Once you plant your threshold herbs, strengthen them with ritual:
+Once you plant your threshold herbs (we chose the best for you below), strengthen them with ritual:
 
 - Sprinkle salt in a circle around the plant on **New or Full Moon nights**.
 - Whisper your intention as you water them—*"Guard this place. Let only good cross."*
