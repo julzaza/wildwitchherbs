@@ -139,6 +139,8 @@ You don’t need to copy rituals, but know where they come from — and respect 
 
 All you need is life — a place to let roots dig in.
 
+In fact, [Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/) will show you how to turn even the smallest corner into a living altar.
+
 ---
 
 ## Coming Soon: Seeds With a Story
@@ -154,6 +156,8 @@ It's time to grow your own witchy garden.
 Real witchcraft is about tending something real, rooted, and remembered.
 
 This is your sign to start. 
+
+[Witchy Plants for the Front Door](/witchy-plants-for-front-door/) will guide you in planting protection right at your threshold.
 
 
 ## Related Posts
