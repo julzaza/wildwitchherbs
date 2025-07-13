@@ -37,7 +37,7 @@ In parts of **West Africa**, menstrual blood was mixed with red clay to mark shr
 
 ## Why Offer Blood to the Earth?
 
-Modern witchcraft has reclaimed this ritual not as performance, but as **remembrance**. Returning blood to the soil serves as a spell for:
+Modern witchcraft has reclaimed this ritual as **remembrance**. Returning blood to the soil serves as a spell for:
 
 - **Fertility** (of body, land, ideas, and relationships)  
 - **Healing** after miscarriage, grief, or trauma  
