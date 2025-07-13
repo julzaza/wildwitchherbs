@@ -57,10 +57,10 @@ Perform this during the **New Moon** or the first day of your bleed.
 - **Approach the soil with intention.** Take three deep breaths and feel your feet root into the Earth.
 - Pour from a cup or just squat and release a few drops of blood into the soil. You may speak this charm aloud or silently:
 
-*“Blood of my body, gift of my womb,  
-To Earth I return, to life I attune.  
-Seed and spirit, root and bone,  
-By blood, I call my power home.”*
+  *“Blood of my body, gift of my womb,  
+  To Earth I return, to life I attune.  
+  Seed and spirit, root and bone,  
+  By blood, I call my power home.”*
 
 - Cover the offering gently with soil. Sit quietly and feel the exchange—**what leaves you also nourishes you.**
 
