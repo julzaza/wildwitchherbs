@@ -2,7 +2,7 @@
 layout: single
 title: "Fertility Rituals and Menstrual Blood Magic"
 permalink: /fertility-rituals-menstrual-magic/
-excerpt: "Explore ancient fertility rituals rooted in blood, moon, and soil. From the White and Red Moon cycles to sacred offerings of menstrual blood, this post delves into witchcraft, folklore, and Earth-based feminine wisdom."
+excerpt: "Discover sacred fertility rituals rooted in folk magic, moon cycles, and menstrual blood offerings. Learn the difference between the White and Red Moon cycles and how to perform powerful Earth-based womb rituals."
 categories: [rituals, witchcraft, moon-magic]
 tags: [fertility, menstrual-magic, new moon, white moon, red moon, witchcraft, feminine-power]
 ---
@@ -40,7 +40,7 @@ This is when menstruation occurs during the **Full Moon**, often associated with
 
 Women on the Red Moon path may use their bleeding time for **shadow work, magical development, and spiritual fertility**—birthing ideas, art, or visions.
 
-> 🌑 *Whether you bleed with the White or Red Moon, your ritual is valid, powerful, and sacred.*
+  *Whether you bleed with the White or Red Moon, your ritual is valid, powerful, and sacred.*
 
 ## ✧ What If You’re Not Bleeding During the New Moon?
 
@@ -67,10 +67,10 @@ You’ll need:
 2. Cast a circle if you like, or simply breathe deeply and call your ancestors, womb spirits, or the Earth herself.
 3. Pour your blood onto the soil with these or your own words:
 
-   > *“From my body to the Earth, from my blood to the roots.  
-   > I return this life-force to feed what will grow.  
-   > Fertility within me, around me, and beyond me—  
-   > As above, so below. So mote it be.”*
+   *“From my body to the Earth, from my blood to the roots.  
+    I return this life-force to feed what will grow.  
+    Fertility within me, around me, and beyond me—  
+    As above, so below. So mote it be.”*
 
 4. Dip your fingers in the water and anoint your lower belly or feet. Let the rosemary brush over your skin.
 5. Sit in silence, or sing to the Earth if you feel moved.
@@ -87,6 +87,4 @@ Let the Earth receive what you no longer need. Let her feed you in return.
 
 ---
 
-**SEO Meta Description:**  
-Discover sacred fertility rituals rooted in folk magic, moon cycles, and menstrual blood offerings. Learn the difference between the White and Red Moon cycles and how to perform powerful Earth-based womb rituals.
 
