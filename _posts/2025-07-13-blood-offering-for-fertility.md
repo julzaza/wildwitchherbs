@@ -42,6 +42,8 @@ Women on the Red Moon path may use their bleeding time for **shadow work, magica
 
   *Whether you bleed with the White or Red Moon, your ritual is valid, powerful, and sacred.*
 
+[Explore Full Moon Rituals with Sacred Herbs](/full-moon-rituals/) steeped in magic and lunar power to deepen your connection.
+
 ## ✧ What If You’re Not Bleeding During the New Moon?
 
 No need to wait.
@@ -54,8 +56,6 @@ If your cycle doesn’t align with the New Moon—or if you no longer bleed—yo
 - Honoring your **energetic womb space**, even if it no longer bleeds
 
 The key is **intention**, not timing. The blood carries meaning because *you give it meaning*.
-
-[Explore Full Moon Rituals with Sacred Herbs](/full-moon-rituals/) steeped in magic and lunar power to deepen your connection.
 
 ## ✧ A Simple Blood Offering Fertility Ritual
 
