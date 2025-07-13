@@ -15,7 +15,7 @@ tags:
   - spellwork
 ---
 
-Not all witches have acres of wild forest or sprawling gardens and that's ok. 
+Not all witches have acres of wild forest or sprawling gardens and that's perfectly fine. 
 
 A well-tended **windowsill**, **shelf**, or **sunny corner** can become a sacred indoor garden, rich with spellwork, folklore, and life. The right houseplants do more than cleanse the air—they protect, bless, banish, attract, and guide.
 
