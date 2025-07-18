@@ -24,22 +24,6 @@ A gentle balm for anxious hearts.
 
 ---
 
----
-layout: single
-title: "Witchy Herbs for Anxiety, Grief, and Emotional Healing"
-permalink: /witchy-herbs-anxiety-grief-emotional-healing/
-excerpt: "Explore the ancient magic of herbs used for emotional healing. From anxiety to heartbreak, discover the plants witches have turned to for centuries to soothe the spirit and strengthen the soul."
-categories: herbs
-tags: [witchcraft, herbalism, anxiety, grief, emotional healing, witchy plants, folk medicine]
----
-
-Emotional wounds don't always bleed, but they still ache.  
-In folk traditions and witchcraft, herbs have long been allies of the brokenhearted, the anxious, and the grieving. They don't numb—they **transform**, **guide**, and **ground**. They are not quick fixes, but spirit companions, helping us walk through the dark.
-
-Below is a list of witchy herbs known across cultures for calming the mind, soothing grief, and protecting the tender heart. These are herbs of ritual, rest, and remembrance.
-
----
-
 ## ✦ 1. **St. John’s Wort (_Hypericum perforatum_)**
 
 The sun’s light, bottled in a flower.
@@ -100,136 +84,16 @@ The sacred guardian of the heart.
 
 ---
 
-## ✦ 7. **Lemon Balm (_Melissa officinalis_)**
-
-A gentle remedy for anxious hearts.
-
-- ✧ *Folklore:* A favorite of medieval monastics, used to gladden the spirit and attract love.
-- ✧ *Magical Uses:* Joy, peace, psychic clarity.
-- ✧ Healing Tip: Drink daily as tea or add to bathwater to uplift emotional heaviness.
-
----
-
 ## ✦ 8. **Motherwort (_Leonurus cardiaca_)**
-
-The herb for mothers and mourners.
-
-- ✧ *Folklore:* Given to women in labor and those in grief. Wards off emotional storms.
-- ✧ *Magical Uses:* Heart healing, grounding, grief rituals.
-- ✧ Healing Tip: Take as tincture or sit beside the plant to draw its comfort.
-
----
-
-## ✦ 9. **Chamomile (_Matricaria chamomilla_)**
-
-Small but mighty.
-
-- ✧ *Folklore:* Slipped under pillows for dream magic, and into pockets to calm hot tempers.
-- ✧ *Magical Uses:* Peace, clarity, spiritual soothing.
-- ✧ Healing Tip: Use in tea, baths, and sleep sachets. Great for emotional digestion.
-
----
-
-## ✦ 10. **Lavender (_Lavandula spp._)**
-
-The sweet sleep sentinel.
-
-- ✧ *Folklore:* Used to anoint temples and cleanse grief-laden rooms. Brings dreams, rest, and comfort.
-- ✧ *Magical Uses:* Relaxation, psychic shielding, mourning rituals.
-- ✧ Healing Tip: Burn as incense or add oil to ritual baths and pillows.
-
----
-
-## ✦ 11. **Rose (_Rosa spp._)**
-
-Beauty through sorrow.
-
-- ✧ *Folklore:* Symbol of both heartbreak and devotion. Worn during funerals and used to call lost lovers or spirits.
-- ✧ *Magical Uses:* Grief, heart opening, emotional release.
-- ✧ Healing Tip: Infuse petals in honey or scatter on your altar during mourning spells.
-
----
-
-## ✧ Ritual: Smoke Bundle for Soothing the Heart
-
-**What you need:**
-- Dried **lavender**, **chamomile**, **holy basil**, and **rose**
-- A strip of natural string
-- Optional: add a bit of **mugwort** or **lemon balm**
-
-**To do:**
-1. Bind the herbs tightly with focused intention.
-2. Let dry completely.
-3. Light the tip and gently let the smoke wash over your heart, space, and altar.
-
-Speak aloud:  
-*“Let this heaviness pass. Let this breath return. Let the green ones hold me.”*
-
----
-
-## ✧ Final Thought
-
-Emotional healing in witchcraft is sacred work. It’s slow, rooted, and real. These herbs don’t promise escape—they offer *companionship* through the pain, *wisdom* for the storm, and a whisper that you are not alone.
-
-Drink the tea. Burn the bundle. Speak to the leaves. Let yourself feel, and let the plants do their quiet, ancient work.
-
----
-
-**Related Posts**  
-- [Witchy Herbs for Protection](/top-protective-herbs-witchcraft/)  
-- [Menstrual Blood Magic for Fertility](/fertility-rituals-menstrual-magic/)  
-- [Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)  
-
-
-## ✦ 2. **Motherwort (_Leonurus cardiaca_)**
 
 "The lion-hearted herb" for panic, palpitations, and raw grief.
 
-- ✧ *Folklore:* Given to women in labor, widows, and those in mourning to calm the heart and spirit.
-- ✧ *Magical Uses:* Courage, maternal protection, grief rituals.
-- ✧ Healing Tip: Use tincture for quick nervous system support. Sit with the plant for grounding.
+- ✧ *Folklore:* Given to women in labor and those in grief. Wards off emotional storms.
+- ✧ *Magical Uses:* Heart healing, grounding, grief rituals.
+- ✧ Healing Tip: Take as tincture or sit beside the plant to draw its comfort. Sit with the plant for grounding.
 
 ---
 
-## ✦ 3. **Rose (_Rosa spp._)**
-
-Grief’s oldest companion.
-
-- ✧ *Folklore:* Worn during funerals and rituals of release. Used to connect to the dead and ease heartbreak.
-- ✧ *Magical Uses:* Love, grief, beauty, heart healing.
-- ✧ Healing Tip: Add dried petals to salt baths or steep into honey for heart-healing teas.
-
----
-
-## ✦ 4. **Lavender (_Lavandula spp._)**
-
-A sacred scent for rest, recovery, and protection.
-
-- ✧ *Folklore:* Used in sleep sachets, funeral wreaths, and purification rites. Burned to calm restless spirits.
-- ✧ *Magical Uses:* Peace, sleep, cleansing.
-- ✧ Healing Tip: Diffuse oil, bathe in blossoms, or rub into temples during times of unrest.
-
----
-
-## ✦ 5. **Chamomile (_Matricaria chamomilla_)**
-
-The peacemaker.
-
-- ✧ *Folklore:* Offered to restless children, angry spirits, and the grief-stricken. Brewed for prophetic dreams.
-- ✧ *Magical Uses:* Soothing anger, inviting dreams, bringing inner child peace.
-- ✧ Healing Tip: Drink as tea before rituals or sleep. Burn in incense with lavender and rose.
-
----
-
-## ✦ 6. **Calendula (_Calendula officinalis_)**
-
-Golden medicine for sorrow and stagnation.
-
-- ✧ *Folklore:* Used in mourning rituals in Europe and South America. Brought warmth and remembrance.
-- ✧ *Magical Uses:* Solar healing, joy, ancestral connection.
-- ✧ Healing Tip: Use in salves or teas to restore emotional warmth and encourage inner brightness.
-
----
 
 ## ✦ 7. **Mugwort (_Artemisia vulgaris_)**
 
@@ -300,6 +164,80 @@ The herb of courage and remembrance.
 - ✧ Healing Tip: Brew strong tea for courage rituals or carry a sprig in your pocket when facing sorrow.
 
 ---
+
+## ✦ 9. **Chamomile (_Matricaria chamomilla_)**
+
+Small but mighty.
+
+- ✧ *Folklore:* Slipped under pillows for dream magic, and into pockets to calm hot tempers.
+- ✧ *Magical Uses:* Peace, clarity, spiritual soothing.
+- ✧ Healing Tip: Use in tea, baths, and sleep sachets. Great for emotional digestion.  Drink as tea before rituals or sleep. Burn in incense with lavender and rose.
+
+---
+
+## ✦ 10. **Lavender (_Lavandula spp._)**
+
+The sweet sleep sentinel.
+
+- ✧ *Folklore:* Used to anoint temples and cleanse grief-laden rooms. Brings dreams, rest, and comfort.
+- ✧ *Magical Uses:* Relaxation, psychic shielding, mourning rituals.
+- ✧ Healing Tip: Burn as incense or add oil to ritual baths and pillows, or rub into temples during times of unrest.
+
+---
+
+## ✦ 3. **Rose (_Rosa spp._)**
+
+Grief’s oldest companion.
+
+- ✧ *Folklore:* Worn during funerals and rituals of release. Used to connect to the dead and ease heartbreak.
+- ✧ *Magical Uses:* Love, grief, beauty, heart healing.
+- ✧ Healing Tip: Add dried petals to salt baths or steep into honey for heart-healing teas.
+
+---
+
+
+## ✦ 6. **Calendula (_Calendula officinalis_)**
+
+Golden medicine for sorrow and stagnation.
+
+- ✧ *Folklore:* Used in mourning rituals in Europe and South America. Brought warmth and remembrance.
+- ✧ *Magical Uses:* Solar healing, joy, ancestral connection.
+- ✧ Healing Tip: Use in salves or teas to restore emotional warmth and encourage inner brightness.
+
+---
+
+## ✧ Ritual: Smoke Bundle for Soothing the Heart
+
+**What you need:**
+- Dried **lavender**, **chamomile**, **holy basil**, and **rose**
+- A strip of natural string
+- Optional: add a bit of **mugwort** or **lemon balm**
+
+**To do:**
+1. Bind the herbs tightly with focused intention.
+2. Let dry completely.
+3. Light the tip and gently let the smoke wash over your heart, space, and altar.
+
+Speak aloud:  
+*“Let this heaviness pass. Let this breath return. Let the green ones hold me.”*
+
+---
+
+## ✧ Final Thought
+
+Emotional healing in witchcraft is sacred work. It’s slow, rooted, and real. These herbs don’t promise escape—they offer *companionship* through the pain, *wisdom* for the storm, and a whisper that you are not alone.
+
+Drink the tea. Burn the bundle. Speak to the leaves. Let yourself feel, and let the plants do their quiet, ancient work.
+
+---
+
+**Related Posts**  
+- [Witchy Herbs for Protection](/top-protective-herbs-witchcraft/)  
+- [Menstrual Blood Magic for Fertility](/fertility-rituals-menstrual-magic/)  
+- [Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)  
+
+
+
 
 ## ✧ Creating an Emotional Healing Spell Jar
 
