@@ -206,6 +206,35 @@ Golden medicine for sorrow and stagnation.
 
 ---
 
+## ✦ 20. Skullcap (Scutellaria lateriflora)
+The witch’s nervine. Calms frazzled nerves and protects the spirit.
+
+✧ Folklore: Used in Appalachian folk magic to ward off nervous agitation and spirit possession. Known as “mad dog weed” for its power to calm hysteria and rabid energy.
+
+✧ Magical Uses: Protection, nervous system peace, psychic shielding.
+
+✧ Healing Tip: Brew with chamomile and lemon balm for a powerful emotional rescue tea. Take tincture during emotional burnout.
+
+## ✦ 21. Blue Vervain (Verbena hastata)
+The herbal anchor for emotional overload.
+
+✧ Folklore: Revered in ancient Druidic rites and used in hoodoo to bless altars and soothe wounded spirits. Called "herb of grace" in early Christian lore.
+
+✧ Magical Uses: Letting go, clarity, healing emotional trauma.
+
+✧ Healing Tip: Take as a flower essence or low-dose tincture during moments of grief-induced control, rigidity, or breakdown.
+
+## ✦ 22. Hawthorn (Crataegus spp.)
+The sacred tree of the heart.
+
+✧ Folklore: Planted near sacred wells and graves to guide and guard spirits. In Celtic lands, it bridged the world of the dead and the living. Never to be cut without ceremony.
+
+✧ Magical Uses: Heart healing, ancestral connection, protection.
+
+✧ Healing Tip: Use the berries in syrup or tea to mend emotional heartbreak and support the physical heart during long mourning.
+
+---
+
 ## ✧ Ritual: Smoke Bundle for Soothing the Heart
 
 **What you need:**
