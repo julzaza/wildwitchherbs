@@ -84,7 +84,7 @@ A sacred plant of stillness and ceremony.
 
 **✧ Magical Uses:** Easing fear, inducing trance, grounding energy.
 
-**✧ Healing Tip:** Drink in small amounts as a tea or extract. Calms without sedating the mind.
+**Healing Tip:** Drink in small amounts as a tea or extract. Calms without sedating the mind.
 
 ---
 ## ✦ 7. **Rose (_Rosa spp._)**
@@ -95,7 +95,7 @@ Grief’s oldest companion.
 
 **✧ Magical Uses:** Love, grief, beauty, heart healing.
 
-**✧ Healing Tip:** Add dried petals to salt baths or steep into honey for heart-healing teas.
+**Healing Tip:** Add dried petals to salt baths or steep into honey for heart-healing teas.
 
 ---
 
@@ -104,8 +104,10 @@ Grief’s oldest companion.
 Golden medicine for sorrow and stagnation.
 
 **✧ Folklore:** Used in mourning rituals in Europe and South America. Brought warmth and remembrance.
+
 **✧ Magical Uses:** Solar healing, joy, ancestral connection.
-**✧ Healing Tip:** Use in salves or teas to restore emotional warmth and encourage inner brightness.
+
+**Healing Tip:** Use in salves or teas to restore emotional warmth and encourage inner brightness.
 
 ---
 
@@ -116,7 +118,7 @@ The witch’s nervine. Calms frazzled nerves and protects the spirit.
 
 **✧ Magical Uses:** Protection, nervous system peace, psychic shielding.
 
-**✧ Healing Tip:** Brew with chamomile and lemon balm for a powerful emotional rescue tea. Take tincture during emotional burnout.
+**Healing Tip:** Brew with chamomile and lemon balm for a powerful emotional rescue tea. Take tincture during emotional burnout.
 
 ---
 
@@ -171,7 +173,9 @@ The sacred guardian of the heart.
 The dream witch’s herb, for guiding grief into transformation.
 
 **✧ Folklore:** Burned for dreamwork, crone rituals, and psychic travel. Associated with Hecate and ancestral healing.
+
 **✧ Magical Uses:** Vision, protection, grief integration.
+
 **Healing Tip:** Burn small bundles before journaling, or drink as tea before dream rituals.
 
 ---
@@ -229,7 +233,9 @@ A banishing herb for lingering heaviness and psychic protection.
 The mender of all things broken.
 
 **✧ Folklore:** Carried in charm bags to heal heartbreak and physical wounds. Associated with Saturn and deep restoration.
+
 **✧ Magical Uses:** Repair, renewal, psychic stitching.
+
 **Healing Tip:** Infuse into oil for massage or place dried leaves under pillows during emotional recovery.
 
 ---
