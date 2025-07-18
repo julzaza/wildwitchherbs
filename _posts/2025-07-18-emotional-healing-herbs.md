@@ -121,20 +121,22 @@ The witch’s nervine. Calms frazzled nerves and protects the spirit.
 ## ✦ 10. Blue Vervain (Verbena hastata)
 The herbal anchor for emotional overload.
 
-✧ Folklore: Revered in ancient Druidic rites and used in hoodoo to bless altars and soothe wounded spirits. Called "herb of grace" in early Christian lore.
+**✧ Folklore:** Revered in ancient Druidic rites and used in hoodoo to bless altars and soothe wounded spirits. Called "herb of grace" in early Christian lore.
 
-✧ Magical Uses: Letting go, clarity, healing emotional trauma.
+**✧ Magical Uses:** Letting go, clarity, healing emotional trauma.
 
-✧ Healing Tip: Take as a flower essence or low-dose tincture during moments of grief-induced control, rigidity, or breakdown.
+**Healing Tip:** Take as a flower essence or low-dose tincture during moments of grief-induced control, rigidity, or breakdown.
+
+---
 
 ## ✦ 11. Hawthorn (Crataegus spp.)
 The sacred tree of the heart.
 
-✧ Folklore: Planted near sacred wells and graves to guide and guard spirits. In Celtic lands, it bridged the world of the dead and the living. Never to be cut without ceremony.
+**✧ Folklore:** Planted near sacred wells and graves to guide and guard spirits. In Celtic lands, it bridged the world of the dead and the living. Never to be cut without ceremony.
 
-✧ Magical Uses: Heart healing, ancestral connection, protection.
+**✧ Magical Uses:** Heart healing, ancestral connection, protection.
 
-✧ Healing Tip: Use the berries in syrup or tea to mend emotional heartbreak and support the physical heart during long mourning.
+**Healing Tip:** Use the berries in syrup or tea to mend emotional heartbreak and support the physical heart during long mourning.
 
 ---
 
@@ -142,9 +144,11 @@ The sacred tree of the heart.
 
 The sacred guardian of the heart.
 
-- ✧ *Folklore:* Revered in India as a living goddess. Burned for protection and planted near homes to keep spirits calm.
-- ✧ *Magical Uses:* Purification, emotional balance, spiritual clarity.
-- ✧ Healing Tip: Steep in daily teas to regulate mood and energy. Offers long-term nervous system support.
+**✧ Folklore:** Revered in India as a living goddess. Burned for protection and planted near homes to keep spirits calm.
+
+**✧ Magical Uses:** Purification, emotional balance, spiritual clarity.
+
+**Healing Tip:** Steep in daily teas to regulate mood and energy. Offers long-term nervous system support.
 
 ---
 
@@ -152,20 +156,21 @@ The sacred guardian of the heart.
 
 "The lion-hearted herb" for panic, palpitations, and raw grief.
 
-- ✧ *Folklore:* Given to women in labor and those in grief. Wards off emotional storms.
-- ✧ *Magical Uses:* Heart healing, grounding, grief rituals.
-- ✧ Healing Tip: Take as tincture or sit beside the plant to draw its comfort. Sit with the plant for grounding.
+**✧ Folklore:** Given to women in labor and those in grief. Wards off emotional storms.
+
+**✧ Magical Uses:** Heart healing, grounding, grief rituals.
+
+**Healing Tip:** Take as tincture or sit beside the plant to draw its comfort. Sit with the plant for grounding.
 
 ---
-
 
 ## ✦ 14. **Mugwort (_Artemisia vulgaris_)**
 
 The dream witch’s herb, for guiding grief into transformation.
 
-- ✧ *Folklore:* Burned for dreamwork, crone rituals, and psychic travel. Associated with Hecate and ancestral healing.
-- ✧ *Magical Uses:* Vision, protection, grief integration.
-- ✧ Healing Tip: Burn small bundles before journaling, or drink as tea before dream rituals.
+**✧ Folklore:** Burned for dreamwork, crone rituals, and psychic travel. Associated with Hecate and ancestral healing.
+**✧ Magical Uses:** Vision, protection, grief integration.
+**Healing Tip:** Burn small bundles before journaling, or drink as tea before dream rituals.
 
 ---
 
@@ -173,11 +178,11 @@ The dream witch’s herb, for guiding grief into transformation.
 
 Light-bringer in dark times.
 
-✧ **Folklore:** Romans believed it bestowed courage and clear sight. Hung over doors to ward off emotional heaviness.
+**✧ Folklore:** Romans believed it bestowed courage and clear sight. Hung over doors to ward off emotional heaviness.
 
-✧ **Magical Uses:** Mental clarity, emotional resilience, psychic protection.
+**✧ Magical Uses:** Mental clarity, emotional resilience, psychic protection.
 
-**✧ Healing Tip:** Add to herbal steams or chew seeds before meditation.
+**Healing Tip:** Add to herbal steams or chew seeds before meditation.
 
 ---
 
@@ -185,9 +190,11 @@ Light-bringer in dark times.
 
 The wish-maker and grief shifter.
 
-- ✧ *Folklore:* Blown into the wind to send prayers to the dead. Used in folk divination and wish magic.
-- ✧ *Magical Uses:* Release, renewal, communication with the spirit world.
-- ✧ Healing Tip: Drink root tea for liver and emotional cleansing.
+**✧ Folklore:** Blown into the wind to send prayers to the dead. Used in folk divination and wish magic.
+
+**✧ Magical Uses:** Release, renewal, communication with the spirit world.
+
+**Healing Tip:** Drink root tea for liver and emotional cleansing.
 
 ---
 
@@ -195,9 +202,11 @@ The wish-maker and grief shifter.
 
 Sacred smoke and memory keeper.
 
-- ✧ *Folklore:* Used in rites of death and departure. Clears stagnant energy after trauma or sorrow.
-- ✧ *Magical Uses:* Purification, remembrance, energetic rebirth.
-- ✧ Healing Tip: Burn ethically grown sage, or use in grief-release baths.
+**✧ Folklore:** Used in rites of death and departure. Clears stagnant energy after trauma or sorrow.
+
+**✧ Magical Uses:** Purification, remembrance, energetic rebirth.
+
+**Healing Tip:** Burn ethically grown sage, or use in grief-release baths.
 
 ---
 
@@ -205,9 +214,11 @@ Sacred smoke and memory keeper.
 
 A banishing herb for lingering heaviness and psychic protection.
 
-- ✧ *Folklore:* Used in Balkan and Chinese traditions to drive away "bad airs" and illness of the spirit.
-- ✧ *Magical Uses:* Cleansing, grief banishment, shadow work.
-- ✧ Healing Tip: Use dried in smoke bundles with rosemary and mugwort.
+**✧ Folklore:** Used in Balkan and Chinese traditions to drive away "bad airs" and illness of the spirit.
+
+**✧ Magical Uses:** Cleansing, grief banishment, shadow work.
+
+**Healing Tip:** Use dried in smoke bundles with rosemary and mugwort.
 
 ---
 
@@ -215,9 +226,9 @@ A banishing herb for lingering heaviness and psychic protection.
 
 The mender of all things broken.
 
-- ✧ *Folklore:* Carried in charm bags to heal heartbreak and physical wounds. Associated with Saturn and deep restoration.
-- ✧ *Magical Uses:* Repair, renewal, psychic stitching.
-- ✧ Healing Tip: Infuse into oil for massage or place dried leaves under pillows during emotional recovery.
+**✧ Folklore:** Carried in charm bags to heal heartbreak and physical wounds. Associated with Saturn and deep restoration.
+**✧ Magical Uses:** Repair, renewal, psychic stitching.
+**Healing Tip:** Infuse into oil for massage or place dried leaves under pillows during emotional recovery.
 
 ---
 
@@ -225,9 +236,11 @@ The mender of all things broken.
 
 The herb of courage and remembrance.
 
-- ✧ *Folklore:* Used in ancient funerary rites and wartime healing charms. Wards off fear and despair.
-- ✧ *Magical Uses:* Courage, protection, grief lifting.
-- ✧ Healing Tip: Brew strong tea for courage rituals or carry a sprig in your pocket when facing sorrow.
+**✧ Folklore:** Used in ancient funerary rites and wartime healing charms. Wards off fear and despair.
+
+**✧ Magical Uses:** Courage, protection, grief lifting.
+
+**Healing Tip:** Brew strong tea for courage rituals or carry a sprig in your pocket when facing sorrow.
 
 ---
 
@@ -235,9 +248,11 @@ The herb of courage and remembrance.
 
 Small but mighty.
 
-- ✧ *Folklore:* Slipped under pillows for dream magic, and into pockets to calm hot tempers.
-- ✧ *Magical Uses:* Peace, clarity, spiritual soothing.
-- ✧ Healing Tip: Use in tea, baths, and sleep sachets. Great for emotional digestion.  Drink as tea before rituals or sleep. Burn in incense with lavender and rose.
+**✧ Folklore:** Slipped under pillows for dream magic, and into pockets to calm hot tempers.
+
+**✧ Magical Uses:** Peace, clarity, spiritual soothing.
+
+**Healing Tip:** Use in tea, baths, and sleep sachets. Great for emotional digestion.  Drink as tea before rituals or sleep. Burn in incense with lavender and rose.
 
 ---
 
@@ -245,12 +260,13 @@ Small but mighty.
 
 The sweet sleep sentinel.
 
-- ✧ *Folklore:* Used to anoint temples and cleanse grief-laden rooms. Brings dreams, rest, and comfort.
-- ✧ *Magical Uses:* Relaxation, psychic shielding, mourning rituals.
-- ✧ Healing Tip: Burn as incense or add oil to ritual baths and pillows, or rub into temples during times of unrest.
+**✧ Folklore:** Used to anoint temples and cleanse grief-laden rooms. Brings dreams, rest, and comfort.
+
+**✧ Magical Uses:** Relaxation, psychic shielding, mourning rituals.
+
+**Healing Tip:** Burn as incense or add oil to ritual baths and pillows, or rub into temples during times of unrest.
 
 ---
-
 
 ## ✧ Ritual: Smoke Bundle for Soothing the Heart
 
