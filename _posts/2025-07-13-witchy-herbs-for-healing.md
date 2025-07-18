@@ -7,7 +7,7 @@ categories: herbalism witchcraft healing
 tags: [healing herbs, magical plants, folk medicine, witchcraft, apothecary]
 ---
 
-## ✦ The Healing Witch
+## The Healing Witch
 
 The witch was a healer before she was ever feared. Her hut may have stood at the edge of the woods, but her remedies were at the heart of village life. She worked with what she had—roots pulled from riverbanks, flowers gathered at dawn, seeds whispered over in the moonlight.
 
@@ -19,8 +19,8 @@ Below are the plants most beloved by witches, folk healers, and cunning women th
 
 Golden, generous, and glowing like the sun itself.
 
- *Folklore:* In medieval Europe, calendula was woven into garlands to ward off illness and melancholy. Known as “Bride of the Sun.”
- *Healing Uses:* Skin healing, infection, lymph flow.
+- *Folklore:* In medieval Europe, calendula was woven into garlands to ward off illness and melancholy. Known as “Bride of the Sun.”
+- *Healing Uses:* Skin healing, infection, lymph flow.
 - Magical Properties:* Joy, solar magic, upliftment, heart healing.
 - Witch Tip: Steep petals into oil or add to bath rituals for light and clarity.
 
@@ -30,10 +30,10 @@ Golden, generous, and glowing like the sun itself.
 
 A battlefield herb and shield for the soul.
 
-- ✧ *Folklore:* Achilles used it to treat war wounds. Hung over cradles or thresholds to guard the innocent.
-- ✧ *Healing Uses:* Cuts, bruises, fevers, energetic leaks.
-✧ Magical Properties:* Protection, courage, psychic boundary.
-✧ Witch Tip: Place in a charm bag for strength or burn in rituals of severance.
+- *Folklore:* Achilles used it to treat war wounds. Hung over cradles or thresholds to guard the innocent.
+- *Healing Uses:* Cuts, bruises, fevers, energetic leaks.
+- Magical Properties:* Protection, courage, psychic boundary.
+- Witch Tip: Place in a charm bag for strength or burn in rituals of severance.
 
 ---
 
