@@ -21,7 +21,9 @@ This is a guide to witchy herbs used for **emotional healing**, gathered from fo
 A gentle balm for anxious hearts.
 
 **✧ Folklore:** Beloved by medieval monks for lifting melancholy and calming “black bile.” Said to attract love and light spirits.
+
 **✧ Magical Uses:** Joy, peace, psychic clarity.
+
 **✧ Healing Tip:** Brew as a daily tea for gentle calm. Infuse into oil for self-anointing during emotional spells.
 
 ---
