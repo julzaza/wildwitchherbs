@@ -32,9 +32,9 @@ A gentle balm for anxious hearts.
 
 The sun’s light, bottled in a flower.
 
-- ✧ *Folklore:* Collected on Midsummer's Eve and hung over doorways to ward off sorrow and spirits. Used in European folk magic to “chase away devils.”
-- ✧ *Magical Uses:* Protection, joy, depression relief.
-- ✧ Healing Tip: Infused in oil or tea to ease seasonal sadness. Not to be mixed with SSRIs.
+**✧ Folklore:** Collected on Midsummer's Eve and hung over doorways to ward off sorrow and spirits. Used in European folk magic to “chase away devils.”
+**✧ Magical Uses:** Protection, joy, depression relief.
+**✧ Healing Tip:** Infused in oil or tea to ease seasonal sadness. Not to be mixed with SSRIs.
 
 ---
 
@@ -42,9 +42,9 @@ The sun’s light, bottled in a flower.
 
 For overthinking minds and heavy dreams.
 
-- ✧ *Folklore:* Named for the Passion of Christ, yet used by rootworkers for sleeplessness, trauma, and emotional looping.
-- ✧ *Magical Uses:* Sleep, quieting mental storms, calming nerves.
-- ✧ Healing Tip: Steep the flowers into tea before bed. Excellent for anxious rituals.
+**✧ Folklore:** Named for the Passion of Christ, yet used by rootworkers for sleeplessness, trauma, and emotional looping.
+**✧ Magical Uses:** Sleep, quieting mental storms, calming nerves.
+**✧ Healing Tip:** Steep the flowers into tea before bed. Excellent for anxious rituals.
 
 ---
 
