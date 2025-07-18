@@ -163,6 +163,8 @@ Pass it through incense smoke or over a candle’s flame, and bury it near your 
 
 Let your herb guardians stand sentry.
 
+**Check out [Top Witchy Herbs for Healing](/witchy-herbs-for-healing/) to learn about plants witches and healers used for centuries to take care of the body and mind.**
+
 ---
 
 ## Related Posts
