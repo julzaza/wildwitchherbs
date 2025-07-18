@@ -21,8 +21,8 @@ Golden, generous, and glowing like the sun itself.
 
 - *Folklore:* In medieval Europe, calendula was woven into garlands to ward off illness and melancholy. Known as “Bride of the Sun.”
 - *Healing Uses:* Skin healing, infection, lymph flow.
-- Magical Properties:* Joy, solar magic, upliftment, heart healing.
-- Witch Tip: Steep petals into oil or add to bath rituals for light and clarity.
+- Magical Properties: Joy, solar magic, upliftment, heart healing.
+Witch Tip: Steep petals into oil or add to bath rituals for light and clarity.
 
 ---
 
