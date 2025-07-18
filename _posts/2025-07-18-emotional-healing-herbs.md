@@ -223,6 +223,18 @@ Speak aloud:
 
 ---
 
+## ✧ Creating an Emotional Healing Spell Jar
+
+Combine:
+- Dried **rose**, **lavender**, **lemon balm**, and **calendula**
+- A small **amethyst** or **rose quartz**
+- A few drops of your **tears or moon water**
+- Seal the jar and speak your healing intention aloud.
+
+Bury it under a tree, keep it on your altar, or open it during moments of sorrow to release the spell’s energy.
+
+---
+
 ## ✧ Final Thought
 
 Emotional healing in witchcraft is sacred work. It’s slow, rooted, and real. These herbs don’t promise escape—they offer *companionship* through the pain, *wisdom* for the storm, and a whisper that you are not alone.
@@ -237,30 +249,3 @@ Drink the tea. Burn the bundle. Speak to the leaves. Let yourself feel, and let 
 - [Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)  
 
 
-
-
-## ✧ Creating an Emotional Healing Spell Jar
-
-Combine:
-- Dried **rose**, **lavender**, **lemon balm**, and **calendula**
-- A small **amethyst** or **rose quartz**
-- A few drops of your **tears or moon water**
-- Seal the jar and speak your healing intention aloud.
-
-Bury it under a tree, keep it on your altar, or open it during moments of sorrow to release the spell’s energy.
-
----
-
-## ✧ Final Word
-
-Emotional healing isn’t linear—it spirals like smoke and grows like roots. The herbs here don’t erase pain, but **honor it**, **transform it**, and walk beside you.
-
-Let your grief be sacred. Let your anxiety speak. Let the plants help you carry what you were never meant to bear alone.
-
----
-
-Explore related healing magic:
-
-- [Witchy Herbs for Protection](/top-protective-herbs-witchcraft/)
-- [Menstrual Blood Magic for Fertility](/fertility-rituals-menstrual-magic/)
-- [Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)
