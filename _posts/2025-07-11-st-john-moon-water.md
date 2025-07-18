@@ -65,6 +65,8 @@ Its yellow flowers were thought to bleed red when crushed—symbolizing **wounds
 
 **Grieving is a process and it takes time. Take your time and use this moon water to light a lantern through sorrow and loss, not to banish it—but to walk with it, gently.**
 
+Check out [Witchy Herbs for Anxiety, Grief and Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/) to learn about more traditional remedies for the soul. 
+
 ---
 
 ## Related Posts
