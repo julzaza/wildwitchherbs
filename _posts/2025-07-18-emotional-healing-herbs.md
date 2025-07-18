@@ -24,7 +24,7 @@ A gentle balm for anxious hearts.
 
 ---
 
-## ✦ 1. **St. John’s Wort (_Hypericum perforatum_)**
+## ✦ 2. **St. John’s Wort (_Hypericum perforatum_)**
 
 The sun’s light, bottled in a flower.
 
@@ -34,7 +34,7 @@ The sun’s light, bottled in a flower.
 
 ---
 
-## ✦ 2. **Passionflower (_Passiflora incarnata_)**
+## ✦ 3. **Passionflower (_Passiflora incarnata_)**
 
 For overthinking minds and heavy dreams.
 
@@ -44,7 +44,7 @@ For overthinking minds and heavy dreams.
 
 ---
 
-## ✦ 3. **Rhodiola (_Rhodiola rosea_)**
+## ✦ 4. **Rhodiola (_Rhodiola rosea_)**
 
 The root of resilience.
 
@@ -54,7 +54,7 @@ The root of resilience.
 
 ---
 
-## ✦ 4. **Valerian (_Valeriana officinalis_)**
+## ✦ 5. **Valerian (_Valeriana officinalis_)**
 
 The deep dream root.
 
@@ -64,7 +64,7 @@ The deep dream root.
 
 ---
 
-## ✦ 5. **Kava (_Piper methysticum_)**
+## ✦ 6. **Kava (_Piper methysticum_)**
 
 A sacred plant of stillness and ceremony.
 
@@ -74,7 +74,7 @@ A sacred plant of stillness and ceremony.
 
 ---
 
-## ✦ 6. **Holy Basil / Tulsi (_Ocimum tenuiflorum_)**
+## ✦ 7. **Holy Basil / Tulsi (_Ocimum tenuiflorum_)**
 
 The sacred guardian of the heart.
 
@@ -95,7 +95,7 @@ The sacred guardian of the heart.
 ---
 
 
-## ✦ 7. **Mugwort (_Artemisia vulgaris_)**
+## ✦ 9. **Mugwort (_Artemisia vulgaris_)**
 
 The dream witch’s herb, for guiding grief into transformation.
 
@@ -105,7 +105,7 @@ The dream witch’s herb, for guiding grief into transformation.
 
 ---
 
-## ✦ 8. **Fennel (_Foeniculum vulgare_)**
+## ✦ 10. **Fennel (_Foeniculum vulgare_)**
 
 Light-bringer in dark times.
 
@@ -115,7 +115,7 @@ Light-bringer in dark times.
 
 ---
 
-## ✦ 9. **Dandelion (_Taraxacum officinale_)**
+## ✦ 11. **Dandelion (_Taraxacum officinale_)**
 
 The wish-maker and grief shifter.
 
@@ -125,7 +125,7 @@ The wish-maker and grief shifter.
 
 ---
 
-## ✦ 10. **Sage (_Salvia officinalis_)**
+## ✦ 12. **Sage (_Salvia officinalis_)**
 
 Sacred smoke and memory keeper.
 
@@ -135,7 +135,7 @@ Sacred smoke and memory keeper.
 
 ---
 
-## ✦ 11. **Sweet Wormwood (_Artemisia annua_)**
+## ✦ 13. **Sweet Wormwood (_Artemisia annua_)**
 
 A banishing herb for lingering heaviness and psychic protection.
 
@@ -145,7 +145,7 @@ A banishing herb for lingering heaviness and psychic protection.
 
 ---
 
-## ✦ 12. **Comfrey (_Symphytum officinale_)**
+## ✦ 14. **Comfrey (_Symphytum officinale_)**
 
 The mender of all things broken.
 
@@ -155,7 +155,7 @@ The mender of all things broken.
 
 ---
 
-## ✦ 13. **Thyme (_Thymus vulgaris_)**
+## ✦ 15. **Thyme (_Thymus vulgaris_)**
 
 The herb of courage and remembrance.
 
@@ -165,7 +165,7 @@ The herb of courage and remembrance.
 
 ---
 
-## ✦ 9. **Chamomile (_Matricaria chamomilla_)**
+## ✦ 16. **Chamomile (_Matricaria chamomilla_)**
 
 Small but mighty.
 
@@ -175,7 +175,7 @@ Small but mighty.
 
 ---
 
-## ✦ 10. **Lavender (_Lavandula spp._)**
+## ✦ 17. **Lavender (_Lavandula spp._)**
 
 The sweet sleep sentinel.
 
@@ -185,7 +185,7 @@ The sweet sleep sentinel.
 
 ---
 
-## ✦ 3. **Rose (_Rosa spp._)**
+## ✦ 18. **Rose (_Rosa spp._)**
 
 Grief’s oldest companion.
 
@@ -196,7 +196,7 @@ Grief’s oldest companion.
 ---
 
 
-## ✦ 6. **Calendula (_Calendula officinalis_)**
+## ✦ 19. **Calendula (_Calendula officinalis_)**
 
 Golden medicine for sorrow and stagnation.
 
