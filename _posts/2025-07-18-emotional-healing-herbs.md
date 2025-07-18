@@ -87,9 +87,11 @@ A sacred plant of stillness and ceremony.
 
 Grief’s oldest companion.
 
-- ✧ *Folklore:* Worn during funerals and rituals of release. Used to connect to the dead and ease heartbreak.
-- ✧ *Magical Uses:* Love, grief, beauty, heart healing.
-- ✧ Healing Tip: Add dried petals to salt baths or steep into honey for heart-healing teas.
+**✧ Folklore:** Worn during funerals and rituals of release. Used to connect to the dead and ease heartbreak.
+
+**✧ Magical Uses:** Love, grief, beauty, heart healing.
+
+**✧ Healing Tip:** Add dried petals to salt baths or steep into honey for heart-healing teas.
 
 ---
 
@@ -97,20 +99,22 @@ Grief’s oldest companion.
 
 Golden medicine for sorrow and stagnation.
 
-- ✧ *Folklore:* Used in mourning rituals in Europe and South America. Brought warmth and remembrance.
-- ✧ *Magical Uses:* Solar healing, joy, ancestral connection.
-- ✧ Healing Tip: Use in salves or teas to restore emotional warmth and encourage inner brightness.
+**✧ Folklore:** Used in mourning rituals in Europe and South America. Brought warmth and remembrance.
+**✧ Magical Uses:** Solar healing, joy, ancestral connection.
+**✧ Healing Tip:** Use in salves or teas to restore emotional warmth and encourage inner brightness.
 
 ---
 
 ## ✦ 9. Skullcap (Scutellaria lateriflora)
 The witch’s nervine. Calms frazzled nerves and protects the spirit.
 
-✧ Folklore: Used in Appalachian folk magic to ward off nervous agitation and spirit possession. Known as “mad dog weed” for its power to calm hysteria and rabid energy.
+**✧ Folklore:** Used in Appalachian folk magic to ward off nervous agitation and spirit possession. Known as “mad dog weed” for its power to calm hysteria and rabid energy.
 
-✧ Magical Uses: Protection, nervous system peace, psychic shielding.
+**✧ Magical Uses:** Protection, nervous system peace, psychic shielding.
 
-✧ Healing Tip: Brew with chamomile and lemon balm for a powerful emotional rescue tea. Take tincture during emotional burnout.
+**✧ Healing Tip:** Brew with chamomile and lemon balm for a powerful emotional rescue tea. Take tincture during emotional burnout.
+
+---
 
 ## ✦ 10. Blue Vervain (Verbena hastata)
 The herbal anchor for emotional overload.
