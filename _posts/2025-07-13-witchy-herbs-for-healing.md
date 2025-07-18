@@ -42,10 +42,10 @@ A battlefield herb and shield for the soul.
 
 Gentle balm of bees and broken hearts.
 
-- ✧ *Folklore:* Sacred to Artemis and Diana. Used in monastic gardens to soothe melancholy and nervous disorders.
-- ✧ *Healing Uses:* Anxiety, grief, sleep troubles, viral infections.
-- ✧ Magical Properties:* Calm, joy, emotional restoration, love.
-- ✧ Witch Tip: Blend with lavender in tea or anoint the chest with balm during full moon rites.
+- *Folklore:* Sacred to Artemis and Diana. Used in monastic gardens to soothe melancholy and nervous disorders.
+- *Healing Uses:* Anxiety, grief, sleep troubles, viral infections.
+- Magical Properties: Calm, joy, emotional restoration, love.
+- Witch Tip: Blend with lavender in tea or anoint the chest with balm during full moon rites.
 
 ---
 
@@ -53,10 +53,10 @@ Gentle balm of bees and broken hearts.
 
 The bone-mender and oath-binder.
 
-- ✧ *Folklore:* In Slavic and Germanic folk traditions, comfrey was used to “knit” not just flesh, but spiritual contracts.
-- ✧ *Healing Uses:* Sprains, bruises, broken bones (external use only).
-- ✧ Magical Properties:* Binding, restoration, stability.
-- ✧ Witch Tip: Infuse in oil for healing salves; do not use on deep wounds.
+- *Folklore:* In Slavic and Germanic folk traditions, comfrey was used to “knit” not just flesh, but spiritual contracts.
+- *Healing Uses:* Sprains, bruises, broken bones (external use only).
+- Magical Properties: Binding, restoration, stability.
+- Witch Tip: Infuse in oil for healing salves; do not use on deep wounds.
 
 ---
 
@@ -64,10 +64,10 @@ The bone-mender and oath-binder.
 
 A witch’s ally for strength and second sight.
 
-- ✧ *Folklore:* Hung above doors in Italy to protect from evil. Romans believed fennel brought clarity to the mind.
-- ✧ *Healing Uses:* Digestive aid, respiratory support, clarity.
-- ✧ Magical Properties:* Purification, inner power, psychic vision.
-- ✧ Witch Tip: Burn seeds with bay for insight during divination rituals.
+- *Folklore:* Hung above doors in Italy to protect from evil. Romans believed fennel brought clarity to the mind.
+- *Healing Uses:* Digestive aid, respiratory support, clarity.
+- Magical Properties: Purification, inner power, psychic vision.
+- Witch Tip: Burn seeds with bay for insight during divination rituals.
 
 ---
 
@@ -75,10 +75,10 @@ A witch’s ally for strength and second sight.
 
 The wish-maker and soul cleanser.
 
-- ✧ *Folklore:* Children blew dandelion clocks to divine time and fate. Roots were used for cleansing the liver and the spirit.
-- ✧ *Healing Uses:* Detoxification, digestion, liver health.
-- ✧ Magical Properties:* Manifestation, transformation, resilience.
-- ✧ Witch Tip: Brew root tea during waning moons to release what no longer serves.
+- *Folklore:* Children blew dandelion clocks to divine time and fate. Roots were used for cleansing the liver and the spirit.
+- *Healing Uses:* Detoxification, digestion, liver health.
+- Magical Properties: Manifestation, transformation, resilience.
+- Witch Tip: Brew root tea during waning moons to release what no longer serves.
 
 ---
 
@@ -86,10 +86,10 @@ The wish-maker and soul cleanser.
 
 A humble daisy with protective teeth.
 
-- ✧ *Folklore:* Carried to prevent fevers and accidents. In the Balkans, a feverfew crown was worn by the ill.
-- ✧ *Healing Uses:* Migraines, inflammation, immune support.
-- ✧ Magical Properties:* Warding, physical protection, rebirth.
-- ✧ Witch Tip: Plant near the door or carry in a pouch when traveling.
+- *Folklore:* Carried to prevent fevers and accidents. In the Balkans, a feverfew crown was worn by the ill.
+- *Healing Uses:* Migraines, inflammation, immune support.
+- Magical Properties: Warding, physical protection, rebirth.
+- Witch Tip: Plant near the door or carry in a pouch when traveling.
 
 ---
 
@@ -97,10 +97,10 @@ A humble daisy with protective teeth.
 
 Green armor for skin and soul.
 
-- ✧ *Folklore:* One of the Anglo-Saxon Nine Sacred Herbs. Called upon in healing chants and laid on wounds by cunning folk.
-- ✧ *Healing Uses:* Cuts, stings, infections, poison removal.
-- ✧ Magical Properties:* Grounding, wound sealing, anti-venom.
-- ✧ Witch Tip: Chew and apply as a spit poultice in emergencies.
+- *Folklore:* One of the Anglo-Saxon Nine Sacred Herbs. Called upon in healing chants and laid on wounds by cunning folk.
+- *Healing Uses:* Cuts, stings, infections, poison removal.
+- Magical Properties:* Grounding, wound sealing, anti-venom.
+- Witch Tip: Chew and apply as a spit poultice in emergencies.
 
 ---
 
@@ -108,10 +108,10 @@ Green armor for skin and soul.
 
 The sharp scent of clarity and communion.
 
-- ✧ *Folklore:* In ancient Greece, mint was rubbed on altars to call the spirits. In folk magic, used to break curses and cool tempers.
-- ✧ *Healing Uses:* Digestion, headaches, respiratory ease.
-- ✧ Magical Properties:* Psychic opening, healing breath, protection.
-- ✧ Witch Tip: Place under pillows for vivid dreams and spirit visits.
+- *Folklore:* In ancient Greece, mint was rubbed on altars to call the spirits. In folk magic, used to break curses and cool tempers.
+- *Healing Uses:* Digestion, headaches, respiratory ease.
+- Magical Properties: Psychic opening, healing breath, protection.
+- Witch Tip: Place under pillows for vivid dreams and spirit visits.
 
 ---
 
@@ -119,10 +119,10 @@ The sharp scent of clarity and communion.
 
 A warrior’s herb and dreamwalker’s guide.
 
-- ✧ *Folklore:* Romans bathed in thyme before battle. In the British Isles, thyme was burned to commune with fae or the dead.
-- ✧ *Healing Uses:* Antimicrobial, respiratory, nervous system.
-- ✧ Magical Properties:* Courage, purification, ancestral connection.
-- ✧ Witch Tip: Burn in bundles or brew in baths before rituals.
+- *Folklore:* Romans bathed in thyme before battle. In the British Isles, thyme was burned to commune with fae or the dead.
+- *Healing Uses:* Antimicrobial, respiratory, nervous system.
+- Magical Properties:* Courage, purification, ancestral connection.
+- Witch Tip: Burn in bundles or brew in baths before rituals.
 
 ---
 
@@ -130,10 +130,10 @@ A warrior’s herb and dreamwalker’s guide.
 
 Wisdom keeper of the garden.
 
-- ✧ *Folklore:* In southern Europe, sage was a sacred plant of longevity and clarity. “Why should a man die while sage grows in his garden?”
-- ✧ *Healing Uses:* Sore throats, hot flashes, inflammation.
-- ✧ Magical Properties:* Protection, cleansing, sacred speech.
-- ✧ Witch Tip: Use in healing charms and rites to clear heavy energy before herbal work.
+- *Folklore:* In southern Europe, sage was a sacred plant of longevity and clarity. “Why should a man die while sage grows in his garden?”
+- *Healing Uses:* Sore throats, hot flashes, inflammation.
+- Magical Properties: Protection, cleansing, sacred speech.
+- Witch Tip: Use in healing charms and rites to clear heavy energy before herbal work.
 
 ---
 
@@ -141,67 +141,67 @@ Wisdom keeper of the garden.
 
 Royal herb of body and spell.
 
-- ✧ *Folklore:* In India, basil was sacred to Lakshmi. In Europe, used to soothe heartbreak and bring wealth.
-- ✧ *Healing Uses:* Infections, digestion, inflammation.
-- ✧ Magical Properties:* Abundance, love, purification.
-- ✧ Witch Tip: Steep into a tea or tuck fresh basil under your pillow for heart-healing dreams.
+- *Folklore:* In India, basil was sacred to Lakshmi. In Europe, used to soothe heartbreak and bring wealth.
+- *Healing Uses:* Infections, digestion, inflammation.
+- Magical Properties: Abundance, love, purification.
+- Witch Tip: Steep into a tea or tuck fresh basil under your pillow for heart-healing dreams.
 
 ---
 
 ## ✦ 13. Elder (Sambucus nigra)
 Tree of witches, ward of the wise.
 
-✧ Folklore: Said to house the Elder Mother spirit—ask permission before harvesting. Branches were hung over doors to protect against sickness and spells.
+- Folklore: Said to house the Elder Mother spirit—ask permission before harvesting. Branches were hung over doors to protect against sickness and spells.
 
-✧ Healing Uses: Immune support, fever, colds (flowers and berries).
+- Healing Uses: Immune support, fever, colds (flowers and berries).
 
-✧ Magical Properties:* Protection, spirit work, fae magic.
+- Magical Properties:* Protection, spirit work, fae magic.
 
-✧ Witch Tip: Use the flowers in healing teas and the berries in syrups. Never use raw leaves or bark internally—they are toxic.
+- Witch Tip: Use the flowers in healing teas and the berries in syrups. Never use raw leaves or bark internally—they are toxic.
 
 ## ✦ 14. Lavender (Lavandula spp.)
 A lullaby in bloom.
 
-✧ Folklore: Witches carried lavender for peace and second sight. In love spells, it soothed sorrows and opened the heart.
+- Folklore: Witches carried lavender for peace and second sight. In love spells, it soothed sorrows and opened the heart.
 
-✧ Healing Uses: Anxiety, sleep, nervous tension, burns.
+- Healing Uses: Anxiety, sleep, nervous tension, burns.
 
-✧ Magical Properties:* Peace, clarity, dreamwork.
+- Magical Properties:* Peace, clarity, dreamwork.
 
-✧ Witch Tip: Burn in bedtime rituals or add to dream pillows and healing baths.
+- Witch Tip: Burn in bedtime rituals or add to dream pillows and healing baths.
 
 ## ✦ 15. Mugwort (Artemisia vulgaris)
 The witch’s eye, the crone’s smoke.
 
-✧ Folklore: Burned to open the third eye, mugwort was used in divination, protection, and womb healing rites across Europe and Asia.
+- Folklore: Burned to open the third eye, mugwort was used in divination, protection, and womb healing rites across Europe and Asia.
 
-✧ Healing Uses: Menstrual regulation, digestion, dreams.
+- Healing Uses: Menstrual regulation, digestion, dreams.
 
-✧ Magical Properties:* Prophecy, shadow work, spirit guidance.
+- Magical Properties:* Prophecy, shadow work, spirit guidance.
 
-✧ Witch Tip: Make a dream tea or smoke-cleanse your space before trance work.
+- Witch Tip: Make a dream tea or smoke-cleanse your space before trance work.
 
 ## ✦ 16. Sweet Wormwood (Artemisia annua)
 Bitter healer, solar purifier.
 
-✧ Folklore: Used to dispel fevers and evil alike. In Balkan and Chinese traditions, burned at doors during plague seasons.
+- Folklore: Used to dispel fevers and evil alike. In Balkan and Chinese traditions, burned at doors during plague seasons.
 
-✧ Healing Uses: Malaria, fever, inflammation, parasites.
+- Healing Uses: Malaria, fever, inflammation, parasites.
 
-✧ Magical Properties:* Cleansing, solar strength, hex breaking.
+- Magical Properties:* Cleansing, solar strength, hex breaking.
 
-✧ Witch Tip: Steep in oil or hang dried bundles by the door to guard health and home.
+- Witch Tip: Steep in oil or hang dried bundles by the door to guard health and home.
 
 ## ✦ 17. Chamomile (Matricaria chamomilla)
 Sunlight for the soul.
 
-✧ Folklore: Known as “ground apple,” chamomile was used in baths, teas, and spells to attract peace, luck, and golden dreams.
+- Folklore: Known as “ground apple,” chamomile was used in baths, teas, and spells to attract peace, luck, and golden dreams.
 
-✧ Healing Uses: Sleep aid, digestive support, stress relief.
+- Healing Uses: Sleep aid, digestive support, stress relief.
 
-✧ Magical Properties:* Luck, calm, dreamwork, child protection.
+- Magical Properties:* Luck, calm, dreamwork, child protection.
 
-✧ Witch Tip: Wash floors with chamomile tea to invite peace into the home.
+- Witch Tip: Wash floors with chamomile tea to invite peace into the home.
 
 
 
