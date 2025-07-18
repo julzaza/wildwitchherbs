@@ -24,7 +24,7 @@ A gentle balm for anxious hearts.
 
 **✧ Magical Uses:** Joy, peace, psychic clarity.
 
-**✧ Healing Tip:** Brew as a daily tea for gentle calm. Infuse into oil for self-anointing during emotional spells.
+**Healing Tip:** Brew as a daily tea for gentle calm. Infuse into oil for self-anointing during emotional spells.
 
 ---
 
@@ -78,9 +78,11 @@ The deep dream root.
 
 A sacred plant of stillness and ceremony.
 
-- ✧ *Folklore:* Used in Pacific Island rituals to bring communal peace and spiritual clarity.
-- ✧ *Magical Uses:* Easing fear, inducing trance, grounding energy.
-- ✧ Healing Tip: Drink in small amounts as a tea or extract. Calms without sedating the mind.
+**✧ Folklore:** Used in Pacific Island rituals to bring communal peace and spiritual clarity.
+
+**✧ Magical Uses:** Easing fear, inducing trance, grounding energy.
+
+**✧ Healing Tip:** Drink in small amounts as a tea or extract. Calms without sedating the mind.
 
 ---
 ## ✦ 7. **Rose (_Rosa spp._)**
