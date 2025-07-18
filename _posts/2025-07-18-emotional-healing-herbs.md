@@ -304,7 +304,7 @@ Combine:
 
 Bury it under a tree, keep it on your altar, or open it during moments of sorrow to release the spell’s energy.
 
-And here is [How to Make Moon Water for Witchcraft](/moon-water-magic/) in case you haven't done this witchy but potent potion. 
+And here is [How to Make Moon Water for Witchcraft](/moon-water-magic/) in case you haven't done this simple but potent witchy potion. 
 
 ---
 
