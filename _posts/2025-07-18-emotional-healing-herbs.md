@@ -113,7 +113,7 @@ Light-bringer in dark times.
 
 ✧ **Magical Uses:** Mental clarity, emotional resilience, psychic protection.
 
-✧ **Healing Tip:** Add to herbal steams or chew seeds before meditation.
+**✧ Healing Tip:** Add to herbal steams or chew seeds before meditation.
 
 ---
 
