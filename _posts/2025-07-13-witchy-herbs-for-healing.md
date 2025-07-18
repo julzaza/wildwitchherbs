@@ -32,8 +32,8 @@ A battlefield herb and shield for the soul.
 
 - ✧ *Folklore:* Achilles used it to treat war wounds. Hung over cradles or thresholds to guard the innocent.
 - ✧ *Healing Uses:* Cuts, bruises, fevers, energetic leaks.
-- ✧ Magical Properties:* Protection, courage, psychic boundary.
-- ✧ Witch Tip: Place in a charm bag for strength or burn in rituals of severance.
+✧ Magical Properties:* Protection, courage, psychic boundary.
+✧ Witch Tip: Place in a charm bag for strength or burn in rituals of severance.
 
 ---
 
