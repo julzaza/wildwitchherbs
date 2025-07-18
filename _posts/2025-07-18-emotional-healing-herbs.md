@@ -52,9 +52,9 @@ For overthinking minds and heavy dreams.
 
 The root of resilience.
 
-- ✧ *Folklore:* Used by Siberian shamans and Viking warriors to fortify body and spirit in harsh climates and grief.
-- ✧ *Magical Uses:* Endurance, mood balance, spiritual strength.
-- ✧ Healing Tip: Take tincture or capsule for long-term stress support and energetic recovery.
+**✧ Folklore:** Used by Siberian shamans and Viking warriors to fortify body and spirit in harsh climates and grief.
+**✧ Magical Uses:** Endurance, mood balance, spiritual strength.
+**✧ Healing Tip:** Take tincture or capsule for long-term stress support and energetic recovery.
 
 ---
 
@@ -62,9 +62,9 @@ The root of resilience.
 
 The deep dream root.
 
-- ✧ *Folklore:* Hung in homes to keep away the devil and nightmares. Used by witches in trancework and sleep charms.
-- ✧ *Magical Uses:* Peaceful sleep, release, dream magic.
-- ✧ Healing Tip: Strong sedative. Use in teas or tinctures when rest is essential. Pungent but powerful.
+**✧ Folklore:** Hung in homes to keep away the devil and nightmares. Used by witches in trancework and sleep charms.
+**✧ Magical Uses:** Peaceful sleep, release, dream magic.
+**✧ Healing Tip:** Strong sedative. Use in teas or tinctures when rest is essential. Pungent but powerful.
 
 ---
 
