@@ -23,7 +23,7 @@ permalink: /world-magic-for-protection/
 
 ---
 
-## Introduction: The Need for Protection
+## The Need for Protection
 
 Witches have always understood the unseen. Illness, envy, spirits, and strangers all posed risks. Herbs became allies, grown or gathered not just for healing but to **protect the body, the home, the soul**.
 
@@ -185,6 +185,8 @@ Protection isn’t paranoia—it’s preparation. These herbs connect us to ance
 Whether you walk barefoot in the woods or light a candle in a city apartment, these traditions are yours to adapt and carry on.
 
 Let the plants protect you—boldly, softly, completely.
+
+[Top Witchy Herbs for Healing](/witchy-herbs-for-healing/) will guide you through plants witches and healers used to cure body, mind and soul. 
 
 ---
 
