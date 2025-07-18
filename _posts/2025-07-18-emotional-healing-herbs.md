@@ -8,7 +8,9 @@ tags: [witchcraft, herbalism, anxiety, grief, emotional healing, witchy plants, 
 description: "A folklore-rich guide to witchy herbs for emotional healing, from anxiety and depression to heartbreak and grief. Explore sacred plants like St. John's Wort, Passionflower, Rhodiola, and Holy Basil, and learn how to use them in spells and rituals."
 ---
 
-Witches have always known what the world is only beginning to remember: **healing the heart takes more than logic**. It requires **ritual, plants, and spirit**—a return to the root. In folk magic and witchcraft, herbs were not merely medicine, but **soul companions** in times of sorrow and storms.
+Witches have always known what the world is only beginning to remember: **healing the heart takes more than logic**. 
+
+It requires **ritual, plants, and spirit**—a return to the root. In folk magic and witchcraft, herbs were not merely medicine, but **soul companions** in times of sorrow and storms.
 
 This is a guide to witchy herbs used for **emotional healing**, gathered from folk traditions, magical texts, and herbal wisdom. Whether you're moving through grief, calming anxiety, or seeking inner restoration, these plants speak to the spirit as well as the body.
 
