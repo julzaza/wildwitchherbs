@@ -46,10 +46,10 @@ In **folk medicine**, St. John's Wort was used not only to lift spirits, but to 
 
 ## Spell: Water for the Wandering Soul
 
-> “With petals bright and moonlight deep,  
-> I call the ones I’ve lost in sleep.  
-> Guard my heart, and light the way—  
-> Grief shall soften, but love shall stay.”
+“With petals bright and moonlight deep,  
+I call the ones I’ve lost in sleep.  
+Guard my heart, and light the way—  
+Grief shall soften, but love shall stay.”
 
 Whisper this over the jar when placing it beneath the moon.
 
