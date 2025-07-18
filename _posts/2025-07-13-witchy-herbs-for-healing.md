@@ -218,11 +218,11 @@ Sunlight for the soul.
 
 ## ✦ Final Thoughts
 
-These herbs are more than green things in bottles. They are ancestors with leaves. They are bridges between spirit and body, story and science. Each one has served witches, midwives, and healers for centuries.
-
-But healing doesn’t come from memorizing herbs. It comes from tending to them. Listening to them. Honoring their lives as you honor your own.
+These herbs are bridges between spirit and body, story and science. Each one has served witches, midwives, and healers for centuries.
 
 Let your apothecary be your altar. Let your healing be a ritual.
+
+Here are [Top Whitchy Herbs for Protection](/top-protective-herbs-witchcraft/) to guide you on your witchy journey. 
 
 ---
 
