@@ -152,7 +152,7 @@ Hung above the hearth or worn as an amulet, it keeps out intruders—both human 
 
 ---
 
-These are just the top plants with protective powers, but there are a lot more to explore. Learn [What Witches Around the World Use for Protection](/world-magic-for-protection/) here.
+These are just the top plants with protective powers, but there are a lot more to explore. Learn [What Witches from Different Parts of the World Use for Protection](/world-magic-for-protection/) here.
 
 ## Make Your Own Charm
 **Spell: The Charm of Thorns and Smoke**
