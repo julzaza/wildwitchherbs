@@ -9,9 +9,9 @@ tags: [healing herbs, magical plants, folk medicine, witchcraft, apothecary]
 
 ## The Healing Witch
 
-The witch was a healer before she was ever feared. Her hut may have stood at the edge of the woods, but her remedies were at the heart of village life. She worked with what she had—roots pulled from riverbanks, flowers gathered at dawn, seeds whispered over in the moonlight.
+The witch was a healer before she was ever feared. **Her hut may have stood at the edge of the woods, but her remedies were at the heart of village life.** She worked with what she had—roots pulled from riverbanks, flowers gathered at dawn, seeds whispered over in the moonlight.
 
-Below are the plants most beloved by witches, folk healers, and cunning women throughout history—each one known to mend not just the body, but the spirit, the heart, and sometimes even fate.
+Below are the plants most beloved by witches, folk healers, and cunning women throughout history— known to mend not just the body, but the spirit, the heart, and sometimes even fate.
 
 ---
 
