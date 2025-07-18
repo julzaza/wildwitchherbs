@@ -290,7 +290,9 @@ The sweet sleep sentinel.
 Speak aloud:  
 *“Let this heaviness pass. Let this breath return. Let the green ones hold me.”*
 
-Check out [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/) to learn more about this popular witchy ritual. As well as [Herbs You Should Never Burn in Ritual](/never-burn-herbs/) to keep it on the safe side. 
+Check out [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/) to learn more about this popular witchy ritual. 
+
+As well as [Herbs You Should Never Burn in Ritual](/never-burn-herbs/) to keep it on the safe side. 
 
 ---
 
