@@ -290,6 +290,8 @@ The sweet sleep sentinel.
 Speak aloud:  
 *“Let this heaviness pass. Let this breath return. Let the green ones hold me.”*
 
+Check out [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/) to learn more about this popular witchy ritual. 
+
 ---
 
 ## ✧ Creating an Emotional Healing Spell Jar
@@ -301,6 +303,8 @@ Combine:
 - Seal the jar and speak your healing intention aloud.
 
 Bury it under a tree, keep it on your altar, or open it during moments of sorrow to release the spell’s energy.
+
+And here is [How to Make Moon Water for Witchcraft](/moon-water-magic/) in case you haven't done this witchy but potent potion. 
 
 ---
 
