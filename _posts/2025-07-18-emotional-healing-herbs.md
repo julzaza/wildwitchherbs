@@ -77,8 +77,56 @@ A sacred plant of stillness and ceremony.
 - ✧ Healing Tip: Drink in small amounts as a tea or extract. Calms without sedating the mind.
 
 ---
+## ✦ 7. **Rose (_Rosa spp._)**
 
-## ✦ 7. **Holy Basil / Tulsi (_Ocimum tenuiflorum_)**
+Grief’s oldest companion.
+
+- ✧ *Folklore:* Worn during funerals and rituals of release. Used to connect to the dead and ease heartbreak.
+- ✧ *Magical Uses:* Love, grief, beauty, heart healing.
+- ✧ Healing Tip: Add dried petals to salt baths or steep into honey for heart-healing teas.
+
+---
+
+## ✦ 8. **Calendula (_Calendula officinalis_)**
+
+Golden medicine for sorrow and stagnation.
+
+- ✧ *Folklore:* Used in mourning rituals in Europe and South America. Brought warmth and remembrance.
+- ✧ *Magical Uses:* Solar healing, joy, ancestral connection.
+- ✧ Healing Tip: Use in salves or teas to restore emotional warmth and encourage inner brightness.
+
+---
+
+## ✦ 9. Skullcap (Scutellaria lateriflora)
+The witch’s nervine. Calms frazzled nerves and protects the spirit.
+
+✧ Folklore: Used in Appalachian folk magic to ward off nervous agitation and spirit possession. Known as “mad dog weed” for its power to calm hysteria and rabid energy.
+
+✧ Magical Uses: Protection, nervous system peace, psychic shielding.
+
+✧ Healing Tip: Brew with chamomile and lemon balm for a powerful emotional rescue tea. Take tincture during emotional burnout.
+
+## ✦ 10. Blue Vervain (Verbena hastata)
+The herbal anchor for emotional overload.
+
+✧ Folklore: Revered in ancient Druidic rites and used in hoodoo to bless altars and soothe wounded spirits. Called "herb of grace" in early Christian lore.
+
+✧ Magical Uses: Letting go, clarity, healing emotional trauma.
+
+✧ Healing Tip: Take as a flower essence or low-dose tincture during moments of grief-induced control, rigidity, or breakdown.
+
+## ✦ 11. Hawthorn (Crataegus spp.)
+The sacred tree of the heart.
+
+✧ Folklore: Planted near sacred wells and graves to guide and guard spirits. In Celtic lands, it bridged the world of the dead and the living. Never to be cut without ceremony.
+
+✧ Magical Uses: Heart healing, ancestral connection, protection.
+
+✧ Healing Tip: Use the berries in syrup or tea to mend emotional heartbreak and support the physical heart during long mourning.
+
+---
+
+## ✦ 12. **Holy Basil / Tulsi (_Ocimum tenuiflorum_)**
 
 The sacred guardian of the heart.
 
@@ -88,7 +136,7 @@ The sacred guardian of the heart.
 
 ---
 
-## ✦ 8. **Motherwort (_Leonurus cardiaca_)**
+## ✦ 13. **Motherwort (_Leonurus cardiaca_)**
 
 "The lion-hearted herb" for panic, palpitations, and raw grief.
 
@@ -99,7 +147,7 @@ The sacred guardian of the heart.
 ---
 
 
-## ✦ 9. **Mugwort (_Artemisia vulgaris_)**
+## ✦ 14. **Mugwort (_Artemisia vulgaris_)**
 
 The dream witch’s herb, for guiding grief into transformation.
 
@@ -109,7 +157,7 @@ The dream witch’s herb, for guiding grief into transformation.
 
 ---
 
-## ✦ 10. **Fennel (_Foeniculum vulgare_)**
+## ✦ 15. **Fennel (_Foeniculum vulgare_)**
 
 Light-bringer in dark times.
 
@@ -121,7 +169,7 @@ Light-bringer in dark times.
 
 ---
 
-## ✦ 11. **Dandelion (_Taraxacum officinale_)**
+## ✦ 16. **Dandelion (_Taraxacum officinale_)**
 
 The wish-maker and grief shifter.
 
@@ -131,7 +179,7 @@ The wish-maker and grief shifter.
 
 ---
 
-## ✦ 12. **Sage (_Salvia officinalis_)**
+## ✦ 17. **Sage (_Salvia officinalis_)**
 
 Sacred smoke and memory keeper.
 
@@ -141,7 +189,7 @@ Sacred smoke and memory keeper.
 
 ---
 
-## ✦ 13. **Sweet Wormwood (_Artemisia annua_)**
+## ✦ 18. **Sweet Wormwood (_Artemisia annua_)**
 
 A banishing herb for lingering heaviness and psychic protection.
 
@@ -151,7 +199,7 @@ A banishing herb for lingering heaviness and psychic protection.
 
 ---
 
-## ✦ 14. **Comfrey (_Symphytum officinale_)**
+## ✦ 19. **Comfrey (_Symphytum officinale_)**
 
 The mender of all things broken.
 
@@ -161,7 +209,7 @@ The mender of all things broken.
 
 ---
 
-## ✦ 15. **Thyme (_Thymus vulgaris_)**
+## ✦ 20. **Thyme (_Thymus vulgaris_)**
 
 The herb of courage and remembrance.
 
@@ -171,7 +219,7 @@ The herb of courage and remembrance.
 
 ---
 
-## ✦ 16. **Chamomile (_Matricaria chamomilla_)**
+## ✦ 21. **Chamomile (_Matricaria chamomilla_)**
 
 Small but mighty.
 
@@ -181,7 +229,7 @@ Small but mighty.
 
 ---
 
-## ✦ 17. **Lavender (_Lavandula spp._)**
+## ✦ 22. **Lavender (_Lavandula spp._)**
 
 The sweet sleep sentinel.
 
@@ -191,55 +239,6 @@ The sweet sleep sentinel.
 
 ---
 
-## ✦ 18. **Rose (_Rosa spp._)**
-
-Grief’s oldest companion.
-
-- ✧ *Folklore:* Worn during funerals and rituals of release. Used to connect to the dead and ease heartbreak.
-- ✧ *Magical Uses:* Love, grief, beauty, heart healing.
-- ✧ Healing Tip: Add dried petals to salt baths or steep into honey for heart-healing teas.
-
----
-
-
-## ✦ 19. **Calendula (_Calendula officinalis_)**
-
-Golden medicine for sorrow and stagnation.
-
-- ✧ *Folklore:* Used in mourning rituals in Europe and South America. Brought warmth and remembrance.
-- ✧ *Magical Uses:* Solar healing, joy, ancestral connection.
-- ✧ Healing Tip: Use in salves or teas to restore emotional warmth and encourage inner brightness.
-
----
-
-## ✦ 20. Skullcap (Scutellaria lateriflora)
-The witch’s nervine. Calms frazzled nerves and protects the spirit.
-
-✧ Folklore: Used in Appalachian folk magic to ward off nervous agitation and spirit possession. Known as “mad dog weed” for its power to calm hysteria and rabid energy.
-
-✧ Magical Uses: Protection, nervous system peace, psychic shielding.
-
-✧ Healing Tip: Brew with chamomile and lemon balm for a powerful emotional rescue tea. Take tincture during emotional burnout.
-
-## ✦ 21. Blue Vervain (Verbena hastata)
-The herbal anchor for emotional overload.
-
-✧ Folklore: Revered in ancient Druidic rites and used in hoodoo to bless altars and soothe wounded spirits. Called "herb of grace" in early Christian lore.
-
-✧ Magical Uses: Letting go, clarity, healing emotional trauma.
-
-✧ Healing Tip: Take as a flower essence or low-dose tincture during moments of grief-induced control, rigidity, or breakdown.
-
-## ✦ 22. Hawthorn (Crataegus spp.)
-The sacred tree of the heart.
-
-✧ Folklore: Planted near sacred wells and graves to guide and guard spirits. In Celtic lands, it bridged the world of the dead and the living. Never to be cut without ceremony.
-
-✧ Magical Uses: Heart healing, ancestral connection, protection.
-
-✧ Healing Tip: Use the berries in syrup or tea to mend emotional heartbreak and support the physical heart during long mourning.
-
----
 
 ## ✧ Ritual: Smoke Bundle for Soothing the Heart
 
