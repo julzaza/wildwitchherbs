@@ -109,9 +109,9 @@ The dream witch’s herb, for guiding grief into transformation.
 
 Light-bringer in dark times.
 
-- ✧ *Folklore:* Romans believed it bestowed courage and clear sight. Hung over doors to ward off emotional heaviness.
-- ✧ *Magical Uses:* Mental clarity, emotional resilience, psychic protection.
-- ✧ Healing Tip: Add to herbal steams or chew seeds before meditation.
+✧ **Folklore:** Romans believed it bestowed courage and clear sight. Hung over doors to ward off emotional heaviness.
+✧ **Magical Uses:** Mental clarity, emotional resilience, psychic protection.
+✧ **Healing Tip:** Add to herbal steams or chew seeds before meditation.
 
 ---
 
