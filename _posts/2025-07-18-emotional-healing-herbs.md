@@ -37,6 +37,8 @@ The sun’s light, bottled in a flower.
 
 **Healing Tip:** Infused in oil or tea to ease seasonal sadness. Not to be mixed with SSRIs.
 
+Here is a more detailed post on [How to Make St. John's Wort Moon Water for Grief and Mourning](/st-johns-wort-moon-water/) if you'd like to dive deeper into this powerful herb.
+
 ---
 
 ## ✦ 3. **Passionflower (_Passiflora incarnata_)**
