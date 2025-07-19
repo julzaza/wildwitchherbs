@@ -15,42 +15,50 @@ search: false
 
 
 /* Full-screen background image */
-body {
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
   background: url("/assets/images/Adobe Express - file (1).png") no-repeat center center fixed;
   background-size: cover;
   background-blend-mode: overlay;
-  background-color: rgba(255,255,255,0.85); /* Adjust overlay for visibility */
-  margin: 0;
-  padding: 0;
+  background-color: rgba(255, 255, 255, 0.7);
 }
 
-/* Make sure full width is used */
+/* Force full width for main container */
 .site {
+  width: 100% !important;
   max-width: 100% !important;
-  margin: 0 auto;
-  padding: 0;
+  margin: 0 auto !important;
+  padding: 0 !important;
 }
 
-/* Center content and ensure proper layout */
+/* Center inner content */
 .wrapper {
+  width: 100%;
   max-width: 100%;
   margin: 0 auto;
   padding: 0 1rem;
   box-sizing: border-box;
 }
 
-/* Background for post content to improve readability */
+/* Post content area styling */
 .page,
 .page__content,
 .archive {
   background-color: rgba(255, 255, 255, 0.6);
-  padding: 1rem;
+  padding: 2rem;
   border-radius: 1rem;
   box-sizing: border-box;
-  margin: 1rem auto;
-  max-width: 800px; /* Optional: control width of content block */
+  max-width: 800px;
+  margin: 2rem auto;
 }
 
+/* Ensure images and posts adapt on all screen sizes */
+img {
+  max-width: 100%;
+  height: auto;
+}
 
 
 
