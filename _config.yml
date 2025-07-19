@@ -310,7 +310,4 @@ defaults:
       author_profile: false
 
 
-sass:
-  sass_dir: _sass
-  style: compressed
 
