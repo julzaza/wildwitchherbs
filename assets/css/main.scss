@@ -14,4 +14,23 @@ search: false
 }
 
 
+body {
+  background-image: url("/assets/images/downloaded_image (1).jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.page,
+.page__content {
+  background-color: rgba(255, 255, 255, 0.90); /* semi-transparent white box over background */
+  padding: 2rem;
+  border-radius: 12px;
+}
+
+
+
+
 @import "custom";
+
