@@ -14,36 +14,17 @@ search: false
 }
 
 
-/* Set full-screen background on the body */
-body {
-  background: url("/assets/images/Adobe Express - file (2).png") no-repeat center center fixed;
+/* Applies background behind post list (home page) */
+.page__content,
+.archive {
+  background: url("/assets/images/Adobe Express - file (2).png") no-repeat center center;
   background-size: cover;
-  margin: 0;
-  padding: 0;
+  background-attachment: fixed;
+  background-blend-mode: overlay;
+  background-color: rgba(255,255,255,0.7); /* Adjust for readability */
+  padding: 2rem;
+  border-radius: 1rem;
 }
-
-/* Remove max-width and padding from layout wrapper */
-.wrap {
-  max-width: none !important;
-  padding: 0 !important;
-  margin: 0 auto !important;
-  width: 100% !important;
-}
-
-/* Remove borders and spacing on main content */
-.page, .page__content, .archive, .layout--home, .layout--archive {
-  background: transparent !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  box-shadow: none !important;
-}
-
-/* Optional: remove padding around post previews */
-.page__content > * {
-  padding: 0 !important;
-  margin: 0 !important;
-}
-
 
 
 
