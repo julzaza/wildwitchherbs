@@ -14,33 +14,6 @@ search: false
 }
 
 
-/* Applies background behind post list (home page) */
-.page__content,
-.archive {
-  background: url("/assets/images/Adobe Express - file (1).png") no-repeat center center;
-  background-size: cover;
-  background-attachment: fixed;
-  background-blend-mode: overlay;
-  background-color: rgba(255,255,255,0.7); /* Adjust for readability */
-  padding: 2rem;
-  border-radius: 1rem;
-  box-sizing: border-box;
-}
-
-/* Center and align content properly */
-.wrap {
-  max-width: 100% !important;
-  margin: 0 auto !important;
-  padding: 0 1rem !important;
-  box-sizing: border-box;
-}
-
-/* Optional: remove extra spacing from main content wrapper */
-.page {
-  margin: 0 auto;
-  padding: 0;
-  box-sizing: border-box;
-}
 
 
 
