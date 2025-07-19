@@ -2,29 +2,45 @@
   display: none;
 }
 
-
-/* Full-page background image */
+/* Fullscreen background */
 body {
   background: url("/assets/images/Adobe%20Express%20-%20file%20(1).png") no-repeat center center fixed;
   background-size: cover;
-  background-color: rgba(255,255,255,0.7);
   background-blend-mode: overlay;
+  background-color: rgba(255,255,255,0.7); /* adjust overlay */
   margin: 0;
   padding: 0;
 }
 
-/* Stretch page container to full width and center content */
+/* Remove container width limit */
 .page {
-  max-width: 100%;
+  max-width: none !important;
+  width: 100% !important;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 0;
 }
 
-/* Optional: Add semi-transparent white background to text blocks for readability */
-.page__content,
-.archive {
+/* Remove inner padding and center content */
+.page__inner-wrap {
+  margin: 0 auto;
+  padding: 2rem;
+  max-width: 100%;
+}
+
+/* Optional: Style content wrapper */
+.page__content {
   background-color: rgba(255, 255, 255, 0.6);
   padding: 2rem;
   border-radius: 1rem;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Remove horizontal padding from archive post list */
+.archive {
+  padding: 2rem;
+}
+
+/* Fix alignment for title/description blocks */
+h1, h2, p {
+  text-align: center;
 }
