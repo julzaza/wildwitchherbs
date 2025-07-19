@@ -19,17 +19,36 @@ body {
   background: url("/assets/images/Adobe Express - file (1).png") no-repeat center center fixed;
   background-size: cover;
   background-blend-mode: overlay;
-  background-color: rgba(255,255,255,0.7); /* Adjust transparency of overlay */
+  background-color: rgba(255,255,255,0.7); /* Adjust overlay for visibility */
+  margin: 0;
+  padding: 0;
 }
 
-/* Optional: Make sure content stands out */
+/* Make sure full width is used */
+.site {
+  max-width: 100% !important;
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* Center content and ensure proper layout */
+.wrapper {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 1rem;
+  box-sizing: border-box;
+}
+
+/* Background for post content to improve readability */
 .page,
 .page__content,
 .archive {
-  background-color: rgba(255, 255, 255, 0.5); /* Light background for readability */
-  padding: 1rem;
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 2rem;
   border-radius: 1rem;
   box-sizing: border-box;
+  margin: 2rem auto;
+  max-width: 800px; /* Optional: control width of content block */
 }
 
 
