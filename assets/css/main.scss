@@ -13,51 +13,6 @@ search: false
   display: none !important;
 }
 
-/* Full-screen background image */
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-  background: url("/assets/images/Adobe Express - file (1).png") no-repeat center center fixed;
-  background-size: cover;
-  background-blend-mode: overlay;
-  background-color: rgba(255, 255, 255, 0.7);
-}
-
-/* Force full width for main container */
-.site {
-  width: 100% !important;
-  max-width: 100% !important;
-  margin: 0 auto !important;
-  padding: 0 !important;
-}
-
-/* Center inner content */
-.wrapper {
-  width: 100%;
-  max-width: 100%;
-  margin: 0 auto;
-  padding: 0 1rem;
-  box-sizing: border-box;
-}
-
-/* Post content area styling */
-.page,
-.page__content,
-.archive {
-  background-color: rgba(255, 255, 255, 0.6);
-  padding: 2rem;
-  border-radius: 1rem;
-  box-sizing: border-box;
-  max-width: 800px;
-  margin: 2rem auto;
-}
-
-/* Ensure images and posts adapt on all screen sizes */
-img {
-  max-width: 100%;
-  height: auto;
-}
 
 
 
