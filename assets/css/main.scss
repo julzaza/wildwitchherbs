@@ -14,16 +14,22 @@ search: false
 }
 
 
-/* Applies background behind post list (home page) */
+/* Full-screen background image */
+body {
+  background: url("/assets/images/Adobe Express - file (2).png") no-repeat center center fixed;
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-color: rgba(255,255,255,0.8); /* Adjust transparency of overlay */
+}
+
+/* Optional: Make sure content stands out */
+.page,
 .page__content,
 .archive {
-  background: url("/assets/images/Adobe Express - file (2).png") no-repeat center center;
-  background-size: cover;
-  background-attachment: fixed;
-  background-blend-mode: overlay;
-  background-color: rgba(255,255,255,0.7); /* Adjust for readability */
+  background-color: rgba(255, 255, 255, 0.85); /* Light background for readability */
   padding: 2rem;
   border-radius: 1rem;
+  box-sizing: border-box;
 }
 
 
