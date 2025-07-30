@@ -7,6 +7,9 @@ description: "Ten powerful herbs every modern witch should know — from ancestr
 author: Luna
 image: /assets/images/starter-herbs.jpg
 permalink: /herbal-starter-kit/
+header:
+  image: /assets/images/anise-small-sieve-with-various-dried-herbs-flat-lay-white-surface.webp
+  overlay_filter: 0.4
 
 ---
 
