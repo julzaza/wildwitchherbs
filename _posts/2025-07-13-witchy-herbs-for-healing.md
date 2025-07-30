@@ -5,7 +5,14 @@ permalink: /witchy-herbs-for-healing/
 excerpt: "Step into the green world of healing witchcraft. Discover traditional herbs like yarrow, calendula, lemon balm, and fennel—used by cunning folk, wise women, and herbal witches to mend wounds of flesh and soul."
 categories: herbalism witchcraft healing
 tags: [healing herbs, magical plants, folk medicine, witchcraft, apothecary]
+header:
+  image: /assets/images/vertical-closeup-shot-white-lavender-flowers-isolated-black.webp
+  caption: "Freshly bundled herbs used in folk healing and calming rituals"
+  overlay_filter: 0.4
 ---
+
+
+
 
 ## The Healing Witch
 
