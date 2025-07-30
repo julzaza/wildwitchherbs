@@ -6,7 +6,7 @@ excerpt: "Step into the green world of healing witchcraft. Discover traditional 
 categories: herbalism witchcraft healing
 tags: [healing herbs, magical plants, folk medicine, witchcraft, apothecary]
 header:
-  image: /assets/images/top-view-assortment-spices-wooden-board.webpassets/images/white-lavender-flowers-black-background.webp
+  image: /assets/images/top-view-assortment-spices-wooden-board.webp
   overlay_filter: 0.4
 ---
 
