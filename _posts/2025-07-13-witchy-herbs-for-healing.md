@@ -7,7 +7,6 @@ categories: herbalism witchcraft healing
 tags: [healing herbs, magical plants, folk medicine, witchcraft, apothecary]
 header:
   image: /assets/images/vertical-closeup-shot-white-lavender-flowers-isolated-black (1).webp
-  caption: "Freshly bundled herbs used in folk healing and calming rituals"
   overlay_filter: 0.4
 ---
 
