@@ -1,10 +1,10 @@
 ---
-layout: singlw
+layout: single
 title: Shop
 permalink: /shop/
 description: Purchase wildcrafted Artemisia annua from the Balkans — seeds, tea, and tincture.
 ---
-
+fds
 # ✧ Wild Witch Herbs Shop
 
 Heirloom plants. Moon-timed harvests. Ancestral rhythms.  
