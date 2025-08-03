@@ -20,7 +20,7 @@ They have not been bred for mass production. These seeds carry an ancient resili
 About 0.02 grams per packet.
 Enough for a small garden patch or several pots.
 
-[→ Order Artemisia Seeds by Email](mailto:info@wildwitchherbs.com?subject=Order%20Request%20-%20Artemisia%20Seeds&body=Hi%20Wild%20Witch%20Herbs%2C%0A%0AI'd%20like%20to%20order%20the%20Artemisia%20annua%20Seeds.%0A%0AMy%20name%3A%0AMy%20shipping%20address%3A%0APreferred%20payment%20method%20(PayPal%2C%20Revolut)%3A%0A%0AThank%20you.)
+**[→ Order Artemisia Seeds by Email](mailto:info@wildwitchherbs.com?subject=Order%20Request%20-%20Artemisia%20Seeds&body=Hi%20Wild%20Witch%20Herbs%2C%0A%0AI'd%20like%20to%20order%20the%20Artemisia%20annua%20Seeds.%0A%0AMy%20name%3A%0AMy%20shipping%20address%3A%0APreferred%20payment%20method%20(PayPal%2C%20Revolut)%3A%0A%0AThank%20you.)**
 
 ---
 
@@ -35,7 +35,7 @@ Nothing added. Nothing diluted. Just a wild herb at her strongest, prepared as s
 **Use**: Infuse for 5–10 min. with closed lid.
 
 
-[→ Order Artemisia Tea by Email](mailto:info@wildwitchherbs.com?subject=Order%20Request%20-%20Artemisia%20Tea&body=Hi%20Wild%20Witch%20Herbs%2C%0A%0AI'd%20like%20to%20order%20the%20Artemisia%20annua%20Tea.%0A%0AMy%20name%3A%0AMy%20shipping%20address%3A%0APreferred%20payment%20method%20(PayPal%2C%20Revolut)%3A%0A%0AThank%20you.)
+**[→ Order Artemisia Tea by Email](mailto:info@wildwitchherbs.com?subject=Order%20Request%20-%20Artemisia%20Tea&body=Hi%20Wild%20Witch%20Herbs%2C%0A%0AI'd%20like%20to%20order%20the%20Artemisia%20annua%20Tea.%0A%0AMy%20name%3A%0AMy%20shipping%20address%3A%0APreferred%20payment%20method%20(PayPal%2C%20Revolut)%3A%0A%0AThank%20you.)**
 
 ---
 
@@ -48,7 +48,7 @@ Steeped in high-grade alcohol, the extract is sharp and unapologetically bitter.
 
 No flavoring. No dilution. 
 
-**Use with caution. Not for pregnant or breastfeeding individuals.**  
+**Use with caution. Not for pregnant or breastfeeding individuals.*
 
 
 **[→ Order Artemisia Tincture by Email](mailto:info@wildwitchherbs.com?subject=Order%20Request%20-%20Artemisia%20Tincture&body=Hi%20Wild%20Witch%20Herbs%2C%0A%0AI'd%20like%20to%20order%20the%20Artemisia%20annua%20Tincture.%0A%0AMy%20name%3A%0AMy%20shipping%20address%3A%0APreferred%20payment%20method%20(PayPal%2C%20Revolut)%3A%0A%0AThank%20you.)**
