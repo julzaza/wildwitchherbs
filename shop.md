@@ -34,4 +34,4 @@ _Payments via PayPal, Wise, or bank transfer. I’ll confirm total cost with shi
 ---
 
 ## 💌 Questions or Bulk Orders?  
-Write to me at [info@wildwitchherbs.com](mailto:info@wildwitchherbs.com)
+Write to me at [hello@wildwitchherbs.com](mailto:info@wildwitchherbs.com)
