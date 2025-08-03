@@ -11,7 +11,10 @@ Welcome to the Wild Witch Herbs apothecary. These offerings are handmade, season
 ##  Artemisia Annua Seeds – €5  
 Homegrown, hand-harvested. Enough for a small garden patch or several pots.  
 **Shipping**: Available in Europe.  
-👉 [Order Now](mailto:info@wildwitchherbs.com?subject=Order%20Artemisia%20Annua%20Seeds&body=Hi,%20I'd%20like%20to%20order%20a%20packet%20of%20Artemisia%20Annua%20seeds.%20Please%20let%20me%20know%20the%20shipping%20details.)
+<a href="mailto:info@wildwitchherbs.com?subject=Order%20Request%20-%20Artemisia%20Tincture&body=Hi%20Wild%20Witch%20Herbs%2C%0A%0AI'd%20like%20to%20order%20the%20Artemisia%20annua%20Tincture.%20Please%20let%20me%20know%20how%20to%20proceed.%0A%0AMy%20name%3A%0AMy%20shipping%20address%3A%0APreferred%20payment%20method%20(PayPal%2C%20Wise%2C%20bank)%3A%0A%0AThanks!" 
+   style="display:inline-block;background:#2f2f2f;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:bold;">
+   Order Now
+</a>
 
 ---
 
