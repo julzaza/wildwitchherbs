@@ -26,7 +26,9 @@ Enough for a small garden patch or several pots.
 
 ##  Dried Artemisia Annua Tea – €14  
   
-Hand-harvested and slow-dried, this tea retains its full character — pungent, piercing, and clean. Nothing added. Nothing diluted. Just a wild herb at her strongest, prepared as she has been for generations. 
+Hand-harvested and slow-dried, this tea retains its full character — pungent, piercing, and clean. 
+
+Nothing added. Nothing diluted. Just a wild herb at her strongest, prepared as she has been for generations. 
 
 50g pack of wildcrafted, pure Artemisia annua.
 
