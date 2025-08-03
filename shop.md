@@ -55,11 +55,12 @@ No flavoring. No dilution.
 
 ---
 
-**Payments** via PayPal, Revolut. 
+**Payment**: via PayPal, Revolut. 
 We’ll confirm total cost with shipping once you email.
 
 **Shipping**: Available in Europe. Please inquire about other regions. 
 
+---
 ---
 
 ## 💌 Questions or Bulk Orders?  
