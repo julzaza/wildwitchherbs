@@ -36,7 +36,7 @@ The answer depends on *who you ask*. That’s the first truth. What’s sacred i
 
 ## 10 Culturally Rooted Witchy Herbs
 
-These herbs got stories to tell. Their roots go deep.
+These herbs got stories to tell. They go way back. 
 
 ---
 
@@ -45,6 +45,16 @@ These herbs got stories to tell. Their roots go deep.
 **Use:** Malaria medicine, fever cure, spiritual cleanser  
 **Folklore:** In Chinese Taoist tradition, sweet wormwood (Qing Hao) was written about as early as 168 BC in the *Wushi'er Bingfang*. In the Balkans, wild Artemisia is still used to “smoke out” sickness or stuck spirits, often burned in cow dung for potency.  
 
+## Seeds With a Story
+
+On a recent trip through the southern Balkans, we met a man producing some of the finest Artemisia annua we’ve ever encountered — wild-grown, sun-fed, and brimming with life.
+
+Now you can try it for yourself.
+
+→ Order [Heirloom Artemisia Seeds](/https://wildwitchherbs.com/shop/#artemisia-annua-seeds--5/) while supplies last — this is a limited harvest, and once they’re gone, they’re gone.
+
+These seeds aren’t mass-produced or bred for mildness. They’re bitter, wild, and strong — the kind of medicine grandmothers used to grow.
+If you’re ready to plant your own story, you’ll want these.
 ---
 
 ### **Rue (*Ruta graveolens*)**  
@@ -140,12 +150,6 @@ You don’t need to copy rituals, but know where they come from — and respect 
 All you need is life — a place to let roots dig in.
 
 In fact, [Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/) will show you how to turn even the smallest corner into a living altar.
-
----
-
-## Coming Soon: Seeds With a Story
-
-I’ll soon offer Balkan-grown *Artemisia annua* seeds — not mass-produced, not tampered. Just bitter, wild, strong medicine like grandmothers used to grow. If you're ready to plant your own story, you’ll want these.
 
 ---
 
