@@ -35,7 +35,8 @@ Strong tincture made with alcohol. 30ml dropper bottle.
 
 ---
 
-_Payments via PayPal, Revolut. I’ll confirm total cost with shipping once you email. Limited stock — witch-made, witch-sent._
+_Payments via PayPal, Revolut. 
+We’ll confirm total cost with shipping once you email.
 
 ---
 
