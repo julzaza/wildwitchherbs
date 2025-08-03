@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Shop
+title: Shop Wild Herbs
 permalink: /shop/
 ---
 
