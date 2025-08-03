@@ -46,7 +46,8 @@ Distilled from living Artemisia — not dried, not dulled — this tincture capt
 
 Steeped in high-grade alcohol, the extract is sharp and unapologetically bitter. This is not a soft herb. This is medicine as it once was — wild, volatile, precise.
 
-No flavoring. No dilution. No false calm.
+No flavoring. No dilution. 
+
 **Use with caution. Not for pregnant or breastfeeding individuals.**  
 
 
@@ -54,8 +55,9 @@ No flavoring. No dilution. No false calm.
 
 ---
 
-_Payments via PayPal, Revolut. 
+**Payments** via PayPal, Revolut. 
 We’ll confirm total cost with shipping once you email.
+
 **Shipping**: Available in Europe. Please inquire about other regions. 
 
 ---
