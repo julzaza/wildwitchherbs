@@ -10,7 +10,7 @@ Welcome to our little apothecary. Heirloom plants, wildcrafted, seasonal, and al
 
 ##  Artemisia Annua Seeds – €5  
 Enough for a small garden patch or several pots. 
-About 0.02 grams per packet  
+About 0.02 grams per packet.
 These are not ordinary seeds.  
 They are descendants of wild, sun-drenched plants grown in the mineral-rich soils of the Balkan south — where Artemisia thrives like nowhere else.
 
