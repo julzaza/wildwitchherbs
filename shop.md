@@ -51,7 +51,7 @@ No flavoring. No dilution.
 **Use with caution. Not for pregnant or breastfeeding individuals.**  
 
 
-[→ Order Artemisia Tincture by Email](mailto:info@wildwitchherbs.com?subject=Order%20Request%20-%20Artemisia%20Tincture&body=Hi%20Wild%20Witch%20Herbs%2C%0A%0AI'd%20like%20to%20order%20the%20Artemisia%20annua%20Tincture.%0A%0AMy%20name%3A%0AMy%20shipping%20address%3A%0APreferred%20payment%20method%20(PayPal%2C%20Revolut)%3A%0A%0AThank%20you.)
+**[→ Order Artemisia Tincture by Email](mailto:info@wildwitchherbs.com?subject=Order%20Request%20-%20Artemisia%20Tincture&body=Hi%20Wild%20Witch%20Herbs%2C%0A%0AI'd%20like%20to%20order%20the%20Artemisia%20annua%20Tincture.%0A%0AMy%20name%3A%0AMy%20shipping%20address%3A%0APreferred%20payment%20method%20(PayPal%2C%20Revolut)%3A%0A%0AThank%20you.)**
 
 ---
 
@@ -64,6 +64,6 @@ We’ll confirm total cost with shipping once you email.
 ---
 
 ## 💌 Questions or Bulk Orders?  
-Write to me at [hello@wildwitchherbs.com](mailto:info@wildwitchherbs.com)
+Write to us at [hello@wildwitchherbs.com](mailto:info@wildwitchherbs.com)
 
 
