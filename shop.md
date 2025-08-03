@@ -15,11 +15,11 @@ Welcome to our little apothecary. Heirloom, wildcrafted plants only.
 **[→ Order Artemisia Seeds by Email](mailto:info@wildwitchherbs.com?subject=Order%20Request%20-%20Artemisia%20Seeds&body=Hi%20Wild%20Witch%20Herbs%2C%0A%0AI'd%20like%20to%20order%20the%20Artemisia%20annua%20Seeds.%0A%0AMy%20name%3A%0AMy%20shipping%20address%3A%0APreferred%20payment%20method%20(PayPal%2C%20Revolut)%3A%0A%0AThank%20you.)**
 
 These are not ordinary seeds.  
-They are descendants of wild, sun-drenched plants grown in the mineral-rich soils of the Balkan south — where Artemisia thrives like nowhere else.
+They are descendants of wild, sun-drenched plants grown in the mineral-rich soils of the southern Balkans — where Artemisia thrives like nowhere else.
 
 They have not been bred for mass production. These seeds carry an ancient resilience. 
  
-About 0.02 grams per packet.
+ ~0.02 grams per packet  
 Enough for a small garden patch or several pots.
 
 ---
@@ -56,10 +56,10 @@ No flavoring. No dilution.
 
 ---
 
-**Payment**: via PayPal, Revolut. 
-We’ll confirm total cost with shipping once you email.
+**Payment**: Accepted via PayPal or Revolut.  
+You’ll receive total cost + shipping details by email after your request.
 
-**Shipping**: Available in Europe. Please inquire about other regions. 
+**Shipping**: Available in Europe. Please inquire for other regions. 
 
 ---
 
