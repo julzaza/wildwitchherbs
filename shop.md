@@ -4,9 +4,9 @@ title: Shop Wild Herbs
 permalink: /shop/
 ---
 
-Welcome to our little apothecary. Heirloom plants, wildcrafted, seasonal, and always made with love.
+Welcome to our little apothecary. Heirloom, wildcrafted plants only. 
 
-*This item is currently available by email order only. Shipping is calculated based on location.*
+*These items are currently available by email order only. Shipping is calculated based on location.*
 
 ---
 
@@ -23,9 +23,10 @@ These seeds carry an ancient resilience. They have not been bred for mass produc
 
 ---
 
-##  Dried Artemisia Annua Tea – €8  
-50g pack of wildcrafted, air-dried Artemisia annua.  
-**Use**: Infuse for 5–10 min. Closed lid.
+##  Dried Artemisia Annua Tea – €14  
+50g pack of wildcrafted, pure Artemisia annua.  
+Hand-harvested and slow-dried, this tea retains its full character — pungent, piercing, and clean. Nothing added. Nothing diluted. Just a wild herb at her strongest, prepared as she has been for generations. 
+**Use**: Infuse for 5–10 min. with closed lid.
 
 
 [→ Order Artemisia Tea by Email](mailto:info@wildwitchherbs.com?subject=Order%20Request%20-%20Artemisia%20Tea&body=Hi%20Wild%20Witch%20Herbs%2C%0A%0AI'd%20like%20to%20order%20the%20Artemisia%20annua%20Tea.%0A%0AMy%20name%3A%0AMy%20shipping%20address%3A%0APreferred%20payment%20method%20(PayPal%2C%20Revolut)%3A%0A%0AThank%20you.)
@@ -33,7 +34,13 @@ These seeds carry an ancient resilience. They have not been bred for mass produc
 ---
 
 ##  Artemisia Tincture – €12  
-Strong tincture made with alcohol. 30ml dropper bottle.  
+*100ml · Fresh plant · 40% alcohol*
+
+Distilled from living Artemisia — not dried, not dulled — this tincture captures the plant in her raw, unfiltered state. Harvested by hand at peak potency, following traditional Balkan rhythms: moon-timed, season-aligned, and never rushed.
+
+Steeped in high-grade alcohol at a true 1:2 ratio, the extract is vivid green, sharp, and unapologetically bitter. This is not a soft herb. This is medicine as it once was — wild, volatile, precise.
+
+No flavoring. No dilution. No false calm.
 **Use with caution. Not for pregnant or breastfeeding individuals.**  
 
 
