@@ -39,7 +39,7 @@ Nothing added. Nothing diluted. Just a wild herb at her strongest, prepared as s
 
 ---
 
-##  Artemisia Tincture – €12  
+##  Artemisia Tincture – €29  
 *100ml · Fresh plant · 40% alcohol*
 
 Distilled from living Artemisia — not dried, not dulled — this tincture captures the plant in her raw, unfiltered state. Harvested by hand at peak potency, following traditional Balkan rhythms: moon-timed, season-aligned, and never rushed.
