@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: singlw
 title: Shop
 permalink: /shop/
 description: Purchase wildcrafted Artemisia annua from the Balkans — seeds, tea, and tincture.
