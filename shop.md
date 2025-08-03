@@ -4,7 +4,7 @@ title: Shop Wild Herbs
 permalink: /shop/
 ---
 
-Welcome to our new apothecary. Heirloom plants, wildcrafted, seasonal, and always made with love.
+Welcome to our little apothecary. Heirloom plants, wildcrafted, seasonal, and always made with love.
 
 ---
 
