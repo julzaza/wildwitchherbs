@@ -4,7 +4,7 @@ title: Shop Wild Herbs
 permalink: /shop/
 ---
 
-Welcome to the Wild Witch Herbs apothecary. Heirloom plants, wildcrafted, seasonal, and always hand handled. 
+Welcome to our apothecary. Heirloom plants, wildcrafted, seasonal, and always made with love.
 
 ---
 
@@ -13,7 +13,7 @@ Homegrown, hand-harvested. Enough for a small garden patch or several pots. 0.02
 **Shipping**: Available in Europe.  
 
 
-[→ Order Artemisia Seeds by Email](mailto:info@wildwitchherbs.com?subject=Order%20Request%20-%20Artemisia%20Seeds&body=Hi%20Wild%20Witch%20Herbs%2C%0A%0AI'd%20like%20to%20order%20the%20Artemisia%20annua%20Seeds.%0A%0AMy%20name%3A%0AMy%20shipping%20address%3A%0APreferred%20payment%20method%20(PayPal%2C%20Wise%2C%20bank)%3A%0A%0AThank%20you.)
+[→ Order Artemisia Seeds by Email](mailto:info@wildwitchherbs.com?subject=Order%20Request%20-%20Artemisia%20Seeds&body=Hi%20Wild%20Witch%20Herbs%2C%0A%0AI'd%20like%20to%20order%20the%20Artemisia%20annua%20Seeds.%0A%0AMy%20name%3A%0AMy%20shipping%20address%3A%0APreferred%20payment%20method%20(PayPal%2C%20Revolut)%3A%0A%0AThank%20you.)
 
 ---
 
