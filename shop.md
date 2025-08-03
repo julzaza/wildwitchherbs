@@ -15,7 +15,7 @@ Welcome to our little apothecary. Heirloom, wildcrafted plants only.
 These are not ordinary seeds.  
 They are descendants of wild, sun-drenched plants grown in the mineral-rich soils of the Balkan south — where Artemisia thrives like nowhere else.
 
-These seeds carry an ancient resilience. They have not been bred for mass production. 
+They have not been bred for mass production. These seeds carry an ancient resilience. 
  
 About 0.02 grams per packet.
 Enough for a small garden patch or several pots.
@@ -25,8 +25,11 @@ Enough for a small garden patch or several pots.
 ---
 
 ##  Dried Artemisia Annua Tea – €14  
-50g pack of wildcrafted, pure Artemisia annua.  
+  
 Hand-harvested and slow-dried, this tea retains its full character — pungent, piercing, and clean. Nothing added. Nothing diluted. Just a wild herb at her strongest, prepared as she has been for generations. 
+
+50g pack of wildcrafted, pure Artemisia annua.
+
 **Use**: Infuse for 5–10 min. with closed lid.
 
 
