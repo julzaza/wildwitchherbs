@@ -7,6 +7,7 @@ permalink: /shop/
 Welcome to our little apothecary. Heirloom plants, wildcrafted, seasonal, and always made with love.
 
 *This item is currently available by email order only. Shipping is calculated based on location.*
+
 ---
 
 ##  Artemisia Annua Seeds – €5  
