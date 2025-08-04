@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Bitter Brew of Resilience: Discovering Artemisia Annua Tea"
+title: "The Bitter Brew: Discovering Artemisia Annua Tea"
 permalink: /blog/artemisia-annua-tea-benefits/
 description: Explore the ancient benefits and magical uses of Artemisia annua tea — a wild, bitter tonic revered in folk medicine and witchcraft alike.
 ---
