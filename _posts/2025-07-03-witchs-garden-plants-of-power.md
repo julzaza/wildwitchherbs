@@ -47,7 +47,7 @@ These herbs got stories to tell. They go way back.
 
 ## Seeds With a Story
 
-On a recent trip through the southern Balkans, we met a man producing some of the finest Artemisia annua tea and tincture we’ve ever encountered — wild-grown, sun-fed, and brimming with life. And he also had some extra seeds!
+On a recent trip through the southern Balkans, we met a family producing some of the finest Artemisia annua tea and tincture we’ve ever encountered — wild-grown, sun-fed, and brimming with life. And they had some extra seeds!
 
 So now you can grow this legendary plant for yourself. 
 
