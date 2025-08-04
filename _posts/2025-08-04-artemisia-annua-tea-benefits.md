@@ -2,8 +2,84 @@
 layout: single
 title: "The Bitter Brew of Resilience: Discovering Artemisia Annua Tea"
 permalink: /blog/artemisia-annua-tea-benefits/
-description: Discover the ancient uses and natural potency of Artemisia annua tea — a wild, bitter herb with deep roots in traditional wellness and folk wisdom.
+description: Explore the ancient benefits and magical uses of Artemisia annua tea — a wild, bitter tonic revered in folk medicine and witchcraft alike.
 ---
+
+If there’s one plant that has stood the test of time — from ancient healing halls to witch’s brews — it’s *Artemisia annua*.
+
+This isn’t a gentle floral tea you sip absentmindedly. It’s a bitter, wild brew. A ritual in a cup. A nod to your ancestors and the plant wisdom they carried.
+
+Whether you’re drawn to it for its health-supporting tradition, its role in protective folk magic, or its grounding bitterness, *Artemisia annua* is a tea that asks you to slow down, pay attention, and take your power back — sip by sip.
+
+---
+
+## Why Drink Artemisia Annua Tea?
+
+Traditionally used across Asia, Africa, and Europe, *Artemisia annua* — also known as sweet wormwood or qinghao — has been valued for centuries for its effects on the body’s natural balance and resilience.
+
+While we can’t make medical claims, herbalists and traditional practitioners have long used it for:
+
+- Supporting the body’s natural immune response  
+- Encouraging healthy digestion, especially during seasonal transitions  
+- Creating a clean internal environment where the body can reset  
+- Supporting a healthy response to heat and inflammation  
+
+In folk medicine, bitter herbs like Artemisia are believed to “wake up” the digestive system and help flush out stagnation — physically and energetically. Such bitter herbs were valued for their ability to “clear heat,” balance the system, and fortify the body’s natural rhythm with the seasons.
+
+
+In the Balkans, where we source our tea, women once gathered Artemisia with the moon, drying it slowly in shaded sheds and attics, away from harsh sunlight. The result is a clean, piercing infusion that feels alive — one cup is enough to remind you: this is no supermarket herb.
+
+## Magical Uses & Rituals
+
+Artemisia isn’t just medicine. She’s a witch’s herb — full of magic, mystery, and protection.
+
+Across cultures, she’s been burned to cleanse spaces, worn to ward off illness, and brewed in teas to sharpen dreams or deepen trance states. In Balkan folk traditions, she’s gathered in the waxing moon, hung above doors, or steeped in moonwater for midsummer rituals.
+
+Here are a few ways witches and folk healers use *Artemisia annua*:
+
+- **Dreamwork**: Sip before sleep (in small amounts) or burn as incense to invite vivid dreams and ancestral messages  
+- **Cleansing Rituals**: Add the tea to a floor wash or bath to clear unwanted energies  
+- **Moon Planting & Harvesting**: Use the tea during waxing moons or new moon planting to align with lunar cycles  
+- **Protection**: Place dried Artemisia near doors or windows for spiritual shielding  
+
+---
+
+## What Makes Our Tea Different
+
+Our *Artemisia annua* is wildcrafted in the sunny southern Balkans — where the climate, mineral-rich soils, and traditional growing rhythms produce plants of striking potency.
+
+- Hand-harvested at peak vitality  
+- Dried slowly in the shade to preserve aromatic compounds  
+- No fillers. No processing. Just the herb in her raw, intact form  
+- 50g per pack — enough for weeks of tea or ritual use  
+
+---
+
+## How to Brew
+
+To prepare:
+
+1. Use 1 teaspoon per cup  
+2. Steep 5–10 minutes with a **closed lid** to retain volatile oils  
+3. Strain and sip mindfully — she’s bitter, but that’s the medicine  
+
+Sweeten lightly with honey if desired, but we recommend trying her bare first. Let the taste teach you something.
+
+---
+
+## Final Word
+
+This is not a tea you forget.  
+She’s bold. She’s ancient. She’s here to challenge and support.
+
+Whether you’re looking to clear fog, reconnect with herbal traditions, or work more deeply with protective plants in your practice — *Artemisia annua* is a potent ally.
+
+[→ Order your tea from the shop](/shop/)  
+Harvested by hand. Crafted with care. Limited batches only.
+
+---
+
+**⚠️ Caution**: Not for use in pregnancy or while breastfeeding. Bitter herbs are strong allies. Begin slowly and listen to your body.
 
 In the old herbal ways, bitter didn’t mean bad — it meant powerful.
 
