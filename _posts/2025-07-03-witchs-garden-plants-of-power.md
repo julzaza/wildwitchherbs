@@ -47,11 +47,11 @@ These herbs got stories to tell. They go way back.
 
 ## Seeds With a Story
 
-On a recent trip through the southern Balkans, we met a man producing some of the finest Artemisia annua we’ve ever encountered — wild-grown, sun-fed, and brimming with life.
+On a recent trip through the southern Balkans, we met a man producing some of the finest Artemisia annua tea and tincture we’ve ever encountered — wild-grown, sun-fed, and brimming with life. And he also had some extra seeds!
 
-Now you can try it for yourself.
+So now you can grow this legendary plant for yourself. 
 
-→ [Order Heirloom Artemisia Seeds](/shop/#artemisia-annua-seeds--5/) while supplies last — this is a limited harvest, and once they’re gone, they’re gone.
+→ [Order Heirloom Artemisia Seeds](/shop/#artemisia-annua-seeds--5/) while supplies last — this is a limited harvest, and once they’re gone, they’re gone. [Artemisia Annua Tea and Tincture](/shop/) also available in limited supply. 
 
 These seeds aren’t mass-produced. They’re wild and strong.
 
