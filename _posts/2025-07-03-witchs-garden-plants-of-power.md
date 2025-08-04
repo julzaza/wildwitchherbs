@@ -51,10 +51,11 @@ On a recent trip through the southern Balkans, we met a man producing some of th
 
 Now you can try it for yourself.
 
-→ Order [Heirloom Artemisia Seeds](/https://wildwitchherbs.com/shop/#artemisia-annua-seeds--5/) while supplies last — this is a limited harvest, and once they’re gone, they’re gone.
+→ [Order Heirloom Artemisia Seeds](/shop/#artemisia-annua-seeds--5/) while supplies last — this is a limited harvest, and once they’re gone, they’re gone.
 
 These seeds aren’t mass-produced or bred for mildness. They’re bitter, wild, and strong — the kind of medicine grandmothers used to grow.
 If you’re ready to plant your own story, you’ll want these.
+
 ---
 
 ### **Rue (*Ruta graveolens*)**  
