@@ -53,8 +53,9 @@ Now you can try it for yourself.
 
 → [Order Heirloom Artemisia Seeds](/shop/#artemisia-annua-seeds--5/) while supplies last — this is a limited harvest, and once they’re gone, they’re gone.
 
-These seeds aren’t mass-produced. They’re bitter, wild, and strong — the kind of medicine grandmothers used to grow.
-If you’re ready to plant your own story, you’ll want these.
+These seeds aren’t mass-produced. They’re wild and strong.
+
+If you’re ready to plant your own story, you’ll want some of these.
 
 ---
 
