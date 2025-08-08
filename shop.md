@@ -37,6 +37,8 @@ Nothing added. Nothing diluted. Just a wild herb at her strongest, prepared as s
 **Use**: Infuse for 5–10 min. with closed lid.
 
 
+<img src="/assets/images/artemisia-annua-sweet-wormwood-tea-closeup.webp" alt="Artemisia Annua Tea" style="max-width:300px; height:auto;">
+
 ---
 
 ##  Artemisia Tincture – €29  
