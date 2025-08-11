@@ -1,0 +1,31 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "Artemisia annua – Tea, Tincture & Seeds",
+  "image": [
+    {% for product in site.data.products %}
+      "{{ site.url }}{{ product.image }}"{% if forloop.last == false %},{% endif %}
+    {% endfor %}
+  ],
+  "description": "Organic Artemisia annua products – loose leaf tea, potent tincture, and viable seeds. Grown sustainably and harvested with care.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Wild Witchy Herbs"
+  },
+  "sku": "artemisia-001",
+  "offers": [
+    {% for product in site.data.products %}
+    {
+      "@type": "Offer",
+      "url": "{{ site.url }}{{ product.url }}",
+      "priceCurrency": "{{ product.currency }}",
+      "price": "{{ product.price }}",
+      "itemCondition": "https://schema.org/{{ product.condition }}",
+      "availability": "https://schema.org/{{ product.availability }}",
+      "name": "{{ product.name }}"
+    }{% if forloop.last == false %},{% endif %}
+    {% endfor %}
+  ]
+}
+</script>
