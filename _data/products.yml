@@ -13,7 +13,7 @@
   price: 29.00
   currency: EUR
   url: "/shop#tincture"
-  image: "/assets/images/artemisia-tincture.jpg"
+  image: 
   sku: "AA-TINCTURE-100ML"
   availability: "InStock"
   condition: "NewCondition"
@@ -23,7 +23,7 @@
   price: 5.00
   currency: EUR
   url: "/shop#seeds"
-  image: "/assets/images/artemisia-seeds.jpg"
+  image: 
   sku: "AA-SEEDS-002G"
   availability: "InStock"
   condition: "NewCondition"
