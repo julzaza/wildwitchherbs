@@ -2,7 +2,7 @@
   name: "Artemisia annua Tea – 50g"
   price: 14.00
   currency: EUR
-  url: "/shop#tea"
+  url: "/shop/#dried-artemisia-annua-tea--14"
   image: "/assets/images/artemisia-annua-sweet-wormwood-tea-closeup.webp"
   sku: "AA-TEA-50G"
   availability: "InStock"
@@ -12,7 +12,7 @@
   name: "Artemisia annua Tincture – 100ml"
   price: 29.00
   currency: EUR
-  url: "/shop#tincture"
+  url: "/shop/#artemisia-tincture--29"
   image: 
   sku: "AA-TINCTURE-100ML"
   availability: "InStock"
@@ -22,7 +22,7 @@
   name: "Artemisia annua Seeds – 0.02g packet"
   price: 5.00
   currency: EUR
-  url: "/shop#seeds"
+  url: "/shop/#artemisia-annua-seeds--5"
   image: 
   sku: "AA-SEEDS-002G"
   availability: "InStock"
