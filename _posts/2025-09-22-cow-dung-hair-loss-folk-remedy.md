@@ -32,12 +32,10 @@ This custom belongs to a wider tapestry of Dinaric folk medicine:
 Even farther afield, similar beliefs appear: Ayurvedic India honors cow dung for purification, and ancient Roman and Egyptian texts list animal manure in skin and hair recipes.
 
 ## From Folklore to Modern Science  
-Modern medicine offers no evidence that manure stimulates hair growth.  
-Fresh dung can harbor bacteria such as *E. coli*, tetanus spores, and parasites that pose real health risks.  
-Yet these practices show how mountain communities **made medicine from their landscape**—earth, fire, animal, and herb—long before commercial shampoos.
+However, fresh dung can harbor bacteria such as *E. coli*, tetanus spores, and parasites that pose real health risks.  
 
 ## Safer Herbal Parallels  
-If you love the earthy spirit but not the pathogens, turn to plants long gathered in these same highlands:  
+If you love the earthy spirit but don't want to risk contact with pathogens, turn to plants long gathered in these same highlands:  
 * **Nettle rinses** rich in minerals to strengthen the scalp.  
 * **Rosemary infusions** to boost circulation and fragrance the hair.  
 * **Yarrow washes** for gentle cleansing and a touch of protective magic.
