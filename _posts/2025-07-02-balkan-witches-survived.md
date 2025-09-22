@@ -49,7 +49,7 @@ Simple. Gritty. Real.
 
 And it worked — or people believed it did. In a world with no doctor, no pharmacy, and no help coming, belief is powerful medicine.
 
-Learn more about [Full Moon Rituals with Sacred Herbs](/full-moon-rituals/) here. 
+Learn more about **[Full Moon Rituals with Sacred Herbs](/full-moon-rituals/)** here. 
 
 ---
 
