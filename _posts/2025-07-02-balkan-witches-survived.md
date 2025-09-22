@@ -93,7 +93,8 @@ So light your candles. Burn your herbs. But don’t forget the root:
 ### Want More?
 
 Let’s keep this magic alive.  
-If you know a folk ritual passed down in your family — share it in the comments. Let the old stories breathe again.
+Check out the **[Remedies from Vasa Pelagić’s Narodni Učitelj](/pelagicev-narodni-ucitelj-balkan-remedies/)**, the 19th century Balkan people's teacher book full of good advice. 
+Learn more about **[Vlach Magic of Negotin Region, Serbia](/vlach-magic-negotin-serbia/)** which are legendary in the Balkans. 
 
 ## Related Posts
 
