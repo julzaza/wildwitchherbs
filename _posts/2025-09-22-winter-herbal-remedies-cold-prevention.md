@@ -198,9 +198,6 @@ Herbs are most effective when combined with **folk practices**:
 * Keep dried herbs in an airtight container for winter use.  
 * Explore magical or protective properties of herbs for a witchy twist—nettle for strength, yarrow for protection, rosemary for clarity.
 
----
-
-## Looking for even more plant magic?  
 
 You can also build a year-round apothecary with the guides **[Witchy Herbs for Healing](/witchy-herbs-healing/)** and **[Folk Herbal First Aid](/folk-herbal-first-aid/)**.
 
