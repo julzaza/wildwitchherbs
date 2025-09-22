@@ -58,9 +58,9 @@ He often combines **diet and herbs**, not relying on a single remedy.
 ---
 
 Many of Pelagić’s favorite cures—nettles, chamomile, mugwort—still anchor today’s witchy apothecaries.  
-For practical ways to bring these **folk remedies** into a modern witch’s garden, see **[Witchy Herbalism 101](witchy-herbalism-101/)**, a guide to working with the same healing plants in both ritual and everyday medicine.
+For practical ways to bring these **folk remedies** into a modern witch’s garden, see **[Witchy Herbalism 101](/witchy-herbalism-101/)**, a guide to working with the same healing plants in both ritual and everyday medicine.
 
-Pelagić’s love of simple village medicine echoes the older **[Vlach magical practices of Negotin](vlach-magic-negotin-serbia/)**, where herbs and charms guard health and home.  
+Pelagić’s love of simple village medicine echoes the older **[Vlach magical practices of Negotin](/vlach-magic-negotin-serbia/)**, where herbs and charms guard health and home.  
 
 ---
 
