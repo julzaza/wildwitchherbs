@@ -41,6 +41,8 @@ Search for these traditions and you’ll find both **Vlach magic** and **Vlaska 
 
 Despite modernization, **Vlach magic endures**. Weddings, funerals, and seasonal festivals still carry old prayers and quiet gestures of protection. To the untrained eye it may seem like quaint superstition; to locals it is heritage—an unbroken conversation with the land and the ancestors.
 
+Find out why **[Why Balkan Witches Survived the Hunt](/balkan-witches/)** by serving its people. 
+
 ---
 
 **Wild Witch Herbs Tip:**  
