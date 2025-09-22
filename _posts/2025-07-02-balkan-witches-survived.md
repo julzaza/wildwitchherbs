@@ -31,8 +31,6 @@ They helped bring babies into the world, eased pain with roots and smoke, protec
 
 To kill the witch here was to cut off your own lifeline.
 
-If you'd like to learn more, here is **[Whitchy Herbalism 101](/witchy-herbalism-101/)**
-
 ---
 
 ### Folk Magic, Not Fancy Rituals
@@ -95,6 +93,7 @@ So light your candles. Burn your herbs. But don’t forget the root:
 Let’s keep this magic alive.  
 
 Check out the **[Remedies from Vasa Pelagić’s Narodni Učitelj](/pelagicev-narodni-ucitelj-balkan-remedies/)**, the 19th century Balkan people's teacher book full of good advice. 
+
 Learn more about **[Vlach Magic of Negotin Region, Serbia](/vlach-magic-negotin-serbia/)** which are legendary in the Balkans. 
 
 ## Related Posts
