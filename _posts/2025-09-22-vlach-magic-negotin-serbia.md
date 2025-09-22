@@ -45,6 +45,7 @@ Despite modernization, **Vlach magic endures**. Weddings, funerals, and seasonal
 
 **Wild Witch Herbs Tip:**  
 If this lore speaks to you, start small. Brew a **nettle and elderflower tea** on a dark winter night, or hang a **yarrow bundle** above your doorway.
+
 ---
 
 *This article shares folklore and cultural history for educational purposes only. It is not medical advice or an instruction manual for magic.*
