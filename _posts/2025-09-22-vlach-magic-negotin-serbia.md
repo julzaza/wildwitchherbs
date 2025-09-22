@@ -47,7 +47,7 @@ Despite modernization, **Vlach magic endures**. Weddings, funerals, and seasonal
 If this lore speaks to you, start small. Brew a **nettle and elderflower tea** on a dark winter night, or hang a **yarrow bundle** above your doorway.
 
 Many of the herbs prized in Vlach magic—nettle, sage, yarrow—also appear in our guide to [Ultimate Winter Herbal Remedies](/winter-herbal-remedies-cold-prevention/), showing how seasonal healing and ancestral ritual overlap.  
-For another glimpse of Balkan folk medicine, see the **[remedies from Vasa Pelagić’s Narodni Učitelj](pelagicev-narodni-ucitelj-balkan-remedies)**, a classic that preserves rural cures from the same cultural crossroads.
+For another glimpse of Balkan folk medicine, see the **[remedies from Vasa Pelagić’s Narodni Učitelj](/pelagicev-narodni-ucitelj-balkan-remedies/)**, a classic that preserves rural cures from the same cultural crossroads.
 
 
 ---
