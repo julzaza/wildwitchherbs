@@ -6,7 +6,7 @@ categories: [winter-herbs, cold-prevention, folk-remedies, herbal-recipes, witch
 meta_description: "Discover the ultimate guide to winter herbal remedies. Learn 15+ folk recipes, teas, infusions, and protective rituals to prevent colds and stay healthy all season."
 ---
 
-Winter is a season of quiet, reflection, and sometimes relentless cold. Across the world, people have long turned to **herbs, teas, infusions, and simple folk rituals** to protect themselves from colds, support immunity, and maintain warmth. This guide gathers over **15 winter herbs** with practical recipes, infused with traditional wisdom and modern herbal magic.
+Winter is a season of quiet, reflection, and sometimes relentless cold. Across the world, people have long turned to **herbs, teas, infusions, and simple folk rituals** to protect themselves from colds, support immunity, and maintain warmth. This guide gathers **15 winter herbs** with practical recipes, infused with traditional wisdom and modern herbal magic.
 
 ---
 
@@ -180,7 +180,7 @@ Steep 5 minutes before bed for relaxation.
 
 ---
 
-## 16. Protective Winter Rituals and Folk Practices
+## Protective Winter Rituals and Folk Practices
 
 Herbs are most effective when combined with **folk practices**:
 
@@ -191,7 +191,7 @@ Herbs are most effective when combined with **folk practices**:
 
 ---
 
-## 17. Integrating Herbs Into Modern Winter Life
+## Integrating Herbs Into Modern Winter Life
 
 * Brew daily teas from 1–2 herbs or create your own blends.  
 * Add herbs to soups, stews, or porridge for added nutrition and flavor.  
