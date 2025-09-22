@@ -200,9 +200,9 @@ Herbs are most effective when combined with **folk practices**:
 
 ---
 
-Looking for even more cold-season magic?  
-Explore the deep history of **wormwood and other bitter winter herbs** in **[Wormwood in Witchcraft and War](https://wildwitchherbs.com/balkan-folklore/folk-magic/herbalism/wormwood-witchcraft-war/)**.  
-You can also build a year-round apothecary with the guides **[Witchy Herbs for Healing](https://wildwitchherbs.com/witchcraft/herbalism/witchy-herbs-healing/)** and **[Folk Herbal First Aid](https://wildwitchherbs.com/witchcraft/herbalism/folk-herbal-first-aid/)**.
+## Looking for even more plant magic?  
+
+You can also build a year-round apothecary with the guides **[Witchy Herbs for Healing](/witchy-herbs-healing/)** and **[Folk Herbal First Aid](/folk-herbal-first-aid/)**.
 
 ---
 
