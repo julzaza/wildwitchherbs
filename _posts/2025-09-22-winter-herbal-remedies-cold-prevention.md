@@ -200,6 +200,12 @@ Herbs are most effective when combined with **folk practices**:
 
 ---
 
+Looking for even more cold-season magic?  
+Explore the deep history of **wormwood and other bitter winter herbs** in **[Wormwood in Witchcraft and War](https://wildwitchherbs.com/balkan-folklore/folk-magic/herbalism/wormwood-witchcraft-war/)**.  
+You can also build a year-round apothecary with the guides **[Witchy Herbs for Healing](https://wildwitchherbs.com/witchcraft/herbalism/witchy-herbs-healing/)** and **[Folk Herbal First Aid](https://wildwitchherbs.com/witchcraft/herbalism/folk-herbal-first-aid/)**.
+
+---
+
 ## Bringing Winter Herbal Wisdom Into Your Life
 
 Winter may bring cold winds and short days, but it also carries the gift of slowing down, reflecting, and caring for ourselves. The herbs, teas, infusions, and protective rituals shared here are more than just remedies—they are a way to **connect with centuries of folk wisdom**, honor the rhythms of nature, and nurture your body, mind, and spirit through the season.  
