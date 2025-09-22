@@ -199,7 +199,7 @@ Herbs are most effective when combined with **folk practices**:
 * Explore magical or protective properties of herbs for a witchy twist—nettle for strength, yarrow for protection, rosemary for clarity.
 
 
-You can also build a year-round apothecary with the guides **[Witchy Herbs for Healing](/witchy-herbs-healing/)** and **[Folk Herbal First Aid](/folk-herbal-first-aid/)**.
+You can also build a year-round apothecary with the guides **[Witchy Herbs for Healing](/witchy-herbs-for-healing/)** and **[Folk Herbal First Aid](/folk-herbal-first-aid/)**.
 
 ---
 
