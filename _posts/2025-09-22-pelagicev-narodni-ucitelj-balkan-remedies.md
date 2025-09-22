@@ -57,9 +57,6 @@ He often combines **diet and herbs**, not relying on a single remedy.
 
 ---
 
-### Bringing it Together
-Pelagić’s remedies are **practical, plant-based, and holistic**, emphasizing that the body, mind, and daily environment work together. This aligns perfectly with **Wild Witch Herbs**, which focuses on:
-
 * Herbal knowledge rooted in folklore  
 * Seasonal and sustainable harvesting  
 * Practical magic and wellness in everyday life
