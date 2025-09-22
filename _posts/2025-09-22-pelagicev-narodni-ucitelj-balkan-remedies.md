@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Pelagićev Narodni Učitelj: Balkan Remedies and Recipes from the People’s Teacher"
 date: 2025-09-22
 categories: [balkan-folklore, folk-medicine, traditional-herbs]
