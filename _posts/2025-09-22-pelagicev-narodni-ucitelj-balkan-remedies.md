@@ -57,10 +57,4 @@ He often combines **diet and herbs**, not relying on a single remedy.
 
 ---
 
-* Herbal knowledge rooted in folklore  
-* Seasonal and sustainable harvesting  
-* Practical magic and wellness in everyday life
-
----
-
 *This summary shares folk remedies from Vasa Pelagić’s Narodni Učitelj for cultural and educational purposes. It is not medical advice.*
