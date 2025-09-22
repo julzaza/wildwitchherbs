@@ -45,7 +45,7 @@ These herbs carry the scent of tradition without the hazards of fresh manure.
 ---
 
 This earthy remedy belongs to the same rugged tradition that gave rise to Vlach river-magic and graveyard charms.  
-To explore that neighboring lore, wander east to the Timok Valley in [Vlach Magic of Negotin](/vlach-magic-negotin-serbia/), where old women still whisper spells over herbs gathered at moonrise.
+To explore that neighboring lore, wander east to the Timok Valley in **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)**, where old women still whisper spells over herbs gathered at moonrise.
 
 ---
 
