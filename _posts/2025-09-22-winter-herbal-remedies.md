@@ -6,7 +6,7 @@ categories: [winter-herbs, cold-prevention, folk-remedies, herbal-recipes, witch
 meta_description: "Discover the ultimate guide to winter herbal remedies. Learn 15+ folk recipes, teas, infusions, and protective rituals to prevent colds and stay healthy all season."
 ---
 
-Winter is a season of quiet, reflection, and sometimes relentless cold. Across the Balkans, Slavic lands, and wider Europe, people have long turned to **herbs, teas, infusions, and simple folk rituals** to protect themselves from colds, support immunity, and maintain warmth. This guide gathers over **15 winter herbs** with practical recipes, infused with traditional wisdom and modern herbal magic.
+Winter is a season of quiet, reflection, and sometimes relentless cold. Across the world, people have long turned to **herbs, teas, infusions, and simple folk rituals** to protect themselves from colds, support immunity, and maintain warmth. This guide gathers over **15 winter herbs** with practical recipes, infused with traditional wisdom and modern herbal magic.
 
 ---
 
