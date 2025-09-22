@@ -228,7 +228,7 @@ These herbs are bridges between spirit and body, story and science. Each one has
 
 Let your apothecary be your altar. Let your healing be a ritual.
 
-Here are **[Top Whitchy Herbs for Protection](/top-protective-herbs-witchcraft/) to guide you on your witchy journey and the **[Ultimate Winter Folk Remedies](/winter-herbal-remedies-cold-prevention/)** for cold prevention. 
+Here are **[Top Whitchy Herbs for Protection](/top-protective-herbs-witchcraft/)** to guide you on your witchy journey and the **[Ultimate Winter Folk Remedies](/winter-herbal-remedies-cold-prevention/)** for cold prevention. 
 
 ---
 
