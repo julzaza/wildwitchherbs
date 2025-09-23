@@ -6,7 +6,9 @@ categories: [balkan-folklore, folk-medicine, traditional-herbs]
 meta_description: "Explore practical folk remedies and recipes from Vasa Pelagić’s Narodni Učitelj, with herbs, teas, and wellness advice inspired by 19th-century Balkan traditions."
 ---
 
-Vasa Pelagić’s *Narodni Učitelj* is often described as a 19th-century guide to health, daily life, and moral wisdom in the Balkans. Beyond ethical guidance, it contains dozens of **folk remedies, recipes, and herbal preparations**—perfect for modern herbalists seeking traditional inspiration.
+Vasa Pelagić’s *Narodni Učitelj* is often described as a 19th-century guide to health, daily life, and moral wisdom in the Balkans. 
+
+Beyond ethical guidance, it contains dozens of **folk remedies, recipes, and herbal preparations**—perfect for modern herbalists seeking traditional inspiration.
 
 ---
 
@@ -58,7 +60,10 @@ He often combines **diet and herbs**, not relying on a single remedy.
 ---
 
 Many of Pelagić’s favorite cures—nettles, chamomile, mugwort—still anchor today’s witchy apothecaries.  
+
 For practical ways to bring these **folk remedies** into a modern witch’s garden, see **[Witchy Herbalism 101](/witchy-herbalism-101/)**, a guide to working with the same healing plants in both ritual and everyday medicine.
+
+We got even more **[Remedies from Pelagić’s Narodni Učitelj](/lessons-vasa-pelagic/)** that blur the line between folk magic and medicine.
 
 Pelagić’s love of simple village medicine echoes the older **[Vlach magical practices of Negotin](/vlach-magic-negotin-serbia/)**, where herbs and charms guard health and home.  
 
