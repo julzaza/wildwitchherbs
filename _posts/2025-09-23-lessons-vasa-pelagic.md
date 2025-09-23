@@ -54,4 +54,4 @@ Pelagić blurred **folk magic and rational hygiene**, teaching peasants to trust
 
 Some remedies hold scientific weight; others serve as **rituals of care and community**, which science now recognizes as powerful for mental health.
 
-*For more living Balkan wisdom, see our deep dives into* **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)** and **[Ultimate Winter Herbal Remedies](/winter-herbal-remedies-cold-prevention/)**.
+*For more living Balkan wisdom, see our deep dives into* **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)** and **[Herbal Companions of Vlach Witches](/herbs-vlach-wise-women/)**.
