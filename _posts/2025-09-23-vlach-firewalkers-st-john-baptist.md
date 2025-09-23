@@ -29,7 +29,7 @@ Local healers collect ashes from the fire the next morning.
 
 Mixed with spring water, these ashes are **dabbed on the forehead to break fevers** or added to animal feed to **protect livestock from disease**—a practice recorded by 19th-century ethnographers and still alive today.
 
-Learn more how Vlach wise women also use **[Herbal Companions in Magic and Medicine Practices] (/herbs-vlach-wise-women/)**. 
+Learn more how Vlach wise women also use **[Herbal Companions in Magic and Medicine Practices](/herbs-vlach-wise-women/)**. 
 
 ## Science Meets Tradition
 Modern research shows that experienced firewalkers maintain calm breathing and steady pace, reducing contact time and avoiding burns. 
