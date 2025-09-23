@@ -38,7 +38,7 @@ This custom belongs to a wider tapestry of Dinaric folk medicine:
 * **River clay and wood ash scalp washes** were common in Montenegro’s mountain villages for both cleansing and spiritual protection.  
 * Across old Slavic lands, burning dried manure as incense was thought to scare away spirits that caused disease.
 
-Even farther afield, similar beliefs appear: Ayurvedic India honors cow dung for purification, and ancient Roman and Egyptian texts list animal manure in skin and hair recipes.
+Even farther afield, similar beliefs appear: **Ayurvedic India honors cow dung for purification**, and ancient Roman and Egyptian texts list animal manure in skin and hair recipes.
 
 ## From Folklore to Modern Science  
 However, fresh dung can harbor bacteria such as *E. coli*, tetanus spores, and parasites that pose real health risks.  
