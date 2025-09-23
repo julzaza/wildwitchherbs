@@ -18,12 +18,16 @@ In Vlach lore, the flames awaken the **spirit of the grain**, ensuring a fertile
 The church later overlaid the ritual with the name of St. John, but villagers still whisper that the fire belongs to the **old gods of summer**.
 
 ## The Night of the Flames
-At dusk, men and women gather around a **giant bonfire of oak**, the tree sacred to Perun, the Slavic thunder god. When the logs collapse into embers, the bravest **walk barefoot across the glowing coals**, singing invocations in a mix of **archaic Romanian dialect** and Serbian.  
+At dusk, men and women gather around a **giant bonfire of oak**, the tree sacred to Perun, the Slavic thunder god. 
+
+When the logs collapse into embers, the bravest **walk barefoot across the glowing coals**, singing invocations in a mix of **archaic Romanian dialect** and Serbian.  
 
 Before stepping onto the fire, each participant receives a **protective charm**: a sprig of **wormwood** tied with red thread. Old women say the wormwood “drinks the heat,” keeping the skin unburned.
 
 ## Magic and Medicine
-Local healers collect ashes from the fire the next morning. Mixed with spring water, these ashes are **dabbed on the forehead to break fevers** or added to animal feed to **protect livestock from disease**—a practice recorded by 19th-century ethnographers and still alive today.
+Local healers collect ashes from the fire the next morning. 
+
+Mixed with spring water, these ashes are **dabbed on the forehead to break fevers** or added to animal feed to **protect livestock from disease**—a practice recorded by 19th-century ethnographers and still alive today.
 
 ## Science Meets Tradition
 Modern research shows that experienced firewalkers maintain calm breathing and steady pace, reducing contact time and avoiding burns. 
