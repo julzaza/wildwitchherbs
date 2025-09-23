@@ -53,7 +53,7 @@ Balkan hedgewitches and "baba vračare" used herbs both practically and magicall
   
 **Rituals**: “Throwing herbs on coals” was a common household practice for driving out the evil eye or banishing sorrow.
 
-Learn more about **[Witchy Herbs Used by Vlach Wise Women of the Balkans](/herbs-vlach-wise-women/)** and their [Magic Practices: Love Spells and Protective Knots](/charms-vlach-healers/)**.
+Learn more about **[Witchy Herbs Used by Vlach Wise Women of the Balkans](/herbs-vlach-wise-women/)** and their **[Magic Practices: Love Spells and Protective Knots](/charms-vlach-healers/)**.
 
 ---
 
