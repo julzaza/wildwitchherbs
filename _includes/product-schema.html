@@ -3,29 +3,41 @@
   "@context": "https://schema.org/",
   "@type": "Product",
   "name": "Artemisia annua – Tea, Tincture & Seeds",
-  "image": [
-    {% for product in site.data.products %}
-      "{{ site.url }}{{ product.image }}"{% if forloop.last == false %},{% endif %}
-    {% endfor %}
-  ],
-  "description": "Organic Artemisia annua products – loose leaf tea, potent tincture, and viable seeds. Grown sustainably and harvested with care.",
+  "image": "https://wildwitchherbs.com/images/artemisia-annua-sweet-wormwood-tea-closeup.webp",
+  "description": "Organic Artemisia annua products – loose leaf tea, potent tincture, and viable seeds. Wildcrafted and harvested with care.",
   "brand": {
     "@type": "Brand",
-    "name": "Wild Witchy Herbs"
+    "name": "Wild Witch Herbs"
   },
   "sku": "artemisia-001",
   "offers": [
-    {% for product in site.data.products %}
     {
       "@type": "Offer",
-      "url": "{{ site.url }}{{ product.url }}",
-      "priceCurrency": "{{ product.currency }}",
-      "price": "{{ product.price }}",
-      "itemCondition": "https://schema.org/{{ product.condition }}",
-      "availability": "https://schema.org/{{ product.availability }}",
-      "name": "{{ product.name }}"
-    }{% if forloop.last == false %},{% endif %}
-    {% endfor %}
+      "url": "https://wildwitchherbs.com/shop/#dried-artemisia-annua-tea--14",
+      "priceCurrency": "EUR",
+      "price": "14.00",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock",
+      "name": "Artemisia annua Tea – 50g"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://wildwitchherbs.com/shop/#artemisia-tincture--29",
+      "priceCurrency": "EUR",
+      "price": "29.00",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock",
+      "name": "Artemisia annua Tincture – 100ml"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://wildwitchherbs.com/shop/#artemisia-annua-seeds--5",
+      "priceCurrency": "EUR",
+      "price": "5.00",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock",
+      "name": "Artemisia annua Seeds – 200 seeds"
+    }
   ]
 }
 </script>
