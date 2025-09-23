@@ -7,6 +7,7 @@ tags: [Vlach, magic, love spells, Serbian folklore, knot magic, forest spirits, 
 ---
 
 Deep in the **Timok Valley** of Eastern Serbia, where mist settles over oak groves and vineyards, the **Vlach healers (Vlaski vračare)** have guarded a living tradition of magic.  
+
 Anthropologists who worked in villages around Negotin and Zaječar during the 19th and early 20th century recorded **love charms, binding knots, and forest-spirit offerings** that reach back to pre-Christian times.  
 
 ### Love Spells by the Hearth
@@ -25,6 +26,8 @@ Mothers tied a narrow strip of **homespun linen** into nine knots while reciting
 
 Ethnographer Tihomir Đorđević noted that villagers believed the knots acted as “locks” that malevolent forces could not untie.
 
+Check out what **[Herbs Witches Across the World Use as Ancient Shields for Protection( /world-magic-for-protection/)**. 
+
 ### Gifts to the Forest Spirits
 The Vlachs speak of **šumske majke—forest mothers—ancient feminine beings** who guard springs and medicinal plants.  
 
@@ -33,11 +36,11 @@ Before harvesting powerful herbs like *Artemisia absinthium* or wild rue, a heal
 **Failing to give thanks, elders warned, would cause the herb to “lose its soul,” making it useless.**
 
 ### Keeping the Tradition Alive
-Many of these rites today are seen only as **cultural heritage** to attract tourism rather than clandestine sorcery. 
+Many of these rites today are seen only as **cultural heritage** rather than clandestine sorcery. 
 
 Theese days festivals in Negotin and nearby villages invite visitors to witness ritual songs and knot-tying demonstrations, blending respect for the old ways with modern herbal practice.
 
-However, when the outsiders are not looking, real magic still takes place across the Timok Valley. 
+However, when the outsiders are not looking, **potent magic still takes place across the Timok Valley**. 
 
 ---
 
