@@ -29,6 +29,8 @@ Local healers collect ashes from the fire the next morning.
 
 Mixed with spring water, these ashes are **dabbed on the forehead to break fevers** or added to animal feed to **protect livestock from disease**—a practice recorded by 19th-century ethnographers and still alive today.
 
+The concept of collecting **holy water for healing and protection** from the spring, is a practice highlighted in the **[Seven Sacred Springs of Serbia](/seven-sacred-springs-serbia/)**, where each spring carries its own magical history.
+
 Learn more how Vlach wise women also use **[Herbal Companions in Magic and Medicine Practices](/herbs-vlach-wise-women/)**. 
 
 ## Science Meets Tradition
