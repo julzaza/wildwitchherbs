@@ -10,6 +10,8 @@ High on the Durmitor plateau, where pine forests meet high meadows, stories of m
 
 One of the strangest—and most memorable—tells that when a person’s hair begins to thin, the surest remedy is **fresh cow dung spread across the scalp**.  
 
+But definitely check out our **[Top 10 Traditional Hairloss Remedies](/folk-hairloss-remedies/)** if cow dung is not your thing. 
+
 ## A Folk Remedy of Survival  
 Before pharmacies and bottled tonics, villagers in the Žabljak region worked with whatever life gave them.  
 
@@ -48,8 +50,6 @@ If you love the earthy spirit but don't want to risk contact with pathogens, tur
 * **Yarrow washes** for gentle cleansing and a touch of protective magic.
 
 These herbs carry the scent of tradition without the hazards of fresh manure.
-
-And definitely check out our **[Top 10 Traditional Hairloss Remedies](/folk-hairloss-remedies/)** if cow dung is not your thing. 
 
 ---
 
