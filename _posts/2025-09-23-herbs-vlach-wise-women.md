@@ -31,6 +31,7 @@ Below are **seven key plants** recorded in ethnographic surveys and folk-medical
 ### 5. St. John’s Wort (*Hypericum perforatum*)
 *Folklore:* Gathered at midsummer, dipped in oil, and placed on windowsills for **solar protection**.  
 *Science:* Well-studied for **mild to moderate depression** via hypericin and hyperforin.
+Find out how to make **[St. John's Wort Moon Water for Grief and Sorrow]**(/st-johns-wort-moon-water/) or **[Sun Water for Joy and Light]**.(/st-johns-wort-sun-water/)
 
 ### 6. Elder (*Sambucus nigra*)
 *Folklore:* Considered a **gateway to the spirit world**. Cutting an elder tree without asking the spirit’s permission was taboo.  
@@ -48,9 +49,7 @@ This practice, villagers say, ensures the herb retains its “duša,” or soul.
 
 ---
 
-> Want to see how these plants weave into Balkan protective magic?  
-> Read our in-depth guide to  
-> [Ancient Shields: Witchy Protection Herbs from Global Traditions](/ancient-shields-protection-herbs/).
+Learn more about this guarded living magic traditions and check out **[Vlasko Love Spells, Binding Knots and Forest Spirits]**(/charms-vlach-healers/).
 
 ---
 
