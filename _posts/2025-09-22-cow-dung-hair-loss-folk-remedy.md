@@ -10,7 +10,7 @@ High on the Durmitor plateau, where pine forests meet high meadows, stories of m
 
 One of the strangest—and most memorable—tells that when a person’s hair begins to thin, the surest remedy is **fresh cow dung spread across the scalp**.  
 
-But definitely check out our **[Top 10 Traditional Hairloss Remedies](/folk-hairloss-remedies/)** if cow dung is not your thing. 
+But definitely check out our **[Top 10 Traditional Hairloss Remedies](/folk-hairloss-remedies/)** if animal manure hair mask is not your thing. 
 
 ## A Folk Remedy of Survival  
 Before pharmacies and bottled tonics, villagers in the Žabljak region worked with whatever life gave them.  
@@ -24,7 +24,7 @@ Older Montenegrins describe mixing a small lump of fresh dung with mountain spri
 ## Magical Protection and the Evil Eye  
 Hair loss was rarely seen as simple biology.  
 
-In traditional Balkan belief, sudden shedding could mean the “evil eye” had struck or that cold mountain winds had stolen the body’s heat.  
+In traditional Balkan belief, sudden shedding could mean the **“evil eye” had struck or that cold mountain winds had stolen the body’s heat**.  
 
 Cow dung, warm and pungent, carried the cow’s own vitality.  
 
