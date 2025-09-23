@@ -19,6 +19,8 @@ The wool was tied in **three knots**, each sealed with a drop of melted beeswax.
 
 The charm was hidden behind the house beam until the next full moon—symbolizing a bond “as strong as oak roots.”  
 
+Find out more about **[Weddings Under Full Moon and Milk Spells](/fertility-rites-vlach-danube-folklore/)**.
+
 ### Binding Knots for Protection
 “**Uvezivanje**”—the knot-binding ritual—was used not only for romance but to **protect infants from the evil eye**.  
 
