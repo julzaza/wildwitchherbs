@@ -13,7 +13,7 @@ Known locally as *pali hod* (“burning walk”), this Vlach tradition is part *
 ## Ancient Roots Beneath the Ashes
 Archaeologists trace similar fire rites back to **Thracian and Dacian cults** of the sun.  
 
-In Vlach lore, the flames awaken the **spirit of the grain**, ensuring a fertile harvest and warding off sickness. 
+In Vlaska Magija lore, the flames awaken the **spirit of the grain**, ensuring a fertile harvest and warding off sickness. 
 
 The church later overlaid the ritual with the name of St. John, but villagers still whisper that the fire belongs to the **old gods of summer**.
 
@@ -31,12 +31,12 @@ Mixed with spring water, these ashes are **dabbed on the forehead to break fever
 
 The concept of collecting **holy water for healing and protection** from the spring, is a practice highlighted in the **[Seven Sacred Springs of Serbia](/seven-sacred-springs-serbia/)**, where each spring carries its own magical history.
 
-Learn more how Vlach wise women also use **[Herbal Companions in Magic and Medicine Practices](/herbs-vlach-wise-women/)**. 
-
 ## Science Meets Tradition
 Modern research shows that experienced firewalkers maintain calm breathing and steady pace, reducing contact time and avoiding burns. 
 
 The wormwood’s volatile oils may also have a mild **cooling, antimicrobial effect**, lending scientific weight to the “protective” herb.
+
+Learn more about how Vlach wise women also use **[Herbal Companions in Magic and Medicine Practices](/herbs-vlach-wise-women/)**. 
 
 ---
 
