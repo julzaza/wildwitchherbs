@@ -7,6 +7,7 @@ tags: [Vlach, herbal magic, Timok Valley, Balkan herbs, traditional medicine]
 ---
 
 The **Timok Valley** of Eastern Serbia is more than rolling vineyards and quiet rivers.  
+
 It is a **living apothecary**, where Vlach wise women (*babe lečarke*) still gather herbs at dawn, reciting half-forgotten prayers in a language that drifts between Romanian and archaic Serbian.
 
 Below are **seven key plants** recorded in ethnographic surveys and folk-medical manuals, each carrying layers of **magic and science**.
