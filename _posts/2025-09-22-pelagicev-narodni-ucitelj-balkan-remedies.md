@@ -63,7 +63,7 @@ Many of Pelagić’s favorite cures—nettles, chamomile, mugwort—still anchor
 
 For practical ways to bring these **folk remedies** into a modern witch’s garden, see **[Witchy Herbalism 101](/witchy-herbalism-101/)**, a guide to working with the same healing plants in both ritual and everyday medicine.
 
-We got even more **[Remedies from Pelagić’s Narodni Učitelj](/lessons-vasa-pelagic/)** that blur the line between folk magic and medicine.
+But hold on, we got even more **[Remedies from Pelagić’s Narodni Učitelj](/lessons-vasa-pelagic/)** that blur the line between folk magic and medicine.
 
 Pelagić’s love of simple village medicine echoes the older **[Vlach magical practices of Negotin](/vlach-magic-negotin-serbia/)**, where herbs and charms guard health and home.  
 
