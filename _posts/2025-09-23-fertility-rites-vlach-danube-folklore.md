@@ -21,6 +21,7 @@ Modern herbal science confirms that **rue stimulates circulation**, while basil�
 
 ## The Milk Spell
 On the morning after the wedding, an elder woman poured **warm cow’s milk** over the threshold of the couple’s house while chanting:  
+
 *“As the cow gives milk, so shall the womb give life.”*  
 
 The milk, symbol of nourishment and cosmic abundance, was sometimes mixed with **crushed nettle seed** to “wake the blood.”
