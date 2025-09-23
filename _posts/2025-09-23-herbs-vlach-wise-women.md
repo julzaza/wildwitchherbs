@@ -14,31 +14,39 @@ Below are **seven key plants** recorded in ethnographic surveys and folk-medical
 
 ### 1. Yarrow (*Achillea millefolium*)
 *Folklore:* Collected on **St. John’s Eve**, yarrow was hung above doors to **banish illness** and sprinkled in wedding bread to ensure fidelity.  
+
 *Science:* Rich in flavonoids and sesquiterpene lactones, yarrow shows **anti-inflammatory** and **wound-healing** effects.
 
 ### 2. Rue (*Ruta graveolens*)
 *Folklore:* Called **ruta** or “the witch’s herb,” it was worn in a small pouch to guard against the **evil eye**.  
+
 *Science:* Contains rutin and essential oils with mild antimicrobial properties—supporting its reputation as a protective herb.
 
 ### 3. Mugwort (*Artemisia vulgaris*)
 *Folklore:* Burned as a smudge to **summon dreams** or carried for safe travel across the Danube.  
+
 *Science:* Modern research confirms **antimicrobial** and **mild sedative** actions.
 
 ### 4. Wormwood (*Artemisia absinthium*)
 *Folklore:* Sprigs were placed on graves to guide souls, a practice echoing through Balkan vampire tales.  
+
 *Science:* Bitter compounds like absinthin stimulate digestion and may have anti-parasitic activity.
 
 ### 5. St. John’s Wort (*Hypericum perforatum*)
 *Folklore:* Gathered at midsummer, dipped in oil, and placed on windowsills for **solar protection**.  
+
 *Science:* Well-studied for **mild to moderate depression** via hypericin and hyperforin.
+
 Find out how to make **[St. John's Wort Moon Water for Grief and Sorrow](/st-johns-wort-moon-water/)** or **[Sun Water for Joy and Light](/st-johns-wort-sun-water/)**.
 
 ### 6. Elder (*Sambucus nigra*)
 *Folklore:* Considered a **gateway to the spirit world**. Cutting an elder tree without asking the spirit’s permission was taboo.  
+
 *Science:* Elderberries are high in **antioxidant anthocyanins** and support immune function.
 
 ### 7. Wild Basil (*Ocimum sp.*)
 *Folklore:* Used in **love charms** tied with red thread, as described in Vlach knot magic.  
+
 *Science:* Essential oils with eugenol lend antibacterial and aromatic qualities.
 
 ---
