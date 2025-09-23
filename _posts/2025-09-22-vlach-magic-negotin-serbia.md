@@ -22,7 +22,9 @@ Stories circulate of **“life with the dead,”** when spirits linger near thei
 
 In some Negotin villages, people set out bread, wine, and a lit candle on the threshold so ancestors can visit without crossing into the house. 
 
-Others speak of **“black weddings”**—a ritual marriage performed when a betrothed man dies before his wedding day. His grieving fiancée dresses in white and symbolically weds him at the graveside, a rite meant to bring peace to both families and ensure the dead do not wander.
+Others speak of **“black weddings”**—a ritual marriage performed when a betrothed man dies before his wedding day. 
+
+His grieving fiancée dresses in white and symbolically weds him at the graveside, a rite meant to bring peace to both families and ensure the dead do not wander.
 
 Another enduring tale tells of **water spirits** hiding in the Timok’s whirlpools. Fishermen still murmur a short prayer or toss a pinch of salt before casting a net, lest a nymph drag them under.
 
@@ -33,6 +35,8 @@ The heart of Vlach magic lies with the **baba**, the wise woman who knows every 
 She might boil **nettle** for strength, burn **sage** for cleansing, or tuck **yarrow** beneath a child’s pillow to guard against nightmares. 
 
 Some babas are said to meet at crossroads under the waning moon, trading charms and secret words in the Vlach language so old that outsiders hear only whispers.
+
+Learn exactly which **[Herbal Companions Vlaska Babas Turn To](/herbs-vlach-wise-women/)**. 
 
 ## Herbal Power in the Timok Valley
 
@@ -62,9 +66,7 @@ Find out **[Why Balkan Witches Survived the Hunt](/balkan-witches/)**.
 **Wild Witch Herbs Tip:**  
 If this lore speaks to you, start small. Brew a **nettle and elderflower tea** on a dark winter night, or hang a **yarrow bundle** above your doorway.
 
-Many of the herbs prized in Vlach magic—nettle, sage, yarrow—also appear in our guide to **[Ultimate Winter Herbal Remedies](/winter-herbal-remedies-cold-prevention/)**, showing how seasonal healing and ancestral ritual go hand in hand.   
-
-For another glimpse of Balkan folk medicine, see the **[remedies from Vasa Pelagić’s Narodni Učitelj](/pelagicev-narodni-ucitelj-balkan-remedies/)**, a classic that preserves rural cures from the same cultural crossroads.
+For another glimpse of Balkan folk medicine, see the **[remedies from Vasa Pelagić’s Narodni Učitelj](/lessons-vasa-pelagic/)**, a classic that preserves rural cures from the same cultural crossroads.
 
 
 ---
