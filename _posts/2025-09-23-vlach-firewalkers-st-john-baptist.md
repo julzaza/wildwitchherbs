@@ -37,4 +37,4 @@ The wormwood’s volatile oils may also have a mild **cooling, antimicrobial eff
 ---
 
 **Further Reading:**  
-If you’re drawn to fire rites, explore our post on **[Vlach Magic in Negotin, Serbia](/balkan-folklore/folk-magic/herbalism/serbia/vlach-magic-negotin-serbia/)** for more protective charms and mid-summer rituals.
+If you’re drawn to fire rites, explore our post on **[Vlach Magic in Negotin, Serbia](/vlach-magic-negotin-serbia/)** for more protective charms and mid-summer rituals.
