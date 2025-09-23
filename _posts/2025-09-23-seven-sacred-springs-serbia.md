@@ -77,7 +77,6 @@ As you wander the Timok valleys, it’s impossible not to think of the **healing
 
 ---
 
-**Related Reading:**  
-- [Vlach Magic of Negotin](//vlach-magic-negotin-serbia/)  
+**Related Reading:**    
 - [Folk Herbal First Aid](/folk-herbal-first-aid/)  
 - [Pelagićev Narodni Učitelj: Balkan Remedies](/pelagicev-narodni-ucitelj-balkan-remedies/)
