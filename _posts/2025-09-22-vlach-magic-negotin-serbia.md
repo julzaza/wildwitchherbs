@@ -14,7 +14,9 @@ Here, magic is not a relic but a quiet undercurrent of daily life: **old songs, 
 
 The **Vlach** are a Latin-speaking minority whose ancestors once roamed the Balkans as shepherds and healers. 
 
-Over centuries they blended **pre-Roman pagan beliefs** with **Orthodox Christian customs**, creating a living tradition locals call **Vlaska magija**. While many practices remain secret, travelers still hear of **night-time incantations**, **herb-gathering at the new moon**, and charms whispered to guard against the evil eye.
+Over centuries they blended **pre-Roman pagan beliefs** with **Orthodox Christian customs**, creating a living tradition locals call **Vlaska magija**. 
+
+While many practices remain secret, travelers still hear of **night-time incantations**, **herb-gathering at the new moon**, and charms whispered to guard against the evil eye.
 
 ## Legends That Refuse to Die
 
@@ -26,7 +28,9 @@ Others speak of **“black weddings”**—a ritual marriage performed when a be
 
 His grieving fiancée dresses in white and symbolically weds him at the graveside, a rite meant to bring peace to both families and ensure the dead do not wander.
 
-Another enduring tale tells of **water spirits** hiding in the Timok’s whirlpools. Fishermen still murmur a short prayer or toss a pinch of salt before casting a net, lest a nymph drag them under.
+Another enduring tale tells of **water spirits** hiding in the Timok’s whirlpools. 
+
+Fishermen still murmur a short prayer or toss a pinch of salt before casting a net, lest a nymph drag them under.
 
 ## Healers and Night Women
 
@@ -57,14 +61,18 @@ Search for these traditions and you’ll find both **Vlach magic** and **Vlaska 
 
 ## Living Tradition
 
-Despite modernization, **Vlach magic endures**. Weddings, funerals, and seasonal festivals still carry old prayers and quiet gestures of protection. To the untrained eye it may seem like quaint superstition; to locals it is heritage—an unbroken conversation with the land and the ancestors.
+Despite modernization, **Vlach magic endures**. Weddings, funerals, and seasonal festivals still carry old prayers and quiet gestures of protection. 
+
+To the untrained eye it may seem like quaint superstition; to locals it is heritage—an unbroken conversation with the land and the ancestors.
 
 Find out **[Why Balkan Witches Survived the Hunt](/balkan-witches/)**. 
 
 ---
 
 **Wild Witch Herbs Tip:**  
-If this lore speaks to you, start small. Brew a **nettle and elderflower tea** on a dark winter night, or hang a **yarrow bundle** above your doorway.
+If this lore speaks to you, start small. 
+
+Brew a **nettle and elderflower tea** on a dark winter night, or hang a **yarrow bundle** above your doorway.
 
 For another glimpse of Balkan folk medicine, see the **[remedies from Vasa Pelagić’s Narodni Učitelj](/lessons-vasa-pelagic/)**, a classic that preserves rural cures from the same cultural crossroads.
 
