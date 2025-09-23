@@ -33,6 +33,8 @@ Women were told to boil **green walnut husks and leaves** for glossy, dark hair.
 
 Science nods again: walnut hulls contain **juglone**, a natural dye and mild antifungal, explaining their centuries of use as a **plant-based hair toner**.
 
+Read our **[Timeless Remedies for Hair Loss](/folk-hairloss-remedies/)** to learn more about witchy hair care. 
+
 ### 4. Bread-and-Salt Oath for Peace
 To reconcile neighbors, Pelagić advised breaking a loaf sprinkled with salt while reciting a short prayer.  
 
