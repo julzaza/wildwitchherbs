@@ -57,7 +57,7 @@ This practice, villagers say, ensures the herb retains its “duša,” or soul.
 
 ---
 
-Many of the healing herbs highlighted here are part of the rituals still practiced at the **[Seven Sacred Springs of Serbia](/seven-sacred-springs-serbia/)**, where holy water and herbal preparations create centuries-old remedies.
+Herbs highlighted here are part of the rituals still practiced at the **[Seven Sacred Springs of Serbia](/seven-sacred-springs-serbia/)**, where holy water and herbal preparations create centuries-old remedies.
 
 ---
 
