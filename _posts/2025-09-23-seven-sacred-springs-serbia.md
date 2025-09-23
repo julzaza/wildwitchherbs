@@ -33,6 +33,8 @@ Reached only by a goat path and a whispered charm.
 
 On Midsummer Eve, Vlach women **bathed in dew and spring water**, then gathered **mugwort and vervain** for fertility rites.
 
+Read more about the fertility rites of the Vlaska Wise Women, including **[Weddings Under the Moon and Milk Spells](/fertility-rites-vlach-danube-folklore/)**.
+
 ### 4. **Izvor Svetog Nikole – St. Nicholas Spring**
 A Christian chapel crowns the site, but locals say the **old river god still lives beneath the stones**.  
 
