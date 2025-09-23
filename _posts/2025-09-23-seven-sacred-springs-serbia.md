@@ -48,7 +48,7 @@ Known since Roman times.
 
 Women once performed **moonlit hair-washing rituals** here for thick growth, combining the hot water with a rinse of **nettle and horsetail**—minerals plus silica for the scalp.
 
-Read more about the **time-honored hair remedies** explored in [10 Timeless Remedies for Hair Loss: Folklore, Herbs, and Science](/folk-hairloss-remedies/), where water and herbal infusions were often combined for restorative effects.
+Read more about the **time-honored hair remedies** explored in **[10 Timeless Remedies for Hair Loss: Folklore, Herbs, and Science](/folk-hairloss-remedies/)**, where water and herbal infusions were often combined for restorative effects.
 
 ### 7. **Timok’s Whispering Eye**
 A karst opening where water appears and disappears with the moon.  
@@ -68,6 +68,10 @@ Modern lab tests show these waters often contain **unique mineral profiles** tha
 Many of these springs remain free and wild. Travelers often leave a coin or ribbon “for luck,” echoing rites that predate Christianity.
 
 *If you go:* Bring a small bottle for collecting water, and—as tradition demands—**approach in silence until you’ve taken your first sip.**
+
+---
+
+As you wander the Timok valleys, it’s impossible not to think of the **healing herbs and protective charms** described in **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)**, where local folklore still guides herbal practices today.
 
 ---
 
