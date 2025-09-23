@@ -13,7 +13,6 @@ tags:
   - warding
   - regional witchcraft
 date: 2025-07-10
-author_profile: false
 read_time: true
 comments: true
 share: true
@@ -53,6 +52,8 @@ Balkan hedgewitches and "baba vračare" used herbs both practically and magicall
 - **Thyme**: Brewed into washes for psychic cleansing.
   
 **Rituals**: “Throwing herbs on coals” was a common household practice for driving out the evil eye or banishing sorrow.
+
+Learn more about **[Witchy Herbs Used by Vlach Wise Women of the Balkans](/herbs-vlach-wise-women/)** and their [Magic Practices: Love Spells and Protective Knots](/charms-vlach-healers/)**.
 
 ---
 
