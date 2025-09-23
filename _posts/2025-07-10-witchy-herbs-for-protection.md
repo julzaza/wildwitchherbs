@@ -155,7 +155,7 @@ These herbs show up across continents, often with remarkably similar uses:
  **Angelica:**  Barrier against sickness and ill intent       
  **Anamu:**     Banishing, removing hexes, protection spells  
 
- To find out which plants are the most potent against the dark forces, check out [11 Top Whitchy Herbs for Protection](/top-protective-herbs-witchcraft/).
+ To find out which plants are the most potent against the dark forces, check out **[11 Top Whitchy Herbs for Protection](/top-protective-herbs-witchcraft/)**.
 
 ---
 
@@ -187,7 +187,7 @@ Whether you walk barefoot in the woods or light a candle in a city apartment, th
 
 Let the plants protect you—boldly, softly, completely.
 
-[Top Witchy Herbs for Healing](/witchy-herbs-for-healing/) will guide you through plants witches and healers used to cure body, mind and soul. 
+**[Top Witchy Herbs for Healing](/witchy-herbs-for-healing/)** will guide you through plants witches and healers used to cure body, mind and soul. 
 
 ---
 
