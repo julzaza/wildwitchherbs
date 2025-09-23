@@ -40,4 +40,4 @@ Reports of Serbian vampire hunts in the 1720s (notably the case of **Arnold Paol
 **Roots That Still Live**  
 Today, hawthorn hedges and garlic plaits hang as simple farm traditions, but each carries the **memory of nights when the dead might walk**.
 
-*Explore more uncanny herbal lore in* **[Ancient Shields: Witchy Protection Herbs](/balkan-folklore/witchcraft/protection-herbs/)** and **[Why Balkan Witches Survived](/balkan-folklore/witchcraft/why-balkan-witches-survived/)**.
+*Explore more uncanny herbal lore in* **[Ancient Shields: Witchy Protection Herbs](/balkan-folklore/witchcraft/protection-herbs/)** and **[Which 7 Herbs Vlach Witches Use](/herbs-vlach-wise-women/)**.
