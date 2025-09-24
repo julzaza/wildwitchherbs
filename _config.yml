@@ -97,9 +97,6 @@ social:
     - https://instagram.com/wildwitchherbs
  
 
-
-  links: # An array of links to social media profiles
-
 # Analytics
 analytics:
   provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
