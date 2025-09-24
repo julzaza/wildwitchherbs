@@ -1,7 +1,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Product",
+  "@type": "Post",
   "name": "{{ page.title | escape }}",
   "image": [{% for img in page.images %}"{{ img | absolute_url }}"{% unless forloop.last %}, {% endunless %}{% endfor %}],
   "description": "{{ page.description | strip_html | strip_newlines | escape }}",
