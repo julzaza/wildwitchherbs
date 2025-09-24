@@ -11,13 +11,3 @@ Disallow: /
 
 User-agent: SemrushBot
 Disallow: /
-
-# Crawl delay for heavy bots to reduce server load (optional)
-# User-agent: *
-# Crawl-delay: 10
-
-# Notes:
-# 1. 'Allow: /' ensures all pages are accessible.
-# 2. Correct sitemap URL points bots to your actual sitemap.
-# 3. Optional blocks for aggressive scrapers can reduce server load.
-# 4. Crawl-delay is optional and rarely needed for modern crawlers.
