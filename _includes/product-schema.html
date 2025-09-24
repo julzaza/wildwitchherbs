@@ -3,24 +3,27 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "{{ page.title | escape }}",
-  "image": ["{{ page.product_image | absolute_url }}"],
-  "description": "{{ page.product_description | escape }}",
+  "image": [
+    {% for img in page.images %}
+      "{{ img | absolute_url }}"{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  ],
+  "description": "{{ page.description | strip_html | strip_newlines | escape }}",
+  "sku": "{{ page.sku | escape }}",
   "brand": {
     "@type": "Brand",
-    "name": "{{ page.product_brand | escape }}"
+    "name": "{{ page.brand | default: site.title | escape }}"
   },
-  "sku": "{{ page.product_sku | escape }}",
   "offers": [
-    {% for offer in page.product_offers %}
+    {% for offer in page.offers %}
     {
       "@type": "Offer",
       "url": "{{ offer.url | absolute_url }}",
       "priceCurrency": "{{ offer.priceCurrency }}",
       "price": "{{ offer.price }}",
       "itemCondition": "https://schema.org/NewCondition",
-      "availability": "https://schema.org/InStock",
-      "name": "{{ offer.name | escape }}"
-    }{% if forloop.last == false %},{% endif %}
+      "availability": "https://schema.org/InStock"
+    }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ]
 }
