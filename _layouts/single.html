@@ -21,16 +21,17 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>
+  <article class="page" itemscope 
+           itemtype="{% if page.product_schema %}https://schema.org/Product{% else %}https://schema.org/CreativeWork{% endif %}"
+           {% if page.locale %} lang="{{ page.locale }}"{% endif %}>
 
-        {% if page.layout == "single" and page.date %}
+    {% comment %} Include schema based on front matter {% endcomment %}
+    {% if page.product_schema %}
+      {% include product-schema.html %}
+    {% else %}
       {% include post-schema.html %}
     {% endif %}
 
-    {% if page.product_schema %}
-  {% include product-schema.html %}
-{% endif %}
-    
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
@@ -40,11 +41,10 @@ layout: default
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
           {% if page.title -%}
-          <h1 id="page-title" class="page__title" itemprop="headline">
-            <a href="{{ page.url | absolute_url }}" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
-          </h1>
+            <h1 id="page-title" class="page__title" itemprop="headline">
+              <a href="{{ page.url | absolute_url }}" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+            </h1>
           {%- endif %}
-         
         </header>
       {% endunless %}
 
@@ -52,18 +52,21 @@ layout: default
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
             <nav class="toc">
-              <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
+              <header>
+                <h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> 
+                  {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}
+                </h4>
+              </header>
               {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
             </nav>
           </aside>
         {% endif %}
         {{ content }}
 
-
-
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+        {% if page.link %}
+          <div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>
+        {% endif %}
       </section>
-
 
       {% include post_pagination.html %}
     </div>
@@ -72,18 +75,14 @@ layout: default
       {% if jekyll.environment == 'production' %}
         {% include comments.html %}
       {% else %}
-        <p>
-          Comments are configured with provider: <strong>{{ site.comments.provider }}</strong>,
-          but are disabled in non-production environments.
-        </p>
+        <p>Comments are configured with provider: <strong>{{ site.comments.provider }}</strong>, but are disabled in non-production environments.</p>
       {% endif %}
     {% endif %}
   </article>
 
-  {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
+  {% comment %} Related posts {% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
     {% include page__related.html posts=site.related_posts %}
-  {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %}
   {% elsif page.id and page.related %}
     {% include page__related.html posts=site.posts %}
   {% endif %}
