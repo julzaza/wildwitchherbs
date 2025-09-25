@@ -25,12 +25,6 @@ layout: default
            itemtype="{% if page.product_schema %}https://schema.org/Product{% else %}https://schema.org/CreativeWork{% endif %}"
            {% if page.locale %} lang="{{ page.locale }}"{% endif %}>
 
-    {% comment %} Include schema based on front matter {% endcomment %}
-    {% if page.product_schema %}
-      {% include product-schema.html %}
-    {% else %}
-      {% include post-schema.html %}
-    {% endif %}
 
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
