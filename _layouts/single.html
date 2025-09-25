@@ -21,6 +21,13 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
+  {% comment %} Schema includes skipped to prevent build errors {% endcomment %}
+{% if false %}
+  {% include post-schema.html %}
+  {% include product-schema.html %}
+{% endif %}
+
+  
   <article class="page" itemscope 
            itemtype="{% if page.product_schema %}https://schema.org/Product{% else %}https://schema.org/CreativeWork{% endif %}"
            {% if page.locale %} lang="{{ page.locale }}"{% endif %}>
