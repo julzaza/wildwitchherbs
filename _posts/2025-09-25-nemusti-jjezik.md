@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Nemušti Jezik: Serbia’s Secret Language of Beasts and the Echo of Vlach Magic"
 description: "Discover the Serbian folk tale of the Nemušti Jezik—‘the Silent Language’—where humans speak with animals and spirits. Explore its roots in Balkan folklore, its links to Vlach magija, and the timeless lesson of power and responsibility."
 tags: [Balkan folklore, Serbian myths, animal language, witchcraft, Vlach magic, nemuški jezik, folk tales, Wild Witchy Herbs]
