@@ -32,3 +32,24 @@ header:
 <div style="text-align: center; margin-top: 2rem;">
   <a href="/shop/" style="font-weight: bold; text-decoration: none; font-size: 1.2rem;">→ VISIT THE SHOP</a>
 </div>
+
+<div style="text-align: center; margin-top: 4rem;">
+  <h2>Latest Blog Posts</h2>
+</div>
+
+<div class="posts-list" style="max-width: 800px; margin: 2rem auto;">
+  {% for post in site.posts %}
+    <article style="margin-bottom: 2.5rem; border-bottom: 1px solid #ccc; padding-bottom: 1.5rem;">
+      <h3 style="margin-bottom: 0.5rem;">
+        <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: #333;">
+          {{ post.title }}
+        </a>
+      </h3>
+      <p style="font-size: 0.9rem; color: #666; margin-bottom: 1rem;">
+        {{ post.date | date: "%B %-d, %Y" }}
+      </p>
+      <p style="margin-bottom: 0.5rem;">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+      <a href="{{ post.url | relative_url }}" style="font-weight: bold; text-decoration: none;">Read More →</a>
+    </article>
+  {% endfor %}
+</div>
