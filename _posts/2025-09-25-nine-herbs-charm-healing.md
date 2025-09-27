@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Nine Herbs Charm: Anglo-Saxon Healing Magic"
 description: "Explore the Nine Herbs Charm, an Old English spell invoking Woden and nine sacred herbs for protection and healing. Learn its pagan roots, herbal wisdom, and mystical power."
 categories: [Herbal Magic, Witchcraft, Historical Magic]
