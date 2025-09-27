@@ -8,8 +8,11 @@
     {% include head.html %}
     {% include head/custom.html %}
 
-    <!-- SEO tags (Minimal Mistakes) -->
-    {% seo %}
+   <!-- SEO tags (Minimal Mistakes) -->
+{% unless page.seo == false %}
+  {% seo %}
+{% endunless %}
+
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FXPRZC2NZ"></script>
