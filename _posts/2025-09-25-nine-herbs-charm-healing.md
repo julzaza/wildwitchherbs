@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: single
 title: "The Nine Herbs Charm: Anglo-Saxon Healing Magic"
 description: "Explore the Nine Herbs Charm, an Old English spell invoking Woden and nine sacred herbs for protection and healing. Learn its pagan roots, herbal wisdom, and mystical power."
 categories: [Herbal Magic, Witchcraft, Historical Magic]
 tags: [Nine Herbs Charm, Nigon Wyrta Galdor, Anglo-Saxon magic, Old English charm, Woden, Lacnunga, Historical Witchcraft, Healing Herbs]
-content: |
+---
+
   # **The Nine Herbs Charm: Ancient Anglo-Saxon Healing Magic**
 
   The **Nine Herbs Charm**, also known as **Nigon Wyrta Galdor**, the **Lay of the Nine Healing Herbs**, or the **Nine Wort Spell**, is one of the most remarkable examples of **Old English magic**. Recorded in the **tenth century AD**, it survives in the **Lacnunga**, a collection of **Anglo-Saxon medical texts** preserved in the **British Library’s Harley MS 585 manuscript**.  
