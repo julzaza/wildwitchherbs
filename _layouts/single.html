@@ -21,29 +21,40 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  {% comment %} Schema includes skipped to prevent build errors {% endcomment %}
-{% if false %}
+  {%- comment -%}
+    Schema.org structured data for rich results
+  {%- endcomment -%}
   {% include post-schema.html %}
-  {% include product-schema.html %}
-{% endif %}
+  {% if page.product_schema %}
+    {% include product-schema.html %}
+  {% endif %}
 
-  
-  <article class="page" itemscope 
+  <article class="page"
+           itemscope
            itemtype="{% if page.product_schema %}https://schema.org/Product{% else %}https://schema.org/CreativeWork{% endif %}"
            {% if page.locale %} lang="{{ page.locale }}"{% endif %}>
 
-
-    {% if page.title %}<meta itemprop="headline" content="{{ page.title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
-    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+    {% if page.title %}
+      <meta itemprop="headline" content="{{ page.title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once }}">
+    {% endif %}
+    {% if page.excerpt %}
+      <meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">
+    {% endif %}
+    {% if page.date %}
+      <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
+    {% endif %}
+    {% if page.last_modified_at %}
+      <meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">
+    {% endif %}
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
           {% if page.title -%}
             <h1 id="page-title" class="page__title" itemprop="headline">
-              <a href="{{ page.url | absolute_url }}" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+              <a href="{{ page.url | absolute_url }}" itemprop="url">
+                {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+              </a>
             </h1>
           {%- endif %}
         </header>
@@ -54,7 +65,8 @@ layout: default
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
             <nav class="toc">
               <header>
-                <h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> 
+                <h4 class="nav__title">
+                  <i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i>
                   {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}
                 </h4>
               </header>
@@ -62,10 +74,15 @@ layout: default
             </nav>
           </aside>
         {% endif %}
+
         {{ content }}
 
         {% if page.link %}
-          <div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>
+          <div>
+            <a href="{{ page.link }}" class="btn btn--primary">
+              {{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}
+            </a>
+          </div>
         {% endif %}
       </section>
 
@@ -76,7 +93,10 @@ layout: default
       {% if jekyll.environment == 'production' %}
         {% include comments.html %}
       {% else %}
-        <p>Comments are configured with provider: <strong>{{ site.comments.provider }}</strong>, but are disabled in non-production environments.</p>
+        <p>
+          Comments are configured with provider: <strong>{{ site.comments.provider }}</strong>,
+          but are disabled in non-production environments.
+        </p>
       {% endif %}
     {% endif %}
   </article>
