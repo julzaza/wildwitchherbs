@@ -21,13 +21,6 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  {%- comment -%}
-    Schema.org structured data for rich results
-  {%- endcomment -%}
-  {% include post-schema.html %}
-  {% if page.product_schema %}
-    {% include product-schema.html %}
-  {% endif %}
 
   <article class="page"
            itemscope
