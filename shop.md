@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Shop Wild Herbs
-product_schema: true
+product_schema: false
 permalink: /shop/
 ---
 
