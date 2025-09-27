@@ -3,6 +3,7 @@ layout: single
 title: Shop Wild Herbs
 product_schema: false
 permalink: /shop/
+seo: false
 ---
 
 Welcome to our little apothecary. Heirloom, wildcrafted plants only. 
