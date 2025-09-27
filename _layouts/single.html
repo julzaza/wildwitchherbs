@@ -21,10 +21,9 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-
   <article class="page"
            itemscope
-           itemtype="{% if page.product_schema %}https://schema.org/Product{% else %}https://schema.org/CreativeWork{% endif %}"
+           itemtype="https://schema.org/CreativeWork"
            {% if page.locale %} lang="{{ page.locale }}"{% endif %}>
 
     {% if page.title %}
