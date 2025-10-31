@@ -14,13 +14,78 @@ header:
 .page__hero--overlay .page__title {
   text-align: left;
   font-family: 'EB Garamond', serif;
-  font-size: 2.0em;
+  font-size: 2em;
   letter-spacing: 0.5px;
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
 }
+
+.intro-text {
+  text-align: center;
+  max-width: 700px;
+  margin: 2rem auto;
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+.shop-link {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.shop-link a {
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1.2rem;
+  border-bottom: 1px solid #7a5c3d;
+  color: #4a3c2f;
+  transition: all 0.2s ease-in-out;
+}
+
+.shop-link a:hover {
+  color: #000;
+  border-color: #000;
+}
+
+.entries-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2rem;
+  max-width: 1000px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+.archive__item {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  padding: 1rem 1.5rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.archive__item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.archive__item-title {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+}
+
+.archive__item-excerpt {
+  font-size: 0.95rem;
+  color: #444;
+  margin-bottom: 0.8rem;
+}
+.archive__item-meta {
+  font-size: 0.8rem;
+  color: #777;
+}
 </style>
 
-<div style="text-align: center;">
+<div class="intro-text">
   <p>Long before modern medicine, there were witches, midwives, and herbalists.</p>
 
   <p>Here, we revive their legacy through herbal medicine, folk remedies, and plant magic.</p>
@@ -28,12 +93,10 @@ header:
   <p>Come gather what was nearly forgotten — and learn to heal like your ancestors did.</p>
 </div>
 
-
-<div style="text-align: center; margin-top: 2rem;">
-  <a href="/shop/" style="font-weight: bold; text-decoration: none; font-size: 1.2rem;">→ VISIT THE SHOP</a>
+<div class="shop-link">
+  <a href="/shop/">→ VISIT THE SHOP</a>
 </div>
 
-<div style="text-align: center; margin-top: 4rem;">
 <div class="entries-grid">
   {% for post in site.posts limit:6 %}
     <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
