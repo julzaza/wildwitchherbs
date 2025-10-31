@@ -95,10 +95,11 @@ header:
 
 <div class="shop-link">
   <a href="/shop/">→ VISIT THE SHOP</a>
+  {% include feature_row %}
+{% include paginator.html %}
 </div>
 
 <div class="entries-grid">
-  {% for post in site.posts limit:6 %}
     <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
       <h3 class="archive__item-title" itemprop="headline">
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
