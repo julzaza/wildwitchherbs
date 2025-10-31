@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Wormwood and Lucid Dreaming"
 date: 2025-10-31
 categories: [Herbal Magic, Dreamwork]
