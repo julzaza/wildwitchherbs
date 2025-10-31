@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: posts
 title: "Wormwood and Lucid Dreaming"
 permalink: /wormwood-and-lucid-dreaming/
 excerpt: "Explore the ancient connection between wormwood and lucid dreaming—its folklore, its dangers, and two traditional dream tea recipes used by witches and wanderers of the unseen."
