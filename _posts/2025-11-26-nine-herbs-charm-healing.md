@@ -74,5 +74,7 @@ description: "Explore the Nine Herbs Charm, an Old English spell invoking Woden 
 
   1. Gordon, R. K. *The Nine Herbs Charm*.  
   2. Cameron, M. L. *Anglo-Saxon Healing Charms*.  
-  3. *Lacnunga Manuscript*, Harley MS 585, British Library.  
+  3. *Lacnunga Manuscript*, Harley MS 585, British Library.
+
+     
 ---
