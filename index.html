@@ -58,25 +58,31 @@ header:
   padding: 0 1rem;
 }
 
-.archive__item {
-  background: rgba(255, 255, 255, 0.8);
-  border-radius: 10px;
-  padding: 0.3rem 1.5rem; /* top & bottom padding smaller */
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
+.archive__item,
+.archive__item-title,
+.archive__item-excerpt {
+  font-family: 'EB Garamond', serif;  /* match post font */
+  line-height: 1.5;                   /* consistent spacing */
 }
 
 .archive__item-title {
-  font-family: 'EB Garamond', serif;
   font-size: 1.3rem;
-  margin-top: 0.2rem;   /* reduces space above title */
-  margin-bottom: 0.3rem; /* reduces space below title */
+  margin-top: 0.2rem;
+  margin-bottom: 0.3rem;
 }
 
 .archive__item-excerpt {
   font-size: 0.95rem;
   color: #444;
   margin-bottom: 0.5rem;
+}
+
+.archive__item {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  padding: 0.3rem 1.5rem;  /* smaller top/bottom padding */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
 
