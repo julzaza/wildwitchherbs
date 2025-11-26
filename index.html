@@ -2,7 +2,6 @@
 layout: home
 title: Welcome to Wild Witch Herbs
 author_profile: true
-paginate: 6
 permalink: /
 description: "A witch’s apothecary offering herbal remedies, tinctures, seeds, and rituals rooted in ancient healing traditions and plant magic."
 header:
@@ -99,7 +98,7 @@ header:
 </div>
 
 <div class="entries-grid">
-{% assign posts = paginator.posts %}
+{% assign posts = site.posts %}
 
 
   {% for post in posts %}
