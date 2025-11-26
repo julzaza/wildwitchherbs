@@ -19,35 +19,42 @@ search: false
    Wild Witch Herbs — Title Link Styling
    ------------------------------------------- */
 
-/* Single post page titles */
+
+ /* Post titles (single post pages) */
 .page__title a {
-  color: #333333;              /* deep charcoal herbal black */
+  color: #0d1a4a;              /* deep navy blue */
   text-decoration: none;       /* remove underline */
-  font-weight: 700;            /* keep title bold */
+  font-weight: 700;
 }
 
-/* Hover effect for single post titles */
 .page__title a:hover {
-  color: #708238;              /* soft forest-green hover */
+  color: #b3b3b3;              /* soft light grey hover */
   text-decoration: none;
 }
 
 /* Archive / blog list titles */
 .archive__item-title a {
-  color: #333333;              /* same color for consistency */
+  color: #0d1a4a;              /* same navy for consistency */
   text-decoration: none;
   font-weight: 700;
 }
 
-/* Hover effect for archive titles */
 .archive__item-title a:hover {
-  color: #708238;
+  color: #b3b3b3;              /* light grey hover */
   text-decoration: none;
 }
 
-/* Optional: remove underline from links in excerpts too */
+/* Optional: links inside excerpts */
 .archive__item-excerpt a {
+  color: #0d1a4a;
   text-decoration: none;
+}
+
+.archive__item-excerpt a:hover {
+  color: #b3b3b3;
+  text-decoration: none;
+}
+
 }
 
 .archive__item-excerpt a:hover {
