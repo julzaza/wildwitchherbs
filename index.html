@@ -1,0 +1,33 @@
+---
+layout: none
+title: "Test Homepage"
+paginate: 6
+---
+
+<h1>Test Homepage — Pagination Check</h1>
+
+<div class="entries-grid">
+  {% if paginator %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
+  {% for post in posts %}
+    <article>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p>{{ post.date | date: "%B %-d, %Y" }}</p>
+    </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+  <nav>
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | relative_url }}">Previous</a>
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}">Next</a>
+    {% endif %}
+  </nav>
+{% endif %}
