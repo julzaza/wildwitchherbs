@@ -10,7 +10,3 @@ layout: default
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% assign posts = site.posts %}
 
-<div class="entries-{{ entries_layout }}">
-  {% include documents-collection.html entries=posts type=entries_layout %}
-</div>
-
