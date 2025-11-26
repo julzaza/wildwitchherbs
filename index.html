@@ -12,24 +12,27 @@ header:
   show_overlay_excerpt: false
 ---
 
-
 <style>
+/* Hero title styling */
 .page__hero--overlay .page__title {
   text-align: left;
   font-family: 'EB Garamond', serif;
   font-size: 2em;
   letter-spacing: 0.5px;
-  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
 }
 
+/* Intro text */
 .intro-text {
   text-align: center;
   max-width: 700px;
   margin: 2rem auto;
+  font-family: 'EB Garamond', serif;
   font-size: 1.1rem;
   line-height: 1.7;
 }
 
+/* Shop link */
 .shop-link {
   text-align: center;
   margin-top: 2rem;
@@ -49,6 +52,7 @@ header:
   border-color: #000;
 }
 
+/* Posts grid wrapper */
 .entries-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -58,43 +62,40 @@ header:
   padding: 0 1rem;
 }
 
-.archive__item,
-.archive__item-title,
-.archive__item-excerpt {
-  font-family: 'EB Garamond', serif;  /* match post font */
-  line-height: 1.5;                   /* consistent spacing */
-}
-
-.archive__item-title {
-  font-size: 1.3rem;
-  margin-top: 0.2rem;
-  margin-bottom: 0.4rem;
-}
-
-.archive__item-excerpt {
-  font-size: 0.95rem;
-  color: #444;
-  margin-bottom: 0.5rem;
-}
-
+/* Individual post item */
 .archive__item {
-  background: rgba(255, 255, 255, 0.8);
+  font-family: 'EB Garamond', serif;
+  line-height: 1.5;
+  background: rgba(255,255,255,0.8);
   border-radius: 10px;
-  padding: 0.3rem 1.1rem;  /* smaller top/bottom padding */
+  padding: 0.5rem 1.2rem; /* smaller top/bottom padding */
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
-
 
 .archive__item:hover {
   transform: translateY(-3px);
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
 
+.archive__item-title {
+  font-family: 'EB Garamond', serif;
+  font-weight: 600;
+  font-size: 1.3rem;
+  margin-top: 0.2rem;  /* less space above title */
+  margin-bottom: 0.4rem;
+}
+
+.archive__item-excerpt {
+  font-family: 'EB Garamond', serif;
+  font-weight: 400;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin: 0 0 0.5rem 0;
+}
 
 .archive__item-meta {
-  font-size: 0.8rem;
-  color: #777;
+  display: none; /* hide date/author/follow */
 }
 </style>
 
@@ -109,17 +110,16 @@ header:
   {% include feature_row %}
 </div>
 
-
-{% assign posts = site.posts %}
-
-{% for post in posts %}
-  <article class="archive__item">
-    <h3 class="archive__item-title">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </h3>
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
-    {% endif %}
-  </article>
-{% endfor %}
-
+<div class="entries-grid">
+  {% assign posts = site.posts %}
+  {% for post in posts %}
+    <article class="archive__item">
+      <h3 class="archive__item-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h3>
+      {% if post.excerpt %}
+        <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+      {% endif %}
+    </article>
+  {% endfor %}
+</div>
