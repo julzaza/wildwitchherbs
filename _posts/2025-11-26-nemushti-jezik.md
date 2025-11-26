@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Nemusti Jezik"
 description: "A folk tale from Serbia."
 categories: folklore
