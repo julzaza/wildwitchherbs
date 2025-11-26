@@ -5,7 +5,6 @@ description: "Explore the Nine Herbs Charm, an Old English spell invoking Woden 
 categories: [Herbal Magic, Witchcraft, Historical Magic]
 tags: [Nine Herbs Charm, Nigon Wyrta Galdor, Anglo-Saxon magic, Old English charm, Woden, Lacnunga, Historical Witchcraft, Healing Herbs]
 permalink: /nine-herbs-charm/
-date: 2025-11-25
 
 ---
 
