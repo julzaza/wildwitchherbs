@@ -97,7 +97,7 @@ header:
   {% include feature_row %}
 </div>
 
-<div class="entries-grid">
+
 {% assign posts = site.posts %}
 
 {% for post in posts %}
@@ -111,4 +111,3 @@ header:
     <p class="archive__item-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
   </article>
 {% endfor %}
-</div>
