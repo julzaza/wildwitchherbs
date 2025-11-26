@@ -97,9 +97,9 @@ header:
   {% include feature_row %}
 </div>
 
+
 <div class="entries-grid">
-  {% assign all_posts = site.posts | sort: 'date' | reverse %}
-  {% for post in all_posts %}
+  {% for post in posts %}
     <article class="archive__item">
       <h3 class="archive__item-title">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -111,3 +111,6 @@ header:
     </article>
   {% endfor %}
 </div>
+
+{% include paginator.html %}
+
