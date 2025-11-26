@@ -100,8 +100,7 @@ header:
 </div>
 
 <div class="entries-grid">
-{% assign posts = site.posts %}
-{% for post in posts %}
+{% for post in paginator.posts %}
   <article class="archive__item">
     <h3 class="archive__item-title">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
