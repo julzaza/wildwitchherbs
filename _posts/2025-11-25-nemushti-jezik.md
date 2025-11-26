@@ -4,7 +4,6 @@ title: "Nemusti Jezik"
 description: "A folk tale from Serbia."
 categories: folklore
 tags: [Balkan, folklore, animals]
-date: 2025-11-26
 ---
 
 
