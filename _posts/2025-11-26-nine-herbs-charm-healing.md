@@ -1,10 +1,7 @@
 ---
 layout: single
-title: "The Nine Herbs Charm: Anglo-Saxon Healing Magic"
+title: "9 Herbs Charm: Anglo-Saxon Healing Magic"
 description: "Explore the Nine Herbs Charm, an Old English spell invoking Woden and nine sacred herbs for protection and healing. Learn its pagan roots, herbal wisdom, and mystical power."
-categories: [Herbal Magic, Witchcraft, Historical Magic]
-tags: [Nine Herbs Charm, Nigon Wyrta Galdor, Anglo-Saxon magic, Old English charm, Woden, Lacnunga, Historical Witchcraft, Healing Herbs]
-permalink: /nine-herbs-charm/
 ---
 
   # **The Nine Herbs Charm: Ancient Anglo-Saxon Healing Magic**
