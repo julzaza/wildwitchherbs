@@ -100,17 +100,15 @@ header:
 <div class="entries-grid">
 {% assign posts = site.posts %}
 
-
-  {% for post in posts %}
-    <article class="archive__item">
-      <h3 class="archive__item-title">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h3>
-      {% if post.excerpt %}
-        <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
-      <p class="archive__item-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-    </article>
-  {% endfor %}
+{% for post in posts %}
+  <article class="archive__item">
+    <h3 class="archive__item-title">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h3>
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+    {% endif %}
+    <p class="archive__item-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+  </article>
+{% endfor %}
 </div>
-
