@@ -19,6 +19,8 @@ related_posts: true
 # Pagination
 paginate: 6
 paginate_path: "/page:num/"
+plugins:
+  - jekyll-paginate
 
 
 # Site Settings
