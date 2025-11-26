@@ -80,6 +80,7 @@ header:
   color: #444;
   margin-bottom: 0.8rem;
 }
+
 .archive__item-meta {
   font-size: 0.8rem;
   color: #777;
@@ -97,8 +98,13 @@ header:
   {% include feature_row %}
 </div>
 
-
 <div class="entries-grid">
+  {% if paginator %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
   {% for post in posts %}
     <article class="archive__item">
       <h3 class="archive__item-title">
@@ -113,4 +119,3 @@ header:
 </div>
 
 {% include paginator.html %}
-
