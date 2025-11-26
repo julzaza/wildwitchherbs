@@ -99,11 +99,8 @@ header:
 </div>
 
 <div class="entries-grid">
-  {% if paginator %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
+{% assign posts = paginator.posts %}
+
 
   {% for post in posts %}
     <article class="archive__item">
