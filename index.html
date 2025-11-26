@@ -61,20 +61,16 @@ header:
 .archive__item {
   background: rgba(255, 255, 255, 0.8);
   border-radius: 10px;
-  padding: 0.5rem 1.5rem; /* top & bottom 0.5rem, left & right 1.5rem */
+  padding: 0.3rem 1.5rem; /* top & bottom padding smaller */
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   transition: transform 0.15s ease, box-shadow 0.15s ease;
-}
-
-.archive__item:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
 
 .archive__item-title {
   font-family: 'EB Garamond', serif;
   font-size: 1.3rem;
-  margin-bottom: 0.3rem;
+  margin-top: 0.2rem;   /* reduces space above title */
+  margin-bottom: 0.3rem; /* reduces space below title */
 }
 
 .archive__item-excerpt {
@@ -82,6 +78,13 @@ header:
   color: #444;
   margin-bottom: 0.5rem;
 }
+
+
+.archive__item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
 
 .archive__item-meta {
   font-size: 0.8rem;
