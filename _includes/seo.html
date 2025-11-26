@@ -1,0 +1,44 @@
+{%- assign seo_title = page.title | default: site.title -%}
+{%- assign seo_description = page.excerpt | default: site.description -%}
+
+<title>{{ seo_title | escape }}</title>
+<meta name="description" content="{{ seo_description | strip_html | strip_newlines | escape }}">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Open Graph / Social -->
+<meta property="og:title" content="{{ seo_title | escape }}">
+<meta property="og:description" content="{{ seo_description | strip_html | strip_newlines | escape }}">
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:site_name" content="{{ site.title | escape }}">
+
+{% if page.image or site.teaser %}
+  <meta property="og:image" content="{{ page.image | default: site.teaser | relative_url | absolute_url }}">
+{% endif %}
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ seo_title | escape }}">
+<meta name="twitter:description" content="{{ seo_description | strip_html | strip_newlines | escape }}">
+{% if page.image or site.teaser %}
+  <meta name="twitter:image" content="{{ page.image | default: site.teaser | relative_url | absolute_url }}">
+{% endif %}
+
+<!-- JSON-LD Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{% if page.layout == 'post' %}BlogPosting{% else %}WebPage{% endif %}",
+  "headline": "{{ seo_title | escape }}",
+  "description": "{{ seo_description | strip_html | strip_newlines | escape }}",
+  "url": "{{ page.url | absolute_url }}",
+  "datePublished": "{{ page.date | date_to_xmlschema | default: site.time | date_to_xmlschema }}",
+  {% if page.last_modified_at %}
+  "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
+  {% endif %}
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.title | escape }}"
+  }
+}
+</script>
