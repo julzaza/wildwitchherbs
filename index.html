@@ -64,13 +64,20 @@ header:
 
 /* Individual post item */
 .archive__item {
-  font-family: 'EB Garamond', serif;
+  font-family: 'Lora', serif;
   line-height: 1.5;
   background: rgba(255,255,255,0.8);
   border-radius: 10px;
   padding: 0.5rem 1.2rem; /* smaller top/bottom padding */
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+  .archive__item,
+.archive__item-title,
+.archive__item-excerpt {
+  font-family: 'Lora', serif;  /* match posts */
+  line-height: 1.5;
 }
 
 .archive__item:hover {
