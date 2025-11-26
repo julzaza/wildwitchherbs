@@ -4,7 +4,7 @@ title: "9 Herbs Charm: Anglo-Saxon Healing Magic"
 description: "Explore the Nine Herbs Charm, an Old English spell invoking Woden and nine sacred herbs for protection and healing. Learn its pagan roots, herbal wisdom, and mystical power."
 ---
 
-  # **The Nine Herbs Charm: Ancient Anglo-Saxon Healing Magic**
+   **The Nine Herbs Charm: Ancient Anglo-Saxon Healing Magic**
 
   The **Nine Herbs Charm**, also known as **Nigon Wyrta Galdor**, the **Lay of the Nine Healing Herbs**, or the **Nine Wort Spell**, is one of the most remarkable examples of **Old English magic**. Recorded in the **tenth century AD**, it survives in the **Lacnunga**, a collection of **Anglo-Saxon medical texts** preserved in the **British Library’s Harley MS 585 manuscript**.  
 
@@ -12,7 +12,7 @@ description: "Explore the Nine Herbs Charm, an Old English spell invoking Woden 
 
   ---
 
-  ## **Woden and the Power of Nine**
+   **Woden and the Power of Nine**
 
   One of the most fascinating aspects of the charm is its reference to **Woden**, making it one of only **two clear mentions of this god in Old English poetry** (the other is in *Maxims I* of the Exeter Book).  
 
@@ -30,7 +30,7 @@ description: "Explore the Nine Herbs Charm, an Old English spell invoking Woden 
 
   ---
 
-  ## **The Nine Healing Herbs**
+   **The Nine Healing Herbs**
 
   The exact list varies, but the nine herbs are generally considered to include:
 
@@ -50,7 +50,7 @@ description: "Explore the Nine Herbs Charm, an Old English spell invoking Woden 
 
   ---
 
-  ## **Pagan Roots & Christian Censorship**
+   **Pagan Roots & Christian Censorship**
 
   The charm’s **language and imagery** point to **pre-Christian origins**. Gordon observes that it was likely **Christianized** to conform with spiritual norms of the time.  
 
@@ -58,7 +58,7 @@ description: "Explore the Nine Herbs Charm, an Old English spell invoking Woden 
 
   ---
 
-  ## **Modern Application of the Nine Herbs Charm**
+   **Modern Application of the Nine Herbs Charm**
 
   Today, the charm can inspire **modern herbalists and witches**:
 
@@ -70,7 +70,7 @@ description: "Explore the Nine Herbs Charm, an Old English spell invoking Woden 
 
   ---
 
-  ### **References**
+   **References**
 
   1. Gordon, R. K. *The Nine Herbs Charm*.  
   2. Cameron, M. L. *Anglo-Saxon Healing Charms*.  
