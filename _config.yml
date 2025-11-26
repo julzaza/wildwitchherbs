@@ -16,6 +16,11 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 related_posts: true
 
+# Pagination
+paginate: 6
+paginate_path: "/page:num/"
+
+
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
