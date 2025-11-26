@@ -87,32 +87,26 @@ header:
 
 <div class="intro-text">
   <p>Long before modern medicine, there were witches, midwives, and herbalists.</p>
-
   <p>Here, we revive their legacy through herbal medicine, folk remedies, and plant magic.</p>
-
   <p>Come gather what was nearly forgotten — and learn to heal like your ancestors did.</p>
 </div>
 
 <div class="shop-link">
   <a href="/shop/">→ VISIT THE SHOP</a>
   {% include feature_row %}
-{% include paginator.html %}
 </div>
 
 <div class="entries-grid">
-{% for post in paginator.posts %}
-  <article class="archive__item">
-    <h3 class="archive__item-title">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </h3>
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
-    {% endif %}
-    <p class="archive__item-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-  </article>
-{% endfor %}
+  {% assign all_posts = site.posts | sort: 'date' | reverse %}
+  {% for post in all_posts %}
+    <article class="archive__item">
+      <h3 class="archive__item-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h3>
+      {% if post.excerpt %}
+        <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+      {% endif %}
+      <p class="archive__item-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+    </article>
+  {% endfor %}
 </div>
-
-{% include paginator.html %}
-
-
