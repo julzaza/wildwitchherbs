@@ -55,3 +55,19 @@ search: false
 .archive__item-excerpt a:hover {
   text-decoration: underline;  /* or none, your choice */
 }
+
+/* -------------------------------------------
+   Wild Witch Herbs — Inline link styling
+   ------------------------------------------- */
+
+.page__content a {
+  color: #b38a50 !important;     /* herbal mustard brown */
+  text-decoration: none !important; 
+  font-weight: 600;              /* slight emphasis */
+}
+
+.page__content a:hover {
+  color: #b3b3b3 !important;     /* light grey hover to match titles */
+  text-decoration: underline;    /* optional: helps show it's a link */
+}
+
