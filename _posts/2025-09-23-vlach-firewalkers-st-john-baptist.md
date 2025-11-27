@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Firewalkers of Eastern Serbia: Feast of St. John and Pagan Survival"
+title: "Eastern Serbia Firewalkers: St. John’s Ancient Pagan Ritual"
 description: "Explore the ancient Vlach firewalking rite in Eastern Serbia—how the Feast of St. John preserves pre-Christian sun worship and protective magic."
 categories: balkan-folklore vlach-magic serbia rituals
 tags: [Vlach magic, firewalking, St. John, pagan survival, Serbian folklore]
