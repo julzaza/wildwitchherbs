@@ -16,7 +16,7 @@ header:
 /* Hero title styling */
 .page__hero--overlay .page__title {
   text-align: left;
-  font-family: Libre Baskerville (serif);
+  font-family: Libre Baskerville, serif;
   font-size: 2em;
   letter-spacing: 0.5px;
   text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
@@ -27,16 +27,15 @@ header:
   text-align: center;
   max-width: 700px;
   margin: 1.5rem auto;
-  font-family: Libre Baskerville (serif);
+  font-family: Libre Baskerville, serif;
   font-size: 1.1rem;
   line-height: 1.7;
-
-.home-intro,
-.page__content p {
-  line-height: 1.3 !important;       /* smaller line spacing */
-  margin-bottom: 0.8em !important;   /* smaller paragraph spacing */
 }
 
+/* Correct spacing for paragraphs in intro */
+.intro-text p {
+  line-height: 1.3 !important;       /* smaller line spacing */
+  margin-bottom: 0.8em !important;   /* smaller paragraph spacing */
 }
 
 /* Shop link */
@@ -71,7 +70,7 @@ header:
 
 /* Individual post item */
 .archive__item {
-  font-family: Libre Baskerville (serif);
+  font-family: Libre Baskerville, serif;
   line-height: 1.5;
   background: rgba(255,255,255,0.8);
   border-radius: 10px;
@@ -80,10 +79,10 @@ header:
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-  .archive__item,
+.archive__item,
 .archive__item-title,
 .archive__item-excerpt {
-  font-family: Libre Baskerville (serif);  /* match posts */
+  font-family: Libre Baskerville, serif;
   line-height: 1.5;
 }
 
@@ -93,7 +92,7 @@ header:
 }
 
 .archive__item-title {
-  font-family: Libre Baskerville (serif);
+  font-family: Libre Baskerville, serif;
   font-weight: 600;
   font-size: 1.3rem;
   margin-top: 0.2rem;  /* less space above title */
@@ -101,7 +100,7 @@ header:
 }
 
 .archive__item-excerpt {
-  font-family: PT Serif + PT Sans (pairing);
+  font-family: "PT Serif", "PT Sans", serif;
   font-weight: 400;
   font-size: 0.95rem;
   line-height: 1.5;
@@ -112,28 +111,3 @@ header:
   display: none; /* hide date/author/follow */
 }
 </style>
-
-<div class="intro-text">
-  <p>Long before modern medicine, there were witches, midwives, and herbalists.</p>
-  <p>Here, we revive their legacy through herbal medicine, folk remedies, and plant magic.</p>
-  <p>Come gather what was nearly forgotten — and learn to heal like your ancestors did.</p>
-</div>
-
-<div class="shop-link">
-  <a href="/shop/">→ VISIT THE SHOP</a>
-  {% include feature_row %}
-</div>
-
-<div class="entries-grid">
-  {% assign posts = site.posts %}
-  {% for post in posts %}
-    <article class="archive__item">
-      <h3 class="archive__item-title">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h3>
-      {% if post.excerpt %}
-        <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
-    </article>
-  {% endfor %}
-</div>
