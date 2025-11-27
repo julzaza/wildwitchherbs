@@ -18,40 +18,40 @@ search: false
 
 
 /* -------------------------------------------
-   Wild Witch Herbs — Title Link Styling (FINAL)
+   Wild Witch Herbs — Title Link Styling
    ------------------------------------------- */
 
-/* Post titles (single post pages) */
+/* Single post page titles */
 .page__title a {
-  color: #0d1a4a !important;  /* deep navy blue */
-  text-decoration: none !important;
-  font-weight: 700;
+  color: #333333;              /* deep charcoal herbal black */
+  text-decoration: none;       /* remove underline */
+  font-weight: 700;            /* keep title bold */
 }
 
+/* Hover effect for single post titles */
 .page__title a:hover {
-  color: #b3b3b3 !important;  /* soft light grey hover */
-  text-decoration: none !important;
+  color: #708238;              /* soft forest-green hover */
+  text-decoration: none;
 }
 
 /* Archive / blog list titles */
 .archive__item-title a {
-  color: #0d1a4a !important;
-  text-decoration: none !important;
+  color: #333333;              /* same color for consistency */
+  text-decoration: none;
   font-weight: 700;
 }
 
+/* Hover effect for archive titles */
 .archive__item-title a:hover {
-  color: #b3b3b3 !important;
-  text-decoration: none !important;
+  color: #708238;
+  text-decoration: none;
 }
 
-/* Links inside excerpts */
+/* Optional: remove underline from links in excerpts too */
 .archive__item-excerpt a {
-  color: #0d1a4a !important;
-  text-decoration: none !important;
+  text-decoration: none;
 }
 
 .archive__item-excerpt a:hover {
-  color: #b3b3b3 !important;
-  text-decoration: none !important;
+  text-decoration: underline;  /* or none, your choice */
 }
