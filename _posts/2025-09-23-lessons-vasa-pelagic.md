@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Pelagićev Narodni Učitelj: From Village School to Secret Spellbook"
+title: "utesfdcvlk;l fkhclkj"
 description: "Five curious folk remedies and lessons from Vasa Pelagić’s 19th-century guide—smoke baths for measles, morning-dew beauty secrets, and more—examined with modern science."
 categories: [balkan-folklore, folk-magic, herbalism, pelagic]
 tags: [Vasa Pelagić, Balkan remedies, folk medicine, herbalism, Serbia]
@@ -9,7 +9,7 @@ permalink: /lessons-vasa-pelagic/
 
 In the late 1800s, **Vasa Pelagić** wandered the Serbian countryside carrying more than political pamphlets.  
 
-
+ "Pelagićev Narodni Učitelj: From Village School to Secret Spellbook"
 
 
 His *Narodni Učitelj*—*The People’s Teacher*—was equal parts **village schoolbook, moral compass, and herb-soaked spellbook**.  
