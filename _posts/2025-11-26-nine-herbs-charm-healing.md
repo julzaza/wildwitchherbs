@@ -78,3 +78,7 @@ description: "Explore the Nine Herbs Charm, an Old English spell invoking Woden 
 
      
 ---
+
+## Related Posts: See what other herbal magic is out there waiting for you to be rediscovered. 
+
+
