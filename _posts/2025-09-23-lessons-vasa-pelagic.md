@@ -5,8 +5,21 @@ date: 2025-09-23
 categories: [Balkan Folklore, Folk Medicine, Traditional Herbs]
 tags: [Vasa Pelagić, Narodni Učitelj, Balkan Herbs, Folk Remedies, Rituals, Herbal Lore]
 description: "Dive into the stranger side of Vasa Pelagić’s Narodni Učitelj, uncovering unusual folk remedies, hidden rituals, and herbal wisdom from 19th-century Balkan villages."
-excerpt: "TL;DR: Explore Vasa Pelagić’s Narodni Učitelj for herbal remedies, folk rituals, and Balkan wisdom blending science, superstition, and community care. Key herbs: juniper, oak, walnut, yarrow."
+excerpt: "Explore Vasa Pelagić’s Narodni Učitelj for herbal remedies, folk rituals, and Balkan wisdom blending science, superstition, and community care. Key herbs: juniper, oak, walnut, yarrow."
 search: false
+audience: "Herbalists, witches, folk medicine enthusiasts"
+language: "en"
+difficulty: "Beginner to Intermediate"
+contentType: "Educational, Historical, Herbal Guide"
+faqs:
+  - question: "What remedies did Vasa Pelagić suggest for measles?"
+    answer: "He recommended smoke baths using juniper and oak branches to disinfect the air and aid the sick."
+  - question: "How did Pelagić use dew in skincare?"
+    answer: "He advised washing the face with morning dew to soothe skin and improve complexion, a practice supported by gentle cold-water therapy."
+  - question: "Which herbs were used for hair care?"
+    answer: "Walnut leaves and green husks were boiled as a rinse to deepen hair color and promote shine."
+  - question: "Did Pelagić include rituals beyond herbal remedies?"
+    answer: "Yes, he combined herbs with symbolic acts like bread-and-salt oaths to resolve conflicts and maintain community harmony."
 ---
 In the late 1800s, Vasa Pelagić wandered the Serbian countryside carrying more than political pamphlets. His *Narodni Učitelj*—The People’s Teacher—was equal parts **village schoolbook, moral compass, and herb-soaked spellbook**.  
 
@@ -54,7 +67,7 @@ Ash raises soil pH, creates a dry barrier, and acts as a light fertilizer—a **
 ## Why These Cures Endure
 Pelagić lived in a time when **science and folk belief coexisted daily**. His remedies combine observation, plant knowledge, ritual, and communal ethics, showing how villagers used what they had: herbs, forest, fields, and each other.  
 
-Some remedies have biochemical basis; others succeed through **ritual, meaning, and community care**—practical wisdom that still inspires modern herbalists.
+Some remedies have biochemical basis; others succeed through **ritual, meaning, and community care**—practical wisdom still inspiring modern herbalists.
 
 For further exploration:
 
