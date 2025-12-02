@@ -73,6 +73,6 @@ For further exploration:
 
 - **[Vasa Pelagić’s Balkan Remedies](/pelagicev-narodni-ucitelj-balkan-remedies/)** — practical herbal tips  
 - **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)** — protective herbs and folk magic  
-- **[Herbal Companions of Vlach Witches](/herbal-companions-vlach-witches/)** — integrating herbs and rituals in daily life  
+- **[Herbal Companions of Vlach Witches](/herbs-vlach-wise-women/)** — integrating herbs and rituals in daily life  
 
 *This post shares cultural and historical folk remedies from Vasa Pelagić’s Narodni Učitelj for educational purposes only. It is not medical advice.*
