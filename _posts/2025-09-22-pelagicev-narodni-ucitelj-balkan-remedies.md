@@ -21,10 +21,6 @@ faqs:
     answer: "Yes, he emphasized movement, fresh air, diet, and hygiene alongside plant-based remedies."
 ---
 
-{% include callout.html type="info" icon="lightbulb" title="TL;DR" %}
-Vasa Pelagić compiled 19th-century Balkan folk remedies blending herbs, diet, and hygiene. Remedies address fatigue, cold prevention, digestion, and minor ailments. Key herbs: nettles, chamomile, yarrow, rosemary.
-{% endinclude %}
-
 Vasa Pelagić’s *Narodni Učitelj* is far more than a 19th-century manual on literacy and morality—it is a treasure trove of **folk remedies, herbal lore, and practical wellness guidance** from rural Balkan life. Beyond ethical instruction, Pelagić recorded dozens of remedies, herbal preparations, and food-based tonics—**wisdom still resonant for modern herbalists and witches seeking ancestral inspiration**.
 
 ## Folk Remedies for Fatigue and Weakness
