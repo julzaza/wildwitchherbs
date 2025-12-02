@@ -24,7 +24,7 @@ faqs:
   - question: "What is the historical significance of the Nine Herbs Charm?"
     answer: "It represents one of the few surviving examples of pre-Christian Anglo-Saxon herbal magic, blending pagan ritual, medicinal knowledge, and early Christian adaptation."
 ---
-## Nine Herbs Charm: Ancient Anglo-Saxon Healing Spell
+## Ancient Anglo-Saxon Healing Spell
 
 The **Nine Herbs Charm**, also known as **Nigon Wyrta Galdor** or the **Nine Wort Spell**, is a 10th-century **Anglo-Saxon magical text** preserved in the **Lacnunga manuscript (Harley MS 585)**. This spell combines **herbal wisdom, ritual chanting, and divine invocation** to provide **protection, healing, and magical empowerment**.  
 
@@ -84,7 +84,7 @@ The Nine Herbs Charm can inspire **contemporary herbalists and ritual practition
 **Internal links for context and exploration:**  
 
 - **[Balkan Folk Remedies and Witchcraft](/pelagicev-narodni-ucitelj-balkan-remedies/)**  
-- **[Timeless Remedies for Hair Loss](/timeless-remedies-hair-loss/)**  
+- **[Timeless Remedies for Hair Loss](/folk-hairloss-remedies/)**  
 - **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)**  
 
 The **Nine Herbs Charm** demonstrates that **plants, spoken words, numbers, and belief** have always worked together to heal, protect, and empower.
