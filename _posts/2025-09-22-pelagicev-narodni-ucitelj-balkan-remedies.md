@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-Vasa Pelagić’s *Narodni Učitelj* is far more than a 19th-century manual on literacy and morality—it is a treasure trove of **folk remedies, herbal lore, and practical wellness guidance** from rural Balkan life.  
+Vasa Pelagić’s *Narodni Učitelj* is faaar more than a 19th-century manual on literacy and morality—it is a treasure trove of **folk remedies, herbal lore, and practical wellness guidance** from rural Balkan life.  
 
 Beyond ethical instruction, Pelagić recorded dozens of remedies, herbal preparations, and food-based tonics—**wisdom still resonant for modern herbalists and witches seeking ancestral inspiration**.
 
