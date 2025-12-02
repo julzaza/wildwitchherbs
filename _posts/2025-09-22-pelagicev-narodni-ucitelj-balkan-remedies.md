@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Pelagićev Narodni Učitelj: Balkan Remedies and Recipes from the People’s Teacher"
+title: "Vasa Pelagić’s Narodni Učitelj: Balkan Folk Remedies & Herbal Lore"
 date: 2025-09-22
 categories: [balkan-folklore, folk-medicine, traditional-herbs]
 meta_description: "Explore practical folk remedies and recipes from Vasa Pelagić’s Narodni Učitelj, with herbs, teas, and wellness advice inspired by 19th-century Balkan traditions."
