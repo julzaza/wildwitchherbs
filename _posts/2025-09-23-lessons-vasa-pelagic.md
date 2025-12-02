@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "utesfdcvlk;l fkhclkj"
+title: "sudfjsdh;jsahd"
 description: "Five curious folk remedies and lessons from Vasa Pelagić’s 19th-century guide—smoke baths for measles, morning-dew beauty secrets, and more—examined with modern science."
 categories: [balkan-folklore, folk-magic, herbalism, pelagic]
 tags: [Vasa Pelagić, Balkan remedies, folk medicine, herbalism, Serbia]
