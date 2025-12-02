@@ -18,7 +18,7 @@ faqs:
     answer: "Many herbs he recommended, such as chamomile, nettle, and rosemary, are still used in modern herbalism for health and wellness."
   - question: "Did Pelagić combine lifestyle practices with herbal medicine?"
     answer: "Yes, he emphasized movement, fresh air, diet, and hygiene alongside plant-based remedies."
----
+
 ## TL;DR
 - Vasa Pelagić compiled 19th-century Balkan folk remedies blending herbs, diet, and hygiene  
 - Remedies address fatigue, cold prevention, digestion, and minor ailments  
