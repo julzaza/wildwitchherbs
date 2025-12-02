@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Vasa Pelagić’s Narodni Učitelj: Balkan Folk Remedies & Herbal Lore"1
+title: "Vasa Pelagić’s Narodni Učitelj: Balkan Folk Remedies & Herbal Lore"
 date: 2025-09-22
 categories: [Balkan Folklore, Folk Medicine, Traditional Herbs]
 tags: [Vasa Pelagić, Narodni Učitelj, Balkan Herbs, Folk Remedies, Herbal Lore, Traditional Medicine]
