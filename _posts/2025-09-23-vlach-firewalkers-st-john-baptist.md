@@ -1,10 +1,31 @@
----
 layout: single
 title: "Eastern Serbia Firewalkers: St. John’s Ancient Pagan Ritual"
-description: "Explore the ancient Vlach firewalking rite in Eastern Serbia—how the Feast of St. John preserves pre-Christian sun worship and protective magic."
-categories: balkan-folklore vlach-magic serbia rituals
-tags: [Vlach magic, firewalking, St. John, pagan survival, Serbian folklore]
----
+permalink: /eastern-serbia-firewalkers/
+excerpt: "Discover the Vlach firewalking ritual of Eastern Serbia on St. John’s Eve, blending pagan sun worship, protective charms, and ancestral healing practices."
+description: "Explore the ancient firewalking ritual of Eastern Serbia's Vlach communities, known as pali hod. Learn about its pagan roots, St. John’s overlay, protective wormwood charms, and healing practices with fire and ashes."
+categories: [Balkan Folklore, Pagan Rituals, Vlach Traditions, Herbal Magic]
+tags: [firewalking, St. John, Vlach Magija, pagan ritual, wormwood, Eastern Serbia, folk healing, summer solstice, protective charms]
+author_profile: false
+search: false
+audience: "Folklore enthusiasts, herbalists, witches, travelers interested in traditional rituals"
+language: "en"
+difficulty: "Beginner to Intermediate"
+contentType: "Educational, Cultural, Herbal Guide"
+faqs:
+  - question: "What is the firewalking ritual in Eastern Serbia?"
+    answer: "Known as pali hod, it is a Vlach summer solstice ritual where participants walk barefoot over embers for protection, blessing, and connection with ancestral spirits."
+  - question: "Why is wormwood used in the ritual?"
+    answer: "Wormwood is tied to protective charms; its volatile oils may cool the skin and offer mild antimicrobial properties, reducing risk of burns or illness."
+  - question: "What are the origins of this ritual?"
+    answer: "The ritual predates Christianity, tracing back to Thracian and Dacian sun cults. Later, St. John’s Eve was layered over the ancient practices."
+  - question: "Is this ritual still performed today?"
+    answer: "Yes, villages along the Timok and Mlava rivers continue the firewalking tradition, maintaining both its spiritual and protective aspects."
+internal_links:
+  - title: "Vlach Magic of Negotin, Serbia"
+    url: /vlach-magic-negotin-serbia/
+  - title: "Herbal Companions in Magic and Medicine Practices"
+    url: /herbal-companions-magic-medicine/
+
 
 Every **June 24th**, on the feast of **St. John the Baptist**, villages along the Timok and Mlava rivers come alive with a ritual that **predates Christianity**.  
 
