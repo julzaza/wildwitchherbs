@@ -1,13 +1,12 @@
 ---
-search: false
 ---
-
-@charset "utf-8";
-
+/* Theme imports MUST come first */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* Your earlier hidden elements */
+/* Custom CSS starts below */
+
+/* Hide meta + taxonomy */
 .page__meta,
 .page__taxonomy {
   display: none !important;
@@ -16,27 +15,26 @@ search: false
 /* Load any custom partials */
 @import "custom";
 
-
 /* -------------------------------------------
    Wild Witch Herbs — Title Link Styling
    ------------------------------------------- */
 
 /* Single post page titles */
 .page__title a {
-  color: #333333;              /* deep charcoal herbal black */
-  text-decoration: none;       /* remove underline */
-  font-weight: 700;            /* keep title bold */
+  color: #333333;
+  text-decoration: none;
+  font-weight: 700;
 }
 
 /* Hover effect for single post titles */
 .page__title a:hover {
-  color: #b3b3b3              /* soft forest-green hover */
+  color: #b3b3b3;
   text-decoration: none;
 }
 
 /* Archive / blog list titles */
 .archive__item-title a {
-  color: #333333;              /* same color for consistency */
+  color: #333333;
   text-decoration: none;
   font-weight: 700;
 }
@@ -47,13 +45,13 @@ search: false
   text-decoration: none;
 }
 
-/* Optional: remove underline from links in excerpts too */
+/* Remove underline from links in excerpts */
 .archive__item-excerpt a {
   text-decoration: none;
 }
 
 .archive__item-excerpt a:hover {
-  text-decoration: underline;  /* or none, your choice */
+  text-decoration: underline;
 }
 
 /* -------------------------------------------
@@ -61,13 +59,12 @@ search: false
    ------------------------------------------- */
 
 .page__content a {
-  color: #b3b3b3 !important;     /* herbal mustard brown */
-  text-decoration: none !important; 
-  font-weight: 600;              /* slight emphasis */
+  color: #b3b3b3 !important;
+  text-decoration: none !important;
+  font-weight: 600;
 }
 
 .page__content a:hover {
-  color: #b3b3b3 !important;     /* light grey hover to match titles */
-  text-decoration: underline;    /* optional: helps show it's a link */
+  color: #b3b3b3 !important;
+  text-decoration: underline;
 }
-
