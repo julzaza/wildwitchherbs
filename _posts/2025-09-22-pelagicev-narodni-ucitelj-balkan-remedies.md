@@ -1,4 +1,3 @@
----
 layout: single
 title: "Vasa Pelagić’s Narodni Učitelj: Balkan Folk Remedies & Herbal Lore"
 date: 2025-09-22
@@ -6,7 +5,7 @@ categories: [Balkan Folklore, Folk Medicine, Traditional Herbs]
 tags: [Vasa Pelagić, Narodni Učitelj, Balkan Herbs, Folk Remedies, Herbal Lore, Traditional Medicine]
 description: "Explore Vasa Pelagić’s Narodni Učitelj for 19th-century Balkan folk remedies, herbal preparations, teas, and practical wellness wisdom still inspiring modern herbalists."
 excerpt: |
-  TL;DR: Vasa Pelagić compiled 19th-century Balkan folk remedies blending herbs, diet, and hygiene. Remedies address fatigue, cold prevention, digestion, and minor ailments. Key herbs: nettles, chamomile, yarrow, rosemary.
+  Vasa Pelagić compiled 19th-century Balkan folk remedies blending herbs, diet, and hygiene. Remedies address fatigue, cold prevention, digestion, and minor ailments. Key herbs: nettles, chamomile, yarrow, rosemary.
 search: false
 audience: "Herbalists, witches, folk medicine enthusiasts"
 language: "en"
@@ -20,6 +19,7 @@ faqs:
   - question: "Did Pelagić combine lifestyle practices with herbal medicine?"
     answer: "Yes, he emphasized movement, fresh air, diet, and hygiene alongside plant-based remedies."
 ---
+
 
 Vasa Pelagić’s *Narodni Učitelj* is far more than a 19th-century manual on literacy and morality—it is a treasure trove of **folk remedies, herbal lore, and practical wellness guidance** from rural Balkan life. Beyond ethical instruction, Pelagić recorded dozens of remedies, herbal preparations, and food-based tonics—**wisdom still resonant for modern herbalists and witches seeking ancestral inspiration**.
 
