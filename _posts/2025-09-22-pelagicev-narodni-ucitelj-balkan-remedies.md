@@ -19,12 +19,7 @@ faqs:
   - question: "Did Pelagić combine lifestyle practices with herbal medicine?"
     answer: "Yes, he emphasized movement, fresh air, diet, and hygiene alongside plant-based remedies."
 ---
-
-Vasa Pelagić’s *Narodni Učitelj* is far more than a 19th-century manual on literacy and morality—it is a treasure trove of **folk remedies, herbal lore, and practical wellness guidance** from rural Balkan life.  
-
----
-
-### TL;DR
+## TL;DR
 - Vasa Pelagić compiled 19th-century Balkan folk remedies blending herbs, diet, and hygiene  
 - Remedies address fatigue, cold prevention, digestion, and minor ailments  
 - Key herbs: nettles, chamomile, yarrow, rosemary  
@@ -32,15 +27,7 @@ Vasa Pelagić’s *Narodni Učitelj* is far more than a 19th-century manual on l
 
 ---
 
-## Folk Remedies for Fatigue and Weakness
-> “First, by moving around in pleasant company and doing light work, one should remove thoughts that bring sadness and grief; walking or otherwise getting fresh air is helpful; and to forget one’s worry, deep whistling may change one’s state of mind. Eat kačamak, soft boiled eggs, fresh and dried fruit, and sauces made of raw onion and raw radish.”
-
-Pelagić understood the interplay of **mind, movement, and nourishment**. Today, nettle tea, rosemary infusions, or a warming yarrow porridge echo the same principle: **herbs and wholesome foods restore vitality naturally**.
-
-...
-
-
-Vasa Pelagić’s *Narodni Učitelj* is faaar more than a 19th-century manual on literacy and morality—it is a treasure trove of **folk remedies, herbal lore, and practical wellness guidance** from rural Balkan life.  
+Vasa Pelagić’s *Narodni Učitelj* is far more than a 19th-century manual on literacy and morality—it is a treasure trove of **folk remedies, herbal lore, and practical wellness guidance** from rural Balkan life.  
 
 Beyond ethical instruction, Pelagić recorded dozens of remedies, herbal preparations, and food-based tonics—**wisdom still resonant for modern herbalists and witches seeking ancestral inspiration**.
 
