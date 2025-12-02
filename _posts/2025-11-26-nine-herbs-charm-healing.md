@@ -85,7 +85,7 @@ The Nine Herbs Charm can guide **today’s herbalists and witches**:
 **Internal links for further reading:**  
 
 - **[Balkan Folk Remedies and Witchcraft](/pelagicev-narodni-ucitelj-balkan-remedies/)**  
-- **[Timeless Remedies for Hair Loss](/timeless-remedies-hair-loss/)**  
+- **[Timeless Remedies for Hair Loss](/folk-hairloss-remedies/)**  
 - **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)**  
 
 The **Nine Herbs Charm** shows that **plants, words, and belief** have always worked together to heal, protect, and empower.
