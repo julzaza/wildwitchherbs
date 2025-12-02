@@ -46,7 +46,7 @@ Cold dew is not mystical, but **cold-water constriction, gentle massage, and lac
 
 **Juglone** acts as a natural dye, and walnut leaves provide mild antifungal and antibacterial benefits. This darkening rinse remains a traditional Balkan herbal remedy.
 
-See **[Timeless Remedies for Hair Loss](/timeless-remedies-hair-loss/)** for more plant-based hair care tips.
+See **[Timeless Remedies for Hair Loss](/folk-hairloss-remedies/)** for more plant-based hair care tips.
 
 ---
 
