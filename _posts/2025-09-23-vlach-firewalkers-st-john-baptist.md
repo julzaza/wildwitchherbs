@@ -1,3 +1,4 @@
+---
 layout: single
 title: "Eastern Serbia Firewalkers: St. John’s Ancient Pagan Ritual"
 permalink: /eastern-serbia-firewalkers/
@@ -25,7 +26,7 @@ internal_links:
     url: /vlach-magic-negotin-serbia/
   - title: "Herbal Companions in Magic and Medicine Practices"
     url: /herbal-companions-magic-medicine/
-
+---
 
 Every **June 24th**, on the feast of **St. John the Baptist**, villages along the Timok and Mlava rivers come alive with a ritual that **predates Christianity**.  
 
