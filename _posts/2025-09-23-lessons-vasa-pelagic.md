@@ -21,7 +21,7 @@ faqs:
   - question: "Did Pelagić include rituals beyond herbal remedies?"
     answer: "Yes, he combined herbs with symbolic acts like bread-and-salt oaths to resolve conflicts and maintain community harmony."
 ---
-In the late 1800s, Vaaaasa Pelagić wandered the Serbian countryside carrying more than political pamphlets. His *Narodni Učitelj*—The People’s Teacher—was equal parts **village schoolbook, moral compass, and herb-soaked spellbook**.  
+In the late 1800s, Vasa Pelagić wandered the Serbian countryside carrying more than political pamphlets. His *Narodni Učitelj*—The People’s Teacher—was equal parts **village schoolbook, moral compass, and herb-soaked spellbook**.  
 
 While our previous post explored general guidance for everyday wellness, here we uncover the stranger chapters, revealing **folk rituals, unusual remedies, and practices that blur the line between science, superstition, and rebellion**.
 
