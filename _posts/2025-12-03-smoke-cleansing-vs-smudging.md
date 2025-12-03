@@ -1,41 +1,57 @@
 ---
 layout: single
 title: "Smoke Cleansing vs. Smudging"
-description: "A global guide to smoke cleansing traditions around the world, how they differ from Indigenous smudging, and which herbs are safe to burn."
-excerpt: "A global guide to smoke cleansing traditions and how they differ from Indigenous smudging, plus safe worldwide herbs and historical practices."
-permalink: /smoke-cleansing-vs-smudging/
-categories: [witchcraft-ritual]
-tags: [smoke cleansing, smudging, banishing, folk magic, herbs]
+excerpt: "A global guide to smoke cleansing traditions, how they differ from Indigenous smudging, and which herbs are safe to burn."
+description: "Learn the difference between smoke cleansing and smudging. Explore global traditional cleansing practices and herbs from Europe, Asia, Africa, and beyond."
+author: wildwitchyherbs
+
+categories:
+  - witchcraft-ritual
+  - herbal-magic
+
+tags:
+  - smoke cleansing
+  - smudging
+  - banishing
+  - folk magic
+  - ritual herbs
+
 meta_description: "Learn the difference between smoke cleansing and smudging. Explore global traditional cleansing practices and herbs from Europe, Asia, Africa, and beyond."
-keywords: ["smoke cleansing", "smudging", "folk magic", "ritual smoke", "cleansing herbs"]
+keywords:
+  - smoke cleansing
+  - smudging
+  - folk magic
+  - ritual smoke
+  - cleansing herbs
+
+permalink: /smoke-cleansing-vs-smudging/
+date: 2025-07-07
+breadcrumbs: true
+toc: true
+toc_sticky: true
 schema: true
+schema_type: "Article"
+
+head_scripts:
+  - type: "application/ld+json"
+    script: >
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Smoke Cleansing vs. Smudging",
+        "description": "A respectful global guide to smoke cleansing traditions, their history, and how they differ from Indigenous smudging.",
+        "author": { "@type": "Person", "name": "Wild Witchy Herbs" },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Wild Witchy Herbs",
+          "logo": { "@type": "ImageObject", "url": "https://wildwitchyherbs.com/assets/images/logo.png" }
+        },
+        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://wildwitchyherbs.com/smoke-cleansing-vs-smudging/" },
+        "articleSection": "Witchcraft & Ritual",
+        "keywords": ["smoke cleansing","smudging","folk magic","ritual smoke","cleansing herbs"]
+      }
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Smoke Cleansing vs. Smudging",
-  "description": "A respectful global guide to smoke cleansing traditions, their history, and how they differ from Indigenous smudging.",
-  "image": "https://wildwitchyherbs.com/assets/images/smoke-cleansing.jpg",
-  "author": { "@type": "Person", "name": "Wild Witchy Herbs" },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Wild Witchy Herbs",
-    "logo": { "@type": "ImageObject", "url": "https://wildwitchyherbs.com/assets/images/logo.png" }
-  },
-  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://wildwitchyherbs.com/smoke-cleansing-vs-smudging/" },
-  "datePublished": "2025-01-01"
-}
-</script>
-
-
-Many modern witchcraft spaces use *smudging* as a general word for burning herbs — but this is neither accurate nor respectful. Smudging refers to **specific, ceremonial Indigenous practices** belonging to distinct Native nations. Smoke cleansing is a **global human tradition**, found in nearly every culture on earth, each using its own herbs, meanings, and ritual frameworks.
-
-Knowing the difference doesn’t limit your magic.  
-It deepens it.
-
----
 
 ## What Smudging Actually Is
 Smudging is a **North American Indigenous ceremony**, practiced by nations such as:
