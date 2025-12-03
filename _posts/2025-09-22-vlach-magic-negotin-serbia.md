@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Vlach Magic of Negotin: Folklore, Rituals & Herbal Secrets from Eastern Serbia"
+title: "Vlach Magic of Negotin: Folklore & Herbal Secrets"
 date: 2025-09-22
 categories: [balkan-folklore, folk-magic, herbalism, serbia]
 meta_description: "Discover the mysterious Vlach (Vlaska) magic of Negotin, Serbia—ancient rituals, true legends, protective herbs, and timeless Balkan folklore."
