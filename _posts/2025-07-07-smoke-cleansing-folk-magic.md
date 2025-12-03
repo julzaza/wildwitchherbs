@@ -28,7 +28,6 @@ keywords:
 
 permalink: /smoke-cleansing-folk-magic/
 date: 2025-07-07
-breadcrumbs: true
 schema: true
 schema_type: "Article"
 
