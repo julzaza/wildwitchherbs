@@ -49,7 +49,6 @@ head_scripts:
         "keywords": ["smoke cleansing","smudging","folk magic","ritual smoke","cleansing herbs"]
       }
 ---
-
 ## What Smudging Actually Is
 Smudging is a **North American Indigenous ceremony**, practiced by nations such as:
 
