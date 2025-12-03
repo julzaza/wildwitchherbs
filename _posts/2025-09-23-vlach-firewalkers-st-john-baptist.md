@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Eastern Serbia Firewalkers: St. John’s Ancient Pagan Ritual"
+title: "Eastern Serbia Firewalkers: St. John’s Pagan Ritual"
 permalink: /eastern-serbia-firewalkers/
 excerpt: "Discover the Vlach firewalking ritual of Eastern Serbia on St. John’s Eve, blending pagan sun worship, protective charms, and ancestral healing practices."
 description: "Explore the ancient firewalking ritual of Eastern Serbia's Vlach communities, known as pali hod. Learn about its pagan roots, St. John’s overlay, protective wormwood charms, and healing practices with fire and ashes."
