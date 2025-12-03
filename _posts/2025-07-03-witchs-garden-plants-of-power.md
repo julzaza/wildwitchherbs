@@ -1,5 +1,5 @@
 ---
-title: "How to Start a Real Witch’s Garden: Plants of Power and Tradition"
+title: "How to Start a Real Witch’s Garden: Powerful Traditional Plants"
 excerpt: "This is not about matching flowerpots, it's about the dirt and the herbs our grandmothers trusted. From Balkan Artemisia to Caribbean lemongrass, here’s how to plant with purpose, not pretense."
 categories:
   - Witchcraft
