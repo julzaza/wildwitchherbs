@@ -1,5 +1,5 @@
 ---
-title: "The Witch’s Herbal Starter Kit"
+title: "The Witch’s Herbal Starter Kit: 10 Powerful Plants"
 date: 2025-07-01
 categories: [Herbs, Witchcraft, Folklore]
 tags: [herbs, witchcraft, rituals, artemisia, folklore, protection, healing, beginners]
