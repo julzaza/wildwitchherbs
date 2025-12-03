@@ -51,7 +51,6 @@ head_scripts:
         }
       }
 ---
-
 ## Smoke Has Memory
 
 **Forget the mass-produced sage bundles**. 
