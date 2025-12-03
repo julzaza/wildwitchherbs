@@ -40,4 +40,4 @@ Similar milk-based fertility rites appear in **ancient Greece** and among the **
 ---
 
 **Related Magic:**  
-Dive deeper into protective charms in our post on **[St. John’s Firewalking Rites](/vlach-firewalkers-st-john-baptist)** and explore herbal lore with **[Charms of the Vlach Wise Women](/charms-vlach-healers/)**.
+Dive deeper into protective charms in our post on **[St. John’s Firewalking Rites](/eastern-serbia-firewalkers/)** and explore herbal lore with **[Charms of the Vlach Wise Women](/charms-vlach-healers/)**.
