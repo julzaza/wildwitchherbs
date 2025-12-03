@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Strange Folk Cures of Vasa Pelagić: Hidden Rituals from the Balkans"
+title: "Folk Cures of Vasa Pelagić: Strange Balkan Rituals"
 date: 2025-09-23
 categories: [Balkan Folklore, Folk Medicine, Traditional Herbs]
 tags: [Vasa Pelagić, Narodni Učitelj, Balkan Herbs, Folk Remedies, Rituals, Herbal Lore]
