@@ -5,12 +5,10 @@ excerpt: "A global guide to herbs you should never burn in ritual — whether to
 description: "A global witch’s guide to herbs that should never be burned, including toxic plants, culturally sensitive herbs, and safer traditional alternatives."
 author: wildwitchyherbs
 
-# Unified Category Strategy for the Smoke-Cleansing Cluster
 categories:
   - witchcraft-ritual
   - herbal-magic
 
-# Cluster-Optimized Tags (shared with both companion posts)
 tags:
   - smoke cleansing
   - ritual safety
@@ -18,27 +16,21 @@ tags:
   - herbal magic
   - folklore
 
-# SEO & Metadata
-date: 2025-07-07
-permalink: /never-burn-herbs/
+meta_description: "Learn which herbs should never be burned due to toxicity, cultural boundaries, or spiritual volatility — and discover traditional alternatives used across global witchcraft."
 keywords:
   - herbs not to burn
   - toxic herbs smoke
   - ritual safety herbs
   - global witchcraft herbs
 
-meta_description: "Learn which herbs should never be burned due to toxicity, cultural boundaries, or spiritual volatility — and discover traditional alternatives used across global witchcraft."
-
-# Theme Features
+permalink: /never-burn-herbs/
+date: 2025-07-07
 breadcrumbs: true
 toc: true
 toc_sticky: true
-
-# Schema
 schema: true
 schema_type: "Article"
 
-# Custom JSON-LD
 head_scripts:
   - type: "application/ld+json"
     script: >
@@ -50,13 +42,7 @@ head_scripts:
         "author": { "@type": "Person", "name": "Wild Witchy Herbs" },
         "mainEntityOfPage": { "@type": "WebPage", "@id": "https://wildwitchyherbs.com/never-burn-herbs/" },
         "articleSection": "Witchcraft & Ritual",
-        "keywords": [
-          "ritual safety",
-          "herbs that are toxic when burned",
-          "smoke cleansing",
-          "global witchcraft",
-          "sacred herbs"
-        ],
+        "keywords": ["ritual safety","herbs that are toxic when burned","smoke cleansing","global witchcraft","sacred herbs"],
         "publisher": {
           "@type": "Organization",
           "name": "Wild Witchy Herbs",
