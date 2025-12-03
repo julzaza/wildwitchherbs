@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Nemušti Jezik: A Gift of the Silent Tongue in Balkan Folklore"
+title: "Nemušti Jezik: The Silent Tongue in Balkan Folklore"
 permalink: /nemusti-jezik-silent-tongue/
 excerpt: "Discover Nemušti Jezik, the Silent Tongue, a Balkan folk tale of animal speech, serpent spirits, and ancient wisdom preserved in Vlach and Serbian traditions."
 description: "Explore the mystical Balkan story of Nemušti Jezik (The Silent Tongue), where shepherds, snakes, and spirits speak in hidden languages. Learn folklore, Vlach magija connections, and lessons for modern herbalists and witches."
