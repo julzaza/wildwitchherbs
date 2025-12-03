@@ -2,7 +2,7 @@
 layout: single
 title: "Smoke Cleansing vs. Smudging"
 description: "A global guide to smoke cleansing traditions around the world, how they differ from Indigenous smudging, and which herbs are safe to burn."
-excerpt: "A respectful global guide to smoke cleansing traditions and how they differ from Indigenous smudging, plus safe worldwide herbs and historical practices."
+excerpt: "A global guide to smoke cleansing traditions and how they differ from Indigenous smudging, plus safe worldwide herbs and historical practices."
 permalink: /smoke-cleansing-vs-smudging/
 categories: [witchcraft-ritual]
 tags: [smoke cleansing, smudging, banishing, folk magic, herbs]
