@@ -136,7 +136,7 @@ Some herbs should never meet flame. Not because they aren’t magical — but be
 
 So the next time your hand reaches for the match, ask not just what you’re burning — but **why**, and what you’re calling toward you.
 
-Fire listens.
+Not all cleansing rituals are the same, and not all herbs are culturally or ethically appropriate. Before choosing plants to burn, you may want to read **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)** — a guide to understanding the difference between global smoke traditions and Indigenous smudging, so your practice remains safe and respectful on all levels.
 
 ## Related Posts
 
