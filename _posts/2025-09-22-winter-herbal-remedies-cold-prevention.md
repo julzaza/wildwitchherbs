@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Ultimate Winter Herbal Remedies: Folk Recipes and Rituals for Cold Prevention"
+title: "Winter Herbal Remedies & Folk Rituals for the Cold Season"
 date: 2025-09-22
 categories: [winter-herbs, cold-prevention, folk-remedies, herbal-recipes, witchy-herbs]
 meta_description: "Discover the ultimate guide to winter herbal remedies. Learn 15+ folk recipes, teas, infusions, and protective rituals to prevent colds and stay healthy all season."
