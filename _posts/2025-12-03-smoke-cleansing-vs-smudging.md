@@ -30,9 +30,6 @@ schema: true
 </script>
 
 
-
-# Smoke Cleansing vs. Smudging: What’s the Real Difference?
-
 Many modern witchcraft spaces use *smudging* as a general word for burning herbs — but this is neither accurate nor respectful. Smudging refers to **specific, ceremonial Indigenous practices** belonging to distinct Native nations. Smoke cleansing is a **global human tradition**, found in nearly every culture on earth, each using its own herbs, meanings, and ritual frameworks.
 
 Knowing the difference doesn’t limit your magic.  
@@ -158,8 +155,8 @@ To dive deeper:
 
 If you want to build a smoke practice rooted in safety, ancestry, and the land beneath your feet, these guides will help you take the next steps:
 
-- **[How to Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)** — a practical walkthrough of choosing the right herbs, preparing them, and building a personal cleansing ritual without cultural borrowing.
-
 - **[Herbs That Are Toxic When Burned](/never-burn-herbs/)** — an essential list of plants that release harmful compounds when burned, so your practice stays safe, informed, and grounded in real herbal knowledge.
+- 
+- **[How to Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)** — a practical walkthrough of choosing the right herbs, preparing them, and building a personal cleansing ritual without cultural borrowing.
 
 ---
