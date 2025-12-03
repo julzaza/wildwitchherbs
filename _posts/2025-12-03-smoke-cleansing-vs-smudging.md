@@ -50,7 +50,6 @@ head_scripts:
       }
 ---
 
-
 ## What Smudging Actually Is
 Smudging is a **North American Indigenous ceremony**, practiced by nations such as:
 
