@@ -1,5 +1,5 @@
 ---
-title: "Wormwood in Witchcraft and War: From Babylon to Balkan Graves"
+title: "Wormwood in Witchcraft & War: Babylon to Balkan Graves"
 excerpt: "Wormwood isn’t just bitter in taste — it’s soaked in ancient blood, folklore, and forbidden magic. From Babylonian rites to Balkan graveyards, this herb has a long history of both healing and destruction."
 categories:
   - Witchcraft
