@@ -281,5 +281,40 @@ defaults:
     values:
       author_profile: false
 
+# ------------------------------
+# Site Categories Configuration
+# ------------------------------
+
+categories:
+  - name: "Witchcraft & Ritual Practice"
+    slug: witchcraft-ritual
+    tagline: "Rituals, spells, moon magic, and practical witchcraft rooted in real tradition."
+    description: "Explore authentic witchcraft rituals, moon practices, fertility rites, protection spells, and practical magic grounded in global and Balkan folk traditions. Step into the craft with real techniques used by witches, healers, and wise women for centuries."
+    seo_keywords: ["witchcraft rituals","moon magic","folk magic","protection spells","fertility rites"]
+
+  - name: "Herbal Magic & Materia Magica"
+    slug: herbal-magic
+    tagline: "The magical properties, folklore, and ancient uses of the world’s most powerful herbs."
+    description: "Dive into traditional plant magic through detailed herb profiles, materia magica lore, Artemisia rituals, protection plants, dream herbs, and the ancient botanical knowledge used by witches and cunning folk across cultures."
+    seo_keywords: ["herbal magic","materia magica","magical herbs","plant spirits","Artemisia"]
+
+  - name: "Folk Traditions, Folklore & Ancestral Magic"
+    slug: folklore-ancestral
+    tagline: "Old-world magic, ancestral customs, Balkan rituals, and surviving folk traditions."
+    description: "Uncover the deep roots of Balkan magic, Vlach rituals, ancestral practices, firewalkers, sacred springs, vampire herbs, historical healing traditions, and hidden charms passed through generations."
+    seo_keywords: ["Balkan folklore","Vlach magic","ancestral rituals","folk traditions","firewalking"]
+
+  - name: "Natural Healing & Folk Herbalism"
+    slug: natural-healing
+    tagline: "Traditional herbal remedies, seasonal cures, and folk medicine for everyday life."
+    description: "Discover ancient herbal remedies, winter immune recipes, Pelagić folk medicine, Balkan herbal first aid, and practical natural healing rooted in centuries-old tradition."
+    seo_keywords: ["folk herbalism","herbal remedies","natural healing","Pelagić medicine","winter herbs"]
+
+# Optional: Default settings for category pages
+category_defaults:
+  layout: "category"
+  schema: true
+  show_posts: true
+  excerpt_length: 160
 
 
