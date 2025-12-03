@@ -191,3 +191,11 @@ Before choosing plants to burn, you may want to read **[Smoke Cleansing vs. Smud
 - [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
 - [How to Make Moon Water and Use It in Magic](/moon-water-magic)
 - [How To Start Your Own Witchy Garden](/witch-garden/)
+
+<div class="cluster-note">
+For a full guide to building a safe, culturally respectful smoke-cleansing practice, explore the rest of our Smoke & Ritual series:
+
+- **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)**
+- **[How to Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)**
+- **[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)**
+</div>
