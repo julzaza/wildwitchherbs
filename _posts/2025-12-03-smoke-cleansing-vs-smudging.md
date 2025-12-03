@@ -156,7 +156,7 @@ To dive deeper:
 If you want to build a smoke practice rooted in safety, ancestry, and the land beneath your feet, these guides will help you take the next steps:
 
 - **[Herbs That Are Toxic When Burned](/never-burn-herbs/)** — an essential list of plants that release harmful compounds when burned, so your practice stays safe, informed, and grounded in real herbal knowledge.
-- 
+  
 - **[How to Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)** — a practical walkthrough of choosing the right herbs, preparing them, and building a personal cleansing ritual without cultural borrowing.
 
 ---
