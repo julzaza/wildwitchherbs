@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Sacred Springs of Serbia: Holy Waters, Healing, and Herbal Magic"
+title: "Sacred Springs of Serbia: Holy Waters & Herbal Magic"
 description: "Travel through the Timok and Homolje regions to seven legendary springs where pilgrims once sought cures, witches gathered herbs, and water itself was medicine."
 categories: balkan-folklore folk-magic travel herbalism serbia
 tags: [eastern serbia, sacred springs, healing water, pilgrimage, herbal magic, vlach traditions]
