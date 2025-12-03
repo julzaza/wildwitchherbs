@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Herbs You Should Never Burn in Ritual — And What to Do Instead"
+title: "Herbs You Should Never Burn in Ritual (And What to Use Instead)"
 excerpt: "A global guide to herbs you should never burn in ritual — whether toxic, sacred, or spiritually volatile — and powerful alternatives rooted in traditional witchcraft and folklore."
 description: "A global witch’s guide to herbs that should never be burned, including toxic plants, culturally sensitive herbs, and safer traditional alternatives."
 author: wildwitchyherbs
