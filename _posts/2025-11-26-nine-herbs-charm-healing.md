@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Nine Herbs Charm: Ancient Anglo-Saxon Herbal Magic Explained"
+title: "The Nine Herbs Charm: Anglo-Saxon Healing Magic & Folklore"
 date: 2025-11-30
 categories: [Anglo-Saxon Magic, Historical Herbs, Folk Remedies]
 tags: [Nine Herbs Charm, Anglo-Saxon Magic, Nigon Wyrta Galdor, Lacnunga, Herbal Spell, Pagan Roots, Protective Herbs, Witchcraft, Folklore]
