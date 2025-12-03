@@ -25,7 +25,6 @@ keywords:
 
 permalink: /never-burn-herbs/
 date: 2025-07-07
-breadcrumbs: true
 schema: true
 schema_type: "Article"
 
@@ -48,8 +47,6 @@ head_scripts:
         }
       }
 ---
-
-
 ## Not All Herbs Are Meant for Fire
 
 In the old world, smoke was sacred. It fed the gods, carried prayers, veiled thresholds. But not every herb was offered to flame.
