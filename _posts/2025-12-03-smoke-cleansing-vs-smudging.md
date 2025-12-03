@@ -162,6 +162,4 @@ If you want to build a smoke practice rooted in safety, ancestry, and the land b
 
 - **[Herbs That Are Toxic When Burned](/never-burn-herbs/)** — an essential list of plants that release harmful compounds when burned, so your practice stays safe, informed, and grounded in real herbal knowledge.
 
-Both articles expand on what this guide touches only briefly: *the craft, the cautions, and the deeper herbal lore behind smoke rituals.*
-
 ---
