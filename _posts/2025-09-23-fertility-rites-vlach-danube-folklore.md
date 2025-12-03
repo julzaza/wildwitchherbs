@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Moonlit Weddings and Milk Spells: Fertility Rites of the Danube Vlachs"
+title: "Moonlit Weddings & Milk Spells: Danube Vlach Fertility Rites"
 description: "Uncover the moon-blessed wedding customs and dairy magic of the Vlachs along the Danube, where ancient fertility rites still echo."
 categories: balkan-folklore vlach-magic fertility-rituals serbia
 tags: [fertility magic, Vlach rituals, moon magic, milk spells, Danube folklore]
