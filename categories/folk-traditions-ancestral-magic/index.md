@@ -1,11 +1,10 @@
 ---
 layout: category
 title: "Folk Traditions, Folklore & Ancestral Magic"
-description: "Uncover the deep roots of Balkan magic, Vlach rituals, ancestral practices, firewalkers, sacred springs, vampire herbs, historical healing traditions, and hidden charms passed through generations."
+description: "Balkan folklore, ancestral rituals, sacred springs, vampire herbs, and old-world magic."
 categories: [folklore-ancestral]
-meta_description: "Explore Balkan folklore, Vlach magic, ancestral rituals, firewalking traditions, sacred springs, vampire herbs, and old-world healing practices. Discover surviving folk traditions and hidden charms."
+meta_description: "Explore Balkan magic, Vlach traditions, ancestral rites, sacred waters, folk charms, vampire herbs, and centuries-old rituals preserved across generations."
 schema_type: "CollectionPage"
-seo_keywords: ["Balkan folklore","Vlach magic","ancestral rituals","folk traditions","firewalking"]
 ---
 
 <script type="application/ld+json">
@@ -13,7 +12,7 @@ seo_keywords: ["Balkan folklore","Vlach magic","ancestral rituals","folk traditi
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   "name": "Folk Traditions, Folklore & Ancestral Magic",
-  "description": "Uncover the deep roots of Balkan magic, Vlach rituals, ancestral practices, firewalkers, sacred springs, vampire herbs, historical healing traditions, and hidden charms passed through generations.",
+  "description": "Old-world magic, ancestral customs, Balkan rituals, vampire herbs, firewalking, sacred springs, and hidden folk traditions.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Wild Witchy Herbs"
@@ -22,15 +21,15 @@ seo_keywords: ["Balkan folklore","Vlach magic","ancestral rituals","folk traditi
     { "@type": "Thing", "name": "Balkan folklore" },
     { "@type": "Thing", "name": "Vlach magic" },
     { "@type": "Thing", "name": "ancestral rituals" },
-    { "@type": "Thing", "name": "folk traditions" },
-    { "@type": "Thing", "name": "firewalking" }
+    { "@type": "Thing", "name": "folk traditions" }
   ]
 }
 </script>
 
-Welcome to **Folk Traditions, Folklore & Ancestral Magic**. Here, you’ll explore old-world magic, Vlach rituals, ancestral practices, firewalking ceremonies, sacred springs, vampire herbs, and hidden charms passed through generations.  
+Enter **Folk Traditions, Folklore & Ancestral Magic**—a gateway into the living memory of the Balkans.  
+Here you’ll find sacred springs, vampire lore, ancestral rituals, village magic, and the rituals carried quietly through generations.
 
-### Featured Posts:
+### Featured Posts
 {% for post in site.categories.folklore-ancestral %}
 - [{{ post.title }}]({{ post.url }}) – {{ post.excerpt | strip_html | truncate: 120 }}
 {% endfor %}
