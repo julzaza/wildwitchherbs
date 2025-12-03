@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Full Moon Rituals with Sacred Herbs: Folklore & Moon Magic from Around the World"
+title: "Full Moon Rituals: Sacred Herbs & Moon Magic Worldwide"
 excerpt: "Step into the light of the full moon with sacred herbs, ancient rituals, and folklore from cultures across the globe. Learn how to harness the lunar power using plant allies from Europe, Asia, Africa, and the Americas."
 author: wildwitchyherbs
 categories: [Herbal Rituals, Witchcraft, Folklore]
