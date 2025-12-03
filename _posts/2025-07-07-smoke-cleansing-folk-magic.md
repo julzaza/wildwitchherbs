@@ -29,8 +29,6 @@ keywords:
 permalink: /smoke-cleansing-folk-magic/
 date: 2025-07-07
 breadcrumbs: true
-toc: true
-toc_sticky: true
 schema: true
 schema_type: "Article"
 
@@ -156,11 +154,3 @@ And always ask — who’s watching, and what are you clearing space for?
 - [Wormwood in Witchcraft and War: From Babylon to Balkan Graves](/wormwood-witchcraft-war)
 - [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
 - [Lunar Gardening: How Real Witches Plant with the Moon](/lunar-gardening-folklore/) 
-
-<div class="cluster-note">
-For a full guide to building a safe, culturally respectful smoke-cleansing practice, explore the rest of our Smoke & Ritual series:
-
-- **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)**
-- **[How to Use Herbs for Smoke Cleansing](/how-to-use-herbs-for-smoke-cleansing/)**
-- **[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)**
-</div>
