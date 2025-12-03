@@ -27,8 +27,6 @@ keywords:
 permalink: /smoke-cleansing-vs-smudging/
 date: 2025-07-07
 breadcrumbs: true
-toc: true
-toc_sticky: true
 schema: true
 schema_type: "Article"
 
