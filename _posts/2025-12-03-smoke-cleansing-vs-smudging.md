@@ -93,8 +93,8 @@ Every region used what grew naturally. Common European cleansing herbs include:
 
 For a deeper guide to herbs used in smoke rituals, visit:
 
-👉 **[How to Use Herbs for Smoke Cleansing](/how-to-use-herbs-for-smoke-cleansing/)**  
-👉 **[Herbs You Should Never Burn](/herbs-that-are-toxic-when-burned/)**
+ **[How to Use Herbs for Smoke Cleansing](/how-to-use-herbs-for-smoke-cleansing/)**  
+ **[Herbs You Should Never Burn](/herbs-that-are-toxic-when-burned/)**
 
 Both articles will help you avoid toxic plants and choose herbs aligned with your craft.
 
