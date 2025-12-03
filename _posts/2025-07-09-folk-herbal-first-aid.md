@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Folk Herbal First Aid: Witchy Remedies for Cuts, Bruises, Fevers, and Bites"
+title: "Folk Herbal First Aid: Remedies for Cuts, Fevers & Bruises"
 excerpt: "Before pharmacy chains and factory-made creams, healers, witches, and grandmothers had their own herbal first aid kits. Learn which plants to reach for when the body breaks, bleeds, burns, or boils — and how to use them with confidence and respect."
 permalink: /folk-herbal-first-aid/
 author_profile: false
