@@ -13,16 +13,120 @@ schema: true
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Smoke Cleansing vs. Smudging",
-  "description": "A respectful and historically accurate guide explaining the difference between smoke cleansing and Indigenous smudging, including safe herbs and traditional European methods.",
-  "author": { "@type": "Person", "name": "Wild Witchy Herbs" },
-  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://wildwitchyherbs.com/smoke-cleansing-vs-smudging/" },
-  "articleSection": "Witchcraft & Ritual Practice",
-  "keywords": ["smoke cleansing","smudging","witchcraft","cleansing rituals","banishing herbs"],
-  "publisher": { "@type": "Organization", "name": "Wild Witchy Herbs" }
+  "@graph": [
+
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://wildwitchyherbs.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Witchcraft & Ritual Practice",
+          "item": "https://wildwitchyherbs.com/categories/witchcraft-ritual/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Smoke Cleansing vs. Smudging",
+          "item": "https://wildwitchyherbs.com/smoke-cleansing-vs-smudging/"
+        }
+      ]
+    },
+
+    {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+        "h1",
+        "p.summary",
+        "p.intro"
+      ]
+    },
+
+    {
+      "@type": "Article",
+      "headline": "Smoke Cleansing vs. Smudging",
+      "description": "A respectful, historically grounded guide explaining the difference between European smoke cleansing traditions and Indigenous smudging practices, including safe herbs and ethical alternatives.",
+      "author": {
+        "@type": "Person",
+        "name": "Wild Witchy Herbs"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Wild Witchy Herbs",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://wildwitchyherbs.com/assets/images/logo.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://wildwitchyherbs.com/smoke-cleansing-vs-smudging/"
+      },
+      "keywords": [
+        "smoke cleansing",
+        "smudging",
+        "witchcraft",
+        "cleansing rituals",
+        "banishing herbs",
+        "folk witchcraft",
+        "safe herbs to burn"
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://wildwitchyherbs.com/assets/images/smoke-cleansing.jpg",
+        "width": 1200,
+        "height": 630
+      }
+    },
+
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is smudging the same as smoke cleansing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Smudging is an Indigenous ceremonial practice with specific sacred herbs and protocols. Smoke cleansing is a European and global folk ritual using different plants and traditions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What herbs can I burn for smoke cleansing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Traditional European herbs include wormwood, mugwort, juniper, rosemary, pine resin, and lavender. These are historically documented and sustainable alternatives."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is burning white sage cultural appropriation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Burning white sage *as smudging* is considered cultural appropriation unless you are Indigenous or invited by the community. Using white sage for general witchcraft cleansing is still controversial and often discouraged due to overharvesting."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the European version of smudging?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Europe has its own smoke traditions: fumigation rites, incense magic, kitchen witchcraft smoke cleansing, and protective herb bundles using mugwort, juniper, St. John's wort, and pine."
+          }
+        }
+      ]
+    }
+
+  ]
 }
 </script>
+
 
 # Smoke Cleansing vs. Smudging: What’s the Real Difference?
 
