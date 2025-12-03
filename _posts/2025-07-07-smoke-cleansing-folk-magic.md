@@ -1,23 +1,73 @@
 ---
 layout: single
-title: "How to Use Smoke Cleansing in Folk Magic (Beyond Sage)"
-excerpt: "Forget California white sage and crystal shop bundles. Real smoke cleansing is ancient, regional, and often gritty. Learn how witches, healers, and rootworkers across the world used smoke to protect, banish, heal, and summon."
+title: "How to Use Smoke Cleansing in Folk Magic"
+excerpt: "Discover ancient, global smoke cleansing rituals beyond sage. Learn how witches, healers, and rootworkers worldwide used herbs to protect, banish, heal, and invite spirits."
+description: "A global guide to performing smoke cleansing rituals in folk magic. Explore safe herbs, traditional methods, and the purpose of ritual smoke across cultures."
 author: wildwitchyherbs
-categories: 
-  - Rituals
-  - Herbal Witchcraft
-  - Folklore
-tags: 
+
+# Unified Cluster Categories
+categories:
+  - witchcraft-ritual
+  - herbal-magic
+
+# Cluster-Optimized Tags
+tags:
   - smoke cleansing
-  - folk magic
+  - ritual safety
   - herbal ritual
   - mystical herbs
   - banishing
-  - Balkan witchcraft
+  - folklore
   - ancestral practices
+
+# SEO & Metadata
 date: 2025-07-07
 permalink: /smoke-cleansing-folk-magic/
+keywords:
+  - smoke cleansing
+  - global witchcraft
+  - ritual smoke herbs
+  - banishing rituals
+  - folk magic practices
+
+meta_description: "Learn global smoke cleansing rituals in folk magic. Explore herbs, techniques, and safe, culturally respectful methods used by witches and healers worldwide."
+
+# Theme Features
+breadcrumbs: true
+toc: true
+toc_sticky: true
+
+# Schema
+schema: true
+schema_type: "Article"
+
+# Custom JSON-LD for SEO & AI Snippets
+head_scripts:
+  - type: "application/ld+json"
+    script: >
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "How to Use Smoke Cleansing in Folk Magic",
+        "description": "A global guide to performing smoke cleansing rituals in folk magic, including safe herbs and traditional methods from around the world.",
+        "author": { "@type": "Person", "name": "Wild Witchy Herbs" },
+        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://wildwitchyherbs.com/smoke-cleansing-folk-magic/" },
+        "articleSection": "Witchcraft & Ritual Practice",
+        "keywords": [
+          "smoke cleansing",
+          "ritual smoke herbs",
+          "global witchcraft",
+          "banishing rituals",
+          "folk magic practices"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Wild Witchy Herbs",
+          "url": "https://wildwitchyherbs.com"
+        }
+      }
 ---
+
 
 ## Smoke Has Memory
 
