@@ -21,7 +21,7 @@ permalink: /smoke-cleansing-folk-magic/
 
 ## Smoke Has Memory
 
-**Forget the mass-produced sage bundles**. This is how smoke works when it remembers where it came from.
+**Forget the mass-produced sage bundles**. 
 
 Before incense came in neat little bundles, it was a fistful of bitter leaves, cracked resin, and whatever could be burned in a dish over coals.
 
