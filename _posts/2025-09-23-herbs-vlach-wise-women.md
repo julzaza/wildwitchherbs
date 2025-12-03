@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Herbal Companions of the Timok Valley: Plants of the Vlach Wise Women"
+title: "Herbs Vlach Wise Women Use: Plants of the Timok Valley"
 description: "Meet the healing plants sacred to Vlach herbal magic—yarrow, rue, mugwort, and more—blending authentic folklore with modern phytochemistry."
 categories: [balkan-folklore, herbalism, vlach-magic, serbia]
 tags: [Vlach, herbal magic, Timok Valley, Balkan herbs, traditional medicine]
