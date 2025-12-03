@@ -43,3 +43,37 @@ Reports of Serbian vampire hunts in the 1720s (notably the case of **Arnold Paol
 Today, hawthorn hedges and garlic plaits hang as simple farm traditions, but each carries the **memory of nights when the dead might walk**.
 
 Explore more uncanny herbal lore in **[Ancient Shields: Witchy Protection Herbs](/world-magic-for-protection/)**.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "TITLE OF YOUR POST",
+  "description": "One-sentence, human-sounding summary of your article.",
+  "author": {
+    "@type": "Person",
+    "name": "Wild Witch Herbs"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Wild Witch Herbs",
+    "url": "https://wildwitchherbs.com"
+  },
+  "image": "https://wildwitchherbs.com/assets/images/YOUR-IMAGE.jpg",
+  "keywords": [
+    "witchcraft",
+    "folk magic",
+    "herbal folklore",
+    "Slavic magic",
+    "Balkan witchcraft",
+    "herbalism"
+  ],
+  "articleSection": "Witchcraft & Folklore",
+  "datePublished": "2025-01-01",
+  "dateModified": "2025-01-01",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://wildwitchherbs.com/YOUR-PERMALINK/"
+  }
+}
+</script>
