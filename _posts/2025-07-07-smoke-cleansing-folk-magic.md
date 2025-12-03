@@ -27,6 +27,9 @@ From Balkan death rites to South American protection spells, **smoke has always 
 
 Forget the mass-produced sage bundles. This is how smoke works when it remembers where it came from.
 
+If you’re unsure whether your ritual counts as smoke cleansing or something else entirely, read **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)**. It explains the 
+cultural differences with clarity and respect, so your practice stays rooted in your own lineage and land.
+
 ---
 
 ## The Function of Smoke in Magic
