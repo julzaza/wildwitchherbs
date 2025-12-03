@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Hidden Charms of the Vlach Healers: Love Spells, Binding Knots & Forest Spirits"
+title: "Hidden Charms of Vlach Healers: Love, Binding & Forest Magic"
 description: "Explore authentic Vlach magic from Eastern Serbia—love spells, protective knots, and forest-spirit offerings—rooted in centuries of Balkan folklore and still whispered about today."
 categories: [balkan-folklore, vlach-magic, herbalism, serbia]
 tags: [Vlach, magic, love spells, Serbian folklore, knot magic, forest spirits, Balkan witchcraft]
