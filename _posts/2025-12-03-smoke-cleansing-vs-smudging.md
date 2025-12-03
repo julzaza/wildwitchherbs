@@ -26,27 +26,14 @@ keywords:
 
 permalink: /smoke-cleansing-vs-smudging/
 date: 2025-07-07
+
+# Disable breadcrumbs & TOC for tighter top spacing
+breadcrumbs: false
+toc: false
+toc_sticky: false
+
 schema: true
 schema_type: "Article"
-
-head_scripts:
-  - type: "application/ld+json"
-    script: >
-      {
-        "@context": "https://schema.org",
-        "@type": "Article",
-        "headline": "Smoke Cleansing vs. Smudging",
-        "description": "A respectful global guide to smoke cleansing traditions, their history, and how they differ from Indigenous smudging.",
-        "author": { "@type": "Person", "name": "Wild Witchy Herbs" },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Wild Witchy Herbs",
-          "logo": { "@type": "ImageObject", "url": "https://wildwitchyherbs.com/assets/images/logo.png" }
-        },
-        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://wildwitchyherbs.com/smoke-cleansing-vs-smudging/" },
-        "articleSection": "Witchcraft & Ritual",
-        "keywords": ["smoke cleansing","smudging","folk magic","ritual smoke","cleansing herbs"]
-      }
 ---
 ## What Smudging Actually Is
 Smudging is a **North American Indigenous ceremony**, practiced by nations such as:
