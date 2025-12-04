@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Herbal Magic & Materia Magica"
+title: "Herbal Magic: Materia Magica"
 description: "Magical herbs, plant spirits, Artemisia lore, and traditional materia magica."
 categories: [herbal-magic]
 meta_description: "Explore the magical properties of herbs, plant spirits, Artemisia traditions, dream herbs, protection plants, and the lore of traditional materia magica."
@@ -11,7 +11,7 @@ schema_type: "CollectionPage"
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  "name": "Herbal Magic & Materia Magica",
+  "name": "Herbal Magic: Materia Magica",
   "description": "Herbal profiles, plant spirits, magical uses of herbs, Artemisia lore, and traditional materia magica.",
   "isPartOf": {
     "@type": "WebSite",
@@ -26,7 +26,7 @@ schema_type: "CollectionPage"
 }
 </script>
 
-Step into **Herbal Magic & Materia Magica**, where the spiritual nature of plants meets centuries of occult tradition.  
+Step into **Herbal Magic: Materia Magica**, where the spiritual nature of plants meets centuries of occult tradition.  
 Discover magical correspondences, dream herbs, Artemisia rituals, plant spirits, incense blends, protective bundles, and herbal lore from across the world.
 
 ### Featured Posts
