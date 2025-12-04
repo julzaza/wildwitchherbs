@@ -2,7 +2,7 @@
 layout: single
 title: "Winter Solstice Witchcraft: Old European Magic"
 description: "A complete guide to Old European winter witchcraft, solstice folklore, ancestral spirits, herbal magic, and the traditions surrounding the longest night."
-excerpt: "Old European winter solstice magic, protective rites, and ancestral folklore behind the longest night."
+excerpt: "Winter solstice magic, protective rites, and ancestral folklore behind the longest night."
 categories: [witchcraft-rituals, folklore-ancestral]
 tags: [winter-solstice, yule, wild-hunt, twelve-nights, european-folklore, herbs]
 ---
