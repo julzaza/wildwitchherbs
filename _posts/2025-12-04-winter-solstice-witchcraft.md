@@ -1,14 +1,14 @@
 ---
-title: "Winter Solstice Witchcraft: Old European Rituals, Folklore, and the Magic of the Longest Night"
+title: "Winter Solstice Witchcraft: Old European Magic"
 permalink: /winter-solstice-witchcraft/
 layout: single
-author: julia molton
+author: Wild Witch Herbs
 description: "A deep, folklore-rich guide to ancient Winter Solstice witchcraft—Old European rituals, protective herbs, ancestral magic, evergreen lore, the Wild Hunt, and the Twelve Nights."
 tags: [winter solstice, yule, witchcraft, folklore, old europe, herbs]
 categories: witchcraft-rituals
 ---
 
-# Winter Solstice Witchcraft: Old European Rituals, Folklore, and the Magic of the Longest Night
+# Old European Rituals, Folklore, and the Magic of the Longest Night
 
 The Winter Solstice is the oldest holy night on earth.  
 Long before Christmas, before Yule as we recognize it, before the soft warmth of holiday symbolism, there was only **cold, darkness, and fear**—and the women who stood against it.
@@ -22,23 +22,6 @@ The frozen earth felt thin.
 Spirits roamed.  
 Animals ruled the dark.  
 And every household relied on ritual, herbs, fire, and evergreen charms to survive the dangerous weeks ahead.
-
-This guide is your **complete Solstice Witchcraft master resource**.  
-It connects every thread:
-
-– pre-Christian rituals  
-– the meaning of the longest night  
-– the Wild Hunt  
-– evergreen magic  
-– protective herbs  
-– ancestral rites  
-– the Twelve Nights  
-– dream prophecy  
-– Old European household protections  
-– modern practices grounded in real history
-
-Think of this post as the **midwinter root**.  
-Every other winter article on Wild Witch Herbs grows from here.
 
 ---
 
@@ -139,7 +122,10 @@ A tree of death, rebirth, and the cycle of the sun.
 ### Poppy  
 A spirit-counter and protective scattering herb.
 
+
 Your cluster post **“Herbs for the Dark Half: Winter Protection Magic from Old Europe”** fits perfectly here.
+
+
 
 ---
 
@@ -163,7 +149,10 @@ To survive, households:
 – hung iron keys above entrances  
 – avoided travel at night
 
+
+
 This is where your post **“Solstice Spirits and the Wild Hunt: A Witch’s Guide to Surviving the Longest Night”** should be linked.
+
 
 ---
 
@@ -180,6 +169,8 @@ The Twelve Nights (from solstice through early January) were considered:
 – visited by household fates (Norns, Sudice, Rodjenice)
 
 These nights shaped the coming year.
+
+
 
 Your linked article **“The Twelve Nights: Old European Witchcraft Between Christmas and Epiphany”** expands this section in detail.
 
