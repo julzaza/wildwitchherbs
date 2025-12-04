@@ -24,7 +24,7 @@ tags: [winter-solstice, yule, wild-hunt, twelve-nights, european-folklore, herbs
 }
 </script>
 
-# Winter Solstice Witchcraft: Old European Magic, Spirits, and the Return of the Sun
+# The Return of the Sun
 
 The winter solstice is the pivot of Old European witchcraft—  
 the night when the world turns inward,  
