@@ -7,6 +7,23 @@ description: "A deep, folklore-rich guide to ancient Winter Solstice witchcraftâ
 tags: [winter solstice, yule, witchcraft, folklore, old europe, herbs]
 categories: witchcraft-rituals
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Winter Solstice Witchcraft: Old European Magic",
+  "description": "Explore Old European winter solstice witchcraft, ancestral rites, protective herbs, and the folklore shaping the longest night of the year.",
+  "author": {
+    "@type": "Person",
+    "name": "Wild Witch Herbs"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Wild Witch Herbs",
+    "url": "https://wildwitchherbs.com"
+  }
+}
+</script>
 
 # Old European Rituals, Folklore, and the Magic of the Longest Night
 
