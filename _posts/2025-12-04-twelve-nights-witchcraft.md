@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Twelve Nights: Old European Witchcraft Between Christmas and Epiphany"
 description: "A deep folklore-based exploration of the Twelve Nights, traditional witchcraft, solstice spirits, and Old European magical practices between Christmas and Epiphany."
 categories: [Folklore, Witchcraft, Winter, Solstice]
