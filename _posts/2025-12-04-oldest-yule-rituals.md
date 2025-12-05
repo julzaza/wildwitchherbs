@@ -124,11 +124,6 @@ You can pair this protective rite with offerings from
 These rites were not about celebration.  
 They were about **surviving winter**—the season when spirits walked freely, animals ruled the night, and humans huddled close to their fires with charms, herbs, and hope.
 
-For more on the harsh, raw side of midwinter, explore  
-**[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**  
-and  
-**[Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide](/solstice-spirits-wild-hunt/)**.
-
 ---
 
 ## FAQ: Yule Magic, Folklore & Witchcraft
