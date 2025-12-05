@@ -22,8 +22,7 @@ schema:
 
 # Food Magic for The Twelve Nights
 
-In the old European imagination, **winter began in the kitchen**, not the forest.  
-The hearth was the heart of the household, the fire that refused to die even as everything outside froze. And during the **Twelve Nights**—those strange days between the solstice and early January—the kitchen became a place of magic, divination, offerings, and protection.
+In Old European homes, midwinter magic was nurtured at the hearth and stirred in the kitchen. **The fire burned like a heartbeat, defying the frost and darkness outside**. During the **[The Twelve Nights](/twelve-nights-witchcraft/)**—those liminal days from the solstice to early January—the kitchen became a sanctuary of old magic. Here, bread, honey, seeds, and smoke were more than food; they were spells, offerings, and protective charms, guiding families through the coldest, darkest nights of the year. Every pot, every ember, every small act held the power to heal, protect, and foresee what the coming year might bring.
 
 This was not cuisine.  
 It was spellcraft made with bread, honey, nuts, seeds, and smoke.
@@ -96,8 +95,6 @@ Slice an apple through the center to reveal the five-pointed star. Holding the a
 
 ### Nut Divination  
 Hazelnuts or walnuts were thrown into the fire, each named for a person or path. Loud cracking = promise. Quiet burn = weak or uncertain.
-
-See also: **[The Witch’s Midwinter Kitchen: Folk Food Magic & Rituals](/midwinter-kitchen-witchcraft)** for recipes and divination methods integrated into daily kitchen practice.
 
 ---
 
