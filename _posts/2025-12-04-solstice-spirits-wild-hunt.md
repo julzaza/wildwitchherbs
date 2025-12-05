@@ -213,9 +213,14 @@ protected, sharpened, and unshaken.
 
 ---
 
-Explore the full Solstice Series:
-
-- **[The Twelve Nights: Witchcraft between Christmas and Epiphany](/twelve-nights-witchcraft)**  
-- **[Winter Protection Herbs: Remedies for the Cold Season](/winter-herbal-remedies-cold-prevention)**  
+## Explore the Full Solstice Series:
+   
 - **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**  
 - **[Evergreen Trees Magic Before Christmas Existed](/evergreens-witchcraft)**
+- **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**
+- **[Old European Yule Rituals](/oldest-yule-rituals/)**
+- **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
+- **[The Twelve Nights](/twelve-nights-witchcraft)**  
+- **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**
+
+---
