@@ -5,7 +5,7 @@ description: "A folklore-rich guide to Old European winter witch bottles used fo
 excerpt: "Discover the Old European winter witch bottle—an ancestral protection charm crafted for the Twelve Nights, the Wild Hunt, and midwinter spirits. A deep folkloric guide rooted in authentic continental tradition."
 author: Wild Witch Herbs
 
-categories: ["Folklore & Old European Witchcraft"]
+categories: [witchcraft_rituals]
 tags: [winter witchcraft, solstice magic, protection magic, witch bottles, folklore, twelve nights, wild hunt]
 
 schema:
@@ -40,7 +40,7 @@ faqs:
 
 In Old Europe, the weeks around the solstice were considered spiritually porous. The dead roamed. The Wild Hunt crossed the sky. Witches, farmers, cunning folk, and ordinary households braced themselves for a landscape where time thinned and spirits walked freely.
 
-For more winter liminality lore, see: [The Twelve Nights: Old European Witchcraft Between Christmas and Epiphany](/2025-12-04-twelve-nights-witchcraft/).
+For more winter liminality lore, see: [The Twelve Nights: Old European Witchcraft Between Christmas and Epiphany](/twelve-nights-witchcraft/).
 
 In these nights—before Christmas existed, before the church reshaped the calendar—people buried, hung, and hid witch bottles. These were not Victorian curiosities but apotropaic engines meant to bite back at whatever prowled in the dark.
 
@@ -56,11 +56,11 @@ The darkest days demanded substances that were:
 
 1. Evergreen or death-defying  
 Juniper berries, fir needles, holly, mistletoe.  
-*Related post: [How Witches Used Evergreen Trees Before Christmas Existed](/2025-12-04-evergreens-witchcraft/).*
+*Related post: [How Witches Used Evergreen Trees Before Christmas Existed](/evergreens-witchcraft/).*
 
 2. Solar or heat-holding  
 Salt, embers, charcoal, dried wormwood, St. John’s Wort buds saved from summer.  
-(*Connected lore: [Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/2025-12-04-solstice-dreaming-mugwort-wormwood/)*)
+(*Connected lore: [Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)*)
 
 3. Iron-bearing or piercing  
 Rusty nails, thorns, broken shears, blacksmith scrap.
@@ -120,7 +120,7 @@ Wax is traditional. Resin is older.
 • Near the hearth  
 • Facing north  
 
-*For more hearth-focused lore, see: [The Witch’s Midwinter Kitchen: Folk Food Magic & Rituals](/2025-12-04-midwinter-kitchen-witchcraft/).*
+*For more hearth-focused lore, see: [The Witch’s Midwinter Kitchen: Folk Food Magic & Rituals](/midwinter-kitchen-witchcraft/).*
 
 ---
 
