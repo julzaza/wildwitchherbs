@@ -158,6 +158,18 @@ They are the backbone of the European winter witch year.
 
 ---
 
+## The Winter Solstice Series:
+
+- **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**
+- **[Old European Yule Rituals](/oldest-yule-rituals/)**
+- **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
+- **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
+- **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**
+- **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**
+- **[Evergreen Magic Before Christmas](/evergreens-witchcraft)**
+
+---
+
 ## FAQ 
 
 ### **What are the Twelve Nights in European folklore?**
