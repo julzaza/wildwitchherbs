@@ -35,9 +35,6 @@ and the sun itself appears to stop in the sky.
 To the cunning folk, Alpine herb-wives, Baltic seers, and Slavic domovoi-keepers, this was not merely a dark night.  
 It was the **renewal of the world**.
 
-This guide is the heart of the Winter Solstice series on Wild Witch Herbs.  
-From here, the path branches into the Wild Hunt, the Twelve Nights, evergreen lore, and prophetic dreaming.
-
 ---
 
 ## Why the Solstice Matters in Old European Witchcraft
@@ -84,8 +81,7 @@ This temporal stillness is why the solstice became the gateway into:
 
 ### **The Wild Hunt**
 A storm of spirits sweeping across the sky, led by Wodan, Frau Holle, Perchta, or the ancestral dead.  
-Learn the lore in:  
-**[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**.
+Learn the lore in: **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**.
 
 ### **Ancestors**
 From Scandinavia to the Balkans, the dead were believed to revisit their kin.  
@@ -110,8 +106,7 @@ Burned every night from Solstice to Epiphany in much of Central Europe.
 
 ### **Mugwort**
 The witch’s dream herb—sharpening vision, intuition, and protection.  
-Used in:  
-**[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**.
+Used in: **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**.
 
 ### **Wormwood**
 For banishing, winter divination, and ancestral contact.
@@ -158,8 +153,7 @@ Long before Christianity, witches used evergreens to:
 - protect children and livestock
 
 The Christmas tree is a late survival of this earlier magic.  
-Explore its roots in:  
-**[Evergreen Magic Before Christmas](/evergreens-witchcraft)**.
+Explore its roots in: **[Evergreen Magic Before Christmas](/evergreens-witchcraft)**.
 
 ---
 
@@ -173,8 +167,7 @@ Dreams thicken.
 The Wild Hunt rides.  
 Spirits inspect homes.
 
-Full guide:  
-**[The Twelve Nights](/twelve-nights-witchcraft)**.
+Full guide:  **[The Twelve Nights: Witchcraft Between Christmas and Epiphany](/twelve-nights-witchcraft)**.
 
 ---
 
@@ -238,7 +231,9 @@ and the new world quietly begins.
 
 It is a **threshold**, a night of realignment, a return to the oldest rhythms.
 
-Explore the full Solstice Series:
+---
+
+## Explore the Full Solstice Series:
 
 - **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
 - **[The Twelve Nights](/twelve-nights-witchcraft)**  
@@ -246,6 +241,4 @@ Explore the full Solstice Series:
 - **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**  
 - **[Evergreen Magic Before Christmas](/evergreens-witchcraft)**
 
-The long night ends.  
-Light returns.  
-Magic begins anew.
+---
