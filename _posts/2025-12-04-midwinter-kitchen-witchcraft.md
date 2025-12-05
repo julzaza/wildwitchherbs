@@ -57,8 +57,6 @@ Bread dipped in honey on the first and last nights of the Twelve ensured good fo
 **Modern ritual:** Dip your finger into honey on Midwinter’s Eve and draw a small circle over your heart.  
 Whisper: “I carry the summer in my chest.”
 
-See also: **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood)** for dream-enhancing herbs often combined with kitchen magic.
-
 ---
 
 ## Poppy Seeds: Counting the Unseen
@@ -138,5 +136,6 @@ Through bread, honey, seeds, and smoke, the household tied itself to life, warmt
 
 - **[Old European Yule Rituals: Wolves, Mistletoe & Midwinter Lore](/oldest-yule-rituals)** for protective rites and ancestral spirits.
 - **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft)** for the broader solstice context.
+- **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood)** for dream-enhancing herbs often combined with kitchen magic.
 
 ---
