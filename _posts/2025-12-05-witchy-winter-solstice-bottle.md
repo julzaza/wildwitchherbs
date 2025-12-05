@@ -36,7 +36,7 @@ faqs:
 
 ---
 
-# Magic from Old Europe
+# Magic from The Old World
 
 In Old Europe, the weeks around the solstice were considered spiritually porous. The dead roamed. The Wild Hunt crossed the sky. Witches, farmers, cunning folk, and ordinary households braced themselves for a landscape where time thinned and spirits walked freely.
 
@@ -56,11 +56,10 @@ The darkest days demanded substances that were:
 
 1. Evergreen or death-defying  
 Juniper berries, fir needles, holly, mistletoe.  
-*Related post: [How Witches Used Evergreen Trees Before Christmas Existed](/evergreens-witchcraft/).*
+Check out: [How Witches Used Evergreen Trees Before Christmas Existed](/evergreens-witchcraft/).*
 
 2. Solar or heat-holding  
 Salt, embers, charcoal, dried wormwood, St. John’s Wort buds saved from summer.  
-(*Connected lore: [Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)*)
 
 3. Iron-bearing or piercing  
 Rusty nails, thorns, broken shears, blacksmith scrap.
@@ -73,7 +72,7 @@ Not this house. Not tonight.
 
 ---
 
-## Folkloric Ingredients (Historically Accurate)
+## Folkloric Ingredients:
 
 These ingredients appear repeatedly in ethnographic collections from Germany, Slovenia, Poland, Romania, and the Baltic regions.
 
@@ -126,9 +125,6 @@ Wax is traditional. Resin is older.
 • Under the threshold  
 • Near the hearth  
 • Facing north  
-
-*For more hearth-focused lore, see: [The Witch’s Midwinter Kitchen: Folk Food Magic & Rituals](/midwinter-kitchen-witchcraft/).*
-
 ---
 
 ## Why Winter Bottles Matter Now
@@ -140,3 +136,7 @@ A winter bottle does what the old ones did:
 **It holds the line.**
 
 ---
+
+## Want More Winter Solstice Magic?
+
+Learn more about [Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/) and what witches were brewing in their kitchens: [The Witch’s Midwinter Kitchen: Folk Food Magic & Rituals](/midwinter-kitchen-witchcraft/).
