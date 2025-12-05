@@ -58,7 +58,7 @@ Across northern Europe—from the Alps to the Baltic, from the Germanic forests 
 - **a night of heightened prophecy**  
 - **a season of sacred danger**
 
-These beliefs echo deep Indo-European solar rites, where fire, evergreens, and ancestor offerings “held the sun” through the year’s darkest point.
+These beliefs echo deep Indo-European solar rites, where fire, evergreens, and ancestor offerings “held the sun” through **the year’s darkest point**.
 
 Witches didn’t resist the dark.  
 They **worked within it**, shaping luck, protection, and rebirth.
@@ -93,7 +93,7 @@ This temporal stillness is why the solstice became the gateway into:
 
 ### **The Wild Hunt**
 A storm of spirits sweeping across the sky, led by Wodan, Frau Holle, Perchta, or the ancestral dead.  
-Learn the lore in: **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**.
+Explore the story of: **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**.
 
 ### **Ancestors**
 Across Scandinavia and the Balkans, the dead were believed to revisit their kin.  
