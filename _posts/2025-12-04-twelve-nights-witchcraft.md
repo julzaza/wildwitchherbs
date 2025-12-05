@@ -130,7 +130,7 @@ Small crosses for cattle and doorways.
 ### **Evergreen Branches**
 Used to keep spirits away and life-energy within—  
 a practice explored deeply in  
-[**How Witches Used Evergreens Before Christmas Existed**](/2025-12-04-evergreens-witchcraft/).
+[**How Witches Used Evergreens Before Christmas Existed**](/evergreens-witchcraft/).
 
 ---
 
@@ -150,7 +150,7 @@ Performed nightly after sunset:
 4. Sprinkle salt along windowsills and thresholds.
 
 Pair this with protective foods from  
-[**The Witch’s Midwinter Kitchen**](/2025-12-04-midwinter-kitchen-witchcraft/).
+[**The Witch’s Midwinter Kitchen**](/midwinter-kitchen-witchcraft/).
 
 ---
 
