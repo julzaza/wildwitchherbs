@@ -71,10 +71,9 @@ They **worked within it**, shaping luck, protection, and rebirth.
 **“the sun stands still.”**
 
 For roughly three days, the sun’s arc rises and sets at nearly the same point.  
-To early peoples, this unmoving light meant cosmic suspension—  
-a crack in ordinary time.
+To early peoples, this unmoving light meant cosmic suspension— a crack in ordinary time.
 
-And in that stillness, witches listened.
+**And in that stillness, witches listened.**
 
 The air carried more than wind:  
 omens, ancestral voices, half-waking visions.  
