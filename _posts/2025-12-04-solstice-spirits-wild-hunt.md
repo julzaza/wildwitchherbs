@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Solstice Spirits and the Wild Hunt: A Witch’s Guide to Surviving the Longest Night"
+title: "Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide"
 description: "A folklore-rich exploration of the Wild Hunt, Yuletide spirits, winter witchcraft, and ancient European protection rites for the longest night of the year."
 categories: [Folklore, Witchcraft, Winter, Solstice]
 tags: [Winter Solstice, Wild Hunt, Protection Magic, European Folklore, Spirits]
