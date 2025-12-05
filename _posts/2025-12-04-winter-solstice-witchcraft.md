@@ -241,7 +241,6 @@ It is a **threshold**, a night of realignment, a return to the oldest rhythms.
 - **[Old European Yule Rituals](/oldest-yule-rituals/)**
 - **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
 - **[The Twelve Nights](/twelve-nights-witchcraft)**  
-- **[Winter Protection Herbs](/winter-herbal-remedies-cold-prevention)**  
 - **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**  
 - **[Evergreen Magic Before Christmas](/evergreens-witchcraft)**
 
