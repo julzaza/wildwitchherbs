@@ -38,7 +38,7 @@ faqs:
 
 # Magic from The Old World
 
-In Old Europe, the weeks around the solstice were considered spiritually porous. The dead roamed. The Wild Hunt crossed the sky. Witches, farmers, cunning folk, and ordinary households braced themselves for a landscape where time thinned and spirits walked freely.
+In Old Europe, the weeks around the solstice were considered spiritually porous. The dead roamed. The Wild Hunt crossed the sky. **Witches, farmers, cunning folk, and ordinary households braced themselves for a landscape where time thinned and spirits walked freely.**
 
 For more winter liminality lore, see: [The Twelve Nights: Old European Witchcraft Between Christmas and Epiphany](/twelve-nights-witchcraft/).
 
