@@ -23,12 +23,12 @@ Most people imagine Yule as a tangle of candles, pine branches, and sweet nostal
 But the **oldest midwinter traditions of Europe** were nothing soft. They were born during the longest nights of the year, when the sun seemed genuinely in danger of disappearing and people felt the cold breath of the otherworld pressing against their doors.
 
 For a broader introduction to solstice magic, see  
-**[Winter Solstice Witchcraft: Old European Magic & Rituals](/posts/2025-12-04-winter-solstice-witchcraft/)**.
+**[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**.
 
 Long before Christmas existed, witches, healers, and household guardians performed **hard, raw, protective rites** to keep their communities safe through the dangerous Twelve Nights. That old magic still lives in fragments—wolf tracks in the snow, iron charms over doors, ash smeared across the forehead, mistletoe cut by moonlight.
 
 To understand how the Twelve Nights fit into this magic, see  
-**[The Twelve Nights: Old European Witchcraft Between Christmas and Epiphany](/posts/2025-12-04-twelve-nights-witchcraft/)**.
+**[The Twelve Nights: Old European Witchcraft Between Christmas and Epiphany](/twelve-nights-witchcraft/)**.
 
 Below are the **rituals almost no one speaks of anymore**.
 
@@ -47,7 +47,7 @@ It was **alliance**.
 A bowl of grain or fat was placed outside the door. In return, the wolves—real or spirit—kept wandering shades, draugr, and hungry presences at bay.
 
 For related spirit-work and protection techniques, explore  
-**[Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide](/posts/2025-12-04-solstice-spirits-wild-hunt/)**.
+**[Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide](/solstice-spirits-wild-hunt/)**.
 
 **How to work the rite today:**
 
@@ -70,7 +70,7 @@ Witches harvested it only when:
 Its branches were hung above the door to repel plague, sickness, and “the pale travelers,” a term for wandering spirits.
 
 For broader evergreen-based protection, see  
-**[How Witches Used Evergreen Trees Before Christmas Existed](/posts/2025-12-04-evergreens-witchcraft/)**.
+**[How Witches Used Evergreen Trees Before Christmas Existed](/evergreens-witchcraft/)**.
 
 Mistletoe was never burned.  
 It was too potent, too alive.
@@ -85,7 +85,7 @@ The gods could hunt.
 The borders of the world thinned like frost melting at a doorframe.
 
 This connects with winter dream practices detailed in  
-**[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/posts/2025-12-04-solstice-dreaming-mugwort-wormwood/)**.
+**[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)**.
 
 In these nights:
 
@@ -115,7 +115,7 @@ A reconstruction of a pre-Christian winter ward:
 4. Whisper: “Only those of warmth and light may enter here.”
 
 You can pair this protective rite with offerings from  
-**[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/posts/2025-12-04-midwinter-kitchen-witchcraft/)**.
+**[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**.
 
 ---
 
@@ -125,9 +125,9 @@ These rites were not about celebration.
 They were about **surviving winter**—the season when spirits walked freely, animals ruled the night, and humans huddled close to their fires with charms, herbs, and hope.
 
 For more on the harsh, raw side of midwinter, explore  
-**[Winter Solstice Witchcraft: Old European Magic & Rituals](/posts/2025-12-04-winter-solstice-witchcraft/)**  
+**[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**  
 and  
-**[Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide](/posts/2025-12-04-solstice-spirits-wild-hunt/)**.
+**[Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide](/solstice-spirits-wild-hunt/)**.
 
 ---
 
