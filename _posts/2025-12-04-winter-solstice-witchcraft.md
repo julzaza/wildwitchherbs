@@ -50,6 +50,7 @@ It was the **renewal of the world**. It marked the opening of **[The Twelve Nigh
 
 ## Why the Solstice Matters in Old European Witchcraft
 
+In Alpine villages, the solstice focused on the Wild Hunt; in the Baltic north, it centered on ancestral feasts; in Slavic regions, household spirits and kitchen omens dominated the night.
 Across northern Europe—from the Alps to the Baltic, from the Germanic forests to the Slavic steppes—midwinter was understood as:
 
 - **the boundary between worlds**  
@@ -58,7 +59,7 @@ Across northern Europe—from the Alps to the Baltic, from the Germanic forests 
 - **a night of heightened prophecy**  
 - **a season of sacred danger**
 
-These beliefs echo deep Indo-European solar rites, where fire, evergreens, and ancestor offerings “held the sun” through **the year’s darkest point**.
+These beliefs echo deep Indo-European solar rites, where fire, evergreens, and ancestor offerings “held the sun” through **the year’s darkest point**. These practices survive in Alpine folktales, Baltic winter rites, Germanic midwinter customs, and Slavic household magic. Much of what we know comes from ethnographers of the 19th–20th centuries who recorded rural winter beliefs before they disappeared.
 
 Witches didn’t resist the dark.  
 They **worked within it**, shaping luck, protection, and rebirth.
