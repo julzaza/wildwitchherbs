@@ -40,9 +40,7 @@ faqs:
 
 In Old Europe, the weeks around the solstice were considered spiritually porous. The dead roamed. The Wild Hunt crossed the sky. **Witches, farmers, cunning folk, and ordinary households braced themselves for a landscape where time thinned and spirits walked freely.**
 
-For more winter liminality lore, see: [The Twelve Nights: Old European Witchcraft Between Christmas and Epiphany](/twelve-nights-witchcraft/).
-
-In these nights—before Christmas existed, before the church reshaped the calendar—people buried, hung, and hid witch bottles. These were not Victorian curiosities but apotropaic engines meant to bite back at whatever prowled in the dark.
+In these nights—**before Christmas existed**, before the church reshaped the calendar—people buried, hung, and hid witch bottles. These were not Victorian curiosities but apotropaic engines meant to bite back at whatever prowled in the dark.
 
 A winter witch bottle was a counterspell in glass or clay, built from the ordinary tools of a household and designed to protect doorways, beds, fields, children, and livestock.
 
@@ -140,3 +138,4 @@ A winter bottle does what the old ones did:
 
 - Learn what the future holds through [Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)
 - And what witches were actually brewing in their kitchens: [The Witch’s Midwinter Kitchen: Folk Food Magic & Rituals](/midwinter-kitchen-witchcraft/).
+- For more winter liminality lore, see: [The Twelve Nights: Old European Witchcraft Between Christmas and Epiphany](/twelve-nights-witchcraft/).
