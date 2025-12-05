@@ -135,6 +135,7 @@ Through bread, honey, seeds, and smoke, the household tied itself to life, warmt
 
 ## For Further Winter Solstice Practices, See: 
 
-**[Old European Yule Rituals: Wolves, Mistletoe & Midwinter Lore](/oldest-yule-rituals)** for protective rites and ancestral spirits, and **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft)** for the broader solstice context.
+- **[Old European Yule Rituals: Wolves, Mistletoe & Midwinter Lore](/oldest-yule-rituals)** for protective rites and ancestral spirits.
+- **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft)** for the broader solstice context.
 
 ---
