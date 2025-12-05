@@ -136,6 +136,11 @@ A winter bottle does what the old ones did:
 
 ## Want More Winter Solstice Magic?
 
-- Learn what the future holds through [Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)
-- And what witches were actually brewing in their kitchens: [The Witch’s Midwinter Kitchen: Folk Food Magic & Rituals](/midwinter-kitchen-witchcraft/).
-- For more winter liminality lore, see: [The Twelve Nights: Old European Witchcraft Between Christmas and Epiphany](/twelve-nights-witchcraft/).
+- **[Old European Yule Rituals](/oldest-yule-rituals/)**
+- **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
+- **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
+- **[The Twelve Nights](/twelve-nights-witchcraft)**  
+- **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**
+- **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**
+- **[Evergreen Magic Before Christmas](/evergreens-witchcraft)**
+---
