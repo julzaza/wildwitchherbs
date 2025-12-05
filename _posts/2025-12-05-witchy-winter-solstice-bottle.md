@@ -143,4 +143,5 @@ A winter bottle does what the old ones did:
 - **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**
 - **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**
 - **[Evergreen Magic Before Christmas](/evergreens-witchcraft)**
+
 ---
