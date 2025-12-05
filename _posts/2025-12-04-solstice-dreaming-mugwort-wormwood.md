@@ -130,7 +130,7 @@ Record literal details first; the old readers then located symbolic corresponden
 ## For More Winter Solstice Magic: 
 
 -  [Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide](/solstice-spirits-wild-hunt/) — learn how the Host shapes the night.    
--  [Old European Yule Rituals](/yule-rituals-wolves-mistletoe/) — apotropaic containers for midwinter wards.  
+-  [Old European Yule Rituals](/oldest-yule-rituals/) — apotropaic containers for midwinter wards.  
 -  [Evergreen Magic Before Christmas](/evergreens-witchcraft/) — how forest green held the year together.
 
 ---
