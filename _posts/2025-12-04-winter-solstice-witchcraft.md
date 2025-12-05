@@ -217,8 +217,7 @@ Traditional divination included:
 - dream prophecy enhanced by herbs  
 
 These omens shaped marriages, travel, planting, and spiritual work for the coming year.  
-Some families kept a little notebook of their solstice dreams.
-You might be interested in [Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/). This guide will take your witchy dreams to the next level. 
+Some families kept a little notebook of their solstice dreams. 
 
 ---
 
