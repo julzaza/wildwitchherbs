@@ -105,7 +105,7 @@ Witches read:
 
 For advanced dream techniques and prophetic herbs,  
 see  
-[**Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights**](/2025-12-04-solstice-dreaming-mugwort-wormwood/).
+[**Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights**](/solstice-dreaming-mugwort-wormwood/).
 
 ---
 
@@ -116,7 +116,7 @@ Burned to protect sleepers from wandering dead.
 
 ### **Mistletoe**
 A lightning-born ward explored further in  
-[**Oldest Yule Rituals**](/2025-12-04-oldest-yule-rituals/).
+[**Oldest Yule Rituals**](/oldest-yule-rituals/).
 
 ### **Angelica**
 Purifies boundaries around hearth and home.
