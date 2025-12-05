@@ -31,7 +31,7 @@ tags: [mugwort, wormwood, solstice, dreaming-magic, prophecy, winter-protection-
 }
 </script>
 
-# Winter Solstice: the Night of Prophecy
+# The Night of Prophecy
 
 The winter solstice is not merely the longest night of the year—  
 it is **the oldest dreaming night** in the Old European witch’s calendar.
