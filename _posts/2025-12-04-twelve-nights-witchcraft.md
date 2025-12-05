@@ -116,8 +116,7 @@ Burned each night to cleanse rooms.
 Small crosses for cattle and doorways.
 
 ### **Evergreen Branches**
-Used to keep spirits away and life-energy within—  
-a practice explored deeply in [**How Witches Used Evergreens Before Christmas Existed**](/evergreens-witchcraft/).
+Used to keep spirits away and life-energy within— a practice explored deeply in [**How Witches Used Evergreens Before Christmas Existed**](/evergreens-witchcraft/).
 
 ---
 
