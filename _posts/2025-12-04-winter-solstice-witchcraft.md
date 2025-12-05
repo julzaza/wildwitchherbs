@@ -40,12 +40,11 @@ faq:
 
 The winter solstice is the pivot of Old European witchcraft—  
 the hinge on which the year turns,  
-the night when the dead move freely,  
-and the sun itself appears to stop in the sky.
+the night when the **dead move freely**,  
+and the **sun itself appears to stop** in the sky.
 
 To the cunning folk, Alpine herb-wives, Baltic seers, and Slavic domovoi-keepers, this was not merely a dark night.  
 It was the **renewal of the world**.  
-People could feel it in the cold air; some said it almost hummed.
 
 ---
 
@@ -59,7 +58,7 @@ Across northern Europe—from the Alps to the Baltic, from the Germanic forests 
 - **a night of heightened prophecy**  
 - **a season of sacred danger**
 
-These beliefs weren’t abstract. They came from lived winters—long nights where the fire popped like bones and everyone knew the world felt thinner.
+These beliefs echo deep Indo-European solar rites, where fire, evergreens, and ancestor offerings “held the sun” through the year’s darkest point.
 
 Witches didn’t resist the dark.  
 They **worked within it**, shaping luck, protection, and rebirth.
