@@ -250,7 +250,7 @@ Let it remain until the first signs of spring, when it can be buried respectfull
 
 ---
 
-## Winter Solstice Magic
+## More Winter Solstice Magic
 
 To deepen your solstice practice, explore **[Oldest Yule Rituals](/oldest-yule-rituals/)**.
 
