@@ -38,6 +38,7 @@ faq:
 In Old European homes, midwinter magic was nurtured at the hearth and stirred in the kitchen. **The fire burned like a heartbeat, defying the frost and darkness outside**. During the **[The Twelve Nights](/twelve-nights-witchcraft/)**—those liminal days from the solstice to early January—the kitchen became a sanctuary of old magic. 
 
 Here, bread, honey, seeds, and smoke were more than food; they were spells, offerings, and protective charms, guiding families through the coldest, darkest nights of the year.
+
 ---
 
 ## Honey: Sunlight Stored in a Jar
