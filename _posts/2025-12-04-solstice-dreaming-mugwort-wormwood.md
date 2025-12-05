@@ -44,7 +44,7 @@ Before Christian calendars and later divination systems, people believed that on
 
 Dreams on the solstice were treated as **direct messages**—ancestral counsel, warnings, or instructions for the coming year. Witches did not wait for dreams to happen; they prepared for them with herbs, rites, and careful intention. Two plants stand out across the sources: **mugwort** and **wormwood**—the opener and the revealer of visions.
 
-For wider context on how these rituals fit into Old European practice, see the master hub **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**.
+For wider context on how these rituals fit into Old European practice, see **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**.
 
 ---
 
