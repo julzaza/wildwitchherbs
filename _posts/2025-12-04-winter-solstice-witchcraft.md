@@ -92,7 +92,7 @@ This temporal stillness is why the solstice became the gateway into:
 
 ### **The Wild Hunt**
 A storm of spirits sweeping across the sky, led by Wodan, Frau Holle, Perchta, or the ancestral dead.  
-Explore the story of: **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**.
+Explore the story of the **[Ancestral Riders of the Longest Night](/solstice-spirits-wild-hunt)**.
 
 ### **Ancestors**
 Across Scandinavia and the Balkans, the dead were believed to revisit their kin.  
