@@ -131,8 +131,10 @@ This was the witchcraft of survival—humble ingredients transformed into protec
 While the forest slept and the spirits roamed, the kitchen held the flame.  
 Through bread, honey, seeds, and smoke, the household tied itself to life, warmth, and the returning sun.
 
-For further winter practices, see: **[Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide](/solstice-spirits-wild-hunt)**.
-See also: **[Old European Yule Rituals: Wolves, Mistletoe & Midwinter Lore](/oldest-yule-rituals)** for protective rites and ancestral spirits, and **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft)** for the broader solstice context.
+---
 
-Related posts include: [Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/), [Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide](/solstice-spirits-wild-hunt/), [Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/), and [How Witches Used Evergreen Trees Before Christmas Existed](/evergreens-witchcraft/)."
+## For Further Winter Solstice Practices, See: 
 
+**[Old European Yule Rituals: Wolves, Mistletoe & Midwinter Lore](/oldest-yule-rituals)** for protective rites and ancestral spirits, and **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft)** for the broader solstice context.
+
+---
