@@ -20,8 +20,6 @@ schema:
   "keywords": "Twelve nights folklore, Yuletide witchcraft, Perchta, European solstice magic, winter rituals, Christmas to Epiphany traditions"
 ---
 
-# The Twelve Nights: Old European Witchcraft Between Christmas and Epiphany
-
 The solstice sun returns only by a thread.  
 And in the dim days that follow,  
 twelve nights unfold—  
