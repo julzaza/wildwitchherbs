@@ -237,8 +237,8 @@ It is a **threshold**, a night of realignment, a return to the oldest rhythms.
 ## Explore the Full Solstice Series:
 
 - **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**
-- **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
 - **[Old European Yule Rituals](/oldest-yule-rituals/)**
+- **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
 - **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
 - **[The Twelve Nights](/twelve-nights-witchcraft)**  
 - **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**  
