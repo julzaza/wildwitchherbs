@@ -244,7 +244,7 @@ Explore the full Solstice Series:
 
 - **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
 - **[The Twelve Nights](/twelve-nights-witchcraft)**  
-- **[Winter Protection Herbs](/winter-protection-herbs)**  
+- **[Winter Protection Herbs](/winter-herbal-remedies-cold-prevention)**  
 - **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**  
 - **[Evergreen Magic Before Christmas](/evergreens-witchcraft)**
 
