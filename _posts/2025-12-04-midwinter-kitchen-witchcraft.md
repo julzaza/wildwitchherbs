@@ -1,5 +1,5 @@
 ---
-title: "The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights"
+title: "The Witch’s Midwinter Kitchen: Folk Food Magic & Rituals"
 permalink: /midwinter-kitchen-witchcraft/
 layout: single
 author: Wild Witch Herbs
