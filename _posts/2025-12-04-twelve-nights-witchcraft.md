@@ -28,8 +28,7 @@ when the roads belong to spirits,
 the dead move openly,  
 and witches lean closer to the veil.
 
-The Twelve Nights begin where  
-[**Winter Solstice Witchcraft: Old European Magic & Rituals**](/winter-solstice-witchcraft/) leaves off: after the rebirth of the sun, but before the world becomes safe again.
+The Twelve Nights begin where [**Winter Solstice Witchcraft: Old European Magic & Rituals**](/winter-solstice-witchcraft/) leaves off: after the rebirth of the sun, but before the world becomes safe again.
 
 Across Old Europe, from the Alps to the Baltic, these nights were feared and revered.  
 They were not days meant for humans.  
