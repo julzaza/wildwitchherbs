@@ -1,6 +1,5 @@
 ---
 title: "Old European Yule Rituals: Wolves, Mistletoe & Midwinter Lore"
-permalink: /yule-rituals-wolves-mistletoe/
 layout: single
 author: Wild Witch Herbs
 description: "A deep historical dive into forgotten Yule traditions—wolf rites, mistletoe magic, solstice spirits, and the raw midwinter practices of pre-Christian Europe."
