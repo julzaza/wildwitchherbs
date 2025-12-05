@@ -50,8 +50,7 @@ It was the **renewal of the world**. It marked the opening of **[The Twelve Nigh
 
 ## Why the Solstice Matters in Old European Witchcraft
 
-In Alpine villages, the solstice focused on the Wild Hunt; in the Baltic north, it centered on ancestral feasts; in Slavic regions, household spirits and kitchen omens dominated the night.
-Across northern Europe—from the Alps to the Baltic, from the Germanic forests to the Slavic steppes—midwinter was understood as:
+In Alpine villages, the solstice focused on the Wild Hunt; in the Baltic north, it centered on ancestral feasts; in Slavic regions, household spirits and kitchen omens dominated the night. Midwinter was understood as:
 
 - **the boundary between worlds**  
 - **the sun’s “death and return”**  
