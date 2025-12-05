@@ -249,9 +249,9 @@ Not exactly—Yule is a later Germanic festival layered over older solstice rite
 ### **Did witches historically practice solstice rituals?**  
 Yes—many documented Alpine, Slavic, Germanic, and Baltic traditions involve midwinter rites.
 
-### **Which herbs are best?**  
-Juniper, mugwort, wormwood, yew, holly, ivy, pine, and oak. You can explore evergreen lore in **[Evergreen Magic](/evergreens-witchcraft)**.
-.
+### **What role did kitchen witchcraft play at the winter solstice?**
+The solstice season involved protective foods, blessed ingredients, and hearth rituals meant to shield the home through the dark. These practices are detailed in **[The Witch’s Midwinter Kitchen](/midwinter-kitchen-witchcraft/)**.
+
 ### **What is the spiritual meaning?**  
 Rebirth, protection, ancestral presence, and the return of light.
 
