@@ -41,8 +41,6 @@ For deeper context on how witches saw midwinter, see **[Winter Solstice Witchcra
 
 Long before Christmas traditions were born, centuries before the word *Yule* entered English, evergreens were carried, burned, buried, carved, and used in spells across the continent. They were not festive decorations.
 
-They were **protection**, **boundary**, **medicine**, and **magic**.
-
 This is the story of how witches used evergreen trees before Christmas ever existed.
 
 ---
@@ -52,8 +50,7 @@ This is the story of how witches used evergreen trees before Christmas ever exis
 In pre-Christian Europe, winter belonged to the dead. The fields slept. The sun retreated.  
 Nothing green survived—except evergreens.
 
-For witches, this was significant:  
-**a tree that could defy winter could also defy spirits winter carried.**
+For witches, this was significant: **a tree that could defy winter could also defy spirits winter carried.**
 
 Evergreens were believed to guard against:
 
@@ -62,7 +59,9 @@ Evergreens were believed to guard against:
 - Misfortune entering through doors or windows  
 - The “winter winds”—malevolent breaths of unseen beings  
 
-In Slavic and Balkan folklore, evergreen branches hung above doors stopped ghosts, witches, and the wind-borne dead. In the Alps, they protected barns and livestock. In Scandinavia, they marked graves to stabilize borders between realms.
+In Slavic and Balkan folklore, evergreen branches hung above doors stopped ghosts, witches, and the wind-borne dead. 
+In the Alps, they protected barns and livestock. 
+In Scandinavia, they marked graves to stabilize borders between realms.
 
 If you want to explore how the dead move through winter, read **[Solstice Spirits & the Wild Hunt](/solstice-spirits-wild-hunt/)**.
 
@@ -98,7 +97,8 @@ Juniper is winter’s spear.
 
 Before the decorative wreath existed, evergreens were hung over doors because **thresholds were where spirits entered**.
 
-In Norse houses, spirits were confused by pine boughs because they “counted leaves” and lost track of where humans lived. In Slavic villages, juniper and pine were hung together to block the dead during the solstice—“when the doors between worlds stood loosely.”  
+In Norse houses, spirits were confused by pine boughs because they “counted leaves” and lost track of where humans lived. 
+In Slavic villages, juniper and pine were hung together to block the dead during the solstice—“when the doors between worlds stood loosely.”  
 
 For more Twelve Nights lore, see **[Twelve Nights Witchcraft](/twelve-nights-witchcraft/)**.
 
@@ -124,9 +124,7 @@ Evergreens nourished the ancestral realm.
 
 ## Spirits of the Green World: House Guardians
 
-In Baltic, Finnish, and Slavic traditions, evergreens held indwelling spirits—protectors of weather, livestock, and hearth. Witches left offerings at the roots: bread, mead, hair, coins, herbs.
-
-This practice is the ancestor of the Christmas tree.
+In Baltic, Finnish, and Slavic traditions, evergreens held indwelling spirits—protectors of weather, livestock, and hearth. Witches left offerings at the roots: bread, mead, hair, coins, herbs. This practice is actually the ancestor of the Christmas tree.
 
 ---
 
