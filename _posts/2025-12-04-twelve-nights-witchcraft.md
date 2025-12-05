@@ -49,8 +49,7 @@ Into that gap moved:
 - the Wild Hunt  
 - witches and night-walkers  
 
-These Twelve Nights were a continuation of the forces unleashed during [**Solstice Spirits & the Wild Hunt**](/solstice-spirits-wild-hunt/),  
-only quieter… and closer.
+These Twelve Nights were a continuation of the forces unleashed during [**Solstice Spirits & the Wild Hunt**](/solstice-spirits-wild-hunt/), only quieter… and closer.
 
 ---
 
@@ -58,8 +57,7 @@ only quieter… and closer.
 
 ### **Perchta / Berchta**
 The veiled winter goddess of order and fate.  
-She punished unfinished work, rewarded the diligent,  
-and despised chaos during her sacred nights.
+She punished unfinished work, rewarded the diligent, and despised chaos during her sacred nights.
 
 ### **The Wild Host**
 The Hunt roamed all Twelve Nights,  
@@ -87,9 +85,7 @@ Recorded across Germanic, Slavic, and Alpine regions:
 
 ## Divination During the Twelve Nights
 
-Each night foretold one month of the coming year.
-
-Witches read:
+Each night foretold one month of the coming year witches read:
 
 - smoke twists  
 - wind direction  
@@ -98,8 +94,7 @@ Witches read:
 - patterns in ashes  
 - dreams thick with omen  
 
-For advanced dream techniques and prophetic herbs,  
-see [**Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights**](/solstice-dreaming-mugwort-wormwood/).
+For advanced dream techniques and prophetic herbs, see [**Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights**](/solstice-dreaming-mugwort-wormwood/).
 
 ---
 
