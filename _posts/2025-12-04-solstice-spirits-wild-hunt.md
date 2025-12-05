@@ -210,7 +210,7 @@ protected, sharpened, and unshaken.
 
 Explore the full Solstice Series:
 
-- **[The Twelve Nights](/twelve-nights-witchcraft)**  
-- **[Winter Protection Herbs](/winter-herbal-remedies-cold-prevention)**  
+- **[The Twelve Nights: Witchcraft between Christmas and Epiphany](/twelve-nights-witchcraft)**  
+- **[Winter Protection Herbs: Remedies for the Cold Season](/winter-herbal-remedies-cold-prevention)**  
 - **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**  
-- **[Evergreen Magic Before Christmas](/evergreens-witchcraft)**
+- **[Evergreen Trees Magic Before Christmas Existed](/evergreens-witchcraft)**
