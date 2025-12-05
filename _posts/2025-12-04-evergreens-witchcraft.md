@@ -6,7 +6,6 @@ excerpt: "Long before Christmas, witches used pine, fir, and juniper for thresho
 author: Wild Witch Herbs
 categories: [folklore-ancestral]
 tags: [evergreen magic, winter solstice, witchcraft history, folklore, pine, fir, juniper, protection magic, pre-christian rituals]
-image: /assets/images/evergreen-witchcraft.jpg
 
 schema:
   "@context": "https://schema.org"
@@ -121,11 +120,11 @@ Before Christmas trees, before wreaths as decorations, evergreens were hung over
 
 Every pre-Christian witchcraft tradition in Europe acknowledged this.
 
-In Old Norse houses, fir and pine boughs were laid across the top of door frames to confuse spirits who “counted leaves” and lost track of where the living dwelled.
+In Old Norse houses, fir and pine boughs were **laid across the top of door frames to confuse spirits who “counted leaves”** and lost track of where the living dwelled.
 
-In Slavic villages, juniper and pine were hung together to block the dead during the solstice—when “the doors between worlds stood loosely.”
+In Slavic villages, **juniper and pine were hung together to block the dead during the solstice**—when “the doors between worlds stood loosely.”
 
-In the Carpathians, evergreen branches were tucked into rafters to keep witches and nocturnal beings from slipping through cracks during the Twelve Nights of Winter.
+In the Carpathians, evergreen branches were tucked into rafters **to keep witches and nocturnal beings from slipping through cracks during the Twelve Nights of Winter.**
 
 And in the British Isles, holly (another evergreen) was brought inside not as decoration, but as a **barrier plant**—the thorned guardian.
 
@@ -198,6 +197,7 @@ In Scandinavia, fir resin was mixed with tallow to create protective candles onl
 In the Celtic world, holly and ivy were twined together as a charm against misfortune.
 
 Winter tree magic was everywhere because winter death was everywhere.  
+
 The evergreen was the antidote.
 
 ---
@@ -250,7 +250,7 @@ Let it remain until the first signs of spring, when it can be buried respectfull
 
 ---
 
-## More Winter Solstice Magic
+## More Winter Solstice Magic:
 
 To deepen your solstice practice, explore **[Oldest Yule Rituals](/oldest-yule-rituals/)**.
 
