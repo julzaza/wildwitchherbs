@@ -44,7 +44,7 @@ the night when the **dead move freely**,
 and the **sun itself appears to stop** in the sky.
 
 To the cunning folk, Alpine herb-wives, Baltic seers, and Slavic domovoi-keepers, this was not merely a dark night.  
-It was the **renewal of the world**.  
+It was the **renewal of the world**. It marked the opening of **[The Twelve Nights](/twelve-nights-witchcraft)**, that strange season between Christmas and Epiphany when time loosens and spirits walk.
 
 ---
 
@@ -184,8 +184,6 @@ Dreams thicken.
 The Wild Hunt rides.  
 Spirits inspect homes.  
 People stayed quiet on certain nights, afraid to draw attention from whatever passed outside.
-
-Full story here: **[The Twelve Nights: Witchcraft Between Christmas and Epiphany](/twelve-nights-witchcraft)**.
 
 ---
 
