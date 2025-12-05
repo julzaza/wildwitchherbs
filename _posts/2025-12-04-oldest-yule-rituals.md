@@ -126,6 +126,18 @@ They were about **surviving winter**—the season when spirits walked freely, an
 
 ---
 
+## Explore The Winter Solstice Series:
+
+- **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**
+- **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
+- **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
+- **[The Twelve Nights](/twelve-nights-witchcraft)**  
+- **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**
+- **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**
+- **[Evergreen Magic Before Christmas](/evergreens-witchcraft)**
+
+---
+
 ## FAQ: Yule Magic, Folklore & Witchcraft
 
 **What is the difference between Yule and Christmas?**  
