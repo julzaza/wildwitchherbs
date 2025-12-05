@@ -42,7 +42,7 @@ In Old Europe, the weeks around the solstice were considered spiritually porous.
 
 In these nights—**before Christmas existed**, before the church reshaped the calendar—people buried, hung, and hid witch bottles. These were not Victorian curiosities but **apotropaic engines** meant to bite back at whatever prowled in the dark.
 
-A winter witch bottle was a counterspell in glass or clay, built from the ordinary tools of a household and designed to protect doorways, beds, fields, children, and livestock.
+A winter witch bottle was a counterspell in glass or clay, built from the ordinary tools of a household and **designed to protect doorways, beds, fields, children, and livestock.**
 
 ---
 
