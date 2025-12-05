@@ -40,7 +40,7 @@ Long before Christmas traditions were born, centuries before the word *Yule* ent
 
 This is the story of how witches used evergreen trees before Christmas ever existed.
 
-For deeper context on how witches saw midwinter, see **[Winter Solstice Witchcraft: Old European Rituals & Night-Magic](/winter-solstice-witchcraft/)**.
+For deeper context on how witches saw midwinter, see **[Winter Solstice Rituals & Night-Magic](/winter-solstice-witchcraft/)**.
 
 ---
 
@@ -62,7 +62,7 @@ In Slavic and Balkan folklore, evergreen branches hung above doors stopped ghost
 In the Alps, they protected barns and livestock. 
 In Scandinavia, they marked graves to stabilize borders between realms.
 
-If you want to explore how the dead move through winter, read **[Solstice Spirits & the Wild Hunt](/solstice-spirits-wild-hunt/)**.
+If you want to explore how the dead move through winter, read **[The Wild Hunt Folklore](/solstice-spirits-wild-hunt/)**.
 
 **The evergreen was a magical shield.**
 
@@ -255,12 +255,14 @@ Let it remain until the first signs of spring, when it can be buried respectfull
 
 ---
 
-## More Winter Solstice Magic:
+## Explore the Full Solstice Series:
 
-To deepen your solstice practice, explore **[Oldest Yule Rituals](/oldest-yule-rituals/)**.
-
-For prophetic and dreaming work, see **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)**.
-
-To understand how food and offerings blend into winter ritual, see **[Midwinter Kitchen Witchcraft](/midwinter-kitchen-witchcraft/)**.
+- **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**
+- **[Old European Yule Rituals](/oldest-yule-rituals/)**
+- **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
+- **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
+- **[The Twelve Nights](/twelve-nights-witchcraft)**  
+- **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**
+- **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**
 
 ---
