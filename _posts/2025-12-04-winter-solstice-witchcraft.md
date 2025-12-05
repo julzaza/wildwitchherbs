@@ -226,9 +226,7 @@ You might be interested in [Solstice Dreaming: Mugwort, Wormwood & Prophetic Nig
 
 ## The Solstice Is a Beginning
 
-The winter solstice marks the invisible turning—  
-the axis at which the old world dies  
-and the new world quietly begins.
+The winter solstice marks the invisible turning— the axis at which the old world dies and the new world quietly begins.
 
 It is a **threshold**, a night of realignment, a return to the oldest rhythms.
 
