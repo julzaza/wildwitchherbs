@@ -29,7 +29,7 @@ the dead move openly,
 and witches lean closer to the veil.
 
 The Twelve Nights begin where  
-[**Winter Solstice Witchcraft: Old European Magic & Rituals**](/2025-12-04-winter-solstice-witchcraft/)  
+[**Winter Solstice Witchcraft: Old European Magic & Rituals**](/winter-solstice-witchcraft/)  
 leaves off:  
 after the rebirth of the sun,  
 but before the world becomes safe again.
@@ -54,7 +54,7 @@ Into that gap moved:
 - witches and night-walkers  
 
 These Twelve Nights were a continuation of the forces unleashed during  
-[**Solstice Spirits & the Wild Hunt**](/2025-12-04-solstice-spirits-wild-hunt/),  
+[**Solstice Spirits & the Wild Hunt**](solstice-spirits-wild-hunt/),  
 only quieter… and closer.
 
 ---
@@ -71,13 +71,9 @@ The Hunt roamed all Twelve Nights,
 its riders inspecting the living,  
 its winds carrying omens.
 
-This echoes the lore explored in the solstice-Hunt guide:  
-[**Solstice Spirits & the Wild Hunt**](/2025-12-04-solstice-spirits-wild-hunt/).
-
 ### **House Spirits**
 Kobolds, domovoi, brownies, hearth-spirits—  
-fed with bread, butter, milk, or crumbs from the  
-[**Midwinter Kitchen**](/2025-12-04-midwinter-kitchen-witchcraft/) offerings.
+fed with bread, butter, milk, or crumbs from the offerings.
 
 ---
 
@@ -91,9 +87,6 @@ Recorded across Germanic, Slavic, and Alpine regions:
 - **No lending fire** — giving away fortune.  
 - **No long travels** — roads belong to spirits.  
 - **Cover windows** — the dead should not look inside.
-
-These mirror the winter-taboos also found in  
-[**Oldest Yule Rituals: Wolves, Mistletoe & Midwinter Lore**](/2025-12-04-oldest-yule-rituals/).
 
 ---
 
