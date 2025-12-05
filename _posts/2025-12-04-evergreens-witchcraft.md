@@ -37,8 +37,7 @@ faq:
 
 Modern people tend to imagine the evergreen tree as the Christmas tree—domestic, decorated, and wrapped in lights. But the evergreen was revered long before Christianity touched Europe. It was **the witch’s winter tree**, a symbol of defiance against death, a living spine of green standing in a world of white bone and silence.
 
-For deeper context on how witches saw midwinter, see  
-**[Winter Solstice Witchcraft: Old European Rituals & Night-Magic](/winter-solstice-witchcraft/)**.
+For deeper context on how witches saw midwinter, see **[Winter Solstice Witchcraft: Old European Rituals & Night-Magic](/winter-solstice-witchcraft/)**.
 
 Long before Christmas traditions were born, centuries before the word *Yule* entered English, evergreens were carried, burned, buried, carved, and used in spells across the continent. They were not festive decorations.
 
@@ -76,8 +75,7 @@ The evergreen was a magical shield.
 ### Pine: Breath of the Winter Forest
 Pine was potent for cleansing and vitality. Pine smoke was used to drive out sickness, break winter curses, and guard travelers. Some say pine carried the breath of the sun-fed green world itself.
 
-For prophetic and dreaming work with pine, see  
-**[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)**.
+For prophetic and dreaming work with pine, see **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)**.
 
 ### Fir: The Silent Guardian
 Fir embodied **watchfulness**. Witches used fir branches in bundles, under cradles, and in dream-sachets for prophetic winter sleep. Fir wood charms were carved to guard against the Wild Hunt.
@@ -102,8 +100,7 @@ Before the decorative wreath existed, evergreens were hung over doors because **
 
 In Norse houses, spirits were confused by pine boughs because they “counted leaves” and lost track of where humans lived. In Slavic villages, juniper and pine were hung together to block the dead during the solstice—“when the doors between worlds stood loosely.”  
 
-For more Twelve Nights lore, see  
-**[Twelve Nights Witchcraft](/twelve-nights-witchcraft/)**.
+For more Twelve Nights lore, see **[Twelve Nights Witchcraft](/twelve-nights-witchcraft/)**.
 
 Holly, another evergreen, served as a thorn-guardian long before it became a Christmas symbol.
 
@@ -119,8 +116,7 @@ Evergreen offerings were laid on graves as gifts of life-force. Witches placed:
 - Juniper berries at crossroads  
 - Pine cones on ancestor altars  
 
-To understand how food and offerings blend into winter ritual, see  
-**[Midwinter Kitchen Witchcraft](/midwinter-kitchen-witchcraft/)**.
+To understand how food and offerings blend into winter ritual, see **[Midwinter Kitchen Witchcraft](/midwinter-kitchen-witchcraft/)**.
 
 Evergreens nourished the ancestral realm.
 
@@ -140,8 +136,7 @@ The solstice was the hinge between death and rebirth, and the evergreen was proo
 
 Evergreens were used to call back the sun, ward off misfortune, cleanse the air, and prophesy the coming year. Fir resin candles were burned only on solstice nights.
 
-To deepen your solstice practice, explore  
-**[Oldest Yule Rituals](/oldest-yule-rituals/)**.
+To deepen your solstice practice, explore **[Oldest Yule Rituals](/oldest-yule-rituals/)**.
 
 ---
 
@@ -154,7 +149,6 @@ To deepen your solstice practice, explore
 - Candle  
 
 ### The Work
-(Original text preserved, only formatting refined.)
 
 1. **Cleanse**  
    Touch the evergreen to your chest three times.  
@@ -177,5 +171,3 @@ To deepen your solstice practice, explore
    The oldest use of winter evergreens.
 
 ---
-
-If you want the next post in the solstice evergreen cluster, I can write it now.
