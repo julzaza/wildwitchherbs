@@ -88,7 +88,7 @@ These ingredients appear repeatedly in ethnographic collections from Germany, Sl
 
 **Salt** – “Winter sun in the earth” according to Croatian folk speech.  
 
-**Eggshell shard**s – Fragments that confuse malevolent beings (they count them compulsively).  
+**Eggshell shards** – Fragments that confuse malevolent beings (they count them compulsively).  
 
 **Silk thread or red wool** – A binding, especially powerful in December sanctified nights.
 
@@ -139,4 +139,5 @@ A winter bottle does what the old ones did:
 
 ## Want More Winter Solstice Magic?
 
-Learn more about [Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/) and what witches were brewing in their kitchens: [The Witch’s Midwinter Kitchen: Folk Food Magic & Rituals](/midwinter-kitchen-witchcraft/).
+- Learn what the future holds through [Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)
+- And what witches were actually brewing in their kitchens: [The Witch’s Midwinter Kitchen: Folk Food Magic & Rituals](/midwinter-kitchen-witchcraft/).
