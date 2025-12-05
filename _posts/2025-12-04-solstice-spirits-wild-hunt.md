@@ -44,9 +44,9 @@ This is your guide to navigating that night with power and clarity.
 
 ---
 
-## The Wild Hunt Across Europe: Who Rides the Solstice Winds
+## The Hunt Across Europe: Who Rides the Solstice Winds
 
-The Hunt has many names and many faces:
+It has many names and many faces:
 
 - **Odin**, the One-Eyed Rider, in Norse lands  
 - **Frau Holle** or **Perchta** in Germanic regions  
