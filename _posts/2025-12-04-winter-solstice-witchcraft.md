@@ -250,8 +250,8 @@ Not exactly—Yule is a later Germanic festival layered over older solstice rite
 Yes—many documented Alpine, Slavic, Germanic, and Baltic traditions involve midwinter rites.
 
 ### **Which herbs are best?**  
-Juniper, mugwort, wormwood, yew, holly, ivy, pine, and oak.
-
+Juniper, mugwort, wormwood, yew, holly, ivy, pine, and oak. You can explore evergreen lore in **[Evergreen Magic Before Christmas Even Existed](/evergreens-witchcraft)**.
+.
 ### **What is the spiritual meaning?**  
 Rebirth, protection, ancestral presence, and the return of light.
 
