@@ -183,6 +183,14 @@ Simple. Old. Effective.
 
 ---
 
+## Make Your Own Witch Bottle for the Solstice:
+During the Wild Hunt’s passage, people protected their homes with thorn bundles, iron charms, and hidden vessels meant to catch whatever prowled the night. The Old European Winter Witch Bottle was one of those vessels—built to say “Not this house.” If you want to work with authentic solstice-era counter-magic, this is where to begin.
+
+Read about the ritual and the ingredients you'll need:  
+**[The Witch’s Winter Bottle: Solstice Protection Magic](//witchy-winter-solstice-bottle/)**.
+
+---
+
 ## Why Witches Still Honor the Wild Hunt
 
 Because the Hunt is a reminder  
