@@ -126,8 +126,8 @@ Also used in **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)** to exp
 For banishing, winter divination, and ancestral contact.
 
 ### **Evergreens**
-Pine, fir, spruce, yew—  
-the forest’s immortal soul.
+Pine, fir, spruce, yew— the forest’s immortal soul.
+Evergreens carried the spirit of the living forest—and in some regions formed the base of protective charms like **[The Witch’s Winter Bottle](/witchy-winter-solstice-bottle/)**.
 
 ### **Holly & Ivy**
 British opposites—chaos/order, male/female, protective balance.
