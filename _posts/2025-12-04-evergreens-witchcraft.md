@@ -83,8 +83,6 @@ Pine was burned:
 
 Folk healers boiled pine needles to make a tonic for chest ailments, believing it carried the breath of the green world itself.
 
-The tree was a literal container of sun-fed vitality.
-
 ### Fir: The Silent Guardian
 Fir trees, with their tall, unmoving posture, were connected to **watchfulness**.
 
@@ -131,7 +129,7 @@ In the Carpathians, evergreen branches were tucked into rafters to keep witches 
 
 And in the British Isles, holly (another evergreen) was brought inside not as decoration, but as a **barrier plant**—the thorned guardian.
 
-Before Christians placed evergreens in churches, witches placed evergreens on thresholds.
+**Before Christians placed evergreens in churches, witches placed evergreens on thresholds.**
 
 ---
 
@@ -170,8 +168,8 @@ In old Baltic, Finnish, and some Slavic traditions, witches left offerings at th
 - A coin  
 - A pinch of herbs  
 
-These offerings were not for gods—  
-they were for the tree-spirit itself.
+**These offerings were not for gods—  
+they were for the tree-spirit itself.**
 
 The belief was that the evergreen, because it stayed alive when other plants died back, could act as a guardian—watching over the homestead, influencing weather, and repelling harmful forces.
 
@@ -255,7 +253,9 @@ Let it remain until the first signs of spring, when it can be buried respectfull
 ## Winter Solstice Magic
 
 To deepen your solstice practice, explore **[Oldest Yule Rituals](/oldest-yule-rituals/)**.
+
 For prophetic and dreaming work, see **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)**.
+
 To understand how food and offerings blend into winter ritual, see **[Midwinter Kitchen Witchcraft](/midwinter-kitchen-witchcraft/)**.
 
 ---
