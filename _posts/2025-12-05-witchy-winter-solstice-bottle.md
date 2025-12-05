@@ -77,14 +77,21 @@ Not this house. Not tonight.
 
 These ingredients appear repeatedly in ethnographic collections from Germany, Slovenia, Poland, Romania, and the Baltic regions.
 
-Juniper – Burned to repel the returning dead during Rauhnächte.  
-Wormwood – Hung in barns to stop spirits from riding horses.  
-Holly – Used in British Isles threshold charms for midwinter.  
-Mistletoe – A pan-European guardian of liminal spaces.  
-Iron Nails – A trap for hostile spirits; a ban against witches.  
-Salt – “Winter sun in the earth” according to Croatian folk speech.  
-Eggshell shards – Fragments that confuse malevolent beings (they count them compulsively).  
-Silk thread or red wool – A binding, especially powerful in December sanctified nights.
+**Juniper** – Burned to repel the returning dead during Rauhnächte.  
+
+**Wormwood** – Hung in barns to stop spirits from riding horses.  
+
+**Holly** – Used in British Isles threshold charms for midwinter.  
+
+**Mistletoe** – A pan-European guardian of liminal spaces.  
+
+**Iron Nails** – A trap for hostile spirits; a ban against witches. 
+
+**Salt** – “Winter sun in the earth” according to Croatian folk speech.  
+
+**Eggshell shard**s – Fragments that confuse malevolent beings (they count them compulsively).  
+
+**Silk thread or red wool** – A binding, especially powerful in December sanctified nights.
 
 ---
 
