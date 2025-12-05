@@ -56,7 +56,7 @@ The darkest days demanded substances that were:
 
 1. Evergreen or death-defying  
 Juniper berries, fir needles, holly, mistletoe.  
-Check out: [How Witches Used Evergreen Trees Before Christmas Existed](/evergreens-witchcraft/).*
+Check out: [How Witches Used Evergreen Trees Before Christmas Existed](/evergreens-witchcraft/).
 
 2. Solar or heat-holding  
 Salt, embers, charcoal, dried wormwood, St. John’s Wort buds saved from summer.  
@@ -125,7 +125,6 @@ Wax is traditional. Resin is older.
 • Under the threshold  
 • Near the hearth  
 • Facing north  
----
 
 ## Why Winter Bottles Matter Now
 
