@@ -112,6 +112,14 @@ Witches used juniper smoke to:
 
 Juniper is winter’s spear—sharp, purifying, direct.
 
+### Make Your Own Solstice Protection
+
+Juniper, fir resin, pine needles, and holly all found their way into apotropaic charms. One of the strongest forms was the Winter Witch Bottle, a layered vessel of evergreen breath, iron, and solar herbs.
+
+Learn how to craft the traditional version: 
+
+**[The Witch’s Winter Bottle: Solstice Protection Magic](//witchy-winter-solstice-bottle/)**.
+
 ---
 
 ## Evergreens as Threshold Magic
