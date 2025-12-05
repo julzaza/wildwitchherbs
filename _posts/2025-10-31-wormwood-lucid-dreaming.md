@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Wormwood for Lucid Dreaming: Folklore, Rituals & Safety"
-permalink: /wormwood-and-lucid-dreaming/
+permalink: /wormwood-lucid-dreaming/
 excerpt: "Explore wormwood’s mystical role in lucid dreaming, its rich folklore, dangers, and two traditional dream tea rituals used by witches and wanderers of the unseen."
 description: "Discover the ancient connection between wormwood (Artemisia absinthium) and lucid dreaming. Learn its European folk magic, dream tea recipes, and guidance for safe, visionary sleep rituals."
 categories: [Herbal Magic, Dreamwork, Folk Lore]
