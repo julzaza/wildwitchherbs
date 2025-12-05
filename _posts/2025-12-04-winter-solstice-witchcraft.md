@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Winter Solstice Witchcraft: Old European Magic"
+title: "Winter Solstice Witchcraft: Old European Magic & Rituals"
 description: "A complete guide to Old European winter witchcraft, solstice folklore, ancestral spirits, herbal magic, and the traditions surrounding the longest night."
 excerpt: "Winter solstice magic, protective rites, and ancestral folklore behind the longest night."
 categories: [witchcraft-rituals, folklore-ancestral]
