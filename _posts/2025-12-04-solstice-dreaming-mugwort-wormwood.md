@@ -134,7 +134,7 @@ Wormwood kept the spirits off the animals, St. John’s Wort held the memory of 
 These same herbs were layered into the Winter Witch Bottle, a solstice charm crafted when the nights were longest and the world felt thinnest.
 
 Explore the full traditional recipe:  
-**[The Witch’s Winter Bottle: Solstice Protection Magic](//witchy-winter-solstice-bottle/)**.
+**[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**.
 
 ---
 
