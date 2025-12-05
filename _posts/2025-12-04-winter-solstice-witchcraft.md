@@ -215,7 +215,7 @@ These omens shaped marriages, travel, planting, and spiritual work for the comin
 
 ---
 
-## Solstice FAQ (SEO-Boosting)
+## Solstice FAQ 
 
 ### **Is the solstice the same as Yule?**  
 Not exactly—Yule is a later Germanic festival layered over older solstice rites.
