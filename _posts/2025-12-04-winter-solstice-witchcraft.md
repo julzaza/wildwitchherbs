@@ -104,7 +104,7 @@ the ones who stayed behind year-round—
 were fed bread, milk, or honey so they wouldn’t feel neglected.
 
 ### **Winter Goddesses**
-Holle, Perchta, Befana, Babushka.  
+Holle, Perchta, Befana, Baba Yaga.  
 Mothers, judges, guardians.  
 Some harsh, some generous.
 
@@ -113,14 +113,14 @@ Some harsh, some generous.
 ## Herbal Magic of the Solstice
 
 Midwinter herbs were **not symbolic**—they were spiritual and medicinal survival.  
-Anyone who has smelled juniper smoke in a cramped cottage knows how it fills the lungs, sharp and clean.
+Anyone who has smelled juniper smoke knows how it fills the lungs, sharp and clean.
 
 ### **Juniper**
 Burned every night from Solstice to Epiphany across much of Central Europe.
 
 ### **Mugwort**
 The witch’s dream herb—sharpening vision, intuition, and protection.  
-Used in: **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**.
+Also used in: **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**.
 
 ### **Wormwood**
 For banishing, winter divination, and ancestral contact.
@@ -185,7 +185,7 @@ The Wild Hunt rides.
 Spirits inspect homes.  
 People stayed quiet on certain nights, afraid to draw attention from whatever passed outside.
 
-Full guide: **[The Twelve Nights: Witchcraft Between Christmas and Epiphany](/twelve-nights-witchcraft)**.
+Full story here: **[The Twelve Nights: Witchcraft Between Christmas and Epiphany](/twelve-nights-witchcraft)**.
 
 ---
 
