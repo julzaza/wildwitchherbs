@@ -21,7 +21,7 @@ schema:
       "url": "/assets/images/logo.png"
 ---
 
-# A Witch’s Guide to Surviving the Longest Night
+# How to Survive the Longest Night
 
 Old Europe held one shared, bone-deep belief:  
 **the winter solstice belongs to the spirits who roam, and to the gods who lead them.**
@@ -114,9 +114,6 @@ Hung above the bed until Twelfth Night.
 ### 4. **Salt at the Four Corners**
 Salt fixes the living to the living world.  
 Scatter a pinch at each corner before midnight.
-
-For more protective plants, see  
-**[Top 10 Protective Herbs in Witchcraft](/protective-herbs-witchcraft/)**.
 
 ---
 
