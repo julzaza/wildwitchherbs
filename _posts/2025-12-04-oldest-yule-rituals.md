@@ -1,5 +1,5 @@
 ---
-title: "The Oldest Yule Rituals You’ve Never Heard Of: Wolves, Mistletoe, and Midwinter Spirits"
+title: "Old European Yule Rituals: Wolves, Mistletoe & Midwinter Lore"
 permalink: /yule-rituals-wolves-mistletoe/
 layout: single
 author: Wild Witch Herbs
