@@ -120,7 +120,7 @@ Burned every night from Solstice to Epiphany across much of Central Europe.
 
 ### **Mugwort**
 The witch’s dream herb—sharpening vision, intuition, and protection.  
-Also used in: **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**.
+Also used in **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)** to experience prophetic dreams. 
 
 ### **Wormwood**
 For banishing, winter divination, and ancestral contact.
