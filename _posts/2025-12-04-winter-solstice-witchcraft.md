@@ -121,8 +121,6 @@ For banishing, winter divination, and ancestral contact.
 ### **Evergreens**
 Pine, fir, spruce, yew—  
 the forest’s immortal soul.  
-See:  
-**[Evergreen Magic Before Christmas](/evergreens-witchcraft)**.
 
 ### **Holly & Ivy**
 British opposites—chaos/order, male/female, protective balance.
