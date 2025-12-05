@@ -65,7 +65,7 @@ In Scandinavia, they marked graves to stabilize borders between realms.
 
 If you want to explore how the dead move through winter, read **[Solstice Spirits & the Wild Hunt](/solstice-spirits-wild-hunt/)**.
 
-**The evergreen was a magical shield.
+**The evergreen was a magical shield.**
 
 ---
 
