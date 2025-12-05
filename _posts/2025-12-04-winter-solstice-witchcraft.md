@@ -170,7 +170,7 @@ Long before Christianity, witches used evergreens to:
 - protect children and livestock
 
 The Christmas tree is a late survival of this earlier magic.  
-Explore its roots in: **[Evergreen Magic Before Christmas](/evergreens-witchcraft)**.
+Explore its roots of **[Pre-Christian Evergreen Magic and Protection](/evergreens-witchcraft)**.
 
 ---
 
@@ -250,7 +250,7 @@ Not exactly—Yule is a later Germanic festival layered over older solstice rite
 Yes—many documented Alpine, Slavic, Germanic, and Baltic traditions involve midwinter rites.
 
 ### **Which herbs are best?**  
-Juniper, mugwort, wormwood, yew, holly, ivy, pine, and oak. You can explore evergreen lore in **[Evergreen Magic Before Christmas Even Existed](/evergreens-witchcraft)**.
+Juniper, mugwort, wormwood, yew, holly, ivy, pine, and oak. You can explore evergreen lore in **[Evergreen Magic](/evergreens-witchcraft)**.
 .
 ### **What is the spiritual meaning?**  
 Rebirth, protection, ancestral presence, and the return of light.
