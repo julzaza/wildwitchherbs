@@ -41,7 +41,7 @@ Here, bread, honey, seeds, and smoke were more than food; they were spells, offe
 
 ---
 
-## Honey: Sunlight Stored in a Jar
+## Honey: Sunlight in a Jar
 
 Honey was considered the **blood of summer**, carried into the dead of winter like a captured sunbeam. During the Twelve Nights, honey had three roles:
 
