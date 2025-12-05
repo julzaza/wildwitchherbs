@@ -67,8 +67,6 @@ Mugwort (Artemisia) is the continental dream herb. Ethnographies from Britain to
 
 Mugwort opens sight gently and protects the dreamer from hostile spirit intrusion. In many traditions the plant is **charged in summer** and deployed in winter when its visionary quality is believed strongest.
 
-See also: **[Top 10 Protective Herbs in Witchcraft](/protective-herbs-witchcraft/)** for companion plantwork.
-
 ---
 
 ## Wormwood — The Bitter Revealer
@@ -131,15 +129,13 @@ Record literal details first; the old readers then located symbolic corresponden
 
 ## For More Winter Solstice Magic: 
 
--  [Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/) 
--  [Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide](/solstice-wild-hunt/) — learn how the Host shapes the night.  
--  [Wormwood & Lucid Dreaming](/wormwood-lucid-dreaming/) — deeper dream-travel techniques.  
--  [Winter Witch Bottle: Protection Magic for Solstice](/winter-witch-bottle/) — apotropaic containers for midwinter wards.  
+-  [Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide](/solstice-spirits-wild-hunt/) — learn how the Host shapes the night.    
+-  [Old European Yule Rituals](/yule-rituals-wolves-mistletoe/) — apotropaic containers for midwinter wards.  
 -  [Evergreen Magic Before Christmas](/evergreens-witchcraft/) — how forest green held the year together.
 
 ---
 
-## Solstice FAQ (AI-friendly, concise answers)
+## Solstice FAQ 
 
 **Q: When is the best night to do solstice dreaming?**  
 A: The solstice night itself (around local midnight) is primary; nights in the Twelve-Night season remain potent.
