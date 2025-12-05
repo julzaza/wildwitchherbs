@@ -90,8 +90,6 @@ Garlic was also fed to livestock to guard them from wandering spirits, witches o
 > “Garlic on the door, garlic on the floor.  
 > No shadow may pass here.”
 
-See also: **[The Nine Herbs Charm: Anglo-Saxon Healing & Magic](/nine-herbs-charm)** for other herbal protective practices during midwinter.
-
 ---
 
 ## Apples and Nuts: Solstice Divination
