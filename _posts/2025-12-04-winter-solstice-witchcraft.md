@@ -250,7 +250,8 @@ Not exactly—Yule is a later Germanic festival layered over older solstice rite
 Yes—many documented Alpine, Slavic, Germanic, and Baltic traditions involve midwinter rites.
 
 ### **What role did kitchen witchcraft play at the winter solstice?**
-The solstice season involved protective foods, blessed ingredients, and hearth rituals meant to shield the home through the dark. These practices are detailed in **[The Witch’s Midwinter Kitchen](/midwinter-kitchen-witchcraft/)**.
+The solstice season involved protective foods, blessed ingredients, and hearth rituals meant to shield the home through the dark. 
+These practices are detailed in **[The Witch’s Midwinter Kitchen](/midwinter-kitchen-witchcraft/)**.
 
 ### **What is the spiritual meaning?**  
 Rebirth, protection, ancestral presence, and the return of light.
