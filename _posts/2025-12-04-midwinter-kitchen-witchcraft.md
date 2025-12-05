@@ -130,10 +130,14 @@ Through bread, honey, seeds, and smoke, the household tied itself to life, warmt
 
 ---
 
-## For Further Winter Solstice Practices, See: 
+## For Further Winter Solstice Witchcraft, See: 
 
-- **[Old European Yule Rituals: Wolves, Mistletoe & Midwinter Lore](/oldest-yule-rituals)** for protective rites and ancestral spirits.
+- **[Old European Yule Rituals](/oldest-yule-rituals)** for protective rites and ancestral spirits.
 - **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft)** for the broader solstice context.
 - **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood)** for dream-enhancing herbs often combined with kitchen magic.
+- **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**
+- **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
+- **[The Twelve Nights](/twelve-nights-witchcraft)**  
+- **[Evergreen Magic Before Christmas](/evergreens-witchcraft)**
 
 ---
