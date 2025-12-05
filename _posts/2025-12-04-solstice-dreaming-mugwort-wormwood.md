@@ -127,6 +127,15 @@ Record literal details first; the old readers then located symbolic corresponden
 
 ---
 
+## Make Your Own Winter Witch Bottle for Protection for the Solstice:
+
+Midwinter herbs carried a different weight: wormwood to keep spirits off the animals, St. John’s Wort to hold the memory of the summer sun, juniper to guard the thresholds. These same herbs were layered into the Winter Witch Bottle, a solstice charm crafted when the nights were longest and the world felt thinnest.
+
+Explore the full traditional recipe:  
+**[The Witch’s Winter Bottle: Solstice Protection Magic](//witchy-winter-solstice-bottle/)**.
+
+---
+
 ## For More Winter Solstice Magic: 
 
 -  [Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide](/solstice-spirits-wild-hunt/) — learn how the Host shapes the night.    
