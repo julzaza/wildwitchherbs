@@ -97,9 +97,7 @@ bread, milk, or honey.
 
 ### **Winter Goddesses**
 Holle, Perchta, Befana, Babushka.  
-Midwinter mothers, judges, and guardians.  
-Their deeper lore appears in:  
-**[The Twelve Nights](/twelve-nights-witchcraft)**.
+Midwinter mothers, judges, and guardians. 
 
 ---
 
