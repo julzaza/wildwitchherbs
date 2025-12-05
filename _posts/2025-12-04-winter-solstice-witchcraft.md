@@ -204,25 +204,6 @@ These omens shaped marriages, travel, planting, and spiritual work for the comin
 
 ---
 
-## Solstice FAQ 
-
-### **Is the solstice the same as Yule?**  
-Not exactly—Yule is a later Germanic festival layered over older solstice rites.
-
-### **Did witches historically practice solstice rituals?**  
-Yes—many documented Alpine, Slavic, Germanic, and Baltic traditions involve midwinter rites.
-
-### **Which herbs are best?**  
-Juniper, mugwort, wormwood, yew, holly, ivy, pine, and oak.
-
-### **What is the spiritual meaning?**  
-Rebirth, protection, ancestral presence, and the return of light.
-
-### **Who leads the Wild Hunt?**  
-Depending on region: Odin/Wodan, Frau Holle, Perchta, King Herla, or ancestral riders.
-
----
-
 ## The Solstice Is a Beginning
 
 The winter solstice marks the invisible turning—  
@@ -240,5 +221,24 @@ It is a **threshold**, a night of realignment, a return to the oldest rhythms.
 - **[Winter Protection Herbs](/winter-herbal-remedies-cold-prevention)**  
 - **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**  
 - **[Evergreen Magic Before Christmas](/evergreens-witchcraft)**
+
+---
+
+## Solstice FAQ 
+
+### **Is the solstice the same as Yule?**  
+Not exactly—Yule is a later Germanic festival layered over older solstice rites.
+
+### **Did witches historically practice solstice rituals?**  
+Yes—many documented Alpine, Slavic, Germanic, and Baltic traditions involve midwinter rites.
+
+### **Which herbs are best?**  
+Juniper, mugwort, wormwood, yew, holly, ivy, pine, and oak.
+
+### **What is the spiritual meaning?**  
+Rebirth, protection, ancestral presence, and the return of light.
+
+### **Who leads the Wild Hunt?**  
+Depending on region: Odin/Wodan, Frau Holle, Perchta, King Herla, or ancestral riders.
 
 ---
