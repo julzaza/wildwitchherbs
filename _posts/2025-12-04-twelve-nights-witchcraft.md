@@ -49,8 +49,7 @@ Into that gap moved:
 - the Wild Hunt  
 - witches and night-walkers  
 
-These Twelve Nights were a continuation of the forces unleashed during  
-[**Solstice Spirits & the Wild Hunt**](/solstice-spirits-wild-hunt/),  
+These Twelve Nights were a continuation of the forces unleashed during [**Solstice Spirits & the Wild Hunt**](/solstice-spirits-wild-hunt/),  
 only quieter… and closer.
 
 ---
@@ -100,8 +99,7 @@ Witches read:
 - dreams thick with omen  
 
 For advanced dream techniques and prophetic herbs,  
-see  
-[**Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights**](/solstice-dreaming-mugwort-wormwood/).
+see [**Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights**](/solstice-dreaming-mugwort-wormwood/).
 
 ---
 
@@ -111,8 +109,7 @@ see
 Burned to protect sleepers from wandering dead.
 
 ### **Mistletoe**
-A lightning-born ward explored further in  
-[**Oldest Yule Rituals**](/oldest-yule-rituals/).
+A lightning-born ward explored further in [**Oldest Yule Rituals**](/oldest-yule-rituals/).
 
 ### **Angelica**
 Purifies boundaries around hearth and home.
@@ -125,8 +122,7 @@ Small crosses for cattle and doorways.
 
 ### **Evergreen Branches**
 Used to keep spirits away and life-energy within—  
-a practice explored deeply in  
-[**How Witches Used Evergreens Before Christmas Existed**](/evergreens-witchcraft/).
+a practice explored deeply in [**How Witches Used Evergreens Before Christmas Existed**](/evergreens-witchcraft/).
 
 ---
 
@@ -145,8 +141,7 @@ Performed nightly after sunset:
 
 4. Sprinkle salt along windowsills and thresholds.
 
-Pair this with protective foods from  
-[**The Witch’s Midwinter Kitchen**](/midwinter-kitchen-witchcraft/).
+Pair this with protective foods from [**The Witch’s Midwinter Kitchen**](/midwinter-kitchen-witchcraft/).
 
 ---
 
