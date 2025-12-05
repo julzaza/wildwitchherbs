@@ -20,9 +20,7 @@ schema:
     name: "Wild Witch Herbs"
 ---
 
-# The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights
-
-In the old European imagination, **midwinter began in the kitchen**, not the forest.  
+In the old European imagination, **winter began in the kitchen**, not the forest.  
 The hearth was the heart of the household, the fire that refused to die even as everything outside froze. And during the **Twelve Nights**—those strange days between the solstice and early January—the kitchen became a place of magic, divination, offerings, and protection.
 
 This was not cuisine.  
