@@ -35,8 +35,6 @@ faq:
     answer: "See our related posts: Winter Solstice Witchcraft (/winter-solstice-witchcraft/), Solstice Spirits & the Wild Hunt (/solstice-spirits-wild-hunt/), Twelve Nights Witchcraft (/twelve-nights-witchcraft/), Solstice Dreaming: Mugwort & Wormwood (/solstice-dreaming-mugwort-wormwood/), and Midwinter Kitchen Witchcraft (/midwinter-kitchen-witchcraft/)."
 ---
 
-# How Witches Used Evergreen Trees Before Christmas Existed
-
 Modern people tend to imagine the evergreen tree as the Christmas tree—domestic, decorated, and wrapped in lights. But the evergreen was revered long before Christianity touched Europe. It was **the witch’s winter tree**, a symbol of defiance against death, a living spine of green standing in a world of white bone and silence.
 
 For deeper context on how witches saw midwinter, see  
