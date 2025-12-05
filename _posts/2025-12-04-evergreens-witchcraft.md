@@ -211,9 +211,6 @@ The evergreen was the antidote.
 ---
 
 ## A Witch’s Ritual: Evergreen Spell for Winter Protection  
-*An original working for Wild Witch Herbs*
-
-This ritual draws from documented pagan customs but is constructed as a clean, modern spell rooted in Old European tradition.
 
 ### **You Need**
 - A small branch of **pine or fir**  
