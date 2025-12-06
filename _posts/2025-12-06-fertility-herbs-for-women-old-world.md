@@ -2,7 +2,7 @@
 layout: single
 title: "Fertility Herbs for Women: Womb Magic & Old European Folklore"
 description: "A deep folklore-based guide to fertility herbs for women, exploring Old European traditions, womb magic, folk rituals, and natural plant allies used to support conception, vitality, and creative power."
-categories: [Herbalism, Witchcraft, Folklore, Fertility]
+categories: [herbal-magic, folklore-ancestral]
 tags: [fertility herbs, women’s magic, womb magic, folklore, witchcraft, herbal fertility]
 ---
 
