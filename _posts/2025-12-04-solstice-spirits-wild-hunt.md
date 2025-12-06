@@ -62,8 +62,7 @@ Do not speak the name of a spirit unless you’re ready for it to answer.
 To the uninitiated, these were warnings.  
 To witches, they were instructions on how to listen.
 
-If you want more winter lore, see  
-**[Winter Solstice Witchcraft: Old European Rituals](/winter-solstice-witchcraft/)**.
+If you want more winter lore, see **[Winter Solstice Witchcraft from Old Europe](/winter-solstice-witchcraft/)**.
 
 ---
 
@@ -83,8 +82,8 @@ It sweeps away stagnation.
 It purges disease, misfortune, and old sorcery.  
 It scours the land clean so the new year can take root.
 
-A witch who greets the Hunt correctly  
-earns protection for a full turning of the seasons.
+**A witch who greets the Hunt correctly  
+earns protection for a full turning of the seasons.**
 
 ---
 
@@ -138,8 +137,7 @@ A plant loved by the dead and feared by the living.
 Burned to declare to the Hunt:  
 “I stand unafraid.”
 
-To go deeper into this herb’s spirit-work, see  
-**[Wormwood & Lucid Dreaming](/wormwood-lucid-dreaming/)**.
+To go deeper into this herb’s spirit-work, see **[Wormwood for Lucid Dreaming](/wormwood-lucid-dreaming/)**.
 
 ---
 
@@ -186,8 +184,7 @@ Simple. Old. Effective.
 ## Make Your Own Witch Bottle for the Solstice:
 The Old European Winter Witch Bottle was one of those vessels—built to say “Not this house.” If you want to work with authentic solstice-era counter-magic, this is where to begin.
 
-Read about the ritual and the ingredients you'll need:  
-**[The Witch’s Winter Bottle: Solstice Protection Magic](//witchy-winter-solstice-bottle/)**.
+Read about the ritual and the ingredients you'll need: **[Witchy Winter Bottle: Solstice Magic](//witchy-winter-solstice-bottle/)**.
 
 ---
 
