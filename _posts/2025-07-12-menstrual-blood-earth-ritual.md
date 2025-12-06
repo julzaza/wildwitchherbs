@@ -4,9 +4,8 @@ title: "Blood and Soil: The Old Magic of Menstrual Offerings"
 permalink: /menstrual-blood-earth-ritual/
 excerpt: "Discover the ancient practice of offering menstrual blood to the Earth. Rooted in fertility rites, moon cycles, and folk traditions, this ritual honors the sacred bond between womb and soil."
 categories:
-  - Rituals
-  - Fertility
-  - Witchcraft
+  - witchcraft-ritual
+  - folklore-ancestral
 tags:
   - menstrual magic
   - fertility rituals
