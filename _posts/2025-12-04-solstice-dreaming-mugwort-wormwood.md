@@ -3,7 +3,7 @@ layout: single
 title: "Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights"
 description: "A folklore-rich guide to solstice dreaming with mugwort and wormwood—Old European prophecy, vision rites, and winter witchcraft for the longest night."
 excerpt: "How Old European witches used mugwort and wormwood on the winter solstice to call prophetic dreams, travel the night-road, and read omens for the year ahead."
-categories: [witchcraft-rituals, herbal-magic]
+categories: [herbal-magic, witchcraft-rituals, folklore-ancestral]
 tags: [mugwort, wormwood, solstice, dreaming-magic, prophecy, winter-protection-herbs]
 ---
 
