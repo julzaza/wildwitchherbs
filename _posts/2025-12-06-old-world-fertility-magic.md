@@ -3,7 +3,7 @@ layout: single
 title: "Old World Fertility Magic: Charms, Rites & Witchcraft"
 description: "A deep folklore-based exploration of Old European fertility magic—rituals of land, lineage, livestock, and life—and how witches worked with plants, spirits, and cycles to call creation into the world."
 excerpt: "An atmospheric dive into Old European fertility magic—where land, lineage, animals, and human life were intertwined in one great spell of creation."
-categories: [witchcraft-rituals]
+categories: [witchcraft-rituals, folklore-ancestral]
 tags: [fertility rituals, old european magic, folklore, witchcraft traditions]
 schema:
   type: Article
