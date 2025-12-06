@@ -12,7 +12,7 @@ This post explores the plants that were once whispered over cradles, planted at 
 
 This is not medical advice. This is folklore, ancestral knowledge, and the craft of roots, leaves, and story.
 
-To explore fertility for men, see [Fertility Herbs for Men](/fertility-herbs-men/).  
+To explore fertility for men, see [Fertility Herbs for Men](/fertility-herbs-for-men-old-world/).  
 Or if you are interested in learning about the folklore-rich conception rites, see [Magic of Creation](/folk-fertility-rituals/).  
 
 ---
