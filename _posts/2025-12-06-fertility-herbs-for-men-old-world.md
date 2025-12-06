@@ -2,7 +2,7 @@
 layout: single
 title: "Fertility Herbs for Men: Virility, Vitality & Old World Folklore"
 description: "A deep folkloric exploration of fertility herbs for men: Old European virility rites, vitality tonics, ancestral plant lore, and ritual practices supporting male creative power."
-categories: [Herbalism, Witchcraft, Folklore, Fertility]
+categories: [herbal-magic, folklore-ancestral]
 tags: [male fertility, virility herbs, old european folklore, witchcraft, vitality]
 
 schema:
