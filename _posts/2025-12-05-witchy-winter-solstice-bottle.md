@@ -40,9 +40,9 @@ faqs:
 
 In Old Europe, the weeks around the solstice were considered spiritually porous. The dead roamed. The Wild Hunt crossed the sky. **Witches, farmers, cunning folk, and ordinary households braced themselves for a landscape where time thinned and spirits walked freely.**
 
-In these nights—**before Christmas existed**, before the church reshaped the calendar—people buried, hung, and hid witch bottles. These were not Victorian curiosities but **apotropaic engines** meant to bite back at whatever prowled in the dark.
-
 A winter witch bottle was a counterspell in glass or clay, built from the ordinary tools of a household and **designed to protect doorways, beds, fields, children, and livestock.**
+
+In these nights—**before Christmas existed**, before the church reshaped the calendar—people buried, hung, and hid witch bottles. These were not Victorian curiosities but **apotropaic engines** meant to bite back at whatever prowled in the dark. To understand what actually went on during these special nights, check out **[The Wild Hunt](/solstice-spirits-wild-hunt)**.  
 
 ---
 
