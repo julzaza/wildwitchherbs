@@ -1,18 +1,44 @@
 ---
 layout: single
-title: "Folk Fertility Rituals - Magic of Creation"
-permalink: /folk-fertility-rituals/
-excerpt: "From moonlit baths to wildflower charms, explore the ancient fertility rituals practiced by witches and folk healers to welcome new life, awaken the womb, and honor the power of creation."
-categories:
-  - witchcraft
-  - fertility
-  - rituals
-tags:
-  - fertility rituals
-  - herbal magic
-  - moon magic
-  - womb wisdom
-  - traditional witchcraft
+title: "Folk Fertility Rituals: Magic of Creation"
+excerpt: "Old European fertility rituals for body, spirit, and womb—moon rites, bonfires, ancestral offerings, womb charms, and earth magic."
+description: "A raw, folklore-rich guide to Old European fertility rituals—moon bathing, womb charms, Beltane rites, ancestor offerings, wildflower blessings, and earth-based magic for creation and renewal."
+categories: [Witchcraft, Folklore, Fertility, Ritual]
+tags: [fertility rituals, creation magic, womb rites, folk magic]
+
+schema:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  "headline": "Folk Fertility Rituals: Magic of Creation"
+  "description": "A folklore-rich exploration of Old European fertility rituals including moon rites, Beltane fires, womb charms, ancestor offerings, and earth fertility magic."
+  "author":
+    "@type": "Person"
+    "name": "Wild Witchy Herbs"
+  "publisher":
+    "@type": "Organization"
+    "name": "Wild Witchy Herbs"
+  "mainEntityOfPage": "https://wildwitchherbs.com/folk-fertility-rituals/"
+  "keywords": "fertility rituals, womb magic, Beltane rites, ancestral fertility magic"
+
+faq:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What are traditional fertility rituals?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "They include moon bathing, Beltane fire rites, herbal womb charms, ancestor offerings, wildflower blessings, and earth-seed rituals."
+    - "@type": "Question"
+      "name": "Do fertility rituals guarantee results?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "No ritual guarantees outcomes, but they create alignment between body, spirit, and intention."
+    - "@type": "Question"
+      "name": "Which herbs support fertility magic?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Traditional allies include rose, raspberry leaf, mugwort, nettle, red clover, and lady’s mantle."
 ---
 
 Fertility was never just about making babies. **In folk magic and witchcraft, it’s the power to create—new life, new ideas, new beginnings**. Whether working with the land, the body, or the spirit, witches and wise folk across cultures used rituals to tap into the sacred forces of generation.
