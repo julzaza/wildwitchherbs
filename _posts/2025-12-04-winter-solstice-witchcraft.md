@@ -2,7 +2,7 @@
 layout: single
 title: "Winter Solstice Witchcraft: Old European Magic & Rituals"
 description: "Explore traditional European winter solstice witchcraft—Wild Hunt lore, ancestral rites, evergreen magic, solstice herbs, and rituals behind the year’s longest night."
-excerpt: "Old European solstice magic, ancestral rites, herbal protections, and the Wild Hunt."
+excerpt: “On the longest night of the year, witches worked with ancestors, evergreens, and the Wild Hunt. Explore Old European solstice rites, protections, and midwinter omens.”
 categories: [witchcraft-rituals, folklore-ancestral]
 tags: [winter-solstice, yule, wild-hunt, twelve-nights, european-folklore, herbs]
 faq:
