@@ -18,6 +18,10 @@ tags:
 
 Fertility has always been a sacred mystery—one woven with the threads of moon cycles, soil magic, and the whispering spirits of plants. **For centuries, witches, midwives, and herbalists turned to nature to guide life into being**. These herbs are omens, offerings, and allies in the ancient rites of creation.
 
+For a deep dive into sex specific human fertility, see:  
+- **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**  
+- **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)** 
+
 Here are nine of the most potent fertility herbs in witchcraft and folklore, passed down through stories, spells, and the hands of wise women.
 
 ## 1. Raspberry Leaf (*Rubus idaeus*)
