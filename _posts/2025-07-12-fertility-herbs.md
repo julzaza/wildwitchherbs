@@ -90,3 +90,9 @@ Fertility is not just about the body—it’s about cycles, timing, soul, and sp
 
 ---
 
+## More Fertility Witchcraft:
+
+- For Folk Fertility Rituals – see **[Fertility Rituals for Conception](/folk-fertility-rituals/)**
+- To explore the broader concept of fertility in Old Europe - see **[Old World Fertility Witchcraft](/old-world-fertility-magic/)**.
+
+---
