@@ -103,3 +103,7 @@ No ritual guarantees results. But the act of slowing down, speaking with the moo
 
 ---
 
+## For More Fertility Magic
+
+Check out: [Fertility Rituals & Charms of the Old World](/fertility-rituals-old-world/)**  
+
