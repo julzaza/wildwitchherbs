@@ -105,7 +105,7 @@ No ritual guarantees results. But the act of slowing down, speaking with the moo
 
 ## For More Fertility Magic
 
-For a deeper look into how land, livestock, and lineage were bound into one cycle of creation, explore **[Fertility Rituals & Charms of the Old World](/fertility-rituals-old-world/)** — a broader ancestral map of how magic moved through soil, hearth, and body.
+For a deeper look into how land, livestock, and lineage were bound into one cycle of creation, explore **[Fertility Rituals & Charms of the Old World](/old-world-fertility-magic/)** — a broader ancestral map of how magic moved through soil, hearth, and body.
 
 ---
 
