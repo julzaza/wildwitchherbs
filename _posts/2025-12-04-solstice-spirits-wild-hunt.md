@@ -2,8 +2,20 @@
 layout: single
 title: "Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide"
 description: "A witch’s deep, folklore-rich guide to the Wild Hunt, solstice spirits, and Old European protection magic for surviving the longest night of the year."
+excerpt: A raw, folklore-rich guide to the Wild Hunt—solstice spirits, ancestral riders, winter protections, and Old European witchcraft for surviving the longest night.
 categories: [Folklore, Witchcraft, Winter, Solstice]
 tags: [Winter Solstice, Wild Hunt, Protection Magic, European Folklore, Spirits]
+faq:
+  - question: "What is the Wild Hunt in Old European folklore?"
+    answer: "A storm of spirits—ancestors, gods, witches, and wandering dead—riding across the winter solstice sky."
+  - question: "Why does the Wild Hunt appear at the solstice?"
+    answer: "Because the stillness of the solstice opens a doorway between worlds, allowing the Host to ride."
+  - question: "How did witches protect themselves from the Wild Hunt?"
+    answer: "Juniper smoke, iron at thresholds, salt wards, red-wool knots, and evergreen charms were the most common protections."
+  - question: "Is it dangerous to see the Wild Hunt?"
+    answer: "Folklore warns never to run or shout. One should lower the head, remain still, and refuse any gifts offered by the riders."
+  - question: "Which herbs were used in solstice protection magic?"
+    answer: "Mugwort, yew, wormwood, and blackthorn were favored for banishing, vision, and protection against wandering spirits."
 schema:
   "@context": "https://schema.org"
   "@type": "BlogPosting"
@@ -184,7 +196,7 @@ Simple. Old. Effective.
 ## Make Your Own Witch Bottle for the Solstice:
 The Old European Winter Witch Bottle was one of those vessels—built to say “Not this house.” If you want to work with authentic solstice-era counter-magic, this is where to begin.
 
-Read about the ritual and the ingredients you'll need: **[Witchy Winter Bottle: Solstice Magic](//witchy-winter-solstice-bottle/)**.
+Read about the ritual and the ingredients you'll need: **[Witchy Winter Bottle: Solstice Magic](/witchy-winter-solstice-bottle/)**.
 
 ---
 
@@ -219,5 +231,28 @@ protected, sharpened, and unshaken.
 - **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
 - **[The Twelve Nights](/twelve-nights-witchcraft)**  
 - **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**
+
+---
+
+## Solstice & Wild Hunt FAQ
+
+### **What is the Wild Hunt?**
+A raging procession of spirits—led by gods, ancestral riders, or winter goddesses—crossing the solstice sky.
+
+### **Why does it appear on the solstice?**
+Because the stillness of midwinter opens the boundary between worlds.
+
+### **How do witches protect themselves from the Wild Hunt?**
+With juniper smoke, iron, salt wards, red-wool knots, and evergreen charms hung until Twelfth Night.
+
+### **Which herbs are best for solstice protection?**
+Mugwort for vision, yew for keeping out the dead, wormwood for fearlessness, and blackthorn to block harmful spirits.
+
+### **Is it dangerous to look at the Hunt?**
+Folklore says yes. Never stare, call to them, or accept anything they offer.
+
+### **What should a witch do if the Hunt passes nearby?**
+Lower the head, remain still, and speak:  
+**“I belong to the living.”**
 
 ---
