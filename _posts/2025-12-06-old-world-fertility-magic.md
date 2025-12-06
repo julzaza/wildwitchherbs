@@ -147,8 +147,8 @@ Candles carved with symbols of spirals, seeds, or animals were burned over seven
 The flame was believed to pull spirit into matter—life into flesh.
 
 For a deep dive into plant allies for human fertility, see:  
-- **[Fertility Herbs for Women](/fertility-herbs-women/)**  
-- **[Fertility Herbs for Men](/fertility-herbs-men/)** 
+- **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**  
+- **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)** 
 
 ---
 
