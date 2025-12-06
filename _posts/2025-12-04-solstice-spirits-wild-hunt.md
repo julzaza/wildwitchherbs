@@ -3,7 +3,7 @@ layout: single
 title: "Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide"
 description: "A witch’s deep, folklore-rich guide to the Wild Hunt, solstice spirits, and Old European protection magic for surviving the longest night of the year."
 excerpt: A raw, folklore-rich guide to the Wild Hunt—solstice spirits, ancestral riders, winter protections, and Old European witchcraft for surviving the longest night.
-categories: [Folklore, Witchcraft, Winter, Solstice]
+categories: [folklore-ancestral, witchcraft-rituals]
 tags: [Winter Solstice, Wild Hunt, Protection Magic, European Folklore, Spirits]
 faq:
   - question: "What is the Wild Hunt in Old European folklore?"
