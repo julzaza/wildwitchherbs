@@ -22,8 +22,6 @@ schema:
       answer: "In traditional European belief, the fertility of people, livestock, and land was part of one inseparable life-force. Healthy herds meant healthy households."
 ---
 
-# Old World Fertility Magic: Charms, Rites & Witchcraft
-
 Fertility in the Old World was never a single subject.  
 It was not only about human bodies, wombs, or conception.  
 It was a **cosmic current**—a pulse moving through soil, seeds, livestock, ancestors, seasons, the hearth, and the hidden world of spirits.
