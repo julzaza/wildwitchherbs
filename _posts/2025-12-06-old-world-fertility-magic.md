@@ -32,11 +32,7 @@ They were different faces of the same imbalance in the world’s life-force.
 This post explores the older, deeper worldview:  
 **fertility as a force of the land itself**, and the ritual ways witches and wise folk invited it back into balance.
 
-Before diving in, you may want to explore the companion herb posts:  
-- **[Fertility Herbs for Women](/fertility-herbs-women/)**  
-- **[Fertility Herbs for Men](/fertility-herbs-men/)**
-
-Both posts explore plant helpers in far more depth, but here we turn toward the **rituals themselves**—the spells that shaped old European life.
+If you’re looking for human-centered charms, womb rites, and conception spells, see Folk Fertility Rituals – Magic of Creation - **[Fertility Rituals for Creation](/folk-fertility-rituals/)**  
 
 ---
 
