@@ -52,7 +52,9 @@ Every lamp stayed lit.
 Not against thieves—  
 but against immortals.
 
-This is your guide to navigating that night with power and clarity.
+This is your guide to navigating that night with power and clarity. The Wild Hunt is not just a story—it’s a map of how witches survived midwinter, protected their homes, and worked in a world where spirits were felt more than seen.
+
+These rites survive in Alpine, Baltic, Germanic, and Slavic winter traditions recorded by 19th–20th century ethnographers.
 
 ---
 
