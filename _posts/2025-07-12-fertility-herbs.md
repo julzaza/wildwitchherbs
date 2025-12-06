@@ -5,7 +5,7 @@ permalink: /top-fertility-herbs-witchcraft/
 excerpt: "Explore the top herbs used for fertility and conception throughout witchcraft, folklore, and herbal medicine. From raspberry leaf to red clover, uncover the ancient wisdom behind these plants of creation."
 categories: 
   - herbal-magic
-  - fertility
+  - folklore-ancestral
 tags: 
   - fertility herbs
   - raspberry leaf
