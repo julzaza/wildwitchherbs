@@ -3,7 +3,7 @@ layout: single
 title: "Folk Fertility Rituals: Magic of Creation"
 excerpt: "Old European fertility rituals for body, spirit, and womb—moon rites, bonfires, ancestral offerings, womb charms, and earth magic."
 description: "A raw, folklore-rich guide to Old European fertility rituals—moon bathing, womb charms, Beltane rites, ancestor offerings, wildflower blessings, and earth-based magic for creation and renewal."
-categories: [witchcraft-rituals]
+categories: [witchcraft-rituals, folklore_ancestral]
 tags: [fertility rituals, creation magic, womb rites, folk magic]
 
 schema:
