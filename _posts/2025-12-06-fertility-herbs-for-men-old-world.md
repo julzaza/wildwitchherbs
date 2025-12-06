@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Fertility Herbs for Men: Old European Virility Magic, Vitality Tonics, and Ancestral Plant Lore"
+title: "Fertility Herbs for Men: Virility, Vitality & Old World Folklore"
 description: "A deep folkloric exploration of fertility herbs for men: Old European virility rites, vitality tonics, ancestral plant lore, and ritual practices supporting male creative power."
 categories: [Herbalism, Witchcraft, Folklore, Fertility]
 tags: [male fertility, virility herbs, old european folklore, witchcraft, vitality]
@@ -20,14 +20,16 @@ schema:
     "name": "Wild Witchy Herbs"
 ---
 
-# Fertility Herbs for Men: Old European Virility Magic, Vitality Tonics, and Ancestral Plant Lore
-
 Male fertility has its own lineage of old magic—a lineage rarely spoken of, but woven into European folklore through symbols of the stag, the plowman, the thunder god, and the winter king reborn each spring.  
 Where women’s fertility is tied to the womb, cycles, and moon rhythms, **men’s fertility in Old Europe was tied to vigor, blood heat, creative fire, and ancestral lineage**.
 
 This post steps into that older world: the rituals plowmen whispered over their fields, the herbs warriors drank before battle or bed, the charms pinned to belts, the roots buried with the dead to ensure their line continued.
 
 This is folklore, historical custom, and witchcraft—not medical instruction.
+
+> To learn about women’s fertility allies, see [Fertility Herbs for Women](/fertility-herbs-women/).  
+> To explore intertwined household and land rituals, see [Old Europe Fertility Witchcraft](/old-world-fertility-magic/).  
+> For conception-focused folklore, visit [Fertility Magic](/folk_fertility-rituals/).  
 
 ---
 
