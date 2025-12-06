@@ -4,10 +4,8 @@ title: "The Witch’s Winter Bottle: Solstice Protection Magic"
 description: "A folklore-rich guide to Old European winter witch bottles used for protection during the Twelve Nights, the Wild Hunt, and the spiritually dangerous solstice weeks."
 excerpt: "Discover the Old European winter witch bottle—an ancestral protection charm crafted for the Twelve Nights, the Wild Hunt, and midwinter spirits. A deep folkloric guide rooted in authentic continental tradition."
 author: Wild Witch Herbs
-
-categories: [witchcraft_rituals]
+categories: [witchcraft-rituals, folklore-ancestral]
 tags: [winter witchcraft, solstice magic, protection magic, witch bottles, folklore, twelve nights, wild hunt]
-
 schema:
   "@context": "https://schema.org"
   "@type": "Article"
@@ -21,7 +19,6 @@ schema:
     "name": "Wild Witch Herbs"
     "url": "https://wildwitchherbs.com"
   "keywords": "winter witchcraft, solstice protection, twelve nights magic, wild hunt folklore, witch bottles, evergreen European magic"
-
 faqs:
   - question: "What is a winter witch bottle in Old European folklore?"
     answer: "It is a protective vessel—usually clay or glass—filled with evergreen, iron, salt, and binding materials. These bottles were buried or hidden during the solstice and the Twelve Nights to guard against spirits, illness, and the Wild Hunt."
@@ -33,7 +30,6 @@ faqs:
     answer: "Evergreens were viewed as ‘death-defying’ plants whose life force endured the cold. Their magic protected households from the dead, the Wild Hunt, and winter illnesses."
   - question: "Can a winter witch bottle be made today?"
     answer: "Yes. Modern practitioners recreate them using traditional ingredients—iron, juniper, pine, salt, red thread—while keeping the original purpose: to guard the home during dark, liminal winter nights."
-
 ---
 
 # Magic from The Old World
