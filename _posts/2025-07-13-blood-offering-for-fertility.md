@@ -3,7 +3,7 @@ layout: single
 title: "Menstrual Blood Magic - Fertility Ritual"
 permalink: /fertility-rituals-menstrual-magic/
 excerpt: "Discover sacred fertility rituals rooted in folk magic, moon cycles, and menstrual blood offerings. Learn the difference between the White and Red Moon cycles and how to perform powerful Earth-based womb rituals."
-categories: [rituals, witchcraft, moon-magic]
+categories: [witchcraft-ritual, folklore-ancestral]
 tags: [fertility, menstrual-magic, new moon, white moon, red moon, witchcraft, feminine-power]
 ---
 
