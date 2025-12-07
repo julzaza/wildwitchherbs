@@ -65,7 +65,7 @@ In Slavic and Alpine traditions, herbalists would create bundles of **red clover
 
   Tie the charm at dawn and whisper your wish into it. Bury it in the earth when the wish comes true.
 
-For a full guide to the plants traditionally used in fertility magic, see 
+For a full guide to the plants of Old Europe traditionally used in fertility magic, see 
 - **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**  
 - **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)** 
 
