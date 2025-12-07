@@ -65,6 +65,10 @@ In Slavic and Alpine traditions, herbalists would create bundles of **red clover
 
   Tie the charm at dawn and whisper your wish into it. Bury it in the earth when the wish comes true.
 
+For a full guide to the plants traditionally used in fertility magic, see 
+- **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**  
+- **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)** 
+
 ## 4. Ancestral Spirit Offerings
 
 In many folk cultures, fertility was tied to ancestral blessings. Women would pour milk or wine onto the roots of fruit trees, asking their foremothers to walk with them. Offerings of bread and honey were also common, left on the threshold or buried under a favorite herb.
