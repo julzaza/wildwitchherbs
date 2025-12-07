@@ -144,6 +144,10 @@ Women sometimes leapt alone to “clear the cold” from the womb.
 Bread and honey were given to ancestors to “open the roads” for a child to come.  
 Infertility was often traced to ancestral imbalance, not physical biology.
 
+### Menstrual Blood Magic
+
+Offering menstrual blood to the earth is one of the oldest acts of witchcraft—an intimate pact between your body and the land. Whether you’re seeking to encourage conception or simply honor the raw creative force that flows through you, work in rhythm with the moon. Learn how to do the ritual here: **[Menstrual Blood Offering](/fertility-rituals-menstrual-magic/)**.
+
 ### **The Womb-Candle Practice**
 Candles carved with symbols of spirals, seeds, or animals were burned over seven waxing nights.  
 The flame was believed to pull spirit into matter—life into flesh.
