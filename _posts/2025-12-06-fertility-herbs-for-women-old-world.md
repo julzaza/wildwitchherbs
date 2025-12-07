@@ -185,8 +185,13 @@ This is a ritual of blessing, not guarantee. It is about calling vitality, not f
 
 ---
 
-## FAQ
+## Blood Offerings: Magic of Creation
 
+If you want more raw, ancestral side of this work, step into the exploration of **[Blood-to-Soil Offerings in Old World Witchcraft](/menstrual-blood-earth-ritual/)**.
+
+---
+
+## FAQ
 ### **Are fertility herbs safe for all women?**  
 Not necessarily. Traditional herbalism recognizes that some herbs warm the womb, some move blood, and some may be too strong for certain conditions. Always research each herb thoroughly.
 
