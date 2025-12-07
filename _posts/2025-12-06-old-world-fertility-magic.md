@@ -173,7 +173,7 @@ To work fertility magic was to align oneself with the great generative force tha
 # Frequently Asked Questions
 
 ### **Were fertility rituals only for conception?**  
-No. In folk tradition, fertility also meant creativity, new beginnings, agricultural success, and the renewal of life-force.
+No. In folk tradition, fertility also meant creativity, new beginnings, agricultural success, and the renewal of life-force. You can also explore how witches once fed the land with their blood in the **[Old Magic of Menstrual Earth Offerings](/menstrual-blood-earth-ritual/)**.
 
 ### **Why do so many fertility rituals involve fire and ash?**  
 Because fire awakens and energizes, while ash blesses, grounds, and carries the memory of flame—making it sacred to the spirits of growth.
