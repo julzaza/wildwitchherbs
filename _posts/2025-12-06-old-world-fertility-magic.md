@@ -133,6 +133,8 @@ Bundles of:
 were tied with **red thread** and worn near the womb.  
 These bundles were considered living amulets—small spirits who walked with the woman.
 
+Explore **[Top Fertility Herbs](/top-fertility-herbs-witchcraft/)** to get to know your plant allies. 
+
 ### **Fire-Jumping for Conception**
 Jumping the Beltane fire was not symbolic—it was literal sympathetic magic.  
 Couples jumped together, hoping to “ignite life.”  
