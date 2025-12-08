@@ -180,7 +180,7 @@ Despite everything, much survived through:
 - herbal magic  
 - protective rites  
 - whispered charms  
-- house and land offerings hidden beneath Christian prayers  
+- house and land offerings hidden beneath Christian prayers, like **[The Evergreen Witchcraft](/evergreen-witchcraft)** which was practiced in Old Europe way before Christmas even existed.
 
 Europe never truly lost its magic.  
 It simply hid it.
