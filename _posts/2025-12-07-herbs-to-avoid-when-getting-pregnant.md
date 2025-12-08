@@ -31,8 +31,7 @@ Before modern herbalism softened the edges of plant lore, European witches, midw
 
 Conception was understood as a fragile threshold. A woman preparing for pregnancy avoided cold rivers, excessive labor, and—most importantly—certain herbs whose spirits were known to **heat the womb, stir the blood, or sweep it clean**. These plants weren’t feared for being harmful; they were respected for being **too powerful**, too cleansing, too tied to endings rather than beginnings.
 
-Traditional conception magic followed a rhythm still recognizable today:  
-**first the cleansing, then the calling.**  
+Traditional conception magic followed a rhythm still recognizable today: **first the cleansing, then the calling.**  
 If you want to explore the ritual dimension of this old cycle, see **[Fertility Rituals for Creation](/fertility-rituals-creation/)**, where the preparation and blessing phase is described in folkloric detail.
 
 Below is the deeper layer—the herbs Old Europe held back once the time for creation truly began.
@@ -52,7 +51,7 @@ These herbs were essential in other forms of magic:
 
 …but none of these movements align with conception, which calls for stillness, warmth, and moisture.
 
-For the complementary list of nourishing plants used **after** this avoidance period, visit your guides to **[Best Herbs for Female Fertility](/fertility-herbs-women/)** and **[Best Herbs for Fertility for Men](/fertility-herbs-men/)**.
+For the complementary list of nourishing plants used **after** this avoidance period, visit the guides to **[Best Herbs for Female Fertility](/fertility-herbs-women/)** and **[Best Herbs for Fertility for Men](/fertility-herbs-men/)**.
 
 ---
 
