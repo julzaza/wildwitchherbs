@@ -135,7 +135,9 @@ Gathering herbs was ritualized:
 - done at dawn or dusk  
 - accompanied by spoken words  
 - often done barefoot  
-- offerings always left in return  
+- offerings always left in return
+
+Learn more about the **[Top Plants of Power Used by Old European Witches](/witch-garden)**.
 
 ### Blood, Bone, and Soil  
 Before Christianity, offerings of blood—menstrual, animal, or symbolic—were common. Their sacred role in Old Europe is examined deeply in **[The Old Magic of Menstrual Blood Offerings](/menstrual-blood-earth-ritual)**.
