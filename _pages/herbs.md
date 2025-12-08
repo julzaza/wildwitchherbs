@@ -5,7 +5,9 @@ permalink: /herbs/
 categories: [herbal-magic, natural-healing]
 ---
 
-Explore the magical and practical uses of herbs. Below, you'll find plants used in **traditional remedies**, seasonal cures, and **magical practices** from old European and Balkan traditions.
+Explore the magical and practical uses of herbs. 
+
+Below, you'll find plants used in **traditional remedies**, seasonal cures, and **magical practices** from old European and Balkan traditions.
 
 {% assign magical_herbs = site.posts | where_exp:"post","post.categories contains 'herbal-magic'" %}
 {% assign healing_herbs = site.posts | where_exp:"post","post.categories contains 'natural-healing'" %}
