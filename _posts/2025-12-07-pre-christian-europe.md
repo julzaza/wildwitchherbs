@@ -202,18 +202,6 @@ It survived in bread, fire, herbs, and story.
 
 ---
 
-## For Deeper Exploration
-
-You can interlink this post with:
-
-- **Old World Fertility Magic**  
-- **The Witch’s Winter Bottle**  
-- **Evergreen Magic**  
-- **Wormwood in Witchcraft and War**  
-- **Your future Midwinter Kitchen post**
-
----
-
 ## Final Thoughts
 
 To understand pre-Christian Europe is to recognize that magic was not witchcraft in the modern sense. It was the operating system of life. A way of being in right relationship with land, dead, spirit, and season.
