@@ -14,8 +14,6 @@ tags:
   - earth offerings
 ---
 
-## Blood and Soil: The Old Magic of Menstrual Offerings
-
 Long before shame was stitched to the hem of a woman’s skirt, menstrual blood was seen as sacred—**a gift, not a curse**. Across time and cultures, women bled in rhythm with the moon, and their blood was recognized not as waste, but as **life-force**—capable of nourishing both land and lineage.
 
 In the old ways, it was said that **to give your blood to the soil was to speak directly to the Earth**.
