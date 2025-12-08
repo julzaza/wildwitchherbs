@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Herbs to Avoid When Trying to Get Pregnant"
-description: "A deep, folklore-rooted guide to herbs that hinder conception, blending Old European plant lore with careful modern understanding."
+description: "A deep, folklore-rooted guide to herbs to stay away from when trying to conceive, blending Old European plant lore with modern living."
 excerpt: "A folklore-rich exploration of herbs to avoid when trying to conceive, drawing on European tradition, ritual history, and cautious herbal knowledge."
 categories: [Herbalism, Fertility, Witchcraft]
 tags: [Fertility, Herbalism, Contraceptive Herbs, Folklore]
@@ -52,11 +52,13 @@ These herbs were essential in other forms of magic:
 
 …but none of these movements align with conception, which calls for stillness, warmth, and moisture.
 
-For the complementary list of nourishing plants used **after** this avoidance period, visit your guides to **[Fertility Herbs for Women](/fertility-herbs-women/)** and **[Fertility Herbs for Men](/fertility-herbs-men/)**.
+For the complementary list of nourishing plants used **after** this avoidance period, visit your guides to **[Best Herbs for Female Fertility](/fertility-herbs-women/)** and **[Best Herbs for Fertility for Men](/fertility-herbs-men/)**.
 
 ---
 
-## Rue: The Bitter Gatekeeper
+## Herbs You Should Stay Away From When Trying to Conceive:
+
+### Rue: The Bitter Gatekeeper
 
 In southern Europe and the Balkans, rue was woven into brides’ veils for protection and tucked into belts to repel ill-wishers. But it was *never* taken internally by women hoping for a child.
 
@@ -67,7 +69,7 @@ Modern herbal knowledge mirrors the folklore: rue stimulates and tightens tissue
 
 ---
 
-## Pennyroyal: The Separation Mint
+### Pennyroyal: The Separation Mint
 
 Pennyroyal shows up in medieval manuscripts as a cleanser of rooms, bedding, and the body itself. Wise women burned it on floors to drive out stagnant spirits.
 
@@ -77,7 +79,7 @@ Even mild infusions were avoided.
 
 ---
 
-## Wormwood: The Opener of Doors
+### Wormwood: The Opener of Doors
 
 Wormwood is the herb of thresholds, ghosts, and vision. Balkan witches added it to grave rites, northern cunning folk burned it against wandering dead, and healers used it for spiritual purification.
 
@@ -87,17 +89,17 @@ If you want the full history of this fierce plant spirit, visit **[Wormwood in W
 
 ---
 
-## Sage: The Drier of Springs
+### Sage: The Drier of Springs
 
 Though gentle in the kitchen, sage was traditionally believed to **dry and cool the womb**. Old herbals warn that too much sage *“quenches the seed-fire”* and *“draws moisture from the belly.”*
 
-This cooling, drying action is opposite of the nourishing plants praised in your post on **[Fertility Herbs for Women](/fertility-herbs-women/)**.  
+This cooling, drying action is opposite of the nourishing plants praised in **[Plant Allies for Women Trying to Conceive](/fertility-herbs-women/)**.  
 Those herbs build moisture.  
 Sage reduces it.
 
 ---
 
-## Hellebore: The Dark Physician
+### Hellebore: The Dark Physician
 
 Hellebore was the tool of exorcists, midwives, and plague-time healers—always handled with ritual care, cut with iron, and spoken over.
 
@@ -108,7 +110,7 @@ No midwife would risk it near a woman trying to conceive.
 
 ---
 
-## Warming Herbs: Parsley, Lovage & Tansy
+### Warming Herbs: Parsley, Lovage & Tansy
 
 These herbs appear in food, but in medicinal doses they were known to:
 
@@ -134,8 +136,8 @@ Some of the herbs above were intentionally used before trying to conceive to cle
 Once a woman entered the conception window, all warming, stimulating, or downward-moving herbs were stopped.  
 Then she turned to the gentle, moistening, stabilizing herbs found in:
 
-- **[Fertility Herbs for Women](/fertility-herbs-women/)**  
-- **[Fertility Herbs for Men](/fertility-herbs-men/)**  
+- **[Top Fertility Herbs for Women](/fertility-herbs-women/)**  
+- **[Top Fertility Herbs for Men](/fertility-herbs-men/)**  
 
 This mirrored the land: cleanse the field in winter, plant in spring.
 
@@ -153,10 +155,10 @@ Yes—many were used to reset the cycle before switching to fertility-supportive
 No. This is traditional lore blended with cautious modern understanding.
 
 ### **Which herbs actually support fertility?**
-Explore the nourishing plants in **[Fertility Herbs for Women](/fertility-herbs-women/)** and **[Fertility Herbs for Men](/fertility-herbs-men/)**.
+Explore the nourishing plants in **[Best Herbs for Conception](top-fertility-herbs-witchcraft/)**.
 
 ### **Are there rituals for conception?**
-Yes. Old European rites of blessing, purification, and creation can be found in **[Fertility Rituals for Creation](/fertility-rituals-creation/)**.
+Yes. Old European rites of blessing, purification, and creation can be found in **[Conception Rituals](/fertility-rituals-creation/)**. For a more general exploration of fertility as a force of its own, explore: **[Fertility Magic of the Old World](/old-world-fertility-magic/)**.
 
 ---
 
