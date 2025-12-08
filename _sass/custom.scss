@@ -54,3 +54,50 @@ body {
   color: #555;
 }
 
+/* Grid container */
+.archive-posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+/* Individual cards */
+.archive-post-card {
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 1rem;
+  padding: 1rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Hover effect */
+.archive-post-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+/* Card image */
+.archive-post-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.75rem;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+/* Post title */
+.archive-post-title a {
+  font-weight: bold;
+  color: #2a2a2a;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+/* Excerpt */
+.archive-post-excerpt {
+  font-size: 0.95rem;
+  color: #333;
+  line-height: 1.5;
+}
