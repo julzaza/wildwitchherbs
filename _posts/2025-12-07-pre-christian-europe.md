@@ -216,7 +216,7 @@ Christianity overlaid that world with new names, new rules, and new fears. But t
 - **[The Witch’s Winter Bottle](/witchy-winter-solstice-bottle)**  
 - **[Evergreen Magic](/evergreens-witchcraft)**  
 - **[Wormwood in Witchcraft and War](/wormwood-witchcraft-war)**  
-- **[The Midwinter Kitchen](/midwinter-kitchen)**
+- **[The Midwinter Kitchen](/midwinter-kitchen-witchcraft/)**
 
 ---
 
