@@ -106,13 +106,13 @@ Rites included:
 - burning of protective fires  
 - offerings to field spirits for fertility  
 - winter protections against the Wild Hunt  
-- midsummer herb gathering and water rites  
+- midsummer herb gathering and water rites (still echoed in **[St. John’s Wort Sun Water](/st-johns-wort-sun-water)**)  
 - ancestor feasts at autumn’s darkening  
 
 Many of these later became “folk customs” under Christianity.
 
 ### Charms and Spells  
-Old European magic relied on spoken formulas:
+Old European magic relied on spoken formulas, a tradition most visible in survivals like the **[Nine Herbs Charm](/nine-herbs-charm)**.
 
 - rhythmic incantations  
 - sung charms  
@@ -136,7 +136,9 @@ Gathering herbs was ritualized:
 - offerings always left in return  
 
 ### Blood, Bone, and Soil  
-Before Christianity, offerings of blood—menstrual, animal, or symbolic—were common. Bones were repositories of power. Soil was a living archive.
+Before Christianity, offerings of blood—menstrual, animal, or symbolic—were common. Their sacred role in Old Europe is examined deeply in **[The Old Magic of Menstrual Blood Offerings](/menstrual-offerings-old-magic)**.
+
+Bones were repositories of power. Soil was a living archive. 
 
 Christianity later declared these rites sinful, unclean, or “of the devil,” but for thousands of years they were simply the grammar of magic.
 
