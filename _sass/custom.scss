@@ -18,6 +18,8 @@ body {
   border-radius: 1rem;
 }
 
-.archive-post__title a {
+.archive a {
   font-weight: bold;
+  text-decoration: none; /* optional, removes underline */
 }
+
