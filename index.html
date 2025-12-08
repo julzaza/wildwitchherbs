@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: Welcome to Wild Witch Herbs
 author_profile: false
 share: false
@@ -153,16 +153,10 @@ header:
     {% assign pillar_posts = site.posts | where_exp:"post","post.categories contains 'Folklore' or post.categories contains 'Witchcraft'" | sort:"date" | reverse %}
     {% for post in pillar_posts limit:3 %}
       <article class="archive__item">
-        {% if post.image %}
-          <img class="archive__item-image" src="{{ post.image }}" alt="{{ post.title }}">
-        {% else %}
-          <img class="archive__item-image" src="/assets/images/placeholder.jpg" alt="{{ post.title }}">
-        {% endif %}
+        {% if post.image %}<img class="archive__item-image" src="{{ post.image }}" alt="{{ post.title }}">{% else %}<img class="archive__item-image" src="/assets/images/placeholder.jpg" alt="{{ post.title }}">{% endif %}
         <div class="archive__item-content">
           <h3 class="archive__item-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-          {% if post.excerpt %}
-            <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
-          {% endif %}
+          {% if post.excerpt %}<p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>{% endif %}
         </div>
       </article>
     {% endfor %}
@@ -176,16 +170,10 @@ header:
     {% assign supporting_posts = site.posts | where_exp:"post","post.categories contains 'Herbs' or post.categories contains 'Folk Remedies'" | sort:"date" | reverse %}
     {% for post in supporting_posts limit:6 %}
       <article class="archive__item">
-        {% if post.image %}
-          <img class="archive__item-image" src="{{ post.image }}" alt="{{ post.title }}">
-        {% else %}
-          <img class="archive__item-image" src="/assets/images/placeholder.jpg" alt="{{ post.title }}">
-        {% endif %}
+        {% if post.image %}<img class="archive__item-image" src="{{ post.image }}" alt="{{ post.title }}">{% else %}<img class="archive__item-image" src="/assets/images/placeholder.jpg" alt="{{ post.title }}">{% endif %}
         <div class="archive__item-content">
           <h3 class="archive__item-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-          {% if post.excerpt %}
-            <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 120 }}</p>
-          {% endif %}
+          {% if post.excerpt %}<p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 120 }}</p>{% endif %}
         </div>
       </article>
     {% endfor %}
@@ -199,16 +187,10 @@ header:
     {% assign other_posts = site.posts | sort:"date" | reverse %}
     {% for post in other_posts offset:9 %}
       <article class="archive__item">
-        {% if post.image %}
-          <img class="archive__item-image" src="{{ post.image }}" alt="{{ post.title }}">
-        {% else %}
-          <img class="archive__item-image" src="/assets/images/placeholder.jpg" alt="{{ post.title }}">
-        {% endif %}
+        {% if post.image %}<img class="archive__item-image" src="{{ post.image }}" alt="{{ post.title }}">{% else %}<img class="archive__item-image" src="/assets/images/placeholder.jpg" alt="{{ post.title }}">{% endif %}
         <div class="archive__item-content">
           <h3 class="archive__item-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-          {% if post.excerpt %}
-            <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 100 }}</p>
-          {% endif %}
+          {% if post.excerpt %}<p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 100 }}</p>{% endif %}
         </div>
       </article>
     {% endfor %}
