@@ -33,7 +33,7 @@ This is the Europe beneath the Europe we know. A place where the borders between
 
 If you'd like to know why the old magic persisted under Christianity, see **[Why Witches Survived Christianization in the Balkans](/balkan-witches)**.
 
-This post is an attempt to trace the bones of that world: the rites, the spirits, the witches, and the ways of working that shaped the continent long before Christianization swept across it.
+This is an attempt to trace the bones of that world: the rites, the spirits, the witches, and the ways of working that shaped the continent long before Christianization swept across it. It explores what Old European magic actually looked like, how people practiced it, and why so much of it survived for the last two thousand years.
 
 ---
 
@@ -195,7 +195,7 @@ Traces remain everywhere:
 - Saint John’s Wort solar rites  
 - Christmas greenery and the Wild Hunt myths  
 - harvest offerings  
-- protective witch bottles  
+- protective witch bottles, like **[The Witch’s Winter Bottle](/witchy-winter-solstice-bottle)** 
 - Rowan cross charms  
 - house spirit appeasement hidden in “superstitions”  
 - ancestor candles, graveside food, and autumn feasts  
