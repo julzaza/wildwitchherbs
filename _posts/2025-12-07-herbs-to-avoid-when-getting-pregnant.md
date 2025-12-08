@@ -27,8 +27,6 @@ schema:
       answer: "Consider gentle nourishing herbs and practices that support fertility. You can explore these in the post on Fertility Rituals for Creation and upcoming posts on Men’s Fertility Herbs and Women’s Fertility Herbs."
 ---
 
-# Herbs to Avoid When Seeking Pregnancy
-
 Before modern herbalism softened the edges of plant lore, European witches, midwives, and cunning women kept a strict memory of which herbs called life into the womb—and which drove it away.
 
 Conception was understood as a fragile threshold. A woman preparing for pregnancy avoided cold rivers, excessive labor, and—most importantly—certain herbs whose spirits were known to **heat the womb, stir the blood, or sweep it clean**. These plants weren’t feared for being harmful; they were respected for being **too powerful**, too cleansing, too tied to endings rather than beginnings.
@@ -143,7 +141,7 @@ This mirrored the land: cleanse the field in winter, plant in spring.
 
 ---
 
-# Human FAQ
+## FAQ
 
 ### **Are these herbs harmful in food?**
 Mostly no. The warning applies to **strong doses**, not culinary pinches.
@@ -155,7 +153,7 @@ Yes—many were used to reset the cycle before switching to fertility-supportive
 No. This is traditional lore blended with cautious modern understanding.
 
 ### **Which herbs actually support fertility?**
-Explore the nourishing plant lists in **[Fertility Herbs for Women](/fertility-herbs-women/)** and **[Fertility Herbs for Men](/fertility-herbs-men/)**.
+Explore the nourishing plants in **[Fertility Herbs for Women](/fertility-herbs-women/)** and **[Fertility Herbs for Men](/fertility-herbs-men/)**.
 
 ### **Are there rituals for conception?**
 Yes. Old European rites of blessing, purification, and creation can be found in **[Fertility Rituals for Creation](/fertility-rituals-creation/)**.
