@@ -12,9 +12,8 @@ This post explores the plants that were once whispered over cradles, planted at 
 
 This is not medical advice. This is folklore, ancestral knowledge, and the craft of roots, leaves, and story.
 
-- To explore fertility for men, see **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**.  
-- Or if you are interested in learning about the folklore-rich conception rites, see **[Magic of Creation](/folk-fertility-rituals/)**.  
-- To explore deeper the concept of fertility as a force of its own, see **[Old Europe Fertility Witchcraft](/old-world-fertility-magic/)**.   
+- To explore fertility for men, see **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**.
+- Learn about what plants to avoid: **[Herbs to Avoid if Trying to Conceive](/herbs-to-avoid-when-getting-pregnant)**.
 
 ---
 
@@ -188,6 +187,13 @@ This is a ritual of blessing, not guarantee. It is about calling vitality, not f
 ## Blood Offerings: Magic of Creation
 
 If you want more raw, ancestral side of this work, step into the exploration of **[Blood-to-Soil Offerings in Old World Witchcraft](/menstrual-blood-earth-ritual/)**.
+
+---
+
+## More on Fertility Folklore
+
+- If you are interested in learning about the folklore-rich conception rites, see **[Folk Magic for Conceiving](/folk-fertility-rituals/)**.  
+- To explore deeper the concept of fertility as a force of its own, see **[Old Europe Fertility Witchcraft](/old-world-fertility-magic/)**.   
 
 ---
 
