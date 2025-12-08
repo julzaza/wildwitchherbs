@@ -31,7 +31,7 @@ Before churches cast their shadows across the continent, Europe was a landscape 
 
 This is the Europe beneath the Europe we know. A place where the borders between humans, spirits, animals, and ancestors were porous, negotiable, and often gleefully crossed.
 
-If you'd like to know why the old magic persisted under Christianity, see **[Why Witches Survived Christianization in the Balkans](balkan-witches)**.
+If you'd like to know why the old magic persisted under Christianity, see **[Why Witches Survived Christianization in the Balkans](/balkan-witches)**.
 
 This post is an attempt to trace the bones of that world: the rites, the spirits, the witches, and the ways of working that shaped the continent long before Christianization swept across it.
 
