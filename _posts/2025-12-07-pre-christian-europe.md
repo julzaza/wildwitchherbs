@@ -27,8 +27,6 @@ schema:
       answer: "Partially. Through folklore, surviving charms, seasonal rites, archaeological evidence, and rural traditions that preserved the old ways beneath Christian veneer."
 ---
 
-# Before Christmas Ever Existed:
-
 Before churches cast their shadows across the continent, Europe was a landscape stitched together by stories, spirits, and the old magic of the land. The people who lived here did not think of nature as scenery or metaphor. Forests were persons. Rivers had moods. Stones remembered. And magic was not a separate practice—it was woven into the rhythm of everyday life.
 
 This is the Europe beneath the Europe we know. A place where the borders between humans, spirits, animals, and ancestors were porous, negotiable, and often gleefully crossed.
