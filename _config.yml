@@ -325,4 +325,19 @@ category_defaults:
   show_posts: true
   excerpt_length: 160
 
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Herbs"
+    url: "/herbs/"
+  - title: "Witchcraft"
+    url: "/witchcraft/"
+  - title: "Folklore"
+    url: "/folklore/"
+  - title: "Rituals"
+    url: "/rituals/"
+  - title: "Shop Wild Herbs"
+    url: "/shop/"
+  - title: "About"
+    url: "/about/"
 
