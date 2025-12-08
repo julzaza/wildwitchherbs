@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Herbs"
+title: "Herbal Guides"
 permalink: /herbs/
-taxonomy: herbal-magic
+categories: [herbal-magic]
 ---
 
-Explore the magical properties, folklore, and traditional uses of the world’s most powerful herbs — from Artemisia to Balkan protection plants.
+Explore the magical, medicinal, and folkloric power of herbs. Materia magica, plant spirits, Artemisia lore, and traditional herbal knowledge from Europe and beyond.
