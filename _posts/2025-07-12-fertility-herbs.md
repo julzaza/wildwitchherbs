@@ -22,7 +22,7 @@ For a deep dive into sex specific human fertility, see:
 - **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**  
 - **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
 
-Also, learn about plants you should keep away from when trying conceive:
+Also, learn about plants you should keep away from when trying to conceive:
 - **[Herbs to Avoid if Trying to Conceive](/herbs-to-avoid-when-getting-pregnant)**.
 
 Here are nine of the most potent fertility herbs in witchcraft and folklore, passed down through stories, spells, and the hands of wise women.
