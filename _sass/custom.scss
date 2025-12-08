@@ -23,3 +23,34 @@ body {
   text-decoration: none;
 }
 
+.archive-posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.archive-post-card {
+  background: rgba(255,255,255,0.8);
+  padding: 1rem 1.2rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.archive-post-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+}
+
+.archive-post-title a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+
+.archive-post-excerpt {
+  margin-top: 0.5rem;
+  color: #555;
+}
+
