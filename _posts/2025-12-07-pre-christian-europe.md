@@ -112,7 +112,7 @@ Rites included:
 Many of these later became “folk customs” under Christianity.
 
 ### Charms and Spells  
-Old European magic relied on spoken formulas, a tradition most visible in survivals like the **[Nine Herbs Charm](/nine-herbs-charm)**.
+Old European magic relied on spoken formulas, a tradition most visible in survivals like the **[Nine Herbs Charm](/nine-herbs-charm-healing)**.
 
 - rhythmic incantations  
 - sung charms  
