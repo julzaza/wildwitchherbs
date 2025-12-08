@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Witchcraft"
+title: "Witchcraft & Folk Magic"
 permalink: /witchcraft/
-taxonomy: witchcraft-ritual
+categories: [witchcraft-ritual]
 ---
 
-Rituals, spells, moon work, fertility charm-craft, protection magic, and old-world techniques passed down through European and Balkan tradition.
+Traditional witchcraft, practical spells, lunar rites, protection charms, and the living magic carried by witches, wise women, and cunning folk.
