@@ -171,7 +171,7 @@ By the late medieval period, the old magical workers were cast as servants of th
 Despite everything, much survived through:
 
 - folk healing  
-- seasonal festivals  
+- seasonal festivals like Summer and **[Winter Solstice Witchcraft](/winter-solstice-witchcraft)**
 - midwives  
 - herbal magic  
 - protective rites  
@@ -219,4 +219,17 @@ You can interlink this post with:
 To understand pre-Christian Europe is to recognize that magic was not witchcraft in the modern sense. It was the operating system of life. A way of being in right relationship with land, dead, spirit, and season.
 
 Christianity overlaid that world with new names, new rules, and new fears. But the bones remain. The spirits remain. And the old magic can still be felt wherever the land is quiet enough to speak.
+
+---
+
+## For Deeper Exploration
+
+- **[Old World Fertility Magic](/old-world-fertility-magic)**  
+- **[The Witch’s Winter Bottle](/witchs-winter-bottle)**  
+- **[Evergreen Magic](/evergreens-witchcraft)**  
+- **[Wormwood in Witchcraft and War](/wormwood-witchcraft-war)**  
+- **[The Midwinter Kitchen](/midwinter-kitchen)**
+
+---
+
 
