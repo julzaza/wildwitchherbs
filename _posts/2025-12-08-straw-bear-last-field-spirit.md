@@ -35,7 +35,7 @@ Before Christianity stretched its shadow across the continent, Europe’s magica
 
 One of the clearest survivors is the **Straw Bear** tradition: a winter rite found in parts of Germany, Austria, and the Czech lands. To understand it is to glimpse the bones of Old European magic still moving beneath the surface.
 
-If you want to explore the broader worldview this ritual came from, see **[Before the Cross: The Old Magic of Pre-Christian Europe](/pre-christian-europe-magic)**.
+If you want to explore the broader worldview this ritual came from, see **[Before the Cross: The Old Magic of Pre-Christian Europe](/pre-christian-europe)**.
 
 ---
 
@@ -138,7 +138,7 @@ It is the last echo of a time when the land spoke, and people answered.
 
 ## For Further Reading
 
-- **[Before the Cross: The Old Magic of Pre-Christian Europe](/pre-christian-europe-magic)**  
+- **[Before the Cross: The Old Magic of Pre-Christian Europe](/pre-christian-europe)**  
 - **[Old World Fertility Magic](/old-world-fertility-magic)**  
 - **[Evergreen Magic](/evergreens-witchcraft)**  
 - **[Winter Solstice Witchcraft](/winter-solstice-witchcraft)**  
