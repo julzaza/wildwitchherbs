@@ -31,14 +31,16 @@ layout: default
     {% assign posts_in_cat = site.posts | where_exp: "post", "post.categories contains cat" %}
 
     {% if posts_in_cat.size > 0 %}
-      <ul class="archive-list">
+      <div class="archive-posts-grid">
         {% for post in posts_in_cat %}
-          <li>
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-          </li>
+          <div class="archive-post-card">
+            <h2 class="archive-post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+            {% if post.excerpt %}
+              <p class="archive-post-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</p>
+            {% endif %}
+          </div>
         {% endfor %}
-      </ul>
+      </div>
     {% else %}
       <p>No posts found in this category yet.</p>
     {% endif %}
