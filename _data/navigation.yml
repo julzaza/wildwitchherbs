@@ -1,10 +1,21 @@
-# main links
-main:
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+- title: Home
+  url: /
+  icon: home
+- title: Herbal Guides
+  url: /herbs/
+  icon: leaf
+- title: Fertility & Magic
+  url: /fertility/
+  icon: heart
+- title: Witchcraft & Folklore
+  url: /folklore/
+  icon: book
+- title: Rituals & Practices
+  url: /rituals/
+  icon: magic
+- title: Shop
+  url: /shop/
+  icon: shopping-cart
+- title: About
+  url: /about/
+  icon: info-circle
