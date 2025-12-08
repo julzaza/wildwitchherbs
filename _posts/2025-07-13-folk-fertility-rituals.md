@@ -67,7 +67,8 @@ In Slavic and Alpine traditions, herbalists would create bundles of **red clover
 
 For a full guide to the plants of Old Europe traditionally used in fertility magic, see 
 - **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**  
-- **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)** 
+- **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
+- **[Herbs to Stay Away From if Trying to Get Pregnant](/herbs-to-avoid-when-getting-pregnant)**.
 
 ## 4. Ancestral Spirit Offerings
 
