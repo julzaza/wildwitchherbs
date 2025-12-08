@@ -5,5 +5,10 @@ permalink: /about/
 categories: [about]
 ---
 
-Wild Witch Herbs is the home of witchy herbal lore, ancestral magic, and practical folkcraft.  
-Explore the stories, traditions, and plants that have shaped European and Balkan magic through the centuries, and discover the modern path woven from these old ways.
+Wild Witch Herbs is a living archive of Old World magic, Balkan folk traditions, and plant lore rooted in the land.  
+Here you’ll find the spells, stories, and herbal knowledge carried by witches, healers, and wise women — woven together with modern earth-centered practice.
+
+This project began as a way to preserve endangered European folk magic traditions while giving space to global herbal wisdom, ritual craft, and ancestral pathways.  
+Every post is researched, written, and crafted with intention: to honor the plants, the spirits, and the old ways.
+
+If you walk the crooked path, tend wild herbs, or seek the lore hidden in roots and rituals, you’re home.
