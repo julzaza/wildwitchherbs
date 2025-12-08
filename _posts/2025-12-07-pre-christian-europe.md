@@ -136,7 +136,7 @@ Gathering herbs was ritualized:
 - offerings always left in return  
 
 ### Blood, Bone, and Soil  
-Before Christianity, offerings of blood—menstrual, animal, or symbolic—were common. Their sacred role in Old Europe is examined deeply in **[The Old Magic of Menstrual Blood Offerings](/menstrual-offerings-old-magic)**.
+Before Christianity, offerings of blood—menstrual, animal, or symbolic—were common. Their sacred role in Old Europe is examined deeply in **[The Old Magic of Menstrual Blood Offerings](/menstrual-blood-earth-ritual)**.
 
 Bones were repositories of power. Soil was a living archive. 
 
