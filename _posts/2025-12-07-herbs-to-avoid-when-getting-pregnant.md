@@ -154,10 +154,10 @@ Yes—many were used to reset the cycle before switching to fertility-supportive
 No. This is traditional lore blended with cautious modern understanding.
 
 ### **Which herbs actually support fertility?**
-Explore the nourishing plants in **[Best Herbs for Conception](top-fertility-herbs-witchcraft/)**.
+Explore the nourishing plants in **[Best Herbs for Conception](/top-fertility-herbs-witchcraft/)**.
 
 ### **Are there rituals for conception?**
-Yes. Old European rites of blessing, purification, and creation can be found in **[Conception Rituals](/fertility-rituals-creation/)**. For a more general exploration of fertility as a force of its own, explore: **[Fertility Magic of the Old World](/old-world-fertility-magic/)**.
+Yes. Old European rites of blessing, purification, and creation can be found in **[Conception Rituals](/folk-fertility-rituals/)**. For a more general exploration of fertility as a force of its own, explore: **[Fertility Magic of the Old World](/old-world-fertility-magic/)**.
 
 ---
 
