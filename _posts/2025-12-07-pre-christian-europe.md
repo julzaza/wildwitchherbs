@@ -213,7 +213,7 @@ Christianity overlaid that world with new names, new rules, and new fears. But t
 ## For Deeper Exploration
 
 - **[Old World Fertility Magic](/old-world-fertility-magic)**  
-- **[The Witch’s Winter Bottle](/witchs-winter-bottle)**  
+- **[The Witch’s Winter Bottle](/witchy-winter-solstice-bottle)**  
 - **[Evergreen Magic](/evergreens-witchcraft)**  
 - **[Wormwood in Witchcraft and War](/wormwood-witchcraft-war)**  
 - **[The Midwinter Kitchen](/midwinter-kitchen)**
