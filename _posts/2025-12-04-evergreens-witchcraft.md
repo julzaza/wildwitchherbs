@@ -118,7 +118,7 @@ Juniper, fir resin, pine needles, and holly all found their way into apotropaic 
 
 Learn how to craft the traditional version: 
 
-**[The Witch’s Winter Bottle: Solstice Protection Magic](//witchy-winter-solstice-bottle/)**.
+**[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**.
 
 ---
 
