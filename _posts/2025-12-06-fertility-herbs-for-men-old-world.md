@@ -27,9 +27,8 @@ This post steps into that older world: the rituals plowmen whispered over their 
 
 This is folklore, historical custom, and witchcraft—not medical instruction.
 
-- To learn about women’s fertility allies, see **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**.  
-- To explore intertwined household and land rituals, see **[Old Europe Fertility Witchcraft](/old-world-fertility-magic/)**.  
-- For conception-focused folklore, visit **[Fertility Magic](/folk-fertility-rituals/)**.  
+- To learn about women’s fertility allies, see **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**.
+- Check out **[Herbs to Avoid if Trying to Conceive](/herbs-to-avoid-when-getting-pregnant)**.
 
 ---
 
@@ -201,6 +200,13 @@ This tonic was believed to awaken courage, desire, and drive.
 6. Let the candle burn at least halfway.
 
 This rite is for renewal, not force.
+
+---
+
+## For More Fertility Magic:
+
+- Explore intertwined household and land rituals, see **[Old Europe Fertility Witchcraft](/old-world-fertility-magic/)**.  
+- Learn about conception-focused folklore, visit **[Fertility Magic](/folk-fertility-rituals/)**.
 
 ---
 
