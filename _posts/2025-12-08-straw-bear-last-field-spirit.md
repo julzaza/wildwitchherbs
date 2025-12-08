@@ -117,8 +117,6 @@ The Straw Bear is not alone. It belongs to a family of European masked agrarian 
 
 All are variations of the old belief that **spirit and soil are inseparable**.
 
-If this mythic worldview interests you, explore related arts in **[Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle)**.
-
 ---
 
 ## Why the Straw Bear Still Matters
