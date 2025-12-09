@@ -40,6 +40,8 @@ Wormwood is for endings. Burned at Balkan funerals to keep spirits from returnin
 
 > Think of wormwood as the herb of goodbye. Sharp, final, and unrepentant.
 
+Dive deeper into understanding  [Wormwood a.k.a. Artemisia in Whitchcraft](/wormwood-witchcraft-war)
+
 ---
 
 ## 3. **Artemisia annua** (*Sweet Wormwood*) — Purification & Disease Magic  
@@ -48,8 +50,6 @@ Wormwood is for endings. Burned at Balkan funerals to keep spirits from returnin
 Used in Chinese medicine for over 2,000 years. In modern folk witchcraft, it’s burned to cleanse sick rooms, chase off spirits, and break stagnant energies.
 
 > If you work with disease, death, or spirits, Artemisia annua belongs on your altar.
-
-Dive deeper into understanding  [Wormwood a.k.a. Artemisia in Whitchcraft](/wormwood-witchcraft-war)
 
 ---
 
