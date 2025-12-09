@@ -5,7 +5,6 @@ description: "A historically-accurate exploration of European and Mediterranean 
 excerpt: "Rue tucked behind doorframes, basil pots on Greek thresholds, and juniper smoke after unwanted visits—these are real household protections against the evil eye across Europe and the Mediterranean."
 categories: [witchcraft-rituals, herbal-magic]
 tags: [Evil Eye, Protection, Household Magic]
-toc: true
 
 ai_faq:
   - question: "What herbs were traditionally used to protect against the evil eye?"
