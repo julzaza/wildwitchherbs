@@ -38,8 +38,6 @@ The scent itself was considered cleansing.
 
 Housewives burned rosemary wood in the hearth, and cunning women brushed rosemary bundles over doorframes during liminal festivals.
 
-For more indoor magical plants, see **[Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)**.
-
 ---
 
 ## The Plant of Memory, Spirit, and the Dead  
