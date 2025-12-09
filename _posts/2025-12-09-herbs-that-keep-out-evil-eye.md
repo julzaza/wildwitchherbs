@@ -60,7 +60,7 @@ Historic uses:
 
 Italian folk tradition considered rue strong enough to “split” the force of envy. It is one of the most reliable herbs for this theme.
 
-Rue is a natural companion to **[Witchy Plants for the Doorways](/witchy-plants-front-door)**.
+Rue is a natural companion to **[Witchy Plants for the Doorways](/witchy-plants-for-front-door)**.
 
 ---
 
