@@ -25,7 +25,7 @@ Its presence meant one thing:
 
 This tradition is among the oldest and most widespread in European folk magic, stretching from the Scottish Highlands to Scandinavia, the Isle of Man, Ireland, Wales, and northern Germanic regions.
 
-If you want more plant magic for the threshold, see **[Front Door Witchy Plants](/witchy-plants-for-front-door/)** which places rowan among other doorway guardians.
+If you want more plant magic for the threshold, see **[Ancient Doorway Talismans](/witchy-plants-for-front-door/)** which places rowan among other doorway guardians.
 
 ---
 
@@ -148,7 +148,7 @@ Yes—but only in the proper place and season. Direction and intent mattered.
 Yes. St. Brigid, St. Helen, and St. Michael sometimes absorbed older rowan lore, making it both magical and “holy.”
 
 ### **Should modern witches plant rowan by the door?**
-If it suits your land and climate, absolutely. Rowan is one of the most traditional threshold guardians in European witchcraft. Also, **[Witches Plant Rosemary by The Front Door](/rowan-trees-front-door-old-world-folklore/)**.. 
+If it suits your land and climate, absolutely. Rowan is one of the most traditional threshold guardians in European witchcraft. Also, **[Witches Use Rosemary to Guard the Front Door](/rowan-trees-front-door-old-world-folklore/)**.
 
 ---
 
