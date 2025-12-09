@@ -106,7 +106,7 @@ Folklore attributes:
 
 Many households planted rosemary specifically at **corners of houses**, where misfortune was believed to cling.
 
-More at: **[Rosemary to Protect Witchy Doorways](/rosemary-by-the-door)**.
+More at: **[Rosemary to Protect Witchy Doorways](/why-witches-plant-rosemary-front-door/)**.
 
 ---
 
