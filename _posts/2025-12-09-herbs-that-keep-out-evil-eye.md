@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Herbs to Keep Out the Evil Eye Next Door"
 description: "A historically-accurate exploration of European and Mediterranean herbs used in household folklore to guard against the evil eye, envy, and hostile neighbors."
 excerpt: "Rue tucked behind doorframes, basil pots on Greek thresholds, and juniper smoke after unwanted visits—these are real household protections against the evil eye across Europe and the Mediterranean."
@@ -39,6 +39,13 @@ And the protections households used were equally practical: **herbs grown by the
 
 Below are the historically attested plants used to keep out the evil eye—no modern inventions, only real cultural lore.
 
+- **Rue** — breaks the evil eye  
+- **Basil** — blocks gossip and malice  
+- **Garlic** — public protection  
+- **Rosemary** — strengthens household boundaries  
+- **Juniper** — smoke to scatter envy  
+- **Black cumin** — binds harmful intention
+
 ---
 
 ## **1. Rue (Ruta graveolens) — The Breaker of Envy**  
@@ -54,7 +61,7 @@ Historic uses:
 
 Italian folk tradition considered rue strong enough to “split” the force of envy. It is one of the most reliable herbs for this theme.
 
-Rue is a natural companion to threshold lore in **[Witchy Plants for Front Doors](/witchy-plants-front-door)**.
+Rue is a natural companion to **[Witchy Plants for the Doorways](/witchy-plants-front-door)**.
 
 ---
 
@@ -68,7 +75,7 @@ Basil has two roles in evil-eye tradition:
 Greek island households kept a basil pot at the front door “to sweeten the eyes” of anyone entering.  
 In Bulgaria and Serbia, basil water was sprinkled around rooms after a difficult visit.
 
-It ties neatly into the garden magic of **[How to Start Your Own Witchy Garden](/start-witchy-garden)**.
+Maybe this will inspire you to **[Start Your Own Witchy Garden](/start-witchy-garden)**.
 
 ---
 
@@ -100,7 +107,7 @@ Folklore attributes:
 
 Many households planted rosemary specifically at **corners of houses**, where misfortune was believed to cling.
 
-More at: **[Why Witches Plant Rosemary by the Door](/rosemary-by-the-door)**.
+More at: **[Rosemary to Protect Witchy Doorways](/rosemary-by-the-door)**.
 
 ---
 
@@ -129,19 +136,6 @@ Folklore roles:
 - scattered at thresholds to bind hostile intention  
 
 In Greek and Ottoman Balkan households, it was called the “eye-closing seed.”
-
----
-
-# **TL;DR**
-Across Europe and the Mediterranean, these herbs protected homes from envy:
-- **Rue** — breaks the evil eye  
-- **Basil** — blocks gossip and malice  
-- **Garlic** — public protection  
-- **Rosemary** — strengthens household boundaries  
-- **Juniper** — smoke to scatter envy  
-- **Black cumin** — binds harmful intention  
-
-Folklore only, no medicinal use.
 
 ---
 
