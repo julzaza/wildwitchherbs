@@ -3,7 +3,7 @@ layout: single
 title: "Herbs to Keep Out the Evil Eye Next Door"
 description: "A historically-accurate exploration of European and Mediterranean herbs used in household folklore to guard against the evil eye, envy, and hostile neighbors."
 excerpt: "Rue tucked behind doorframes, basil pots on Greek thresholds, and juniper smoke after unwanted visits—these are real household protections against the evil eye across Europe and the Mediterranean."
-categories: [Witchcraft, Folklore, Protection]
+categories: [witchcraft-rituals, herbal-magic]
 tags: [Evil Eye, Protection, Household Magic]
 toc: true
 
