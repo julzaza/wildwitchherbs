@@ -167,7 +167,7 @@ Not just for inside! Bundles of lavender were hung by front doors to calm househ
 ---
 
 ## ✦ 16. Rosemary (Rosmarinus officinalis)
-“Where rosemary grows, the woman rules.” It was planted by thresholds for fidelity and strength.
+“Where rosemary grows, the woman rules.” It was planted by thresholds for fidelity and strength. Check out **[Rosemary- Witchy Plant to Guard the Front Door](/rowan-trees-front-door-old-world-folklore/)**.
 
 - Folklore: Brides carried it, but it was also burned at doorways during plague times.
 - Magic: Memory, love, purification.
