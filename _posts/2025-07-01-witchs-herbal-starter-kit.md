@@ -31,6 +31,8 @@ In Slavic Midsummer rituals, mugwort was braided and worn to protect against mad
 
 > Mugwort doesn’t ask for permission. She opens doors.
 
+See how to **[Use Mugwort and Wormwood for Prophetic Dreaming](/solstice-dreaming-mugwort-wormwood/)**.
+
 ---
 
 ## 2. **Wormwood** (*Artemisia absinthium*) — Banishing & Spirit Work  
@@ -40,7 +42,7 @@ Wormwood is for endings. Burned at Balkan funerals to keep spirits from returnin
 
 > Think of wormwood as the herb of goodbye. Sharp, final, and unrepentant.
 
-Dive deeper into understanding  [Wormwood a.k.a. Artemisia in Whitchcraft](/wormwood-witchcraft-war)
+Dive deeper into understanding **[Wormwood a.k.a. Artemisia in Whitchcraft](/wormwood-witchcraft-war)**.
 
 ---
 
