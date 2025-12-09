@@ -55,6 +55,7 @@ Rowan was planted there because it:
 - reinforced the household’s right to stand untouched  
 
 In some regions, rowan twigs were placed **above the door lintel** during the Twelve Nights or Midsummer—liminal festivals full of wandering spirits.
+
 ---
 
 ## Direction Matters: The Folklore of Placement  
