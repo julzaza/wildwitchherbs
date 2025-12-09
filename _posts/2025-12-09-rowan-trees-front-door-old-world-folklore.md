@@ -3,11 +3,8 @@ layout: single
 title: "Rowan Trees by the Door: Old European Folklore"
 description: "A historically grounded, folklore-rich exploration of why rowan trees protected thresholds, gates, and doorways in Old European witchcraft."
 excerpt: "Discover the Old European tradition of planting rowan trees at the door—why witches, shepherds, and household guardians trusted this tree to defend the threshold."
-categories: [Folklore, Witchcraft, Trees]
+categories: [folklore-ancestral, witchcraft-rituals]
 tags: [Rowan, Protection, Thresholds, Folklore]
-toc: true
-toc_label: "On This Page"
-toc_sticky: true
 
 schema:
   type: Article
@@ -20,13 +17,6 @@ schema:
       answer: "Yes. In Scottish and Northern English folklore, rowan planted on the wrong side—especially west-facing—could attract the dead rather than protect the living."
 ---
 
-# TL;DR  
-Rowan was the great **threshold guardian** of Old Europe. Witches, farmers, travelers, and herdsmen planted it near doors and gates because its red berries, star-shaped markings, and powerful associations with saints and spirits made it the tree that repelled harm, broke curses, and guarded the home.
-
----
-
-# Rowan Trees by the Door: Old European Folklore
-
 In nearly every corner of Northern and Celtic Europe, the rowan tree stood where **danger met the household**—at the threshold, the gate, the byre door, or the beginning of the farm path.
 
 Its presence meant one thing:
@@ -35,9 +25,7 @@ Its presence meant one thing:
 
 This tradition is among the oldest and most widespread in European folk magic, stretching from the Scottish Highlands to Scandinavia, the Isle of Man, Ireland, Wales, and northern Germanic regions.
 
-If you want broader threshold lore, see  
-**my post on [Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**  
-which places rowan among other doorway guardians.
+If you want more plant magic for the threshold, see **[Front Door Witchy Plants](/witchy-plants-for-front-door/)** which places rowan among other doorway guardians.
 
 ---
 
@@ -67,10 +55,6 @@ Rowan was planted there because it:
 - reinforced the household’s right to stand untouched  
 
 In some regions, rowan twigs were placed **above the door lintel** during the Twelve Nights or Midsummer—liminal festivals full of wandering spirits.
-
-For seasonal plant rites, explore  
-**[The Witch’s Winter Bottle: Solstice Protection Magic](/the-witchs-winter-bottle/)**.
-
 ---
 
 ## Direction Matters: The Folklore of Placement  
