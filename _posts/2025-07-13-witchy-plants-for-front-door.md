@@ -167,7 +167,7 @@ Not just for inside! Bundles of lavender were hung by front doors to calm househ
 ---
 
 ## ✦ 16. Rosemary (Rosmarinus officinalis)
-“Where rosemary grows, the woman rules.” It was planted by thresholds for fidelity and strength. Check out **[Rosemary- Witchy Plant to Guard the Front Door](/why-witches-plant-rosemary-front-door/)**.
+“Where rosemary grows, the woman rules.” It was planted by thresholds for fidelity and strength. Check out **[Rosemary- Witchy Plant to Guard the Front Door](/why-witches-plant-rosemary-front-door/)** for more.
 
 - Folklore: Brides carried it, but it was also burned at doorways during plague times.
 - Magic: Memory, love, purification.
@@ -177,4 +177,4 @@ Not just for inside! Bundles of lavender were hung by front doors to calm househ
 
 The door you walk through each day can become **a gate of magic**, a veil stitched with root and leaf, bloom and thorn. Let it **speak on your behalf**: *“This home is watched, protected, and blessed.”*
 
-Want to guard your inner space as well? Explore [Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)
+Want to guard your inner space as well? Explore: **[Grow Witchy Plants Indoors](/witchy-plants-to-grow-indoors/)**.
