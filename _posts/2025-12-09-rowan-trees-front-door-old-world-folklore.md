@@ -148,7 +148,7 @@ Yes—but only in the proper place and season. Direction and intent mattered.
 Yes. St. Brigid, St. Helen, and St. Michael sometimes absorbed older rowan lore, making it both magical and “holy.”
 
 ### **Should modern witches plant rowan by the door?**
-If it suits your land and climate, absolutely. Rowan is one of the most traditional threshold guardians in European witchcraft. Also, **[Witches Use Rosemary to Guard the Front Door](/rowan-trees-front-door-old-world-folklore/)**.
+If it suits your land and climate, absolutely. Also, **[Witches Use Rosemary to Guard the Front Door](/rowan-trees-front-door-old-world-folklore/)**.
 
 ---
 
