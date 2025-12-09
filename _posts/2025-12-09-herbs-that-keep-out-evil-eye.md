@@ -74,7 +74,7 @@ Basil has two roles in evil-eye tradition:
 Greek island households kept a basil pot at the front door “to sweeten the eyes” of anyone entering.  
 In Bulgaria and Serbia, basil water was sprinkled around rooms after a difficult visit.
 
-Maybe this will inspire you to **[Start Your Own Witchy Garden](/start-witchy-garden)**.
+Maybe this will inspire you to **[Start Your Own Witchy Garden](/witch-garden)**.
 
 ---
 
