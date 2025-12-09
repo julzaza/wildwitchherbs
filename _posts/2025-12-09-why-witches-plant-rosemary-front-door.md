@@ -3,11 +3,8 @@ layout: single
 title: "Why Witches Plant Rosemary by the Door"
 description: "A folklore-based explanation of why rosemary guards doorways, protects the home, and strengthens the threshold in Old European witchcraft."
 excerpt: "Explore the Old European belief that rosemary planted by the front door protects the home, sharpens intuition, and guards against wandering spirits and ill intentions."
-categories: [Herbs, Witchcraft, Folklore]
+categories: [herbal-magic, folklore-ancestral]
 tags: [Rosemary, Protection, Thresholds]
-toc: true
-toc_label: "On This Page"
-toc_sticky: true
 
 schema:
   type: Article
@@ -25,15 +22,12 @@ Rosemary at the door is one of the oldest household protections in Southern Euro
 
 ---
 
-# Why Witches Plant Rosemary by the Door
-
 In the warm, wind-swept regions of the Mediterranean, rosemary grew as naturally as superstition.  
 Villagers planted it near doors, gates, and paths for hundreds of years—not just for cooking, but to **guard the home**, **bless the family**, and **test visitors’ intentions**.
 
 This custom survived into witchcraft, cunning work, and folk magical traditions from Italy to the Balkans, Spain to Greece, and into the British Isles through Mediterranean influence.
 
-For a broader look at doorway plants, see  
-**my article on [Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**.
+For more doorway plants, see **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**.
 
 ---
 
@@ -49,8 +43,7 @@ The scent itself was considered cleansing.
 
 Housewives burned rosemary wood in the hearth, and cunning women brushed rosemary bundles over doorframes during liminal festivals.
 
-For more indoor magical plant lore, see  
-**[Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)**.
+For more indoor magical plants, see **[Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)**.
 
 ---
 
