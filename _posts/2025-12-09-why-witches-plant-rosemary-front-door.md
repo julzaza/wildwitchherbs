@@ -115,10 +115,10 @@ These actions were meant to declare:
 Yes. Rosemary’s role as a purification herb is consistent across Greek, Roman, Jewish, Italian, Spanish, and Balkan traditions.
 
 ### **Did witches actually plant it by the door?**  
-Yes—historically rooted in household magic, not modern Wiccan invention.
+Yes—historically rooted in household magic, not modern Wiccan invention. Also check out **[Rowan for the Thresholds](/rowan-trees-front-door-old-world-folklore/)**.
 
 ### **Can rosemary replace other protective plants?**  
-It can complement them beautifully. Rowan for thresholds, rosemary for doors, juniper for winter spirits.
+It can complement them beautifully.  see **[Doorway Plants to Protect Your Home](/witchy-plants-for-front-door/)**.
 
 ---
 
