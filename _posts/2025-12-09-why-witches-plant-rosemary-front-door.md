@@ -22,7 +22,7 @@ Villagers planted it near doors, gates, and paths for hundreds of years—not ju
 
 This custom survived into witchcraft, cunning work, and folk magical traditions from Italy to the Balkans, Spain to Greece, and into the British Isles through Mediterranean influence.
 
-For more doorway plants, see **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**.
+For more doorway plants, see **[Threshold Plants to Protect Your Home](/witchy-plants-for-front-door/)**.
 
 ---
 
