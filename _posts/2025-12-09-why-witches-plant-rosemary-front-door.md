@@ -3,7 +3,7 @@ layout: single
 title: "Why Witches Plant Rosemary by the Door"
 description: "A folklore-based explanation of why rosemary guards doorways, protects the home, and strengthens the threshold in Old European witchcraft."
 excerpt: "Explore the Old European belief that rosemary planted by the front door protects the home, sharpens intuition, and guards against wandering spirits and ill intentions."
-categories: [herbal-magic, folklore-ancestral]
+categories: [herbal-magic, witchcraft-rituals]
 tags: [Rosemary, Protection, Thresholds]
 
 schema:
@@ -72,10 +72,7 @@ Families planted it:
 
 So that **any ill intention, envy, or malocchio** was broken before entering the house.
 
-Sometimes sprigs were tucked into door wreaths during major festivals—especially the Twelve Nights and midsummer.
-
-If you like seasonal lore, explore  
-**[The Witch’s Winter Bottle: Solstice Protection Magic](/the-witchs-winter-bottle/)**.
+Sometimes sprigs were tucked into door wreaths during major festivals—especially the **[Twelve Nights](/twelve-nights-witchcraft/)** and midsummer.
 
 ---
 
