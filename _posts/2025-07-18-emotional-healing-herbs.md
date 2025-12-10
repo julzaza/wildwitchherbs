@@ -1,11 +1,112 @@
 ---
 layout: single
-title: "Witchy Herbs for Anxiety, Grief, and Emotional Healing"
+title: "Witchy Herbs for Emotional Healing: Anxiety & Grief"
 permalink: /witchy-herbs-anxiety-grief-emotional-healing/
-excerpt: "Discover calming herbs witches have used for centuries to ease anxiety, heal grief, and support emotional balance—lavender, St. John’s wort, valerian, and more."
-categories: herbs
-tags: [witchcraft, herbalism, anxiety, grief, emotional healing, witchy plants, calming herbs, natural remedies, folk medicine]
-description: "A folklore-rich guide to witchy herbs for emotional healing, from anxiety and depression to heartbreak and grief. Explore sacred plants like St. John's Wort, Passionflower, Rhodiola, and Holy Basil, and learn how to use them in spells and rituals."
+excerpt: "A deep, folklore-rich guide to witchy herbs for emotional healing—calming anxiety, easing grief, balancing the heart, and supporting spiritual resilience through plant magic."
+description: "Explore witchy herbs for emotional healing through Old World folklore, ritual magic, and herbal wisdom. Learn how plants like lemon balm, St. John’s wort, valerian, mugwort, and hawthorn soothe anxiety, grief, heartbreak, and spiritual exhaustion."
+categories: [natural-healing, folklore-ancestral]
+tags:
+  - witchcraft
+  - herbalism
+  - anxiety
+  - grief
+  - emotional healing
+  - witchy plants
+  - calming herbs
+  - natural remedies
+  - folk medicine
+  - plant magic
+  - ancestral healing
+
+# --- STRUCTURED DATA (JSON SCHEMA) ---
+schema:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  "headline": "Witchy Herbs for Emotional Healing: Anxiety & Grief"
+  "description": "A folklore-based guide to witchy herbs traditionally used for emotional healing, including anxiety, grief, heartbreak, and spiritual exhaustion."
+  "author":
+    "@type": "Person"
+    "name": "Wild Witch Herbs"
+  "publisher":
+    "@type": "Organization"
+    "name": "Wild Witch Herbs"
+  "mainEntityOfPage": "{{ page.url | absolute_url }}"
+  "image": "{{ site.url }}/assets/images/witchy-herbs-emotional-healing.jpg"
+
+  # FAQPage schema
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Which herbs are best for emotional healing in witchcraft?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Lemon balm, St. John’s wort, mugwort, rose, hawthorn, calendula, valerian, skullcap, and chamomile are central emotional-healing herbs used in Old European and global witchcraft traditions."
+
+    - "@type": "Question"
+      "name": "What herb is best for anxiety and emotional overwhelm?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Lemon balm, skullcap, chamomile, and passionflower are the gentlest and most reliable nervines for emotional overwhelm according to folk herbal traditions."
+
+    - "@type": "Question"
+      "name": "Which witchy herb is best for grief?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Rose, hawthorn, calendula, and mugwort are all associated with grief rituals, heart healing, and ancestral connection in Old European magical traditions."
+
+    - "@type": "Question"
+      "name": "What herbs help with heartbreak and emotional trauma?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Hawthorn, motherwort, rose, and blue vervain support emotional release and stabilization, while mugwort helps integrate grief through dreamwork."
+
+    - "@type": "Question"
+      "name": "What is the safest calming herb for beginners?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Chamomile, lemon balm, and lavender are considered the safest beginner-friendly calming plants in folk herbalism."
+
+    - "@type": "Question"
+      "name": "Which herbs are used in witchcraft for nightmares and sleep?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Valerian, mugwort, lavender, and passionflower are used in Old World dream magic to calm the mind, deepen sleep, and soften nightmares."
+
+    - "@type": "Question"
+      "name": "What is a good herb for mood lifting and seasonal sadness?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "St. John’s wort has a long European tradition of lifting low spirits, especially when harvested on Midsummer’s Eve."
+
+    - "@type": "Question"
+      "name": "Which herbs support emotional resilience and strength?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Rhodiola, holy basil, fennel, and thyme are used in magical and medicinal traditions for courage, clarity, and long-term resilience."
+
+    - "@type": "Question"
+      "name": "What herbs should I combine for emotional healing teas?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "A classic emotional-healing blend includes lemon balm, rose, chamomile, and hawthorn. Mugwort or lavender can be added for dreamwork."
+
+    - "@type": "Question"
+      "name": "Which herbs should be avoided when taking antidepressants?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "St. John’s wort can interact with SSRIs and should not be combined with them. Always research interactions with prescription medications."
+
+    - "@type": "Question"
+      "name": "What is the best herb for grounding spiritual anxiety?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Holy basil (tulsi), motherwort, and skullcap are used across folk traditions for grounding and easing fear in the energetic body."
+
+    - "@type": "Question"
+      "name": "Which witchy herbs help in grief rituals and ancestral work?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Mugwort, hawthorn, rose, calendula, and thyme appear in rites of mourning, ancestral communication, and rituals of release."
+
 ---
 
 Witches have always known what the world is only beginning to remember: **healing the heart takes more than logic**. 
