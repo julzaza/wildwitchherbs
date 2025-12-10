@@ -1,7 +1,7 @@
 ---
 title: "The Witch’s Herbal Starter Kit: 10 Powerful Plants"
 date: 2025-07-01
-categories: [Herbs, Witchcraft, Folklore]
+categories: [Herbal-magic, Witchcraft-rituals, Folklore-ancestral]
 tags: [herbs, witchcraft, rituals, artemisia, folklore, protection, healing, beginners]
 description: "Ten powerful herbs every modern witch should know — from ancestral folklore to protective magic and plant rituals."
 author: Luna
