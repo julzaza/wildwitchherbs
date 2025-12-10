@@ -52,14 +52,14 @@ No plant appears more widely in European dream folklore than **mugwort (Artemisi
 
 Medieval herbals describe it as a plant that “guards the wanderer”—the wanderer being either the traveler on a real road or the sleeper on the dream-road.
 
+Check out **[How Mugwort is Used Traditionally for Prophetic Dreaming During the Winter Solstice](/solstice-dreaming-mugwort-wormwood/)**.
+
 Historic uses included:
 - hung above the bed to protect the dreaming soul  
 - burned in small amounts on midsummer nights for prophetic visions  
 - woven into sleeping charms during the Twelve Nights  
 
 In the Balkans, mugwort was tied with red thread and hung where the sleeper could see it upon waking—anchoring the soul back into the body.
-
-For deeper Artemisia lineage, see **[Wormwood in Witchcraft & War](/wormwood-witchcraft-war)**.
 
 ---
 
