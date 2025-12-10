@@ -113,7 +113,7 @@ Juniper especially appears in:
 - window bundles to block harmful night spirits  
 - postpartum rooms to protect mother and infant during vulnerable sleep  
 
-More evergreen folklore: **[Evergreen Magic Existed Long Before Christmas](/evergreens-witchcraft)**.
+Actually, **[Evergreen Witchcraft Existed Long Before Christmas and Christianity](/evergreens-witchcraft)**.
 
 ---
 
