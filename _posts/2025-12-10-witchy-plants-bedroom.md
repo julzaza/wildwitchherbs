@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "Witchy Plants for Bedrooms: Dreamwork Folklore & Night Magic"
+title: "Witchy Plants for Bedrooms: Dreamwork & Night Magic"
 description: "A historically-grounded guide to the Old European and Mediterranean plants used for dreamwork, prophecy, and nighttime protection, based on real folklore—not modern invention."
 excerpt: "From mugwort above the bed to juniper branches at the window, this is the oldest folklore of dream herbs used by witches, midwives, and night-watchers across Europe and the Mediterranean."
-categories: [Witchcraft, Folklore, Herbal Magic]
+categories: [witchcraft-rituals, herbal-magic]
 tags: [Dreamwork, Protection, Folklore, Night Magic]
-toc: true
 
 ai_faq:
   - question: "What plants were historically used for dreamwork in European witchcraft?"
@@ -28,7 +27,6 @@ schema:
   "image": "/assets/images/default.jpg"
 ---
 
-# Witchy Plants for Bedrooms: Dreamwork Folklore & Night Magic  
 *Old European & Mediterranean Night Traditions*
 
 Night was always a threshold hour.  
@@ -37,6 +35,13 @@ Folklore across Europe and the Mediterranean held a quiet terror: that during sl
 And so households developed a second kind of nighttime garden—**the plants kept close to the sleeper**, guarding the mind’s doorway.
 
 What follows is a **historically accurate**, folklore-based guide to the dream plants witches, midwives, and everyday households relied on.
+
+- **Mugwort** for dream protection  
+- **Bay** for prophecy  
+- **Jasmine** for spirit-calming  
+- **Rosemary** as a soul-guardian  
+- **Juniper** to dispel nightmares  
+- **Lemon balm** for calm, safe sleep  
 
 ---
 
@@ -66,9 +71,7 @@ Bay leaves under the pillow appear in some of the oldest Mediterranean dream pra
 Historic uses:
 - placed beneath a sleeping mat to “open the gates of true dreams”  
 - burned in small amounts before sleep by seers  
-- hung at windows to prevent deceptive spirits  
-
-Bay as a threshold herb links naturally with your post **[Witchy Plants for Front Doors](/witchy-plants-front-door)**.
+- hung at windows to prevent deceptive spirits
 
 ---
 
@@ -96,7 +99,7 @@ Folklore attributes:
 
 Some Alpine households placed rosemary in a corner opposite the bed—“where shadows gather.”
 
-See also: **[Why Witches Plant Rosemary by the Door](/rosemary-by-the-door)**.
+See also: **[Why Witches Plant Rosemary by the Doorways](/why-witches-plant-rosemary-front-door/)**.
 
 ---
 
@@ -110,7 +113,7 @@ Juniper especially appears in:
 - window bundles to block harmful night spirits  
 - postpartum rooms to protect mother and infant during vulnerable sleep  
 
-More evergreen lore: **[Evergreen Magic](/evergreens-witchcraft)**.
+More evergreen folklore: **[Evergreen Magic Existed Long Before Christmas](/evergreens-witchcraft)**.
 
 ---
 
@@ -125,19 +128,6 @@ Folklore uses:
 - comforting grieving dreamers  
 
 It appears in monastic manuscripts as a nighttime herb to “settle the minds of novices.”
-
----
-
-# **TL;DR**
-Historically used bedroom herbs:  
-- **Mugwort** for dream protection  
-- **Bay** for prophecy  
-- **Jasmine** for spirit-calming  
-- **Rosemary** as a soul-guardian  
-- **Juniper** to dispel nightmares  
-- **Lemon balm** for calm, safe sleep  
-
-All uses above are **folklore**, not medical.
 
 ---
 
