@@ -223,5 +223,6 @@ That’s how witches do it.
   - **"What are the benefits of lunar gardening?"**
 
     "Beyond healthier plants and higher yields, lunar gardening deepens connection to nature and ancestral wisdom, aligns herbs with seasonal energy, and strengthens intention and magical potency in planting, harvesting, and rituals."
+    
 ---
 
