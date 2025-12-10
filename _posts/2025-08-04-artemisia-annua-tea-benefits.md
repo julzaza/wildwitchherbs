@@ -3,7 +3,7 @@ layout: single
 title: "The Bitter Brew: Discovering Artemisia Annua Tea"
 permalink: /blog/artemisia-annua-tea-benefits/
 categories: [natural-healing, herbal-magic]
-tags: [herbs, artemisia annua, bitter herbs, old europe witchcraft]
+tags: [herbs, artemisia annua, bitter herbs, old europe witchcraft, asian herbs]
 description: Discover the ancient, bitter tradition of Artemisia annua tea — a wild Old World tonic rooted in folk medicine, seasonal cleansing, and protective witchcraft rituals.
 excerpt: Dive into the folklore, ritual uses, and traditional bitterness of Artemisia annua tea — a centuries-old brew used across Europe, Asia, and the Balkans for cleansing, protection, and resilience.
 
