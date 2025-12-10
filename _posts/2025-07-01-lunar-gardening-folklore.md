@@ -1,10 +1,10 @@
 ---
+layout: single
 title: "Lunar Gardening: How Real Witches Plant with the Moon"
-excerpt: "The moon’s rhythm isn’t just for spells and cycles. It governs roots, leaves, and everything in between. Learn how to plant herbs with purpose — guided by phases, not trends."
+permalink: /lunar-gardening-folklore/
+date: 2025-07-02
 categories:
-  - Witchcraft
-  - Lunar Magic
-  - Herbal Gardening
+  - folklore-ancestral
 tags:
   - lunar gardening
   - moon phases
@@ -13,8 +13,73 @@ tags:
   - planting rituals
   - herbal traditions
 related: true
-date: 2025-07-02
-permalink: /lunar-gardening-folklore/
+excerpt: "The moon’s rhythm isn’t just for spells and cycles. It governs roots, leaves, and everything in between. Learn how to plant herbs with purpose — guided by phases, not trends."
+description: "Explore lunar gardening through Old European and global folklore. Learn how to plant, harvest, and ritualize herbs with the moon phases, including cultural practices, moon herbs, and planting rituals."
+
+# --- SCHEMA & FAQ ---
+schema:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  "headline": "Lunar Gardening: How Real Witches Plant with the Moon"
+  "description": "A folklore-based guide to lunar gardening, planting herbs with the moon, cultural planting rituals, and magical uses of moon-tied herbs."
+  "author":
+    "@type": "Person"
+    "name": "Wild Witch Herbs"
+  "publisher":
+    "@type": "Organization"
+    "name": "Wild Witch Herbs"
+  "mainEntityOfPage": "{{ page.url | absolute_url }}"
+  "image": "{{ site.url }}/assets/images/lunar-gardening.jpg"
+
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What is lunar gardening?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Lunar gardening is the practice of planting, pruning, and harvesting in accordance with the moon’s phases, using traditional knowledge to enhance plant growth and magical properties."
+
+    - "@type": "Question"
+      "name": "How do moon phases affect plant growth?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "During the waxing moon, energy rises to stems and leaves, favoring above-ground crops. During the waning moon, energy moves downward, supporting root growth and pruning."
+
+    - "@type": "Question"
+      "name": "Which herbs are associated with the moon?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Artemisia, hyssop, pennyroyal, mugwort, and mandrake are culturally and magically tied to the moon for clarity, protection, purification, dreamwork, and ritual power."
+
+    - "@type": "Question"
+      "name": "What are some lunar planting rituals across cultures?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Examples include Andean farmers blessing seeds with spit, Slavic midwives burying wormwood seeds while whispering ancestors' names, Yoruba offerings of honey and cowrie, and Kabbalistic prayers for sefirot-associated herbs."
+
+    - "@type": "Question"
+      "name": "Can I practice lunar gardening without land?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Lunar gardening works in jars, pots, windowsills, or small urban patches. Timing with the moon phases is more important than the size of your space."
+
+    - "@type": "Question"
+      "name": "When should I plant and harvest with the moon?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "New moon is for planning and intentions, waxing moon for planting above-ground crops, full moon for harvesting leafy plants and flowers, and waning moon for pruning and root crops."
+
+    - "@type": "Question"
+      "name": "Why follow lunar cycles instead of calendar dates?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Lunar cycles align with natural energy flows in plants and soil, improving germination, growth, vitality, and the magical potency of herbs and rituals."
+
+    - "@type": "Question"
+      "name": "What are the benefits of planting herbs according to the moon?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "In addition to stronger growth and better yields, lunar gardening supports ritual intention, connection to ancestral wisdom, seasonal alignment, and deeper energetic attunement with plants."
+
 ---
 
 Long before apps and pretty planners told us when to sow seeds, people watched the moon. They did it because it worked.
@@ -116,8 +181,59 @@ So plant when the moon pulls, not when the seeds' packet says so.
 
 That’s how witches do it.
 
+---
 
 ## Related Posts
 
 - [Full Moon Rituals with Sacred Herbs](/full-moon-rituals)
 - [How to Make Moon Water and Use It in Magic](/moon-water-magic)
+
+
+## Frequently Asked Questions
+
+  - question: "What is lunar gardening?"
+    answer: "Lunar gardening is the practice of planting, pruning, and harvesting according to the moon’s phases. By aligning with lunar rhythms, you can enhance plant growth, increase yields, and deepen your connection to the cycles of nature."
+
+  - question: "How do moon phases affect plants?"
+    answer: |
+      Waxing moon: Energy rises to stems and leaves. Best for planting above-ground herbs and crops.
+      Waning moon: Energy moves downward. Ideal for root crops, pruning, and clearing.
+      New moon: Rest, plan, and set intentions in your garden.
+      Full moon: Peak energy for harvesting, drying, or gathering herbs for rituals.
+
+  - question: "Which herbs are most influenced by the moon?"
+    answer: |
+      Herbs traditionally tied to lunar energy include:
+      - Artemisia – clarity, protection, dreamwork
+      - Hyssop – purification and cleansing
+      - Pennyroyal – female power and protection
+      - Mugwort – divination and dreamwork
+      - Mandrake – magical potency and ritual power
+
+  - question: "Can I practice lunar gardening without land?"
+    answer: "Absolutely. You can use jars, pots, balconies, or small urban patches. Timing with the moon is more important than the size of your planting space."
+
+  - question: "What are some traditional lunar planting rituals?"
+    answer: |
+      - Andean farmers blessed coca seeds with spit before planting.
+      - Slavic midwives wrapped wormwood seeds in linen while whispering ancestral names.
+      - Yoruba offerings of honey and cowrie were buried with sacred herbs for protection and divination.
+      - Kabbalistic practitioners recited prayers over herbs tied to the sefirot (cosmic attributes).
+
+  - question: "Why follow the moon instead of the calendar?"
+    answer: "Plants respond to natural energy flows that follow the lunar cycle. Aligning your gardening with these rhythms can improve germination, growth, and the spiritual potency of your herbs."
+
+  - question: "When should I plant or harvest?"
+    answer: |
+      - New moon: Plan and bless seeds
+      - Waxing moon: Plant above-ground crops
+      - Full moon: Harvest leafy herbs and flowers
+      - Waning moon: Plant root crops, prune, and remove unwanted plants
+
+  - question: "What are the benefits of lunar gardening?"
+    answer: |
+      Besides healthier plants and higher yields, lunar gardening fosters:
+      - Deeper connection to nature and ancestral wisdom
+      - Seasonal alignment for herbs and garden energy
+      - Stronger intention and magical potency in planting, harvesting, and rituals
+
