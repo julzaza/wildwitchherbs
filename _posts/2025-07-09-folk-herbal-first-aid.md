@@ -6,8 +6,8 @@ permalink: /folk-herbal-first-aid/
 author_profile: false
 read_time: true
 related: true
-tags: herbs folk-magic herbalism
-categories: [herbalism, witchcraft]
+tags: herbs folk-magic herbalism 
+categories: [natural-healing]
 ---
 
 Long before antiseptic wipes and factory-sealed pills, people turned to what they had: leaves, roots, resins, and instinct. The original first responders were witches, midwives, and grandmothers — women who knew what to rub on a sting, steep for a fever, or smear on a burn. 
