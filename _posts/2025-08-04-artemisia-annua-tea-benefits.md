@@ -138,40 +138,52 @@ Harvested by hand. Crafted with care. Limited batches only.
 
 ## FAQ: Artemisia Annua Tea
 
-Q: What does Artemisia annua tea taste like?
+**Q: What does Artemisia annua tea taste like?**
+
 A: Very bitter — resinous, citrusy, with a metallic green edge. True bitterness signals correct drying and potency.
 
-Q: Is Artemisia annua the same as common wormwood?
+**Q: Is Artemisia annua the same as common wormwood?**
+
 A: No. Sweet wormwood is lighter, more aromatic, and used differently in European and Asian folk traditions.
 
-Q: Why harvest with the waxing moon?
+**Q: Why harvest with the waxing moon?**
+
 A: Waxing moon symbolizes rising energy. Herbs cut then are thought to retain vitality and protective strength.
 
-Q: Can Artemisia be used in dreamwork?
+**Q: Can Artemisia be used in dreamwork?**
+
 A: Yes. Small doses before sleep were traditionally used to sharpen dreams and clarify inner visions.
 
-Q: Is it safe for cleansing rituals?
+**Q: Is it safe for cleansing rituals?**
+
 A: Historically yes, in floor washes, baths, and smoke bundles — always small amounts.
 
-Q: How bitter should the tea be?
+**Q: How bitter should the tea be?**
+
 A: Strongly bitter; mild tea usually indicates weak or poorly dried herb.
 
-Q: Why link bitter herbs to seasonal transitions?
+**Q: Why link bitter herbs to seasonal transitions?**
+
 A: They help “wake” the body, support digestion, and restore clarity during changing seasons.
 
-Q: How did traditional European practitioners prepare it?
+**Q: How did traditional European practitioners prepare it?**
+
 A: Shade-dried, whole-leaf storage, brewed with a covered cup.
 
-Q: Can beginners use bitter herbs?
+**Q: Can beginners use bitter herbs?**
+
 A: Yes, cautiously and in small amounts. Bitterness requires awareness.
 
-Q: Is Artemisia linked to solstice/midsummer rites?
+**Q: Is Artemisia linked to solstice/midsummer rites?**
+
 A: Yes. Used in Balkan, Greek, and Central European solstice protection and fire rites.
 
-Q: What spiritual qualities does it convey?
+**Q: What spiritual qualities does it convey?**
+
 A: Resilience, clarity, boundaries, and personal sovereignty.
 
-Q: Can it be blended with other herbs?
+**Q: Can it be blended with other herbs?**
+
 A: Yes. Often paired with cooling herbs or grounding roots to balance bitterness.
 
 ---
