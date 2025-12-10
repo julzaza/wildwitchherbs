@@ -102,7 +102,7 @@ Magic doesn’t need permission. Just timing.
 
 ---
 
-## Soon: Moon-Tended Seeds for Sale
+## Moon-Tended Seeds for Sale:
 
 We are offering **[Artemisia Annua Tea, Tincture and Seeds](/shop)** grown and harvested with moon phases in mind — no chemicals, no shortcuts, no nonsense. Just bitter, strong Balkan medicine, raised with rhythm.
 
