@@ -22,6 +22,8 @@ In the hidden corners of **European folk magic**, few herbs have walked the boun
 
 Wormwood has a long history as both **protector and guide**: hung over doorways to repel spirits, burned in hearths to dispel nightmares, or steeped in water or wine to open the doors to other realms. This is **not a gentle plant**—its spirit is fierce, restless, and best approached with intention.
 
+Check out **[Witchy Herbs for Your Bedroom](witchy-plants-bedroom)** for more household plant allies you need to know. 
+
 ---
 
 ### A Herb of Vision and Caution
