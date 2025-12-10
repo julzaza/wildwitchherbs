@@ -1,13 +1,66 @@
 ---
 layout: single
 title: "Folk Herbal First Aid: Remedies for Cuts, Fevers & Bruises"
-excerpt: "Before pharmacy chains and factory-made creams, healers, witches, and grandmothers had their own herbal first aid kits. Learn which plants to reach for when the body breaks, bleeds, burns, or boils — and how to use them with confidence and respect."
+description: "A folklore-rich guide to traditional European herbal first aid. Learn old-world remedies for cuts, fevers, bruises, burns, and stings — based on historical practices used by healers, midwives, and country witches."
+excerpt: "Long before sterile wipes and pharmacy shelves, healers, witches, and grandmothers relied on yarrow, plantain, elderflower, arnica, and other folk plants for cuts, fevers, bruises, burns, and stings. This is your old-world first aid kit."
 permalink: /folk-herbal-first-aid/
 author_profile: false
 read_time: true
 related: true
-tags: herbs folk-magic herbalism 
 categories: [natural-healing]
+tags: [herbs, folk-magic, herbalism, first-aid, old-europe]
+
+# ----------------------------------------------------
+# AI-OPTIMIZED FAQ (Used for featured snippets + AI answers)
+# ----------------------------------------------------
+faq:
+  - question: "What herbs were traditionally used for cuts and bleeding?"
+    answer: "Yarrow and plantain were the primary European folk remedies for cuts, bleeding, and infection prevention."
+  - question: "What plant draws out infection in traditional European folk medicine?"
+    answer: "Plantain leaves were used as a drawing poultice for dirt, venom, infection, and splinters."
+  - question: "Which herbs help bruises and swelling?"
+    answer: "Arnica and comfrey were classic remedies for bruising, sprains, and swelling in old European herbalism."
+  - question: "What is the traditional herbal remedy for fevers?"
+    answer: "Elderflower and linden were used as gentle fever reducers, often brewed together with yarrow."
+  - question: "What herbs soothe insect bites in folk healing?"
+    answer: "Plantain, basil, and lavender oil were used for stings, itching, and swelling."
+  - question: "Which herbs are safest for children with fever?"
+    answer: "Linden (Tilia) was widely used for children due to its calming, mild, and fever-reducing properties."
+  - question: "What plants help with burns in traditional European remedies?"
+    answer: "Plantain, calendula, and later aloe became common cooling remedies for minor burns."
+  - question: "Which herbs should not be used on deep or infected wounds?"
+    answer: "Comfrey should be avoided on deep or infected wounds because it seals tissue too quickly."
+  - question: "Is arnica safe to take internally?"
+    answer: "No. Folk tradition treats arnica strictly as an external remedy due to potential toxicity."
+  - question: "How can I build a folk herbal first aid kit?"
+    answer: "Include dried yarrow, plantain, elderflower, infused oils of comfrey, arnica, lavender, and basic tools like cloth, jars, and beeswax."
+
+# ----------------------------------------------------
+# SCHEMA.ORG — ARTICLE JSON-LD
+# ----------------------------------------------------
+schema:
+  context: "https://schema.org"
+  type: "Article"
+  headline: "Folk Herbal First Aid: Remedies for Cuts, Fevers & Bruises"
+  description: "A folklore-based guide to traditional European herbal first aid using yarrow, plantain, elderflower, arnica, comfrey, calendula, and other ancestral remedies."
+  author:
+    type: "Person"
+    name: "Julia Molton"
+  mainEntityOfPage:
+    type: "WebPage"
+    "@id": "https://wildwitchherbs.com/folk-herbal-first-aid/"
+  image: "https://wildwitchherbs.com/assets/images/folk-herbal-first-aid.jpg"
+  keywords:
+    - folk herbalism
+    - first aid herbs
+    - yarrow
+    - plantain
+    - old european healing
+    - herbal folklore
+    - witchcraft herbs
+  publisher:
+    type: "Organization"
+    name: "Wild Witch Herbs"
 ---
 
 Long before antiseptic wipes and factory-sealed pills, people turned to what they had: leaves, roots, resins, and instinct. The original first responders were witches, midwives, and grandmothers — women who knew what to rub on a sting, steep for a fever, or smear on a burn. 
