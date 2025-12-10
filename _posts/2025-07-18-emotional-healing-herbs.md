@@ -328,6 +328,8 @@ A banishing herb for lingering heaviness and psychic protection.
 
 **Healing Tip:** Use dried in smoke bundles with rosemary and mugwort.
 
+Get to know **[Sweet Wormwood- The Bitter Brew[(/artemisia-annua-tea-benefits/)** and why it was praised throughout history. 
+
 ---
 
 ## ✦ 19. **Comfrey (_Symphytum officinale_)**
