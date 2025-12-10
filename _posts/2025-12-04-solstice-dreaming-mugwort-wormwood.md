@@ -133,16 +133,15 @@ Wormwood kept the spirits off the animals, St. John’s Wort held the memory of 
 
 These same herbs were layered into the Winter Witch Bottle, a solstice charm crafted when the nights were longest and the world felt thinnest.
 
-Explore the full traditional recipe:  
-**[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**.
+Explore the full traditional recipe: **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**.
 
 ---
 
 ## For More Winter Solstice Magic: 
 
--  **[Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide](/solstice-spirits-wild-hunt/)** — learn how the Host shapes the night.    
--  **[Old European Yule Rituals](/oldest-yule-rituals/)** — apotropaic containers for midwinter wards.  
--  **[Evergreen Magic Before Christmas](/evergreens-witchcraft/)** — how forest green held the year together.
+- **[Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide](/solstice-spirits-wild-hunt/)** — learn how the Host shapes the night.    
+- **[Old European Yule Rituals](/oldest-yule-rituals/)** — apotropaic containers for midwinter wards.  
+- **[Evergreen Magic Before Christmas](/evergreens-witchcraft/)** — how forest green held the year together.
 - **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**
 - **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**
 - **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
