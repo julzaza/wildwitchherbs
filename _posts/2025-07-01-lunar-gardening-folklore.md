@@ -104,9 +104,7 @@ Magic doesn’t need permission. Just timing.
 
 ## Soon: Moon-Tended Seeds for Sale
 
-I’ll soon be offering *Artemisia annua* seeds grown and harvested with moon phases in mind — no chemicals, no shortcuts, no nonsense. Just bitter, strong Balkan medicine, raised with rhythm.
-
-Watch this space if you want seeds that carry stories, not just genetics.
+We are offering **[Artemisia Annua Tea, Tincture and Seeds](/shop)** grown and harvested with moon phases in mind — no chemicals, no shortcuts, no nonsense. Just bitter, strong Balkan medicine, raised with rhythm.
 
 ---
 
