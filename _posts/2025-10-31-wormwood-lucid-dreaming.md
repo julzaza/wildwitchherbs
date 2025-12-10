@@ -92,7 +92,7 @@ In the **Balkan mountains**, wormwood was a guardian herb:
 
 In **France and Britain**, travelers carried small sprigs in shoes to **ward off fatigue and enchantment**, showing the herb’s **protective, liminal role across Europe**.
 
-The **Nine Herbs Charm** and similar traditions show that plants, numbers, and words were **inseparable tools of healing and magic**. Wormwood remains a threshold herb, bridging worlds, guiding those who dare to dream lucidly.
+The **[Nine Herbs Charm](/nine-herbs-charm-healing/)** and similar traditions show that plants, numbers, and words were **inseparable tools of healing and magic**. Wormwood remains a threshold herb, bridging worlds, guiding those who dare to dream lucidly.
 
 ---
 
