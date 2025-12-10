@@ -278,7 +278,7 @@ The dream witch’s herb, for guiding grief into transformation.
 
 **✧ Magical Uses:** Vision, protection, grief integration.
 
-**Healing Tip:** Burn small bundles before journaling, or drink as tea before dream rituals.
+**Healing Tip:** Burn small bundles before journaling, or drink as tea before dream rituals. Learn more about **[Mugwort and Dreaming](/solstice-dreaming-mugwort-wormwood/)**.
 
 ---
 
