@@ -104,10 +104,4 @@ Used wisely, wormwood becomes **a key to the inner temple of sleep**, where witc
 
 ---
 
-**Internal Links for Further Reading:**
-
-- **[Wild Witch Herbs: Dreamwork & Rituals](/dreamwork-rituals/)**  
-- **[Mugwort and Night Magic](/mugwort-night-magic/)**  
-- **[Herbal Companions for Lucid Dreams](/herbal-companions-lucid-dreams/)**  
-
 *Educational content only; not medical advice.*
