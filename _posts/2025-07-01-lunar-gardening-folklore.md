@@ -198,31 +198,63 @@ That’s how witches do it.
 
   - **"How do moon phases affect plants?"**
 
-    "Waxing moon: energy rises to stems and leaves; best for planting above-ground herbs and crops. Waning moon: energy moves downward; ideal for root crops, pruning, and clearing. New moon: rest, plan, and set intentions. Full moon: peak energy for harvesting, drying, or gathering herbs for rituals."
+    Waxing moon: energy rises to stems and leaves; best for planting above-ground herbs and crops.
+
+    Waning moon: energy moves downward; ideal for root crops, pruning, and clearing.
+
+    New moon: rest, plan, and set intentions.
+
+    Full moon: peak energy for harvesting, drying, or gathering herbs for rituals.
 
   - **"Which herbs are most influenced by the moon?"**
 
-    "Herbs tied to lunar energy include Artemisia (clarity, protection, dreamwork), Hyssop (purification, cleansing), Pennyroyal (female power, protection), Mugwort (divination, dreamwork), and Mandrake (magical potency, ritual power)."
+    Herbs tied to lunar energy include:
+
+    Artemisia (clarity, protection, dreamwork)
+
+    Hyssop (purification, cleansing)
+
+    Pennyroyal (female power, protection)
+
+    Mugwort (divination, dreamwork)
+
+    Mandrake (magical potency, ritual power).
 
   - **"Can I practice lunar gardening without land?"**
 
-    "Yes! You can use jars, pots, balconies, or small urban patches. Timing with the moon matters more than the size of your space."
+    Yes! You can use jars, pots, balconies, or small urban patches.
+
+    Timing with the moon matters more than the size of your space.
 
   - **"What are some traditional lunar planting rituals?"**
 
-    "Andean farmers blessed coca seeds with spit before planting. Slavic midwives wrapped wormwood seeds in linen while whispering ancestral names. Yoruba offerings of honey and cowrie were buried with sacred herbs for protection and divination. Kabbalistic practitioners recited prayers over herbs tied to the sefirot (cosmic attributes)."
+    Andean farmers blessed coca seeds with spit before planting.
+
+    Slavic midwives wrapped wormwood seeds in linen while whispering ancestral names.
+
+    Yoruba offerings of honey and cowrie were buried with sacred herbs for protection and divination.
+
+    Kabbalistic practitioners recited prayers over herbs tied to the sefirot (cosmic attributes).
 
   - **"Why follow the moon instead of the calendar?"**
     
-    "Plants respond to natural energy flows following the lunar cycle. Gardening with these rhythms can improve germination, growth, and the spiritual potency of your herbs."
+    Plants respond to natural energy flows following the lunar cycle.
+
+    Gardening with these rhythms can improve germination, growth, and the spiritual potency of your herbs.
 
   - **"When should I plant or harvest?"**
 
-    "New moon: plan and bless seeds. Waxing moon: plant above-ground crops. Full moon: harvest leafy herbs and flowers. Waning moon: plant root crops, prune, and remove unwanted plants."
+    New moon: plan and bless seeds.
+
+    Waxing moon: plant above-ground crops.
+
+    Full moon: harvest leafy herbs and flowers.
+
+    Waning moon: plant root crops, prune, and remove unwanted plants.
 
   - **"What are the benefits of lunar gardening?"**
 
-    "Beyond healthier plants and higher yields, lunar gardening deepens connection to nature and ancestral wisdom, aligns herbs with seasonal energy, and strengthens intention and magical potency in planting, harvesting, and rituals."
+    Beyond healthier plants and higher yields, lunar gardening deepens connection to nature and ancestral wisdom, aligns herbs with seasonal energy, and strengthens intention and magical potency in planting, harvesting, and rituals.
     
 ---
 
