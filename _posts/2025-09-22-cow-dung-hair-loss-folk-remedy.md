@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Cow Dung for Hair Loss: Montenegrin Highland Folklore"
-permalink: /balkan-cow-dung-hair-loss-folklore/
+permalink: /cow-dung-hair-loss-folk-remedy/
 categories: [natural-healing]
 tags: [Balkan Folklore, Hair Remedies, Montenegrin Magic, Traditional Healing]
 
