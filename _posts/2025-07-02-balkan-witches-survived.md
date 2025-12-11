@@ -124,3 +124,36 @@ Learn more about **[Vlach Magic of Negotin Region, Serbia](/vlach-magic-negotin-
 - [Herbs You Should Never Burn in Ritual](/never-burn-herbs/)
 - [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)
 
+---
+
+## FAQ: Balkan Witchcraft
+
+**Why did witches survive in the Balkans?**
+Because they served their communities as healers, midwives, and protectors. Villages relied on them, which prevented mass persecutions.
+
+**Were Balkan witches feared?**
+Sometimes, but they were more often respected. Their role was functional, practical, and woven into daily life.
+
+**Did Balkan witches use herbs?**
+Yes. Core protective and healing herbs included wormwood, juniper, garlic, nettle, rosemary, and rue.
+
+**How did they protect against the evil eye?**
+With salt, red thread, spitting rituals, iron objects, protective prayers, and herbal smoke cleansing.
+
+**What kind of magic did Balkan witches practice?**
+Curse-breaking, healing, protection, weather magic, dreamwork, divination, livestock protection, and ritual cleansing.
+
+**Did the Church persecute Balkan witches?**
+There were cases, but wide-scale witch hunts never took root because communities defended their healers.
+
+**How did Balkan witches perform divination?**
+Wax in water, bean casting, smoke interpretation, grain reading, and observing signs in fire or bones.
+
+**Was Balkan witchcraft hereditary?**
+Often, yes. Knowledge passed through grandmothers, mothers, and aunts within families.
+
+**Are any Balkan folk rituals still practiced?**
+Yes—especially protective threading, herbal smoke cleansing, water rituals, and seasonal household rites.
+
+**What can modern witches learn from Balkan traditions?**
+Practicality, humility, community service, and the understanding that magic exists to support life—not decorate it.
