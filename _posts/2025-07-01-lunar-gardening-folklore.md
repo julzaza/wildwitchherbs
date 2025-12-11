@@ -206,7 +206,7 @@ Trying to follow every rule perfectly. Folk practice was flexible. Missing a day
 Yes. In European, North African, and Middle Eastern lore, herbs gathered under a bright moon — especially Artemisia, vervain, yarrow, and rue — were said to hold more virtue.
 
 ### Can I practice lunar gardening indoors?
-Absolutely. Historically, witches planted in pots, bowls, broken jars, or borrowed ground. Explore: What Witchy Plants Can Grow Indoors](/witchy-plants-to-grow-indoors/)**.
+Absolutely. Historically, witches planted in pots, bowls, broken jars, or borrowed ground. Explore: **[What Witchy Plants Can Grow Indoors](/witchy-plants-to-grow-indoors/)**.
 
 ### Do different cultures follow different moon rules?
 Yes. Slavic traditions favored waning moons for protection herbs. Mediterranean witches planted dream herbs during the waxing crescent. Some African and Middle Eastern traditions watched star–moon relationships instead of phases.
