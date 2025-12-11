@@ -88,7 +88,7 @@ The Church tried — make no mistake. Check out **[Pre-Christian European Witchc
 
 Some witches in the Balkans were caught, tortured, killed. But the hysteria never quite stuck the way it did in Germany, France, or Britain. 
 
-But in the Balkans, **everyone knew the witch**.
+Because, in the Balkans, **everyone knew the witch**.
 
 She healed your child. She helped you through grief. She protected your animals. Maybe she was your aunt.
 
