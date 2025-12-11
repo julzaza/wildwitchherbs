@@ -84,9 +84,9 @@ It was **woven into survival** — dirty-fingernailed, blood-stained, whispered-
 
 ### Why They Lived
 
-The Church tried — make no mistake. Some witches in the Balkans were caught, tortured, killed. But the hysteria never quite stuck the way it did in Germany, France, or Britain.
+The Church tried — make no mistake. Some witches in the Balkans were caught, tortured, killed. But the hysteria never quite stuck the way it did in Germany, France, or Britain. Check out **[Pre-Christian European Witchcraft](/pre-christian-europe/)** to see how things were before church took over. 
 
-Because in the Balkans, **everyone knew the witch**.
+But in the Balkans, **everyone knew the witch**.
 
 She healed your child. She helped you through grief. She protected your animals. Maybe she was your aunt.
 
