@@ -121,6 +121,8 @@ Its smoke was believed to:
 
 Baltic families hung juniper branches over windows “so the eye cannot settle.”
 
+Check out: **[Evergreens Magic- Before Christams Even Existed](/evergreens-magic)**
+
 ---
 
 ## **6. Black Cumin (Nigella sativa) — The Binding Seed**  
@@ -144,9 +146,9 @@ Rue in Mediterranean regions; juniper in northern regions; garlic everywhere.
 
 ### **Why did the evil eye matter so much?**  
 It was seen as a force that could affect health, luck, livestock, and infants.
-
+(
 ### **Did people plant these or hang them?**  
-Often both—threshold plants, doorway bundles, window amulets, and smoke rituals.
+Often both—threshold plants, doorway bundles, window amulets, and smoke rituals. Learn how to use these herbs in rituals here: **[Herbs for Protection](/world-magic-for-protection/)**.
 
 ### **Are these traditions still practiced?**  
 Yes, in many rural parts of Greece, Italy, the Balkans, and Cyprus.
