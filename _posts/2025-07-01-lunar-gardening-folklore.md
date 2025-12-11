@@ -124,8 +124,8 @@ Farmers from the Andes to the Balkans to the Mediterranean worked with this rhyt
 - Prune, cut back, remove pests, uproot weeds.  
 - In Caribbean Vodou, offerings were buried under herbs planted during the waning moon, binding intention to the roots.
 
-If you make moon water or use it in rituals:  
-**[learn how to make moon water here](/moon-water-magic/)**
+If you want to make moon water and use it in rituals:  
+**[Learn How to Make Moon Water](/moon-water-magic/)**.
 
 ---
 
