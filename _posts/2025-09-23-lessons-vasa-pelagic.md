@@ -2,7 +2,7 @@
 layout: single
 title: "Folk Cures of Vasa Pelagić: Strange Balkan Rituals"
 date: 2025-09-23
-categories: [Balkan Folklore, Folk Medicine, Traditional Herbs]
+categories: [folklore-ancestral]
 tags: [Vasa Pelagić, Narodni Učitelj, Balkan Herbs, Folk Remedies, Rituals, Herbal Lore]
 description: "Dive into the stranger side of Vasa Pelagić’s Narodni Učitelj, uncovering unusual folk remedies, hidden rituals, and herbal wisdom from 19th-century Balkan villages."
 excerpt: "Explore Vasa Pelagić’s Narodni Učitelj for herbal remedies, folk rituals, and Balkan wisdom blending science, superstition, and community care. Key herbs: juniper, oak, walnut, yarrow."
