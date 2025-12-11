@@ -153,5 +153,5 @@ Often both—threshold plants, doorway bundles, window amulets, and smoke ritual
 Yes, in many rural parts of Greece, Italy, the Balkans, and Cyprus.
 
 ### **Is this religious?**  
-These traditions exist across pagan, Christian, Jewish, and Muslim communities.
+These traditions exist across pagan, Christian, Jewish, and Muslim communities. See **[What Witchcraft Looked Like in Pre-Christian Europe](/pre-christian-europe/)**.
 
