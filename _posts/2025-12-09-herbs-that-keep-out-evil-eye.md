@@ -27,7 +27,6 @@ schema:
   "image": "/assets/images/default.jpg"
 ---
 
-# Herbs to Keep Out the Evil Eye Next Door  
 *Old European & Mediterranean Household Protections*
 
 In every village, someone had “bad eyes.”  
@@ -60,7 +59,7 @@ Historic uses:
 
 Italian folk tradition considered rue strong enough to “split” the force of envy. It is one of the most reliable herbs for this theme.
 
-Rue is a natural companion to **[Witchy Plants for the Doorways](/witchy-plants-for-front-door)**.
+Rue is actually one of the **[Witchy Plants for the Doorways](/witchy-plants-for-front-door)**.
 
 ---
 
@@ -74,7 +73,7 @@ Basil has two roles in evil-eye tradition:
 Greek island households kept a basil pot at the front door “to sweeten the eyes” of anyone entering.  
 In Bulgaria and Serbia, basil water was sprinkled around rooms after a difficult visit.
 
-Maybe this will inspire you to **[Start Your Own Witchy Garden](/witch-garden)**.
+And, by the way, growing basi is very easy. Maybe this will even inspire you to **[Start Your Own Witchy Garden](/witch-garden)**.
 
 ---
 
