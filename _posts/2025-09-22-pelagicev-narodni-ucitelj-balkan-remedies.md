@@ -2,7 +2,7 @@
 layout: single
 title: "Vasa Pelagić’s Narodni Učitelj: Balkan Folk Remedies & Herbal Lore"
 date: 2025-09-22
-categories: [natural-healing, folklore-ancestral]
+categories: [folklore-ancestral, natural-healing]
 tags: [Vasa Pelagić, Narodni Učitelj, Balkan Herbs, Folk Remedies, Herbal Lore, Traditional Herbs, Folk Medicine]
 description: "Explore Vasa Pelagić’s Narodni Učitelj for 19th-century Balkan folk remedies, herbal preparations, teas, and practical wellness wisdom still inspiring modern herbalists."
 excerpt: |
