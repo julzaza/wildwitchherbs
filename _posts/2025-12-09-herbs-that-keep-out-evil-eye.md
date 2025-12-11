@@ -121,7 +121,7 @@ Its smoke was believed to:
 
 Baltic families hung juniper branches over windows “so the eye cannot settle.”
 
-Check out: **[Evergreens Magic- Before Christams Even Existed](/evergreens-magic)**
+Check out: **[Evergreens Magic- Before Christams Even Existed](/evergreens-witchcraft)**
 
 ---
 
