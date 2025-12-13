@@ -116,7 +116,7 @@ The losing king was not always symbolic.
 
 Roman Saturnalia reversed order—masters served slaves, mock kings ruled briefly, chaos reigned.
 
-In Germanic lands, Yule was darker.
+In Germanic lands, **[Yule](/oldest-yule-rituals/)** was darker.
 
 Animals were slaughtered.
 Ale flowed.
