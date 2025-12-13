@@ -52,7 +52,7 @@ schema:
 
 Yule was never a tidy holiday.
 
-In much of Europe, **washing clothes during the Twelve Nights was forbidden**—sometimes violently so.
+In much of Europe, **washing clothes during the **[Twelve Nights](/twelve-nights-witchcraft) was forbidden**—sometimes violently so.
 
 Sheets left outside could summon death.  
 Wet linen could invite spirits.  
@@ -90,7 +90,7 @@ Households found guilty of laundry risked:
 - Illness
 - A death before spring
 
-These beliefs mirror Balkan spirit fears explored in **[Vlach Magic of Negotin, Serbia](/vlach-magic-negotin-serbia/)**.
+These beliefs mirror Balkan spirit fears explored in **[Vlach Magic of Negotin, Serbia](/vlach-magic-negotin/)**.
 
 ---
 
