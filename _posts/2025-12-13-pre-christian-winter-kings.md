@@ -159,6 +159,19 @@ For Old World rituals, see **[Old European Solstice Witchcraft](/winter-solstice
 
 ---
 
+## Explore The Winter Solstice Series:
+
+- **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**
+- **[Old World Yule Rituals](/oldest-yule-rituals/)**
+- **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
+- **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
+- **[The Twelve Nights](/twelve-nights-witchcraft)**  
+- **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**
+- **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**
+- **[Pre-Christian Evergreens Magic](/evergreens-witchcraft)**
+
+---
+
 ## Frequently Asked Questions
 
 ### Was the Winter King a real person?
