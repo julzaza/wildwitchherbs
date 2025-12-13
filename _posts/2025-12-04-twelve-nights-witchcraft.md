@@ -49,7 +49,7 @@ Into that gap moved:
 - the Wild Hunt  
 - witches and night-walkers  
 
-These Twelve Nights were a continuation of the forces unleashed during [**Solstice Spirits & the Wild Hunt**](/solstice-spirits-wild-hunt/), only quieter… and closer.
+These Twelve Nights were a continuation of the forces unleashed during **[Solstice Spirits & the Wild Hunt](/solstice-spirits-wild-hunt/)**, only quieter… and closer.
 
 ---
 
