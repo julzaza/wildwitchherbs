@@ -81,13 +81,21 @@ The Nine Herbs Charm can inspire **contemporary herbalists and ritual practition
 - **Chanting and Intention:** Recite or write the charm to activate herbal power.  
 - **Herbal Remedies:** Use teas, washes, salves, or incense for wellness, ritual, and magical purposes.
 
-**Internal links for context and exploration:**  
-
-- **[Balkan Folk Remedies and Witchcraft](/pelagicev-narodni-ucitelj-balkan-remedies/)**  
-- **[Timeless Remedies for Hair Loss](/folk-hairloss-remedies/)**  
-- **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)**  
-
 The **Nine Herbs Charm** demonstrates that **plants, spoken words, numbers, and belief** have always worked together to heal, protect, and empower.
+
+---
+
+## For Deeper Context and Related Traditions, Explore:
+
+- **[Mugwort in Witchcraft & Dream Magic](/solstice-dreaming-mugwort-wormwood)** — for one of the Nine Herbs most closely tied to vision, protection, and spirit-work across Germanic and European folklore.
+
+- **[Evergreen Magic Before Christianity](/evergreens-witchcraft)** — for understanding how plants were used as living wards and protective allies long before church doctrine reshaped folk magic.
+
+- **[Why Certain Herbs Were Never Burned in Ritual](/never-burn-herbs/)** — for insight into taboo plants, sacred handling, and the dangers of improper ritual use.
+
+- **[Herbs for Smoke Cleansing in Folk Magic](/smoke-cleansing-folk-magic/)** — to explore how chanting, breath, and smoke were combined in older European healing rites.
+
+- **[The Witch’s Garden: Old European Plant Lore](/witch-garden/)** — for grounding the Nine Herbs Charm in the wider tradition of cultivated magical plants rather than isolated spellwork.
 
 ---
 
