@@ -28,7 +28,7 @@ when the roads belong to spirits,
 the dead move openly,  
 and witches lean closer to the veil.
 
-The Twelve Nights begin where [**Winter Solstice Witchcraft: Old European Magic & Rituals**](/winter-solstice-witchcraft/) leaves off: after the rebirth of the sun, but before the world becomes safe again.
+The Twelve Nights begin where **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)** leaves off: after the rebirth of the sun, but before the world becomes safe again.
 
 Across Old Europe, from the Alps to the Baltic, these nights were feared and revered.  
 They were not days meant for humans.  
@@ -94,7 +94,7 @@ Each night foretold one month of the coming year witches read:
 - patterns in ashes  
 - dreams thick with omen  
 
-For advanced dream techniques and prophetic herbs, see [**Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights**](/solstice-dreaming-mugwort-wormwood/).
+For advanced dream techniques and prophetic herbs, see **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights]**(/solstice-dreaming-mugwort-wormwood/).
 
 ---
 
@@ -104,7 +104,7 @@ For advanced dream techniques and prophetic herbs, see [**Solstice Dreaming: Mug
 Burned to protect sleepers from wandering dead.
 
 ### **Mistletoe**
-A lightning-born ward explored further in [**Oldest Yule Rituals**](/oldest-yule-rituals/).
+A lightning-born ward explored further in **[Oldest Yule Rituals](/oldest-yule-rituals/)**.
 
 ### **Angelica**
 Purifies boundaries around hearth and home.
@@ -116,7 +116,7 @@ Burned each night to cleanse rooms.
 Small crosses for cattle and doorways.
 
 ### **Evergreen Branches**
-Used to keep spirits away and life-energy within— a practice explored deeply in [**How Witches Used Evergreens Before Christmas Existed**](/evergreens-witchcraft/).
+Used to keep spirits away and life-energy within— a practice explored deeply in **[How Witches Used Evergreens Before Christmas Existed](/evergreens-witchcraft/)**.
 
 ---
 
@@ -135,7 +135,7 @@ Performed nightly after sunset:
 
 4. Sprinkle salt along windowsills and thresholds.
 
-Pair this with protective foods from [**The Witch’s Midwinter Kitchen**](/midwinter-kitchen-witchcraft/).
+Pair this with protective foods from **[The Witch’s Midwinter Kitchen](/midwinter-kitchen-witchcraft/)**.
 
 ---
 
