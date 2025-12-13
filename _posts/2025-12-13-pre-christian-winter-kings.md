@@ -163,6 +163,7 @@ For Old World rituals, see **[Old European Solstice Witchcraft](/winter-solstice
 
 - **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**
 - **[Old World Yule Rituals](/oldest-yule-rituals/)**
+- **[Why Laundry Prohibited on Yule](/yule-laundry-folklore/)**
 - **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
 - **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
 - **[The Twelve Nights](/twelve-nights-witchcraft)**  
