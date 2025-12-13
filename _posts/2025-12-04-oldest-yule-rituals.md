@@ -129,6 +129,7 @@ They were about **surviving winter**—the season when spirits walked freely, an
 ## Explore The Winter Solstice Series:
 
 - **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**
+- **[The Dying Sun: Pegan Winter Kings](/dying-sun-winter-kings/)**
 - **[Why Laundry Prohibited on Yule](/yule-laundry-folklore/)**
 - **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
 - **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
