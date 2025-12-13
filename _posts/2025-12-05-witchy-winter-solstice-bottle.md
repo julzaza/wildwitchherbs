@@ -132,6 +132,8 @@ A winter bottle does what the old ones did:
 
 ## Want More Winter Solstice Magic?
 
+- **[The Dying Sun: Pegan Winter Kings](/dying-sun-winter-kings/)**
+- **[Why Laundry Prohibited on Yule](/yule-laundry-folklore/)**
 - **[Old European Yule Rituals](/oldest-yule-rituals/)**
 - **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
 - **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
