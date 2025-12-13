@@ -105,7 +105,7 @@ Some were shaped:
 - As wheels or suns (for returning light)
 
 This aligns with pre-Christian solar symbolism found in  
-**[Evergreen Magic Before Christmas](/evergreens-witchcraft/)**.
+**[Evergreen Magic: Pegan Witchcraft Before Christmas Existed](/evergreens-witchcraft/)**.
 
 ---
 
