@@ -231,6 +231,8 @@ It is a **threshold**, a night of realignment, a return to the oldest rhythms.
 
 ## Explore the Full Solstice Series:
 
+- **[The Dying Sun: Pegan Winter Kings](/dying-sun-winter-kings/)**
+- **[Why Laundry Prohibited on Yule](/yule-laundry-folklore/)**
 - **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**
 - **[Old European Yule Rituals](/oldest-yule-rituals/)**
 - **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
