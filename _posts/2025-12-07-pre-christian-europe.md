@@ -222,13 +222,18 @@ Christianity overlaid that world with new names, new rules, and new fears. But t
 
 ---
 
-## For Deeper Exploration
+## For Deeper Exploration: The Winter Solstice Series:
 
-- **[Old World Fertility Magic](/old-world-fertility-magic)**  
-- **[The Witch’s Winter Bottle](/witchy-winter-solstice-bottle)**  
-- **[Evergreen Magic](/evergreens-witchcraft)**  
-- **[Wormwood in Witchcraft and War](/wormwood-witchcraft-war)**  
-- **[The Midwinter Kitchen](/midwinter-kitchen-witchcraft/)**
+- **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**
+- **[Old World Yule Rituals](/oldest-yule-rituals/)**
+- **[The Dying Sun: Pegan Winter Kings](/dying-sun-winter-kings/)**
+- **[Why Laundry Prohibited on Yule](/yule-laundry-folklore/)**
+- **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
+- **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
+- **[The Twelve Nights](/twelve-nights-witchcraft)**  
+- **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**
+- **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**
+- **[Pre-Christian Evergreens Magic](/evergreens-witchcraft)**
 
 ---
 
