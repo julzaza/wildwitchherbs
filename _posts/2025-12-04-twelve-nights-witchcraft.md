@@ -94,7 +94,7 @@ Each night foretold one month of the coming year witches read:
 - patterns in ashes  
 - dreams thick with omen  
 
-For advanced dream techniques and prophetic herbs, see **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights]**(/solstice-dreaming-mugwort-wormwood/).
+For advanced dream techniques and prophetic herbs, see **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)**.
 
 ---
 
