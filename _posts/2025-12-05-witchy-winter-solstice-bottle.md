@@ -140,6 +140,6 @@ A winter bottle does what the old ones did:
 - **[The Twelve Nights](/twelve-nights-witchcraft)**  
 - **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**
 - **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**
-- **[Evergreen Magic Before Christmas](/evergreens-witchcraft)**
+- **[Evergreens Magic Before Christmas Even Existed](/evergreens-witchcraft)**
 
 ---
