@@ -132,12 +132,22 @@ Through bread, honey, seeds, and smoke, the household tied itself to life, warmt
 
 ## For Further Winter Solstice Witchcraft, See: 
 
-- **[Old European Yule Rituals](/oldest-yule-rituals)** for protective rites and ancestral spirits.
-- **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft)** for the broader solstice context.
-- **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood)** for dream-enhancing herbs often combined with kitchen magic.
-- **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**
-- **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
-- **[The Twelve Nights](/twelve-nights-witchcraft)**  
-- **[Evergreen Magic Before Christmas](/evergreens-witchcraft)**
+- **[Why Laundry Was Forbidden During Yule](/yule-laundry-folklore/)** — for household taboos, spirit avoidance, and domestic protection during liminal winter nights.  
+
+- **[Old European Yule Rituals](/oldest-yule-rituals)** — for protective rites, ancestral offerings, and pre-Christian solstice observances.  
+
+- **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft)** — for the wider solstice framework, seasonal magic, and traditional winter rites across Europe.  
+
+- **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood)** — for dream-work, night magic, and visionary herbs traditionally used during the darkest nights of the year.
+
+- **[Evergreen Magic Before Christmas](/evergreens-witchcraft)** — for pine, fir, holly, and evergreen lore used to guard the home through winter.  
+
+- **[The Dying Sun: Pagan Winter Kings](/dying-sun-winter-kings/)** — for sacrificial kings, dying gods, and the mythic death of the sun at midwinter.  
+
+- **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)** — for home-based protection charms, bottle spells, and folk defensive magic at the solstice.  
+
+- **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)** — for spectral riders, roaming spirits, and the dangers believed to stalk the winter sky.  
+
+- **[The Twelve Nights](/twelve-nights-witchcraft)** — for spirit-walking, ancestral visitations, and the sacred liminal period between the old year and the new.  
 
 ---
