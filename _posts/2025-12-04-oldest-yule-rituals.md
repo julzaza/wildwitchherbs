@@ -90,7 +90,7 @@ This connects with winter dream practices detailed in
 In these nights:
 
 – Bread was never left uncovered  
-– Laundry was forbidden  
+– Laundry was forbidden See: **[Why No Laundry During Yule](/yule-laundry-folklore/)**
 – Travel was dangerous  
 – Spinning or weaving invited misfortune  
 – Doors were marked with ash or charcoal  
