@@ -153,7 +153,7 @@ Every solstice ritual still whispers the same truth:
 
 > The Sun returns because we remember how to call it back.
 
-For practical modern ritual work, see **[Full Moon Rituals with Sacred Herbs](/full-moon-rituals/)**.
+For Old World rituals, see **[Old European Solstice Witchcraft](/winter-solstice-witchcraft/)**.
 
 ---
 
@@ -163,7 +163,7 @@ For practical modern ritual work, see **[Full Moon Rituals with Sacred Herbs](/f
 In some cultures, yes. In others, the king was symbolic. Over time, real sacrifice often became ritualized replacement.
 
 ### Is this connected to Christianity?
-Christianity absorbed many solar motifs but reframed them as divine resurrection rather than cyclical sacrifice.
+Christianity absorbed many solar motifs but reframed them as divine resurrection rather than cyclical sacrifice. Check out: **[Old European Witchcraft Before Christianity](/pre-christian-europe/)**
 
 ### Did Balkan cultures have winter kings?
 While not documented as kings, Balkan folklore focused on communal rites, animal sacrifice, and protective magic rather than royal death.
