@@ -50,7 +50,7 @@ schema:
 
 ---
 
-Yule was never a tidy holiday.
+**[Yule](/yule-oldest-rituals)** was never a tidy holiday.
 
 In much of Europe, **washing clothes during the [Twelve Nights](/twelve-nights-witchcraft) was forbidden**—sometimes violently so.
 
