@@ -141,7 +141,7 @@ Over time, blood gave way to substitutes:
 Ritual did not disappear.  
 It learned to hide.
 
-See one of the last surviving pegan traditions: **[The Straw Bear](/straw-bear-last-field-spirit/)**.
+See one of the last surviving pegan traditions in Europe: **[The Straw Bear](/straw-bear-last-field-spirit/)**.
 
 ---
 
