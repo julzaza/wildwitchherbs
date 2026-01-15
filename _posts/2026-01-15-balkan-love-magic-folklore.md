@@ -92,7 +92,7 @@ Women would:
 - Sleep with love charms under pillows  
 - Speak names at crossroads at midnight  
 
-These rituals are echoed in ancestral and war-time folk magic, such as documented in **[Wormwood in Witchcraft and War](/wormwood-in-witchcraft-and-war/)**, where bitter herbs and death-related rites shaped magic.
+These rituals are echoed in ancestral and war-time folk magic, such as documented in **[Wormwood in Witchcraft and War](/wormwood-witchcraft-war/)**, where bitter herbs and death-related rites shaped magic.
 
 ---
 
