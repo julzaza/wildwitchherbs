@@ -1,4 +1,3 @@
----
 layout: single
 title: "Balkan Love Magic: What Was Done and What Was Feared"
 date: 2026-01-15
@@ -83,16 +82,17 @@ They were **contagion magic** — binding through physical trace.
 
 ---
 
-## Graveyard Love Work
+## Graveyard and Liminal Love Work
 
-Some of the most feared practices involved the dead.
+Some of the most feared love rituals relied on **the dead or liminal spaces**:
 
-Women would:
-- Take soil from graves of the recently buried  
-- Sleep with love charms under pillows  
-- Speak names at crossroads at midnight  
+- **Soil from graves of the recently buried** — used in charms or food to bind a lover’s desire; the most taboo form, as it involved contact with the deceased.  
+- **Sleeping with charms under pillows** — often including hair, herbs, or personal objects; these practices influenced emotions without touching corpses.  
+- **Speaking names at crossroads at midnight** — invoking spirits or calling fate; crossroads were seen as **thresholds between worlds**, giving magic potency.  
 
-These rituals are echoed in ancestral and war-time folk magic, such as documented in **[Wormwood in Witchcraft and War](/wormwood-witchcraft-war/)**, where bitter herbs and death-related rites shaped magic.
+These examples show how Balkan love magic blended **contagion through physical traces** with **power drawn from liminal spaces**.  
+
+For a closer look at ancestral influence and bitter herbs in Balkan magic, see **[Wormwood in Witchcraft and War](/wormwood-witchcraft-war/)**.  
 
 ---
 
@@ -103,6 +103,7 @@ Common plants:
 - **Lovage** (*Levisticum officinale*) — control, attraction  
 - **Basil** — marriage fate  
 - **Garlic** — protection *from* love magic  
+- **Rue** — protection against rival love charms  
 
 For more magical herbal allies, see **[The Witch’s Herbal Starter Kit](/herbal-starter-kit/)**.
 
@@ -157,3 +158,14 @@ Historically, ethics followed survival, not modern values.
 
 ### Should modern witches copy this?
 No. Understand it — don’t reenact it blindly.
+
+---
+
+## Related Posts
+
+- **[Herbs Vlach Wise Women Use: Plants of the Timok Valley](/herbs-vlach-wise-women/)** — traditional medicinal and protective plants from Eastern Serbia, many of which intersect with love, binding, and protection lore. :contentReference[oaicite:1]{index=1}  
+- **[St. John’s Wort Moon Water for Grief and Ancestral Magic](/st-johns-wort-moon-water/)** — a moon water ritual rooted in emotional healing and ancestral connection, useful context for love, longing, and spirit-bound practices. :contentReference[oaicite:2]{index=2}  
+- **[Why Balkan Witches Survived: Magic Rooted in the People](/balkan-witches/)** — explores how practical folk magic sustained communities, showing the social side of folklore beyond dangerous rites. :contentReference[oaicite:3]{index=3}  
+- **[How to Start a Real Witch’s Garden: Powerful Traditional Plants](/witch-garden/)** — plants with deep historical and magical roots that could be part of broader Balkan folk practices, grounding the post in lived herbalism. :contentReference[oaicite:4]{index=4}  
+- **[The Firewalkers of Eastern Serbia: Feast of St. John and Pagan Survival](/vlach-firewalkers-st-john-baptist/)** — a ritual rooted in survival and protection, showing how Balkan folk rites weave practical, community-based magic with heritage. :contentReference[oaicite:5]{index=5}
+
