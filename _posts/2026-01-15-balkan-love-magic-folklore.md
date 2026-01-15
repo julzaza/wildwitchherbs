@@ -72,7 +72,7 @@ Dive deeper into Serbian witchcraft practices of **[Vlaska Magija](/vlach-magic-
 Love magic often involved the body.
 
 Documented practices include:
-- Menstrual blood in wine or rakija  
+- **[Menstrual Blood](/fertility-rituals-menstrual-magic/)** in wine or rakija  
 - Sweat from underarms added to bread  
 - Hair cooked into food  
 - Soil taken from footprints  
