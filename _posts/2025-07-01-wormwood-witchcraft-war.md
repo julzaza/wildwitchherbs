@@ -68,6 +68,7 @@ Each has its place in folk medicine, but also in magical practice.
 While *Artemisia annua* is celebrated today for its antimalarial properties (and controversial cancer use), traditional healers long before labs used it for fevers, spirits, and clearing “bad blood.”
 
 Its light green color and bitter bite still make it a powerful plant ally for witches who walk the line between healing and hexing.
+Learn more about this special plant and how to use it properly here: **[Sweet Wormwood or Qinghao](/artemisia-annua-tea-benefits/)**
 
 ---
 
