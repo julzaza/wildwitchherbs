@@ -63,7 +63,7 @@ Documented traditions exist in:
 - **Western Bulgaria**  
 - **Macedonian border regions**
 
-Dive deeper into Serbian witchcraft practices in **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)**.
+Dive deeper into Serbian witchcraft practices of **[Vlaska Magija](/vlach-magic-negotin-serbia/)**.  
 
 ---
 
