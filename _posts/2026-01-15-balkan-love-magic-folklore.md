@@ -87,9 +87,12 @@ They were **contagion magic** — binding through physical trace.
 
 Some of the most feared love rituals relied on **the dead or liminal spaces**:
 
-- **Soil from graves of the recently buried** — used in charms or food to bind a lover’s desire. It's the most taboo form, as it involved contact with the deceased.  
-- **Sleeping with charms under pillows** — often using hair, herbs, or personal objects to influence a partner’s feelings. While not involving corpses, it relied on the intimate connection between the living and the unseen.  
-- **Speaking names at crossroads at midnight** — invoking spirits or calling fate. Crossroads were seen as **thresholds between worlds**, giving magic potency.  
+- **Soil from graves of the recently buried** — used in charms or food to bind a lover’s desire.
+  It's the most taboo form, as it involved contact with the deceased.  
+- **Sleeping with charms under pillows** — often using hair, herbs, or personal objects to influence a partner’s feelings.
+  While not involving corpses, it relied on the intimate connection between the living and the unseen.  
+- **Speaking names at crossroads at midnight** — invoking spirits or calling fate.
+  Crossroads were seen as **thresholds between worlds**, giving magic potency.  
 
 These examples show how Balkan love magic blended **contagion through physical traces** with **power drawn from liminal spaces**.  
 
@@ -163,8 +166,6 @@ No. Understand it — don’t reenact it blindly.
 ## Related Posts
 
 - **[Herbs Vlach Wise Women Use: Plants of the Timok Valley](/herbs-vlach-wise-women/)** — traditional medicinal and protective plants from Eastern Serbia.
-- **[St. John’s Wort Moon Water for Grief and Ancestral Magic](/st-johns-wort-moon-water/)** — a moon water ritual rooted in emotional healing and ancestral connection.
 - **[Why Balkan Witches Survived: Magic Rooted in the People](/balkan-witches/)** — explores how practical folk magic sustained communities.
 - **[How to Start a Real Witch’s Garden: Powerful Traditional Plants](/witch-garden/)** — plants with deep historical and magical roots.
-- **[The Firewalkers of Eastern Serbia: Feast of St. John and Pagan Survival](/eastern-serbia-firewalkers/)** — a ritual rooted in survival and protection.
 
