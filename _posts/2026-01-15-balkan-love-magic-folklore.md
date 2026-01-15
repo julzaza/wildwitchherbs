@@ -63,8 +63,7 @@ Documented traditions exist in:
 - **Western Bulgaria**  
 - **Macedonian border regions**
 
-Many overlap with practices described in  
-**[Vlach Magic of Negotin](/vlach-magic-negotin/)**.
+Dive deeper into other Serbian witchcraft practices in **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)**.
 
 ---
 
@@ -93,8 +92,7 @@ Women would:
 - Sleep with love charms under pillows  
 - Speak names at crossroads at midnight  
 
-This echoes death-bound practices explored in  
-**[Why Balkan Witches Survived](/balkan-witches/)**.
+These rituals are echoed in ancestral and war-time folk magic, such as documented in **[Wormwood in Witchcraft and War](/wormwood-in-witchcraft-and-war/)**, where bitter herbs and death-related rites shaped magic.
 
 ---
 
@@ -106,8 +104,7 @@ Common plants:
 - **Basil** — marriage fate  
 - **Garlic** — protection *from* love magic  
 
-This contrasts with gentler herb uses in  
-**[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)**.
+For magical herbal practices in the Balkans, see **[The Witch’s Herbal Starter Kit](/witch-herbal-starter-kit/)**, which outlines herbs traditionally used for attraction, protection, and binding.
 
 ---
 
