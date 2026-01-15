@@ -63,7 +63,7 @@ Documented traditions exist in:
 - **Western Bulgaria**  
 - **Macedonian border regions**
 
-Dive deeper into other Serbian witchcraft practices in **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)**.
+Dive deeper into Serbian witchcraft practices in **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)**.
 
 ---
 
@@ -104,7 +104,7 @@ Common plants:
 - **Basil** — marriage fate  
 - **Garlic** — protection *from* love magic  
 
-For magical herbal practices in the Balkans, see **[The Witch’s Herbal Starter Kit](/witch-herbal-starter-kit/)**, which outlines herbs traditionally used for attraction, protection, and binding.
+For more magical herbal allies, see **[The Witch’s Herbal Starter Kit](/herbal-starter-kit/)**.
 
 ---
 
