@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Balkan Love Magic: What Was Done and What Was Feared"
-date: 2025-12-06
+date: 2026-01-15
 permalink: /balkan-love-magic-folklore/
 categories:
   - folklore-ancestral
