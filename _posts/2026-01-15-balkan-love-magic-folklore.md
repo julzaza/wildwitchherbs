@@ -88,10 +88,13 @@ They were **contagion magic** — binding through physical trace.
 Some of the most feared love rituals relied on **the dead or liminal spaces**:
 
 - **Soil from graves of the recently buried** — used in charms or food to bind a lover’s desire.
+
   It's the most taboo form, as it involved contact with the deceased.  
 - **Sleeping with charms under pillows** — often using hair, herbs, or personal objects to influence a partner’s feelings.
+
   While not involving corpses, it relied on the intimate connection between the living and the unseen.  
 - **Speaking names at crossroads at midnight** — invoking spirits or calling fate.
+
   Crossroads were seen as **thresholds between worlds**, giving magic potency.  
 
 These examples show how Balkan love magic blended **contagion through physical traces** with **power drawn from liminal spaces**.  
