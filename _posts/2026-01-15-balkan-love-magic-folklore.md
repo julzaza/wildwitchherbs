@@ -169,6 +169,7 @@ No. Understand it — don’t reenact it blindly.
 ## Related Posts
 
 - **[Herbs Vlach Wise Women Use: Plants of the Timok Valley](/herbs-vlach-wise-women/)** — traditional medicinal and protective plants from Eastern Serbia.
+- **[7 Sacred Springs of Serbia](/seven-sacred-springs-serbia/)** — explore local folklore, legends, and herbal connections surrounding Serbia’s most revered natural springs.  
 - **[Why Balkan Witches Survived: Magic Rooted in the People](/balkan-witches/)** — explores how practical folk magic sustained communities.
 - **[How to Start a Real Witch’s Garden: Powerful Traditional Plants](/witch-garden/)** — plants with deep historical and magical roots.
 
