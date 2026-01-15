@@ -166,5 +166,5 @@ No. Understand it — don’t reenact it blindly.
 - **[St. John’s Wort Moon Water for Grief and Ancestral Magic](/st-johns-wort-moon-water/)** — a moon water ritual rooted in emotional healing and ancestral connection.
 - **[Why Balkan Witches Survived: Magic Rooted in the People](/balkan-witches/)** — explores how practical folk magic sustained communities.
 - **[How to Start a Real Witch’s Garden: Powerful Traditional Plants](/witch-garden/)** — plants with deep historical and magical roots.
-- **[The Firewalkers of Eastern Serbia: Feast of St. John and Pagan Survival](/vlach-firewalkers-st-john-baptist/)** — a ritual rooted in survival and protection.
+- **[The Firewalkers of Eastern Serbia: Feast of St. John and Pagan Survival](/eastern-serbia-firewalkers/)** — a ritual rooted in survival and protection.
 
