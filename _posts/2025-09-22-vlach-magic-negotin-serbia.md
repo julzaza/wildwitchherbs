@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Vlach Magic of Negotin: Folklore & Herbal Secrets"
-permalink: /vlach-magic-negotin/
+permalink: /vlach-magic-negotin-serbia/
 date: 2025-09-22
 categories:
   - folklore-ancestral
