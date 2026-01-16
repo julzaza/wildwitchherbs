@@ -167,7 +167,7 @@ Even then, it wasn’t just about healing — it was about power. **Rituals invo
 
 Wormwood teaches through discomfort, purifies through bitterness, and forces clarity. 
 
-If you work with it, do so with respect. Just remember, it’s been used to poison kings, spark revolutions (*hello absinthe!*), and clear graveyards of unrest.
+**If you work with it, do so with respect**. Just remember, it’s been used to poison kings, spark revolutions (*hello absinthe!*), and clear graveyards of unrest.
 
 ---
 
