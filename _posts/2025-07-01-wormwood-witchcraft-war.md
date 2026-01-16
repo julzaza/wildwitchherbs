@@ -105,7 +105,7 @@ This tradition is explored further in
 Less bitter, more cleansing.  
 It is historically associated with **fever alleviation, purification, and clearing “bad blood”**, but not as prominent in European war folklore (originally it came from China). 
 
-While *Artemisia annua* is celebrated today for its antimalarial properties (and controversial cancer use), its modern herbal reputation does not erase its older symbolic role: **clearing what lingers after devastation**.
+While *Artemisia annua* is celebrated today for its antimalarial properties and actively studied for its potential anticancer properties, its modern herbal reputation does not erase its older symbolic role: **clearing what lingers after devastation**.
 
 Learn more about this special plant and how to use it properly here: **[Sweet Wormwood or Qinghao](/artemisia-annua-tea-benefits/)**
 
