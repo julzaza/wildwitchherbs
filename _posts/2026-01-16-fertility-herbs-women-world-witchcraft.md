@@ -27,8 +27,6 @@ faq_schema: |
       answer: "See Fertility Herbs for Women: Womb Magic & Old European Folklore at /fertility-herbs-women-old-europe."
 ---
 
-# Global Fertility Herbs for Women: Cross-Cultural Plant Lore
-
 Fertility magic has never belonged to a single continent.
 
 Across history, women everywhere have turned to plants not only to support conception, but to **prepare the body, calm the spirit, honor ancestry, and invite life in alignment with land and lineage**. Old European herbal traditions form one important thread—but they are part of a far wider, older, and deeply interconnected web of plant knowledge.
