@@ -55,6 +55,8 @@ Some were too poisonous. Others, too holy to be desecrated by burning. And a few
 
 Let’s walk through a **global witch’s list** of herbs you should *not* burn in ritual — and what to do instead when you need their power without courting danger.
 
+Also, check out **[Herbs For Safe Ritual Smoke Clensing](/smoke-cleansing-folk-magic/#ritual-smoke-herbs-from-around-the-world)**.
+
 ---
 
 ### ❌ Henbane *(Hyoscyamus niger)* — Greek, Slavic, Germanic
