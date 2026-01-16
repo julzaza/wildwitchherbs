@@ -24,8 +24,6 @@ faq_schema: |
       answer: "No. This content reflects historical and folkloric plant use, not medical recommendations."
 ---
 
-## Herbs for Women in Their 30s: Strength, Cycles & Endurance
-
 In traditional societies, a woman in her thirties was not seen as “early aging” or hormonally unstable. She was seen as **strong-blooded**.
 
 Across Europe, the Balkans, Central Asia, Africa, and the Americas, this life stage marked the years of **maximum responsibility and endurance**: repeated pregnancies, nursing, fieldwork, household authority, healing labor, and ritual leadership. Herbal traditions did not aim to *fix* women in their 30s — they aimed to **keep them standing**.
