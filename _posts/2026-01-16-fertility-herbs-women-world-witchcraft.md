@@ -167,7 +167,12 @@ Across cultures, certain themes repeat:
 Fertility magic is not passive—it is relational.  
 It asks the woman to speak with her body, her lineage, and her land.
 
-Dive deeper into fertility magic here: **[Folk Fertility Rituals](/folk-fertility-rituals/)**.
+Dive deeper into fertility magic here: 
+
+- **[Folk Fertility Rituals](/folk-fertility-rituals/)**.
+- **[Menstrual Blood Fertility Ritual](/fertility-rituals-menstrual-magic/)**
+- **[Old World Fertility Magic](/old-world-fertility-magic/)**
+- **[Old Magic of Menstrual Offering](/menstrual-blood-earth-ritual/)**
 
 ---
 
@@ -184,12 +189,5 @@ In folk belief, conception requires openness—physical, emotional, and spiritua
 
 **Can fertility magic be practiced without copying another culture’s rituals?**  
 Yes. Understanding the *logic* behind plant use is more important than copying forms. Respect, context, and relationship to your own land matter most.
-
----
-
-# Related Posts  
-- **[Menstrual Blood Fertility Ritual](/fertility-rituals-menstrual-magic/)**
-- **[Old World Fertility Magic](/old-world-fertility-magic/)**
-- **[Old Magic of Menstrual Offering](/menstrual-blood-earth-ritual/)**
 
 ---
