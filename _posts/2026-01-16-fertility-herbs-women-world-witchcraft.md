@@ -34,13 +34,13 @@ Across history, women everywhere have turned to plants not only to support conce
 This guide gathers **global fertility herbs for women**, drawn from Africa, the Middle East, Asia, Oceania, and the Americas, with only a light anchoring in Europe where relevant. These are not modern supplements or wellness trends, but plants embedded in ritual, midwifery, folk medicine, and spiritual ecology.
 
 For readers seeking a deeper dive into European traditions specifically, see:  
-**[Fertility Herbs for Women: Womb Magic & Old World Folklore](/fertility-herbs-women-old-europe)**
+**[Old World Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**
 
 For male-focused traditions, see:  
-**[Fertility Herbs for Men: Old World & Global Traditions](/fertility-herbs-men-old-world)**
+**[Old World Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
 
 For plants traditionally avoided during conception, see:  
-**[Herbs to Avoid When Trying to Get Pregnant](/herbs-to-avoid-when-trying-to-get-pregnant)**
+**[Herbs to Avoid When Trying to Get Pregnant](/herbs-to-avoid-when-getting-pregnant/)**
 
 Now, let us leave the old continent and travel further.
 
@@ -154,9 +154,6 @@ A dew-collecting womb herb, tied to fertility blessings, midsummer rites, and pr
 ### **17. Motherwort (Leonurus cardiaca)**  
 Historically used as a menstrual regulator and emotional stabilizer in fertility charms.
 
-For deeper exploration, see:  
-**/fertility-herbs-women-old-europe**
-
 ---
 
 # Global Fertility Magic: Shared Patterns
@@ -191,8 +188,8 @@ Yes. Understanding the *logic* behind plant use is more important than copying f
 ---
 
 # Related Posts  
-- **[Fertility Herbs for Women: Old European Folklore](/fertility-herbs-women-old-europe)**
-- **[Fertility Herbs for Men: Old World & Global Traditions](/fertility-herbs-men-old-world)**
-- **[Herbs to Avoid When Trying to Get Pregnant](/herbs-to-avoid-when-trying-to-get-pregnant)**
+- **[Fertility Herbs for Women: Old European Folklore](/fertility-herbs-for-women-old-world/)**
+- **[Fertility Herbs for Men: Old World & Global Traditions](/fertility-herbs-for-men-old-world/)**
+- **[Herbs to Avoid When Trying to Get Pregnant](/herbs-to-avoid-when-getting-pregnant/)**
 
 ---
