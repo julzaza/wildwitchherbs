@@ -62,6 +62,8 @@ Nettle wakes you up. Stings, bleeds, protects. Boiled in Beltane rituals. Used i
 
 > Nettle teaches boundaries. She doesn’t ask — she tells.
 
+Learn **[How To Make Nettle Moon Water For Courage And Cutting Ties](/stinging-nettle-moon-water/)**.
+
 ---
 
 ## 5. **Yarrow** (*Achillea millefolium*) — Wounds, Divination, and Love  
