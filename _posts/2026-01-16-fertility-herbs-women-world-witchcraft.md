@@ -187,8 +187,8 @@ Yes. Understanding the *logic* behind plant use is more important than copying f
 ---
 
 # Related Posts  
-- **[Fertility Herbs for Women: Old European Folklore](/fertility-herbs-for-women-old-world/)**
-- **[Fertility Herbs for Men: Old World & Global Traditions](/fertility-herbs-for-men-old-world/)**
-- **[Herbs to Avoid When Trying to Get Pregnant](/herbs-to-avoid-when-getting-pregnant/)**
+- **[Menstrual Blood Fertility Ritual](/fertility-rituals-menstrual-magic/)**
+- **[Old World Fertility Magic](/old-world-fertility-magic/)**
+- **[Old Magic of Menstrual Offering](/menstrual-blood-earth-ritual/)**
 
 ---
