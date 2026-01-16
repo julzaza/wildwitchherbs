@@ -25,7 +25,7 @@ faq_schema: |
       answer: "No. Artemisia absinthium, Artemisia vulgaris, and Artemisia annua share ancestry but serve different roles in folklore, ritual, and bodily use."
 ---
 
-Wormwood does not belong to peace.
+Mentioned in the Bible, feared by medieval priests, and planted on Balkan graves long before borders or countries existed, *Artemisia* carries an ancient power. Bitterness isn’t just its flavor — it’s its weapon.
 
 Across Europe, Western Asia, and parts of North Africa, **Artemisia species appear wherever land has been disturbed**—by roads, plows, graves, camps, and armies. Long before botanists named this genus, folk cultures noticed the pattern: *where humans break the land through violence or hardship, Artemisia follows*.
 
@@ -127,7 +127,15 @@ The plant’s reputation is remarkably consistent: **bitter, protective, uncompr
 
 ---
 
-## Human FAQ
+## Babylonian Blood and Bitter Gods
+
+The earliest written records of wormwood go back to *Babylon*. Known to the Sumerians and Akkadians as a sacred herb, *Artemisia* was burned in offerings to gods and used in rituals to drive out illness — or demons. It’s no accident that bitterness was linked to purification: *the more bitter the herb, the more potent its spirit-cleansing power*.
+
+Even then, it wasn’t just about healing — it was about power. Rituals involving wormwood were often hidden, secretive, and not meant for common use. This plant wasn’t for the weak. 
+
+---
+
+## Got More Questions? We Got Answers: 
 
 **Was wormwood actually connected to war, or is this symbolic?**  
 Both. Its practical use by soldiers and its ecological presence on disturbed land reinforced symbolic associations over centuries.
@@ -143,37 +151,8 @@ Because bitterness was believed to reveal truth, strengthen endurance, and resis
 
 ---
 
-Wormwood does not comfort.  
-It survives.  
-And where it grows, the land remembers.
 
----
 
-*Wormwood* has never been a gentle herb.
-
-Mentioned in the Bible, feared by medieval priests, and planted on Balkan graves long before borders or countries existed, *Artemisia* carries an ancient power. Bitterness isn’t just its flavor — it’s its weapon.
-
----
-
-## Babylonian Blood and Bitter Gods
-
-The earliest written records of wormwood go back to *Babylon*. Known to the Sumerians and Akkadians as a sacred herb, *Artemisia* was burned in offerings to gods and used in rituals to drive out illness — or demons. It’s no accident that bitterness was linked to purification: *the more bitter the herb, the more potent its spirit-cleansing power*.
-
-Even then, it wasn’t just about healing — it was about power. Rituals involving wormwood were often hidden, secretive, and not meant for common use. This plant wasn’t for the weak. 
-
----
-
-## European Witch Trials — and Who Survived
-
-During the European witch hunts, millions of women were burned. But in the Balkans, something different happened.
-
-Balkan witches — or *babaroge*, *vračare*, *travarke* — survived. Why?
-
-Because they served the people. When a baby was sick, when milk soured, when war came to the village — it was the village witch people turned to. They used *wormwood* to banish evil eyes, cleanse the dead, or guard thresholds.
-
-The plant was often **buried with the dead**, especially women. Its bitterness kept evil spirits from following the soul — or the body from rising again.
-
----
 
 ## Wormwood in Folk Magic
 
