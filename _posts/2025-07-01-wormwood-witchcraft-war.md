@@ -106,6 +106,14 @@ While *Artemisia annua* is celebrated today for its **antimalarial properties** 
 
 Learn more about this special plant and how to use it properly here: **[Sweet Wormwood or Qinghao](/artemisia-annua-tea-benefits/)**
 
+## The Three Artemisia in Old World Folklore
+
+| Plant | Traditional Role | Folklore Associations | Common Folk Uses |
+|-----|------------------|----------------------|------------------|
+| **Artemisia absinthium** (Wormwood) | Bitter elder, boundary herb | War, death, mourning, harsh truth, exile | Digestive aid, parasite deterrent, battlefield herb, prophetic or diagnostic dreaming |
+| **Artemisia vulgaris** (Mugwort) | Liminal guardian | Dreams, moon magic, protection, thresholds | Dream pillows, travel charms, ritual smoke, intuition work |
+| **Artemisia annua** (Sweet Wormwood) | Purifier and clearer | Fever, corruption, cleansing after illness or chaos | Clearing stagnation, purification rites, traditional medicinal use |
+
 ---
 
 ## War Memory, Dreams, and Artemisia
