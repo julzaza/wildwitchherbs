@@ -34,6 +34,7 @@ Across history, women everywhere have turned to plants not only to support conce
 This guide gathers **global fertility herbs for women**, drawn from Africa, the Middle East, Asia, Oceania, and the Americas. These are not modern supplements or wellness trends, but plants embedded in ritual, midwifery, folk medicine, and spiritual ecology.
 
 For readers seeking a deeper dive into European traditions specifically, see: 
+
 **[Old World Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)** 
 **[Old World Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
 
