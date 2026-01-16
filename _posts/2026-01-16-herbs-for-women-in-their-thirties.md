@@ -31,8 +31,6 @@ faq_schema: |
       answer: "No. This content reflects historical and folkloric plant use, not medical recommendations."
 ---
 
-# Herbs for Women in Their 30s: Folklore, Hormones & Cycle Support
-
 Women in their 30s navigate a complex life stage: fertility potential is high, cycles are established, and hormonal balance can fluctuate with lifestyle, stress, or health. Across cultures, women relied on **plants as allies**—not just for physical support, but spiritual and protective guidance.
 
 This guide blends **historical folklore, global traditions, and modern herbal practice**, with examples from **Balkan, African, Asian, and Native American traditions**.
