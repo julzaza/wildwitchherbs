@@ -53,6 +53,8 @@ Used in Chinese medicine for over 2,000 years. In modern folk witchcraft, it’s
 
 > If you work with disease, death, or spirits, Artemisia annua belongs on your altar.
 
+Lern more about **[Sweet Wormwood or Qinghao Tea Benefits](/artemisia-annua-tea-benefits/)**.
+
 ---
 
 ## 4. **Nettle** (*Urtica dioica*) — Boundaries, Blood, and Protection  
