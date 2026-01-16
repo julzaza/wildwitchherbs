@@ -43,14 +43,18 @@ These herbs got stories to tell. They go way back.
 ### **Rue (*Ruta graveolens*)**  
 **Region:** Mediterranean, Balkans, Latin America  
 **Use:** Protection against curses and envy  
-**Folklore:** Called *sedefili* in the Balkans and used in village rituals to break the evil eye. Italian *Streghe* wore it tucked behind the ear. In Afro-Caribbean traditions (esp. in Cuba), rue is used in spiritual baths to remove malefic energy.
+**Folklore:** Called *sedefili* in the Balkans and used in village rituals to break the evil eye. 
+
+Italian *Streghe* wore it tucked behind the ear. In Afro-Caribbean traditions (esp. in Cuba), rue is used in spiritual baths to remove malefic energy.
 
 ---
 
 ### **Artemisia annua**  
 **Region:** China, Central Asia, now naturalized across the Balkans  
 **Use:** Malaria medicine, fever cure, spiritual cleanser  
-**Folklore:** In Chinese Taoist tradition, sweet wormwood (Qing Hao) was written about as early as 168 BC in the *Wushi'er Bingfang*. In the Balkans, wild Artemisia is still used to “smoke out” sickness or stuck spirits, often burned in cow dung for potency.  
+**Folklore:** In Chinese Taoist tradition, sweet wormwood (Qing Hao) was written about as early as 168 BC in the *Wushi'er Bingfang*. 
+
+In the Balkans, wild Artemisia is still used to “smoke out” sickness or stuck spirits, often burned in cow dung for potency.  
 
 #### Seeds With a Story
 
@@ -58,7 +62,7 @@ On a recent trip through the southern Balkans, we met a family producing some of
 
 So now you can grow this legendary plant for yourself. 
 
-→ [Order Heirloom Artemisia Seeds](/shop/#artemisia-annua-seeds--5/) while supplies last — this is a limited harvest, and once they’re gone, they’re gone. [Artemisia Annua Tea and Tincture](/shop/#dried-artemisia-annua-tea--14) also available in limited supply. 
+→ **[Order Heirloom Artemisia Annua Seeds](/shop/#artemisia-annua-seeds--5/)** while supplies last — this is a limited harvest, and once they’re gone, they’re gone. **[Sweet Wormwood Tea and Tincture](/shop/#dried-artemisia-annua-tea--14)** also available in limited supply. 
 
 These seeds aren’t mass-produced. They’re wild and strong.
 
@@ -167,8 +171,4 @@ This is your sign to start.
 
 **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)** will guide you in planting protection right at your threshold.
 
-
-## Related Posts
-
-- **[Wormwood in Witchcraft and War: From Babylon to Balkan Graves](/wormwood-witchcraft-war)**
-- **[The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)**
+---
