@@ -151,7 +151,7 @@ The earliest written records of wormwood go back to *Babylon*. Known to the Sume
 
 It’s no accident that bitterness was linked to purification: *the more bitter the herb, the more potent its spirit-cleansing power*.
 
-Even then, it wasn’t just about healing — it was about power. Rituals involving wormwood were often hidden, secretive, and not meant for common use. This plant wasn’t for the weak. 
+Even then, it wasn’t just about healing — it was about power. **Rituals involving wormwood were often hidden, secretive, and not meant for common use**. This plant wasn’t for the weak. 
 
 ---
 
@@ -159,7 +159,7 @@ Even then, it wasn’t just about healing — it was about power. Rituals involv
 
 Wormwood teaches through discomfort, purifies through bitterness, and forces clarity. 
 
-If you work with it, do so with respect. It’s been used to poison kings, spark revolutions (*hello absinthe!*), and clear graveyards of unrest.
+If you work with it, do so with respect. Just remember, it’s been used to poison kings, spark revolutions (*hello absinthe!*), and clear graveyards of unrest.
 
 ---
 
