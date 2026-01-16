@@ -83,7 +83,12 @@ This belief appears repeatedly in burial customs, threshold charms, and land-cle
 
 ## The Three Artemisia Plants — Not the Same Thing
 
-Folk traditions distinguish between Artemisia species, even when modern language collapses them into “wormwood.”
+Today, we know at least 200 species of *Artemisia*, but the most infamous are:
+- *Artemisia absinthium* (bitter wormwood)
+- *Artemisia vulgaris* (mugwort)
+- *Artemisia annua* (sweet wormwood or qinghao)
+
+Each has its place in folk medicine, but also in magical practice.
 
 ### **Artemisia absinthium — Wormwood**
 The bitter archetype.  
@@ -98,19 +103,11 @@ This tradition is explored further in
 
 ### **Artemisia annua — Sweet Wormwood**
 Less bitter, more cleansing.  
-Historically associated with **fever clearing, purification, and illness tied to environmental exposure**. While not as prominent in European war folklore, its role as a cleansing Artemisia places it in rites dealing with contamination, sickness, and recovery after upheaval.
+It is historically associated with **fever alleviation, purification, and clearing “bad blood”**, but not as prominent in European war folklore (originally it came from China). 
 
-Its modern herbal reputation does not erase its older symbolic role: **clearing what lingers after devastation**.
-
-## *Artemisia annua* — Modern and Ancient
-
-While *Artemisia annua* is celebrated today for its antimalarial properties (and controversial cancer use), traditional healers long before labs used it for fevers, spirits, and clearing “bad blood.”
-
-Its light green color and bitter bite still make it a powerful plant ally for witches who walk the line between healing and hexing.
+While *Artemisia annua* is celebrated today for its antimalarial properties (and controversial cancer use), its modern herbal reputation does not erase its older symbolic role: **clearing what lingers after devastation**.
 
 Learn more about this special plant and how to use it properly here: **[Sweet Wormwood or Qinghao](/artemisia-annua-tea-benefits/)**
-
----
 
 ---
 
@@ -125,7 +122,7 @@ Dreamwork involving Artemisia was never recreational. It was diagnostic, ancestr
 
 ---
 
-## Wormwood in Folk Magic
+## Wormwood and Balkan Witchcraft
 
 In Balkan folk magic, *pelin* (wormwood) is used for:
 
@@ -133,13 +130,6 @@ In Balkan folk magic, *pelin* (wormwood) is used for:
 - **Dreamwork**: Burned or brewed before sleep to induce visions
 - **Love-breaking**: Used in rituals to sever toxic bonds
 - **Anti-curse baths**: Steeped and poured over the body to remove the evil eye
-
-Today, we know at least 200 species of *Artemisia*, but the most infamous are:
-- *Artemisia absinthium* (bitter wormwood)
-- *Artemisia vulgaris* (mugwort)
-- *Artemisia annua* (sweet wormwood or qinghao)
-
-Each has its place in folk medicine, but also in magical practice.
 
 ---
 
