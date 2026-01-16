@@ -102,6 +102,16 @@ Historically associated with **fever clearing, purification, and illness tied to
 
 Its modern herbal reputation does not erase its older symbolic role: **clearing what lingers after devastation**.
 
+## *Artemisia annua* — Modern and Ancient
+
+While *Artemisia annua* is celebrated today for its antimalarial properties (and controversial cancer use), traditional healers long before labs used it for fevers, spirits, and clearing “bad blood.”
+
+Its light green color and bitter bite still make it a powerful plant ally for witches who walk the line between healing and hexing.
+
+Learn more about this special plant and how to use it properly here: **[Sweet Wormwood or Qinghao](/artemisia-annua-tea-benefits/)**
+
+---
+
 ---
 
 ## War Memory, Dreams, and Artemisia
@@ -112,6 +122,24 @@ It remains in the land, the body, and the dreams.
 Both wormwood and mugwort appear in traditions concerned with **disturbed sleep, prophetic dreams, and visions following trauma**. These plants were believed to force truth to the surface—not gently, but honestly.
 
 Dreamwork involving Artemisia was never recreational. It was diagnostic, ancestral, and often uncomfortable.
+
+---
+
+## Wormwood in Folk Magic
+
+In Balkan folk magic, *pelin* (wormwood) is used for:
+
+- **Protection**: Hung over doors, carried in pockets
+- **Dreamwork**: Burned or brewed before sleep to induce visions
+- **Love-breaking**: Used in rituals to sever toxic bonds
+- **Anti-curse baths**: Steeped and poured over the body to remove the evil eye
+
+Today, we know at least 200 species of *Artemisia*, but the most infamous are:
+- *Artemisia absinthium* (bitter wormwood)
+- *Artemisia vulgaris* (mugwort)
+- *Artemisia annua* (sweet wormwood or qinghao)
+
+Each has its place in folk medicine, but also in magical practice.
 
 ---
 
@@ -135,6 +163,12 @@ Even then, it wasn’t just about healing — it was about power. Rituals involv
 
 ---
 
+## A Witch’s Warning
+
+Wormwood is not gentle. It teaches through discomfort, purifies through bitterness, and forces clarity. If you work with it, do so with respect. It’s been used to poison kings, spark revolutions (*hello absinthe!*), and clear graveyards of unrest.
+
+---
+
 ## Got More Questions? We Got Answers: 
 
 **Was wormwood actually connected to war, or is this symbolic?**  
@@ -150,49 +184,3 @@ Historically, yes—through its role in purification, fever, and post-illness cl
 Because bitterness was believed to reveal truth, strengthen endurance, and resist decay—qualities essential in times of war and loss.
 
 ---
-
-
-
-
-## Wormwood in Folk Magic
-
-In Balkan folk magic, *pelin* (wormwood) is used for:
-
-- **Protection**: Hung over doors, carried in pockets
-- **Dreamwork**: Burned or brewed before sleep to induce visions
-- **Love-breaking**: Used in rituals to sever toxic bonds
-- **Anti-curse baths**: Steeped and poured over the body to remove the evil eye
-
-Today, we know at least 200 species of *Artemisia*, but the most infamous are:
-- *Artemisia absinthium* (bitter wormwood)
-- *Artemisia vulgaris* (mugwort)
-- *Artemisia annua* (sweet wormwood or qinghao)
-
-Each has its place in folk medicine, but also in magical practice.
-
----
-
-## *Artemisia annua* — Modern and Ancient
-
-While *Artemisia annua* is celebrated today for its antimalarial properties (and controversial cancer use), traditional healers long before labs used it for fevers, spirits, and clearing “bad blood.”
-
-Its light green color and bitter bite still make it a powerful plant ally for witches who walk the line between healing and hexing.
-
-Learn more about this special plant and how to use it properly here: **[Sweet Wormwood or Qinghao](/artemisia-annua-tea-benefits/)**
-
----
-
-## A Witch’s Warning
-
-Wormwood is not gentle. It teaches through discomfort, purifies through bitterness, and forces clarity. If you work with it, do so with respect. It’s been used to poison kings, spark revolutions (*hello absinthe!*), and clear graveyards of unrest.
-
----
-
-## Final Thought
-
-Wormwood isn’t a soft herb. It doesn’t sing lullabies. It howls.  
-And that howl — from Babylon to the Balkans — still echoes in the hands of those who dare to work with it.
-
----
-
-*Do you work with wormwood? Want to share a ritual, dream, or folk story passed down in your family? Drop it in the comments or message me — I’m always collecting tales from the dark green corners of the world.*
