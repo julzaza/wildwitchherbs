@@ -42,7 +42,7 @@ For plants traditionally avoided during conception, see:
 
 - **[Herbs to Avoid When Trying to Get Pregnant](/herbs-to-avoid-when-getting-pregnant/)**
 
-**Now, let us leave the old continent and travel further**.
+Now, let us leave the old continent and travel further.
 
 ---
 
