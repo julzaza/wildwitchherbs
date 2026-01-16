@@ -40,12 +40,19 @@ These herbs got stories to tell. They go way back.
 
 ---
 
+### **Rue (*Ruta graveolens*)**  
+**Region:** Mediterranean, Balkans, Latin America  
+**Use:** Protection against curses and envy  
+**Folklore:** Called *sedefili* in the Balkans and used in village rituals to break the evil eye. Italian *Streghe* wore it tucked behind the ear. In Afro-Caribbean traditions (esp. in Cuba), rue is used in spiritual baths to remove malefic energy.
+
+---
+
 ### **Artemisia annua**  
 **Region:** China, Central Asia, now naturalized across the Balkans  
 **Use:** Malaria medicine, fever cure, spiritual cleanser  
 **Folklore:** In Chinese Taoist tradition, sweet wormwood (Qing Hao) was written about as early as 168 BC in the *Wushi'er Bingfang*. In the Balkans, wild Artemisia is still used to “smoke out” sickness or stuck spirits, often burned in cow dung for potency.  
 
-## Seeds With a Story
+#### Seeds With a Story
 
 On a recent trip through the southern Balkans, we met a family producing some of the finest Artemisia annua tea and tincture we’ve ever encountered — wild-grown, sun-fed, and brimming with life. And they had some extra seeds!
 
@@ -57,12 +64,7 @@ These seeds aren’t mass-produced. They’re wild and strong.
 
 If you’re ready to plant your own story, you’ll want some of these.
 
----
-
-### **Rue (*Ruta graveolens*)**  
-**Region:** Mediterranean, Balkans, Latin America  
-**Use:** Protection against curses and envy  
-**Folklore:** Called *sedefili* in the Balkans and used in village rituals to break the evil eye. Italian *Streghe* wore it tucked behind the ear. In Afro-Caribbean traditions (esp. in Cuba), rue is used in spiritual baths to remove malefic energy.
+And don't forget to check out: **[Sweet Wormwood or Qinghao Tea Benefits](/artemisia-annua-tea-benefits/)**. 
 
 ---
 
@@ -133,7 +135,7 @@ If you’re ready to plant your own story, you’ll want some of these.
 - **In biodynamic farming** (popular in Europe), moon phases affect root and leaf strength. Root crops on waning moons.  
 - **Old Ukrainian calendars** marked best planting days with religious feasts and lunar signs — folk Catholicism intertwined with pagan rhythms.
   
-  Check out [Lunar Gardening: How Real Witches Plant with the Moon](/lunar-gardening-folklore/) for more.
+  Check out **[Lunar Gardening: How Real Witches Plant with the Moon](/lunar-gardening-folklore/)** for more.
 
 ### Offering Before Digging  
 - In **West African Vodun**, spirits of the land are greeted with offerings before breaking soil.  
@@ -151,7 +153,7 @@ You don’t need to copy rituals, but know where they come from — and respect 
 
 All you need is life — a place to let roots dig in.
 
-In fact, [Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/) will show you how to turn even the smallest corner into a living altar.
+In fact, **[Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)** will show you how to turn even the smallest corner into a living altar.
 
 ---
 
@@ -163,10 +165,10 @@ Real witchcraft is about tending something real, rooted, and remembered.
 
 This is your sign to start. 
 
-[Witchy Plants for the Front Door](/witchy-plants-for-front-door/) will guide you in planting protection right at your threshold.
+**[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)** will guide you in planting protection right at your threshold.
 
 
 ## Related Posts
 
-- [Wormwood in Witchcraft and War: From Babylon to Balkan Graves](/wormwood-witchcraft-war)
-- [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
+- **[Wormwood in Witchcraft and War: From Babylon to Balkan Graves](/wormwood-witchcraft-war)**
+- **[The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)**
