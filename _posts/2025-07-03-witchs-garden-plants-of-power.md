@@ -224,5 +224,5 @@ Historically, there was no separation. Healing, protection, and ritual were part
 That’s how it was always done. One pot, one plant, one relationship at a time.
 
 **Can a witch’s garden be grown indoors?**  
-Yes. Many traditional herbs were grown in pots, courtyards, or near thresholds rather than in large gardens.
+Yes. Many traditional herbs were grown in pots, courtyards, or near thresholds rather than in large gardens. Check out: **[Indoor Witchy Plants](/witchy-plants-to-grow-indoors/)**
 
