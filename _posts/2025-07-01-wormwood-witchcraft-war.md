@@ -98,14 +98,11 @@ Associated with war, death, endurance, and uncompromising truth. Used in protect
 The visionary relative.  
 Used for **dream protection, lucid dreaming, and intuitive sight**, especially among travelers, soldiers, and those living near danger. Mugwort appears in folk records as a *guardian plant* rather than an aggressor.
 
-This tradition is explored further in  
-**[Wormwood for Lucid Dreaming: Folklore, Rituals & Safety](https://wildwitchherbs.com/wormwood-lucid-dreaming/)**
-
 ### **Artemisia annua — Sweet Wormwood**
 Less bitter, more cleansing.  
 It is historically associated with **fever alleviation, purification, and clearing “bad blood”**, but not as prominent in European war folklore (originally it came from China). 
 
-While *Artemisia annua* is celebrated today for its antimalarial properties and actively studied for its potential anticancer properties, its modern herbal reputation does not erase its older symbolic role: **clearing what lingers after devastation**.
+While *Artemisia annua* is celebrated today for its **antimalarial properties** and actively studied for its **potential anticancer properties**, its modern herbal reputation does not erase its older symbolic role: **clearing what lingers after devastation**.
 
 Learn more about this special plant and how to use it properly here: **[Sweet Wormwood or Qinghao](/artemisia-annua-tea-benefits/)**
 
@@ -119,6 +116,9 @@ It remains in the land, the body, and the dreams.
 Both wormwood and mugwort appear in traditions concerned with **disturbed sleep, prophetic dreams, and visions following trauma**. These plants were believed to force truth to the surface—not gently, but honestly.
 
 Dreamwork involving Artemisia was never recreational. It was diagnostic, ancestral, and often uncomfortable.
+
+This tradition is explored further in  
+**[Wormwood and Mugwort For Lucid Dreaming: Folklore, Rituals & Safety](https://wildwitchherbs.com/wormwood-lucid-dreaming/)**
 
 ---
 
@@ -147,7 +147,9 @@ The plant’s reputation is remarkably consistent: **bitter, protective, uncompr
 
 ## Babylonian Blood and Bitter Gods
 
-The earliest written records of wormwood go back to *Babylon*. Known to the Sumerians and Akkadians as a sacred herb, *Artemisia* was burned in offerings to gods and used in rituals to drive out illness — or demons. It’s no accident that bitterness was linked to purification: *the more bitter the herb, the more potent its spirit-cleansing power*.
+The earliest written records of wormwood go back to *Babylon*. Known to the Sumerians and Akkadians as a sacred herb, *Artemisia* was burned in **offerings to gods and used in rituals to drive out illness — or demons**. 
+
+It’s no accident that bitterness was linked to purification: *the more bitter the herb, the more potent its spirit-cleansing power*.
 
 Even then, it wasn’t just about healing — it was about power. Rituals involving wormwood were often hidden, secretive, and not meant for common use. This plant wasn’t for the weak. 
 
@@ -155,7 +157,9 @@ Even then, it wasn’t just about healing — it was about power. Rituals involv
 
 ## A Witch’s Warning
 
-Wormwood is not gentle. It teaches through discomfort, purifies through bitterness, and forces clarity. If you work with it, do so with respect. It’s been used to poison kings, spark revolutions (*hello absinthe!*), and clear graveyards of unrest.
+Wormwood teaches through discomfort, purifies through bitterness, and forces clarity. 
+
+If you work with it, do so with respect. It’s been used to poison kings, spark revolutions (*hello absinthe!*), and clear graveyards of unrest.
 
 ---
 
