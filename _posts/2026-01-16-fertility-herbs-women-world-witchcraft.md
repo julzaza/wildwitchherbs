@@ -36,7 +36,6 @@ This guide gathers **global fertility herbs for women**, drawn from Africa, the 
 For readers seeking a deeper dive into European traditions specifically, see: 
 
 - **[Old World Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)** 
-
 - **[Old World Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
 
 For plants traditionally avoided during conception, see: **[Herbs to Avoid When Trying to Get Pregnant](/herbs-to-avoid-when-getting-pregnant/)**
