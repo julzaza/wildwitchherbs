@@ -29,18 +29,15 @@ faq_schema: |
 
 Fertility magic has never belonged to a single continent.
 
-Across history, women everywhere have turned to plants not only to support conception, but to **prepare the body, calm the spirit, honor ancestry, and invite life in alignment with land and lineage**. Old European herbal traditions form one important thread—but they are part of a far wider, older, and deeply interconnected web of plant knowledge.
+Across history, women everywhere have turned to plants not only to support conception, but to **prepare the body, calm the spirit, honor ancestry, and invite life in alignment with land and lineage**.
 
-This guide gathers **global fertility herbs for women**, drawn from Africa, the Middle East, Asia, Oceania, and the Americas, with only a light anchoring in Europe where relevant. These are not modern supplements or wellness trends, but plants embedded in ritual, midwifery, folk medicine, and spiritual ecology.
+This guide gathers **global fertility herbs for women**, drawn from Africa, the Middle East, Asia, Oceania, and the Americas. These are not modern supplements or wellness trends, but plants embedded in ritual, midwifery, folk medicine, and spiritual ecology.
 
-For readers seeking a deeper dive into European traditions specifically, see:  
-**[Old World Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**
+For readers seeking a deeper dive into European traditions specifically, see: **[Old World Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**
 
-For male-focused traditions, see:  
-**[Old World Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
+For male-focused traditions, see: **[Old World Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
 
-For plants traditionally avoided during conception, see:  
-**[Herbs to Avoid When Trying to Get Pregnant](/herbs-to-avoid-when-getting-pregnant/)**
+For plants traditionally avoided during conception, see: **[Herbs to Avoid When Trying to Get Pregnant](/herbs-to-avoid-when-getting-pregnant/)**
 
 Now, let us leave the old continent and travel further.
 
@@ -168,6 +165,8 @@ Across cultures, certain themes repeat:
 
 Fertility magic is not passive—it is relational.  
 It asks the woman to speak with her body, her lineage, and her land.
+
+Dive deeper into fertility magic here: **[Folk Fertility Rituals](/folk-fertility-rituals/)**.
 
 ---
 
