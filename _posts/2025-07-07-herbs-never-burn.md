@@ -133,6 +133,7 @@ Many witches assume that if a plant is “used in magic,” it’s safe to burn.
 - **Dangerous in smoke form**, especially indoors  
 
 Remember: just because an herb is sacred to the dead doesn’t mean it should fill your lungs.
+
 ---
 
 ## What Cultures Did Instead of Burning
