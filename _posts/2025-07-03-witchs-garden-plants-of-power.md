@@ -75,56 +75,72 @@ And don't forget to check out: **[Sweet Wormwood or Qinghao Tea Benefits](/artem
 ### **Lemongrass (*Cymbopogon citratus*)**  
 **Region:** Africa, India, Caribbean  
 **Use:** Cleansing and spirit banishment  
-**Folklore:** In hoodoo and Santería, floors are washed with lemongrass infusion to remove spiritual grime. In Vodou, it’s used to calm disturbed spirits and open ritual space.  
+**Folklore:** In hoodoo and Santería, floors are washed with lemongrass infusion to remove spiritual grime. 
+
+In Vodou, it’s used to calm disturbed spirits and open ritual space.  
 
 ---
 
 ### **Mugwort (*Artemisia vulgaris*)**  
 **Region:** Europe, Asia, North America  
 **Use:** Dreamwork, protection, travel between worlds  
-**Folklore:** Roman soldiers put mugwort in their sandals for endurance. In Japanese *omamori*, mugwort is sometimes used in amulets for protection. In the Balkans, young women bathed in mugwort-infused water before Slava or solstice rituals.
+**Folklore:** Roman soldiers put mugwort in their sandals for endurance. 
+
+In Japanese *omamori*, mugwort is sometimes used in amulets for protection. In the Balkans, young women bathed in mugwort-infused water before Slava or solstice rituals.
 
 ---
 
 ### **Tulsi (*Ocimum tenuiflorum*)**  
 **Region:** India  
 **Use:** Spiritual purity, protection, healing  
-**Folklore:** Considered the earthly embodiment of Lakshmi. Almost every traditional Hindu home grows it in a central altar pot. Watered daily while chanting mantras — not for decoration, but for divine connection.
+**Folklore:** Considered the earthly embodiment of Lakshmi. 
+
+Almost every traditional Hindu home grows it in a central altar pot. Watered daily while chanting mantras — not for decoration, but for divine connection.
 
 ---
 
 ### **Dittany of Crete (*Origanum dictamnus*)**  
 **Region:** Crete, Greece  
 **Use:** Healing wounds, trance induction  
-**Folklore:** Said to grow only where the blood of lovers was spilled. In Cretan folk magic, it’s burned in love rituals. Its fumes were believed to guide souls safely through the underworld.
+**Folklore:** Said to grow only where the blood of lovers was spilled. 
+
+In Cretan folk magic, it’s burned in love rituals. Its fumes were believed to guide souls safely through the underworld.
 
 ---
 
 ### **Yarrow (*Achillea millefolium*)**  
 **Region:** Northern Hemisphere  
 **Use:** Healing, divination, battle protection  
-**Folklore:** Named after Achilles. In Chinese *I Ching*, yarrow stalks were used for divination. In European folk medicine, it was packed into wounds. In Slavic lore, yarrow was placed under the mattress to protect a woman’s fertility and marriage.
+**Folklore:** Named after Achilles. In Chinese *I Ching*, yarrow stalks were used for divination. 
+
+In European folk medicine, it was packed into wounds. In Slavic lore, yarrow was placed under the mattress to protect a woman’s fertility and marriage.
 
 ---
 
 ### **Neem (*Azadirachta indica*)**  
 **Region:** South Asia  
 **Use:** Disinfectant, curse breaker  
-**Folklore:** Hung above doors to block malevolent spirits. Bathing with neem was said to remove “black energy” or disease caused by spiritual imbalance. Also used as a toothbrush twig in Indian villages — a magical ritual masked as hygiene.
+**Folklore:** Hung above doors to block malevolent spirits. Bathing with neem was said to remove “black energy” or disease caused by spiritual imbalance. 
+
+Also used as a toothbrush twig in Indian villages — a magical ritual masked as hygiene.
 
 ---
 
 ### **Mandrake (*Mandragora officinarum*)**  
 **Region:** Mediterranean, Near East  
 **Use:** Fertility, protection, trance  
-**Folklore:** The screaming root. Pulled from the ground with a dog’s help, so the legend goes. Used in Jewish and Arab folk magic. In some Slavic traditions, the mandrake was kept wrapped in silk, fed milk, and consulted like an oracle.
+**Folklore:** The screaming root. Pulled from the ground with a dog’s help, so the legend goes. Used in Jewish and Arab folk magic. 
+
+In some Slavic traditions, the mandrake was kept wrapped in silk, fed milk, and consulted like an oracle.
 
 ---
 
 ### **Ashwagandha (*Withania somnifera*)**  
 **Region:** India, Middle East  
 **Use:** Strength, stamina, grounding  
-**Folklore:** Used in Ayurvedic medicine for thousands of years. Root powder is given to those recovering from illness or spiritual depletion. Also considered a protective plant for the “householder” stage of life — keeping evil away from family and hearth.
+**Folklore:** Used in Ayurvedic medicine for thousands of years. 
+
+Root powder is given to those recovering from illness or spiritual depletion. Also considered a protective plant for the “householder” stage of life — keeping evil away from family and hearth.
 
 ---
 
