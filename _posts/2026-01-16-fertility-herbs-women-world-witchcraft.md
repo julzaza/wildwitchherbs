@@ -46,7 +46,7 @@ Now, let us leave the old continent and travel further.
 
 ---
 
-## North Africa & the Sahara  
+## **North Africa & the Sahara**  
 ### **1. Desert Rue (Harmal / Peganum harmala)**  
 Rue’s Old-World cousin is a cornerstone of Saharan women’s fertility rites. Harmal seeds are burned to invoke protective spirits, but in Amazigh tradition they also symbolically “unlock the womb.” Women seeking conception may pass through Harmal smoke, wear seed amulets, or steep the seeds in offerings placed at ancestral shrines.
 
