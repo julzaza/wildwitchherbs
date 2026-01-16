@@ -188,7 +188,7 @@ In fact, **[Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)** wi
 
 ---
 
-## Final Thought
+## A Final Invitation
 
 It's time to grow your own witchy garden. 
 
@@ -196,7 +196,19 @@ Real witchcraft is about tending something real, rooted, and remembered.
 
 This is your sign to start. 
 
-**[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)** will guide you in planting protection right at your threshold.
+But before buying seeds or planning beds, take a walk.
+
+Look at **what already grows where you live** — along roadsides, in cracks, at field edges, behind fences. In traditional folk practice, the most powerful plants were often the ones that **volunteered themselves**.
+
+Wormwood where the land has been disturbed.  
+Mugwort near paths and thresholds.  
+Yarrow in grazed fields.  
+
+These plants are not random. Folk cultures believed the land offered what was needed — for healing, protection, or endurance — long before humans named it.
+
+A real witch’s garden begins with **listening**, not planting.
+
+And our post on **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)** will guide you in planting protection right at your threshold.
 
 ---
 
