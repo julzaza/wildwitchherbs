@@ -171,7 +171,44 @@ If you work with it, do so with respect. Just remember, it’s been used to pois
 
 ---
 
+## Related Posts
+
+- **[Wormwood & Lucid Dreaming: Bitter Herbs and Prophetic Sleep](https://wildwitchherbs.com/wormwood-lucid-dreaming/)**  
+  Explore how wormwood and mugwort were used in Old European dream lore to sharpen vision, reveal truth, and confront fate through sleep.
+
+- **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](https://wildwitchherbs.com/solstice-dreaming-mugwort-wormwood/)**  
+  A deeper look at how Artemisia species were paired with liminal nights, ancestral contact, and ritual dreaming.
+
+- **[The Witch’s Herbal Starter Kit: 10 Traditional Power Plants](https://wildwitchherbs.com/herbal-starter-kit/)**  
+  Where Artemisia absinthium, vulgaris, and annua fit within historical witchcraft and folk herbal practice.
+
+- **[How to Start a Real Witch’s Garden: Traditional Plants with Power](https://wildwitchherbs.com/witch-garden/)**  
+  Learn how bitter and boundary herbs like wormwood were planted, harvested, and respected in folk tradition.
+
+---
+
 ## Got More Questions? We Got Answers: 
+
+## Human FAQ — Wormwood, War & Artemisia Lore
+
+**Was wormwood actually used by soldiers or in wartime?**  
+Yes. In European folk history, *Artemisia absinthium* was carried by soldiers and travelers as a **bitter digestive**, **parasite deterrent**, and **preservative herb**. Because it thrives on disturbed ground—roadsides, camps, mass graves—it became symbolically tied to warfare, decay, and death.
+
+**Why is wormwood associated with death and bitterness in folklore?**  
+Wormwood’s extreme bitterness made it a symbol of **harsh truth, mourning, and unavoidable fate**. In Biblical, Balkan, and wider European traditions, bitterness marked grief, exile, and the cost of war—both physical and spiritual.
+
+**Is wormwood the same as mugwort?**  
+No. Though closely related, they serve different roles in folklore. Wormwood (*Artemisia absinthium*) is harsher and associated with endurance, death rites, and truth-revealing bitterness. Mugwort (*Artemisia vulgaris*) is gentler and traditionally linked to **dreaming, protection, and liminal vision**.
+
+**Was wormwood used for dreaming or visions?**  
+Yes. European folk practice used wormwood—often alongside mugwort—for **prophetic or diagnostic dreaming**, especially around themes of death, fate, and ancestral messages. It was placed under pillows, hung near beds, or used as smoke rather than casually consumed.  
+Related reading: [Wormwood & Lucid Dreaming](https://wildwitchherbs.com/wormwood-lucid-dreaming/)
+
+**What about Artemisia annua — does it belong in this tradition?**  
+Yes, but differently. *Artemisia annua* (sweet wormwood) appears more often in **purification, fever-clearing, and corruption-removal traditions**, especially in Eurasian and Chinese contexts. It is less about death symbolism and more about **clearing what festers after war or illness**.
+
+**Is wormwood safe to use?**  
+Traditionally, wormwood was treated with caution. Folk use emphasized **small amounts, indirect methods, and short-term application**. Modern use should always respect its potency and historical warnings against excess.
 
 **Was wormwood actually connected to war, or is this symbolic?**  
 Both. Its practical use by soldiers and its ecological presence on disturbed land reinforced symbolic associations over centuries.
