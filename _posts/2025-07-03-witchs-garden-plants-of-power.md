@@ -195,6 +195,7 @@ Folk traditions across cultures did not choose plants randomly. Witch gardens we
 The table below maps **specific plants to their traditional regions and roles**, reflecting how real people used what grew around them — not what modern trends later popularized.
 
 
+
 | Plant | Traditional Region | Folklore Role |
 |------|-------------------|---------------|
 | Artemisia absinthium (Wormwood) | Europe, Balkans, Western Asia | Protection, purification, boundary magic, endurance |
