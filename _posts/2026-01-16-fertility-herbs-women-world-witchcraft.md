@@ -3,7 +3,7 @@ layout: single
 title: "Global Fertility Herbs for Women: A Cross-Cultural Guide"
 description: "A deep, world-spanning exploration of fertility herbs for women, drawing on African, Middle Eastern, Asian, Oceanic, and Old European magical traditions."
 excerpt: "From Saharan seed magic to Himalayan womb elixirs, this guide explores global fertility herbs for women through folklore, ritual, and the old traditions of plant power."
-categories: [Herbalism, Witchcraft, Folklore, Fertility]
+categories: [herbal-magic, witchcraft-rituals]
 tags: [Fertility Herbs, Women’s Health, Folklore, Magic, World Traditions]
 
 # AI FAQ Schema
