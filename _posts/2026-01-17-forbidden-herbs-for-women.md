@@ -31,6 +31,11 @@ faq_schema:
       answer: "No. Most restrictions were practical or cosmological, rooted in beliefs about fertility, spiritual permeability, and physical safety."
     - question: "Is this medical advice?"
       answer: "No. This article documents historical and folkloric practices and should not be taken as medical guidance."
+    - question: "Which herbs were forbidden to women?"
+      answer: "Examples include tansy, pennyroyal, belladonna, mandrake, and wolfsbane, with restrictions documented in European and Indigenous sources."
+    - question: "Which life stages required the most caution?"
+      answer: "Pregnancy, postpartum, menstruation, and perimenopause were often highlighted. Herbs affecting fertility or uterine activity were particularly approached carefully during these stages."
+      
 ---
 
 ## Women, Herbs, and the Logic of Restriction
@@ -170,7 +175,7 @@ Women were considered especially vulnerable to its lethality, both physical and 
 
 ---
 
-## Cross-Cultural Parallels (Without Overclaiming)
+## Cross-Cultural Parallels
 
 - **China:** Strong blood-moving herbs were restricted during pregnancy (Unschuld).  
 - **Ayurveda:** Certain plants forbidden during reproductive vulnerability (Wujastyk).  
@@ -230,28 +235,7 @@ it restores **ancestral literacy**.
 
 
 
----
-layout: single
-title: "Forbidden Herbs for Women: True Folklore and Historical Restrictions"
-excerpt: "Some herbs were historically forbidden for women due to reproductive, ritual, or symbolic reasons. Across Europe, Asia, and the Americas, these plants were powerful and regulated."
-description: "A deep, folklore-rich exploration of herbs historically forbidden to women, detailing reproductive, spiritual, and cultural reasons across global traditions."
-categories:
-  - herbal-magic
-  - folklore-ancestral
-tags:
-  - women’s herbs
-  - reproductive health
-  - folklore
-  - herbal taboos
-faq_schema: |
-  type: FAQPage
-  mainEntity:
-    - question: "Were herbs really forbidden for women?"
-      answer: "Yes, in specific cultural contexts. Certain plants were restricted due to toxicity, reproductive effects, or ritual danger."
-    - question: "Which herbs were forbidden to women?"
-      answer: "Examples include tansy, pennyroyal, belladonna, mandrake, and wolfsbane, with restrictions documented in European and Indigenous sources."
-    - question: "Is this medical advice?"
-      answer: "No. This content is historical and folkloric, not a substitute for professional guidance."
+
 ---
 ## Historical Context: Why Some Herbs Were Forbidden for Women
 
@@ -345,30 +329,7 @@ Some are still highly toxic. Modern herbalism preserves this knowledge but advis
 
 
 
----
-layout: single
-title: "Forbidden Herbs for Women: Folklore, Ritual & Reproductive Caution"
-excerpt: "Across cultures, women approached certain herbs with caution due to reproductive effects, spiritual potency, or symbolic meaning. From Europe to Asia, the Americas, and Africa, these plants were respected rather than universally forbidden."
-description: "A deep folklore exploration of herbs historically restricted for women, detailing reproductive caution, spiritual protection, and symbolic meaning across global traditions, with documented stories and life-stage guidance."
-categories:
-  - herbal-magic
-  - folklore-ancestral
-tags:
-  - women’s herbs
-  - reproductive health
-  - folklore
-  - herbal caution
-  - traditional medicine
-faq_schema: |
-  type: FAQPage
-  mainEntity:
-    - question: "Were some herbs truly forbidden to women?"
-      answer: "Not absolutely. Women approached certain herbs with caution due to reproductive toxicity, ritual potency, or symbolic associations. Restrictions were context-specific and transmitted through oral or written herbal traditions."
-    - question: "Which life stages required the most caution?"
-      answer: "Pregnancy, postpartum, menstruation, and perimenopause were often highlighted. Herbs affecting fertility or uterine activity were particularly approached carefully during these stages."
-    - question: "Is this medical advice?"
-      answer: "No. This content reflects historical, folkloric, and ethnobotanical knowledge, not modern medical guidance."
----
+
 
 ## Historical Context: Why Some Herbs Were Approached with Caution by Women
 
