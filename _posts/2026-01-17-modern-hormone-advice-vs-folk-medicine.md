@@ -1,3 +1,4 @@
+---
 layout: single
 title: "Why Modern Hormone Advice Contradicts Folk Medicine"
 excerpt: "Modern hormone advice treats women as systems to be controlled. Folk medicine treated women as processes unfolding over time."
