@@ -286,13 +286,7 @@ it restores **ancestral literacy**.
 - Respect traditional knowledge: some herbs have **dual roles** — reproductive modulation and spiritual protection.  
 - Modern herbalists should note **toxicity, dosage, life stage, and ritual context** when considering historical usage.  
 
----
-
-## Practical Insights
-
-- “Forbidden” herbs often intersect **reproductive caution, ritual significance, and spiritual protection**.  
-- Usage restrictions were **age- and context-specific**, not universal bans.  
-- Folklore codified these rules, transmitted orally or via midwifery manuals.
+Folklore codified these rules, transmitted orally or via midwifery manuals.
 
 ---
 
