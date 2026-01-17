@@ -25,20 +25,10 @@ faq_schema: |
       answer: "Traditional societies viewed the 30s as peak endurance and authority years. Herbal practices emphasized maintenance, resilience, and blood health rather than fertility anxiety or decline."
     - question: "Are these herbs meant as medical advice?"
       answer: "No. This content reflects historical and folkloric plant use, not medical recommendations."
-
-
-          - question: "Which herbs support women’s cycles and fertility in their 30s?"
-      answer: "Traditionally, herbs like Red Raspberry Leaf, Vitex (Chasteberry), Maca, Ashwagandha, and Red Clover have been used to support hormonal balance, menstrual cycles, and fertility preparation. Folklore often associates them with protection, fertility blessings, and ancestral wisdom."
-    - question: "Can these herbs help with PMS or hormonal fluctuations?"
-      answer: "Yes. Historical and modern sources report that Vitex, Red Clover, Ashwagandha, and Turmeric can ease premenstrual symptoms, support reproductive hormones, and reduce stress-related imbalances."
     - question: "Are these herbs safe for daily use?"
       answer: "Most herbs are safe in traditional culinary or tea doses, but individual reactions vary. Consult a healthcare professional, especially if pregnant, nursing, or on medication."
-    - question: "Why focus on women in their 30s as a distinct stage?"
-      answer: "Traditional societies recognized the 30s as peak endurance and authority years, distinct from maidenhood and menopause. Herbal use reflected maintenance and strengthening rather than stimulation or decline."
     - question: "Were fertility herbs emphasized in this life stage?"
       answer: "Not primarily. Folk traditions focused more on blood strength, cycle stability, and nervous endurance than on conception itself."
-    - question: "Are these herbs meant as medical advice?"
-      answer: "No. This content reflects historical and folkloric plant use, not medical recommendations."
       
 ---
 
@@ -230,8 +220,6 @@ No. Historically, it was its own respected phase.
 **Are these herbs medical advice?**  
 No. This content reflects historical and folkloric use.
 
-## Human FAQ
-
 **Can these herbs help regulate menstrual cycles?**  
 Yes. Many herbs, especially Vitex, Red Raspberry Leaf, and Red Clover, have historical and modern use for cycle regulation.
 
@@ -243,15 +231,6 @@ In many traditions, yes. Adaptogens were often used in combination to strengthen
 
 **Do folklore practices still apply today?**  
 Folklore adds meaning, ritual, and ancestral connection. Modern use focuses on physiology, but many women incorporate traditional practices for psychological and spiritual support.
-
-**Were women in their 30s considered fertile or maternal in folklore?**  
-Yes — but fertility was not the focus. Strength, endurance, and reliability were.
-
-**Did herbs aim to increase fertility at this age?**  
-Only when conception was desired. Otherwise, maintenance was prioritized.
-
-**Is this stage pre-menopause?**  
-Not culturally. It was its own respected phase.
 
 ---
 
@@ -305,15 +284,6 @@ Balkan midwives, Peruvian shamans, and Indian ayurvedic healers all **viewed pla
 ---
 
 
-
-
-
-In traditional societies, a woman in her thirties was not seen as “early aging” or hormonally unstable. She was seen as **strong-blooded**.
-
-Across Europe, the Balkans, Central Asia, Africa, and the Americas, this life stage marked the years of **maximum responsibility and endurance**: repeated pregnancies, nursing, fieldwork, household authority, healing labor, and ritual leadership. Herbal traditions did not aim to *fix* women in their 30s — they aimed to **keep them standing**.
-
-This post explores herbs historically associated with **maintenance, resilience, and long-term vitality**, not fertility panic or hormonal fear.
-
 ---
 
 ## How Folk Traditions Understood the 30s
@@ -332,43 +302,7 @@ Herbs used in this phase focused on:
 
 Not stimulation. Not suppression. **Preservation.**
 
----
 
-## Core Herbal Themes of the Strong-Blooded Years
-
-### 1. Blood Building, Not Blood Forcing
-In European, Balkan, and West Asian traditions, aggressive blood-moving herbs were avoided unless illness was present. Instead, women were given plants that **rebuilt blood slowly**.
-
-**Examples across traditions:**
-- **Nettle (*Urtica dioica*)** — Europe, Balkans  
-- **Moringa (*Moringa oleifera*)** — Africa, South Asia  
-- **Yellow dock (*Rumex crispus*)** — Europe, North America  
-
-These plants appear repeatedly in folk diets, postpartum recovery, and women’s tonics — not as “medicine,” but as food-adjacent strength.
-
----
-
-### 2. Cycle Integrity Over Cycle Control
-Folk traditions were less concerned with cycle timing and more with **regularity and quality**.
-
-Plants associated with this included:
-- **Lady’s Mantle (*Alchemilla vulgaris*)** — Europe  
-- **Yarrow (*Achillea millefolium*)** — pan-European, Indigenous American  
-- **Dong Quai (*Angelica sinensis*)** — China, East Asia  
-
-These herbs appear in midwives’ notes, women’s teas, and ritual baths designed to *steady*, not override, the body.
-
----
-
-### 3. Nervous Endurance, Not Sedation
-Women in their 30s were expected to remain alert, not tranquilized.
-
-Across regions, herbs supported **resilience under strain**:
-- **Oat straw (*Avena sativa*)** — Europe  
-- **Tulsi (*Ocimum tenuiflorum*)** — India  
-- **Rhodiola (various species)** — Central Asia, Himalayas  
-
-These plants were used to prevent collapse, not induce rest.
 
 ---
 
