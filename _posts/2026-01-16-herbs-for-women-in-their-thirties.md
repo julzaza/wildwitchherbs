@@ -181,8 +181,7 @@ Adaptogen supporting endurance and reproductive vitality in harsh climates. Wome
 
 ---
 
-
-## Optional Table: Plant → Region → Traditional Role
+## Herbs by Regions
 
 | Plant                 | Region / Culture             | Traditional Role / Folklore                          |
 |-----------------------|-----------------------------|----------------------------------------------------|
@@ -197,6 +196,15 @@ Adaptogen supporting endurance and reproductive vitality in harsh climates. Wome
 
 ---
 
+## Practical Usage Notes
+
+- **Teas & Infusions:** Red Raspberry Leaf, Red Clover, Nigella, Rhodiola  
+- **Tinctures & Capsules:** Vitex, Maca, Ashwagandha, Turmeric  
+- **Culinary Use:** Turmeric, Nigella Seeds  
+- **Ritual / Folklore:** Carrying leaves, burning incense, bathing with herbs to invoke ancestral protection  
+
+---
+
 ## Balkan & Eastern European Approach: Practical, Unsentimental Herbalism
 
 In Balkan folk culture, women’s herbal care was blunt and practical:
@@ -205,15 +213,6 @@ In Balkan folk culture, women’s herbal care was blunt and practical:
 - yarrow or lady’s mantle after childbirth  
 
 These were not symbolic “feminine” remedies. They were **functional plants for functional bodies**.
-
----
-
-## Practical Usage Notes
-
-- **Teas & Infusions:** Red Raspberry Leaf, Red Clover, Nigella, Rhodiola  
-- **Tinctures & Capsules:** Vitex, Maca, Ashwagandha, Turmeric  
-- **Culinary Use:** Turmeric, Nigella Seeds  
-- **Ritual / Folklore:** Carrying leaves, burning incense, bathing with herbs to invoke ancestral protection  
 
 ---
 
