@@ -22,7 +22,6 @@ faq_schema: |
     - question: "Is this anti-science?"
       answer: "No. It is a historical and cultural analysis."
 ---
-
 ## Modern Hormone Advice Has One Goal: Control
 
 Flatten symptoms.  
@@ -72,7 +71,9 @@ Folk systems prioritized **right action at the right time**.
 A herb used too early was poison.  
 A herb used too late was useless.
 
-This logic appears clearly in classical Chinese medicine, where menstrual irregularity was not treated as a condition to be stabilized, but as a phase requiring different interventions depending on *season, age, and life context*. Treatment shifted across time rather than enforcing consistency.
+This logic appears clearly in classical Chinese medicine, where menstrual irregularity was not treated as a condition to be stabilized, but as a phase requiring different interventions depending on *season, age, and life context*. 
+
+Treatment shifted across time rather than enforcing consistency.
 
 ---
 
@@ -88,6 +89,36 @@ Folk medicine restricted bitters:
 Timing mattered more than dosage.
 
 ---
+
+## Folklore in Action: Stories from Across Cultures
+
+To understand how folk medicine perceived female change, we can draw on documented traditions and narratives:
+
+- **European Witch Lore (Hutton, *The Witch*)**  
+  In 16th–17th century Europe, women who had unusual bleeding patterns or hormonal changes were sometimes **feared for their liminal power**. Hutton records accounts from Germany and Scotland where midwives and herbalists were sought not to “normalize” cycles but to **guide women through dangerous thresholds**, using herbs and ritual protection. One Scottish midwife was reputed to keep a small cache of rue and yarrow not to adjust fertility, but to **ward off malevolent spirits that might disrupt the household** during a woman’s menstruation or perimenopause.
+
+- **Balkan Fairies and Threshold Women (Pócs, *Fairies and Witches at the Boundary of South-Eastern Europe*)**  
+  Pócs documents stories of Balkan women who carried **small pouches of mugwort or juniper** to protect against intrusive fairies during periods of hormonal change. These spirits were believed to drain strength or fertility. The protective practice was **not superstition**, but a carefully coded system of spiritual and physiological safeguarding, integrated into daily life.
+
+- **Chinese Medicine (Unschuld, *Medicine in China*)**  
+  In classical Chinese medicine, menstrual irregularity was **never treated as a pathology**. Instead, Unschuld notes that physicians categorized women’s cycles according to seasonal qi and personal constitution. A woman’s unusual heat, restlessness, or fluid imbalance was interpreted as **an opportunity to realign internal rhythms**, not to flatten them artificially. Herbs were prescribed contextually, respecting natural fluctuations over time.
+
+- **Japanese Menopause Myths (Lock, *Encounters with Aging*)**  
+  Lock describes how in Edo-period Japan, older women entering menopause were sometimes **feared for their disruptive spiritual energy**. Certain shrines had rituals to “contain” their influence, while other households welcomed them as **keepers of ancestral wisdom**, recognizing that their physiological transitions also coincided with a socially valuable liminal status.
+
+- **American Midwifery (Davis-Floyd, *Birth as an American Rite of Passage*)**  
+  Among some Indigenous North American communities, perimenstrual and perimenopausal women were entrusted with ceremonial roles — **dreaming, divining, and teaching young women**, while simultaneously being given access to herbal tonics tailored for endurance, blood nourishment, and nervous strength. These practices highlight that **transition phases were socially functional, not clinical failures**.
+
+- **Ayurveda (Wujastyk, *The Roots of Ayurveda*)**  
+  Ayurvedic texts describe women’s life stages (*Ashraya*), where herbs and diet were **aligned with reproductive cycles and hormonal shifts**. Wujastyk notes the use of Shatavari (Asparagus racemosus) and other uterine tonics during perimenopause, **not to suppress symptoms**, but to sustain vitality and spiritual readiness.
+
+- **Midwives and Nurses in Early Modern Europe (Ehrenreich & English, *Witches, Midwives, and Nurses*)**  
+  These authors document that women’s work in birth and household care often relied on **herbal skill over hormonal manipulation**. Midwives understood that fatigue, hot flashes, or irregular cycles were **natural signals**, and their interventions emphasized **prevention, support, and ritual protection** rather than normalization.
+
+---
+
+These examples illustrate a **central principle** across continents and eras: traditional medicine treated women as **processes unfolding over time**, not systems to be artificially stabilized. Hot flashes, irregular bleeding, and mood changes were **messages**, not failures — and the treatments reflected this nuanced understanding.
+
 
 ## Why Women Feel Worse Now
 
