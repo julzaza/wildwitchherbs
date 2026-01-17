@@ -163,6 +163,18 @@ This protective layer complemented blood nourishment, cycle integrity, nervous e
 
 ---
 
+### Protection Does Not Replace Nourishment
+
+In traditional systems, protective work was never considered an alternative to physical strengthening — it was a **precondition for it**.
+
+Folk logic was clear and consistent: herbs that rebuild blood, steady cycles, and restore nerves only work when the woman is not constantly drained by stress, conflict, illness, or misfortune. Protective plants were therefore used to **remove interference**, not to alter the body itself.
+
+Once boundaries were reinforced — socially, spiritually, and physically — nourishment could take hold.
+
+This is why protective practices appear immediately before strengthening tonics in many traditions: first, keep the vessel intact; then, refill it. 
+
+---
+
 ## Strengthening the Body & Hormones: Traditional & Modern Allies
 
 ### **Vitex / Chasteberry (Vitex agnus-castus)**
