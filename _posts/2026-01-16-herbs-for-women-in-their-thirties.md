@@ -58,7 +58,7 @@ As a result, herbal strategies focused on:
 - **ancestral blessing:** herbs often carried, worn, or burned in ritual  
 - **spiritual protection:** linking fertility and health with unseen forces 
 
-This pattern appears repeatedly in European midwifery notes, Balkan household remedies, African women’s tonics, and Indigenous food-medicine traditions. All **viewed plants as life allies**, not just medicine.
+This pattern appears repeatedly in European midwifery notes, Balkan household remedies, African women’s tonics, and Indigenous food-medicine traditions. They **viewed plants as life allies**, not just medicine.
 
 Not stimulation. Not suppression. **Preservation.** 
 
