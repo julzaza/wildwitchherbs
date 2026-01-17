@@ -91,7 +91,7 @@ Henbane was feared, not casually avoided.
 
 - Linked to delirium and madness  
 - Used in spirit rites and poison lore  
-- Associated with infant death in folk belief  
+- Associated with dangerous outcomes surrounding childbirth.
 
 **Why restricted:**  
 Henbane was believed to rupture the boundary between womb and soul, leaving women vulnerable to possession, miscarriage, or permanent mental disturbance.  
@@ -156,8 +156,8 @@ Overuse was believed to cause barrenness or uterine pain. Folk logic treated rue
 Mandrake occupies a unique place in folklore.
 
 - Used in fertility and protection magic  
-- Women forbidden to harvest it alone  
-- Required ritual intermediaries  
+- Harvesting was ritualized and often restricted to specialists
+- Folklore frequently warned against unprotected or solitary handling
 
 **Why restricted:**  
 The root’s scream myth encoded fear of death, madness, or stillbirth. Handling mandrake was believed to bind fertility dangerously if done incorrectly.
@@ -191,33 +191,59 @@ Women were considered especially vulnerable to its lethality, both physical and 
 
 ---
 
-## Folklore Stories & Global Insights
+## Herbs Historically Restricted for Women Across Cultures
 
-### Europe & Balkan Traditions
-- In Bukovina, **women carried belladonna roots** during menstruation for spiritual protection. This was not a “ban,” but a way to avoid harm from malevolent spirits while navigating liminal power stages.  
-- Pócs records **juniper and mugwort pouches** worn to prevent fairies from draining strength during hormonal transitions.
+Restrictions on women’s herbal use were not unique to Europe.  
+Across cultures, plants affecting fertility, blood flow, or consciousness were often **limited to trained practitioners** and explicitly **discouraged for unsupervised female use**.
 
-### Indigenous North America
-- **Blue cohosh** was carefully administered by midwives to induce labor, emphasizing **timing and dosage**, illustrating that “forbidden” plants were often **tools of skilled practice** rather than blanket prohibitions.  
-
-### East Asia
-- In classical Chinese medicine (Unschuld), herbs stimulating blood or fertility were **context-dependent**. Women approaching menopause were given bitters like **Angelica sinensis** only when aligned with personal constitution, reflecting nuanced caution.
-
-### South Asia
-- Ayurveda (Wujastyk) treats herbs like **Shatavari (Asparagus racemosus)** as nourishing uterine tonics. Timing and reproductive stage dictated whether use was restorative or contraindicated.
-
-### Africa
-- Postpartum women often bathed with **protective herbs** such as mugwort-like species or bitter tonics. Elder women monitored **dosage and exposure**, linking herbal safety with spiritual vigilance. 
+These were not moral bans — they were survival protocols.
 
 ---
 
-## Final Note: Literacy, Not Limitation
+## Global Examples of Herbs Women Were Forbidden or Warned Against
 
-If an herb was forbidden, it was not weak.  
-It was **too strong for casual hands**.
+### Indigenous North America: Birth Herbs Not for Casual Use
 
-In folk systems, *forbidden* did not mean evil.  
-It meant **contextually dangerous**.
+**Blue Cohosh (*Caulophyllum thalictroides*)**  
+Used by Indigenous midwives to induce or assist labor. Ethnobotanical records emphasize that the plant was **not to be taken freely by women**, but administered by experienced practitioners due to its strong physiological effects.
+
+---
+
+### East Asia: Blood-Moving Herbs Restricted by Life Stage
+
+**Dong Quai (*Angelica sinensis*)**  
+Classical Chinese medical texts describe Angelica as inappropriate during early pregnancy or heavy bleeding. Women were advised to avoid unsupervised use when blood loss or miscarriage risk was present.
+
+Restrictions were based on constitution, cycle phase, and age — not universal permission.
+
+---
+
+### South Asia: Abortifacient Plants and Reproductive Caution
+
+**Asafoetida (*Ferula asafoetida*)**  
+Traditional Ayurvedic texts warn against use during pregnancy due to its strong warming and stimulating effects on the womb.
+
+Certain bitter or heating herbs were reserved for postnatal recovery or menstrual regulation, not pregnancy.
+
+---
+
+### Africa: Controlled Use of Bitter and Purging Plants
+
+Ethnographic studies document the use of **bitter tonics and purgative plants** for reproductive purposes. Women were often instructed not to self-administer these herbs without elder supervision, especially during pregnancy or postpartum recovery.
+
+Restriction here functioned through **social authority**, not written prohibition.
+
+---
+
+### Shared Pattern Across Cultures
+
+Across regions, the same logic appears:
+
+- Herbs affecting the **uterus** were restricted  
+- Herbs influencing **blood flow** required timing  
+- Herbs altering **consciousness** demanded supervision  
+
+“Forbidden” meant **dangerous without knowledge**, not inherently evil or taboo.
 
 Wrong herb.  
 Wrong moment.  
