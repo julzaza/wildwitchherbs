@@ -6,7 +6,7 @@ description: "A global witch’s guide to herbs that should never be burned, inc
 author: wildwitchyherbs
 
 categories:
-  - witchcraft-ritual
+  - witchcraft-rituals
   - herbal-magic
 
 tags:
@@ -124,6 +124,49 @@ Pouring essential oils on charcoal is **not** ancient practice — it’s danger
 
 ---
 
+## Not All Herbs Are Meant for Fire
+
+In traditional cultures, **fire was not neutral**.  
+Smoke carried offerings, prayers, warnings — and sometimes illness or death.
+
+Folk traditions across Europe, Asia, the Americas, and the Middle East recognized three reasons an herb should **never** be burned:
+
+1. **Physical danger** — toxic or neuroactive smoke  
+2. **Cultural restriction** — plants reserved for specific peoples or rites  
+3. **Ritual volatility** — herbs believed to open boundaries uncontrollably  
+
+Burning the wrong plant was not “edgy magic.”  
+It was ignorance.
+
+---
+
+## A Note on “Forbidden”
+
+In folk systems, *forbidden* rarely meant moral prohibition.  
+It meant **situationally restricted**:
+
+- wrong life stage  
+- wrong ritual  
+- wrong handler  
+- wrong method (fire vs water vs burial)
+
+Burning was often the **most dangerous method**.
+
+---
+
+## At-a-Glance: Why These Herbs Were Never Burned
+
+| Herb | Reason | Type of Restriction |
+|----|----|----|
+| Henbane | Neurotoxic smoke | Physical |
+| Belladonna | Lethal alkaloids | Physical + Ritual |
+| White Sage | Cultural boundary | Cultural |
+| Rue | Lung irritation, reproductive caution | Physical |
+| Oleander | Fatal smoke | Absolute |
+| Essential oils | Combustion toxins | Modern hazard |
+
+---
+
 ### Sacred Doesn’t Mean Safe
 
 Many witches assume that if a plant is “used in magic,” it’s safe to burn. But in truth, many traditional herbs were:
@@ -175,3 +218,5 @@ Before choosing plants to burn, you may want to read **[Smoke Cleansing vs. Smud
 - [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
 - [How to Make Moon Water and Use It in Magic](/moon-water-magic)
 - [How To Start Your Own Witchy Garden](/witch-garden/)
+
+---
