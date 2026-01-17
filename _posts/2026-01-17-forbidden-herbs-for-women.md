@@ -61,9 +61,28 @@ Across documented folk systems, herbs were restricted when they were believed to
 - Induce miscarriage or uncontrolled menstruation  
 - Damage fertility or the womb  
 - Open visions or spirit contact too violently  
-- Interfere with pregnancy, mourning, or initiation rites  
+- Interfere with pregnancy, mourning, or initiation rites
+
+Caution was **life-stage specific**: menstruation, fertility years, postpartum, perimenopause.  
+
+Restrictions were **practical, spiritual, and symbolic**, transmitted orally or through apprenticeships, often reinforced with ritual.
 
 These rules appear in **European midwifery manuals (16th–18th c.)**, Balkan and Mediterranean folklore, and parallel systems in Asia.
+
+---
+
+## Historical Context: Why Some Herbs Were Approached with Caution by Women
+
+Globally, **women’s herbal caution combined practical, spiritual, and symbolic concerns**. Herbs affecting menstruation, fertility, or spiritual thresholds were never simply “banned” — they were **respected, monitored, and ritualized**.  
+
+The underlying principles included:
+
+- **Reproductive caution:** Plants that could stimulate menstruation, affect conception, or act as abortifacients.  
+- **Spiritual protection:** Herbs used in liminal rituals, dreams, or vision work required care to avoid spiritual harm.  
+- **Symbolic gender associations:** Certain seeds, roots, or flowers were connected with fertility, life, or liminality, shaping culturally prescribed use.  
+
+Across continents, **oral traditions, midwifery manuals, and herbal texts** reinforced these guidelines.
+
 
 ---
 
@@ -186,10 +205,7 @@ The pattern is consistent:
 
 ---
 
-## Patterns Across Cultures
-
-- Herbs affecting reproduction were **powerful, respected, and socially regulated**.  
-- Caution was **life-stage specific**: menstruation, fertility years, postpartum, perimenopause.  
+Caution was **life-stage specific**: menstruation, fertility years, postpartum, perimenopause.  
 - Restrictions were **practical, spiritual, and symbolic**, transmitted orally or through apprenticeships, often reinforced with ritual.
 
 ## Folklore Stories
@@ -199,20 +215,6 @@ The pattern is consistent:
 - **Pennyroyal & Tansy:** Midwives used precise doses for fertility control or menstruation regulation, but unsupervised female use was explicitly forbidden in multiple European texts.  
 
 ---
-
-## Historical Context: Why Some Herbs Were Approached with Caution by Women
-
-Globally, **women’s herbal caution combined practical, spiritual, and symbolic concerns**. Herbs affecting menstruation, fertility, or spiritual thresholds were never simply “banned” — they were **respected, monitored, and ritualized**.  
-
-The underlying principles included:
-
-- **Reproductive caution:** Plants that could stimulate menstruation, affect conception, or act as abortifacients.  
-- **Spiritual protection:** Herbs used in liminal rituals, dreams, or vision work required care to avoid spiritual harm.  
-- **Symbolic gender associations:** Certain seeds, roots, or flowers were connected with fertility, life, or liminality, shaping culturally prescribed use.  
-
-Across continents, **oral traditions, midwifery manuals, and herbal texts** reinforced these guidelines.
-
-
 
 ## Folklore Stories & Global Insights
 
@@ -234,7 +236,10 @@ Across continents, **oral traditions, midwifery manuals, and herbal texts** rein
 
 ---
 
-## What “Forbidden” Really Meant
+## Final Note: Literacy, Not Limitation
+
+If an herb was forbidden, it was not weak.  
+It was **too strong for casual hands**.
 
 In folk systems, *forbidden* did not mean evil.  
 It meant **contextually dangerous**.
@@ -245,6 +250,14 @@ Wrong body state.
 
 Women were restricted not because they were lesser —  
 but because **they carried continuity**.
+
+Folklore codified these rules, transmitted orally or via midwifery manuals.
+
+- Respect traditional knowledge: some herbs have **dual roles** — reproductive modulation and spiritual protection.  
+- Modern herbalists should note **toxicity, dosage, life stage, and ritual context** when considering historical usage.  
+
+Understanding these rules does not limit magic —  
+it restores **ancestral literacy**.
 
 ---
 
@@ -267,26 +280,6 @@ Some remain toxic. Modern herbal practice preserves knowledge but advises **prof
 
 **Why did folklore mix spiritual and practical caution?**  
 Because life, reproduction, and liminal states were intertwined. Herbs served **physical, spiritual, and social purposes**, making respect and ritual a form of safety.  
-
----
-
-## Final Note: Literacy, Not Limitation
-
-If an herb was forbidden, it was not weak.  
-It was **too strong for casual hands**.
-
-Understanding these rules does not limit magic —  
-it restores **ancestral literacy**.
-
----
-
-## Practical Takeaways
-
-- “Forbidden” often meant **handled with care**, not absolute avoidance.  
-- Respect traditional knowledge: some herbs have **dual roles** — reproductive modulation and spiritual protection.  
-- Modern herbalists should note **toxicity, dosage, life stage, and ritual context** when considering historical usage.  
-
-Folklore codified these rules, transmitted orally or via midwifery manuals.
 
 ---
 
