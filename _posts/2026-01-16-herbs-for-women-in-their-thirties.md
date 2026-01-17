@@ -54,23 +54,13 @@ As a result, herbal strategies focused on:
 - **blood nourishment**, not blood forcing  
 - **cycle integrity**, not cycle control  
 - **nervous endurance**, not sedation  
-- **digestive strength**, not suppression  
+- **digestive strength**, not suppression
+- **ancestral blessing:** herbs often carried, worn, or burned in ritual  
+- **spiritual protection:** linking fertility and health with unseen forces 
 
-This pattern appears repeatedly in European midwifery notes, Balkan household remedies, African women’s tonics, and Indigenous food-medicine traditions.
+This pattern appears repeatedly in European midwifery notes, Balkan household remedies, African women’s tonics, and Indigenous food-medicine traditions. All **viewed plants as life allies**, not just medicine.
 
-Not stimulation. Not suppression. **Preservation.**
-
-## Folklore Patterns Across Cultures
-
-Across continents, herbs for women in their 30s share **common themes**:
-
-- **Cycle support:** Aligning moon, body, and fertility  
-- **Endurance & strength:** Especially in demanding environments  
-- **Ancestral blessing:** Herbs often carried, worn, or burned in ritual  
-- **Spiritual protection:** Linking fertility and health with unseen forces  
-
-Balkan midwives, Peruvian shamans, and Indian ayurvedic healers all **viewed plants as life allies**, not just medicine.
-
+Not stimulation. Not suppression. **Preservation.** 
 
 ---
 
