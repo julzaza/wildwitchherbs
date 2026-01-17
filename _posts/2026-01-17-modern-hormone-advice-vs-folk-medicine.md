@@ -88,6 +88,7 @@ Folk medicine restricted bitters:
 To understand how folk medicine perceived female change, we can look at **documented, cross-cultural examples**:
 
 - **European Witch Lore (Hutton, *The Witch*)**  
+
   Women with unusual bleeding patterns were sometimes **feared for their liminal power**.
 
   Midwives were consulted not to normalize cycles but to **guide women through dangerous thresholds**.
@@ -95,31 +96,37 @@ To understand how folk medicine perceived female change, we can look at **docume
   Scottish midwives kept **rue and yarrow** to ward off spirits that might drain strength during menstruation or perimenopause.
 
 - **Balkan Fairies and Threshold Women (Pócs, *Fairies and Witches at the Boundary of South-Eastern Europe*)**  
+
   Women carried **mugwort or juniper pouches** to protect against intrusive fairies that could disrupt fertility or vitality.
 
   These practices were functional, encoded into daily life, and **intertwined herbal care with spiritual vigilance**.
 
-- **Chinese Medicine (Unschuld, *Medicine in China*)**  
+- **Chinese Medicine (Unschuld, *Medicine in China*)**
+  
   Irregular cycles were **read as messages**, not disorders.
 
   Herbs were prescribed contextually, respecting natural fluctuations, and interventions shifted across seasons, life stages, and personal constitution.
 
 - **Japanese Menopause Myths (Lock, *Encounters with Aging*)**  
+
   Edo-period women entering menopause were sometimes **feared for disruptive spiritual energy**, while others were welcomed as **keepers of ancestral wisdom**.
 
   Physiological changes coincided with socially valuable liminal roles.
 
 - **American Midwifery (Davis-Floyd, *Birth as an American Rite of Passage*)**  
+
   Perimenstrual and perimenopausal women were given ceremonial roles — **dreaming, divining, teaching young women** — and access to tonics for **endurance, blood, and nervous strength**.
 
   Transition phases were **socially functional, not clinical failures**.
 
 - **Ayurveda (Wujastyk, *The Roots of Ayurveda*)**  
+
   Herbs and diet were aligned with reproductive cycles and hormonal shifts.
 
   Shatavari (*Asparagus racemosus*) supported vitality and spiritual readiness during perimenopause, **without suppressing natural changes**.
 
 - **Midwives and Nurses in Early Modern Europe (Ehrenreich & English, *Witches, Midwives, and Nurses*)**  
+
   Herbal skill often surpassed hormonal management.
 
   Midwives recognized that fatigue, hot flashes, or irregular cycles were **natural signals**, and their interventions emphasized **prevention, support, and ritual protection**, not artificial normalization.
