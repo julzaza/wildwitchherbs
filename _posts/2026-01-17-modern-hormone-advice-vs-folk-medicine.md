@@ -126,7 +126,9 @@ To understand how folk medicine perceived female change, we can look at **docume
 
 ---
 
-These examples reveal a **central principle** across continents and eras: traditional medicine treated women as **processes unfolding over time**, not systems to be artificially stabilized. Hot flashes, irregular bleeding, and mood changes were **messages to navigate**, not failures to correct.
+These examples reveal a **central principle** across continents and eras: traditional medicine treated women as **processes unfolding over time**, not systems to be artificially stabilized. 
+
+Hot flashes, irregular bleeding, and mood changes were **messages to navigate**, not failures to correct.
 
 ---
 
