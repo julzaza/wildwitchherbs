@@ -58,6 +58,8 @@ As a result, herbal strategies focused on:
 
 This pattern appears repeatedly in European midwifery notes, Balkan household remedies, African women’s tonics, and Indigenous food-medicine traditions.
 
+Not stimulation. Not suppression. **Preservation.**
+
 ---
 
 ## Core Herbal Themes of the Strong-Blooded Years
@@ -169,7 +171,7 @@ Adaptogen supporting endurance and reproductive vitality in harsh climates. Wome
 
 ---
 
-## Balkan Context: Practical, Unsentimental Herbalism
+## Balkan & Eastern European Approach: Practical, Unsentimental Herbalism
 
 In Balkan folk culture, women’s herbal care was blunt and practical:
 - nettle, sorrel, and bitter greens in spring  
@@ -284,58 +286,3 @@ Balkan midwives, Peruvian shamans, and Indian ayurvedic healers all **viewed pla
 ---
 
 
----
-
-## How Folk Traditions Understood the 30s
-
-Across cultures, women in their 30s were expected to:
-- carry physical and emotional labor
-- maintain regular bleeding
-- recover quickly from birth or illness
-- sustain others without collapsing themselves
-
-Herbs used in this phase focused on:
-- **blood nourishment**
-- **cycle stability**
-- **digestive strength**
-- **nervous endurance**
-
-Not stimulation. Not suppression. **Preservation.**
-
-
-
----
-
-## Balkan & Eastern European Notes
-
-In Balkan folk practice, women in their 30s often consumed:
-- nettle soups in spring
-- yarrow or lady’s mantle teas after childbirth
-- garlic, onions, and bitter greens for digestive fire
-
-These were not labeled “women’s herbs.” They were **life herbs** — necessary for survival.
-
----
-
-## What Was Avoided in This Stage
-
-Historically, women in their 30s were advised to limit:
-- strong emmenagogues unless illness required them
-- harsh purgatives
-- excessive bitter tonics used for older age
-
-The logic was simple: **don’t burn what still needs to last decades.**
-
----
-
-## Why This Life Stage Is Missing Online
-
-Modern wellness collapses women into:
-- fertility anxiety (20s–30s)
-- menopause fear (40s+)
-
-Traditional cultures did neither.
-
-They respected the **middle years** as the backbone of society.
-
----
