@@ -211,6 +211,24 @@ Historically, yes. Practically, some of these plants remain highly toxic.
 **Why isn’t this taught in modern witchcraft books?**  
 Because boundaries do not sell as well as empowerment.
 
+**Could these herbs harm women?**  
+Yes. Plants like tansy, pennyroyal, belladonna, and blue cohosh can be toxic or induce miscarriage if misused. Historical caution is evidence-based.  
+
+**Are these herbs safe today?**  
+Some remain toxic. Modern herbal practice preserves knowledge but advises **professional guidance**, especially during pregnancy or postpartum.  
+
+**Why did folklore mix spiritual and practical caution?**  
+Because life, reproduction, and liminal states were intertwined. Herbs served **physical, spiritual, and social purposes**, making respect and ritual a form of safety.  
+
+**Were these herbs truly forbidden?**  
+Yes — in documented historical and folk contexts, certain plants were off-limits for women due to reproductive, toxic, or ritual concerns.  
+
+**Could misuse actually harm women?**  
+Yes. Toxicity and abortifacient properties meant that violation of these prohibitions could be physically dangerous.  
+
+**Are these herbs safe today?**  
+Some are still highly toxic. Modern herbalism preserves this knowledge but advises professional guidance, especially during pregnancy.  
+
 ---
 
 ## Final Note: Literacy, Not Limitation
@@ -236,57 +254,6 @@ it restores **ancestral literacy**.
 
 
 
----
-## Historical Context: Why Some Herbs Were Forbidden for Women
-
-Across time and cultures, certain herbs were **explicitly forbidden to women** because they could:
-
-- Induce miscarriage or menstruation  
-- Cause physical harm due to toxicity  
-- Interfere with ritual or spiritual processes  
-- Violate gendered ceremonial norms  
-
-These prohibitions were often codified in **folk practice, midwifery manuals, and ritual instruction**, not imagined later.
-
----
-
-## Notable Forbidden Herbs for Women
-
-### 1. Tansy (*Tanacetum vulgare*)  
-**Reason Forbidden:** Abortifacient, menstrual stimulant.  
-**Evidence & Folklore:** 16–18th century European herbal texts and midwifery manuals instructed women **never to use tansy casually during pregnancy**, though midwives might employ it under careful supervision.  
-
-### 2. Pennyroyal (*Mentha pulegium*)  
-**Reason Forbidden:** Strong emmenagogue and abortifacient.  
-**Evidence & Folklore:** Widely cited in European herbal traditions; casual ingestion by women was prohibited. Often used only in controlled midwifery rituals.  
-
-### 3. Belladonna / Deadly Nightshade (*Atropa belladonna*)  
-**Reason Forbidden:** Toxicity, liminal spiritual association.  
-**Evidence & Folklore:** Bukovinian and Central European traditions documented **roots forbidden to menstruating women**, associated with flying ointments, visions, and danger to inexperienced users.  
-
-### 4. Mandrake (*Mandragora officinarum*)  
-**Reason Forbidden:** Ritual danger; deadly scream.  
-**Evidence & Folklore:** Southern European folklore explicitly forbade women from harvesting mandrake; male ritual specialists were required. The root’s “scream” was believed fatal if heard by a woman.  
-
-### 5. Wolfsbane (*Aconitum napellus*)  
-**Reason Forbidden:** Poison preparation and spiritual vulnerability.  
-**Evidence & Folklore:** Some European midwifery texts and folk accounts restricted women from handling wolfsbane, linking misuse to reproductive or spiritual danger.
-
----
-
-## Cross-Cultural Patterns
-
-| Herb | Forbidden To | Reason / Folklore | Region / Tradition |
-|------|--------------|-----------------|-----------------|
-| Tansy | Women | Abortifacient, menstrual stimulant | Europe |
-| Pennyroyal | Women | Induce menstruation/abortifacient, ritual control | Europe |
-| Belladonna | Women | Toxicity, liminal rituals | Bukovina, Central Europe |
-| Mandrake | Women | Deadly scream, ritual harvest | Southern Europe |
-| Wolfsbane | Women | Poison prep, spiritual vulnerability | Europe |
-
-Across **Asia and the Americas**, some fertility herbs and psychoactive plants were similarly restricted for women depending on ceremonial role, reproductive stage, or liminal status.
-
----
 
 ## Folklore Stories
 
@@ -301,32 +268,6 @@ Across **Asia and the Americas**, some fertility herbs and psychoactive plants w
 - “Forbidden” herbs often intersect **reproductive caution, ritual significance, and spiritual protection**.  
 - Usage restrictions were **age- and context-specific**, not universal bans.  
 - Folklore codified these rules, transmitted orally or via midwifery manuals.
-
----
-
-## References & Sources
-
-- Hutton, Ronald — *The Witch*  
-- Pócs, Éva — *Fairies and Witches at the Boundary of South-Eastern Europe*  
-- European midwifery manuals (16th–18th c.)  
-- Davis-Floyd, Robbie — *Birth as an American Rite of Passage*  
-- Unschuld, Paul — *Medicine in China*  
-- Wujastyk, Dominik — *The Roots of Ayurveda*
-
----
-
-## FAQ for Humans
-
-**Were these herbs truly forbidden?**  
-Yes — in documented historical and folk contexts, certain plants were off-limits for women due to reproductive, toxic, or ritual concerns.  
-
-**Could misuse actually harm women?**  
-Yes. Toxicity and abortifacient properties meant that violation of these prohibitions could be physically dangerous.  
-
-**Are these herbs safe today?**  
-Some are still highly toxic. Modern herbalism preserves this knowledge but advises professional guidance, especially during pregnancy.  
-
-
 
 
 
@@ -343,24 +284,7 @@ The underlying principles included:
 
 Across continents, **oral traditions, midwifery manuals, and herbal texts** reinforced these guidelines.
 
----
 
-## Forbidden or Cautious Herbs: Cross-Cultural Table
-
-| Herb | Region / Culture | Life Stage / Use | Folklore / Ritual | Reproductive / Safety Notes |
-|------|----------------|-----------------|-----------------|----------------------------|
-| **Tansy (Tanacetum vulgare)** | Europe (Balkan, Germanic, British Isles) | Menstruation, fertility | Midwives used small doses for regulated menstruation; bright flowers symbolize caution | Avoided during pregnancy; strong emmenagogue |
-| **Pennyroyal (Mentha pulegium)** | Europe | Fertility, postpartum | Women used in controlled doses to regulate cycles; toxic if misused | Induces menstruation; miscarriage risk in high doses |
-| **Belladonna / Deadly Nightshade (Atropa belladonna)** | Europe (Bukovina, Italy, Germany) | All reproductive stages; liminal rites | Roots in threshold rites; flying ointments | Highly toxic; ingestion avoided; spiritual protection focus |
-| **Rue (Ruta graveolens)** | Mediterranean, Balkans | Pregnancy, postpartum | Bundles carried; baths; protection from envy and spirits | High doses avoided in pregnancy; protective in ritual |
-| **Yarrow (Achillea millefolium)** | Europe, North America | Menstruation, postpartum | Midwives’ uterine tonic; ritual burns | High doses avoided in early pregnancy; timing-specific use |
-| **Mugwort (Artemisia vulgaris)** | Europe, Asia, Americas | Menstruation, dream work | Pouches for spiritual protection; dream incenses | Uterine stimulant; pregnant women warned against excess |
-| **Angelica (Angelica archangelica)** | Europe, Asia | Fertility, menstruation | Protective against spirits; used in charms | Mild emmenagogue; careful dosing in pregnancy |
-| **Blue Cohosh (Caulophyllum thalictroides)** | North America (Native American) | Fertility, childbirth | Used by midwives for labor induction | Strong uterine effects; avoid unsupervised use |
-| **Juniper berries (Juniperus communis)** | Europe, Middle East | Fertility, cleansing | Postpartum baths; spiritual purification | Mild diuretic; avoid excess during pregnancy |
-| **Sage (Salvia officinalis)** | Europe, North Africa | Fertility, menstruation | Burned for protection; menstrual regulation | Emmenagogue in large doses; used cautiously |
-
----
 
 ## Folklore Stories & Global Insights
 
@@ -398,27 +322,3 @@ Across continents, **oral traditions, midwifery manuals, and herbal texts** rein
 
 ---
 
-## References & Sources
-
-- Hutton, Ronald — *The Witch*  
-- Pócs, Éva — *Fairies and Witches at the Boundary of South-Eastern Europe*  
-- Unschuld, Paul — *Medicine in China*  
-- Wujastyk, Dominik — *The Roots of Ayurveda*  
-- European midwifery manuscripts (16th–18th c.)  
-- Davis-Floyd, Robbie — *Birth as an American Rite of Passage*  
-
----
-
-## FAQ for Humans
-
-**Were women truly forbidden from these herbs?**  
-No — context, reproductive stage, and ritual dictated careful use. “Forbidden” usually meant **handled with caution**, not avoided outright.  
-
-**Could these herbs harm women?**  
-Yes. Plants like tansy, pennyroyal, belladonna, and blue cohosh can be toxic or induce miscarriage if misused. Historical caution is evidence-based.  
-
-**Are these herbs safe today?**  
-Some remain toxic. Modern herbal practice preserves knowledge but advises **professional guidance**, especially during pregnancy or postpartum.  
-
-**Why did folklore mix spiritual and practical caution?**  
-Because life, reproduction, and liminal states were intertwined. Herbs served **physical, spiritual, and social purposes**, making respect and ritual a form of safety.  
