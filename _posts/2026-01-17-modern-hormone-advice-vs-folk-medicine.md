@@ -157,6 +157,7 @@ Modern advice is powerful — but often blind to rhythm.
 - Not romanticization.  
 
 It’s remembering that **numbers are not the body — time is**.  
+
 Herbs, rituals, and social structures were designed to **support transitions, not flatten them**.
 
 ---
