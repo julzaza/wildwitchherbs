@@ -115,8 +115,6 @@ These plants appear in traditions where women carried heavy workloads, emotional
 
 ---
 
-## Key Herbs Associated With This Life Stage
-
 ## Strengthening the Body & Hormones: Traditional & Modern Allies
 
 ### **Vitex / Chasteberry (Vitex agnus-castus)**
