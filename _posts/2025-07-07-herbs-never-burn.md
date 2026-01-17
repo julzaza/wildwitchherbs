@@ -2,7 +2,9 @@
 layout: single
 title: "Herbs You Should Never Burn in Ritual (And What to Use Instead)"
 excerpt: "A global guide to herbs you should never burn in ritual — whether toxic, sacred, or spiritually volatile — and powerful alternatives rooted in traditional witchcraft and folklore."
-description: "A global witch’s guide to herbs that should never be burned, including toxic plants, culturally sensitive herbs, and safer traditional alternatives."
+description: "A folklore-based guide to herbs that should never be burned due to toxicity, cultural boundaries, or ritual danger — with safer traditional alternatives."
+meta_description: "Some herbs were never meant for fire. Learn which plants should never be burned in ritual, why they’re dangerous, and what to use instead."
+
 author: wildwitchyherbs
 
 categories:
@@ -16,7 +18,6 @@ tags:
   - herbal magic
   - folklore
 
-meta_description: "Learn which herbs should never be burned due to toxicity, cultural boundaries, or spiritual volatility — and discover traditional alternatives used across global witchcraft."
 keywords:
   - herbs not to burn
   - toxic herbs smoke
@@ -47,7 +48,7 @@ head_scripts:
         }
       }
 
-    faq:
+faq:
   - question: "Why are some herbs dangerous to burn?"
     answer: "Some herbs release toxic alkaloids, neuroactive compounds, or carcinogenic smoke when burned. Others are restricted due to cultural, ceremonial, or spiritual boundaries rather than physical danger."
 
@@ -237,3 +238,21 @@ Before choosing plants to burn, you may want to read **[Smoke Cleansing vs. Smud
 - [How To Start Your Own Witchy Garden](/witch-garden/)
 
 ---
+
+## FAQ — Real Questions Witches Actually Ask
+
+**Can I burn a tiny amount just once?**  
+Sometimes the dose isn’t the danger — the *method* is. Smoke changes plant chemistry. Even small amounts can be harmful.
+
+**What if I’ve already burned one of these herbs?**  
+One accidental burn doesn’t mean spiritual doom. Open windows, ground yourself, and don’t repeat it.
+
+**Are these rules universal?**  
+No. Folk magic is regional, situational, and contextual. What’s forbidden in one tradition may be neutral in another — but ignorance was never respected.
+
+**Why do modern witch books ignore this?**  
+Because danger doesn’t sell as well as aesthetics. Older systems assumed practitioners understood plants deeply — modern publishing assumes they don’t.
+
+**Isn’t fear-based magic limiting?**  
+This isn’t fear. It’s literacy. Fire was treated with respect because people knew it could heal or kill.
+
