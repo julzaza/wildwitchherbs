@@ -81,9 +81,6 @@ The underlying principles included:
 - **Spiritual protection:** Herbs used in liminal rituals, dreams, or vision work required care to avoid spiritual harm.  
 - **Symbolic gender associations:** Certain seeds, roots, or flowers were connected with fertility, life, or liminality, shaping culturally prescribed use.  
 
-Across continents, **oral traditions, midwifery manuals, and herbal texts** reinforced these guidelines.
-
-
 ---
 
 ## Documented Forbidden & Restricted Herbs for Women
@@ -191,28 +188,6 @@ Women were considered especially vulnerable to its lethality, both physical and 
 | Rue | Womb disruption | Conditional |
 | Mandrake | Fertility binding | Ritual |
 | Wolfsbane | Poison, death rites | Absolute |
-
----
-
-## Cross-Cultural Parallels
-
-- **China:** Strong blood-moving herbs were restricted during pregnancy (Unschuld).  
-- **Ayurveda:** Certain plants forbidden during reproductive vulnerability (Wujastyk).  
-- **Indigenous traditions:** Psychoactive or poisonous plants restricted by ceremonial role rather than gender alone.  
-
-The pattern is consistent:  
-**restriction followed reproductive and spiritual risk**, not moral judgment.
-
----
-
-Caution was **life-stage specific**: menstruation, fertility years, postpartum, perimenopause.  
-- Restrictions were **practical, spiritual, and symbolic**, transmitted orally or through apprenticeships, often reinforced with ritual.
-
-## Folklore Stories
-
-- **Mandrake:** In Italy and Spain, folklore warns women that digging mandrake alone could be fatal. Men used dogs to dig and invoke rituals to protect against the scream.  
-- **Belladonna:** In Bukovina, roots were used in threshold rituals to connect with the Otherworld. Women menstruating were forbidden to handle the root due to both toxicity and spiritual danger.  
-- **Pennyroyal & Tansy:** Midwives used precise doses for fertility control or menstruation regulation, but unsupervised female use was explicitly forbidden in multiple European texts.  
 
 ---
 
