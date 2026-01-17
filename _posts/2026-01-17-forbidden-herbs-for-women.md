@@ -186,6 +186,54 @@ The pattern is consistent:
 
 ---
 
+## Patterns Across Cultures
+
+- Herbs affecting reproduction were **powerful, respected, and socially regulated**.  
+- Caution was **life-stage specific**: menstruation, fertility years, postpartum, perimenopause.  
+- Restrictions were **practical, spiritual, and symbolic**, transmitted orally or through apprenticeships, often reinforced with ritual.
+
+## Folklore Stories
+
+- **Mandrake:** In Italy and Spain, folklore warns women that digging mandrake alone could be fatal. Men used dogs to dig and invoke rituals to protect against the scream.  
+- **Belladonna:** In Bukovina, roots were used in threshold rituals to connect with the Otherworld. Women menstruating were forbidden to handle the root due to both toxicity and spiritual danger.  
+- **Pennyroyal & Tansy:** Midwives used precise doses for fertility control or menstruation regulation, but unsupervised female use was explicitly forbidden in multiple European texts.  
+
+---
+
+## Historical Context: Why Some Herbs Were Approached with Caution by Women
+
+Globally, **women’s herbal caution combined practical, spiritual, and symbolic concerns**. Herbs affecting menstruation, fertility, or spiritual thresholds were never simply “banned” — they were **respected, monitored, and ritualized**.  
+
+The underlying principles included:
+
+- **Reproductive caution:** Plants that could stimulate menstruation, affect conception, or act as abortifacients.  
+- **Spiritual protection:** Herbs used in liminal rituals, dreams, or vision work required care to avoid spiritual harm.  
+- **Symbolic gender associations:** Certain seeds, roots, or flowers were connected with fertility, life, or liminality, shaping culturally prescribed use.  
+
+Across continents, **oral traditions, midwifery manuals, and herbal texts** reinforced these guidelines.
+
+
+
+## Folklore Stories & Global Insights
+
+### Europe & Balkan Traditions
+- In Bukovina, **women carried belladonna roots** during menstruation for spiritual protection. This was not a “ban,” but a way to avoid harm from malevolent spirits while navigating liminal power stages.  
+- Pócs records **juniper and mugwort pouches** worn to prevent fairies from draining strength during hormonal transitions.
+
+### Indigenous North America
+- **Blue cohosh** was carefully administered by midwives to induce labor, emphasizing **timing and dosage**, illustrating that “forbidden” plants were often **tools of skilled practice** rather than blanket prohibitions.  
+
+### East Asia
+- In classical Chinese medicine (Unschuld), herbs stimulating blood or fertility were **context-dependent**. Women approaching menopause were given bitters like **Angelica sinensis** only when aligned with personal constitution, reflecting nuanced caution.
+
+### South Asia
+- Ayurveda (Wujastyk) treats herbs like **Shatavari (Asparagus racemosus)** as nourishing uterine tonics. Timing and reproductive stage dictated whether use was restorative or contraindicated.
+
+### Africa
+- Postpartum women often bathed with **protective herbs** such as mugwort-like species or bitter tonics. Elder women monitored **dosage and exposure**, linking herbal safety with spiritual vigilance. 
+
+---
+
 ## What “Forbidden” Really Meant
 
 In folk systems, *forbidden* did not mean evil.  
@@ -220,15 +268,6 @@ Some remain toxic. Modern herbal practice preserves knowledge but advises **prof
 **Why did folklore mix spiritual and practical caution?**  
 Because life, reproduction, and liminal states were intertwined. Herbs served **physical, spiritual, and social purposes**, making respect and ritual a form of safety.  
 
-**Were these herbs truly forbidden?**  
-Yes — in documented historical and folk contexts, certain plants were off-limits for women due to reproductive, toxic, or ritual concerns.  
-
-**Could misuse actually harm women?**  
-Yes. Toxicity and abortifacient properties meant that violation of these prohibitions could be physically dangerous.  
-
-**Are these herbs safe today?**  
-Some are still highly toxic. Modern herbalism preserves this knowledge but advises professional guidance, especially during pregnancy.  
-
 ---
 
 ## Final Note: Literacy, Not Limitation
@@ -241,25 +280,11 @@ it restores **ancestral literacy**.
 
 ---
 
-## References & Further Reading
+## Practical Takeaways
 
-- Ronald Hutton — *The Witch*  
-- Éva Pócs — *Fairies and Witches at the Boundary of South-Eastern Europe*  
-- European midwifery manuals (16th–18th century)  
-- Paul Unschuld — *Medicine in China*  
-- Dominik Wujastyk — *The Roots of Ayurveda*  
-- Ehrenreich & English — *Witches, Midwives, and Nurses*
-
-
-
-
-
-
-## Folklore Stories
-
-- **Mandrake:** In Italy and Spain, folklore warns women that digging mandrake alone could be fatal. Men used dogs to dig and invoke rituals to protect against the scream.  
-- **Belladonna:** In Bukovina, roots were used in threshold rituals to connect with the Otherworld. Women menstruating were forbidden to handle the root due to both toxicity and spiritual danger.  
-- **Pennyroyal & Tansy:** Midwives used precise doses for fertility control or menstruation regulation, but unsupervised female use was explicitly forbidden in multiple European texts.  
+- “Forbidden” often meant **handled with care**, not absolute avoidance.  
+- Respect traditional knowledge: some herbs have **dual roles** — reproductive modulation and spiritual protection.  
+- Modern herbalists should note **toxicity, dosage, life stage, and ritual context** when considering historical usage.  
 
 ---
 
@@ -269,56 +294,15 @@ it restores **ancestral literacy**.
 - Usage restrictions were **age- and context-specific**, not universal bans.  
 - Folklore codified these rules, transmitted orally or via midwifery manuals.
 
-
-
-
-## Historical Context: Why Some Herbs Were Approached with Caution by Women
-
-Globally, **women’s herbal caution combined practical, spiritual, and symbolic concerns**. Herbs affecting menstruation, fertility, or spiritual thresholds were never simply “banned” — they were **respected, monitored, and ritualized**.  
-
-The underlying principles included:
-
-- **Reproductive caution:** Plants that could stimulate menstruation, affect conception, or act as abortifacients.  
-- **Spiritual protection:** Herbs used in liminal rituals, dreams, or vision work required care to avoid spiritual harm.  
-- **Symbolic gender associations:** Certain seeds, roots, or flowers were connected with fertility, life, or liminality, shaping culturally prescribed use.  
-
-Across continents, **oral traditions, midwifery manuals, and herbal texts** reinforced these guidelines.
-
-
-
-## Folklore Stories & Global Insights
-
-### Europe & Balkan Traditions
-- In Bukovina, **women carried belladonna roots** during menstruation for spiritual protection. This was not a “ban,” but a way to avoid harm from malevolent spirits while navigating liminal power stages.  
-- Pócs records **juniper and mugwort pouches** worn to prevent fairies from draining strength during hormonal transitions.
-
-### Indigenous North America
-- **Blue cohosh** was carefully administered by midwives to induce labor, emphasizing **timing and dosage**, illustrating that “forbidden” plants were often **tools of skilled practice** rather than blanket prohibitions.  
-
-### East Asia
-- In classical Chinese medicine (Unschuld), herbs stimulating blood or fertility were **context-dependent**. Women approaching menopause were given bitters like **Angelica sinensis** only when aligned with personal constitution, reflecting nuanced caution.
-
-### South Asia
-- Ayurveda (Wujastyk) treats herbs like **Shatavari (Asparagus racemosus)** as nourishing uterine tonics. Timing and reproductive stage dictated whether use was restorative or contraindicated.
-
-### Africa
-- Postpartum women often bathed with **protective herbs** such as mugwort-like species or bitter tonics. Elder women monitored **dosage and exposure**, linking herbal safety with spiritual vigilance.
-
 ---
 
-## Patterns Across Cultures
+## References & Further Reading
 
-- Herbs affecting reproduction were **powerful, respected, and socially regulated**.  
-- Caution was **life-stage specific**: menstruation, fertility years, postpartum, perimenopause.  
-- Restrictions were **practical, spiritual, and symbolic**, transmitted orally or through apprenticeships, often reinforced with ritual.  
-
----
-
-## Practical Takeaways
-
-- “Forbidden” often meant **handled with care**, not absolute avoidance.  
-- Respect traditional knowledge: some herbs have **dual roles** — reproductive modulation and spiritual protection.  
-- Modern herbalists should note **toxicity, dosage, life stage, and ritual context** when considering historical usage.  
+- Ronald Hutton — *The Witch*  
+- Éva Pócs — *Fairies and Witches at the Boundary of South-Eastern Europe*  
+- European midwifery manuals (16th–18th century)  
+- Paul Unschuld — *Medicine in China*  
+- Dominik Wujastyk — *The Roots of Ayurveda*  
+- Ehrenreich & English — *Witches, Midwives, and Nurses*
 
 ---
-
