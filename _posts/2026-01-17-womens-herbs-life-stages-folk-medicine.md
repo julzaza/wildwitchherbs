@@ -138,8 +138,6 @@ Protection + nervous system support mattered more than balance.
 
 *Elder women were considered keepers of continuity, not weak or expendable.*
 
-Post-menopause women were no longer considered weak.
-
 They were considered **dangerous if ignored**.
 
 ### Folk Views
