@@ -226,30 +226,6 @@ It was never casual.
 
 And access was never equal.
 
----
-
-## Sources & References
-
-- Ronald Hutton — *The Witch*
-- Éva Pócs — *Fairies and Witches at the Boundary of South-Eastern Europe*
-- Culpeper — *Complete Herbal*
-- Robbie Davis-Floyd — *Birth as an American Rite of Passage*
-- Paul Unschuld — *Medicine in China*
-- Dominik Wujastyk — *The Roots of Ayurveda*
-- Indigenous ethnobotanical field records
-
----
-
-## FAQ — For Humans
-
-**Are these bans universal?**  
-No. They are regional, contextual, and purpose-specific.
-
-**Does this apply today?**  
-Pharmacology still applies. Ritual law varies.
-
-**Why doesn’t modern witchcraft teach this?**  
-Because nuance doesn’t sell.
 
 ---
 
@@ -337,21 +313,6 @@ In various Indigenous North American traditions:
 
 These rules were **enforced by elders**, not optional customs.
 
----
-
-## Patterns Across Cultures
-
-| Herb / Category | Forbidden To | Reason | Region |
-|----------------|-------------|--------|--------|
-| Menstrual herbs | Men | Halt efficacy, spiritual violation | Global |
-| Fertility mandrake | Men | Disrupt conception magic | Southern Europe |
-| Artemisia spp. | Men | Lunar / female cycle sanctity | Europe |
-| Birth medicines | Men | Ritual pollution | Japan |
-| Seed & root medicines | Men | Land fertility | Indigenous Americas |
-
-What repeats is not the plant —  
-but **the rule**:  
-> *Certain powers cannot coexist in the same body or space.*
 
 ---
 
@@ -582,6 +543,9 @@ No. Exceptions existed, but violations often reinforced cautionary tales.
 **Why were herbs gendered in folklore?**  
 Cultural perception of potency, reproductive roles, and social responsibility created symbolic and practical gender associations, not absolute bans.
 
+**Why doesn’t modern witchcraft teach this?**  
+Because nuance doesn’t sell.
+
 ---
 
 ## References
@@ -593,3 +557,13 @@ Cultural perception of potency, reproductive roles, and social responsibility cr
 - Wujastyk, Dominik — *The Roots of Ayurveda*  
 - Ehrenreich & English — *Witches, Midwives, and Nurses*  
 - Davis-Floyd, Robbie — *Birth as an American Rite of Passage*
+
+- ## Sources & References
+
+- Ronald Hutton — *The Witch*
+- Éva Pócs — *Fairies and Witches at the Boundary of South-Eastern Europe*
+- Culpeper — *Complete Herbal*
+- Robbie Davis-Floyd — *Birth as an American Rite of Passage*
+- Paul Unschuld — *Medicine in China*
+- Dominik Wujastyk — *The Roots of Ayurveda*
+- Indigenous ethnobotanical field records
