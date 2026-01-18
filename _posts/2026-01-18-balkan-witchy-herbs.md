@@ -34,7 +34,7 @@ faq_schema:
         "text": "Yes. Many practices are recorded in 18th–20th century ethnographic works by Balkan folklorists and preserved in rural oral traditions."
 ---
 
-## Balkan Witchy Herbs: A Living Folk Tradition
+## Balkan Magic: A Living Folk Tradition
 
 In the Balkans, witchcraft was never a formal system.  
 It had no fixed pantheon, no universal spells, no polished doctrine.
