@@ -54,8 +54,6 @@ Access depended on:
 
 This meant that **men were sometimes restricted — fully or conditionally — from specific plants**, especially those linked to fertility, blood, birth, or land continuity.
 
-Below is a **documented list of herbs** where male restriction appears repeatedly across sources.
-
 ---
 ## Important Clarification
 
@@ -68,23 +66,6 @@ They were restricted because:
 
 This is not ideology.  
 It is **risk management**.
-
----
-
-## When Men Were the Forbidden Ones
-
-Contrary to modern assumptions, **men were often restricted from powerful plants**.
-
-Not because they were seen as impure —  
-but because **male presence altered outcomes**.
-
-In many traditional systems:
-- Men disrupted fertility medicine  
-- Men offended land or plant spirits  
-- Men lacked ritual permission  
-- Men carried incompatible symbolic force  
-
-These were **explicit rules**, not metaphors.
 
 ---
 
@@ -102,6 +83,9 @@ Traditional systems were **precise, not moralistic**.
 That knowledge once prevented harm.
 
 ---
+
+Below is a **documented list of herbs** where male restriction appears repeatedly across sources.
+
 ## A Fact-Based List of Herbs Restricted or Controlled for Men
 
 ### 1. **Pennyroyal (*Mentha pulegium*)**
