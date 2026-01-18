@@ -218,6 +218,6 @@ Balkan folk practitioners used basil, wormwood, nettle, elder, yarrow, hawthorn,
 They existed **alongside Christianity**, blending saint days with older seasonal rites.
 
 ### Did men participate?
-Rarely. Most spring herbal rites were preserved and practiced by women.
+Rarely. Most spring herbal rites were preserved and practiced by women. Learn why here: **[Herbs Restricted For Men](/forbidden-herbs-for-men/)**. 
 
 ---
