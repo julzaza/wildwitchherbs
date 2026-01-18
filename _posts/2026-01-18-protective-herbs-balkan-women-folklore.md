@@ -1,3 +1,4 @@
+---
 layout: single
 title: "Protective Herbs Used by Balkan Women"
 excerpt: "In the Balkans, women relied on protective plants not for spectacle, but survival. These herbs guarded strength, reputation, and vitality when collapse was not an option."
