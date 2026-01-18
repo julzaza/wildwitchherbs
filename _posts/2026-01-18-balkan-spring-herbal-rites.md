@@ -185,7 +185,7 @@ Love herbs were often combined with **silence**, fasting, and timing — not spo
 
 In many regions, young women gathered herbs before dawn on spring feast days, washed their faces, and poured the water at crossroads — symbolically releasing loneliness.
 
-For those interested in how desire, survival and witchcraft intertwined, see **[Balkan Love Magic: What Was Done and Why It Was Feared](/balkan-love-magic-folklore/)]**.
+For those interested in how desire, survival and witchcraft intertwined, see **[Balkan Love Magic: What Was Done and Why It Was Feared](/balkan-love-magic-folklore/)**.
 
 ---
 
