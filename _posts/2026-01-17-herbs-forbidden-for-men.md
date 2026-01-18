@@ -13,7 +13,7 @@ tags:
   - ethnobotany
   - ritual restriction
   - folk medicine for men
-permalink: /herbs-forbidden-for-men/
+permalink: /forbidden-herbs-for-men/
 schema: true
 schema_type: "Article"
 faq_schema:
