@@ -4,8 +4,8 @@ title: "Balkan Witchy Herbs: Plants, Legends & Folk Rituals"
 excerpt: "A folklore-rich compendium of Balkan witchy herbs, drawn from documented village practices, ethnobotany, and traditional folk magic across Serbia, Romania, Bulgaria, and neighboring regions."
 description: "An in-depth guide to Balkan witchy herbs rooted in ethnographic sources, folk ritual, and regional plant lore. Real traditions, real plants, no modern inventions."
 categories:
-  - Witchcraft-rituals
-  - Herbal-magic
+  - herbal-magic
+  - witchcraft-rituals
 tags:
   - Balkan witchcraft
   - Balkan herbs
