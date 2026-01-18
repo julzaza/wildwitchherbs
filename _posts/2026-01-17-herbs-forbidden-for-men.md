@@ -68,6 +68,20 @@ This meant that **men were sometimes restricted — fully or conditionally — f
 Below is a **documented list of herbs** where male restriction appears repeatedly across sources.
 
 ---
+## Important Clarification
+
+Men were **not forbidden from herbs because they were men**.
+
+They were restricted because:
+- reproductive harm affected the whole community
+- toxicity required discipline
+- ritual imbalance was feared more than ignorance
+
+This is not ideology.  
+It is **risk management**.
+
+---
+
 ## When Men Were the Forbidden Ones
 
 Contrary to modern assumptions, **men were often restricted from powerful plants**.
@@ -83,18 +97,45 @@ In many traditional systems:
 
 These were **explicit rules**, not metaphors.
 
+
+## Why These Herbs Were Forbidden to Men
+
+Because men symbolized:
+- outward force  
+- heat  
+- projection  
+- interruption  
+
+While these herbs required:
+- inward movement  
+- containment  
+- blood timing  
+- cyclical quiet  
+
+The conflict was **energetic and practical**, not ideological.
+
 ---
-## Important Clarification
 
-Men were **not forbidden from herbs because they were men**.
+## What Modern Herbalism Lost
 
-They were restricted because:
-- reproductive harm affected the whole community
-- toxicity required discipline
-- ritual imbalance was feared more than ignorance
+Modern systems:
+- removed ritual context  
+- erased gendered knowledge  
+- flattened plants into supplements  
 
-This is not ideology.  
-It is **risk management**.
+Traditional systems preserved **who may touch, when, and why**.
+
+That knowledge once prevented harm.
+
+
+## Why Modern Herbal Lists Get This Wrong
+
+Most modern “forbidden herb” articles:
+- collapse context
+- exaggerate bans
+- invent gender taboos
+
+Traditional systems were **precise, not moralistic**.
 
 ---
 ## A Fact-Based List of Herbs Restricted or Controlled for Men
@@ -225,17 +266,6 @@ Juniper functioned as **boundary medicine**, not everyday herb.
 Purpose-specific restriction tied to reproductive power.
 
 
----
-
-## Why Modern Herbal Lists Get This Wrong
-
-Most modern “forbidden herb” articles:
-- collapse context
-- exaggerate bans
-- invent gender taboos
-
-Traditional systems were **precise, not moralistic**.
-
 
 ---
 
@@ -317,36 +347,6 @@ These are **functional taboos**, not moral ones.
 
 ---
 
-## Why These Herbs Were Forbidden to Men
-
-Because men symbolized:
-- outward force  
-- heat  
-- projection  
-- interruption  
-
-While these herbs required:
-- inward movement  
-- containment  
-- blood timing  
-- cyclical quiet  
-
-The conflict was **energetic and practical**, not ideological.
-
----
-
-## What Modern Herbalism Lost
-
-Modern systems:
-- removed ritual context  
-- erased gendered knowledge  
-- flattened plants into supplements  
-
-Traditional systems preserved **who may touch, when, and why**.
-
-That knowledge once prevented harm.
-
----
 
 ## Forbidden or Cautious Herbs: Cross-Cultural Table
 
@@ -485,7 +485,7 @@ And access was never equal.
 
 ---
 
-## FAQ for Humans
+## FAQ 
 
 **Were men literally forbidden from these herbs?**  
 Yes. In many traditions, men were barred from handling or witnessing preparation, with real consequences for violation.
@@ -494,13 +494,10 @@ Yes. In many traditions, men were barred from handling or witnessing preparation
 No. These rules protected fertility, land balance, and ritual integrity.
 
 **Does this still matter today?**  
-The plants still act the same. What changed is whether we respect context.
+The plants still act the same. What changed is whether we respect context. Toxicity, dosage, and ritual understanding remain crucial for safe herbal practice.  
 
 **Could misuse harm men?**  
 Yes. Belladonna, wolfsbane, datura, and similar herbs are toxic and psychoactive, with real risk of fatal or harmful effects.  
-
-**Are these cautions relevant today?**  
-Yes. Toxicity, dosage, and ritual understanding remain crucial for safe herbal practice.  
 
 **Why were herbs gendered in folklore?**  
 Cultural perception of potency, reproductive roles, and social responsibility created symbolic and practical gender associations, not absolute bans.
@@ -508,34 +505,18 @@ Cultural perception of potency, reproductive roles, and social responsibility cr
 **Why were herbs forbidden to men?**  
 Because they were tied to female physiology, reproductive cycles, and spiritual protection. Men’s handling was thought to weaken potency or provoke misfortune.
 
-**Can men safely use these herbs today?**  
-Yes. These taboos are historical. Modern herbalism does not require gender restriction, though traditional context can enrich understanding.
-
 **Are these herbs still used for women’s health?**  
 Absolutely. Herbs like Shatavari, Dong Quai, and Lady’s Mantle continue to support reproductive health, perimenopause, and ceremonial work.
 
 **Did folklore always apply strictly?**  
 No. Exceptions existed, but violations often reinforced cautionary tales.
 
-**Why were herbs gendered in folklore?**  
-Cultural perception of potency, reproductive roles, and social responsibility created symbolic and practical gender associations, not absolute bans.
-
 **Why doesn’t modern witchcraft teach this?**  
 Because nuance doesn’t sell.
 
 ---
 
-## References
-
-- Hutton, Ronald — *The Witch*  
-- Pócs, Éva — *Fairies and Witches at the Boundary of South-Eastern Europe*  
-- Unschuld, Paul — *Medicine in China*  
-- Lock, Margaret — *Encounters with Aging: Mythologies of Menopause in Japan*  
-- Wujastyk, Dominik — *The Roots of Ayurveda*  
-- Ehrenreich & English — *Witches, Midwives, and Nurses*  
-- Davis-Floyd, Robbie — *Birth as an American Rite of Passage*
-
-- ## Sources & References
+## Sources & References
 
 - Ronald Hutton — *The Witch*
 - Éva Pócs — *Fairies and Witches at the Boundary of South-Eastern Europe*
