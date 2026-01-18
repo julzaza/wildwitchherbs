@@ -12,7 +12,7 @@ tags:
   - men and herbs
   - ethnobotany
   - ritual restriction
-  - folk medicine
+  - folk medicine for men
 permalink: /herbs-forbidden-for-men/
 schema: true
 schema_type: "Article"
@@ -30,18 +30,7 @@ faq_schema:
 ---
 
 
-## Why These Restrictions Existed
-
-1. **Physiological Observation**: Herbs tied to menstrual cycles or reproductive health were perceived as **linked to female physiology**, so male interaction was thought to “neutralize” the plant’s power.  
-
-2. **Spiritual Protection**: Women were seen as **vulnerable at certain liminal times** (menstruation, pregnancy, perimenopause). Herbs acted as **barriers against envy, spirits, and misfortune**, and men’s presence could compromise protective efficacy.  
-
-3. **Social Order & Ritual Roles**: Restricting access to certain plants **reinforced gendered roles**, ensuring women maintained spiritual and domestic authority over their cycles and households.  
-
-4. **Magical Doctrine**: In European and Balkan witchcraft, herbal potency was **gender-sensitive**, tied to the practitioner’s life stage, reproductive status, and intent. Men inadvertently handling “female” herbs could cause backlash or magical inversion.
-
----
-## Why Some Herbs Were Cautious for Men
+## Why Some Herbs Were Restricted for Men
 
 In traditional societies, men’s herbal use was shaped by:
 
