@@ -85,7 +85,7 @@ The underlying principles included:
 
 ## Documented Forbidden & Restricted Herbs for Women
 
-### ❌ Henbane (*Hyoscyamus niger*) — Europe, Slavic Regions
+### Henbane (*Hyoscyamus niger*) — Europe, Slavic Regions
 
 Henbane was feared, not casually avoided.
 
@@ -99,7 +99,7 @@ Pregnant and menstruating women were explicitly warned away from it.
 
 ---
 
-### ❌ Belladonna / Deadly Nightshade (*Atropa belladonna*) — Central & Southern Europe
+### Belladonna / Deadly Nightshade (*Atropa belladonna*) — Central & Southern Europe
 
 Belladonna was a liminal plant, tied to death, beauty, and Otherworld vision.
 
@@ -112,7 +112,7 @@ Women were believed to absorb its effects too deeply. Folklore warned it could *
 
 ---
 
-### ❌ Tansy (*Tanacetum vulgare*) — Europe
+### Tansy (*Tanacetum vulgare*) — Europe
 
 Tansy is one of the clearest documented cases.
 
@@ -125,7 +125,7 @@ Casual use was considered dangerous. Its strong action on menstruation made it p
 
 ---
 
-### ❌ Pennyroyal (*Mentha pulegium*) — Europe, Mediterranean
+### Pennyroyal (*Mentha pulegium*) — Europe, Mediterranean
 
 Pennyroyal was never neutral.
 
@@ -138,7 +138,7 @@ Women were warned not to ingest it unsupervised. Midwives controlled its use pre
 
 ---
 
-### ❌ Rue (*Ruta graveolens*) — Mediterranean, Balkans
+### Rue (*Ruta graveolens*) — Mediterranean, Balkans
 
 Rue is protective — and dangerous.
 
@@ -151,7 +151,7 @@ Overuse was believed to cause barrenness or uterine pain. Folk logic treated rue
 
 ---
 
-### ❌ Mandrake (*Mandragora officinarum*) — Southern Europe
+### Mandrake (*Mandragora officinarum*) — Southern Europe
 
 Mandrake occupies a unique place in folklore.
 
@@ -164,7 +164,7 @@ The root’s scream myth encoded fear of death, madness, or stillbirth. Handling
 
 ---
 
-### ❌ Wolfsbane (*Aconitum napellus*) — Europe
+### Wolfsbane (*Aconitum napellus*) — Europe
 
 Wolfsbane was not an herb — it was a weapon.
 
