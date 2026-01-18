@@ -75,6 +75,8 @@ Called “squaw root” by early settlers, black cohosh was used by Native Ameri
 
 **USE: Shadow clearing, deep womb connection, healing feminine lineage.**
 
+Black Cohosh is such a powerful female fertility herb that it appears repeatedly among **[Herbs Traditionally Restricted For Men In Folk Magic](/forbidden-herbs-for-men/)**, due to its intense association with womb power, blood movement, and female ancestral lines. 
+
 ## 9. Wild Yam (*Dioscorea villosa*)
 
 Not to be confused with yams from the grocery store, wild yam supports progesterone balance and has been used in herbal birth control and fertility, depending on timing. Folklore from the Americas and Appalachia tied wild yam to the changing seasons and the crossing point between conception and control.
