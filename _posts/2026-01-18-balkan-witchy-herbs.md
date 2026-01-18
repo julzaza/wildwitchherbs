@@ -102,7 +102,7 @@ Mugwort was used for:
 - Midsummer rites  
 - Women’s cycles and transitions  
 
-Girls placed it under pillows to dream of future husbands. Travelers carried it sewn into clothing. Its connection to solstice rites appears in *Solstice Dreaming with Mugwort & Wormwood*.
+Girls placed it under pillows to dream of future husbands. Travelers carried it sewn into clothing. Its connection to solstice rites appears in **[Solstice Dreaming with Mugwort & Wormwood](/solstice-dreaming-mugwort-wormwood/)**.
 
 ---
 
