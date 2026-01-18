@@ -150,7 +150,7 @@ Though most powerful at midsummer, early spring kantarion was used to prepare oi
 
 Learn how to tap into solar magic and **[Make Kantarion Sun Water For Joy And Courage](/st-johns-wort-sun-water/)**. 
 
-**[St. John's Wort Moon Water](/st-johns-wort-moon-water/)** is a trusted guardian during emotional storms and times of sorrow. 
+Also, **[Kantarion Moon Water](/st-johns-wort-moon-water/)** is a trusted guardian during emotional storms and times of sorrow. 
 
 ---
 
