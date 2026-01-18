@@ -190,9 +190,6 @@ Note: This post documents historical and folklore practices. It is not amedical 
 
 ## FAQ
 
-**Is this medical advice?**  
-No. This article documents historical and folkloric practices. Many herbs listed may be toxic if used incorrectly.
-
 **Can I use these herbs today?**  
 Some herbs are safe and widely used; others require caution. Always consult a trained herbalist or physician before experimentation.
 
