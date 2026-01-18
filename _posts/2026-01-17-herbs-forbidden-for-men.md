@@ -84,7 +84,85 @@ That knowledge once prevented harm.
 
 ---
 
+## Herbs Historically Forbidden to Men
+
+### 1. Menstrual & Birth Plants (Unnamed, Protected Class)
+**Reason Forbidden:** Male presence believed to halt efficacy.  
+**Evidence & Tradition:**  
+
+Across Europe, Japan, parts of Africa, and Indigenous North America, **men were forbidden to touch, prepare, or even witness the preparation** of herbs used for:
+- menstruation regulation  
+- childbirth  
+- postpartum recovery  
+
+Robbie Davis-Floyd documents birth spaces as **ritual zones**, where male intrusion violated spiritual law, not comfort preferences.
+
+---
+
+### 2. Mandrake (*Mandragora officinarum*) — Midwifery Variant
+**Reason Forbidden:** Male handling disrupted fertility magic.  
+**Evidence & Folklore:**  
+
+While mandrake is often framed as “male-harvested,” **specific fertility rituals explicitly forbade male contact**, especially when the root was used:
+- to assist conception  
+- to regulate menstruation  
+- to protect pregnancy  
+
+In parts of Southern Europe, **women specialists handled mandrake roots for female rites**, and men were excluded from the space entirely.
+
+---
+
+### 3. Artemisian Herbs (*Artemisia spp.*)
+**Reason Forbidden:** Sacred to female cycles and lunar power.  
+**Evidence & Folklore:**  
+
+Mugwort, wormwood, and related Artemisia species were:
+- used for menstrual timing  
+- employed in female initiation rites  
+- guarded by older women  
+
+In multiple European folk systems, **men were forbidden to harvest Artemisia during certain lunar phases**, especially when intended for women’s medicine.
+
+---
+
+### 4. Rice & Blood-Linked Plants (Japan)
+**Reason Forbidden:** Pollution of female transformation rites.  
+**Evidence & Ethnography:**  
+
+Margaret Lock documents that in Japan:
+- menopausal and menstrual rites involved plant medicines  
+- male handling was restricted  
+- male presence disrupted transformation  
+
+Menopause was understood as **a powerful, dangerous threshold**, not decline — and men were kept away from its medicines.
+
+---
+
+### 5. Sacred Seed & Root Medicines (Indigenous Traditions)
+**Reason Forbidden:** Land-fertility alignment.  
+**Evidence & Tradition:**  
+
+In various Indigenous North American traditions:
+- women controlled seed medicine  
+- men were forbidden from touching fertility roots  
+- violation was believed to cause crop failure or miscarriage  
+
+These rules were **enforced by elders**, not optional customs.
+
+
+---
+
+## Folklore Accounts
+
+- **European Midwives:** Men barred from rooms where menstrual herbs were prepared; presence believed to “close the womb.”  
+- **Japan:** Men excluded from menopause rites involving plant decoctions to avoid spiritual contamination.  
+- **Indigenous Elders:** Men warned that touching seed medicines would anger land spirits and reduce harvests.  
+
+These are **functional taboos**, not moral ones.
+
 Below is a **documented list of herbs** where male restriction appears repeatedly across sources.
+
+---
 
 ## A Fact-Based List of Herbs Restricted or Controlled for Men
 
@@ -213,88 +291,7 @@ Juniper functioned as **boundary medicine**, not everyday herb.
 **Why men were restricted:**  
 Purpose-specific restriction tied to reproductive power.
 
-
-
 ---
-
-## Herbs Historically Forbidden to Men
-
-### 1. Menstrual & Birth Plants (Unnamed, Protected Class)
-**Reason Forbidden:** Male presence believed to halt efficacy.  
-**Evidence & Tradition:**  
-
-Across Europe, Japan, parts of Africa, and Indigenous North America, **men were forbidden to touch, prepare, or even witness the preparation** of herbs used for:
-- menstruation regulation  
-- childbirth  
-- postpartum recovery  
-
-Robbie Davis-Floyd documents birth spaces as **ritual zones**, where male intrusion violated spiritual law, not comfort preferences.
-
----
-
-### 2. Mandrake (*Mandragora officinarum*) — Midwifery Variant
-**Reason Forbidden:** Male handling disrupted fertility magic.  
-**Evidence & Folklore:**  
-
-While mandrake is often framed as “male-harvested,” **specific fertility rituals explicitly forbade male contact**, especially when the root was used:
-- to assist conception  
-- to regulate menstruation  
-- to protect pregnancy  
-
-In parts of Southern Europe, **women specialists handled mandrake roots for female rites**, and men were excluded from the space entirely.
-
----
-
-### 3. Artemisian Herbs (*Artemisia spp.*)
-**Reason Forbidden:** Sacred to female cycles and lunar power.  
-**Evidence & Folklore:**  
-
-Mugwort, wormwood, and related Artemisia species were:
-- used for menstrual timing  
-- employed in female initiation rites  
-- guarded by older women  
-
-In multiple European folk systems, **men were forbidden to harvest Artemisia during certain lunar phases**, especially when intended for women’s medicine.
-
----
-
-### 4. Rice & Blood-Linked Plants (Japan)
-**Reason Forbidden:** Pollution of female transformation rites.  
-**Evidence & Ethnography:**  
-
-Margaret Lock documents that in Japan:
-- menopausal and menstrual rites involved plant medicines  
-- male handling was restricted  
-- male presence disrupted transformation  
-
-Menopause was understood as **a powerful, dangerous threshold**, not decline — and men were kept away from its medicines.
-
----
-
-### 5. Sacred Seed & Root Medicines (Indigenous Traditions)
-**Reason Forbidden:** Land-fertility alignment.  
-**Evidence & Tradition:**  
-
-In various Indigenous North American traditions:
-- women controlled seed medicine  
-- men were forbidden from touching fertility roots  
-- violation was believed to cause crop failure or miscarriage  
-
-These rules were **enforced by elders**, not optional customs.
-
-
----
-
-## Folklore Accounts
-
-- **European Midwives:** Men barred from rooms where menstrual herbs were prepared; presence believed to “close the womb.”  
-- **Japan:** Men excluded from menopause rites involving plant decoctions to avoid spiritual contamination.  
-- **Indigenous Elders:** Men warned that touching seed medicines would anger land spirits and reduce harvests.  
-
-These are **functional taboos**, not moral ones.
-
----
-
 
 ## Forbidden or Cautious Herbs: Cross-Cultural Table
 
@@ -329,23 +326,6 @@ These are **functional taboos**, not moral ones.
 - Male elders handling bitter tonics or vision plants respected **seasonal timing** and ceremonial context, ensuring plants were used safely for spiritual tasks or protection.
 
 ---
-
-## Patterns Across Cultures
-
-- Caution was **contextual**, not absolute.  
-- Ritual literacy was essential: knowledge transmitted orally or via apprenticeships.  
-- Herbs served **practical, spiritual, and symbolic functions**, and misuse could carry physical or social consequences.  
-
----
-
-## Practical Takeaways
-
-- Historical “forbidden” herbs were often **tools of power**, not universal bans.  
-- Men were guided by **ritual, apprenticeship, and symbolic understanding**.  
-- Modern herbalists can learn from traditional caution, emphasizing **dosage, life stage, and context**.
-
-
-
 
 ## Herbs Reserved for Women: Liminal Plants and Power
 
@@ -411,12 +391,19 @@ In many cultures, men were **forbidden from harvesting, preparing, or consuming*
 
 ---
 
-## Practical Notes
+## Patterns Across Cultures
 
-- These restrictions were cultural, not absolute medicinal rules. Modern use does not require gender-based limitation.  
-- Carrying, bathing, or using these herbs in rituals **historically amplified protective or spiritual effects**.  
-- Respecting folklore can deepen understanding of plant power and gendered tradition.  
+- Caution was **contextual**, not absolute.  
+- Ritual literacy was essential: knowledge transmitted orally or via apprenticeships.  
+- Herbs served **practical, spiritual, and symbolic functions**, and misuse could carry physical or social consequences.  
 
+---
+
+## Practical Takeaways
+
+- Historical “forbidden” herbs were often **tools of power**, not universal bans.  
+- Men were guided by **ritual, apprenticeship, and symbolic understanding**.  
+- Modern herbalists can learn from traditional caution, emphasizing **dosage, life stage, and context**.
 
 ---
 ## Final Thought
