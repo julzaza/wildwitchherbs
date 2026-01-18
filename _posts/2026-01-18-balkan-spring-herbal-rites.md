@@ -56,6 +56,8 @@ Spring herbs governed three main needs:
 2. Fertility and bodily strength  
 3. Protection from sickness, envy, and wandering forces  
 
+Many of these plants belong to the wider body of **[Balkan Witchy Herbs](/balkan-witchy-herbs/)** used year-round, though spring was believed to awaken their most volatile qualities
+
 ---
 
 ## Core Balkan Spring Herbs (Documented Use)
