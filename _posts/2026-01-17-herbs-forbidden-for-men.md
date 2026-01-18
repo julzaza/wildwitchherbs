@@ -88,26 +88,18 @@ These were **explicit rules**, not metaphors.
 
 ---
 
-## What Modern Herbalism Lost
+## Why Modern Herbalism Gets This Wrong
 
-Modern systems:
+Most modern “forbidden herb” articles:
 - removed ritual context  
 - erased gendered knowledge  
 - flattened plants into supplements  
 
 Traditional systems preserved **who may touch, when, and why**.
 
-That knowledge once prevented harm.
-
-
-## Why Modern Herbal Lists Get This Wrong
-
-Most modern “forbidden herb” articles:
-- collapse context
-- exaggerate bans
-- invent gender taboos
-
 Traditional systems were **precise, not moralistic**.
+
+That knowledge once prevented harm.
 
 ---
 ## A Fact-Based List of Herbs Restricted or Controlled for Men
