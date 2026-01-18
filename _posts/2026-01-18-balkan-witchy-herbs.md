@@ -191,7 +191,7 @@ Its dual role as medicine and warding plant made it central to summer rituals.
 
 Learn how to **[Make St. John's Wort Sun Water for Joy and Light](/st-johns-wort-sun-water/)**.
 
-**[St. John's Wort Moon Water](/st-johns-wort-moon-water/)** is a trusted ally in times of grief and sorrow. 
+Also, **[St. John's Wort Moon Water](/st-johns-wort-moon-water/)** is a trusted ally in times of grief and sorrow. 
 
 ---
 
