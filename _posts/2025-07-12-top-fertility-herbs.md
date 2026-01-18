@@ -106,14 +106,16 @@ Some fertility traditions went further, linking conception to blood, cycle timin
 
 Fertility is not just about the body—it’s about cycles, timing, soul, and spirit. These herbs work not only through their physical effects, but through their stories, symbolism, and the quiet rituals they invite us into. Whether you are trying to conceive, reconnecting with your womb, or honoring the sacred power of creation, these plants stand ready as allies.
 
+In some traditions, fertility work blurred into desire and control — a darker boundary explored in **[Fear-Based Love Magic Traditions](/balkan-love-magic-folklore/)** where conception, obsession, and survival overlapped.
+
 * Always consult a qualified herbalist or health practitioner before using herbs medicinally, especially if you’re pregnant or taking medication.
 
 ---
 
 ## More Fertility Witchcraft:
 
-- For Folk Fertility Rituals – see **[Fertility Rituals for Conception](/folk-fertility-rituals/)**
-- To explore the broader concept of fertility in Old Europe - see **[Old World Fertility Witchcraft](/old-world-fertility-magic/)**.
+- For Folk Fertility Rituals – see **[Traditional Fertility Rites For Conception](/folk-fertility-rituals/)**
+- To explore fertility in ancestral Europe – see **[Old World Fertility Witchcraft](/old-world-fertility-magic/)**
 
 ---
 
