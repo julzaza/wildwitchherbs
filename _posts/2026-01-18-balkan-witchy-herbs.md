@@ -201,7 +201,7 @@ It was used in:
 - Womb-strengthening remedies  
 - Boundary rituals  
 
-Despite its sting, nettle symbolized resilience and vitality.
+Despite its sting, nettle symbolized resilience and vitality, its role became especially important during **[Spring Herbal Rites](/balkan-spring-herbal-rites/)**.
 
 ---
 
