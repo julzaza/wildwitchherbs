@@ -287,10 +287,7 @@ Purpose-specific restriction tied to reproductive power.
 | **Wolfsbane / Aconitum napellus** | Europe, Tibet | Poison preparation, ritual | Balkan lore: ancestral caution invoked during harvest to prevent ritual death | Highly toxic; careful handling required |
 | **Datura spp.** | Americas, Europe | Divination, vision quests | Used by male shamans for visions; misuse could induce delirium or fatal poisoning | Psychoactive; lethal in high doses |
 | **Mugwort (Artemisia vulgaris)** | Europe, Asia | Visioning, spiritual protection | Carried by male hunters and warriors to enhance dreams and alertness | Uterine stimulant; caution mostly symbolic but noted in some records for toxicity in large doses |
-| **Yarrow (Achillea millefolium)** | Europe, North America | Soldiers, hunters, ritual | Applied for protection in battle and liminal rites | Blood-thinning properties; caution for internal consumption |
 | **Rue (Ruta graveolens)** | Mediterranean, Balkans | Festivals, protective charms | Men used rue for envy protection; ritual precision required during liminal periods | High doses internally toxic; ritual precautions noted |
-| **Ginseng (Panax spp.)** | East Asia | Vitality, strength | Associated with yang energy and masculine vigor in traditional Chinese medicine | No historical prohibition; gendered association symbolic |
-| **Angelica (Angelica archangelica)** | Europe, Asia | Protection, fertility, divination | Used in charms for strength and spiritual guidance | Mild emmenagogue; men’s caution largely symbolic |
 | **Psychoactive Nightshades / Hyoscyamus** | Europe | Vision work | Alchemical texts warn of delirium and spiritual danger | Toxic; ritual context only |
 | **Blue Cohosh (Caulophyllum thalictroides)** | North America | Labor, midwifery assistance | Men assisted midwives; knowledge of caution passed orally | Strong uterine effects; handled carefully |
 
@@ -310,24 +307,6 @@ Purpose-specific restriction tied to reproductive power.
 
 ### Africa
 - Male elders handling bitter tonics or vision plants respected **seasonal timing** and ceremonial context, ensuring plants were used safely for spiritual tasks or protection.
-
----
-
-## Herbs Reserved for Women: Liminal Plants and Power
-
-Throughout history, certain herbs were **strictly associated with women**. These were not arbitrary rules: they reflected **physiological, spiritual, and magical understandings** of gender, life stage, and vulnerability.
-
-In many cultures, men were **forbidden from harvesting, preparing, or consuming** these plants. Breaking these rules was believed to bring misfortune, impotence, illness, or spiritual imbalance.
-
----
-
-## True Stories
-
-- In 17th-century Bavaria, a man collected mugwort from a midwife’s garden. According to court records, he suffered **a sudden illness** attributed to breaking the taboo, reinforcing the gendered lore. (Hutton, *The Witch*)  
-
-- In Balkan folklore, women hid rue and lady’s mantle during village fairs, fearing men might **use them for love charms** that would invert the women’s own protection. (Pócs)  
-
-- In Edo Japan, certain herbs used for menstrual and fertility care were **restricted to women during ritual baths**, believed to channel ancestral female spirits. Men’s interference could **anger household kami**, according to regional records. (Lock, *Encounters with Aging*)
 
 ---
 
