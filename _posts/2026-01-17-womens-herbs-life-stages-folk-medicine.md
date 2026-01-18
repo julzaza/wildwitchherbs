@@ -49,6 +49,7 @@ The structure is the same.
 ## The Maiden Years: Blood Awakening & Boundary Formation
 
 **Approx. menarche to early adulthood**
+*This stage centered on protection, gentle tonics, and learning bodily awareness.*
 
 This stage focused on:
 - regulating first blood
@@ -74,6 +75,7 @@ Herbs were **gentle, aromatic, and regulating** — never aggressive.
 ## The Fertile Years: Strength, Endurance & Continuity
 
 **Approx. 20s to mid-30s**
+*This phase emphasized preservation, endurance, and reproductive continuity.*
 
 This was the most demanding phase:
 - pregnancy
@@ -106,6 +108,7 @@ They were protected so they could **last**.
 ## The Threshold Years: Perimenopause as a Liminal State
 
 **Mid-30s to late 40s**
+*Recognized as a spiritual and physiological threshold, requiring careful support.*
 
 Folk medicine recognized this phase as **dangerous** — not pathological.
 
@@ -129,6 +132,7 @@ Protection + nervous system support mattered more than balance.
 ---
 
 ## The Elder Phase: Authority, Cold & Conservation
+*Elder women were considered keepers of continuity, not weak or expendable.*
 
 Post-menopause women were no longer considered weak.
 
