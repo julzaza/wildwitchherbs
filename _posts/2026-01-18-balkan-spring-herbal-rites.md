@@ -188,7 +188,7 @@ Spring herbs were gathered:
 - Without metal tools  
 - Sometimes barefoot  
 - Often in silence  
-- Often by women only (see: **[Forbidden Herbalism For Men](/forbidden-herbs-for-men/)**. 
+- Often by women only (see: **[Forbidden Herbalism For Men](/forbidden-herbs-for-men/)**). 
 
 Breaking rules was believed to **reverse effects**.
 
