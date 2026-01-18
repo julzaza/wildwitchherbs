@@ -29,6 +29,29 @@ faq_schema:
     - answer: "Notable examples include belladonna, wolfsbane (Aconitum), strong bitters, datura, and psychoactive vision plants. Use was often guided by apprenticeship or ritual knowledge."
 ---
 
+
+## Why These Restrictions Existed
+
+1. **Physiological Observation**: Herbs tied to menstrual cycles or reproductive health were perceived as **linked to female physiology**, so male interaction was thought to “neutralize” the plant’s power.  
+
+2. **Spiritual Protection**: Women were seen as **vulnerable at certain liminal times** (menstruation, pregnancy, perimenopause). Herbs acted as **barriers against envy, spirits, and misfortune**, and men’s presence could compromise protective efficacy.  
+
+3. **Social Order & Ritual Roles**: Restricting access to certain plants **reinforced gendered roles**, ensuring women maintained spiritual and domestic authority over their cycles and households.  
+
+4. **Magical Doctrine**: In European and Balkan witchcraft, herbal potency was **gender-sensitive**, tied to the practitioner’s life stage, reproductive status, and intent. Men inadvertently handling “female” herbs could cause backlash or magical inversion.
+
+---
+## Why Some Herbs Were Cautious for Men
+
+In traditional societies, men’s herbal use was shaped by:
+
+- **Ritual potency:** Plants used in vision quests, liminal rites, or divination required careful handling.  
+- **Reproductive caution:** Herbs affecting virility, fertility, or sexual health were dosed with attention.  
+- **Symbolic awareness:** Plants carried gendered, spiritual, or social meanings; misuse could bring physical, social, or spiritual consequences.  
+
+Across continents, **oral teaching, apprenticeship, and ritual practice** ensured safety and efficacy.
+
+
 ## Not All Herbs Were Gender-Neutral
 
 In traditional societies, **herbs were not freely available tools**.
@@ -45,7 +68,35 @@ This meant that **men were sometimes restricted — fully or conditionally — f
 Below is a **documented list of herbs** where male restriction appears repeatedly across sources.
 
 ---
+## When Men Were the Forbidden Ones
 
+Contrary to modern assumptions, **men were often restricted from powerful plants**.
+
+Not because they were seen as impure —  
+but because **male presence altered outcomes**.
+
+In many traditional systems:
+- Men disrupted fertility medicine  
+- Men offended land or plant spirits  
+- Men lacked ritual permission  
+- Men carried incompatible symbolic force  
+
+These were **explicit rules**, not metaphors.
+
+---
+## Important Clarification
+
+Men were **not forbidden from herbs because they were men**.
+
+They were restricted because:
+- reproductive harm affected the whole community
+- toxicity required discipline
+- ritual imbalance was feared more than ignorance
+
+This is not ideology.  
+It is **risk management**.
+
+---
 ## A Fact-Based List of Herbs Restricted or Controlled for Men
 
 ### 1. **Pennyroyal (*Mentha pulegium*)**
@@ -173,33 +224,6 @@ Juniper functioned as **boundary medicine**, not everyday herb.
 **Why men were restricted:**  
 Purpose-specific restriction tied to reproductive power.
 
----
-
-## What These Herbs Have in Common
-
-| Factor | Pattern |
-|------|-------|
-| Reproductive impact | High |
-| Toxicity | Moderate to extreme |
-| Dosage sensitivity | Critical |
-| Ritual timing | Essential |
-| Knowledge control | Elder- or midwife-led |
-
-These were **not casual plants**.
-
----
-
-## Important Clarification
-
-Men were **not forbidden from herbs because they were men**.
-
-They were restricted because:
-- reproductive harm affected the whole community
-- toxicity required discipline
-- ritual imbalance was feared more than ignorance
-
-This is not ideology.  
-It is **risk management**.
 
 ---
 
@@ -212,39 +236,6 @@ Most modern “forbidden herb” articles:
 
 Traditional systems were **precise, not moralistic**.
 
----
-
-## Final Thought
-
-If a plant could:
-- end a pregnancy
-- sterilize a lineage
-- poison a village
-- or open dangerous states of consciousness
-
-It was never casual.
-
-And access was never equal.
-
-
----
-
-
-
-## When Men Were the Forbidden Ones
-
-Contrary to modern assumptions, **men were often restricted from powerful plants**.
-
-Not because they were seen as impure —  
-but because **male presence altered outcomes**.
-
-In many traditional systems:
-- Men disrupted fertility medicine  
-- Men offended land or plant spirits  
-- Men lacked ritual permission  
-- Men carried incompatible symbolic force  
-
-These were **explicit rules**, not metaphors.
 
 ---
 
@@ -357,22 +348,6 @@ That knowledge once prevented harm.
 
 ---
 
-
-
-
-
-## Why Some Herbs Were Cautious for Men
-
-In traditional societies, men’s herbal use was shaped by:
-
-- **Ritual potency:** Plants used in vision quests, liminal rites, or divination required careful handling.  
-- **Reproductive caution:** Herbs affecting virility, fertility, or sexual health were dosed with attention.  
-- **Symbolic awareness:** Plants carried gendered, spiritual, or social meanings; misuse could bring physical, social, or spiritual consequences.  
-
-Across continents, **oral teaching, apprenticeship, and ritual practice** ensured safety and efficacy.
-
----
-
 ## Forbidden or Cautious Herbs: Cross-Cultural Table
 
 | Herb | Region / Culture | Ritual or Life Context | Folklore / Story | Safety / Reproductive Notes |
@@ -461,17 +436,6 @@ In many cultures, men were **forbidden from harvesting, preparing, or consuming*
 
 - **Yemeni and West African herbal traditions**: Menstruating women’s plants — like hibiscus, roselle, or African basil — were **connected to ancestral spirits and female vitality**, and men were discouraged from using them outside ritual contexts to avoid disrupting the spiritual balance.  
 
----
-
-## Why These Restrictions Existed
-
-1. **Physiological Observation**: Herbs tied to menstrual cycles or reproductive health were perceived as **linked to female physiology**, so male interaction was thought to “neutralize” the plant’s power.  
-
-2. **Spiritual Protection**: Women were seen as **vulnerable at certain liminal times** (menstruation, pregnancy, perimenopause). Herbs acted as **barriers against envy, spirits, and misfortune**, and men’s presence could compromise protective efficacy.  
-
-3. **Social Order & Ritual Roles**: Restricting access to certain plants **reinforced gendered roles**, ensuring women maintained spiritual and domestic authority over their cycles and households.  
-
-4. **Magical Doctrine**: In European and Balkan witchcraft, herbal potency was **gender-sensitive**, tied to the practitioner’s life stage, reproductive status, and intent. Men inadvertently handling “female” herbs could cause backlash or magical inversion.
 
 ---
 
@@ -505,6 +469,19 @@ In many cultures, men were **forbidden from harvesting, preparing, or consuming*
 - Carrying, bathing, or using these herbs in rituals **historically amplified protective or spiritual effects**.  
 - Respecting folklore can deepen understanding of plant power and gendered tradition.  
 
+
+---
+## Final Thought
+
+If a plant could:
+- end a pregnancy
+- sterilize a lineage
+- poison a village
+- or open dangerous states of consciousness
+
+It was never casual.
+
+And access was never equal.
 
 ---
 
