@@ -204,6 +204,9 @@ Understanding Balkan spring herbal rites restores:
 - Herbal timing knowledge  
 - Respect for plant spirits as forces, not aesthetics  
 
+
+Spring in Balkan folk magic was powerful, risky, fertile — and alive.
+
 ---
 
 ## Frequently Asked Questions
@@ -218,7 +221,3 @@ They existed **alongside Christianity**, blending saint days with older seasonal
 Rarely. Most spring herbal rites were preserved and practiced by women.
 
 ---
-
-Spring in Balkan folk magic was not gentle.  
-It was powerful, risky, fertile — and alive.
-
