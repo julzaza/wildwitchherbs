@@ -233,7 +233,7 @@ Beyond the core ten, Balkan folk magic also relied on:
 - Plantain (grounding, wound magic)  
 - Comfrey (bone healing, deep recovery)  
 
-These plants appear across regions depending on climate and terrain.
+These plants appear across regions depending on climate and terrain. Find out **[Why Witches Plant Rosemary By The Front Door](/why-witches-plant-rosemary-front-door/)**. 
 
 ---
 
