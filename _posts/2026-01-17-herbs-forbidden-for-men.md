@@ -25,7 +25,8 @@ faq_schema:
       answer: "No. Most restrictions were practical, tied to reproductive safety, pharmacological danger, or cosmological balance."
     - question: "Is this modern medical advice?"
       answer: "No. This article documents historical and ethnobotanical practices, not contemporary health guidance."
-    - question: "Which herbs were cautioned for men?" answer: "Notable examples include belladonna, wolfsbane (Aconitum), strong bitters, datura, and psychoactive vision plants. Use was often guided by apprenticeship or ritual knowledge."
+    - question: "Which herbs were cautioned for men?"
+    - answer: "Notable examples include belladonna, wolfsbane (Aconitum), strong bitters, datura, and psychoactive vision plants. Use was often guided by apprenticeship or ritual knowledge."
 ---
 
 ## Not All Herbs Were Gender-Neutral
