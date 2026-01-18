@@ -178,6 +178,29 @@ It worked *with time*, not against it.
 
 ---
 
+Note: This post documents historical and folklore practices. It is not amedical advice. 
+
+---
+
+## FAQ
+
+**Is this medical advice?**  
+No. This article documents historical and folkloric practices. Many herbs listed may be toxic if used incorrectly.
+
+**Can I use these herbs today?**  
+Some herbs are safe and widely used; others require caution. Always consult a trained herbalist or physician before experimentation.
+
+**Why were herbs tied to life stages?**  
+Traditional medicine viewed women’s health as dynamic — changing with fertility, reproductive cycles, social role, and spiritual life.
+
+**Does this imply women were weak at any stage?**  
+No. Each stage was recognized for its unique strength, vulnerability, and social role. Folk medicine worked *with time*, not against it.
+
+**Why include global examples?**  
+Patterns repeat across cultures, showing consistent understanding of female physiology and lifecycle, even if expressed differently.
+
+---
+
 ## References & Sources
 
 - Pócs, Éva — *Between the Living and the Dead*  
