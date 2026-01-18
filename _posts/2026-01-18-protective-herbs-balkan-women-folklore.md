@@ -26,8 +26,6 @@ faq_schema: |
       answer: "No. This content documents historical and folkloric practices, not medical recommendations."
 ---
 
-*Note: This post documents historical Balkan folklore. It is not a recommendation for use. Some herbs may be toxic if misused.*
-
 ## When Strength Became a Liability
 
 In Balkan villages, women who **carried households, birthed children, healed the sick, or mediated conflicts** were highly visible—and visibility carried risk.
@@ -146,6 +144,10 @@ Balkan folklore preserves rich, **fact-based evidence of women’s herbal protec
 
 **Were men involved?**  
 Protective practices were often **female-led**, particularly in household and ritual spaces. Men occasionally assisted but rarely controlled these practices.
+
+---
+
+*Note: This post documents historical Balkan folklore. It is not a recommendation for use. Some herbs may be toxic if misused.*
 
 ---
 
