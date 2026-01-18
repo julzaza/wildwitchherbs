@@ -5,6 +5,7 @@ date: 2026-01-15
 permalink: /balkan-love-magic-folklore/
 categories:
   - folklore-ancestral
+  - witchcraft-rituals
 tags:
   - balkan love magic
   - folk magic
@@ -52,6 +53,8 @@ It was about:
 - Binding desire when survival depended on it  
 
 And everyone feared it.
+
+Check out **[Balkan Courtship And Love Rites](/balkan-courtship-love-rites)** for more socially acceptable rituals if these forbidden practices are not your cup of witchy tea. 
 
 ---
 
