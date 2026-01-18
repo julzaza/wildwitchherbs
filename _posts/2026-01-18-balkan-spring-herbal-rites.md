@@ -68,7 +68,7 @@ Many of these plants belong to the wider body of **[Balkan Witchy Herbs](/balkan
 
 Basil was not just a culinary herb. In Balkan villages, it was a **ritual plant**. Young women placed basil under pillows to dream of future husbands. Sprigs were carried during spring church feasts and woven into bridal items.
 
-In Vlach practice, basil washed in spring water was used to cleanse envy and attract a suitable match.
+In **[Vlach Practice](/vlach-magic-negotin-serbia/)**, basil washed in spring water was used to cleanse envy and attract a suitable match.
 
 Basil gathered before sunrise was believed to “hear better” — a belief recorded in multiple Serbian ethnographic collections.
 
@@ -82,7 +82,7 @@ Spring wormwood was dangerous and respected. It was used to guard doorways, bodi
 
 Unlike later summer harvests, **spring pelin** was believed to hold sharper bitterness — symbolic of control and restraint.
 
-You explore this deeply in *Wormwood in Witchcraft & War* — this post places it in seasonal context.
+**[Wormwood in Witchcraft & War](/wormwood-witchcraft-war)** explores this magic plant deeply.
 
 ---
 
