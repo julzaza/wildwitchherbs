@@ -341,7 +341,19 @@ This table reflects **conditional male use under ritual or training limits**.
 
 - Caution was **contextual**, not absolute.  
 - Ritual literacy was essential: knowledge transmitted orally or via apprenticeships.  
-- Herbs served **practical, spiritual, and symbolic functions**, and misuse could carry physical or social consequences.  
+- Herbs served **practical, spiritual, and symbolic functions**, and misuse could carry physical or social consequences.
+
+---
+
+## Did Traditional Medicine Believe Some Herbs Were Unsafe for Men?
+
+Yes — particularly herbs affecting:
+- fertility
+- sexual function
+- consciousness
+- lineage survival
+
+Restrictions were enforced through ritual law, apprenticeship, and social consequence.
 
 ---
 
