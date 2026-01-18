@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Herbs Forbidden or Restricted to Men in Traditional Medicine & Folklore"
+title: "Herbs Forbidden for Men in Traditional Medicine & Folklore"
 excerpt: "Across Europe, Asia, and Indigenous cultures, certain herbs were restricted or controlled for men due to fertility risk, ritual law, toxicity, or cosmological balance. These were not symbolic taboos, but practical boundaries rooted in survival and lineage."
 description: "A fact-based, historically grounded list of herbs restricted or forbidden to men in traditional medicine, midwifery, and folklore, with documented reasons and regional context."
 author: wildwitchyherbs
@@ -13,7 +13,7 @@ tags:
   - ethnobotany
   - ritual restriction
   - folk medicine
-permalink: /herbs-forbidden-to-men/
+permalink: /herbs-forbidden-for-men/
 schema: true
 schema_type: "Article"
 faq_schema:
