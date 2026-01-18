@@ -72,7 +72,7 @@ In **[Vlach Practice](/vlach-magic-negotin-serbia/)**, basil washed in spring wa
 
 Basil gathered before sunrise was believed to “hear better” — a belief recorded in multiple Serbian ethnographic collections.
 
-See what other **[Herbal Companions Vlach Wise Women Turned To](/herbs-vlach-wise-women/)**.
+See what other **[Herbal Companions Vlach Wise Women Turn To](/herbs-vlach-wise-women/)**.
 
 ---
 
@@ -84,7 +84,7 @@ Spring wormwood was dangerous and respected. It was used to guard doorways, bodi
 
 Unlike later summer harvests, **spring pelin** was believed to hold sharper bitterness — symbolic of control and restraint.
 
-**[Wormwood in Witchcraft & War](/wormwood-witchcraft-war)** explores this magic plant deeply.
+**[Pelin & War](/wormwood-witchcraft-war)** post explores this special plant and witchcraft deeply.
 
 ---
 
@@ -190,7 +190,7 @@ Spring herbs were gathered:
 - Without metal tools  
 - Sometimes barefoot  
 - Often in silence  
-- Often by women only (see: **[Forbidden Herbalism For Men](/forbidden-herbs-for-men/)**)
+- Often by women only (see why men were kept out: **[Forbidden Herbalism For Men](/forbidden-herbs-for-men/)**)
 
 Breaking rules was believed to **reverse effects**.
 
@@ -220,6 +220,6 @@ Balkan folk practitioners used basil, wormwood, nettle, elder, yarrow, hawthorn,
 They existed **alongside Christianity**, blending saint days with older seasonal rites.
 
 ### Did men participate?
-Rarely. Most spring herbal rites were preserved and practiced by women. Learn why here: **[Witchy Herbs Restricted For Men](/forbidden-herbs-for-men/)**. 
+Rarely. Most spring herbal rites were preserved and practiced by women. Learn why sometimes men were excluded here: **[Witchy Herbs Restricted For Men](/forbidden-herbs-for-men/)**. 
 
 ---
