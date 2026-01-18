@@ -77,7 +77,7 @@ Also, check out **[Herbs For Safe Ritual Smoke Clensing](/smoke-cleansing-folk-m
 
 ---
 
-### ❌ Henbane *(Hyoscyamus niger)* — Greek, Slavic, Germanic
+### Henbane *(Hyoscyamus niger)* — Greek, Slavic, Germanic
 
 Used by ancient Greek oracles, Norse seid-workers, and Slavic witches to commune with spirits. But **never by smoke**. Burning henbane can cause delirium, convulsions, or death.
 
@@ -85,7 +85,7 @@ Used by ancient Greek oracles, Norse seid-workers, and Slavic witches to commune
 
 ---
 
-### ❌ White Sage *(Salvia apiana)* — North America
+### White Sage *(Salvia apiana)* — North America
 
 White sage is sacred to many Native American tribes, especially the Chumash and Lakota, who use it in ceremony — **not for decoration or TikTok trends**. Overharvesting and cultural appropriation have made it a symbol of spiritual disrespect. Use it only when truly necessary and when you are sure it was sourced ethically. 
 
@@ -93,7 +93,7 @@ White sage is sacred to many Native American tribes, especially the Chumash and 
 
 ---
 
-### ❌ Belladonna *(Atropa belladonna)* — European, Italian, Slavic
+### Belladonna *(Atropa belladonna)* — European, Italian, Slavic
 
 "Beautiful lady" and deadly. Belladonna was used by witches in flying ointments and vision potions — *never* burned. The smoke is toxic, and historically associated with hallucinations, seizures, and death.
 
@@ -101,7 +101,7 @@ White sage is sacred to many Native American tribes, especially the Chumash and 
 
 ---
 
-### ❌ Rue *(Ruta graveolens)* — Mediterranean, Balkan, Middle Eastern
+### Rue *(Ruta graveolens)* — Mediterranean, Balkan, Middle Eastern
 
 Rue is a powerful protector, especially in Mediterranean and Balkan traditions. It was worn behind the ear, hung in doorways, steeped in water — but burning it releases acrid, lung-irritating smoke.
 
@@ -109,7 +109,7 @@ Rue is a powerful protector, especially in Mediterranean and Balkan traditions. 
 
 ---
 
-### ❌ Oleander *(Nerium oleander)* — Middle East, Mediterranean
+### Oleander *(Nerium oleander)* — Middle East, Mediterranean
 
 Fatal even in dried form. Historically used in poisonings and war — not rituals. Smoke is **lethally toxic**.
 
@@ -117,7 +117,7 @@ Fatal even in dried form. Historically used in poisonings and war — not ritual
 
 ---
 
-### ❌ Dragon Tree Resin *(Dracaena draco)* — Canary Islands, North Africa
+### Dragon Tree Resin *(Dracaena draco)* — Canary Islands, North Africa
 
 Often confused with Dragon’s Blood, this bright red resin was sacred to the Guanche people of Tenerife. Burning it without understanding or ceremony is like **torching a relic**.
 
@@ -125,7 +125,7 @@ Often confused with Dragon’s Blood, this bright red resin was sacred to the Gu
 
 ---
 
-### ❌ Pine Resin (In Plastic-Heavy Modern Incense)  
+### Pine Resin (In Plastic-Heavy Modern Incense)  
 **Be Wary.**  
 Many commercial “pine” or “frankincense” incense sticks contain **synthetic binders and plastic fillers**. Burning them releases microtoxins and carcinogens.
 
@@ -134,7 +134,7 @@ Burn raw, clean **Boswellia sacra** (real frankincense resin) over charcoal, or 
 
 ---
 
-### ❌ Essential Oils on Charcoal — Modern Western
+### Essential Oils on Charcoal — Modern Western
 
 Pouring essential oils on charcoal is **not** ancient practice — it’s dangerous. Oils combust, producing harmful chemicals and sometimes igniting with flash fire.
 
