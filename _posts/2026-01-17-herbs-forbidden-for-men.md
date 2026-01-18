@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Herbs Forbidden for Men in Traditional Medicine & Folklore"
-excerpt: "Across Europe, Asia, and Indigenous cultures, certain herbs were restricted or controlled for men due to fertility risk, ritual law, toxicity, or cosmological balance. These were not symbolic taboos, but practical boundaries rooted in survival and lineage."
+excerpt: "Across Europe, Asia, and Indigenous cultures, certain herbs were restricted or controlled for men due to fertility risk, ritual law, toxicity, or cosmological balance—practices rooted in survival, lineage, and ritual authority."
 description: "A fact-based, historically grounded list of herbs restricted or forbidden to men in traditional medicine, midwifery, and folklore, with documented reasons and regional context."
 author: wildwitchyherbs
 categories:
@@ -114,6 +114,7 @@ That knowledge once prevented harm.
 - Savin Juniper (*Juniperus sabina*, historically documented abortifacient)
 
 **Reason Restricted:** Male presence was recorded in folklore and ritual law as disrupting ritual efficacy or violating reproductive authority.
+
 **Evidence & Tradition:**  
 
 Across Europe, Japan, parts of Africa, and Indigenous North America, **men were forbidden to touch, prepare, or even witness the preparation** of herbs used for:
@@ -121,7 +122,7 @@ Across Europe, Japan, parts of Africa, and Indigenous North America, **men were 
 - childbirth  
 - postpartum recovery  
 
-Robbie Davis-Floyd documents birth spaces as **ritual zones**, where male intrusion violated spiritual law, not comfort preferences.
+Anthropologist Robbie Davis-Floyd documents birth spaces as **ritual zones**, reinforcing a broader cross-cultural pattern in which reproductive medicine operated under strict access rules.
 
 ---
 
@@ -129,7 +130,7 @@ Robbie Davis-Floyd documents birth spaces as **ritual zones**, where male intrus
 **Reason Forbidden:** Male handling disrupted fertility magic.  
 **Evidence & Folklore:**  
 
-While mandrake is often framed as “male-harvested,” **specific fertility rituals explicitly forbade male contact**, especially when the root was used:
+While mandrake is often framed as male-harvested in mythic literature, **specific fertility and menstrual uses were frequently restricted to women or midwives**.
 - to assist conception  
 - to regulate menstruation  
 - to protect pregnancy  
@@ -167,7 +168,7 @@ These rules were **enforced by elders**, not optional customs.
 ## Folklore Accounts
 
 - **European Midwives:** Men barred from rooms where menstrual herbs were prepared; presence believed to “close the womb.”  
-- **Japan:** Men excluded from menopause rites involving plant decoctions to avoid spiritual contamination.  
+- **Japan:** In some folk contexts, men were excluded from women’s life-stage rites involving plant decoctions, particularly those connected to reproductive transitions, due to beliefs about ritual purity.
 - **Indigenous Elders:** Men warned that touching seed medicines would anger land spirits and reduce harvests.  
 
 These are **functional taboos**, not moral ones.
@@ -311,7 +312,7 @@ Not all restrictions were absolute.
 This table reflects **conditional male use under ritual or training limits**.
 
 
-| Herb | Region / Culture | Ritual or Life Context | Folklore / Story | Safety / Reproductive Notes |
+| Herb | Region / Culture | Ritual or Life Context | Folklore / Recorded Belief | Safety / Reproductive Notes |
 |------|----------------|----------------------|-----------------|----------------------------|
 | **Belladonna / Deadly Nightshade (Atropa belladonna)** | Europe (Germany, Italy, Bukovina) | Vision work, flying ointments | Warned in 17th c. manuals; young apprentices cautioned not to weaken life-force | Toxic; ingestion could be fatal; ritual use only |
 | **Wolfsbane / Aconitum napellus** | Europe, Tibet | Poison preparation, ritual | Balkan lore: ancestral caution invoked during harvest to prevent ritual death | Highly toxic; careful handling required |
