@@ -27,6 +27,13 @@ faq_schema:
       answer: "No. This article documents historical and ethnobotanical practices, not contemporary health guidance."
     - question: "Which herbs were cautioned for men?"
     - answer: "Notable examples include belladonna, wolfsbane (Aconitum), strong bitters, datura, and psychoactive vision plants. Use was often guided by apprenticeship or ritual knowledge."
+
+> **Historical Context Notice**
+>  
+> This article documents historical and ethnobotanical practices.  
+> It does not recommend use, dosage, or experimentation with any plant listed.  
+> Many herbs discussed are toxic or lethal.
+
 ---
 
 
@@ -83,11 +90,33 @@ These practices were **precise, not moralistic**.
 That knowledge once prevented harm.
 
 ---
+## What “Forbidden” Meant in Traditional Contexts
+
+In historical herbal systems, *forbidden* rarely meant a universal ban.
+
+Instead, restriction fell into four documented categories:
+
+1. **Absolute prohibition** — men barred entirely from handling or witnessing preparation  
+2. **Contextual prohibition** — restriction applied only during fertility, birth, or liminal rites  
+3. **Training-based restriction** — limited to initiated specialists  
+4. **Reproductive authority restriction** — men excluded from administering herbs affecting pregnancy or menstruation  
+
+This article uses *forbidden* in its historically accurate sense:  
+**restricted by law, ritual, or survival necessity — not modern ideology.**
+
+---
 
 ## Herbs Historically Limited for Men
 
-### 1. Menstrual & Birth Plants (Unnamed, Protected Class)
-**Reason Forbidden:** Male presence believed to halt efficacy.  
+### 1. Menstrual & Birth Plants (Protected Midwifery Class)
+
+**Commonly included herbs:**
+- Pennyroyal (*Mentha pulegium*)
+- Tansy (*Tanacetum vulgare*)
+- Blue Cohosh (*Caulophyllum thalictroides*)
+- Savin Juniper (*Juniperus sabina*, historically documented abortifacient)
+
+**Reason Forbidden:** Male presence was recorded in folklore as disrupting ritual efficacy.  
 **Evidence & Tradition:**  
 
 Across Europe, Japan, parts of Africa, and Indigenous North America, **men were forbidden to touch, prepare, or even witness the preparation** of herbs used for:
@@ -132,7 +161,7 @@ In multiple European folk systems, **men were restricted from harvesting Artemis
 In certain nations Indigenous North American traditions:
 - women controlled seed medicine  
 - men were forbidden from touching fertility roots  
-- violation was believed to cause crop failure or miscarriage  
+- folklore records describe violations as associated with crop failure or miscarriage
 
 These rules were **enforced by elders**, not optional customs.
 
@@ -281,6 +310,10 @@ Purpose-specific restriction tied to reproductive power.
 
 ## Male-Specific Cautious Herbs: Cross-Cultural Table
 
+Not all restrictions were absolute.  
+This table reflects **conditional male use under ritual or training limits**.
+
+
 | Herb | Region / Culture | Ritual or Life Context | Folklore / Story | Safety / Reproductive Notes |
 |------|----------------|----------------------|-----------------|----------------------------|
 | **Belladonna / Deadly Nightshade (Atropa belladonna)** | Europe (Germany, Italy, Bukovina) | Vision work, flying ointments | Warned in 17th c. manuals; young apprentices cautioned not to weaken life-force | Toxic; ingestion could be fatal; ritual use only |
@@ -367,6 +400,14 @@ No. Exceptions existed, but violations often reinforced cautionary tales.
 
 **Why doesn’t modern witchcraft teach this?**  
 Because nuance doesn’t sell.
+
+---
+
+> **Historical Context Notice**
+>  
+> This article documents historical and ethnobotanical practices.  
+> It does not recommend use, dosage, or experimentation with any plant listed.  
+> Many herbs discussed are toxic or lethal.
 
 ---
 
