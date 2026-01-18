@@ -28,12 +28,6 @@ faq_schema:
     - question: "Which herbs were cautioned for men?"
     - answer: "Notable examples include belladonna, wolfsbane (Aconitum), strong bitters, datura, and psychoactive vision plants. Use was often guided by apprenticeship or ritual knowledge."
 
-> **Historical Context Notice**
->  
-> This article documents historical and ethnobotanical practices.  
-> It does not recommend use, dosage, or experimentation with any plant listed.  
-> Many herbs discussed are toxic or lethal.
-
 ---
 
 
