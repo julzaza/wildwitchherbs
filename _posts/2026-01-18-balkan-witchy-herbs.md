@@ -260,7 +260,7 @@ Breaking these rules was believed to weaken the herb or bring misfortune.
 
 Balkan witchy herbs are inseparable from:
 - Local ecology  
-- Christian and pre-Christian layers  
+- Christian and **[pre-Christian layers](/pre-christian-europe/)**  
 - Survival-based medicine  
 - Community memory  
 
