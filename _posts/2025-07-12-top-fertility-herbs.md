@@ -98,7 +98,9 @@ Not to be confused with yams from the grocery store, wild yam supports progester
 
 ---
 
-Ever tried the  [Menstrual Blood Offering - Fertility Magic?](/fertility-rituals-menstrual-magic/) This post explains how to do it correctly, in sync with the White and Red Moon cycles.
+Some fertility traditions went further, linking conception to blood, cycle timing, and ritual preparation — explored in **[Menstrual Blood Fertility Rites](/fertility-rituals-menstrual-magic/)** tied to White and Red Moon cycles.
+
+---
 
 ## Final Thoughts
 
