@@ -72,6 +72,8 @@ In **[Vlach Practice](/vlach-magic-negotin-serbia/)**, basil washed in spring wa
 
 Basil gathered before sunrise was believed to “hear better” — a belief recorded in multiple Serbian ethnographic collections.
 
+See what other **[Herbal Companions Vlach Wise Women Turned To](/herbs-vlach-wise-women/)**.
+
 ---
 
 ### Wormwood (Pelin, Artemisia absinthium)
