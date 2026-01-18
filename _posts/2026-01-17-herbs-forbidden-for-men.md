@@ -78,13 +78,13 @@ Most modern “forbidden herb” articles:
 
 Traditional systems preserved **who may touch, when, and why**.
 
-Traditional systems were **precise, not moralistic**.
+These practices were **precise, not moralistic**.
 
 That knowledge once prevented harm.
 
 ---
 
-## Herbs Historically Forbidden to Men
+## Herbs Historically Limited for Men
 
 ### 1. Menstrual & Birth Plants (Unnamed, Protected Class)
 **Reason Forbidden:** Male presence believed to halt efficacy.  
@@ -121,34 +121,20 @@ Mugwort, wormwood, and related Artemisia species were:
 - employed in female initiation rites  
 - guarded by older women  
 
-In multiple European folk systems, **men were forbidden to harvest Artemisia during certain lunar phases**, especially when intended for women’s medicine.
+In multiple European folk systems, **men were restricted from harvesting Artemisia** intended for women’s medicine.
 
 ---
 
-### 4. Rice & Blood-Linked Plants (Japan)
-**Reason Forbidden:** Pollution of female transformation rites.  
-**Evidence & Ethnography:**  
-
-Margaret Lock documents that in Japan:
-- menopausal and menstrual rites involved plant medicines  
-- male handling was restricted  
-- male presence disrupted transformation  
-
-Menopause was understood as **a powerful, dangerous threshold**, not decline — and men were kept away from its medicines.
-
----
-
-### 5. Sacred Seed & Root Medicines (Indigenous Traditions)
+### 4. Sacred Seed & Root Medicines (Indigenous Traditions)
 **Reason Forbidden:** Land-fertility alignment.  
 **Evidence & Tradition:**  
 
-In various Indigenous North American traditions:
+In certain nations Indigenous North American traditions:
 - women controlled seed medicine  
 - men were forbidden from touching fertility roots  
 - violation was believed to cause crop failure or miscarriage  
 
 These rules were **enforced by elders**, not optional customs.
-
 
 ---
 
@@ -293,7 +279,7 @@ Purpose-specific restriction tied to reproductive power.
 
 ---
 
-## Forbidden or Cautious Herbs: Cross-Cultural Table
+## Male-Specific Cautious Herbs: Cross-Cultural Table
 
 | Herb | Region / Culture | Ritual or Life Context | Folklore / Story | Safety / Reproductive Notes |
 |------|----------------|----------------------|-----------------|----------------------------|
@@ -335,38 +321,6 @@ In many cultures, men were **forbidden from harvesting, preparing, or consuming*
 
 ---
 
-## European Witchcraft & Midwifery
-
-- **Rue (*Ruta graveolens*)**: Carried in pouches or worn after childbirth.  
-  In Italy and the Balkans, men were warned not to handle rue — it was said to **protect women from the evil eye** and to enhance reproductive health. Historical midwives noted that if a man touched the plant, the protective power might “rebound” on him, causing weakness or misfortune. (Hutton, *The Witch*)
-
-- **Mugwort (*Artemisia vulgaris*)**: Used for menstrual regulation, protection during childbirth, and lucid dreaming.  
-  In central Europe, women cultivated mugwort in secret, sometimes hiding it from male family members, believing **men could nullify its protective effect** or even experience spiritual affliction if they handled it. (Pócs, *Fairies and Witches at the Boundary of South-Eastern Europe*)
-
-- **Lady’s Mantle (*Alchemilla vulgaris*)**: Associated with blood protection and menstrual health.  
-  German midwives carried it in charms; men were instructed not to touch it. Folklore held that its magical potency **was tied to the menstruating female body**, and male handling could lead to loss of power or fertility interference.
-
----
-
-## Asian Traditions
-
-- **Shatavari (*Asparagus racemosus*)**: In Ayurveda, a tonic for female reproductive health.  
-  Women took Shatavari during fertility preparation, menstruation, and perimenopause. Some texts suggest that **its effects were believed to be specifically “female”**, and men’s consumption was discouraged to preserve the herb’s intended spiritual alignment. (Wujastyk, *The Roots of Ayurveda*)
-
-- **Dong Quai (*Angelica sinensis*)**: In traditional Chinese medicine, reserved for menstrual support, blood tonics, and perimenopausal care.  
-  Men were rarely prescribed Dong Quai except in rare tonic contexts, and folklore warned that casual male use could provoke **heat imbalances or spiritual discord**. (Unschuld, *Medicine in China*)
-
----
-
-## Indigenous & African Practices
-
-- **Silphium / Asafoetida analogues**: Certain fertility herbs in North Africa and the Middle East were culturally gendered. Women used them in **ritual baths, menstrual care, and fertility rites**, and men were barred from handling them, for fear of spiritual contamination.  
-
-- **Yemeni and West African herbal traditions**: Menstruating women’s plants — like hibiscus, roselle, or African basil — were **connected to ancestral spirits and female vitality**, and men were discouraged from using them outside ritual contexts to avoid disrupting the spiritual balance.  
-
-
----
-
 ## True Stories
 
 - In 17th-century Bavaria, a man collected mugwort from a midwife’s garden. According to court records, he suffered **a sudden illness** attributed to breaking the taboo, reinforcing the gendered lore. (Hutton, *The Witch*)  
@@ -374,20 +328,6 @@ In many cultures, men were **forbidden from harvesting, preparing, or consuming*
 - In Balkan folklore, women hid rue and lady’s mantle during village fairs, fearing men might **use them for love charms** that would invert the women’s own protection. (Pócs)  
 
 - In Edo Japan, certain herbs used for menstrual and fertility care were **restricted to women during ritual baths**, believed to channel ancestral female spirits. Men’s interference could **anger household kami**, according to regional records. (Lock, *Encounters with Aging*)
-
----
-
-## Herbs Often Reserved for Women (Global Overview)
-
-| Herb                    | Region / Tradition                   | Female Role / Folklore                                         |
-|-------------------------|-------------------------------------|----------------------------------------------------------------|
-| Rue (*Ruta graveolens*) | Mediterranean, Balkans               | Childbirth, menstrual protection, wards off spirits           |
-| Mugwort (*Artemisia vulgaris*) | Europe, Balkans                 | Menstrual regulation, dreamwork, spiritual defense            |
-| Lady’s Mantle (*Alchemilla vulgaris*) | Europe, Balkans, Germany   | Blood protection, menstrual charm, fertility support          |
-| Shatavari (*Asparagus racemosus*) | India, Ayurveda               | Fertility, perimenopause, blood nourishment                   |
-| Dong Quai (*Angelica sinensis*) | China, TCM                      | Blood tonic, reproductive support                              |
-| Hibiscus / Roselle        | Africa, Middle East                 | Menstrual baths, fertility rites                                |
-| African Basil             | West Africa                          | Ancestral protection, female vitality                           |
 
 ---
 
