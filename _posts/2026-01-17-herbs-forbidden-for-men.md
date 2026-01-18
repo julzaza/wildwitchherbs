@@ -68,6 +68,24 @@ They were restricted because:
 This is not ideology.  
 It is **risk management**.
 
+Throughout this article, *forbidden* is used in its historical sense: restricted by custom, ritual law, or survival practice — not criminalized or universally banned.
+
+---
+
+## What “Forbidden” Meant in Traditional Contexts
+
+In historical herbal systems, *forbidden* rarely meant a universal ban.
+
+Instead, restriction fell into four documented categories:
+
+1. **Absolute prohibition** — men barred entirely from handling or witnessing preparation  
+2. **Contextual prohibition** — restriction applied only during fertility, birth, or liminal rites  
+3. **Training-based restriction** — limited to initiated specialists  
+4. **Reproductive authority restriction** — men excluded from administering herbs affecting pregnancy or menstruation  
+
+This article uses *forbidden* in its historically accurate sense:  
+**restricted by law, ritual, or survival necessity — not modern ideology.**
+
 ---
 
 ## Why Modern Herbalism Gets This Wrong
@@ -82,21 +100,6 @@ Traditional systems preserved **who may touch, when, and why**.
 These practices were **precise, not moralistic**.
 
 That knowledge once prevented harm.
-
----
-## What “Forbidden” Meant in Traditional Contexts
-
-In historical herbal systems, *forbidden* rarely meant a universal ban.
-
-Instead, restriction fell into four documented categories:
-
-1. **Absolute prohibition** — men barred entirely from handling or witnessing preparation  
-2. **Contextual prohibition** — restriction applied only during fertility, birth, or liminal rites  
-3. **Training-based restriction** — limited to initiated specialists  
-4. **Reproductive authority restriction** — men excluded from administering herbs affecting pregnancy or menstruation  
-
-This article uses *forbidden* in its historically accurate sense:  
-**restricted by law, ritual, or survival necessity — not modern ideology.**
 
 ---
 
