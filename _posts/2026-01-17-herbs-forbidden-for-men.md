@@ -360,6 +360,19 @@ Restrictions were enforced through ritual law, apprenticeship, and social conseq
 
 ---
 
+## Related Herbal Categories Worth Understanding
+
+Readers interested in restricted herbs often explore related traditional classifications:
+
+- **Abortifacient herbs** — plants historically used to terminate pregnancy  
+- **Vision plants** — herbs used for trance, prophecy, or spirit travel  
+- **Midwifery plants** — herbs guarded by birth specialists  
+- **Poison-path herbs** — medicinal plants with lethal dosage thresholds  
+
+Understanding these categories explains *why* restrictions existed — not just *that* they did.
+
+---
+
 ## Practical Takeaways
 
 - Historical “forbidden” herbs were often **tools of power**, not universal bans.  
