@@ -150,6 +150,8 @@ Mugwort, wormwood, and related Artemisia species were:
 
 In multiple European folk systems, **men were restricted from harvesting Artemisia** intended for women’s medicine.
 
+Artemisia plants carried layered restrictions: while men used wormwood for protection and warfare, women’s reproductive and lunar uses followed separate rules, especially in Balkan and Southern European traditions documented in historical **[Artemisia Rites](wormwood-witchcraft-war)**.
+
 ---
 
 ### 4. Sacred Seed & Root Medicines (Indigenous Traditions)
