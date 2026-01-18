@@ -170,7 +170,11 @@ These were often **secondary plants**, supporting larger rites.
 
 ## Love, Fertility & Courtship in Spring Folk Magic
 
-Contrary to modern “love spell” culture, Balkan love magic was cautious.
+Spring herbs were intertwined with fertility preparation and socially approved courtship practices:
+
+- Herbs like basil, wild rose, and violet prepared young women for visibility and attraction  
+- Some were part of rituals documented in **[Balkan Courtship & Love Rites](/balkan-courtship-love-rites)**  
+- Practices were **low-risk**, socially sanctioned, and culturally meaningful
 
 Spring rites focused on:
 - Attracting a *good* partner  
@@ -180,6 +184,8 @@ Spring rites focused on:
 Love herbs were often combined with **silence**, fasting, and timing — not spoken spells.
 
 In many regions, young women gathered herbs before dawn on spring feast days, washed their faces, and poured the water at crossroads — symbolically releasing loneliness.
+
+For those interested in how desire, survival and witchcraft intertwined, see **[Balkan Love Magic: What Was Done and Why It Was Feared](/balkan-love-magic-folklore/)]**.
 
 ---
 
