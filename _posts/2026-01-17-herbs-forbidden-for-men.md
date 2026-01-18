@@ -86,23 +86,6 @@ In many traditional systems:
 
 These were **explicit rules**, not metaphors.
 
-
-## Why These Herbs Were Forbidden to Men
-
-Because men symbolized:
-- outward force  
-- heat  
-- projection  
-- interruption  
-
-While these herbs required:
-- inward movement  
-- containment  
-- blood timing  
-- cyclical quiet  
-
-The conflict was **energetic and practical**, not ideological.
-
 ---
 
 ## What Modern Herbalism Lost
