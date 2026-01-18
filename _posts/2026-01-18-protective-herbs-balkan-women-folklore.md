@@ -26,7 +26,7 @@ faq_schema: |
       answer: "No. This content documents historical and folkloric practices, not medical recommendations."
 ---
 
-> ⚠️ Note: This post documents historical Balkan folklore. It is not a recommendation for use. Some herbs may be toxic if misused.
+*Note: This post documents historical Balkan folklore. It is not a recommendation for use. Some herbs may be toxic if misused.*
 
 ## When Strength Became a Liability
 
