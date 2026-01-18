@@ -88,7 +88,7 @@ It was used for:
 
 In Eastern Serbia and parts of Romania, wormwood was gathered **before sunrise**, often barefoot, and never casually brought into the home after dark.
 
-Its role in war, death, and ritual is explored further in *Wormwood in Witchcraft & War*.
+Its role in war, death, and ritual is explored further in **[Wormwood in Witchcraft & War](/wormwood-witchcraft-war/)**.
 
 ---
 
