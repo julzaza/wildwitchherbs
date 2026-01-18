@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Forbidden Herbs for Women: Folklore, Midwifery, and Ritual Boundaries"
+title: "Herbs Forbidden for Women: Folklore, Midwifery and Rituals"
 excerpt: "Across history, certain herbs were forbidden to women due to reproductive danger, ritual vulnerability, and spiritual boundary laws. These were not moral rules — they were survival knowledge."
 description: "A deep, fact-based exploration of herbs historically forbidden or restricted to women in folk medicine and witchcraft, drawing from European midwifery, ritual folklore, and cross-cultural traditions."
 author: wildwitchyherbs
