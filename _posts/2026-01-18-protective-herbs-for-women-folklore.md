@@ -5,8 +5,7 @@ excerpt: "Across traditional cultures, women relied on protective plants not for
 description: "A historically grounded exploration of protective herbs used by women across Balkan, European, Middle Eastern, African, and Indigenous traditions—focusing on spiritual protection, boundary maintenance, and resilience during periods of heavy responsibility."
 categories:
   - herbal-magic
-  - folklore
-  - witchcraft-rituals
+  - folklore-ancestral
 tags:
   - protective herbs
   - women folklore
