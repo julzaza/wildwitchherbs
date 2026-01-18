@@ -92,7 +92,7 @@ Unlike later summer harvests, **spring pelin** was believed to hold sharper bitt
 
 Spring nettle was eaten, worn, and sometimes struck lightly against the skin. This was not symbolic pain — it was believed to **wake the blood** after winter stagnation.
 
-Women used nettle to restore menstruation, strength, and fertility. It appears repeatedly in Pelagić’s *Narodni Učitelj* as a spring purifier.
+Women used nettle to restore menstruation, strength, and fertility. It appears repeatedly in **[Pelagić’s *Narodni Učitelj*](/pelagicev-narodni-ucitelj-balkan-remedies/)** as a spring purifier.
 
 ---
 
