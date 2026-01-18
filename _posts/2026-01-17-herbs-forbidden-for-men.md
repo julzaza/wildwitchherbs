@@ -113,7 +113,7 @@ That knowledge once prevented harm.
 - Blue Cohosh (*Caulophyllum thalictroides*)
 - Savin Juniper (*Juniperus sabina*, historically documented abortifacient)
 
-**Reason Forbidden:** Male presence was recorded in folklore as disrupting ritual efficacy.  
+**Reason Restricted:** Male presence was recorded in folklore and ritual law as disrupting ritual efficacy or violating reproductive authority.
 **Evidence & Tradition:**  
 
 Across Europe, Japan, parts of Africa, and Indigenous North America, **men were forbidden to touch, prepare, or even witness the preparation** of herbs used for:
