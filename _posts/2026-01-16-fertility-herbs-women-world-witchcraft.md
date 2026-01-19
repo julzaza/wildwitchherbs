@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Global Fertility Herbs for Women: Cross-Cultural Plant Lore"
+title: "Fertility Herbs for Women: Cross-Cultural Lore"
 excerpt: "Across continents, women have turned to plants to bless conception, prepare the womb, and restore balance. This guide explores fertility herbs for women through global folklore, ritual, and ancestral plant wisdom."
 description: "A cross-cultural exploration of fertility herbs for women, drawing from African, Middle Eastern, Asian, Oceanic, American, and Old European folk traditions, ritual uses, and ancestral plant lore."
 categories:
