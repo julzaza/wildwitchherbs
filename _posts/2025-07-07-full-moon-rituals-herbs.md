@@ -98,6 +98,8 @@ Before burning, check **[Herbs You Should Never Burn in Ritual (And What to Use 
 
 White sage, for example, has become overharvested as it trends across social media. If you want to practice ethically, choose a substitute herb and reserve white sage for the Indigenous communities that hold it sacred.
 
+For a deeper understanding of smudging traditions versus general smoke cleansing, check out **[Smudging vs Smoke Cleansing](/smoke-cleansing-vs-smudging/)**.
+
 ---
 
 ### Bay Laurel (Laurus nobilis): Leaves of Vision and Fire
