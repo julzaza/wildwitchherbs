@@ -49,20 +49,24 @@ schema:
 
 Let’s get real: witchy herbalism isn’t about pretty flowers or vague “energy.” It’s about **using plants with real power**—plants that have been tested by time, ritual, and sometimes blood. If you want magic, healing, and connection, you start with understanding the herbs that hold the fire.
 
+---
+
 ### Why Witchy Herbalism Matters
 
 Herbs are tools. Like knives or fire. They can heal or hurt. They carry specific properties, histories, and uses that go beyond fairy tales. Learning about them means respecting their power—and knowing how to work with them safely and effectively.
 
+---
+
 ### Meet the Heavy Hitters
 
-- **Wormwood (Artemisia)**: Bitter, bold, for protection, banishing, and opening the mind to the unseen. Used historically in Balkan and European folk magic.  
-- **Mugwort**: Dreamwork and psychic clarity; worn, burned, or infused for protection in Slavic and European traditions.  
-- **Sage**: Space-cleansing and ritual purification across European, Native American, and Mediterranean practices.  
-- **Chamomile**: Subtle magic for peace, calm, and luck; included in European domestic folk charms.  
-- **Lavender**: Protection, love, and calm; widespread in Mediterranean and European magical tradition.  
-- **Yarrow**: Healing wounds, protective magic, and divination; valued since antiquity in folk medicine and battle magic.  
-- **Rosemary**: Memory, intuition, protection; burned or hung for household protection in European traditions.  
-- **Calendula**: Healing, positivity, and solar magic; used in domestic and ritual settings throughout Europe.
+- **Wormwood (Artemisia)**: This bitter, bold herb isn’t for casual dabblers. Used for protection, banishing, and opening your mind to the unseen, wormwood has a reputation for both healing and harsh truths. It’s often misunderstood but fiercely effective if you respect its strength.  
+- **Mugwort**: The go-to for dream work and psychic clarity. Don’t underestimate this wild herb—it’s sharp, it’s potent, and it’s been used for centuries to guard witches and shamans alike.  
+- **Sage**: The classic cleanser. Used to clear space and mind. It’s blunt, effective, and absolutely necessary when you want to start fresh.  
+- **Chamomile**: Not just a calming tea. It’s subtle magic for peace, calming anxiety, and sometimes coaxing in good luck.  
+- **Lavender**: More than a pretty scent, lavender soothes nerves, invites calm, and is a staple for protection and love spells.  
+- **Yarrow**: A fierce warrior herb used for healing wounds, protection, and strengthening spells. It’s tough, sharp, and packed with power.  
+- **Rosemary**: The herbal watchdog. Protects homes and spirits alike, boosts memory, and sharpens intuition.  
+- **Calendula**: Bright and bold, calendula is used for healing, attracting positivity, and enhancing solar (sun) magic.
 
 ---
 
@@ -82,6 +86,8 @@ Learning [How to Make Moon Water and Use It in Magic](/moon-water-magic) is a gr
 
 You can also [Start Your Own Witchy Garden](/witch-garden/) if getting your hands dirty doesn't scare you.  
 
+---
+
 ### The Bottom Line
 
 These are plants that have shaped witchcraft and folk medicine for centuries. They demand respect, curiosity, and a willingness to learn the hard way sometimes.  
@@ -96,7 +102,6 @@ Dive deeper into **herbal magic, ritual work, and folk traditions**:
 
 - Learn **[How To Use Herbs for Smoke Cleansing in Folk Magic](/smoke-cleansing-folk-magic/)** and protect your space effectively.  
 - Discover the **[Difference Between Smoke Cleansing and Smudging](/smoke-cleansing-vs-smudging/)** to choose the right ritual for your intention.  
-- Explore the **[Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)** for foundational magical herbs.  
 - Understand **[Full Moon Rituals with Sacred Herbs](/full-moon-rituals/)** to harness lunar energy with protective and dream herbs.
 
 ---
@@ -119,58 +124,3 @@ Dive deeper into **herbal magic, ritual work, and folk traditions**:
 **A:** Most herbs can be grown in pots or gardens. Toxic plants (e.g., Belladonna) should not be cultivated casually.
 
 ---
-
-
-
-
-
-
-
----
-title: "Witchy Herbalism 101: Real Plants, Real Magic, No B.S."
-date: 2025-07-01
-categories: herbs, witchcraft, magic
-tags: [witchy herbs, herbal magic, witchcraft basics, rituals, artemisia]
-permalink: /witchy-herbalism-101/
-
----
-
-Let’s get real: witchy herbalism isn’t about pretty flowers or vague “energy.” It’s about **using plants with real power**—plants that have been tested by time, ritual, and sometimes blood. If you want magic, healing, and connection, you start with understanding the herbs that hold the fire.
-
-### Why Witchy Herbalism Matters
-
-Herbs are tools. Like knives or fire. They can heal or hurt. They carry specific properties, histories, and uses that go beyond fairy tales. Learning about them means respecting their power—and knowing how to work with them safely and effectively.
-
-### Meet the Heavy Hitters
-
-- **Wormwood (Artemisia)**: This bitter, bold herb isn’t for casual dabblers. Used for protection, banishing, and opening your mind to the unseen, wormwood has a reputation for both healing and harsh truths. It’s often misunderstood but fiercely effective if you respect its strength.  
-- **Mugwort**: The go-to for dream work and psychic clarity. Don’t underestimate this wild herb—it’s sharp, it’s potent, and it’s been used for centuries to guard witches and shamans alike.  
-- **Sage**: The classic cleanser. Used to clear space and mind. It’s blunt, effective, and absolutely necessary when you want to start fresh.  
-- **Chamomile**: Not just a calming tea. It’s subtle magic for peace, calming anxiety, and sometimes coaxing in good luck.  
-- **Lavender**: More than a pretty scent, lavender soothes nerves, invites calm, and is a staple for protection and love spells.  
-- **Yarrow**: A fierce warrior herb used for healing wounds, protection, and strengthening spells. It’s tough, sharp, and packed with power.  
-- **Rosemary**: The herbal watchdog. Protects homes and spirits alike, boosts memory, and sharpens intuition.  
-- **Calendula**: Bright and bold, calendula is used for healing, attracting positivity, and enhancing solar (sun) magic.
-
-### How to Start Without Getting Overwhelmed
-
-Pick one herb. Learn it. Work with it. Make tea, burn it, carry it. Pay attention to what happens—physically, emotionally, spiritually. Don’t rush. Witchy herbalism is a **practice**, not a magic trick.
-
-Keep a journal. Write what you feel. Be honest. Magic is messy and personal.
-
-Learning [How to Make Moon Water and Use It in Magic](/moon-water-magic) is a great way to begin your witchy journey. 
-
-You can also [Start Your Own Witchy Garden](/witch-garden/) if getting your hands dirty doesn't scare you. 
-
-### The Bottom Line
-
-These are plants that have shaped witchcraft and folk medicine for centuries. They demand respect, curiosity, and a willingness to learn the hard way sometimes.
-
-If you want magic, start with one or a few of these herbs, they are truly powerful.
-
----
-## Related Posts
-
-- [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
-- [Why Balkan Whitches Survived](/balkan-witches/)
-- [Full Moon Rituals With Sacred Herbs ](/full-moon-rituals/)
