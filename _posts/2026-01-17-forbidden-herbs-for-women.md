@@ -54,6 +54,8 @@ They were **protective limits** — sometimes cautious, sometimes fear-based, al
 
 These restrictions shifted depending on age, fertility status, and transitional moments — a structure explored in **[Women’s Herbal Life Stages In Folk Medicine](/womens-herbs-life-stages-folk-medicine/)**.
 
+Herbal restriction was not exclusive to women; similar role-based prohibitions applied elsewhere, including documented cases of **[Herbs Forbidden For Men](/forbidden-herbs-for-men)**.
+
 ---
 
 ## Why Some Herbs Were Forbidden to Women
@@ -150,6 +152,8 @@ Rue is protective — and dangerous.
 
 **Why restricted:**  
 Overuse was believed to cause barrenness or uterine pain. Folk logic treated rue as a blade: effective, but harmful if mishandled.
+
+In the Balkans, Rue reappears in love binding witchcraft, as recorded in **[Balkan Love Magic Folklore](/balkan-love-magic-folklore/)**.
 
 ---
 
