@@ -7,10 +7,6 @@ permalink: /witchy-herbalism-101/
 excerpt: "Discover the core herbs every modern witch should know. From wormwood and mugwort to sage and calendula, learn real-world uses rooted in folklore, protection, and ritual magic."
 description: "A practical guide to witchy herbalism: real plants, historical uses, protective magic, and ritual work. Learn the herbs that witches actually used and how to start your practice safely."
 author: Wild Witch Herbs
-image: /assets/images/witchy-herbalism-101.jpg
-header:
-  image: /assets/images/witchy-herbs-flat-lay.jpg
-  overlay_filter: 0.4
 schema:
   "@context": "https://schema.org"
   "@type": "Article"
