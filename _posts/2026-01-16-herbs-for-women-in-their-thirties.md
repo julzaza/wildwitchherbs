@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Herbs for Women in Their 30s: Strength, Hormones & Cycle Support"
+title: "Herbs for Women in Their 30s: Strength & Hormones"
 excerpt: "In traditional cultures, a woman’s thirties marked her strongest years. These herbs supported endurance, blood, cycles, and long-term vitality across global folk traditions."
 description: "A folklore-grounded exploration of herbs traditionally used to support women in their 30s—focusing on strength, cycle integrity, endurance, and sustained vitality across European, Balkan, Asian, African, and Indigenous traditions."
 categories:
