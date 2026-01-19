@@ -42,6 +42,8 @@ Create a jar with herbs, salt, water, and intentions. Seal under the full moon. 
 
 Charge with candlelight and moonlight overnight. Store on your altar or bury at the waning moon to seal the spell.
 
+Learn how to [**Make Moon Water**](/moon-water-magic/) even outside a full moon, and discover its ritual uses.
+
 ---
 
 ## Sacred Herbs for Full Moon Rituals
@@ -79,8 +81,6 @@ Wormwood clears interference—illness, spirits, and grief.
 Bundle dried wormwood and hang over your door on the full moon. Speak: “Nothing crosses but what is true. Nothing enters but what is mine.” Burn the bundle outside at the cycle’s end.
 
 **Folklore:** In Montenegro, wormwood tea was poured around homes to block spirits; in Albania, packed into graves to protect the living.
-
-**Related:** [**Wormwood in Witchcraft & War**](/wormwood-witchcraft-war)
 
 ---
 
