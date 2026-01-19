@@ -92,6 +92,8 @@ Plants associated with this included:
 
 These herbs appear in midwives’ teas, postpartum baths, and long-term women’s tonics. They were used to **steady**, not override, the reproductive system.
 
+Balkan women would steep Red Raspberry leaves during early spring, carrying the infusion to fields to ensure strength and ancestral favor.
+
 Some plants highlighted here — such as yarrow — are covered in broader healing context in **[Witchy Herbs for Healing: Ancient Plant Magic for Body and Spirit](/witchy-herbs-for-healing/)**.
 
 ---
