@@ -19,7 +19,7 @@ title                    : "Wild Witch Herbs"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Wild Child"
-description              : "Witchy herbal lore, Artemisia Annua magic and wildcrafting wisdom."
+description              : "Witchy herbal lore, ancestral magic and wisdom."
 url                      : https://wildwitchherbs.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 future: true
@@ -104,7 +104,7 @@ analytics:
 
 
 author:
-  name: "Electric Witch"
+  name: "Wild Witch Herbs"
   email: hello@wildwitchherbs.com
 
 
