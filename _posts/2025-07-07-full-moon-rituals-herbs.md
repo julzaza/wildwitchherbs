@@ -88,11 +88,15 @@ Bundle dried wormwood and hang over your door on the full moon. Speak: “Nothin
 
 White sage roots in **Indigenous American rituals**—for purification, gratitude, and spiritual alignment.
 
+**Folklore:** Full moons were times for storytelling and passage rituals in Californian tribes.
+
 #### Ritual: Ethical Alternatives and Ancestral Cleansing
 
-Use rosemary or juniper if white sage is unavailable. Light the bundle, waft smoke, and call on ancestors. Let it guide between worlds.
+Use rosemary or juniper if available. Light the bundle, waft smoke, and call on ancestors. Let it guide between worlds.
 
-**Folklore:** Full moons were times for storytelling and passage rituals in Californian tribes.
+Before burning, check **[Herbs You Should Never Burn in Ritual (And What to Use Instead)](herbs-never-burn)** for safer alternatives. 
+
+White sage, for example, has become overharvested as it trends across social media. If you want to practice ethically, choose a substitute herb and reserve white sage for the Indigenous communities that hold it sacred.
 
 ---
 
