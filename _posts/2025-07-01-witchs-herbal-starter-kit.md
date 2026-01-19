@@ -156,7 +156,8 @@ And always — always — show respect.
 Deepen your knowledge of protective and ritual herbs with these guides:  
 
 - Learn **[How to Use Herbs for Smoke Cleansing in Folk Magic](/smoke-cleansing-folk-magic/)** to purify spaces and banish stagnant energy.  
-- Discover the **[Difference Between Smoke Cleansing and Smudging](/smoke-cleansing-vs-smudging/)** and how each method affects intention and ritual energy.
+- Understand the **[Difference Between Smoke Cleansing and Smudging](/smoke-cleansing-vs-smudging/)** and how each method affects intention and ritual energy.
+- Learn which **[Herbs You Should Never Burn In Ritual](/never-burn-herbs/)** to avoid doing harm to yourself and others.
 
 ---
 
