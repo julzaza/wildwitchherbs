@@ -157,6 +157,8 @@ Burn dried African blue basil. Place water with your family name whispered in it
 - Dry or store herbs in **glass or cloth**, away from sun.  
 - Label herbs with the moon phase for maximum potency.
 
+For more on working with phases in planting and harvesting, see **[Lunar Gardening: How Real Witches Plant with the Moon](/lunar-gardening-folklore/)**.
+
 ---
 
 ## Final Words
