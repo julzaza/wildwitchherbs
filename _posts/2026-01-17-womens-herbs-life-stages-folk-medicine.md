@@ -44,6 +44,8 @@ This framework appears independently in:
 The language differs.  
 The structure is the same.
 
+These frameworks were recorded by ethnographers, physicians, and folklorists precisely because they were consistent across generations, not because they were symbolic inventions.
+
 ---
 
 ## The Maiden Years: Blood Awakening & Boundary Formation
