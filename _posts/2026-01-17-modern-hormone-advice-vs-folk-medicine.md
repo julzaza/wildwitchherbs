@@ -35,6 +35,8 @@ Folk medicine did not seek hormonal sameness.
 It expected fluctuation.  
 It anticipated **cycles, thresholds, and transitions** as essential parts of a woman’s life.
 
+This approach only makes sense when women are understood as moving through distinct physiological and social phases — a worldview documented across cultures in **[Women’s Herbal Life Stages in Folk Medicine](/womens-herbs-life-stages-folk-medicine/)**.
+
 ---
 
 ## Folk Medicine Treated Change as Inevitable
@@ -63,6 +65,8 @@ Folk medicine saw these as **messages**, not malfunctions. They informed timing,
 Modern systems aim for balance.  
 Folk systems prioritized **right action at the right time**.
 
+In traditional systems, even fertility support was temporary and conditional, not continuous — a pattern visible in documented **[Fertility Herbs for Women](/fertility-herbs-women-world-witchcraft/)** used only at specific moments rather than as permanent hormonal interventions.
+ 
 A herb used too early could harm; too late, it might be useless.  
 Even diet and daily practices were adjusted to life stage, season, and circumstance.
 
@@ -80,6 +84,8 @@ Folk medicine restricted bitters:
 - emphasized post-menopause  
 
 **Timing mattered more than dosage**. Herbs were part of a larger system: spiritual, social, and physiological.
+
+This same logic of restriction applied across gender and role, where certain plants were deliberately limited or prohibited — a pattern explored in **[Herbs Forbidden for Women in Traditional Medicine & Folklore](/forbidden-herbs-for-women/)**.
 
 ---
 
