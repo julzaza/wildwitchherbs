@@ -65,6 +65,8 @@ They were restricted because:
 - toxicity required discipline
 - ritual imbalance was feared more than ignorance
 
+In fact, traditional systems often distinguished between restricted plants and those explicitly formulated for male vitality and lineage continuity, as seen in **[Old World Fertility Herbs For Men](/fertility-herbs-for-men-old-world/)**.
+
 This is not ideology.  
 It is **risk management**.
 
@@ -115,7 +117,10 @@ That knowledge once prevented harm.
 - Blue Cohosh (*Caulophyllum thalictroides*)
 - Savin Juniper (*Juniperus sabina*, historically documented abortifacient)
 
-These plants belonged to a closed system of **[Fertility And Birth Medicine](/fertility-herbs-women-world-witchcraft/)**, where knowledge was guarded, transmitted through women, and protected from misuse.
+These plants belonged to a closed system of **[Old World Fertility Herbs](/fertility-herbs-for-women-old-world/)**, where knowledge was guarded, transmitted through women, and protected from misuse.
+
+These plants belonged to a closed system of Old World fertility herbs used by women
+, where reproductive knowledge was guarded, transmitted through midwives, and protected from misuse.
 
 **Reason Restricted:** Male presence was recorded in folklore and ritual law as disrupting ritual efficacy or violating reproductive authority.
 
