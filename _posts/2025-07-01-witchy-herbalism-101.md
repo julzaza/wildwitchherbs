@@ -49,7 +49,7 @@ Let’s get real: witchy herbalism isn’t about pretty flowers or vague “ener
 
 ### Why Witchy Herbalism Matters
 
-Herbs are tools. Like knives or fire. They can heal or hurt. They carry specific properties, histories, and uses that go beyond fairy tales. Learning about them means respecting their power—and knowing how to work with them safely and effectively.
+**Herbs are tools. Like knives or fire**. They can heal or hurt. They carry specific properties, histories, and uses that go beyond fairy tales. Learning about them means respecting their power—and knowing how to work with them safely and effectively.
 
 ---
 
@@ -102,21 +102,21 @@ Dive deeper into **herbal magic, ritual work, and folk traditions**:
 
 ---
 
-## FAQ for Humans
+## FAQ
 
-**Q:** Can I experiment with these herbs?  
+**Q:** **Can I experiment with these herbs?**
 **A:** These records are educational and ritual-ethnographic, not prescriptive. Some herbs are toxic (like Wormwood or Mugwort), so only study their folklore without ingesting.  
 
-**Q:** How do I start learning witchy herbalism safely?  
+**Q:** **How do I start learning witchy herbalism safely?**  
 **A:** Begin with one herb at a time. Observe its historical uses, create protective charms, teas, or incense, and journal experiences. Respect traditional knowledge.  
 
-**Q:** Are these herbs tied to specific regions?  
+**Q:** **Are these herbs tied to specific regions?**  
 **A:** Yes. Many have roots in European, Balkan, and Mediterranean folk practices, though some (like Mugwort and Sage) appear worldwide.  
 
-**Q:** Where can I find more guidance for ritual use?  
+**Q:** **Where can I find more guidance for ritual use?**  
 **A:** Explore linked posts above for guidance: smoke cleansing, moon water, full moon rituals, and starter herbal kits.  
 
-**Q:** Can I grow these herbs at home?  
+**Q:** **Can I grow these herbs at home?**  
 **A:** Most herbs can be grown in pots or gardens. Toxic plants (e.g., Belladonna) should not be cultivated casually.
 
 ---
