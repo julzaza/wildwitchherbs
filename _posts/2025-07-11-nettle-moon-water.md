@@ -127,9 +127,3 @@ Splash the moon water across your chest, back, and crown of the head. Visualize 
 It’s a witch’s tool for those who need to stand their ground and protect their fire.
 
 ---
-
-## Related Posts
-
-- [Top 11 Protective Herbs in Witchcraft](/top-protective-herbs-witchcraft/)
-- [St. John's Wort Moon Water for Grief and Mourning](/st-johns-wort-moon-water/) 
-- [Wormwood in Witchcraft and War](/wormwood-witchcraft-war/)
