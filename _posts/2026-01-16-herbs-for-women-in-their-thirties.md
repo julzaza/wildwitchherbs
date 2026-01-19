@@ -90,6 +90,8 @@ Plants associated with this included:
 
 These herbs appear in midwives’ teas, postpartum baths, and long-term women’s tonics. They were used to **steady**, not override, the reproductive system.
 
+Some plants highlighted here — such as yarrow — are covered in broader healing context in **[Witchy Herbs for Healing: Ancient Plant Magic for Body and Spirit](/witchy-herbs-for-healing/)**.
+
 ---
 
 ### Nervous Endurance, Not Sedation
@@ -134,6 +136,8 @@ Common examples include:
   Burned as smoke to cleanse homes after illness, conflict, or death. Women often led these rites.
 
 These plants were not used continuously. They appeared **at thresholds** — after birth, during illness, after loss, or during periods of heavy responsibility.
+
+Folk traditions were careful about when and how plants were used ritually, especially around women’s health — a caution explored further in **[Herbs You Should Never Burn in Ritual (And What to Use Instead)](/herbs-never-burn)**. 
 
 ---
 
@@ -273,6 +277,8 @@ In Balkan folk culture, women’s herbal care was blunt and practical:
 - yarrow or lady’s mantle after childbirth  
 
 These were not symbolic “feminine” remedies. They were **functional plants for functional bodies**.
+
+Much of this unsentimental, strength-preserving approach can still be seen in the plant knowledge of Balkan witchcraft, documented in **[Herbs Vlach Wise Women Use: Plants of the Timok Valley](/herbs-vlach-wise-women/)**.
 
 ---
 
