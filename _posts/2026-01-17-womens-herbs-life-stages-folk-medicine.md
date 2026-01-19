@@ -63,6 +63,8 @@ This stage focused on:
 - Increased susceptibility to spirits, dreams, and emotional overwhelm
 - Strong protections, mild tonics
 
+Plants like mugwort were closely tied to dreams, first blood, and psychic sensitivity, a relationship still visible in traditional uses of mugwort for dreaming and vision explored in **[Dreamwork And Night Magic](/witchy-plants-bedroom/)**.
+
 ### Common Herbs Across Cultures
 - **Mugwort** (*Artemisia vulgaris*) — Europe, Asia  
 - **Chamomile** — Europe, Middle East  
@@ -102,8 +104,10 @@ Folk medicine prioritized **preservation**, not stimulation.
 - **Fennel** — Mediterranean, Middle East  
 - **Garlic & Juniper** — protective, not nutritive
 
-Women were not pushed to “optimize hormones.”
+Women were not pushed to “optimize hormones. 
 They were protected so they could **last**.
+
+In many traditional cultures, these fertile years were governed by strict herbal rules around conception, miscarriage, and reproductive endurance — a pattern explored in traditional **[Fertility Herbs](/fertility-herbs-women-world-witchcraft/)** used in folk medicine.
 
 ---
 
