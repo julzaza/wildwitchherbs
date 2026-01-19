@@ -103,9 +103,9 @@ Failure or escalation into coercive practices marked the transition into forbidd
 
 Courtship magic was intertwined with fertility preparation, as detailed in:
 
-- [Global Fertility Herbs for Women: Cross-Cultural Plant Lore](#)  
-- [Herbs for Women in Their 30s: Strength, Hormones & Cycle Support](#)  
-- [Women’s Herbal Life Stages in Folk Medicine](#)  
+- **[Global Fertility Herbs for Women: Cross-Cultural Plant Lore](/fertility-herbs-women-world-witchcraft/)**
+- **[Herbs for Women in Their 30s: Strength, Hormones & Cycle Support](/herbs-for-women-in-their-thirties/)**
+- **[Women’s Herbal Life Stages in Folk Medicine](/womens-herbs-life-stages-folk-medicine/)**  
 
 The goal: readiness for union, pregnancy, and social integration rather than immediate conception.
 
@@ -118,11 +118,4 @@ The goal: readiness for union, pregnancy, and social integration rather than imm
 - Romanian Folklore Archives (Wallachian seasonal rites)  
 - Balkan ethnographic field notes (19th–20th c.)
 
----
-
-## Related Reading
-
-- [Balkan Love Magic: What Was Done and Why It Was Feared](#) — the coercive, feared stream  
-- [Balkan Witchy Herbs: Plants, Legends & Folk Rituals](#) — plant lore and regional variation  
-- [Women’s Herbal Life Stages in Folk Medicine](#) — rituals, fertility, and age patterns  
 ---
