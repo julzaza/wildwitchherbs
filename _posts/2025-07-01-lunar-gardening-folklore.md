@@ -83,7 +83,9 @@ schema:
 
 Long before apps and calendars told us when to sow seeds, people watched the moon. They didn’t do it because it was mystical. They did it because it worked.
 
-**Lunar gardening is practical magic**: a way of planting that follows the moon’s pull on water, sap flow, root energy, and the subtle vitality inside herbs. If you’ve ever noticed the ocean changing shape under moonlight, imagine what it does to the tiny tides inside a leaf.
+**Lunar gardening is practical magic**: a way of planting that follows the moon’s pull on water, sap flow, root energy, and the subtle vitality inside herbs. 
+
+If you’ve ever noticed the ocean changing shape under moonlight, **imagine what it does to the tiny tides inside a leaf**.
 
 This isn’t about perfection. It’s about tuning yourself to something older than agriculture itself.
 
@@ -92,7 +94,9 @@ This isn’t about perfection. It’s about tuning yourself to something older t
 ## On Sources, Silence, and Folk Knowledge
 
 Not all lunar or ritual planting was written down, nor does absence of records indicate absence of practice.  
+
 Folk knowledge was often encoded in **rituals, metaphors, and embodied agricultural practice**.  
+
 This article **prioritizes documented patterns from folklore, ethnography, and historical accounts**, rather than speculation or modern reinterpretation.
 
 ---
