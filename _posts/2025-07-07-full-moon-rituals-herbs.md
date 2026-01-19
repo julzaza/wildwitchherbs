@@ -42,7 +42,7 @@ Create a jar with herbs, salt, water, and intentions. Seal under the full moon. 
 
 Charge with candlelight and moonlight overnight. Store on your altar or bury at the waning moon to seal the spell.
 
-Learn how to [**Make Moon Water**](/moon-water-magic/) even outside a full moon, and discover its ritual uses.
+Learn how to **[Make Moon Water](/moon-water-magic/)** even outside a full moon, and discover its ritual uses.
 
 ---
 
