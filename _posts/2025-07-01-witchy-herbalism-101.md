@@ -19,7 +19,6 @@ schema:
     "@type": "Organization"
     "name": "Wild Witch Herbs"
   "mainEntityOfPage": "{{ page.url | absolute_url }}"
-  "image": "{{ site.url }}/assets/images/witchy-herbalism-101.jpg"
   "mainEntity":
     - "@type": "Question"
       "name": "Which herbs should a beginner witch start with?"
@@ -98,7 +97,7 @@ Dive deeper into **herbal magic, ritual work, and folk traditions**:
 
 - Learn **[How To Use Herbs for Smoke Cleansing in Folk Magic](/smoke-cleansing-folk-magic/)** and protect your space effectively.  
 - Discover the **[Difference Between Smoke Cleansing and Smudging](/smoke-cleansing-vs-smudging/)** to choose the right ritual for your intention.  
-- Understand **[Full Moon Rituals with Sacred Herbs](/full-moon-rituals/)** to harness lunar energy with protective and dream herbs.
+- Understand which **[Herbs You Should Never Burn In Ritual](/never-burn-herbs/)** to avoid doing harm to yourself and others.
 
 ---
 
