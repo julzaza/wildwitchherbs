@@ -3,7 +3,7 @@ layout: single
 title: "Herbs Forbidden for Women: Folklore, Midwifery and Rituals"
 excerpt: "Across history, certain herbs were forbidden to women due to reproductive danger, ritual vulnerability, and spiritual boundary laws. These were not moral rules — they were survival knowledge."
 description: "A deep, fact-based exploration of herbs historically forbidden or restricted to women in folk medicine and witchcraft, drawing from European midwifery, ritual folklore, and cross-cultural traditions."
-author: wildwitchyherbs
+author: "Wild Witch Herbs"
 
 categories:
   - herbal-magic
@@ -51,6 +51,8 @@ Because of this, certain plants were believed to act **too directly on the womb,
 
 These were **not moral prohibitions**.  
 They were **protective limits** — sometimes cautious, sometimes fear-based, always contextual.
+
+These restrictions shifted depending on age, fertility status, and transitional moments — a structure explored in **[Women’s Herbal Life Stages In Folk Medicine](/womens-herbs-life-stages-folk-medicine/)**.
 
 ---
 
