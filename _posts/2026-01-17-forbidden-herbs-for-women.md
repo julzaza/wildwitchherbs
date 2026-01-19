@@ -101,6 +101,8 @@ Henbane was feared, not casually avoided.
 Henbane was believed to rupture the boundary between womb and soul, leaving women vulnerable to possession, miscarriage, or permanent mental disturbance.  
 Pregnant and menstruating women were explicitly warned away from it.
 
+Similar caution surrounded milder but still liminal plants like mugwort, which were used to induce dreams and spirit contact only under strict ritual conditions, as detailed in **[Mugwort, Wormwood And Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)**.
+
 ---
 
 ### Belladonna / Deadly Nightshade (*Atropa belladonna*) — Central & Southern Europe
