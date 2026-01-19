@@ -267,6 +267,10 @@ Across continents, forbidden herbs share traits:
 This is not superstition.  
 It is **cultural risk management encoded as folklore**.
 
+Across Europe, Asia, and the Americas, some herbs were traditionally avoided by women due to fertility, menstruation, or spiritual vulnerability — explore the detailed list of **[Herbs Forbidden For Women In Folk Tradition](/forbidden-herbs-for-women/)** and the stories that shaped these practices.
+
+Men, too, encountered plant taboos; herbs connected to fertility or ritual potency were sometimes restricted — see the full account of **[Herbs Forbidden For Men In Folk Tradition](/forbidden-herbs-for-men/)** and their magical context across cultures
+ 
 ---
 
 ## What Folk Traditions Understood
