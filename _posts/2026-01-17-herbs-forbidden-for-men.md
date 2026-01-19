@@ -117,7 +117,7 @@ That knowledge once prevented harm.
 - Blue Cohosh (*Caulophyllum thalictroides*)
 - Savin Juniper (*Juniperus sabina*, historically documented abortifacient)
 
-These plants belonged to a closed system of **[Old World Fertility Herbs](/fertility-herbs-for-women-old-world/)**, where knowledge was guarded, transmitted through women, and protected from misuse.
+These plants belonged to a closed system of **[Old World Fertility Herbs Used By Women](/fertility-herbs-for-women-old-world/)**, where reproductive knowledge was guarded, transmitted through midwives, and protected from misuse.
 
 In some traditions, reproductive power extended beyond herbs into ritual acts involving blood and cycles, where access and participation were strictly controlled, as explored in **[Traditional Fertility Rituals Involving Menstrual Cycles](/menstrual-blood-earth-ritual/)**.
 
