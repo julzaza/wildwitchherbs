@@ -109,6 +109,8 @@ They were protected so they could **last**.
 
 In many traditional cultures, these fertile years were governed by strict herbal rules around conception, miscarriage, and reproductive endurance — a pattern explored in traditional **[Fertility Herbs](/fertility-herbs-women-world-witchcraft/)** used in folk medicine.
 
+In the Balkans, for example, herbal knowledge was also woven into courtship and marriage customs rather than isolated as “romantic magic,” reflecting broader patterns of **(Traditional Courtship And Love Rites](/balkan-courtship-love-rites/)**.
+
 ---
 
 ## The Threshold Years: Perimenopause as a Liminal State
