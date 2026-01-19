@@ -308,11 +308,11 @@ The logic was simple and consistent across cultures:
 
 Modern wellness collapses women into two narratives:
 - fertility anxiety in the 20s–30s  
-- menopausal fear after 40  
+- menopausal fear after 40
 
-Traditional cultures did neither.
+Many modern wellness approaches overlook the thirties as a distinct phase, a gap explored in **[Why Modern Hormone Advice Differs From Folk Medicine](/modern-hormone-advice-vs-folk-medicine/)**.
 
-They recognized the thirties as the **structural backbone of society** — the years when women held families, food systems, and ritual continuity together.
+Traditional cultures recognized the thirties as the **structural backbone of society** — the years when women held families, food systems, and ritual continuity together.
 
 Herbs were chosen accordingly.
 
