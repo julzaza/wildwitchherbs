@@ -165,6 +165,8 @@ Examples:
 
 Elder women were treated as **keepers of continuity**.
 
+In Balkan villages, like in many other traditions, elder women often acted as informal herbal authorities, midwives, and guardians of rituals rather than passive dependents.
+
 ---
 
 ## What Folk Medicine Never Did
