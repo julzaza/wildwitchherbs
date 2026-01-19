@@ -104,12 +104,12 @@ Folk medicine prioritized **preservation**, not stimulation.
 - **Fennel** — Mediterranean, Middle East  
 - **Garlic & Juniper** — protective, not nutritive
 
-Women were not pushed to “optimize hormones. 
+Women were not pushed to “optimize hormones."
 They were protected so they could **last**.
 
 In many traditional cultures, these fertile years were governed by strict herbal rules around conception, miscarriage, and reproductive endurance — a pattern explored in traditional **[Fertility Herbs](/fertility-herbs-women-world-witchcraft/)** used in folk medicine.
 
-In the Balkans, for example, herbal knowledge was also woven into courtship and marriage customs rather than isolated as “romantic magic,” reflecting broader patterns of **(Traditional Courtship And Love Rites](/balkan-courtship-love-rites/)**.
+In the Balkans, for example, herbal knowledge was also woven into courtship and marriage customs rather than isolated as “romantic magic,” reflecting broader patterns of **[Traditional Courtship And Love Rites](/balkan-courtship-love-rites/)**.
 
 ---
 
@@ -190,7 +190,7 @@ It worked *with time*, not against it.
 
 ---
 
-Note: This post documents historical and folklore practices. It is not amedical advice. 
+Note: This post documents historical and folklore practices. It is not medical advice. 
 
 ---
 
