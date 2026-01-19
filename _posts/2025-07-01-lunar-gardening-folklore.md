@@ -136,8 +136,7 @@ Farmers from the Andes to the Balkans to the Mediterranean worked with this rhyt
 - Prune, cut back, remove pests, uproot weeds.  
 - In Caribbean Vodou, offerings were buried under herbs planted during the waning moon, binding intention to the roots.
 
-If you want to make moon water and use it in rituals:  
-**[Learn How to Make Moon Water](/moon-water-magic/)**.
+If you want to make moon water and use it in rituals: **[Learn How to Make Moon Water](/moon-water-magic/)**.
 
 ---
 
@@ -186,7 +185,7 @@ What matters is timing, not acreage.
 Our Artemisia annua is grown with moon phases in mind — planted during a waxing moon, harvested near the full, and dried slowly in shade.
 
 Explore moon-tended herbs here:  
-**→ [Artemisia Annua Tea, Tincture, and Seeds](/shop)**
+**[Artemisia Annua Tea, Tincture, and Seeds](/shop)**
 
 ---
 
