@@ -105,6 +105,8 @@ You will need:
 - Mist your space to clear lingering energy after arguments or unwanted visitors.  
 - If made with safe, dried nettle and clean water, it may be drunk to empower courage from within.
 
+Where nettle moon water cuts and fortifies, gentler lunar workings like **[St. John’s Wort Moon Water For Grief And Ancestral Healing](/st-johns-wort-moon-water/)** focus on softening sorrow rather than burning it away.
+
 ---
 
 ## Spell: Nettle Moon Armor
