@@ -137,6 +137,8 @@ Common examples include:
 - **Juniper (*Juniperus communis*)** — Balkans, Northern Europe  
   Burned as smoke to cleanse homes after illness, conflict, or death. Women often led these rites.
 
+Rue, Garlic and Juniper are explored further in detail in **[Top 11 Protective Herbs In Witchcraft](/top-protective-herbs-witchcraft/)**.
+
 These plants were not used continuously. They appeared **at thresholds** — after birth, during illness, after loss, or during periods of heavy responsibility.
 
 Folk traditions were careful about when and how plants were used ritually, especially around women’s health — a caution explored further in **[Herbs You Should Never Burn in Ritual (And What to Use Instead)](/herbs-never-burn)**. 
