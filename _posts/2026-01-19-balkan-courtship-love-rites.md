@@ -84,7 +84,7 @@ Timing ensured maximum potency, aligning personal preparation with seasonal cycl
 | **Vervain** | Favor, peaceful outcomes | Eastern Serbia, Timok Valley |
 | **Apple Blossom** | Fertility, lawful unions | Bulgaria, Macedonia |
 
-> Herbs like **wormwood, mandrake, and henbane** were avoided in courtship rites — these appear only in coercive or forbidden rituals ([Herbs Forbidden for Men in Traditional Medicine & Folklore](#)).
+Herbs like **wormwood, mandrake, and henbane** were avoided in courtship rites — these appear in **[Herbs Forbidden for Men in Traditional Medicine & Folklore](/forbidden-herbs-for-men/)**.
 
 ---
 
