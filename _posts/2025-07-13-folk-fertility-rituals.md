@@ -68,7 +68,7 @@ In Slavic and Alpine traditions, herbalists would create bundles of **red clover
 For a full guide to the plants of Old Europe traditionally used in fertility magic, see 
 - **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**  
 - **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
-- **[Herbs to Stay Away From if Trying to Get Pregnant](/herbs-to-avoid-when-getting-pregnant)**.
+- **[Herbs to Stay Away From if Trying to Get Pregnant](/herbs-to-avoid-when-getting-pregnant)**
 
 ## 4. Ancestral Spirit Offerings
 
@@ -94,7 +94,7 @@ Before lying together, lovers might stuff the bed with herbs and flowers like **
 
   To bless a bed or room, sprinkle dried herbs and say: *“Let what is planted here be blessed and bloom.”*
 
-Deepen your knowledge of [Top Fertility Herbs](/top-fertility-herbs-witchcraft/). These are remedies known to midwives, witches, and wise women through the ages.
+Deepen your knowledge of [Top Fertility Herbs](/top-fertility-herbs-witchcraft). These are remedies known to midwives, witches, and wise women through the ages.
   
 ---
 
