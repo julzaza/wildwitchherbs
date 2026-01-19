@@ -83,7 +83,7 @@ Instead, restriction fell into four documented categories:
 3. **Training-based restriction** — limited to initiated specialists  
 4. **Reproductive authority restriction** — men excluded from administering herbs affecting pregnancy or menstruation  
 
-In the Balkans, similar boundaries around reproductive power appear in **[Balkan Love Magic Folklore](balkan-love-magic-folklore)**, where certain herbs were used not for healing or courtship, but for coercive or fate-altering rites feared by the community.
+In the Balkans, similar boundaries around reproductive power appear in **[Balkan Love Magic Folklore](/balkan-love-magic-folklore)**, where certain herbs were used not for healing or courtship, but for coercive or fate-altering rites feared by the community.
 
 This article uses *forbidden* in its historically accurate sense:  
 **restricted by law, ritual, or survival necessity — not modern ideology.**
@@ -154,7 +154,7 @@ Mugwort, wormwood, and related Artemisia species were:
 
 In multiple European folk systems, **men were restricted from harvesting Artemisia** intended for women’s medicine.
 
-Artemisia plants carried layered restrictions: while men used wormwood for protection and warfare, women’s reproductive and lunar uses followed separate rules, especially in Balkan and Southern European traditions documented in historical **[Artemisia Rites](wormwood-witchcraft-war)**.
+Artemisia plants carried layered restrictions: while men used wormwood for protection and warfare, women’s reproductive and lunar uses followed separate rules, especially in Balkan and Southern European traditions documented in historical **[Artemisia Rites](/wormwood-witchcraft-war)**.
 
 ---
 
