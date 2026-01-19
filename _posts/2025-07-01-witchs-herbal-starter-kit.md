@@ -133,6 +133,14 @@ Burned in temples, steeped in mourning tea, poured into floor washes. In Balkan 
 
 ---
 
+## Common Modern Misreadings
+
+- These herbs are not all “safe for everyone” — some are toxic.  
+- Folk practice did not treat all herbs as recreational — most were ceremonial or protective.  
+- Traditional witchcraft often included subtle dreamwork and protective magic, not always overt hallucinogens.
+
+---
+
 ## Closing the Circle
 
 These ten herbs have been burned, buried, boiled, and feared.  
