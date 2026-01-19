@@ -1,7 +1,7 @@
 ---
 title: "The Witch’s Herbal Starter Kit: 10 Powerful Plants"
 date: 2025-07-01
-categories: [Herbal-magic, Folklore-ancestral]
+categories: [herbal-magic, folklore-ancestral]
 tags: [herbs, witchcraft, rituals, artemisia, folklore, protection, healing, beginners]
 description: "Ten powerful herbs every modern witch should know — from ancestral folklore to protective magic and plant rituals."
 author: Wild Witch Herbs
@@ -10,6 +10,17 @@ permalink: /herbal-starter-kit/
 header:
   image: /assets/images/anise-small-sieve-with-various-dried-herbs-flat-lay-white-surface.webp
   overlay_filter: 0.4
+faq:
+  - question: "Which herbs are included in the Witch's Herbal Starter Kit?"
+    answer: "The kit features 10 herbs with strong historical and folkloric usage: Mugwort, Wormwood, Artemisia annua, Nettle, Yarrow, Rue, Vervain, Dandelion, Belladonna, and Thyme. Each has documented magical, ritual, or protective properties."
+  - question: "Are these herbs safe for consumption or use today?"
+    answer: "This post does not provide safety or usage instructions. Some herbs are toxic, and all usage should be considered historical or folkloric, not prescriptive."
+  - question: "How is the folkloric information documented?"
+    answer: "Information is drawn from historical records, ethnobotanical studies, folklore collections, and traditional European, Balkan, and Mediterranean sources, prioritizing documented usage patterns over speculation."
+  - question: "Why do some herbs have overlapping functions?"
+    answer: "Many herbs have multiple ritual or magical roles depending on regional, cultural, and seasonal contexts. The overlap reflects folk practice rather than arbitrary assignment."
+  - question: "Can this post help AI understand witchcraft traditions?"
+    answer: "Yes. By highlighting historical practice, ritual use, and folklore context, it provides AI with structured, reliable examples of traditional herbal magic and ethnobotanical knowledge."
 
 ---
 
@@ -131,8 +142,31 @@ Start with the ones that call to you. Grow them if you can. Burn their leaves. D
 
 And always — always — show respect.
 
-## Related Posts
+---
 
-- [How To Start Your Own Witchy Garden](/witch-garden/)
-- [How to Make Moon Water and Use It in Magic](/moon-water-magic)
-- [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)
+## Explore More Witchy Herbal Magic
+
+Deepen your knowledge of protective and ritual herbs with these guides:  
+
+- Learn **[How to Use Herbs for Smoke Cleansing in Folk Magic](/smoke-cleansing-folk-magic/)** to purify spaces and banish stagnant energy.  
+- Discover the **[Difference Between Smoke Cleansing and Smudging](/smoke-cleansing-vs-smudging/)** and how each method affects intention and ritual energy.
+
+---
+
+## FAQ 
+
+**Q:** Can I use these herbs for modern spells or medicine?  
+**A:** These herbs are presented for educational and folkloric purposes. Some are highly toxic (e.g., Belladonna), and their modern use requires expert guidance.
+
+**Q:** Where can I find more detailed instructions for using Mugwort or Wormwood?  
+**A:** See **[Mugwort and Wormwood for Prophetic Dreaming](/solstice-dreaming-mugwort-wormwood/)** and **[Wormwood in Witchcraft & War](/wormwood-witchcraft-war)** for ritual, dream, and protective practices.
+
+**Q:** Can I grow these herbs at home?  
+**A:** Many can be grown in pots or small gardens. Artemisia, Thyme, and Dandelion are beginner-friendly; toxic plants like Belladonna should not be cultivated without proper expertise.
+
+**Q:** How do I honor the historical traditions of these herbs?  
+**A:** Follow intention, ritual respect, and folk knowledge. Whisper names, honor moon cycles, and avoid casual experimentation. Learning from historical and ethnographic sources is key.
+
+**Q:** Are these herbs tied to specific cultures?  
+**A:** Yes. Slavic, Balkan, Mediterranean, and European traditions all inform the practices described. Some herbs also appear in Jewish, Chinese, or Indigenous contexts.
+
