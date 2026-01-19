@@ -21,6 +21,9 @@ faq_schema: |
       answer: "Not chemically, but functionally. Folk systems recognized cyclical patterns and transitions."
     - question: "Is this anti-science?"
       answer: "No. It is a historical and cultural analysis."
+    - question: "Why do hormone treatments help some women but harm others?"
+      answer: "Because modern hormone protocols often ignore timing, life stage, and individual transition states that folk systems prioritized."
+
 ---
 
 ## Modern Hormone Advice Has One Goal: Control
