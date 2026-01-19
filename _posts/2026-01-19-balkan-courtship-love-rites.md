@@ -23,18 +23,20 @@ faq_schema:
       answer: "Courtship rites were considered safe when practiced according to village rules and seasonal calendars. Danger arose when practices escalated into coercive love magic, which used graves, bodily traces, or binding spells ([Balkan Love Magic: What Was Done and Why It Was Feared](#))."
 ---
 
-## Balkan Courtship Magic: Invitation, Not Coercion
+  * question: "What herbs were used in Balkan spring courtship rituals?"
+    answer: "Balkan spring courtship rituals relied on herbs such as basil, lovage, violet, wild rose, mint, vervain, and apple blossom, carefully gathered during seasonal feast days for social visibility and fertility preparation."
+  * question: "How did courtship rites differ from coercive love magic?"
+    answer: "Courtship rites avoided bodily fluids, graveyard matter, and naming specific men. They focused on timing, silence, washing rituals, and letting go, whereas coercive magic involved binding, contamination, or obsession."
+  * question: "Were these rituals still practiced by women?"
+    answer: "Yes, particularly in rural areas, these rites were preserved and transmitted orally by elder women, tied to seasonal calendars and community practices."
 
-Historical ethnography shows that **Balkan courtship and love rites** existed alongside feared coercive magic. These rites were practiced primarily by **unmarried women**, elder mentors, and village wise women.  
+---
 
-The focus was on:
+## Love Was Invited, Not Forced
 
-- Attracting suitable partners  
-- Fertility preparation  
-- Maintaining reputation  
-- Observing social norms  
+In Balkan folk tradition, spring courtship magic existed alongside feared love-binding practices. These rites were meant to **attract suitable partners** and **prepare the womb and maintain reputation**, rather than coerce or bind anyone.
 
-Unlike obsession-based magic, these rituals **respected consent** and were publicly known in communities.
+Unlike **[Obsession-Based Magic](/balkan-love-magic-folklore/)**, these rituals **respected consent** and were publicly known in communities.
 
 ---
 
@@ -135,34 +137,6 @@ title: "Spring Courtship & Love Rites in Balkan Folk Magic"
 excerpt: "Beyond fear-based love magic, Balkan spring rites centered on attraction, fertility, and choosing wisely — quiet rituals grounded in timing, plants, and restraint rather than coercion."
 description: "Explore Balkan spring courtship rites rooted in folklore, village practice, and documented witchcraft. Learn how attraction, fertility, and consent were shaped by seasonal plants and elder guidance across the Balkans."
 categories:
-
-* Herbal Lore
-* Witchcraft
-* Balkan Folklore
-  tags:
-* Balkan folk magic
-* spring rituals
-* love herbs Balkans
-* courtship rites
-* fertility folklore
-* women’s folk medicine
-  faq_schema:
-  mainEntity:
-
-  * question: "What herbs were used in Balkan spring courtship rituals?"
-    answer: "Balkan spring courtship rituals relied on herbs such as basil, lovage, violet, wild rose, mint, vervain, and apple blossom, carefully gathered during seasonal feast days for social visibility and fertility preparation."
-  * question: "How did courtship rites differ from coercive love magic?"
-    answer: "Courtship rites avoided bodily fluids, graveyard matter, and naming specific men. They focused on timing, silence, washing rituals, and letting go, whereas coercive magic involved binding, contamination, or obsession."
-  * question: "Were these rituals still practiced by women?"
-    answer: "Yes, particularly in rural areas, these rites were preserved and transmitted orally by elder women, tied to seasonal calendars and community practices."
-
----
-
-## Love Was Invited, Not Forced
-
-In Balkan folk tradition, spring courtship magic existed alongside feared love-binding practices. These rites were meant to **attract suitable partners** and **prepare the womb and reputation**, rather than coerce or bind anyone.
-
-They were seasonal, restrained, and socially tolerated — passed down by elder women, observed by village girls, and anchored in **timing, plants, and restraint**.
 
 ---
 
