@@ -107,7 +107,7 @@ To understand how folk medicine perceived female change, we can look at **docume
 
   These practices were functional, encoded into daily life, and **intertwined herbal care with spiritual vigilance**.
 
-  These fears of uncontrolled female power also surface in binding rites and fertility workings surrounding marriage and reproduction, documented in **[Balkan Love Magic: What Was Done and Why It Was Feared](/balkan-love-magic)**.
+  These fears of uncontrolled female power also surface in binding rites and fertility workings surrounding marriage and reproduction, documented in **[Balkan Love Magic: What Was Done and Why It Was Feared](/balkan-love-magic-folklore)**.
 
 - **Chinese Medicine (Unschuld, *Medicine in China*)**
   
