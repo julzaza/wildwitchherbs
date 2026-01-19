@@ -46,6 +46,15 @@ The structure is the same.
 
 These frameworks were recorded by ethnographers, physicians, and folklorists precisely because they were consistent across generations, not because they were symbolic inventions.
 
+### Life Stages and Herbal Strategy in Folk Medicine
+
+| Life Stage | Core Risk | Herbal Strategy | Folk Priority |
+|-----------|----------|----------------|---------------|
+| Maiden Years | Instability, excess sensitivity | Gentle regulation, protection | Containment and boundary formation |
+| Fertile Years | Depletion, blood loss, exhaustion | Preservation, tonification, protection | Endurance and continuity |
+| Threshold Years | Overheating, nervous collapse | Nervous system support, careful bitter use | Stabilization during transition |
+| Elder Phase | Cold, stagnation, stiffness | Warming, circulation, digestion | Authority and conservation |
+
 ---
 
 ## The Maiden Years: Blood Awakening & Boundary Formation
