@@ -5,7 +5,6 @@ categories: [herbal-magic, folklore-ancestral]
 tags: [herbs, witchcraft, rituals, artemisia, folklore, protection, healing, beginners]
 description: "Ten powerful herbs every modern witch should know — from ancestral folklore to protective magic and plant rituals."
 author: Wild Witch Herbs
-image: /assets/images/starter-herbs.jpg
 permalink: /herbal-starter-kit/
 header:
   image: /assets/images/anise-small-sieve-with-various-dried-herbs-flat-lay-white-surface.webp
