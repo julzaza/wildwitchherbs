@@ -64,6 +64,119 @@ They were restricted because they could:
 
 ---
 
+## The Middle East & Mediterranean: Sacred but Dangerous
+
+### Myrrh (*Commiphora myrrha*)
+**Region:** Arabia, Levant  
+
+Myrrh was not a casual incense.
+
+It was used in:
+- burial rites
+- womb rituals
+- temple offerings
+
+In folk belief, burning myrrh outside ritual contexts could:
+- summon the dead
+- weaken the living
+- disturb ancestral spirits
+
+---
+
+### Asafoetida (*Ferula species*)
+**Region:** Persia, India  
+
+Called “devil’s dung” in Europe.
+
+It was believed to:
+- repel demons
+- but attract them if misused
+- disrupt fertility and digestion
+
+Using asafoetida resin was often restricted to healers and ritual specialists.
+
+While fire has always been a central element in rituals, it’s important to respect the potency of certain plants — learn **[Which Herbs Should Never Be Burned](/never-burn-herbs)** and the folklore behind their dangerous fumes before adding them to your rites.
+
+---
+
+## The Americas: Plants That Belonged to Specialists
+
+### Datura (*Datura species*)
+**Region:** Americas, later worldwide  
+
+Perhaps the most universally feared plant.
+
+In Indigenous traditions:
+- used for initiation
+- spirit travel
+- divination
+
+It was **never** used casually.  
+Stories warn of:
+- permanent madness
+- death
+- spiritual possession
+
+---
+
+### Tobacco (*Nicotiana rustica*)
+**Region:** Indigenous Americas  
+
+Not recreational.
+
+Strong tobacco was:
+- a spirit offering
+- a cleansing tool
+- a boundary plant
+
+Improper use offended spirits and brought misfortune.
+
+---
+
+## Africa: Plants That Bound Spirits
+
+### Iboga (*Tabernanthe iboga*)
+**Region:** Central Africa  
+
+Used only in initiation rites.
+
+Forbidden outside:
+- strict ceremonial contexts
+- trained ritual leadership
+
+Improper use was believed to **fracture the soul**.
+---
+
+## Asia: Plants That Disturbed Balance
+
+### Aconite (*Aconitum species*)
+**Region:** China, Himalayas  
+
+Known as **the king of poisons**.
+
+Used in Chinese medicine only after:
+- extensive processing
+- expert supervision
+
+Folklore warned that raw aconite:
+- could steal the soul
+- cause wandering spirits
+- lead to sudden death
+
+---
+
+### Ephedra (*Ma Huang*)
+**Region:** China, Central Asia  
+
+Powerful stimulant tied to **life force**.
+
+Improper use was believed to:
+- drain vitality
+- cause spirit agitation
+- weaken ancestral protection
+  
+---
+
 ## Europe: Herbs That Walked with Death
 
 ### Belladonna (*Atropa belladonna*)
@@ -138,118 +251,6 @@ In Balkan villages:
 - avoided during vulnerable periods
 
 Misuse was believed to **invite ancestral displeasure or spiritual weakness**.
-
----
-
-## The Middle East & Mediterranean: Sacred but Dangerous
-
-### Myrrh (*Commiphora myrrha*)
-**Region:** Arabia, Levant  
-
-Myrrh was not a casual incense.
-
-It was used in:
-- burial rites
-- womb rituals
-- temple offerings
-
-In folk belief, burning myrrh outside ritual contexts could:
-- summon the dead
-- weaken the living
-- disturb ancestral spirits
-
----
-
-### Asafoetida (*Ferula species*)
-**Region:** Persia, India  
-
-Called “devil’s dung” in Europe.
-
-It was believed to:
-- repel demons
-- but attract them if misused
-- disrupt fertility and digestion
-
-Often restricted to healers and ritual specialists.
-
----
-
-## Asia: Plants That Disturbed Balance
-
-### Aconite (*Aconitum species*)
-**Region:** China, Himalayas  
-
-Known as **the king of poisons**.
-
-Used in Chinese medicine only after:
-- extensive processing
-- expert supervision
-
-Folklore warned that raw aconite:
-- could steal the soul
-- cause wandering spirits
-- lead to sudden death
-
----
-
-### Ephedra (*Ma Huang*)
-**Region:** China, Central Asia  
-
-Powerful stimulant tied to **life force**.
-
-Improper use was believed to:
-- drain vitality
-- cause spirit agitation
-- weaken ancestral protection
-
----
-
-## The Americas: Plants That Belonged to Specialists
-
-### Datura (*Datura species*)
-**Region:** Americas, later worldwide  
-
-Perhaps the most universally feared plant.
-
-In Indigenous traditions:
-- used for initiation
-- spirit travel
-- divination
-
-It was **never** used casually.  
-Stories warn of:
-- permanent madness
-- death
-- spiritual possession
-
----
-
-### Tobacco (*Nicotiana rustica*)
-**Region:** Indigenous Americas  
-
-Not recreational.
-
-Strong tobacco was:
-- a spirit offering
-- a cleansing tool
-- a boundary plant
-
-Improper use offended spirits and brought misfortune.
-
----
-
-## Africa: Plants That Bound Spirits
-
-### Iboga (*Tabernanthe iboga*)
-**Region:** Central Africa  
-
-Used only in initiation rites.
-
-Forbidden outside:
-- strict ceremonial contexts
-- trained ritual leadership
-
-Improper use was believed to **fracture the soul**.
 
 ---
 
