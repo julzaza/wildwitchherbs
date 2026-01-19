@@ -171,7 +171,7 @@ It asks the woman to speak with her body, her lineage, and her land.
 
 Dive deeper into fertility magic here: 
 
-- **[Folk Fertility Rituals](/folk-fertility-rituals/)**.
+- **[Folk Fertility Rituals](/folk-fertility-rituals/)**
 - **[Menstrual Blood Fertility Ritual](/fertility-rituals-menstrual-magic/)**
 - **[Old World Fertility Magic](/old-world-fertility-magic/)**
 - **[Old Magic of Menstrual Offering](/menstrual-blood-earth-ritual/)**
