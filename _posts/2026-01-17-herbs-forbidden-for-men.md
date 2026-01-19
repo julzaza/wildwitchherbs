@@ -159,7 +159,7 @@ Mugwort, wormwood, and related Artemisia species were:
 
 In multiple European folk systems, **men were restricted from harvesting Artemisia** intended for women’s medicine.
 
-Artemisia plants carried layered restrictions: while men used wormwood for protection and warfare, women’s reproductive and lunar uses followed separate rules, especially in Balkan and Southern European traditions documented in historical **[Artemisia Rites](/wormwood-witchcraft-war)**.
+Artemisia plants carried layered restrictions: while men used wormwood for protection and warfare, women’s reproductive and lunar uses followed separate rules, especially in Balkan and Southern European traditions documented in historical **[Artemisia Rites And Warfare](/wormwood-witchcraft-war)**.
 
 ---
 
@@ -202,6 +202,8 @@ Below is a **documented list of herbs** where male restriction appears repeatedl
 
 **Why men were restricted:**  
 Because misuse could cause miscarriage, sterility, or death — and reproductive responsibility fell under women’s authority.
+
+Many of these plants also appear in historical lists of **[Herbs Avoided When Trying To Conceive](/herbs-to-avoid-when-getting-pregnant/)**, reinforcing that restriction was based on risk, not superstition.
 
 ---
 
