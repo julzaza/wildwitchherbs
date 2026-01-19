@@ -107,6 +107,8 @@ To understand how folk medicine perceived female change, we can look at **docume
 
   These practices were functional, encoded into daily life, and **intertwined herbal care with spiritual vigilance**.
 
+  These fears of uncontrolled female power also surface in binding rites and fertility workings surrounding marriage and reproduction, documented in **[Balkan Love Magic: What Was Done and Why It Was Feared](/balkan-love-magic)**.
+
 - **Chinese Medicine (Unschuld, *Medicine in China*)**
   
   Irregular cycles were **read as messages**, not disorders.
@@ -174,6 +176,8 @@ Modern advice is powerful — but often blind to rhythm.
 It’s remembering that **numbers are not the body — time is**.  
 
 Herbs, rituals, and social structures were designed to **support transitions, not flatten them**.
+
+In many cultures, transitions were also socially managed through ritual and courtship structures rather than medical suppression, as seen in **[Traditional Courtship and Love Rites](/balkan-courtship-love-rites/)**.
 
 ---
 
