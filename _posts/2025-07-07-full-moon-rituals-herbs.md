@@ -42,9 +42,11 @@ Create a jar with herbs, salt, water, and intentions. Seal under the full moon. 
 
 Charge with candlelight and moonlight overnight. Store on your altar or bury at the waning moon to seal the spell.
 
+You can also:
+
 - learn how to **[Make Moon Water](/moon-water-magic/)** and discover its ritual uses
-- you can also use **[St. John’s Wort Moon Water for Grief and Ancestral Magic](/st-johns-wort-moon-water/)** to support emotional healing
-- or make **[Stinging Nettle Moon Water For Courage, Protection, And Cutting Energetic Ties](/stinging-nettle-moon-water/)**
+- use **[St. John’s Wort Moon Water for Grief and Ancestral Magic](/st-johns-wort-moon-water/)** to support emotional healing
+- or make **[Stinging Nettle Moon Water](/stinging-nettle-moon-water/)** for courage, protection, and cutting energetic ties. 
 
 ## Sacred Herbs for Full Moon Rituals
 
