@@ -83,6 +83,8 @@ Instead, restriction fell into four documented categories:
 3. **Training-based restriction** — limited to initiated specialists  
 4. **Reproductive authority restriction** — men excluded from administering herbs affecting pregnancy or menstruation  
 
+In the Balkans, similar boundaries around reproductive power appear in **[Balkan Love Magic Folklore](balkan-love-magic-folklore)**, where certain herbs were used not for healing or courtship, but for coercive or fate-altering rites feared by the community.
+
 This article uses *forbidden* in its historically accurate sense:  
 **restricted by law, ritual, or survival necessity — not modern ideology.**
 
@@ -112,6 +114,8 @@ That knowledge once prevented harm.
 - Tansy (*Tanacetum vulgare*)
 - Blue Cohosh (*Caulophyllum thalictroides*)
 - Savin Juniper (*Juniperus sabina*, historically documented abortifacient)
+
+These plants belonged to a closed system of **[Fertility And Birth Medicine](/fertility-herbs-women-world-witchcraft/)**, where knowledge was guarded, transmitted through women, and protected from misuse.
 
 **Reason Restricted:** Male presence was recorded in folklore and ritual law as disrupting ritual efficacy or violating reproductive authority.
 
