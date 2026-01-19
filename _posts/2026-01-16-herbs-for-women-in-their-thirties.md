@@ -77,6 +77,8 @@ In European and Balkan folk medicine, aggressive blood-moving herbs were avoided
 
 In the Balkans, **spring nettle soup** was a near-universal practice. It was not labeled a “women’s remedy” — it was survival nutrition, restoring iron, minerals, and strength after winter scarcity. Women in their thirties were expected to eat it because their bodies carried the household.
 
+Some herbs, in contrast, were strictly **[Forbidden for Women](/forbidden-herbs-for-women/)** at specific life stages.
+
 ---
 
 ### Cycle Integrity Over Cycle Control
