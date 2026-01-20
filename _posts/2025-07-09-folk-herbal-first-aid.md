@@ -58,7 +58,7 @@ schema:
 
 Long before antiseptic wipes and factory-sealed pills, people turned to what they had: leaves, roots, resins, and instinct. **The original first responders were witches, midwives, and grandmothers** — women who knew what to rub on a sting, steep for a fever, or smear on a burn. 
 
-Call it folk herbalism, witchcraft, or old country know-how — these remedies were meant to work. 
+Call it folk herbalism, witchcraft, or old country know-how — **these remedies were meant to work**. 
 
 It was the kind of healing that smells, stains your fingers, and works better than you'd expect.
 
@@ -138,7 +138,9 @@ Steeped in oil and strained, calendula becomes a powerful skin healer.
 
 While not native to colder climates, aloe has traveled into global folk herbalism. Its cooling gel is used to soothe fresh burns, especially in dry or sun-exposed regions. Slice a leaf and apply the gel directly to the skin.
 
-## Do Not Use on Fresh Burns
+## Warnings And Wisdom
+
+### Do Not Use on Fresh Burns
 
 - Oils or butters (like olive, coconut, or ghee) — they trap heat and may worsen the injury.
 - Essential oils — too harsh and concentrated for broken or inflamed skin.
@@ -150,7 +152,7 @@ Severe burns should always be treated by a professional. These remedies are for 
 - Always check for **allergies**  
 - Wildcraft **ethically** and identify plants 100% before using
 
-Herbal medicine is potent, real, and not always safe — which is exactly why it works. Treat it with the reverence it deserves.
+Physical wounds were rarely treated alone in folk traditions — many healers believed emotional shock, grief, and fear slowed recovery, which is why plants were also chosen for the heart and nerves, not just the skin. If you want to explore that side of ancestral healing, **[Herbs For Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**.
 
 ---
 
