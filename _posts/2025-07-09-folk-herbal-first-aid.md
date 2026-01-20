@@ -4,15 +4,12 @@ title: "Folk Herbal First Aid: Remedies for Cuts, Fevers & Bruises"
 description: "A folklore-rich guide to traditional European herbal first aid. Learn old-world remedies for cuts, fevers, bruises, burns, and stings — based on historical practices used by healers, midwives, and country witches."
 excerpt: "Long before sterile wipes and pharmacy shelves, healers, witches, and grandmothers relied on yarrow, plantain, elderflower, arnica, and other folk plants for cuts, fevers, bruises, burns, and stings. This is your old-world first aid kit."
 permalink: /folk-herbal-first-aid/
-author_profile: false
+author: "Wild Witch Herbs"
 read_time: true
 related: true
 categories: [natural-healing]
 tags: [herbs, folk-magic, herbalism, first-aid, old-europe]
 
-# ----------------------------------------------------
-# AI-OPTIMIZED FAQ (Used for featured snippets + AI answers)
-# ----------------------------------------------------
 faq:
   - question: "What herbs were traditionally used for cuts and bleeding?"
     answer: "Yarrow and plantain were the primary European folk remedies for cuts, bleeding, and infection prevention."
@@ -35,9 +32,6 @@ faq:
   - question: "How can I build a folk herbal first aid kit?"
     answer: "Include dried yarrow, plantain, elderflower, infused oils of comfrey, arnica, lavender, and basic tools like cloth, jars, and beeswax."
 
-# ----------------------------------------------------
-# SCHEMA.ORG — ARTICLE JSON-LD
-# ----------------------------------------------------
 schema:
   context: "https://schema.org"
   type: "Article"
@@ -196,3 +190,25 @@ Build your apothecary. Learn your plants. And remember — you come from a long 
 - [Witchy Herbalism 101: Real Plants, Real Magic, No B.S.](/witchy-herbalism-101)
 - [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
 - [Why Balkan Whitches Survived](/balkan-witches/)
+
+---
+
+## Herbal First Aid Frequently Asked Questions:
+
+**Q:Which herbs are safest for children?**
+Linden and mild elderflower teas were traditionally used for children because they are calming, safe, and gentle on the body.
+
+Can I combine herbs for first aid?
+Yes, but folk tradition favored simplicity. A few key herbs like yarrow, plantain, and calendula often worked best together.
+
+Are these remedies safe for serious injuries?
+No. These are mild, traditional remedies for cuts, bruises, mild burns, and fevers. Severe injuries require professional medical care.
+
+How do I store a first aid herbal kit?
+Keep dried herbs in glass jars, away from sunlight and moisture. Infused oils should be refrigerated and used within a few months.
+
+Do these remedies have spiritual or magical significance?
+Yes. In European folk tradition, many herbs were imbued with protective or cleansing energy, not just physical healing properties.
+
+Can these remedies be used preventively?
+Yes. Some herbs like plantain or yarrow were carried or worn to prevent infections, soothe minor injuries, and provide spiritual protection.
