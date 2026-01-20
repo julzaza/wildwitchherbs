@@ -171,9 +171,9 @@ Label everything, charge them under the moon, and always test on yourself before
 Herbal medicine is potent, real, and not always safe — which is exactly why it works. Treat it with the reverence it deserves.
 
 ---
-Want to grow your own healing herbs? [How to Start a Real Witch’s Garden](/witch-garden) walks you through what to plant, and why.
+Want to grow your own healing herbs? **[How to Start a Real Witch’s Garden](/witch-garden)** walks you through what to plant, and why.
 
-If you're new to herbal magic, [Witchy Herbalism 101](/witchy-herbalism-101) is your no-nonsense crash course.
+If you're new to herbal magic, **[Witchy Herbalism 101](/witchy-herbalism-101)** is your no-nonsense crash course.
 
 ## Final Thoughts
 
@@ -182,6 +182,8 @@ This is not a replacement for emergency care. It’s a revival of **what our anc
 You don’t need white coats or clinic lights to start healing. You need dirt under your nails, a jar of dried yarrow, and a will to learn.
 
 Build your apothecary. Learn your plants. And remember — you come from a long line of witches who knew how to heal.
+
+**If these ancestral remedies speak to you, consider sharing them with fellow witches or bookmarking this guide for your own first aid apothecary.**
 
 ---
 
@@ -193,22 +195,24 @@ Build your apothecary. Learn your plants. And remember — you come from a long 
 
 ---
 
-## Herbal First Aid Frequently Asked Questions:
+## Herbal First Aid Frequently Asked Questions
 
-**Q:Which herbs are safest for children?**
+**Q: Which herbs are safest for children?**  
 Linden and mild elderflower teas were traditionally used for children because they are calming, safe, and gentle on the body.
 
-Can I combine herbs for first aid?
+**Q: Can I combine herbs for first aid?**  
 Yes, but folk tradition favored simplicity. A few key herbs like yarrow, plantain, and calendula often worked best together.
 
-Are these remedies safe for serious injuries?
+**Q: Are these remedies safe for serious injuries?**  
 No. These are mild, traditional remedies for cuts, bruises, mild burns, and fevers. Severe injuries require professional medical care.
 
-How do I store a first aid herbal kit?
+**Q: How do I store a first aid herbal kit?**  
 Keep dried herbs in glass jars, away from sunlight and moisture. Infused oils should be refrigerated and used within a few months.
 
-Do these remedies have spiritual or magical significance?
+**Q: Do these remedies have spiritual or magical significance?**  
 Yes. In European folk tradition, many herbs were imbued with protective or cleansing energy, not just physical healing properties.
 
-Can these remedies be used preventively?
+**Q: Can these remedies be used preventively?**  
 Yes. Some herbs like plantain or yarrow were carried or worn to prevent infections, soothe minor injuries, and provide spiritual protection.
+
+---
