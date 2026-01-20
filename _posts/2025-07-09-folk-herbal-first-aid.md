@@ -176,7 +176,7 @@ Want to grow your own healing herbs? Check **[How to Start a Real Witch’s Gard
 
 Physical wounds were rarely treated alone in folk traditions — many healers believed emotional shock, grief, and fear slowed recovery, which is why plants were also chosen for the heart and nerves, not just the skin. 
 
-If you want to explore herbs for body, mind and spirit healing, see **[Herbs For Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**.
+If you want to explore herbs beneficial for the mind and spirit, see **[Herbs For Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**.
 
 ---
 
