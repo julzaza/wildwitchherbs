@@ -46,7 +46,7 @@ You can also:
 
 - learn how to **[Make Moon Water](/moon-water-magic/)** and discover its ritual uses
 - use **[St. John’s Wort Moon Water for Grief and Ancestral Magic](/st-johns-wort-moon-water/)** to support emotional healing
-- or make **[Stinging Nettle Moon Water](/stinging-nettle-moon-water/)** for courage, protection, and cutting energetic ties. 
+- or make **[Stinging Nettle Moon Water](/stinging-nettle-moon-water/)** for courage, protection, and cutting energetic ties 
 
 ## Sacred Herbs for Full Moon Rituals
 
