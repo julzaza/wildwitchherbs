@@ -3,10 +3,10 @@ layout: single
 title: "How to Use Smoke Cleansing in Folk Magic"
 excerpt: "Discover ancient, global smoke cleansing rituals beyond sage. Learn how witches, healers, and rootworkers worldwide used herbs to protect, banish, heal, and invite spirits."
 description: "A global guide to performing smoke cleansing rituals in folk magic. Explore safe herbs, traditional methods, and the purpose of ritual smoke across cultures."
-author: wildwitchyherbs
+author: "Wild Witch Herbs"
 
 categories:
-  - witchcraft-ritual
+  - witchcraft-rituals
   - herbal-magic
 
 tags:
@@ -56,10 +56,12 @@ head_scripts:
 
 Before incense came in neat little bundles, it was a fistful of bitter leaves, cracked resin, and whatever could be burned in a dish over coals.
 
-From Balkan death rites to South American protection spells, **smoke has always been more than perfume**. It was language. Offering. Defense. Invitation.
+From Balkan death rites to South American protection spells, smoke has always been more than perfume. **It was language. Offering. Defense. Invitation.**
 
 If you’re unsure whether your ritual counts as smoke cleansing or something else entirely, read **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)**. It explains the 
 cultural differences with clarity and respect, so your practice stays rooted in your own lineage and land.
+
+Avoid dangerous and sometimes deadly mistakes when working with smoke: make sure you read **[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)**.
 
 ---
 
@@ -124,8 +126,6 @@ A sharper cousin of mugwort, burned to **ward off disease** and **malicious spir
 **Folk Practice:** Hung and burned during Chinese Ghost Festival. In parts of the Balkans, tossed into ritual fires near cemeteries.
 
 ---
-
-And here are [Herbs You Should Never Burn in Ritual](/never-burn-herbs/)
 
 ## How to Perform a Smoke Cleansing Ritual
 
