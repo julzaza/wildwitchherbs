@@ -61,12 +61,10 @@ Glass jars are ideal. No plastic. A clear jar lets light through, but a dark jar
 - **Rose** for love and softness  
 - **Mugwort** for dreaming and vision  
 - **Lavender** for calm and cleansing  
-- **Wormwood** for protection  
-- Crystals (only safe ones like quartz or amethyst—avoid anything toxic in water)
-
-For fierce boundaries and cutting energetic ties, **[Nettle Moon Water](/stinging-nettle-moon-water/)** is traditionally made during the waning or dark moon.
-
-**[St. John's Wort Moon Water](/st-johns-wort-moon-water/)** is a true friend in times of grief and sorrow.
+- **Wormwood** for protection
+- for fierce boundaries and cutting energetic ties, **[Nettle Moon Water](/stinging-nettle-moon-water/)** is traditionally made during the waning or dark moon
+- **[St. John's Wort Moon Water](/st-johns-wort-moon-water/)** is a true friend in times of grief and sorrow
+- **Crystals** (only safe ones like quartz or amethyst—avoid anything toxic in water)
 
 ### 5. **Speak to It**
 This is where it becomes magic. Whisper your intention. Sing. Cry into it. Say a prayer to the moon. It doesn’t need to rhyme. It needs to be true.
