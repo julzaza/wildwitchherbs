@@ -164,11 +164,15 @@ Build yours over time. Keep it small, sacred, and real.
 - Tools: muslin cloth, mortar & pestle, small glass jars
 - Optional: beeswax for making salves
 
-Label everything, charge them under the moon, and always test on yourself before offering to others. If you're new to herbal magic, start with **[Witchy Herbalism 101](/witchy-herbalism-101)** to learn how to work with real plants and ancestral magic.
+Label everything, charge them under the moon, and always test on yourself before offering to others. 
 
-Keep your Folk First Aid Kit small, sacred, and real. For a curated introduction to the herbs every witch should know, see **[The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)**.
+If you're new to herbal magic, start with **[Witchy Herbalism 101](/witchy-herbalism-101)** to learn how to work with real plants and ancestral magic.
 
-Want to grow your own healing herbs? Check **[How to Start a Real Witch’s Garden](/witch-garden)** for planting guidance and magical alignment.
+Keep your Folk First Aid Kit small, sacred, and real. 
+For a curated introduction to the herbs every witch should know, see **[The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)**.
+
+Want to grow your own healing herbs? 
+Check **[How to Start a Real Witch’s Garden](/witch-garden)** for planting guidance and magical alignment.
 
 ---
 
