@@ -152,7 +152,9 @@ Severe burns should always be treated by a professional. These remedies are for 
 - Always check for **allergies**  
 - Wildcraft **ethically** and identify plants 100% before using
 
-Physical wounds were rarely treated alone in folk traditions — many healers believed emotional shock, grief, and fear slowed recovery, which is why plants were also chosen for the heart and nerves, not just the skin. If you want to explore that side of ancestral healing, **[Herbs For Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**.
+Physical wounds were rarely treated alone in folk traditions — many healers believed emotional shock, grief, and fear slowed recovery, which is why plants were also chosen for the heart and nerves, not just the skin. 
+
+If you want to explore that side of ancestral healing, **[Herbs For Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**.
 
 ---
 
