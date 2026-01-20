@@ -49,9 +49,11 @@ Steeped for baths to cleanse illness or spiritual residue. Burned to clear ritua
 
 **Folklore Note:** Hung in Chinese homes during the Ghost Festival to ward off wandering spirits. In Balkan graves, it was planted to keep the “restless” buried.
 
-- Learn more about [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)
-- Find out the **[Difference Between Smoke Cleansing and Smudging](/smoke-cleansing-vs-smudging/)** to choose the right ritual for your needs.  
-- Discover which **[Herbs You Should Never Burn In Ritual](/never-burn-herbs/)** to avoid dangerous and even deadly situations.
+#### Using Smoke In Witchcraft Requires Some Knowledge: 
+
+- Discover which **[Herbs You Should Never Burn In Ritual](/never-burn-herbs/)** to avoid dangerous and even deadly mistakes.
+- Learn more about **[How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)**.
+- Find out the **[Difference Between Smoke Cleansing and Smudging](/smoke-cleansing-vs-smudging/)** to choose the right ritual for you.  
 
 ---
 
