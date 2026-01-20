@@ -103,8 +103,8 @@ Dive deeper into **herbal magic, ritual work, and folk traditions**:
 
 ## FAQ
 
-**Q:** **Can I experiment with these herbs?**
-**A:** These records are educational and ritual-ethnographic, not prescriptive. Some herbs are toxic (like Wormwood or Mugwort), so only study their folklore without ingesting.  
+**Q:** **Can I experiment with these herbs?**  
+**A:** These records are educational and ritual-ethnographic, not prescriptive. 
 
 **Q:** **How do I start learning witchy herbalism safely?**  
 **A:** Begin with one herb at a time. Observe its historical uses, create protective charms, teas, or incense, and journal experiences. Respect traditional knowledge.  
