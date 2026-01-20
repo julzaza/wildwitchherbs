@@ -160,6 +160,17 @@ And always ask — who’s watching, and what are you clearing space for?
 
 ---
 
+## Want To Improve Your Witchy Herbs Knowledge?
+
+Check out: 
+
+- **[Herbs To Grow For Home Protection Magic](/witchy-plants-to-grow-indoors/)**
+- **[Ancient Herbal Healing Magic](/witchy-herbs-anxiety-grief-emotional-healing/)**
+- **[Herbs Used By Vlack Wise Women])(/herbs-vlach-wise-women/)**
+- **[Folk Herbs For Fertility Magic](/top-fertility-herbs-witchcraft/)**
+
+---
+
 ## Frequently Asked Questions On Ritual Smoke Cleansing:
 
 **Is smoke cleansing safe to do indoors?**  
