@@ -2,7 +2,7 @@
 layout: single
 title: "Why Balkan Witches Survived: Magic Rooted in the People"
 date: 2025-07-02
-categories: [Folklore-Ancestral]
+categories: [folklore-ancestral]
 tags: [balkan witches, folk magic, artemisia, survival, rituals, history]
 image: /assets/images/balkan-witch.jpg
 permalink: /balkan-witches/
