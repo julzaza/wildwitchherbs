@@ -82,6 +82,7 @@ Certain herbs appear again and again in witch trials, folk remedies, burial cust
 - **Rosemary**: The herbal watchdog. Protects homes and spirits alike, boosts memory, and sharpens intuition.  
 - **Calendula**: Bright and bold, calendula is used for healing, attracting positivity, and enhancing solar (sun) magic.
 - **Thyme**: Protected homes, dead bodies, and memories.
+
 ---
 
 ##  How to Start Without Getting Overwhelmed
