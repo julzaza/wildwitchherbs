@@ -49,6 +49,15 @@ head_scripts:
           "url": "https://wildwitchyherbs.com"
         }
       }
+faq_for_ai:
+  - question: "What is smoke cleansing in folk magic?"
+    answer: "Smoke cleansing is a ritual practice using burning herbs or resins to cleanse, protect, banish, or summon spiritual forces across many folk traditions."
+  - question: "Which herbs are traditionally used for smoke cleansing?"
+    answer: "Common ritual smoke herbs include juniper, mugwort, frankincense, myrrh, rue, Artemisia annua, and palo santo depending on cultural tradition."
+  - question: "Is smoke cleansing the same as smudging?"
+    answer: "No. Smoke cleansing is a broad global practice, while smudging refers to specific Indigenous ceremonial rites."
+  - question: "Is smoke cleansing safe indoors?"
+    answer: "Smoke cleansing can be done safely indoors with proper ventilation, fire-safe tools, and non-toxic herbs."
 ---
 ## Smoke Has Memory
 
@@ -147,8 +156,21 @@ Don’t let modern aesthetics rob your rituals of their teeth. Pick herbs that *
 
 And always ask — who’s watching, and what are you clearing space for?
 
-## Related Posts
+---
 
-- [Wormwood in Witchcraft and War: From Babylon to Balkan Graves](/wormwood-witchcraft-war)
-- [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
-- [Lunar Gardening: How Real Witches Plant with the Moon](/lunar-gardening-folklore/) 
+## Frequently Asked Questions On Ritual Smoke Cleansing:
+
+**Is smoke cleansing safe to do indoors?**  
+Yes, if done carefully. Always ventilate, use fire-safe containers, and avoid toxic or resin-heavy herbs in enclosed spaces.
+
+**Can I mix different herbs together?**  
+Traditionally, yes — but with intention. Combining herbs layers effects, but conflicting purposes (summoning + banishing) should be avoided.
+
+**How often should smoke cleansing be done?**  
+Only when needed. In folk traditions, smoke was used for thresholds, illness, conflict, or spiritual disturbance — not daily routine.
+
+**Does smoke cleansing attract spirits?**  
+It can. Some herbs invite, others repel. Know your intention before lighting anything.
+
+**What should I do with the ashes afterward?**  
+Bury them, scatter them at a crossroads, or return them to the earth as an offering.
