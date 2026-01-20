@@ -201,7 +201,7 @@ No. These are mild, traditional remedies for cuts, bruises, mild burns, and feve
 Keep dried herbs in glass jars, away from sunlight and moisture. Infused oils should be refrigerated and used within a few months.
 
 **Q: Do these remedies have spiritual or magical significance?**  
-Yes. In European folk tradition, many herbs were imbued with protective or cleansing energy, not just physical healing properties.
+Yes. In European folk tradition, many herbs were imbued with protective or cleansing energy, not just physical healing properties. Learn more about these herbs here: **[Ancient Plant Magic For Body And Spirit](/witchy-herbs-for-healing/)**.
 
 **Q: Can these remedies be used preventively?**  
 Yes. Some herbs like plantain or yarrow were carried or worn to prevent infections, soothe minor injuries, and provide spiritual protection.
