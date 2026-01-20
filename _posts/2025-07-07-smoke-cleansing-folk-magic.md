@@ -87,7 +87,7 @@ Not just symbolic — smoke **moves things**.
 The type of herb burned shapes the purpose. The timing, the way it’s lit, even the direction you waft it matters in folk tradition.
 
 ---
-## Ritual Smoke Herbs From Around the World
+## Traditional Smoke Cleansing Herbs From Around the World
 
 ### Myrrh (Commiphora spp.) — Africa & Middle East  
 Dark, thick resin used in **mourning rituals**, **death work**, and **binding ceremonies**. Strongly connected to sorrow, passage, and sacred endings.
