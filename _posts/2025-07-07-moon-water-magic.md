@@ -137,19 +137,15 @@ The moon won’t ask if you’re worthy. She’s already pouring down your name.
 ## Got More Moon Water Questions?
 
 Q: **Can I use moon water every night?**
-
 A: Yes, but its potency varies with moon phase. Full moons are strongest for manifestation; new moons for reflection and planting intentions.
 
 Q: **Are crystals and herbs necessary?**
-
 A: No, intention alone charges water. Herbs and crystals amplify or align energies but are optional.
 
 Q: **How should I store moon water?**
-
 A: Cool, dark place or on your altar. Label with date and moon phase.
 
 Q: **Can moon water be ingested?**
-
 A: Only if safe and potable, with non-toxic herbs. Otherwise, use externally.
 
 Q: **How do I combine moon water with other spells?**
