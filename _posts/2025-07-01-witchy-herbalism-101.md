@@ -42,17 +42,36 @@ schema:
         "text": "All herbs and uses are drawn from historical folk practices, European and Balkan witchcraft traditions, ethnobotany, and ritual records rather than modern speculation."
 ---
 
-Let’s get real: witchy herbalism isn’t about pretty flowers or vague “energy.” It’s about **using plants with real power**—plants that have been tested by time, ritual, and sometimes blood. If you want magic, healing, and connection, you start with understanding the herbs that hold the fire.
+Witchy herbalism was never about pretty jars or vague energy.  
+It was about **plants that worked**, sometimes violently, sometimes slowly, and often at a cost.
+
+Long before witchcraft was an identity, it was a **necessity**. People turned to herbs because doctors were distant, priests were limited, and survival demanded knowledge that could be passed quietly, hand to hand.
+
+If you want magic, healing, and connection, you start with understanding these herbs.
 
 ---
 
-### Why Witchy Herbalism Matters
+## Why Witchy Herbalism Was Taken Seriously
 
 **Herbs are tools. Like knives or fire**. They can heal or hurt. They carry specific properties, histories, and uses that go beyond fairy tales. Learning about them means respecting their power—and knowing how to work with them safely and effectively.
 
+In folk traditions herbs were **forces** — capable of healing wounds, ending pregnancies, breaking fevers, calling dreams, or bringing death.
+
+This is why herbalists were respected and feared in equal measure.
+
+To know plants was to know:
+- how illness moved through a household  
+- how grief settled in the body  
+- how spirits were attracted, repelled, or fed  
+
+Herbal magic did not separate medicine from ritual.  
+It never had the luxury to.
+
 ---
 
-### Meet the Heavy Hitters
+## The Plants That Refused to Disappear
+
+Certain herbs appear again and again in witch trials, folk remedies, burial customs, and seasonal rites — not because they were symbolic, but because they *did something*.
 
 - **Wormwood (Artemisia)**: This bitter, bold herb isn’t for casual dabblers. Used for protection, banishing, and opening your mind to the unseen, wormwood has a reputation for both healing and harsh truths. It’s often misunderstood but fiercely effective if you respect its strength.  
 - **Mugwort**: The go-to for dream work and psychic clarity. Don’t underestimate this wild herb—it’s sharp, it’s potent, and it’s been used for centuries to guard witches and shamans alike.  
@@ -62,32 +81,53 @@ Let’s get real: witchy herbalism isn’t about pretty flowers or vague “ener
 - **Yarrow**: A fierce warrior herb used for healing wounds, protection, and strengthening spells. It’s tough, sharp, and packed with power.  
 - **Rosemary**: The herbal watchdog. Protects homes and spirits alike, boosts memory, and sharpens intuition.  
 - **Calendula**: Bright and bold, calendula is used for healing, attracting positivity, and enhancing solar (sun) magic.
+- **Thyme**: Protected homes, dead bodies, and memories.
+---
+
+##  How to Start Without Getting Overwhelmed
+
+Pick one herb. Learn it. Work with it.
+Traditional herbalism was never about mastery.  
+It was about **relationship**.
+
+People learned one plant slowly:
+- how it smelled when burned  
+- how it felt in the hand  
+- how the body reacted  
+- how dreams shifted  
+
+Mistakes were remembered. Success was repeated.  
+Knowledge accumulated quietly.
+
+**This is why folk magic feels fragmented today — it was never meant to be explained all at once.**
+
+So keep a journal. Write what you feel. Be honest. Magic is messy and personal.
+
+---
+
+## Make The First Step:
+
+Learn [How to Make Moon Water and Use It in Magic](/moon-water-magic), it is a great way to begin your witchy journey.  
+
+You can also [Start Your Own Witchy Garden](/witch-garden/) if getting your hands dirty doesn't scare you.  
+
+---
+
+## What Witchy Herbalism Actually Asks of You
+
+Respect. Patience. Memory.
+
+These plants survived plague, famine, religious suppression, and modern dismissal.  
+They are not trends.
+
+If you want real magic, start where people always did:  
+with what grows near you — and what refuses to leave.
 
 ---
 
 ### On Sources, Silence, and Folk Knowledge
 
 Not all herbal magic was written down. This article prioritizes **documented patterns in folk tradition, historical texts, and ethnobotany** rather than speculation.
-
----
-
-### How to Start Without Getting Overwhelmed
-
-Pick one herb. Learn it. Work with it. Make tea, burn it, carry it. Pay attention to what happens—physically, emotionally, spiritually. Don’t rush. Witchy herbalism is a **practice**, not a magic trick.
-
-Keep a journal. Write what you feel. Be honest. Magic is messy and personal.
-
-Learning [How to Make Moon Water and Use It in Magic](/moon-water-magic) is a great way to begin your witchy journey.  
-
-You can also [Start Your Own Witchy Garden](/witch-garden/) if getting your hands dirty doesn't scare you.  
-
----
-
-### The Bottom Line
-
-These are plants that have shaped witchcraft and folk medicine for centuries. They demand respect, curiosity, and a willingness to learn the hard way sometimes.  
-
-If you want magic, start with one or a few of these herbs—they are truly powerful.
 
 ---
 
@@ -119,104 +159,3 @@ Dive deeper into **herbal magic, ritual work, and folk traditions**:
 **A:** Most herbs can be grown in pots or gardens. Toxic plants (e.g., Belladonna) should not be cultivated casually.
 
 ---
-
-
-
----
-title: "Witchy Herbalism: Real Plants, Real Magic, and the Knowledge That Survived"
-date: 2025-07-01
-categories: [herbs, witchcraft, folklore-ancestral]
-tags: [witchy herbs, herbal magic, folk medicine, artemisia, ritual plants]
-permalink: /witchy-herbalism-101/
-excerpt: "Witchy herbalism was never aesthetic or symbolic. It was practical, dangerous, and rooted in plants that healed, harmed, and endured. This is where real magic begins."
-description: "An introduction to witchy herbalism grounded in folklore, folk medicine, and historical plant use—without modern fantasy or spiritual shortcuts."
-author: Wild Witch Herbs
----
-
-Witchy herbalism was never about pretty jars or vague energy.  
-It was about **plants that worked**, sometimes violently, sometimes slowly, and often at a cost.
-
-Long before witchcraft was an identity, it was a **necessity**. People turned to herbs because doctors were distant, priests were limited, and survival demanded knowledge that could be passed quietly, hand to hand.
-
-What survived wasn’t gentle.
-
----
-
-## Why Witchy Herbalism Was Taken Seriously
-
-In folk tradition, herbs were not neutral.  
-They were **forces** — capable of healing wounds, ending pregnancies, breaking fevers, calling dreams, or bringing death.
-
-This is why herbalists were respected and feared in equal measure.
-
-To know plants was to know:
-- how illness moved through a household  
-- how grief settled in the body  
-- how spirits were attracted, repelled, or fed  
-
-Herbal magic did not separate medicine from ritual.  
-It never had the luxury to.
-
----
-
-## The Plants That Refused to Disappear
-
-Certain herbs appear again and again in witch trials, folk remedies, burial customs, and seasonal rites — not because they were symbolic, but because they *did something*.
-
-**Artemisia (wormwood, mugwort)** opened vision, guarded sleep, and marked thresholds between the living and the dead.  
-**Rue** cut through obsession and fear, used against the evil eye when prayer failed.  
-**Yarrow** stopped bleeding and carried dreams of love, truth, and betrayal.  
-**Nettle** burned boundaries into the body so the spirit would remember them.  
-**Sage, rosemary, thyme** protected homes, dead bodies, and memories.
-
-These were not chosen for beauty.  
-They were chosen because they endured.
-
----
-
-## Learning One Plant at a Time
-
-Traditional herbalism was never about mastery.  
-It was about **relationship**.
-
-People learned one plant slowly:
-- how it smelled when burned  
-- how it felt in the hand  
-- how the body reacted  
-- how dreams shifted  
-
-Mistakes were remembered. Success was repeated.  
-Knowledge accumulated quietly.
-
-This is why folk magic feels fragmented today — it was never meant to be explained all at once.
-
----
-
-## The First Place to Begin
-
-If there is a beginning, it is not a spell.
-
-It is attention.
-
-Learn how water changes under moonlight  
-(**[Moon Water in Folk Practice](/moon-water-magic)**)
-
-Learn how soil remembers hands  
-(**[Starting a Witch’s Garden](/witch-garden/)**)
-
-Learn which plants return year after year without being asked — those are the ones worth listening to.
-
----
-
-## What Witchy Herbalism Actually Asks of You
-
-Respect. Patience. Memory.
-
-These plants survived plague, famine, religious suppression, and modern dismissal.  
-They are not trends.
-
-If you want real magic, start where people always did:  
-with what grows near you — and what refuses to leave.
-
----
-
