@@ -152,10 +152,6 @@ Severe burns should always be treated by a professional. These remedies are for 
 - Always check for **allergies**  
 - Wildcraft **ethically** and identify plants 100% before using
 
-Physical wounds were rarely treated alone in folk traditions — many healers believed emotional shock, grief, and fear slowed recovery, which is why plants were also chosen for the heart and nerves, not just the skin. 
-
-If you want to explore that side of ancestral healing, **[Herbs For Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**.
-
 ---
 
 ## How to Prepare a Folk First Aid Kit
@@ -173,6 +169,14 @@ Label everything, charge them under the moon, and always test on yourself before
 Keep your Folk First Aid Kit small, sacred, and real. For a curated introduction to the herbs every witch should know, see **[The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)**.
 
 Want to grow your own healing herbs? Check **[How to Start a Real Witch’s Garden](/witch-garden)** for planting guidance and magical alignment.
+
+---
+
+## Herbal Allies For Emotional Support
+
+Physical wounds were rarely treated alone in folk traditions — many healers believed emotional shock, grief, and fear slowed recovery, which is why plants were also chosen for the heart and nerves, not just the skin. 
+
+If you want to explore herbs for body, mind and spirit healing, see **[Herbs For Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**.
 
 ---
 
