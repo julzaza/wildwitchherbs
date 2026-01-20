@@ -141,7 +141,7 @@ The most powerful allies often arrive in bitter leaves.
 
 ---
 
-## Frequently Asked Questions
+## Frequently Asked Witchy Questions
 
 **Q: Are these herbs safe to grow at home?**  
 A: Most are safe, though some like African Dream Root require proper preparation. Always research local regulations and follow herbal safety guidelines.
