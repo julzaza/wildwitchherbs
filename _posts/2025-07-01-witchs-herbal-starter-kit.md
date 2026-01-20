@@ -23,7 +23,7 @@ faq:
 
 ---
 
-**10 Plants That Have Protected, Poisoned, and Empowered Witches for Centuries**
+**Plants That Have Protected, Poisoned, and Empowered Witches for Centuries**
 
 **Not every witch wears black. Some wear wormwood and carry rue.**  
 This is not a list of “gentle herbal allies.” These are the real ones — **folk medicine plants**, **poisonous protectors**, and **ritual tools** used in spells, curses, midwifery, and burial rites.  
