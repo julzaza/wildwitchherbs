@@ -2,11 +2,10 @@
 layout: single
 title: "7 Witchy Herbs from Around the World"
 excerpt: "From Balkan graves to Amazonian rituals, these seven herbs are anything but ornamental. They’ve protected the dying, summoned ancestors, painted warriors, and guided dreams. This is witchcraft rooted in survival."
-author: wildwitchyherbs
+author: Wild Witch Herbs
 categories: 
-  - Herbal Witchcraft
-  - Folklore
-  - Herbalism
+  - herbal-magic
+  - folklore-ancestral
 tags: 
   - witchy herbs
   - folk magic
@@ -43,6 +42,8 @@ Steeped for baths to cleanse illness or spiritual residue. Burned to clear ritua
 **Folklore Note:** Hung in Chinese homes during the Ghost Festival to ward off wandering spirits. In Balkan graves, it was planted to keep the “restless” buried.
 
 Learn more about [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)
+Find out the **[Difference Between Smoke Cleansing and Smudging](/smoke-cleansing-vs-smudging/)** to choose the right ritual for your needs.  
+Discover which **[Herbs You Should Never Burn In Ritual](/never-burn-herbs/)** to avoid dangerous and even deadly situations.
 
 ---
 
@@ -110,6 +111,8 @@ Used as body paint in ritual to invoke ancestral strength and protect from harm.
 
 **Folklore Note:** Amazonian warriors marked their faces with achiote before battle or ceremony. The red wasn't for beauty — it was for **fire**, **bloodline**, and **boldness**.
 
+---
+
 ## Final Words: Grow What Remembers You
 
 These are the plants that wake when called — not with commands, but with respect.
@@ -120,12 +123,10 @@ The most powerful allies often arrive in bitter leaves.
 
 ---
 
-## Related Posts
+## Dive Deeper Into Herbal Magic
 
-- [Wormwood in Witchcraft and War: From Babylon to Balkan Graves](/wormwood-witchcraft-war)
-- [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
-- [How to Make Moon Water and Use It in Magic](/moon-water-magic)
+- Find out which **[Herbs Forbidden For Men](/forbidden-herbs-for-men/)**
+- Learn about **[Herbs Forbidden For Women](/forbidden-herbs-for-women/)**
+- Discover **[Herbs That Keep The Evil Eye Away](/herbs-that-keep-out-evil-eye/)**
 
 ---
-
-
