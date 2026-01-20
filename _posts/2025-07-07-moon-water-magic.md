@@ -120,15 +120,15 @@ Mix moon water with rosemary or wormwood infusion. Pour into a spray bottle and 
 
 ## You Don’t Need Permission
 
-There is no “right way” to make moon water. You don’t need to be part of a coven. You don’t need a high priestess title. You don’t need white robes or silver chalices.
+There is no “right way” to make moon water. **You don’t need to be part of a coven. You don’t need a high priestess title**. You don’t need white robes or silver chalices.
 
-You need a jar, a little time, and a willingness to be honest with yourself.
+**You need a jar, a little time, and a willingness to be honest with yourself**.
 
 Water listens. The moon watches. That’s all the magic you need.
 
 So make the water. Speak your spell. Let it sit under the moon like a secret you’re ready to live.
 
-Drink it in—not always with your mouth, but with your skin, your breath, your bones.
+**Drink it in—not always with your mouth, but with your skin, your breath, your bones**.
 
 The moon won’t ask if you’re worthy. She’s already pouring down your name.
 
@@ -136,19 +136,19 @@ The moon won’t ask if you’re worthy. She’s already pouring down your name.
 
 ## Got More Moon Water Questions?
 
-Q: **Can I use moon water every night?**
-A: Yes, but its potency varies with moon phase. Full moons are strongest for manifestation; new moons for reflection and planting intentions.
+**Q: Can I use moon water every night?**  
+A: Yes, but its potency varies with moon phase. Full moons are strongest for manifestation; new moons are better for reflection and planting intentions.
 
-Q: **Are crystals and herbs necessary?**
-A: No, intention alone charges water. Herbs and crystals amplify or align energies but are optional.
+**Q: Are crystals and herbs necessary?**  
+A: No. Intention alone charges water. Herbs and crystals amplify or align energies but are optional.
 
-Q: **How should I store moon water?**
-A: Cool, dark place or on your altar. Label with date and moon phase.
+**Q: How should I store moon water?**  
+A: Keep it in a cool, dark place or on your altar. Always label it with the date and moon phase.
 
-Q: **Can moon water be ingested?**
-A: Only if safe and potable, with non-toxic herbs. Otherwise, use externally.
+**Q: Can moon water be ingested?**  
+A: Only if the water is clean, potable, and contains non-toxic herbs. Otherwise, use it externally for rituals, cleansing, or anointing.
 
-Q: **How do I combine moon water with other spells?**
-A: Replace regular water in jars, baths, or ritual blends. Speak your intent aloud when combining.
+**Q: How do I combine moon water with other spells?**  
+A: Replace regular water in spell jars, baths, floor washes, or ritual blends. Speak your intention aloud when combining.
 
 ---
