@@ -219,7 +219,7 @@ These herbs hold power — and don’t poison the air:
 - **Artemisia annua** — Revered in China for thousands of years, tied to spirits and healing.  
 - **Rosemary** — Universally protective, used in funerals, love spells, and exorcisms.
 
-  Here is a detailed guide on [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)
+Here is a detailed guide on **[How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)**.
   
 ---
 
@@ -231,11 +231,13 @@ Not all cleansing rituals are the same, and not all herbs are culturally or ethi
 
 Before choosing plants to burn, you may want to read **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)** — a guide to understanding the difference between global smoke traditions and Indigenous smudging, so your practice remains safe and respectful on all levels.
 
-## Related Posts
+---
 
-- [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
-- [How to Make Moon Water and Use It in Magic](/moon-water-magic)
-- [How To Start Your Own Witchy Garden](/witch-garden/)
+## Explore Other Hidden Dangers Of Herbal Witchcraft
+
+- **[Forbidden Herbs In World Magic](/forbidden-herbs-global-folk-magic/)**
+- **[Herbs Kept Away From Women](/forbidden-herbs-for-women/)**
+- **[Herbs Kept Away From Men](/forbidden-herbs-for-men/)**
 
 ---
 
