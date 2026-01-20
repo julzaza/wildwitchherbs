@@ -148,11 +148,13 @@ A sharper cousin of mugwort, burned to **ward off disease** and **malicious spir
 
 ## What Smoke Remembers (Final Words)
 
-Smoke travels faster than footsteps and lingers longer than most prayers.
+**Smoke travels faster than footsteps and lingers longer than most prayers.**
 
 Your ancestors used it to speak across thresholds. Witches used it to mask their spells or draw down spirits. In Balkan barns, they smoked herbs to keep death out. In temples, they used it to invite it in.
 
 Don’t let modern aesthetics rob your rituals of their teeth. Pick herbs that **meant something**. Burn them like you mean it.
+
+**If you work with smoke, keep notes — which herbs respond, which resist, and which remember you.**
 
 And always ask — who’s watching, and what are you clearing space for?
 
