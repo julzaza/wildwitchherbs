@@ -5,7 +5,6 @@ description: "A folklore-rich guide to traditional European herbal first aid. Le
 excerpt: "Long before sterile wipes and pharmacy shelves, healers, witches, and grandmothers relied on yarrow, plantain, elderflower, arnica, and other folk plants for cuts, fevers, bruises, burns, and stings. This is your old-world first aid kit."
 permalink: /folk-herbal-first-aid/
 author: "Wild Witch Herbs"
-read_time: true
 related: true
 categories: [natural-healing]
 tags: [herbs, folk-magic, herbalism, first-aid, old-europe]
@@ -57,7 +56,7 @@ schema:
     name: "Wild Witch Herbs"
 ---
 
-Long before antiseptic wipes and factory-sealed pills, people turned to what they had: leaves, roots, resins, and instinct. The original first responders were witches, midwives, and grandmothers — women who knew what to rub on a sting, steep for a fever, or smear on a burn. 
+Long before antiseptic wipes and factory-sealed pills, people turned to what they had: leaves, roots, resins, and instinct. **The original first responders were witches, midwives, and grandmothers** — women who knew what to rub on a sting, steep for a fever, or smear on a burn. 
 
 Call it folk herbalism, witchcraft, or old country know-how — these remedies were meant to work. 
 
@@ -72,7 +71,7 @@ This is your **folk herbal first aid guide** — time to take notes from witches
 ## For Cuts and Scrapes
 
 ### Yarrow (Achillea millefolium)  
-Yarrow is legendary for stopping bleeding — soldiers carried it into battle. Powder the dried leaves or apply fresh bruised ones directly to the wound. It also wards off infection and is gentle on skin.
+Called ‘soldier’s herb,’ it stopped bleeding in European battlefields and was also used in North American folk medicine for wounds. Powder the dried leaves or apply fresh bruised ones directly to the wound. It also wards off infection and is gentle on skin.
 
 ### Plantain (Plantago major/lanceolata)  
 That “weed” underfoot? Plantain pulls out dirt, venom, and infection. Chew it into a poultice or mash with a bit of water and press onto wounds. 
@@ -120,6 +119,7 @@ A rare essential oil safe to apply directly (in tiny amounts). Soothes wasp stin
 **Witch Tip:** For spiritual cleansing after a bite or sting (especially from snakes or aggressive animals), burn rosemary and juniper together to cleanse fear from the aura.
 
 ---
+
 ## Burns, Scalds, and Sunburns
 
 ### Plantain (*Plantago major*) 
@@ -145,6 +145,13 @@ While not native to colder climates, aloe has traveled into global folk herbalis
 
 Severe burns should always be treated by a professional. These remedies are for mild kitchen mishaps, minor scalds, or sunburns.
 
+- Don’t use **comfrey** on infected wounds  
+- **Arnica** is toxic if taken internally  
+- Always check for **allergies**  
+- Wildcraft **ethically** and identify plants 100% before using
+
+Herbal medicine is potent, real, and not always safe — which is exactly why it works. Treat it with the reverence it deserves.
+
 ---
 
 ## How to Prepare a Folk First Aid Kit
@@ -157,23 +164,13 @@ Build yours over time. Keep it small, sacred, and real.
 - Tools: muslin cloth, mortar & pestle, small glass jars
 - Optional: beeswax for making salves
 
-Label everything, charge them under the moon, and always test on yourself before offering to others.
+Label everything, charge them under the moon, and always test on yourself before offering to others. If you're new to herbal magic, start with **[Witchy Herbalism 101](/witchy-herbalism-101)** to learn how to work with real plants and ancestral magic.
+
+Keep your Folk First Aid Kit small, sacred, and real. For a curated introduction to the herbs every witch should know, see **[The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)**.
+
+Want to grow your own healing herbs? Check **[How to Start a Real Witch’s Garden](/witch-garden)** for planting guidance and magical alignment.
 
 ---
-
-##  Warnings & Wisdom
-
-- Don’t use **comfrey** on infected wounds  
-- **Arnica** is toxic if taken internally  
-- Always check for **allergies**  
-- Wildcraft **ethically** and identify plants 100% before using
-
-Herbal medicine is potent, real, and not always safe — which is exactly why it works. Treat it with the reverence it deserves.
-
----
-Want to grow your own healing herbs? **[How to Start a Real Witch’s Garden](/witch-garden)** walks you through what to plant, and why.
-
-If you're new to herbal magic, **[Witchy Herbalism 101](/witchy-herbalism-101)** is your no-nonsense crash course.
 
 ## Final Thoughts
 
@@ -184,14 +181,6 @@ You don’t need white coats or clinic lights to start healing. You need dirt un
 Build your apothecary. Learn your plants. And remember — you come from a long line of witches who knew how to heal.
 
 **If these ancestral remedies speak to you, consider sharing them with fellow witches or bookmarking this guide for your own first aid apothecary.**
-
----
-
-## Related Posts
-
-- [Witchy Herbalism 101: Real Plants, Real Magic, No B.S.](/witchy-herbalism-101)
-- [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
-- [Why Balkan Whitches Survived](/balkan-witches/)
 
 ---
 
