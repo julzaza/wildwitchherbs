@@ -36,7 +36,7 @@ Moon water is simply water that has been placed under the light of the moon to a
 
 The moon rules tides, blood, dreams, sleep, cycles, death, birth, madness, and memory. When you charge water under her eye, you make it a carrier of transformation.
 
-Feel called to the moon? **Make your water tonight**, whisper your intentions, and share the magic with fellow witches
+Feel called to the moon? **Make your water tonight**, whisper your intentions, and share the magic with fellow witches.
 
 ---
 
