@@ -110,7 +110,7 @@ So keep a journal. Write what you feel. Be honest. Magic is messy and personal.
 
 Learn [How to Make Moon Water and Use It in Magic](/moon-water-magic), it is a great way to begin your witchy journey.  
 
-You can also [Start Your Own Witchy Garden](/witch-garden/) if getting your hands dirty doesn't scare you.  
+Can also [Start Your Own Witchy Garden](/witch-garden/) if getting your hands dirty doesn't scare you. And let's be honest - real witchcraft can get a bit messy...
 
 ---
 
