@@ -1,8 +1,8 @@
 ---
 title: "How to Make Moon Water: A Witchcraft Ritual Guide"
 excerpt: "Moon water isn’t just trendy—it’s a powerful, ancient magical tool. Learn how witches across cultures have worked with lunar water, and how to craft, charge, and use it for spells, healing, and ancestral work."
-author: wildwitchyherbs
-categories: [Witchcraft, Herbal Rituals, Moon Magic]
+author: Wild Witch Herbs 
+categories: [Witchcraft-rituals, folklore-ancestral]
 tags: [moon water, full moon ritual, lunar witchcraft, water magic, herbal spells, witch tips]
 date: 2025-07-07
 permalink: /moon-water-magic/
@@ -40,6 +40,8 @@ Use spring water, river water, melted snow, collected rain—or even tap, if tha
 - **Waxing Moon**: Growth, attraction, spells in motion  
 - **Eclipse Moons**: Intense, chaotic, not for beginners
 
+Learn more about **[Full Moon Rituals and Sacred Herbs](/full-moon-rituals/)**.
+
 ### 3. **Select Your Vessel**
 Glass jars are ideal. No plastic. A clear jar lets light through, but a dark jar can be used for shadow work. Lid optional—open if safe from bugs or dust, covered if outside in the wild.
 
@@ -49,8 +51,6 @@ Glass jars are ideal. No plastic. A clear jar lets light through, but a dark jar
 - **Lavender** for calm and cleansing  
 - **Wormwood** for protection  
 - Crystals (only safe ones like quartz or amethyst—avoid anything toxic in water)
-
-Learn more about [Full Moon Rituals and Sacred Herbs](/full-moon-rituals/)
 
 ### 5. **Speak to It**
 This is where it becomes magic. Whisper your intention. Sing. Cry into it. Say a prayer to the moon. It doesn’t need to rhyme. It needs to be true.
@@ -121,8 +121,3 @@ Drink it in—not always with your mouth, but with your skin, your breath, your 
 The moon won’t ask if you’re worthy. She’s already pouring down your name.
 
 ---
-
-## Related Posts
-
-- [Full Moon Rituals with Sacred Herbs: Folklore & Moon Magic](/full-moon-rituals)
-- [The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)
