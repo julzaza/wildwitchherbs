@@ -3,14 +3,53 @@ layout: single
 title: "Witchy Herbs for Healing: Ancient Plant Magic for Body and Spirit"
 permalink: /witchy-herbs-for-healing/
 excerpt: "Step into the green world of healing witchcraft. Discover traditional herbs like yarrow, calendula, lemon balm, and fennel—used by cunning folk, wise women, and herbal witches to mend wounds of flesh and soul."
-categories: herbalism witchcraft healing
-tags: [healing herbs, magical plants, folk medicine, witchcraft, apothecary]
+categories:
+  - herbal-magic
+  - natural-healing
+tags:
+  - healing herbs
+  - magical plants
+  - folk medicine
+  - witchcraft
+  - apothecary
+  - herbalism
+  - ancestral herbalism
 header:
   image: /assets/images/top-view-assortment-spices-wooden-board.webp
   overlay_filter: 0.4
+schema:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  "headline": "Witchy Herbs for Healing: Ancient Plant Magic for Body and Spirit"
+  "description": "A folklore-rich guide to healing herbs used in witchcraft and folk medicine, including yarrow, calendula, lemon balm, and fennel. Learn magical and practical applications for body, spirit, and ritual."
+  "author":
+    "@type": "Person"
+    "name": "Wild Witch Herbs"
+  "publisher":
+    "@type": "Organization"
+    "name": "Wild Witch Herbs"
+  "mainEntityOfPage": "https://wildwitchherbs.com/witchy-herbs-for-healing/"
+  "keywords": "healing herbs, witchcraft herbs, magical plants, herbalism, folk medicine, apothecary, ancestral herbalism"
+faq:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Which herbs are best for healing in witchcraft?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Traditional healing herbs in witchcraft include yarrow, calendula, lemon balm, comfrey, fennel, dandelion, feverfew, plantain, mint, thyme, sage, basil, elder, lavender, mugwort, sweet wormwood, and chamomile. Each herb has both practical medicinal uses and magical properties."
+    - "@type": "Question"
+      "name": "How do I use witchy herbs safely?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Always research each herb for toxicity and contraindications. Use herbs externally, in teas, tinctures, or ritual preparations with care. Consult a qualified herbalist for internal use, especially during pregnancy or with pre-existing conditions."
+    - "@type": "Question"
+      "name": "Can magical herbs also have physical healing effects?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Many herbs used in witchcraft have documented medicinal properties. Their magical applications often complement physical healing by focusing intention, ritual, and energetic alignment."
 ---
-
-
 
 
 ## The Healing Witch
