@@ -146,13 +146,6 @@ The question is not whether they speak—but whether you will keep the silence r
 
 ---
 
-*Sources:*  
-- Vuk Stefanović Karadžić, *Srpske narodne priče* (1853)  
-- Field notes from Eastern Serbian Vlach communities, 19th–20th c. ethnographies  
-- Comparative studies of Indo-European animal-speech myths
-
----
-
 ### Weave the Magic
 
 Share this story in your own circle.  
@@ -160,3 +153,11 @@ Let it inspire your next ritual or moonlit walk.
 And when you brew your next cup of wild wormwood tea, listen closely:  
 the plants may be ready to speak in their own **silent language**.
 
+---
+
+*Sources:*  
+- Vuk Stefanović Karadžić, *Srpske narodne priče* (1853)  
+- Field notes from Eastern Serbian Vlach communities, 19th–20th c. ethnographies  
+- Comparative studies of Indo-European animal-speech myths
+
+---
