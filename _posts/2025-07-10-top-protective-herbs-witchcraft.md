@@ -55,7 +55,9 @@ Protective herbs were never used in isolation—many also worked as healers, gri
 
 Let’s meet the eleven most enduring protective herbs in witchcraft, from Appalachian hills to Slavic meadows and Caribbean shores.
 
-## What Are Protective Herbs in Witchcraft?
+---
+
+## What Are Protective Herbs and How Were They Used?
 
 ### Garlic (*Allium sativum*) 
 
