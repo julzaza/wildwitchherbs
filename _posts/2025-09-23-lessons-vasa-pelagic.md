@@ -2,10 +2,10 @@
 layout: single
 title: "Folk Cures of Vasa Pelagić: Strange Balkan Rituals"
 date: 2025-09-23
-categories: [folklore-ancestral]
-tags: [Vasa Pelagić, Narodni Učitelj, Balkan Herbs, Folk Remedies, Rituals, Herbal Lore]
+categories: [folklore-ancestral, natural-healing]
+tags: [Vasa Pelagić, folk medicine, Balkan herbs, rituals]
 description: "Dive into the stranger side of Vasa Pelagić’s Narodni Učitelj, uncovering unusual folk remedies, hidden rituals, and herbal wisdom from 19th-century Balkan villages."
-excerpt: "Explore Vasa Pelagić’s Narodni Učitelj for herbal remedies, folk rituals, and Balkan wisdom blending science, superstition, and community care. Key herbs: juniper, oak, walnut, yarrow."
+excerpt: "Explore unusual Balkan folk remedies, herbal practices, and rituals from Vasa Pelagić’s Narodni Učitelj, highlighting herbs like juniper, walnut, and oak alongside unique community rituals."
 search: false
 audience: "Herbalists, witches, folk medicine enthusiasts"
 language: "en"
@@ -20,7 +20,47 @@ faqs:
     answer: "Walnut leaves and green husks were boiled as a rinse to deepen hair color and promote shine."
   - question: "Did Pelagić include rituals beyond herbal remedies?"
     answer: "Yes, he combined herbs with symbolic acts like bread-and-salt oaths to resolve conflicts and maintain community harmony."
+schema:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  "headline": "Folk Cures of Vasa Pelagić: Strange Balkan Rituals"
+  "description": "Explore unusual Balkan folk remedies, herbal practices, and rituals from Vasa Pelagić’s Narodni Učitelj, highlighting herbs like juniper, walnut, and oak alongside unique community rituals."
+  "author":
+    "@type": "Person"
+    "name": "Wild Witch Herbs"
+  "datePublished": "2025-09-23"
+  "mainEntityOfPage": "/blog/folk-cures-vasa-pelagic/"
+  "articleSection": "folklore-ancestral"
+  "publisher":
+    "@type": "Organization"
+    "name": "Wild Witch Herbs"
+  "mainEntity":
+    "@type": "FAQPage"
+    "name": "Folk Cures of Vasa Pelagić — FAQ"
+    "acceptedAnswerCount": 4
+    "mainEntity": 
+      - "@type": "Question"
+        "name": "What remedies did Vasa Pelagić suggest for measles?"
+        "acceptedAnswer":
+          "@type": "Answer"
+          "text": "He recommended smoke baths using juniper and oak branches to disinfect the air and aid the sick."
+      - "@type": "Question"
+        "name": "How did Pelagić use dew in skincare?"
+        "acceptedAnswer":
+          "@type": "Answer"
+          "text": "He advised washing the face with morning dew to soothe skin and improve complexion, a practice supported by gentle cold-water therapy."
+      - "@type": "Question"
+        "name": "Which herbs were used for hair care?"
+        "acceptedAnswer":
+          "@type": "Answer"
+          "text": "Walnut leaves and green husks were boiled as a rinse to deepen hair color and promote shine."
+      - "@type": "Question"
+        "name": "Did Pelagić include rituals beyond herbal remedies?"
+        "acceptedAnswer":
+          "@type": "Answer"
+          "text": "Yes, he combined herbs with symbolic acts like bread-and-salt oaths to resolve conflicts and maintain community harmony."
 ---
+
 In the late 1800s, Vasa Pelagić wandered the Serbian countryside carrying more than political pamphlets. His *Narodni Učitelj*—The People’s Teacher—was equal parts **village schoolbook, moral compass, and herb-soaked spellbook**.  
 
 While our previous post explored general guidance for everyday wellness, here we uncover the stranger chapters, revealing **folk rituals, unusual remedies, and practices that blur the line between science, superstition, and rebellion**.
