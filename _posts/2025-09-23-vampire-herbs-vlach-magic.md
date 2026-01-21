@@ -1,9 +1,50 @@
 ---
 layout: single
 title: "Serbian Vampire Herbs and the Vlach Connection"
-description: "Garlic, hawthorn, wild rose—discover the real herbs used in Balkan vampire lore and how Vlach traditions shaped Europe’s night-stalker myths long before Dracula."
-categories: [balkan-folklore, vampire-lore, herbalism, vlach-magic]
-tags: [vampire, garlic, hawthorn, wild rose, Serbia, Vlach]
+description: "Discover the real herbs—garlic, hawthorn, wild rose—used in Balkan vampire lore and the Vlach traditions that shaped Europe’s vampire myths long before Dracula."
+excerpt: "Explore Serbian vampire herbs and Vlach magical practices along the Timok and Danube, where garlic, hawthorn, and wild rose kept the dead at bay."
+categories: [folklore-ancestral, herbal-magic]
+tags: [vampire herbs, garlic, hawthorn, wild rose, Vlach magic, Serbia]
+search: false
+audience: "Witches, herbalists, folklore enthusiasts, Balkan history buffs"
+language: "en"
+difficulty: "Beginner to Intermediate"
+contentType: "Educational, Folklore, Herbal Guide"
+faqs:
+  - question: "Which herbs did the Vlachs use against vampires?"
+    answer: "Garlic, hawthorn, wild rose, wormwood, and juniper were commonly used to protect homes, graves, and thresholds."
+  - question: "Why was garlic so central in Balkan vampire lore?"
+    answer: "Garlic’s antimicrobial properties may have inspired its reputation for keeping the dead from rising, combined with symbolic protection beliefs."
+  - question: "Did Vlach vampire practices influence Europe?"
+    answer: "Yes. Reports of Serbian vampire cases, like Arnold Paole in the 1720s, spread to Europe and influenced Gothic literature, including Bram Stoker’s Dracula."
+  - question: "Are these herbs used in modern folk magic?"
+    answer: "Yes, garlic plaits, hawthorn hedges, and protective herb bundles remain part of Balkan folk magic and witchcraft traditions."
+
+# Schema for structured data
+schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Which herbs did the Vlachs use against vampires?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Garlic, hawthorn, wild rose, wormwood, and juniper were commonly used to protect homes, graves, and thresholds."
+    - "@type": "Question"
+      "name": "Why was garlic so central in Balkan vampire lore?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Garlic’s antimicrobial properties may have inspired its reputation for keeping the dead from rising, combined with symbolic protection beliefs."
+    - "@type": "Question"
+      "name": "Did Vlach vampire practices influence Europe?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Reports of Serbian vampire cases, like Arnold Paole in the 1720s, spread to Europe and influenced Gothic literature, including Bram Stoker’s Dracula."
+    - "@type": "Question"
+      "name": "Are these herbs used in modern folk magic?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes, garlic plaits, hawthorn hedges, and protective herb bundles remain part of Balkan folk magic and witchcraft traditions."
 ---
 
 Long before Bram Stoker imagined Transylvania, **Balkan villagers already knew how to keep the dead from rising**.  
@@ -44,36 +85,3 @@ Today, hawthorn hedges and garlic plaits hang as simple farm traditions, but eac
 
 Explore more uncanny herbal lore in **[Ancient Shields: Witchy Protection Herbs](/world-magic-for-protection/)**.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "TITLE OF YOUR POST",
-  "description": "One-sentence, human-sounding summary of your article.",
-  "author": {
-    "@type": "Person",
-    "name": "Wild Witch Herbs"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Wild Witch Herbs",
-    "url": "https://wildwitchherbs.com"
-  },
-  "image": "https://wildwitchherbs.com/assets/images/YOUR-IMAGE.jpg",
-  "keywords": [
-    "witchcraft",
-    "folk magic",
-    "herbal folklore",
-    "Slavic magic",
-    "Balkan witchcraft",
-    "herbalism"
-  ],
-  "articleSection": "Witchcraft & Folklore",
-  "datePublished": "2025-01-01",
-  "dateModified": "2025-01-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://wildwitchherbs.com/YOUR-PERMALINK/"
-  }
-}
-</script>
