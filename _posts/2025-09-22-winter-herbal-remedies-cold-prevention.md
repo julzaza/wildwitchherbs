@@ -254,7 +254,10 @@ Herbs are most effective when combined with **folk practices**:
 * Explore magical or protective properties of herbs for a witchy twist—nettle for strength, yarrow for protection, rosemary for clarity.
 
 
-You can also build a year-round apothecary with the guides **[Witchy Herbs for Healing](/witchy-herbs-for-healing/)** and **[Folk Herbal First Aid](/folk-herbal-first-aid/)**.
+You can also build a year-round apothecary with the guides:
+
+- **[Witchy Herbs for Healing](/witchy-herbs-for-healing/)**
+- **[Folk Herbal First Aid](/folk-herbal-first-aid/)**.
 
 ---
 
@@ -268,39 +271,3 @@ This winter, let your home smell of herbs, your body stay warm and strong, and y
 
 **Wild Witch Herbs Tip:** Start small—choose one or two herbs from this guide, brew them into a tea, and feel the traditions of the past supporting your modern winter wellness. Then slowly expand your herbal repertoire, creating your own **personal seasonal rituals** rooted in folklore and practical magic.  
 
-
-
-# Schema Markup
-```html
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Serbian Vampire Herbs: Vlach Folklore & Protective Magic",
-  "description": "A folklore-based exploration of Serbian and Vlach vampire herbs, graveyard plants, and protective rituals.",
-  "author": {
-    "@type": "Person",
-    "name": "Wild Witch Herbs"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Wild Witch Herbs",
-    "url": "https://wildwitchherbs.com"
-  },
-  "image": "https://wildwitchherbs.com/assets/images/serbian-vampire-herbs.jpg",
-  "keywords": [
-    "Serbian vampire folklore",
-    "Vlach magic",
-    "Balkan witchcraft",
-    "protective herbs",
-    "graveyard plants"
-  ],
-  "articleSection": "Folklore & Magic",
-  "datePublished": "2025-01-01",
-  "dateModified": "2025-01-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://wildwitchherbs.com/serbian-vampire-herbs/"
-  }
-}
-</script>
