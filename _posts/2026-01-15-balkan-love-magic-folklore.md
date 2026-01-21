@@ -113,7 +113,7 @@ Common plants:
 - **Garlic** — protection *from* love magic  
 - **Rue** — protection against rival love charms  
 
-For more magical herbal allies, see **[The Witch’s Herbal Starter Kit](/herbal-starter-kit/)**.
+Not all love magic was meant to bind—certain bitter and repelling plants were deliberately used to end obsession, sever unhealthy attachments, or force separation, a practice explored in **[Plants Used To Sever Love Bonds](/plants-to-break-love-bonds-folk-magic/)**.
 
 ---
 
@@ -139,7 +139,7 @@ If you remove danger from love magic, you remove truth.
 
 Balkan traditions remind us:
 - Desire binds  
-- Binding costs  
+- “Binding costs—and sometimes unbinding was the only survival left. 
 - Magic without consent corrodes  
 
 ---
