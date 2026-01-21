@@ -153,7 +153,7 @@ Plants that rot, sting, burn, or repel were respected for their ability to close
 
 ---
 
-## Human FAQ
+## FAQ
 
 **Is this curse work?**  
 No. Historically, these rites focused on release, not harm.
