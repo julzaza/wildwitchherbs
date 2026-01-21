@@ -185,8 +185,6 @@ If not, “smoke cleansing” is the correct and respectful term.
 
 ---
 
-To dive deeper:
-
 ## Want to Go Deeper into Ritual Smoke?
 
 If you want to build a smoke practice rooted in safety, ancestry, and the land beneath your feet, these guides will help you take the next steps:
