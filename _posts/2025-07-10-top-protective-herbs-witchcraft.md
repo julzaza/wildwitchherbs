@@ -51,7 +51,7 @@ Rooted in ritual and folklore, each one has **earned its place in the witch’s 
 
 Across folk traditions, protective herbs were believed to guard the body, mind, home, and soul, forming the backbone of traditional witchcraft and herbal magic worldwide.
 
-Protective herbs were never used in isolation—many also worked as healers, grief-soothers, and shock remedies, which is why they often appear alongside **[Emotional Healing Herbs In Folk Magic](/witchy-herbs-anxiety-grief-emotional-healing/)**.
+Protective herbs were never used in isolation—many also worked as healers, grief-soothers, and shock remedies, which is why they often appear alongside **[Witchy Herbs for Healing: Ancient Plant Magic for Body and Spirit](/witchy-herbs-for-healing/)**, a folklore-rich guide to plants that mend both flesh and feeling.
 
 Let’s meet the eleven most enduring protective herbs in witchcraft, from Appalachian hills to Slavic meadows and Caribbean shores.
 
@@ -111,6 +111,8 @@ From Celtic seers to Slavic midwives and Japanese shamans, mugwort has long guar
 **Burned before rituals, tucked into clothing, or brewed into tea before divination, this herb protects against nightmares, unwanted spirits, and even travelers on the astral plane**.
 
 Shamans, midwives, witches—have always trusted mugwort as their companion when traveling between worlds.
+
+Mugwort also appears in lunar and dreamwork lore — see **[Witchy Plants for Bedrooms: Dreamwork & Night Magic](/witchy-plants-bedroom)** for how herbs like mugwort and juniper guide spirit travel.
 
 The Germanic name for mugwort means “midge-plant,” referencing its power to ward off not just pests, but parasitic spirits.
 
@@ -172,7 +174,7 @@ Eastern European cemeteries were once rimmed with this bitter plant. In Balkan a
 
 Its ally, Artemisia annua, shares its ghost-walking strength.
 
-Check out **[Wormwood in Witchcraft and War: From Babylon to Balkan Graves](/wormwood-witchcraft-war)** to find out more about its mystical powers.
+Check out **[Wormwood in Witchcraft and War: From Babylon To The Balkans](/wormwood-witchcraft-war)** to find out more about its mystical powers.
 
 ---
 
@@ -235,14 +237,14 @@ Pass it through incense smoke or over a candle’s flame, and bury it near your 
 
 Let your herb guardians stand sentry.
 
-**Check out [Top Witchy Herbs for Healing](/witchy-herbs-for-healing/) to learn about plants witches and healers used for centuries to take care of the body and mind.**
+If you want to build your own protection apothecary, consider starting with foundational witches’ plants like those in **[The Witch’s Herbal Starter Kit: 10 Powerful Plants](/herbal-starter-kit/)** — it includes many protectors and teachable allies.
 
 ---
 
-## Related Posts
+## For More Witchy Herbal Knowledge:
 
-- **[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)**
-- **[Full Moon Rituals With Sacred Herbs ](/full-moon-rituals/)**
+- learn which **[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)**
+- and how to perform **[Full Moon Rituals With Sacred Herbs ](/full-moon-rituals/)**
 
 ---
 
