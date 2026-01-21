@@ -281,40 +281,40 @@ A: Rituals and charms can amplify a herb’s power, but many protective plants a
 ### Herb-Specific Frequently Asked Questions
 
 <details>
-<summary>Click to expand herb-by-herb protection guide</summary>
+  <summary>Click to expand herb-by-herb protection guide</summary>
 
-**Q: How is garlic used in protective magic?**  
-A: Hung, carried, or rubbed on thresholds to repel evil and misfortune. It is also used in charms and protective spells. Learn more in **[Herbs That Keep Out Evil Eye](/herbs-that-keep-out-evil-eye/)**.
+  <p><strong>Q: How is garlic used in protective magic?</strong><br>
+  A: Hung, carried, or rubbed on thresholds to repel evil and misfortune. It is also used in charms and protective spells. Learn more in <a href="/herbs-that-keep-out-evil-eye/">Herbs That Keep Out Evil Eye</a>.</p>
 
-**Q: How is rue used in protective magic?**  
-A: Rue is burned to clear curses, worn to deflect envy, or used in spiritual cleansings (*limpias*).
+  <p><strong>Q: How is rue used in protective magic?</strong><br>
+  A: Rue is burned to clear curses, worn to deflect envy, or used in spiritual cleansings (<em>limpias</em>).</p>
 
-**Q: How is mugwort used in protective magic?**  
-A: Burned, brewed in tea, or tucked under pillows before sleep or rituals to shield against nightmares, spirits, and astral disturbances. More on dreamwork herbs in **[Witchy Plants for Your Bedroom](/witchy-plants-bedroom/)**.
+  <p><strong>Q: How is mugwort used in protective magic?</strong><br>
+  A: Burned, brewed in tea, or tucked under pillows before sleep or rituals to shield against nightmares, spirits, and astral disturbances. More on dreamwork herbs in <a href="/witchy-plants-bedroom/">Witchy Plants for Your Bedroom</a>.</p>
 
-**Q: How is sweet wormwood used in protective magic?**  
-A: Burned to purge dark energy, cleanse spaces, and sever harmful influences. Often used in birth and burial rites when the veil is thin.
+  <p><strong>Q: How is sweet wormwood used in protective magic?</strong><br>
+  A: Burned to purge dark energy, cleanse spaces, and sever harmful influences. Often used in birth and burial rites when the veil is thin.</p>
 
-**Q: How is hyssop used in protective magic?**  
-A: Hung, burned, or added to oils for purification, sanctification, and protection against negative forces.
+  <p><strong>Q: How is hyssop used in protective magic?</strong><br>
+  A: Hung, burned, or added to oils for purification, sanctification, and protection against negative forces.</p>
 
-**Q: How is yarrow used in protective magic?**  
-A: Sewn into sachets, tucked under pillows, or placed near doorways to prevent spiritual attacks and fae mischief.
+  <p><strong>Q: How is yarrow used in protective magic?</strong><br>
+  A: Sewn into sachets, tucked under pillows, or placed near doorways to prevent spiritual attacks and fae mischief.</p>
 
-**Q: How is wormwood used in protective magic?**  
-A: Planted or burned to repel restless spirits, madness, misfortune, and lingering negative energies. Related rituals can be explored in **[Wormwood in Witchcraft and War](/wormwood-witchcraft-war/)**.
+  <p><strong>Q: How is wormwood used in protective magic?</strong><br>
+  A: Planted or burned to repel restless spirits, madness, misfortune, and lingering negative energies. Related rituals can be explored in <a href="/wormwood-witchcraft-war/">Wormwood in Witchcraft and War</a>.</p>
 
-**Q: How is angelica used in protective magic?**  
-A: Worn or carried to protect women and children from illness, enchantment, or spiritual harm.
+  <p><strong>Q: How is angelica used in protective magic?</strong><br>
+  A: Worn or carried to protect women and children from illness, enchantment, or spiritual harm.</p>
 
-**Q: How is basil used in protective magic?**  
-A: Burned or sprinkled to invite good spirits, cleanse spaces, and drive away negative energies or evil intent.
+  <p><strong>Q: How is basil used in protective magic?</strong><br>
+  A: Burned or sprinkled to invite good spirits, cleanse spaces, and drive away negative energies or evil intent.</p>
 
-**Q: How is juniper used in protective magic?**  
-A: Burned, tied, or hung to protect livestock, infants, and sacred spaces from harm, chaos, or malevolent forces.
+  <p><strong>Q: How is juniper used in protective magic?</strong><br>
+  A: Burned, tied, or hung to protect livestock, infants, and sacred spaces from harm, chaos, or malevolent forces.</p>
 
-**Q: How is blackthorn used in protective magic?**  
-A: Its wood is carved into staves, hung as charms, or used in circles to ward off intruders and curses, guarding home and hearth. See **[Nine Sacred Herbs & Charm Magic](/nine-herbs-charm-healing/)** for related traditions.
+  <p><strong>Q: How is blackthorn used in protective magic?</strong><br>
+  A: Its wood is carved into staves, hung as charms, or used in circles to ward off intruders and curses, guarding home and hearth. See <a href="/nine-herbs-charm-healing/">Nine Sacred Herbs & Charm Magic</a> for related traditions.</p>
 
 </details>
 
