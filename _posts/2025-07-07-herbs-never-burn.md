@@ -8,7 +8,7 @@ meta_description: "Some herbs were never meant for fire. Learn which plants shou
 author: Wild Witch Herbs
 
 categories:
-  - witchcraft-rituals
+  - witchcraft-ritual
   - herbal-magic
 
 tags:
