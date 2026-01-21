@@ -194,7 +194,7 @@ They prepared for it.
 
 ---
 
-## Human FAQ
+## FAQ
 
 **Did these rituals guarantee love?**  
 No. They were believed to open paths and increase opportunity, not override fate.
