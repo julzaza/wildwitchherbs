@@ -5,7 +5,7 @@ excerpt: "In Balkan folk tradition, spring herbs governed love, fertility, prote
 description: "Explore Balkan spring herbal rites rooted in folklore, village practice, and documented witchcraft. Learn how love, fertility, and protection were shaped by seasonal plants in Serbian, Romanian, Bulgarian, and Vlach traditions."
 categories:
   - herbal-magic
-  - witchcraft-rituals
+  - witchcraft-ritual
 tags:
   - Balkan witchcraft
   - spring herbs folklore
