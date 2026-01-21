@@ -75,7 +75,7 @@ schema:
 
 ## Why Drink Artemisia Annua Tea?
 
-Traditionally used across Asia, Africa, and Europe, *Artemisia annua* — also known as sweet wormwood or qinghao — has been valued for centuries for its effects on the body’s natural balance and resilience.
+Traditionally used across Asia, Africa, and Europe, *Artemisia annua* — also known as **sweet wormwood or qinghao** — has been valued for centuries for its effects on the body’s natural balance and resilience.
 
 While we can’t make medical claims, herbalists and traditional practitioners have long used it for:
 
@@ -84,7 +84,7 @@ While we can’t make medical claims, herbalists and traditional practitioners h
 - Creating a clean internal environment where the body can reset  
 - Supporting a healthy response to heat and inflammation  
 
-In folk medicine, bitter herbs like Artemisia are believed to “wake up” the digestive system and help flush out stagnation — physically and energetically. Such bitter herbs were valued for their ability to “clear heat,” balance the system, and fortify the body’s natural rhythm with the seasons.
+In folk medicine, bitter herbs like Artemisia are **believed to “wake up” the digestive system and help flush out stagnation — physically and energetically**. Such bitter herbs were valued for their ability to “clear heat,” balance the system, and fortify the body’s natural rhythm with the seasons.
 
 
 In the Balkans, where we source our tea, women once gathered Artemisia with the moon, drying it slowly in shaded sheds and attics, away from harsh sunlight. The result is a clean, piercing infusion that feels alive — one cup is enough to remind you: this is no supermarket herb.
@@ -93,7 +93,7 @@ In the Balkans, where we source our tea, women once gathered Artemisia with the 
 
 Artemisia isn’t just medicine. She’s a witch’s herb — full of magic, mystery, and protection.
 
-Across cultures, she’s been burned to cleanse spaces, worn to ward off illness, and brewed in teas to sharpen dreams or deepen trance states. In Balkan folk traditions, she’s gathered in the waxing moon, hung above doors, or steeped in moonwater for midsummer rituals.
+Across cultures, she’s been **burned to cleanse spaces, worn to ward off illness, and brewed in teas to sharpen dreams or deepen trance states**. In Balkan folk traditions, she’s gathered in the waxing moon, hung above doors, or steeped in moonwater for midsummer rituals.
 
 Here are a few ways witches and folk healers use *Artemisia annua*:
 
@@ -106,7 +106,7 @@ Here are a few ways witches and folk healers use *Artemisia annua*:
 
 ## What Makes Our Tea Different
 
-Our *Artemisia annua* is wildcrafted in the sunny southern Balkans — where the climate, mineral-rich soils, and traditional growing rhythms produce plants of striking potency.
+Our *Artemisia annua* is wildcrafted in the sunny southern Balkans — where the **climate, mineral-rich soils, and traditional growing rhythms produce plants of striking potency**.
 
 - Hand-harvested at peak vitality  
 - Dried slowly in the shade to preserve aromatic compounds  
