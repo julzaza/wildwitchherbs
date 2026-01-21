@@ -180,7 +180,7 @@ Modern guides often reduce attraction magic to candles, affirmations, or visuali
 
 Traditional magic focused on behavior.
 
-How you moved through the world mattered more than what you declared once. Repetition, patience, and alignment were the real workings.
+Repetition, patience, and alignment were the real workings.
 
 ---
 
