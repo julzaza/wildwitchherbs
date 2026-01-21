@@ -142,7 +142,7 @@ Improper practice could open the wrong energetic doors.
 
 While this post explores global traditions, you can deepen your understanding with regional practices:
 
-- [Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic/)** post explores the darker side of love bonding spells
+- [Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic-folklore/)** post explores the darker side of love bonding spells
 - [Balkan Love Rites and Ancestral Courtship Traditions](/balkan-courtship-love-rites/)** covers socially acceptable love rituals and traditions
 
 ---
