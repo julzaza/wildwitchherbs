@@ -284,13 +284,13 @@ A: Rituals and charms can amplify a herb’s power, but many protective plants a
 ### Herb-Specific Questions 
 
 **Q: How is garlic used in protective magic?**  
-A: Hung, carried, or rubbed on thresholds to repel evil and misfortune. It is also used in charms and protective spells. Learn more in **[Witchy Herbs for Healing: Ancient Plant Magic for Body and Spirit](/witchy-herbs-for-healing/)**.
+A: Hung, carried, or rubbed on thresholds to repel evil and misfortune. It is also used in charms and protective spells. Learn more in **[Witchy Herbs for Body and Spirit](/witchy-herbs-for-healing/)**.
 
 **Q: How is rue used in protective magic?**  
 A: Rue is burned to clear curses, worn to deflect envy, or used in spiritual cleansings (*limpias*). See **[The Witch’s Herbal Starter Kit: 10 Powerful Plants](/herbal-starter-kit/)** for foundational protective herbs.
 
 **Q: How is mugwort used in protective magic?**  
-A: Burned, brewed in tea, or tucked under pillows before sleep or rituals to shield against nightmares, spirits, and astral disturbances. More on dreamwork herbs in **[Witchy Plants for Bedrooms: Dreamwork & Night Magic](/witchy-plants-bedroom/)**.
+A: Burned, brewed in tea, or tucked under pillows before sleep or rituals to shield against nightmares, spirits, and astral disturbances. More on dreamwork herbs in **[Top Plants for Your Bedroom](/witchy-plants-bedroom/)**.
 
 **Q: How is sweet wormwood used in protective magic?**  
 A: Burned to purge dark energy, cleanse spaces, and sever harmful influences. Often used in birth and burial rites when the veil is thin.
@@ -302,7 +302,7 @@ A: Hung, burned, or added to oils for purification, sanctification, and protecti
 A: Sewn into sachets, tucked under pillows, or placed near doorways to prevent spiritual attacks and fae mischief.
 
 **Q: How is wormwood used in protective magic?**  
-A: Planted or burned to repel restless spirits, madness, misfortune, and lingering negative energies. Related rituals can be explored in **[Wormwood in Witchcraft and War: From Babylon To The Balkans](/wormwood-witchcraft-war/)**.
+A: Planted or burned to repel restless spirits, madness, misfortune, and lingering negative energies. Related rituals can be explored in **[Artemisia And Witchcraft](/wormwood-witchcraft-war/)**.
 
 **Q: How is angelica used in protective magic?**  
 A: Worn or carried to protect women and children from illness, enchantment, or spiritual harm.
@@ -314,7 +314,7 @@ A: Burned or sprinkled to invite good spirits, cleanse spaces, and drive away ne
 A: Burned, tied, or hung to protect livestock, infants, and sacred spaces from harm, chaos, or malevolent forces.
 
 **Q: How is blackthorn used in protective magic?**  
-A: Its wood is carved into staves, hung as charms, or used in circles to ward off intruders and curses, guarding home and hearth. See **[Nine Sacred Herbs & Charm Magic](/nine-herbs-charm/)** for related traditions.
+A: Its wood is carved into staves, hung as charms, or used in circles to ward off intruders and curses, guarding home and hearth. See **[Nine Sacred Herbs & Charm Magic](/nine-herbs-charm-healing/)** for related traditions.
 
 ---
 
