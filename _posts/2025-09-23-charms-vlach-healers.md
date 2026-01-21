@@ -2,8 +2,48 @@
 layout: single
 title: "Hidden Charms of Vlach Healers: Love, Binding & Forest Magic"
 description: "Explore authentic Vlach magic from Eastern Serbia—love spells, protective knots, and forest-spirit offerings—rooted in centuries of Balkan folklore and still whispered about today."
-categories: [balkan-folklore, vlach-magic, herbalism, serbia]
-tags: [Vlach, magic, love spells, Serbian folklore, knot magic, forest spirits, Balkan witchcraft]
+excerpt: "A rare look into Vlach healer traditions of Eastern Serbia, including love charms, protective knot magic, and offerings to forest spirits recorded in Balkan folklore."
+categories:
+  - folklore-ancestral
+  - witchcraft-ritual
+tags:
+  - vlach magic
+  - balkan witchcraft
+  - serbian folklore
+  - love spells
+  - knot magic
+  - forest spirits
+  - folk rituals
+  - ancestral magic
+schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Who are the Vlach healers of Eastern Serbia?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Vlach healers, known as vlaski vračare, are folk practitioners from the Timok Valley who preserve pre-Christian ritual magic, protective rites, and oral tradition."
+    - "@type": "Question"
+      "name": "What is knot magic in Vlach tradition?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Knot magic, or uvezivanje, involves tying symbolic knots in wool or linen to bind protection, love, or health, often sealed with spoken charms."
+    - "@type": "Question"
+      "name": "Were Vlach love spells considered harmful?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Traditionally they were viewed as household magic meant to restore harmony, though misuse was feared and warned against."
+    - "@type": "Question"
+      "name": "Do forest spirits appear in Vlach folklore?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Forest spirits known as šumske majke are believed to guard wild places and medicinal plants, requiring offerings before harvesting."
+    - "@type": "Question"
+      "name": "Is Vlach magic still practiced today?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "While often framed as folklore, elements of Vlach ritual magic continue quietly within families in Eastern Serbia."
 ---
 
 Deep in the **Timok Valley** of Eastern Serbia, where mist settles over oak groves and vineyards, the **Vlach healers (Vlaski vračare)** have guarded a living tradition of magic.  
@@ -46,4 +86,25 @@ However, when the outsiders are not looking, **potent magic still takes place ac
 
 ---
 
+## Frequently Asked Questions
+
+**Who are the Vlach healers of Eastern Serbia?**  
+Vlach healers, known locally as *vlaski vračare*, are folk practitioners from the Timok Valley who preserve pre-Christian ritual magic, herbal knowledge, and protective rites.
+
+**What is knot magic in Vlach tradition?**  
+Knot magic, or *uvezivanje*, involves tying linen or wool into symbolic knots to bind protection, love, or health, often accompanied by whispered prayers.
+
+**Were Vlach love spells considered harmful?**  
+Traditionally, they were seen as household magic meant to restore harmony, not coercive sorcery, though misuse was feared.
+
+**Do forest spirits appear in Vlach folklore?**  
+Yes. Forest mothers (*šumske majke*) are believed to guard plants, springs, and wild places, requiring offerings before harvesting herbs.
+
+**Is Vlach magic still practiced today?**  
+While often framed as folklore, elements of Vlach ritual magic continue quietly within families in Eastern Serbia.
+
+---
+
 *Sources: Tihomir Đorđević’s **“Vračanje i gatanje u našem narodu”**, field notes from the Serbian Ethnographic Society (1890–1930), and contemporary ethnobotanical surveys of the Timok region.*
+
+---
