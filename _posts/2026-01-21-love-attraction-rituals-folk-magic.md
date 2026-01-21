@@ -6,7 +6,7 @@ description: "A folklore-based deep dive into authentic love attraction rituals 
 author: Wild Witch Herbs
 
 categories:
-  - witchcraft-rituals
+  - witchcraft-ritual
   - folklore-ancestral
 
 tags:
