@@ -45,7 +45,9 @@ schema:
 
 ## Witches Rely on The Plant Kingdom for Protection 
 
-Across centuries and continents, witches, cunning folk, and healers have turned to the green world for protection. These aren’t just healing herbs—they are sentinels, spirit allies, and guardians between worlds. Rooted in ritual and folklore, each one has earned its place in the witch’s apothecary through centuries of practical magic.
+Across centuries and continents, witches, cunning folk, and healers have turned to the green world for protection. These aren’t just healing herbs—they are sentinels, spirit allies, and guardians between worlds. 
+
+Rooted in ritual and folklore, each one has **earned its place in the witch’s apothecary through centuries of practical magic**.
 
 Let’s meet the eleven most enduring protective herbs in witchcraft, from Appalachian hills to Slavic meadows and Caribbean shores.
 
@@ -53,7 +55,9 @@ Let’s meet the eleven most enduring protective herbs in witchcraft, from Appal
 
 **A universal shield against evil.**
 
-Few herbs have inspired as much reverence—and fear—as garlic. In Slavic and Balkan folk traditions, strings of garlic are hung in windows and above doors to repel the evil eye, witches, vampires, and malicious spirits. Old women still slip a clove beneath a child's pillow to keep night terrors and ghostly visitors at bay.
+Few herbs have inspired as much reverence—and fear—as garlic. 
+
+In Slavic and Balkan folk traditions, strings of garlic are hung in windows and above doors to repel the evil eye, witches, vampires, and malicious spirits. Old women still slip a clove **beneath a child's pillow to keep night terrors and ghostly visitors at bay**.
 
 In Mediterranean folk magic, garlic is rubbed on doorframes to keep misfortune out. In Hoodoo and African American rootwork, it's used in protective floor washes and personal mojo bags.
 
@@ -188,7 +192,7 @@ Hung above the hearth or worn as an amulet, it keeps out intruders—both human 
 
 ---
 
-These are just the top plants with protective powers, but there are a lot more to explore. Learn [What Witches from Different Parts of the World Use for Protection](/world-magic-for-protection/) here.
+These are just the top plants with protective powers, but there are a lot more to explore. Learn **[What Witches From Different Parts of the World Use for Protection](/world-magic-for-protection/)**.
 
 ## Make Your Own Charm
 **Spell: The Charm of Thorns and Smoke**
@@ -205,8 +209,8 @@ Let your herb guardians stand sentry.
 
 ## Related Posts
 
-- [Herbs You Should Never Burn in Ritual](/never-burn-herbs/)
-- [Full Moon Rituals With Sacred Herbs ](/full-moon-rituals/)
+- **[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)**
+- **[Full Moon Rituals With Sacred Herbs ](/full-moon-rituals/)**
 
 ---
 
