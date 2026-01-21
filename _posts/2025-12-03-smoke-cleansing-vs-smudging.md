@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "Smoke Cleansing vs. Smudging"
+permalink: /smoke-cleansing-vs-smudging/
 excerpt: "A global guide to smoke cleansing traditions, how they differ from Indigenous smudging, and which herbs are safe to burn."
 description: "Learn the difference between smoke cleansing and smudging. Explore global traditional cleansing practices and herbs from Europe, Asia, Africa, and beyond."
 author: wildwitchyherbs
+date: 2025-07-07
 
 categories:
   - witchcraft-ritual
@@ -24,17 +26,53 @@ keywords:
   - ritual smoke
   - cleansing herbs
 
-permalink: /smoke-cleansing-vs-smudging/
-date: 2025-07-07
+search: false
 
-# Disable breadcrumbs & TOC for tighter top spacing
-breadcrumbs: false
-toc: false
-toc_sticky: false
+faqs:
+  - question: "What is smoke cleansing?"
+    answer: "Smoke cleansing is the practice of burning herbs for purification, protection, blessing, or ritual purposes. It is a global tradition, distinct from Indigenous smudging ceremonies."
+  - question: "How is smoke cleansing different from smudging?"
+    answer: "Smudging is a sacred Indigenous ceremony with lineage, prayer, and specific cultural protocols. Smoke cleansing is a global practice inspired by local traditions and herbs without appropriating Indigenous rituals."
+  - question: "Which herbs are safe to use for smoke cleansing?"
+    answer: "Local, ethically sourced herbs are best. Common choices include mugwort, juniper, thyme, bay laurel, pine, sandalwood, and tulsi. Avoid endangered or toxic plants like wild-harvested white sage or unknown resins."
+  - question: "How do I perform a respectful smoke cleansing?"
+    answer: "Choose a local herb, set an intention, burn it in a heat-proof bowl, move clockwise for blessing or counterclockwise for banishing, focus on corners, doors, and windows, and close with grounding words."
+  - question: "Can I use white sage?"
+    answer: "White sage is sacred to certain Indigenous nations and is endangered in the wild. Only use it if you belong to the lineage and were taught the ceremony. Otherwise, use local herbs for smoke cleansing."
 
-schema: true
-schema_type: "Article"
+schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "name": "Smoke Cleansing vs. Smudging — FAQ"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What is smoke cleansing?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Smoke cleansing is the practice of burning herbs for purification, protection, blessing, or ritual purposes. It is a global tradition, distinct from Indigenous smudging ceremonies."
+    - "@type": "Question"
+      "name": "How is smoke cleansing different from smudging?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Smudging is a sacred Indigenous ceremony with lineage, prayer, and specific cultural protocols. Smoke cleansing is a global practice inspired by local traditions and herbs without appropriating Indigenous rituals."
+    - "@type": "Question"
+      "name": "Which herbs are safe to use for smoke cleansing?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Local, ethically sourced herbs are best. Common choices include mugwort, juniper, thyme, bay laurel, pine, sandalwood, and tulsi. Avoid endangered or toxic plants like wild-harvested white sage or unknown resins."
+    - "@type": "Question"
+      "name": "How do I perform a respectful smoke cleansing?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Choose a local herb, set an intention, burn it in a heat-proof bowl, move clockwise for blessing or counterclockwise for banishing, focus on corners, doors, and windows, and close with grounding words."
+    - "@type": "Question"
+      "name": "Can I use white sage?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "White sage is sacred to certain Indigenous nations and is endangered in the wild. Only use it if you belong to the lineage and were taught the ceremony. Otherwise, use local herbs for smoke cleansing."
+        
 ---
+
 ## What Smudging Actually Is
 Smudging is a **North American Indigenous ceremony**, practiced by nations such as:
 
