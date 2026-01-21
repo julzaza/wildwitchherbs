@@ -3,8 +3,8 @@ title: "Wormwood in War & Witchcraft: Artemisia and Bitter Lore"
 excerpt: "Across Europe and beyond, Artemisia grew where armies marched, bodies fell, and land was broken. This is the folklore of wormwood, war, and the bitter plants that followed soldiers home."
 description: "A folklore-grounded exploration of Artemisia absinthium, Artemisia vulgaris, and Artemisia annua in war contexts—soldiers’ bodies, battlefield land, death rites, dreamwork, and Old World witchcraft traditions."
 categories:
-  - folklore-ancestral
-  - witchcraft-rituals
+- witchcraft-ritual
+- herbal-magic
 tags:
   - wormwood folklore
   - artemisia absinthium
