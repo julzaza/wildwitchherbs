@@ -51,6 +51,10 @@ Across Africa, Asia, the Americas, and the Pacific, love magic was about alignme
 
 These herbs did not promise instant romance. They shaped timing, recognition, and mutual pull.
 
+While these herbs focus on alignment rather than coercion, it is important to recognize that some folk traditions also used plants to release or end relationships; for a comprehensive look at separation herbs, see **[Plants Used to Break Love or Sever Bonds in Folk Magic](/plants-to-break-love-bonds-folk-magic/)**.
+
+For readers interested in ritual methods, timing, and symbolic action, our foundational post **[Love Attraction Rituals in Global Folk Magic](/love-attraction-rituals-global-folk-magic/)** provides detailed insight into how communities historically invited love through practice rather than coercion.
+ 
 ---
 
 ## What “Attracting the Right Partner” Meant in Folk Traditions
