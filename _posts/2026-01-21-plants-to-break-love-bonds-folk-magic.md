@@ -141,7 +141,7 @@ Timing mattered—but finality mattered more.
 
 Balkan traditions provide particularly rich documentation of both attraction and love binding rites; for deeper exploration of these regional customs, see 
 
-- **[Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic/)**
+- **[Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic-folklore/)**
 - **[Balkan Love Rites and Ancestral Courtship Traditions](/balkan-courtship-love-rites/)**
 
 ---
