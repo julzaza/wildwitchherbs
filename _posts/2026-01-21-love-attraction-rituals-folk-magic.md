@@ -58,6 +58,8 @@ What follows is a global record of how love was traditionally drawn, based on fo
 
 For readers curious about the specific plants used in folk attraction magic, see our guide on **[Love Magic Herbs to Attract the Right Partner](/love-magic-herbs-to-attract-the-right-partner/)**, which details herbs from Africa, Asia, and the Americas used to align fate rather than force desire.
 
+Some regions favored bitter or protective plants to ensure that love was ethically invited, rather than imposed; for historical examples of herbs used to dissolve attachments or break unhealthy bonds, consult **[Plants Used to Break Love or Sever Bonds in Folk Magic](/plants-to-break-love-bonds-folk-magic/)**.
+
 ---
 
 ## What Love Attraction Meant in Folk Tradition
