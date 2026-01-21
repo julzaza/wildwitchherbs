@@ -3,6 +3,8 @@ layout: single
 title: "Lunar Gardening: How Real Witches Plant with the Moon"
 permalink: /lunar-gardening-folklore/
 date: 2025-07-02
+excerpt: "The moon’s rhythm isn’t just for spells and cycles. It governs roots, leaves, and everything in between. Learn how to plant herbs with purpose — guided by phases, not trends."
+description: "Explore lunar gardening through Old European and global folklore. Learn how to plant, harvest, and ritualize herbs with the moon phases, including cultural practices, moon herbs, and planting rituals."
 categories:
   - folklore-ancestral
   - herbal-magic
@@ -14,8 +16,6 @@ tags:
   - planting rituals
   - herbal traditions
 related: true
-excerpt: "The moon’s rhythm isn’t just for spells and cycles. It governs roots, leaves, and everything in between. Learn how to plant herbs with purpose — guided by phases, not trends."
-description: "Explore lunar gardening through Old European and global folklore. Learn how to plant, harvest, and ritualize herbs with the moon phases, including cultural practices, moon herbs, and planting rituals."
 
 # --- SCHEMA & FAQ ---
 schema:
