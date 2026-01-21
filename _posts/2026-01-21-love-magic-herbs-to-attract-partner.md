@@ -170,7 +170,3 @@ Yes. Because it avoids coercion and focuses on mutual alignment.
 **Can I perform this anytime?**  
 Many traditions favored evening, moonrise, or seasonal thresholds, but intention outweighed timing.
 
-**Where can I learn more about love magic?**  
-See related posts:  
-- [Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic/)  
-- [Balkan Love Rites and Ancestral Courtship Traditions](/balkan-love-rites/)
