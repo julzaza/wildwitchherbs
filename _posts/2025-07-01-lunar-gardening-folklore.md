@@ -5,6 +5,7 @@ permalink: /lunar-gardening-folklore/
 date: 2025-07-02
 categories:
   - folklore-ancestral
+  - herbal-magic
 tags:
   - lunar gardening
   - moon phases
