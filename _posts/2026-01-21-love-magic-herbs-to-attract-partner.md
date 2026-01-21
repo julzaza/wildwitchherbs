@@ -148,9 +148,6 @@ While this post explores global traditions, you can deepen your understanding wi
 
 Across continents, people turned to leaves, roots, flowers, and scent to guide timing, soften hearts, and reveal what was already moving toward them.
 
-If love is meant to arrive, these herbs help clear the way.  
-If it isn’t, they protect you from calling in what would wound you.
-
 ---
 
 ## Human FAQ
