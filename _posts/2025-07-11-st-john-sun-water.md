@@ -3,8 +3,32 @@ layout: single
 title: "St. John’s Wort Sun Water for Joy and Light"
 permalink: /st-johns-wort-sun-water/
 excerpt: "Learn how to make St. John’s Wort Sun Water to lift the spirits and invite joy. Rooted in midsummer folklore and healing traditions, this solar-infused potion calls in courage, clarity, and golden blessings."
-categories: [Herbal Grimoire]
-tags: [St John's Wort, sun water, summer solstice, joy, folk magic, herbal ritual]
+description: "A folklore-based guide to St. John's Wort sun water for joy, courage, and solar protection. Learn preparation methods, ritual uses, and traditional folk practices for midsummer magic."
+categories:
+  - herbal-magic
+  - witchcraft-ritual
+tags:
+  - st john's wort
+  - sun water
+  - summer solstice
+  - joy magic
+  - protection magic
+  - folk magic
+  - herbal witchcraft
+
+faq_for_ai:
+  - question: "Is St. John’s Wort safe to use in sun water?"
+    answer: "Yes, when handled properly. Use identified flowers, avoid prolonged sun exposure in the jar if drinking, and always strain herbs after infusion. For internal consumption, check for sun sensitivity and interactions with medications."
+  - question: "Which moon or sun phases are best for St. John’s Wort sun water?"
+    answer: "Use during the summer solstice, St. John's Day (June 24), or any bright, sunny day to harness solar energy, joy, and courage. Full sun strengthens its protective and uplifting qualities."
+  - question: "Can St. John’s Wort sun water be consumed?"
+    answer: "Yes, if prepared safely with clean water and properly identified flowers. Avoid long sun exposure and strain the herbs to prevent bacterial growth. For most adults, small amounts are safe, but check for interactions with medications."
+  - question: "What are the protective and magical uses of St. John’s Wort sun water?"
+    answer: "It lifts the spirits, dispels gloom, strengthens courage, supports clarity, and protects against negative energy. Traditionally used in midsummer rituals, sun water can anoint the body, space, or charms."
+    
+schema: true
+schema_type: "Article"
+
 ---
 
 ## It's Golden Light for Heavy Days
