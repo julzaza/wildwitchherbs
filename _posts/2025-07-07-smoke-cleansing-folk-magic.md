@@ -6,7 +6,7 @@ description: "A global guide to performing smoke cleansing rituals in folk magic
 author: "Wild Witch Herbs"
 
 categories:
-  - witchcraft-rituals
+  - witchcraft-ritual
   - herbal-magic
 
 tags:
