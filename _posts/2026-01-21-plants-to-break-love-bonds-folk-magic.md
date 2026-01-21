@@ -137,6 +137,15 @@ Timing mattered—but finality mattered more.
 
 ---
 
+## Balkan Love Magic and Courtship Rites
+
+Balkan traditions provide particularly rich documentation of both attraction and love binding rites; for deeper exploration of these regional customs, see 
+
+- **[Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic/)**
+- **[Balkan Love Rites and Ancestral Courtship Traditions](/balkan-courtship-love-rites/)**
+
+---
+
 ## Important Folk Warnings
 
 Historical sources consistently warned:
@@ -172,7 +181,3 @@ Only with restraint and clarity. Folk traditions stressed emotional readiness.
 **Can these plants be combined?**  
 Rarely. Most traditions used one plant at a time.
 
-**Where can I learn more about love magic?**  
-See related posts:  
-- [Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic/)  
-- [Balkan Love Rites and Ancestral Courtship Traditions](/balkan-love-rites/)
