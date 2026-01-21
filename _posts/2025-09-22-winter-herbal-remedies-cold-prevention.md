@@ -269,5 +269,7 @@ By incorporating nettle, yarrow, rosemary, elderflower, and the other winter her
 
 This winter, let your home smell of herbs, your body stay warm and strong, and your spirit remain resilient. Explore, experiment, and discover the **magic in everyday herbal wellness**—and remember, each cup of tea or pinch of dried herb is a small ritual of self-care and connection.  
 
-**Wild Witch Herbs Tip:** Start small—choose one or two herbs from this guide, brew them into a tea, and feel the traditions of the past supporting your modern winter wellness. Then slowly expand your herbal repertoire, creating your own **personal seasonal rituals** rooted in folklore and practical magic.  
+**Wild Witch Herbs Tip:** 
+
+Start small—choose one or two herbs from this guide, brew them into a tea, and feel the traditions of the past supporting your modern winter wellness. Then slowly expand your herbal repertoire, creating your own **personal seasonal rituals** rooted in folklore and practical magic.  
 
