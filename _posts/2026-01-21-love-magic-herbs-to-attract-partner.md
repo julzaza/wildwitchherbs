@@ -25,7 +25,7 @@ keywords:
   - folk attraction rituals
   - witchcraft love herbs
 
-permalink: /global-love-magic-herbs/
+permalink: /love-magic-herbs-to-attract-the-right-partner/
 date: 2026-02-01
 schema: true
 schema_type: "Article"
