@@ -16,11 +16,10 @@ description: >
 
 categories:
   - herbal-magic
-  - witchcraft-rituals
+  - witchcraft-ritual
 
 tags:
   - stinging nettle
-  - nettle folklore
   - moon water
   - protection magic
   - banishing rituals
@@ -28,6 +27,9 @@ tags:
   - European folk magic
   - herbal witchcraft
   - boundary magic
+  - witchy herbs
+  - lunar magic
+  - folk magic
 
 faq:
   - question: "Is stinging nettle safe to use in moon water?"
