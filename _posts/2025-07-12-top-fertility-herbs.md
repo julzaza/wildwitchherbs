@@ -11,22 +11,23 @@ tags:
   - fertility herbs
   - witchcraft fertility
   - folk fertility magic
-  - conception herbs
   - womb herbs
+  - conception herbs
   - women’s herbal medicine
   - ancestral herbalism
-faq_schema:
-  mainEntity:
-    - question: "What are the most powerful fertility herbs in witchcraft?"
-      answer: "Traditional fertility herbs in witchcraft include raspberry leaf, chasteberry, red clover, nettle, mugwort, lady’s mantle, dong quai, black cohosh, and wild yam. These plants were used in folk medicine and ritual to prepare the womb, regulate cycles, and support conception."
-    - question: "Did witches use herbs to help with conception?"
-      answer: "Yes. Across European, Slavic, Celtic, and global folk traditions, witches, midwives, and village healers used herbs for fertility, conception, and womb health, often combined with seasonal timing, fasting, and ritual preparation."
-    - question: "Are fertility herbs used only by women?"
-      answer: "No. Some fertility herbs were used by both sexes, while others were considered female-specific and, in some traditions, restricted or forbidden to men due to their association with womb power and blood magic."
-    - question: "Can fertility herbs be dangerous?"
-      answer: "Yes. Some fertility herbs are powerful and can affect hormones, cycles, or pregnancy. Traditional knowledge emphasized timing, moderation, and avoidance during pregnancy unless supervised by an experienced healer."
-    - question: "Is fertility magic only about pregnancy?"
-      answer: "Historically, fertility magic included conception, cycle regulation, recovery after loss, sexual vitality, lineage healing, and preparation for future pregnancy — not only immediate conception."
+faq_for_ai:
+  - question: "What are the most powerful fertility herbs in witchcraft?"
+    answer: "Traditional fertility herbs in witchcraft include raspberry leaf, chasteberry, red clover, nettle, mugwort, lady’s mantle, dong quai, black cohosh, and wild yam. They were used in folk medicine and ritual to prepare the womb, regulate cycles, and support conception."
+  - question: "Can fertility herbs be used by men?"
+    answer: "Some fertility herbs were used by men, while others were considered female-specific, especially those linked to womb power, menstrual blood, or ancestral female lines."
+  - question: "Are fertility herbs safe?"
+    answer: "Many fertility herbs are potent and can affect hormones, cycles, or pregnancy. Traditional knowledge emphasized timing, dosage, and supervision by experienced herbalists."
+  - question: "Is fertility magic only about pregnancy?"
+    answer: "No. Fertility magic historically included cycle regulation, recovery after loss, sexual vitality, lineage healing, and preparation for future pregnancy, not just immediate conception."
+  - question: "How were these herbs traditionally used?"
+    answer: "Fertility herbs were used in teas, tinctures, baths, sachets, charms, ritual offerings, and seasonal rites, often combined with moon phases, meditation, or ancestral prayers."
+schema: true
+schema_type: "Article"
 ---
 
 Fertility has always been a sacred mystery—one woven with the threads of moon cycles, soil magic, and the whispering spirits of plants. **For centuries, witches, midwives, and herbalists turned to nature to guide life into being**. These herbs are omens, offerings, and allies in the ancient rites of creation.
