@@ -1,11 +1,20 @@
 ---
 layout: single
 title: "Folk Fertility Rituals: Magic of Creation"
+permalink: /folk-fertility-rituals/
 excerpt: "Old European fertility rituals for body, spirit, and womb—moon rites, bonfires, ancestral offerings, womb charms, and earth magic."
 description: "A raw, folklore-rich guide to Old European fertility rituals—moon bathing, womb charms, Beltane rites, ancestor offerings, wildflower blessings, and earth-based magic for creation and renewal."
-categories: [witchcraft-rituals, folklore-ancestral]
-tags: [fertility rituals, creation magic, womb rites, folk magic]
-
+categories:
+  - witchcraft-ritual
+  - folklore-ancestral
+tags:
+  - fertility rituals
+  - creation magic
+  - womb rites
+  - folk magic
+  - ancestral magic
+  - moon magic
+  - herbal magic
 schema:
   "@context": "https://schema.org"
   "@type": "Article"
@@ -13,13 +22,12 @@ schema:
   "description": "A folklore-rich exploration of Old European fertility rituals including moon rites, Beltane fires, womb charms, ancestor offerings, and earth fertility magic."
   "author":
     "@type": "Person"
-    "name": "Wild Witchy Herbs"
+    "name": "Wild Witch Herbs"
   "publisher":
     "@type": "Organization"
-    "name": "Wild Witchy Herbs"
+    "name": "Wild Witch Herbs"
   "mainEntityOfPage": "https://wildwitchherbs.com/folk-fertility-rituals/"
-  "keywords": "fertility rituals, womb magic, Beltane rites, ancestral fertility magic"
-
+  "keywords": "fertility rituals, womb magic, Beltane rites, ancestral fertility magic, folk witchcraft, herbal magic"
 faq:
   "@context": "https://schema.org"
   "@type": "FAQPage"
@@ -38,7 +46,7 @@ faq:
       "name": "Which herbs support fertility magic?"
       "acceptedAnswer":
         "@type": "Answer"
-        "text": "Traditional allies include rose, raspberry leaf, mugwort, nettle, red clover, and lady’s mantle."
+        "text": "Traditional allies include rose, raspberry leaf, mugwort, nettle, red clover, lady’s mantle, and chasteberry."
 ---
 
 Fertility was never just about making babies. **In folk magic and witchcraft, it’s the power to create—new life, new ideas, new beginnings**. Whether working with the land, the body, or the spirit, witches and wise folk across cultures used rituals to tap into the sacred forces of generation.
@@ -94,13 +102,13 @@ Before lying together, lovers might stuff the bed with herbs and flowers like **
 
   To bless a bed or room, sprinkle dried herbs and say: *“Let what is planted here be blessed and bloom.”*
 
-Deepen your knowledge of [Top Fertility Herbs](/top-fertility-herbs-witchcraft). These are remedies known to midwives, witches, and wise women through the ages.
+Deepen your knowledge of **[Top Fertility Herbs](/top-fertility-herbs-witchcraft)**. These are remedies known to midwives, witches, and wise women through the ages.
   
 ---
 
 ## 8. Menstrual Blood Magic
 
-[Offering Menstrual Blood to Mother Earth](/fertility-rituals-menstrual-magic/) is one of the oldest forms of witchcraft. Wherether you are looking to ecourage conception or honor the creative force, do it in sync with the Moon Cycles. 
+**[Offering Menstrual Blood to Mother Earth](/fertility-rituals-menstrual-magic/)** is one of the oldest forms of witchcraft. Wherether you are looking to ecourage conception or honor the creative force, do it in sync with the Moon Cycles. 
 
 ## Slow Down to Create
 
@@ -109,4 +117,3 @@ Fertility is magic made flesh. **These rituals remind us that creation is sacred
 No ritual guarantees results. But the act of slowing down, speaking with the moon and soil, and honoring your body and spirit—that alone is healing. **That alone opens the door to miracles.**
 
 ---
-
