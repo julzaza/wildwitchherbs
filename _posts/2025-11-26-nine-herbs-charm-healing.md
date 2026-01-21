@@ -2,16 +2,17 @@
 layout: single
 title: "The Nine Herbs Charm: Anglo-Saxon Healing & Magic"
 date: 2025-11-30
-categories: [Anglo-Saxon Magic, Historical Herbs, Folk Remedies]
-tags: [Nine Herbs Charm, Anglo-Saxon Magic, Nigon Wyrta Galdor, Lacnunga, Herbal Spell, Pagan Roots, Protective Herbs, Witchcraft, Folklore]
+permalink: /nine-herbs-charm-anglo-saxon/
+excerpt: "Explore the Nine Herbs Charm, a 10th-century Anglo-Saxon spell using nine sacred herbs and divine invocation for protection, healing, and ritual magic."
 description: "Discover the Nine Herbs Charm, an ancient Anglo-Saxon spell invoking Woden and nine sacred herbs for protection, healing, and magical empowerment. Learn its pagan roots, historical context, and modern herbal applications."
-excerpt: "Explore the Nine Herbs Charm, a 10th-century Anglo-Saxon spell using nine sacred herbs and divine invocation for protection, healing, and ritual magic. Key herbs: mugwort, plantain, betony, chamomile, nettle, garlic."
+categories: [herbal-magic, folklore-ancestral]
+tags: [Nine Herbs Charm, Nigon Wyrta Galdor, Lacnunga, Anglo-Saxon Magic, Protective Herbs]
 search: false
+author_profile: false
 audience: "Herbalists, witches, folklore enthusiasts, historical magic researchers"
 language: "en"
 difficulty: "Intermediate"
 contentType: "Educational, Historical, Herbal Guide"
-keywords: [Nine Herbs Charm, Anglo-Saxon Herbal Magic, Nigon Wyrta Galdor, Protective Herbs, Pagan Rituals, Healing Herbs, Lacnunga, Witchcraft, Folk Magic]
 faqs:
   - question: "What is the Nine Herbs Charm?"
     answer: "A 10th-century Anglo-Saxon spell from the Lacnunga manuscript using nine sacred herbs for healing, protection, and spiritual empowerment."
@@ -23,7 +24,56 @@ faqs:
     answer: "By honoring the nine herbs in ritual, chanting aloud, using them in protective or healing preparations, and connecting with the spiritual symbolism of numbers three and nine."
   - question: "What is the historical significance of the Nine Herbs Charm?"
     answer: "It represents one of the few surviving examples of pre-Christian Anglo-Saxon herbal magic, blending pagan ritual, medicinal knowledge, and early Christian adaptation."
+schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "name": "Nine Herbs Charm — FAQ"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What is the Nine Herbs Charm?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "A 10th-century Anglo-Saxon spell from the Lacnunga manuscript using nine sacred herbs for healing, protection, and spiritual empowerment."
+    - "@type": "Question"
+      "name": "Which herbs are included in the Nine Herbs Charm?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Mugwort, plantain, lamb's cress, betony, chamomile, crab-apple, nettle, fennel, and garlic."
+    - "@type": "Question"
+      "name": "What role does Woden play in the charm?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Woden intervenes with nine twigs, linking divine power to the healing herbs and emphasizing sacred numbers in the ritual."
+    - "@type": "Question"
+      "name": "How can modern herbalists or witches apply the charm?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "By honoring the nine herbs in ritual, chanting aloud, using them in protective or healing preparations, and connecting with the spiritual symbolism of numbers three and nine."
+    - "@type": "Question"
+      "name": "What is the historical significance of the Nine Herbs Charm?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "It represents one of the few surviving examples of pre-Christian Anglo-Saxon herbal magic, blending pagan ritual, medicinal knowledge, and early Christian adaptation."
+internal_links:
+  - title: "Mugwort in Witchcraft & Dream Magic"
+    url: /solstice-dreaming-mugwort-wormwood/
+  - title: "Evergreen Magic Before Christianity"
+    url: /evergreens-witchcraft/
+  - title: "Why Certain Herbs Were Never Burned in Ritual"
+    url: /never-burn-herbs/
+  - title: "Herbs for Smoke Cleansing in Folk Magic"
+    url: /smoke-cleansing-folk-magic/
+  - title: "The Witch’s Garden: Old European Plant Lore"
+    url: /witch-garden/
+seo_keywords: ["Nine Herbs Charm", "Anglo-Saxon Herbal Magic", "Nigon Wyrta Galdor", "Protective Herbs", "Pagan Rituals", "Healing Herbs", "Lacnunga", "Witchcraft", "Folk Magic"]
+ai_optimization:
+  - "Use headings with clear keywords for AI parsing and snippet generation"
+  - "Maintain structured herb tables and numbered lists for clarity"
+  - "Include internal links for better crawlability and relevance"
+  - "Embed historical narrative to increase dwell time and engagement"
+  - "Use long-tail keywords naturally in excerpt, description, and headings"
 ---
+
 ## Ancient Anglo-Saxon Healing Spell
 
 The **Nine Herbs Charm**, also known as **Nigon Wyrta Galdor** or the **Nine Wort Spell**, is a 10th-century **Anglo-Saxon magical text** preserved in the **Lacnunga manuscript (Harley MS 585)**. This spell combines **herbal wisdom, ritual chanting, and divine invocation** to provide **protection, healing, and magical empowerment**.  
