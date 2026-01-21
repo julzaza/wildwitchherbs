@@ -2,8 +2,48 @@
 layout: single
 title: "Herbs Vlach Wise Women Use: Plants of the Timok Valley"
 description: "Meet the healing plants sacred to Vlach herbal magic—yarrow, rue, mugwort, and more—blending authentic folklore with modern phytochemistry."
-categories: [balkan-folklore, herbalism, vlach-magic, serbia]
-tags: [Vlach, herbal magic, Timok Valley, Balkan herbs, traditional medicine]
+excerpt: "Explore seven sacred herbs of the Timok Valley—yarrow, rue, mugwort, wormwood, St. John's Wort, elder, and wild basil—used by Vlach wise women for protection, love, healing, and ritual magic."
+categories: 
+  - folklore-ancestral
+  - natural-healing
+tags:
+  - Vlach
+  - herbal magic
+  - Timok Valley
+  - Balkan herbs
+  - traditional medicine
+  - folk medicine
+  - protective herbs
+search: true
+schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Which herbs did Vlach wise women use most?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Key plants included yarrow, rue, mugwort, wormwood, St. John's Wort, elder, and wild basil, each used for protection, love, healing, and spiritual connection."
+    - "@type": "Question"
+      "name": "How were these herbs harvested in the Timok Valley?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Healers performed offerings—bread crumbs, coins, or whispered prayers—before cutting the first plant, to preserve the herb’s 'duša' or soul."
+    - "@type": "Question"
+      "name": "What magical uses did these plants have?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "They were used in love charms, protective amulets, dreamwork, fertility rites, and rituals honoring forest and spring spirits."
+    - "@type": "Question"
+      "name": "Are these herbs still relevant today?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Many of the same herbs—like St. John's Wort, mugwort, and elder—remain popular in modern herbalism, witchcraft, and folk medicine."
+    - "@type": "Question"
+      "name": "Where can I see these traditions in practice?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Traditions persist at locations like the Seven Sacred Springs of Serbia, and in Vlach-inspired rituals such as knot magic, forest offerings, and love spells."
 ---
 
 The **Timok Valley** of Eastern Serbia is more than rolling vineyards and quiet rivers.  
