@@ -2,6 +2,7 @@
 layout: single
 title: "7 Witchy Herbs from Around the World"
 excerpt: "From Balkan graves to Amazonian rituals, these seven herbs are anything but ornamental. They’ve protected the dying, summoned ancestors, painted warriors, and guided dreams. This is witchcraft rooted in survival."
+description: "Explore seven powerful witchy herbs from around the world—Artemisia annua, Frankincense, Rue, African Dream Root, Basil, Yarrow, and Achiote. Learn their magical, protective, and ancestral uses in folk rituals, dreamwork, and spellcraft across cultures."
 author: Wild Witch Herbs
 categories: 
   - herbal-magic
