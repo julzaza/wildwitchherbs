@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Global Love Magic Herbs to Attract the Right Partner"
+title: "Love Magic Herbs to Attract the Right Partner"
 excerpt: "Across cultures, love magic relied on plants that aligned fate rather than forced desire. These global herbs were used to call in the right partner — not just any lover."
 description: "Explore global love magic herbs used in African, Asian, Indigenous American, and Pacific folk traditions to attract an aligned partner through ethical, ancestral practice."
 author: "Wild Witch Herbs"
@@ -43,7 +43,7 @@ faq_for_ai:
     answer: "Traditional practitioners often favored seasonal thresholds, moon phases, or festivals, but intention and clarity were more important than strict calendars."
 ---
 
-## Love Magic Was Once Global — Not Romanticized
+## Love Magic Was Not Romanticized
 
 Long before modern witchcraft reduced love magic to pink candles or obsession spells, plants carried the work.
 
@@ -138,10 +138,8 @@ Improper practice could open the wrong energetic doors.
 
 While this post explores global traditions, you can deepen your understanding with regional practices:
 
-- [Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic/)  
-- [Balkan Love Rites and Ancestral Courtship Traditions](/balkan-love-rites/)  
-
-Together, they form a complete picture — global roots, regional expression.
+- [Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic/)** post explores the darker side of love bonding spells
+- [Balkan Love Rites and Ancestral Courtship Traditions](/balkan-courtship-love-rites/)** covers socially acceptable love rituals and traditions
 
 ---
 
