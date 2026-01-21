@@ -25,7 +25,7 @@ keywords:
   - folk banishing herbs
   - dark witchcraft herbs
 
-permalink: /plants-to-break-love-folk-magic/
+permalink: /plants-to-break-love-bonds-folk-magic/
 date: 2026-02-01
 schema: true
 schema_type: "Article"
