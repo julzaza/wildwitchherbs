@@ -2,6 +2,7 @@
 layout: single
 title: "Witchy Plants for the Front Door"
 permalink: /witchy-plants-for-front-door/
+description: "Discover 16 powerful threshold plants used by witches and folk healers to protect and bless homes. From southernwood and basil to lavender and rosemary, learn how these herbs and shrubs guard doors, invite blessings, and work ancestral magic."
 excerpt: "Guard your threshold with sacred plants used by witches and folk healers through the ages. Discover the potent magic of protective herbs, shrubs, and charms planted by doorways to bless and defend the home."
 categories:
   - herbal-magic
