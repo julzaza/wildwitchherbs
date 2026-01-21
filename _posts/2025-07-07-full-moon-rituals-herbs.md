@@ -4,7 +4,7 @@ title: "Full Moon Rituals: Sacred Herbs & Moon Magic Worldwide"
 excerpt: "Step into the sacred light of the full moon with rituals, herbal magic, and folklore from around the world. Learn how to harness lunar energy with herbs like mugwort, wormwood, tulsi, and lavender."
 description: "Discover the power of full moon rituals using sacred herbs from Europe, Asia, Africa, and the Americas. Explore folklore, practical lunar magic, and ritual guidance for clarity, protection, love, and ancestral connection."
 author: Wild Witch Herbs
-categories: [witchcraft-rituals, herbal-magic]
+categories: [witchcraft-ritual, herbal-magic]
 tags: [full moon ritual, lunar magic, herbal witchcraft, sacred herbs, traditional folklore, moon plants]
 date: 2025-07-07
 permalink: /full-moon-rituals/
