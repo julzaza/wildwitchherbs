@@ -5,7 +5,7 @@ permalink: /eastern-serbia-firewalkers/
 excerpt: "Discover the Vlach firewalking ritual of Eastern Serbia on St. John’s Eve, blending pagan sun worship, protective charms, and ancestral healing practices."
 description: "Explore the ancient firewalking ritual of Eastern Serbia's Vlach communities, known as pali hod. Learn about its pagan roots, St. John’s overlay, protective wormwood charms, and healing practices with fire and ashes."
 categories: [witchcraft-ritual, folklore-ancestral]
-tags: [firewalking, St. John, Vlach magic, wormwood, Eastern Serbia]
+tags: [firewalking, Vlach magic]
 author_profile: false
 search: false
 audience: "Folklore enthusiasts, herbalists, witches, travelers interested in traditional rituals"
@@ -29,6 +29,7 @@ internal_links:
 schema:
   "@context": "https://schema.org"
   "@type": "FAQPage"
+  "name": "Eastern Serbia Firewalkers — FAQ"
   "mainEntity":
     - "@type": "Question"
       "name": "What is the firewalking ritual in Eastern Serbia?"
@@ -88,70 +89,4 @@ Learn more about how Vlach wise women also use **[Herbal Companions in Magic and
 
 **Further Reading:**  
 If you’re drawn to fire rites, explore our post on **[Vlach Magic in Negotin, Serbia](/vlach-magic-negotin-serbia/)** for more protective charms and mid-summer rituals.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Article",
-      "headline": "Eastern Serbia Firewalkers: St. John’s Pagan Ritual",
-      "description": "Explore the ancient firewalking ritual of Eastern Serbia's Vlach communities, known as pali hod. Learn about its pagan roots, St. John’s overlay, protective wormwood charms, and healing practices with fire and ashes.",
-      "author": {
-        "@type": "Person",
-        "name": "Wild Witch Herbs"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Wild Witch Herbs",
-        "url": "https://wildwitchherbs.com"
-      },
-      "datePublished": "2025-01-01",
-      "dateModified": "2025-01-01",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://wildwitchherbs.com/eastern-serbia-firewalkers/"
-      },
-      "keywords": "witchcraft rituals, folk magic, Vlach traditions, firewalking, wormwood, St. John, herbal magic"
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is the firewalking ritual in Eastern Serbia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Known as pali hod, it is a Vlach summer solstice ritual where participants walk barefoot over embers for protection, blessing, and connection with ancestral spirits."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Why is wormwood used in the ritual?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Wormwood is tied to protective charms; its volatile oils may cool the skin and offer mild antimicrobial properties, reducing risk of burns or illness."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the origins of this ritual?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The ritual predates Christianity, tracing back to Thracian and Dacian sun cults. Later, St. John’s Eve was layered over the ancient practices."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is this ritual still performed today?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, villages along the Timok and Mlava rivers continue the firewalking tradition, maintaining both its spiritual and protective aspects."
-          }
-        }
-      ]
-    }
-  ]
-}
-</script>
 
