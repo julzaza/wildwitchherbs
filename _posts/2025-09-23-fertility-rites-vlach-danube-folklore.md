@@ -2,9 +2,42 @@
 layout: single
 title: "Moonlit Weddings & Milk Spells: Danube Vlach Fertility Rites"
 description: "Uncover the moon-blessed wedding customs and dairy magic of the Vlachs along the Danube, where ancient fertility rites still echo."
-categories: [witchcraft-ritual, folklore-ancestral]
-tags: [fertility magic, Vlach rituals, moon magic, milk spells, Danube folklore]
-product_schema: false
+excerpt: "An exploration of Danube Vlach fertility magic, including moonlit weddings, milk spells, herbal bridal charms, and protective rites for new life."
+categories:
+  - witchcraft-ritual
+  - folklore-ancestral
+tags:
+  - fertility magic
+  - vlach rituals
+  - moon magic
+  - milk spells
+  - danube folklore
+  - balkan witchcraft
+  - folk fertility rites
+schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Why were Vlach weddings held under the full moon?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "In Vlach belief, the waxing or full moon symbolized growth and abundance, ensuring fertility for the couple and prosperity for their household."
+    - "@type": "Question"
+      "name": "What is the Vlach milk spell?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "A post-wedding fertility rite where milk was poured over the threshold to bless the womb with nourishment, abundance, and life-giving power."
+    - "@type": "Question"
+      "name": "Which herbs were used in Vlach fertility rituals?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Common herbs included basil, rue, nettle seed, and hawthorn, each associated with protection, circulation, vitality, and reproductive strength."
+    - "@type": "Question"
+      "name": "Are these fertility rites still practiced today?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "While often preserved as folklore, elements of these rites still survive in family customs and ceremonial traditions along the Danube."
 ---
 
 In the misty valleys near the **Iron Gates of the Danube**, the Vlach people keep alive a complex web of **fertility magic**—practices that weave together **Romanian, Thracian, and Slavic** strands of belief.
