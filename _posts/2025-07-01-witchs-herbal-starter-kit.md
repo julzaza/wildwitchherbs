@@ -3,8 +3,10 @@ title: "The Witch’s Herbal Starter Kit: 10 Powerful Plants"
 date: 2025-07-01
 categories: [herbal-magic, folklore-ancestral]
 tags: [herbs, witchcraft, rituals, artemisia, folklore, protection, healing, beginners]
+
 description: "A folklore-rich guide to 10 essential witchy herbs every modern practitioner should know, including Mugwort, Wormwood, Artemisia annua, Nettle, Yarrow, Rue, Vervain, Dandelion, Belladonna, and Thyme. Explore their magical, protective, and ancestral uses in spells, rituals, and folk traditions."
 excerpt: "Discover 10 powerful herbs for the modern witch, from ancestral folklore to protective magic. Learn how Mugwort, Wormwood, Artemisia annua, and more have been used in rituals, spellwork, and traditional folk practices."
+
 author: Wild Witch Herbs
 permalink: /herbal-starter-kit/
 header:
