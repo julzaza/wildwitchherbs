@@ -3,9 +3,10 @@ layout: single
 title: "Witchy Plants to Grow Indoors"
 permalink: /witchy-plants-to-grow-indoors/
 excerpt: "Create an indoor witch’s garden with powerful plants like rosemary, mugwort, lavender, and rue. Learn which herbs and houseplants are both magical and practical for your sacred space."
+description: "Step into the world of indoor witchy gardening. Learn which herbs and houseplants—like rosemary, mugwort, lavender, and rue—support magic, protection, and spellwork in your home."
 categories:
-  - herbalism
-  - green-witchcraft
+  - herbal-magic
+  - witchcraft-ritual
 tags:
   - witchy herbs
   - indoor plants
@@ -13,6 +14,38 @@ tags:
   - houseplants
   - witchcraft
   - spellwork
+schema:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  "headline": "Witchy Plants to Grow Indoors"
+  "description": "Learn which indoor plants and herbs witches historically used for protection, magic, and spiritual growth. Includes rosemary, mugwort, lavender, rue, and more."
+  "author":
+    "@type": "Person"
+    "name": "Wild Witch Herbs"
+  "publisher":
+    "@type": "Organization"
+    "name": "Wild Witch Herbs"
+  "mainEntityOfPage": "https://wildwitchherbs.com/witchy-plants-to-grow-indoors/"
+  "keywords": "witchy plants, indoor herbs, magical gardening, protection herbs, witchcraft plants, herbal magic"
+faq:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Which herbs are best for indoor witchy gardens?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Top herbs for indoor witchy gardens include rosemary, mugwort, lavender, rue, bay laurel, peppermint, snake plant, aloe vera, and pothos. Each carries magical, protective, or healing properties."
+    - "@type": "Question"
+      "name": "How can I care for witchy indoor plants?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Provide sunlight, proper soil, and water carefully. Use clay pots, moon water, or herbal infusions. Speak to your plants and incorporate them into rituals for added magical alignment."
+    - "@type": "Question"
+      "name": "Can indoor plants support magic and spellwork?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Indoor plants can amplify intentions, protect the home, attract blessings, and be used in spells, charms, teas, or ritual baths."
 ---
 
 Not all witches have acres of wild forest or sprawling gardens and that's perfectly fine. 
