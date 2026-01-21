@@ -51,6 +51,11 @@ Across the world, people turned to plants of bitterness, forgetfulness, and deca
 
 Some bonds were believed to rot the soul. Plants—closer to death than humans—knew how to cut them cleanly.
 
+Not all love magic meant to bind without consent, for contrast, see our posts on ethical attraction magic to understand the duality of folk love practices:
+
+- **[Love Attraction Rituals in Global Folk Magic](/love-attraction-rituals-global-folk-magic/)**
+- **[Love Magic Herbs to Attract the Right Partner](/love-magic-herbs-to-attract-the-right-partner/)**
+ 
 ---
 
 ## What Love-Breaking Meant in Traditional Cultures
