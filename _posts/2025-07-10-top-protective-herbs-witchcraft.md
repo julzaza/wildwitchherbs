@@ -287,7 +287,7 @@ A: Rituals and charms can amplify a herb’s power, but many protective plants a
 A: Hung, carried, or rubbed on thresholds to repel evil and misfortune. It is also used in charms and protective spells. Learn more in **[Herbs That Keep Out Evil Eye](/herbs-that-keep-out-evil-eye/)**.
 
 **Q: How is rue used in protective magic?**  
-A: Rue is burned to clear curses, worn to deflect envy, or used in spiritual cleansings (*limpias*). 
+A: Rue is burned to clear curses, worn to deflect envy, or used in spiritual cleansings (*limpias*).
 
 **Q: How is mugwort used in protective magic?**  
 A: Burned, brewed in tea, or tucked under pillows before sleep or rituals to shield against nightmares, spirits, and astral disturbances. More on dreamwork herbs in **[Witchy Plants for Your Bedroom](/witchy-plants-bedroom/)**.
