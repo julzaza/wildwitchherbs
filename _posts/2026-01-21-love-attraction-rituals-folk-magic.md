@@ -155,8 +155,8 @@ Nothing was taken without giving.
 European and Balkan love rites are deeply documented through springs, midsummer rituals, apple divination, and seasonal practices.
 
 If you want to explore these traditions in depth, see:
-- [Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic/)
-- [Balkan Love Rites and Ancestral Courtship Traditions](/balkan-love-rites/)
+- [Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic/), a post on darker side of love bonding and desire
+- [Balkan Love Rites and Ancestral Courtship Traditions](/balkan-love-rites/), an exploration of socially acceptable love attracting rituals 
 
 This post exists to show these traditions were part of a global pattern, not isolated customs.
 
