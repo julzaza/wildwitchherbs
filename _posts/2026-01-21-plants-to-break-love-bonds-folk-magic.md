@@ -140,15 +140,6 @@ Timing mattered—but finality mattered more.
 
 ---
 
-## Balkan Love Magic and Courtship Rites
-
-Balkan traditions provide particularly rich documentation of both attraction and love binding rites; for deeper exploration of these regional customs, see 
-
-- **[Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic-folklore/)** to explore the darker side of binding love magic
-- **[Balkan Love Rites and Ancestral Courtship Traditions](/balkan-courtship-love-rites/)** for more socially acceptable, non-binding rituals 
-
----
-
 ## Important Folk Warnings
 
 Historical sources consistently warned:
@@ -159,6 +150,9 @@ Historical sources consistently warned:
 - Never ingest dangerous plants  
 
 Many traditions believed improper use could bind the practitioner to the grief instead.
+
+
+Balkan traditions provide particularly rich documentation of attraction and love binding rites; for deeper exploration of these regional customs, see **[Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic-folklore/)** to explore the darker side of binding love magic.
 
 ---
 
