@@ -87,7 +87,7 @@ While we can’t make medical claims, herbalists and traditional practitioners h
 In folk medicine, bitter herbs like Artemisia are **believed to “wake up” the digestive system and help flush out stagnation — physically and energetically**. Such bitter herbs were valued for their ability to “clear heat,” balance the system, and fortify the body’s natural rhythm with the seasons.
 
 
-In the Balkans, where we source our tea, women once gathered Artemisia with the moon, drying it slowly in shaded sheds and attics, away from harsh sunlight. The result is a clean, piercing infusion that feels alive — one cup is enough to remind you: this is no supermarket herb.
+In the Balkans, **where we source our tea, women once gathered Artemisia with the moon, drying it slowly** in shaded sheds and attics, away from harsh sunlight. The result is a clean, piercing infusion that feels alive — one cup is enough to remind you: this is no supermarket herb.
 
 ## Magical Uses & Rituals
 
