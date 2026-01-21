@@ -129,4 +129,4 @@ Many of these springs remain free and wild. Travelers often leave a coin or ribb
 
 As you wander the Timok valleys, it’s impossible not to think of the **healing herbs and protective charms** described in **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)**, where local folklore still guides herbal practices today.
 
-You can also dive into **[Pelagićev Narodni Učitelj: Balkan Remedies](/pelagicev-narodni-ucitelj-balkan-remedies/)** for more Balkan living magic practices. 
+You can also dive into **[Pelagićev Narodni Učitelj: Balkan Remedies](/pelagicev-narodni-ucitelj-balkan-remedies/)** for more Balkan practical wisdom. 
