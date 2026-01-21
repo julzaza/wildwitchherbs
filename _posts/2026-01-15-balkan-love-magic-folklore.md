@@ -139,8 +139,10 @@ If you remove danger from love magic, you remove truth.
 
 Balkan traditions remind us:
 - Desire binds  
-- “Binding costs—and sometimes unbinding was the only survival left. 
+- Binding costs—and sometimes unbinding was the only survival left
 - Magic without consent corrodes  
+
+For readers seeking non-coercive alternatives, love was traditionally invited through timing, ritual action, and social custom rather than bodily binding—practices explored in **[Love Attraction Rituals in Global Folk Magic](/love-attraction-rituals-global-folk-magic/)**.
 
 ---
 
