@@ -3,23 +3,54 @@ layout: single
 title: "Vasa Pelagić’s Narodni Učitelj: Balkan Folk Remedies & Herbal Lore"
 date: 2025-09-22
 categories: [folklore-ancestral, natural-healing]
-tags: [Vasa Pelagić, Narodni Učitelj, Balkan Herbs, Folk Remedies, Herbal Lore, Traditional Herbs, Folk Medicine]
-description: "Explore Vasa Pelagić’s Narodni Učitelj for 19th-century Balkan folk remedies, herbal preparations, teas, and practical wellness wisdom still inspiring modern herbalists."
-excerpt: "Vasa Pelagić compiled 19th-century Balkan folk remedies blending herbs, diet, and hygiene. Remedies address fatigue, cold prevention, digestion, and minor ailments. Key herbs: nettles, chamomile, yarrow, rosemary."
+tags:
+  - vasa pelagic
+  - balkan folk medicine
+  - folk remedies
+  - herbal lore
+  - traditional herbalism
+description: "Explore Vasa Pelagić’s Narodni Učitelj and its 19th-century Balkan folk remedies, herbal practices, and everyday wellness wisdom rooted in ancestral life."
+excerpt: "Vasa Pelagić compiled 19th-century Balkan folk remedies blending herbs, diet, hygiene, and movement—wisdom that still inspires modern herbalists and folk practitioners."
 search: false
 audience: "Herbalists, witches, folk medicine enthusiasts"
 language: "en"
 difficulty: "Beginner to Intermediate"
 contentType: "Educational, Historical, Herbal Guide"
-faqs:
-  - question: "What remedies did Vasa Pelagić recommend for fatigue?"
-    answer: "He suggested nettle tea, rosemary infusions, yarrow porridge, and wholesome foods like kačamak and eggs."
-  - question: "Are Pelagić’s folk remedies still useful today?"
-    answer: "Many herbs he recommended, such as chamomile, nettle, and rosemary, are still used in modern herbalism for health and wellness."
-  - question: "Did Pelagić combine lifestyle practices with herbal medicine?"
-    answer: "Yes, he emphasized movement, fresh air, diet, and hygiene alongside plant-based remedies."
----
 
+schema:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  "headline": "Vasa Pelagić’s Narodni Učitelj: Balkan Folk Remedies & Herbal Lore"
+  "description": "An educational overview of 19th-century Balkan folk remedies from Vasa Pelagić’s Narodni Učitelj."
+  "author":
+    "@type": "Person"
+    "name": "Vasa Pelagić"
+  "publisher":
+    "@type": "Organization"
+    "name": "Wild Witch Herbs"
+  "mainEntityOfPage": "{{ page.url | absolute_url }}"
+  "articleSection": "folklore-ancestral"
+
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What remedies did Vasa Pelagić recommend for fatigue?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "He suggested nettle tea, rosemary infusions, yarrow porridge, and nourishing foods such as kačamak and eggs."
+
+    - "@type": "Question"
+      "name": "Are Pelagić’s folk remedies still useful today?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Many herbs Pelagić documented—such as chamomile, nettle, and rosemary—remain widely used in modern herbalism."
+
+    - "@type": "Question"
+      "name": "Did Pelagić combine lifestyle practices with herbal medicine?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. He emphasized movement, fresh air, hygiene, and diet alongside herbal remedies."
+
+---
 
 Vasa Pelagić’s *Narodni Učitelj* is far more than a 19th-century manual on literacy and morality—it is a treasure trove of **folk remedies, herbal lore, and practical wellness guidance** from rural Balkan life. Beyond ethical instruction, Pelagić recorded dozens of remedies, herbal preparations, and food-based tonics—**wisdom still resonant for modern herbalists and witches seeking ancestral inspiration**.
 
@@ -74,3 +105,18 @@ For modern application and deeper study:
 Pelagić’s guidance bridges centuries, showing how **simple village remedies can thrive in modern herbal practice**.
 
 *This post shares cultural and historical folk remedies from Vasa Pelagić’s Narodni Učitelj for educational purposes only. It is not medical advice.*
+
+## Frequently Asked Questions
+
+**What remedies did Vasa Pelagić recommend for fatigue?**  
+Pelagić recommended nettle tea, rosemary infusions, yarrow-based foods, and strengthening meals such as kačamak and eggs.
+
+**Are Pelagić’s folk remedies still relevant today?**  
+Yes. Many plants he described—nettle, chamomile, yarrow—remain foundational in modern herbalism and folk medicine.
+
+**Did Pelagić combine lifestyle advice with herbal remedies?**  
+Absolutely. He emphasized movement, fresh air, hygiene, and diet alongside plant-based treatments.
+
+**Is Narodni Učitelj a medical book?**  
+No. It is a folk educational manual reflecting 19th-century Balkan knowledge, not a clinical medical text.
+
