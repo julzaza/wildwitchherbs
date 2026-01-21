@@ -51,10 +51,7 @@ Across the world, people turned to plants of bitterness, forgetfulness, and deca
 
 Some bonds were believed to rot the soul. Plants—closer to death than humans—knew how to cut them cleanly.
 
-Not all love magic meant to bind without consent, for contrast, see our posts on ethical attraction magic to understand the duality of folk love practices:
-
-- **[Love Attraction Rituals in Global Folk Magic](/love-attraction-rituals-global-folk-magic/)**
-- **[Love Magic Herbs to Attract the Right Partner](/love-magic-herbs-to-attract-the-right-partner/)**
+Not all love magic meant to bind without consent, for contrast, see our post on ethical attraction magic to understand the duality of folk love practices: **[Love Attraction Rituals in Global Folk Magic](/love-attraction-rituals-global-folk-magic/)**
  
 ---
 
@@ -109,6 +106,12 @@ Attachment-breaking rather than love-ending.
 
 ---
 
+## Herbs Used to Attract Love:
+
+Herbs were also used in witchcraft to attract the right match. See **[Love Magic Herbs to Attract the Right Partner](/love-magic-herbs-to-attract-the-right-partner/)** to explore these magical allies and ways to work with them. 
+
+---
+
 ## How Bond-Severing Worked (Without Spells)
 
 Traditional separation rites often involved:
@@ -141,8 +144,8 @@ Timing mattered—but finality mattered more.
 
 Balkan traditions provide particularly rich documentation of both attraction and love binding rites; for deeper exploration of these regional customs, see 
 
-- **[Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic-folklore/)**
-- **[Balkan Love Rites and Ancestral Courtship Traditions](/balkan-courtship-love-rites/)**
+- **[Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic-folklore/)** to explore the darker side of binding love magic
+- **[Balkan Love Rites and Ancestral Courtship Traditions](/balkan-courtship-love-rites/)** for more socially acceptable, non-binding rituals 
 
 ---
 
