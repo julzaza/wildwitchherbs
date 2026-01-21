@@ -56,6 +56,8 @@ They were customs woven into daily life.
 
 What follows is a global record of how love was traditionally drawn, based on folklore, anthropology, and historical accounts.
 
+For readers curious about the specific plants used in folk attraction magic, see our guide on **[Love Magic Herbs to Attract the Right Partner](/love-magic-herbs-to-attract-the-right-partner/)**, which details herbs from Africa, Asia, and the Americas used to align fate rather than force desire.
+
 ---
 
 ## What Love Attraction Meant in Folk Tradition
