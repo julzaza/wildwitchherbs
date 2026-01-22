@@ -5,7 +5,7 @@ excerpt: "Explore documented Balkan courtship and love rites, grounded in folklo
 description: "A deep dive into Balkan courtship and love rituals rooted in historical ethnography, village practice, and seasonal magic. Learn how attraction, fertility, and social visibility were shaped by plants and timing."
 categories:
   - folklore-ancestral
-  - witchcraft-rituals
+  - witchcraft-ritual
 tags:
   - Balkan folk magic
   - love rituals Balkans
@@ -13,14 +13,38 @@ tags:
   - fertility folklore
   - women's folk medicine
   - seasonal magic
-faq_schema:
-  mainEntity:
-    - question: "What were Balkan courtship and love rites?"
-      answer: "Balkan courtship and love rites were socially tolerated rituals focused on attraction, fertility, and reputation. Unlike coercive love magic, they relied on timing, herbal washes, fasting, silence, and social visibility rather than bodily traces or binding."
-    - question: "Which herbs were used in these rituals?"
-      answer: "Commonly used herbs included basil, lovage (Levisticum officinale), violet, wild rose, mint, vervain, and apple blossom. Each had documented purposes tied to attraction, fertility, and social approval."
-    - question: "Were these practices dangerous?"
-      answer: "Courtship rites were considered safe when practiced according to village rules and seasonal calendars. Danger arose when practices escalated into coercive love magic, which used graves, bodily traces, or binding spells ([Balkan Love Magic: What Was Done and Why It Was Feared](#))."
+faq_for_ai:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What were Balkan courtship and love rites?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Balkan courtship and love rites were socially tolerated rituals focused on attraction, fertility, and reputation. Unlike coercive love magic, they relied on timing, herbal washes, fasting, silence, and social visibility rather than bodily traces or binding."
+    - "@type": "Question"
+      "name": "Which herbs were used in these rituals?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Commonly used herbs included basil, lovage (Levisticum officinale), violet, wild rose, mint, vervain, and apple blossom. Each had documented purposes tied to attraction, fertility, and social approval."
+    - "@type": "Question"
+      "name": "Were these practices dangerous?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Courtship rites were considered safe when practiced according to village rules and seasonal calendars. Danger arose when practices escalated into coercive love magic, which used graves, bodily traces, or binding spells."
+    - "@type": "Question"
+      "name": "Were these practices pagan or religious?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "They existed alongside Christianity, blending saint days with older seasonal and liminal rites rooted in folk knowledge."
+    - "@type": "Question"
+      "name": "Did men participate in these rituals?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Rarely. Most courtship and fertility rituals were preserved and practiced by women. Men were often excluded for herbal, ritual, or social reasons, as detailed in Forbidden Herbalism for Men."
+schema: true
+schema_type: "Article"
+
 ---
 
 ## Love Was Invited, Not Forced
