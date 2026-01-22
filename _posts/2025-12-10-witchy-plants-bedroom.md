@@ -3,10 +3,10 @@ layout: single
 title: "Witchy Plants for Bedrooms: Dreamwork & Night Magic"
 description: "A historically-grounded guide to the Old European and Mediterranean plants used for dreamwork, prophecy, and nighttime protection, based on real folklore—not modern invention."
 excerpt: "From mugwort above the bed to juniper branches at the window, this is the oldest folklore of dream herbs used by witches, midwives, and night-watchers across Europe and the Mediterranean."
-categories: [witchcraft-rituals, herbal-magic]
-tags: [Dreamwork, Protection, Folklore, Night Magic]
+categories: [witchcraft-ritual, herbal-magic]
+tags: [dreamwork folklore, night magic, protective herbs, european witchcraft, sleep magic]
 
-ai_faq:
+faq:
   - question: "What plants were historically used for dreamwork in European witchcraft?"
     answer: "Mugwort, bay, rosemary, juniper, lemon balm, and jasmine appear in Old European and Mediterranean folklore for dream protection and vision-calling."
   - question: "Did witches actually use herbs for night protection?"
@@ -20,11 +20,34 @@ ai_faq:
 
 schema:
   "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Witchy Plants for Bedrooms: Dreamwork Folklore & Night Magic"
-  "author": "Wild Witch Herbs"
-  "publisher": "Wild Witch Herbs"
-  "image": "/assets/images/default.jpg"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What plants were historically used for dreamwork in European witchcraft?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Mugwort, bay, rosemary, juniper, lemon balm, and jasmine appear in Old European and Mediterranean folklore for dream protection and vision-calling."
+    - "@type": "Question"
+      "name": "Did witches actually use herbs for night protection?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Medieval, Balkan, and Mediterranean household folklore all contain traditions of hanging herbs over beds or placing protective branches at windows."
+    - "@type": "Question"
+      "name": "Were dream plants used for prophecy?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "In Greek, Roman, and later European folklore, bay laurel and mugwort were linked with prophetic dreams and visionary sleep."
+    - "@type": "Question"
+      "name": "Is this medical advice?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "No. This is historical folklore only, not medical guidance."
+    - "@type": "Question"
+      "name": "Do these traditions relate to modern lucid dreaming?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "They relate symbolically—folklore treated dreaming as a spiritual threshold rather than a psychological practice."
+        
 ---
 
 *Old European & Mediterranean Night Traditions*
