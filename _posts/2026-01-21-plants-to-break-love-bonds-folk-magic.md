@@ -4,7 +4,7 @@ title: "Plants Used to Break Love or Sever Bonds in Folk Magic"
 excerpt: "Across cultures, certain plants were used not to attract love—but to end it. These herbs appear in rites of separation, forgetting, banishment, and severed ties."
 description: "A global folklore-based guide to plants historically used in love-breaking, separation, and bond-severing rituals across Balkan, Middle Eastern, African, Asian, and Indigenous traditions."
 author: "Wild Witch Herbs"
-
+featured: true
 categories:
   - witchcraft-ritual
   - herbal-magic
