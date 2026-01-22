@@ -1,10 +1,20 @@
 ---
+---
 layout: single
 title: "Winter Solstice Witchcraft: Old European Magic & Rituals"
 description: "Explore traditional European winter solstice witchcraft—Wild Hunt lore, ancestral rites, evergreen magic, solstice herbs, and rituals behind the year’s longest night."
-excerpt: On the longest night of the year, witches worked with ancestors, evergreens, and the Wild Hunt. Explore Old European solstice rites, protections, and midwinter omens.
-categories: [witchcraft-rituals, folklore-ancestral]
-tags: [winter-solstice, yule, wild-hunt, twelve-nights, european-folklore, herbs]
+excerpt: "On the longest night of the year, witches worked with ancestors, evergreens, and the Wild Hunt. Explore Old European solstice rites, protections, and midwinter omens."
+categories:
+  - witchcraft-ritual
+  - folklore-ancestral
+tags:
+  - winter-solstice
+  - yule
+  - wild-hunt
+  - twelve-nights
+  - european-folklore
+  - herbs
+
 faq:
   - question: "Is the solstice the same as Yule?"
     answer: "Not exactly—Yule is a later Germanic festival layered over older solstice rites."
@@ -16,25 +26,37 @@ faq:
     answer: "Rebirth, protection, ancestral presence, and the return of light."
   - question: "Who leads the Wild Hunt?"
     answer: "Depending on region: Odin/Wodan, Frau Holle, Perchta, King Herla, or ancestral riders."
----
 
-<script type="application/ld+json">
-{
-  "@context":"https://schema.org",
-  "@type":"Article",
-  "headline":"Winter Solstice Witchcraft: Old European Magic & Rituals",
-  "description":"Explore traditional European winter solstice witchcraft—Wild Hunt lore, ancestral rites, evergreen magic, solstice herbs, and rituals behind the year’s longest night.",
-  "author":{
-    "@type":"Person",
-    "name":"Wild Witch Herbs"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Wild Witch Herbs",
-    "url":"https://wildwitchherbs.com"
-  }
-}
-</script>
+faq_schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Is the solstice the same as Yule?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Not exactly—Yule is a later Germanic festival layered over older solstice rites."
+    - "@type": "Question"
+      "name": "Did witches historically practice solstice rituals?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes—many documented Alpine, Slavic, Germanic, and Baltic traditions involve midwinter rites."
+    - "@type": "Question"
+      "name": "Which herbs are best for solstice magic?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Juniper, mugwort, wormwood, yew, holly, ivy, pine, and oak were commonly used."
+    - "@type": "Question"
+      "name": "What is the spiritual meaning of the solstice?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Rebirth, protection, ancestral presence, and the return of light."
+    - "@type": "Question"
+      "name": "Who leads the Wild Hunt?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Depending on region: Odin/Wodan, Frau Holle, Perchta, King Herla, or ancestral riders."
+---
 
 # The Return of the Sun
 
