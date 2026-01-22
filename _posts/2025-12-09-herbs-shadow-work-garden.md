@@ -104,7 +104,7 @@ Long before the concept had a name, Old European witches walked the darker corne
 These were not “aesthetic goth” plants. They were boundary keepers, dream guides, purifiers, and ancestral trees.  
 A shadow work garden is not a place of danger—it is a place of **clarity**.
 
-If you already explored the guide on **[Witchy Plants for Bedrooms (Dreamwork Edition)](/witchy-plants-for-front-door/)**, this is its outdoor counterpart.
+If you already explored the guide on **[Witchy Plants for Bedrooms (Dreamwork Edition)](/witchy-plants-bedroom/)**, this is its outdoor counterpart.
 
 ---
 
@@ -232,9 +232,11 @@ Straightforward, powerful.
 
 ---
 
-## **Conclusion**  
+## **Time to Plant Your Own Garden**  
 A shadow work garden is a map of the soul.  
 Plant the herbs our ancestors used to descend into themselves: mugwort, wormwood, rue, juniper, yew, and poplar.  
-Let the plants teach you what the bright garden never can.
+Let these plants teach you what the bright garden never can.
+
+Find out **[Why Real Witches Plant Rosemarry by the Front Door](/why-witches-plant-rosemary-front-door/)**.
 
 ---
