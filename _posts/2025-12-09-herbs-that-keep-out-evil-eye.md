@@ -3,10 +3,10 @@ layout: single
 title: "Herbs to Keep Out the Evil Eye Next Door"
 description: "A historically-accurate exploration of European and Mediterranean herbs used in household folklore to guard against the evil eye, envy, and hostile neighbors."
 excerpt: "Rue tucked behind doorframes, basil pots on Greek thresholds, and juniper smoke after unwanted visits—these are real household protections against the evil eye across Europe and the Mediterranean."
-categories: [witchcraft-rituals, herbal-magic]
-tags: [Evil Eye, Protection, Household Magic]
+categories: [witchcraft-ritual, herbal-magic]
+tags: [evil eye, protection, household magic, Mediterranean folklore, European herbs]
 
-ai_faq:
+faq:
   - question: "What herbs were traditionally used to protect against the evil eye?"
     answer: "Rue, basil, garlic, rosemary, juniper, and black cumin appear widely in European and Mediterranean folklore against the evil eye."
   - question: "Is the evil eye a European belief?"
@@ -22,9 +22,42 @@ schema:
   "@context": "https://schema.org"
   "@type": "Article"
   "headline": "Herbs to Keep Out the Evil Eye Next Door"
-  "author": "Wild Witch Herbs"
-  "publisher": "Wild Witch Herbs"
-  "image": "/assets/images/default.jpg"
+  "description": "A historically grounded guide to European and Mediterranean herbs used for household protection against the evil eye, envy, and malicious intent."
+  "author": {
+    "@type": "Organization",
+    "name": "Wild Witch Herbs"
+  }
+  "publisher": {
+    "@type": "Organization",
+    "name": "Wild Witch Herbs"
+  }
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What herbs were traditionally used to protect against the evil eye?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Rue, basil, garlic, rosemary, juniper, and black cumin appear widely in European and Mediterranean folklore against the evil eye."
+    - "@type": "Question"
+      "name": "Is the evil eye a European belief?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "It appears across Southern, Eastern, and Central Europe, the Mediterranean, Jewish diaspora communities, and the Levant."
+    - "@type": "Question"
+      "name": "Why was envy feared so much historically?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Envy was believed to carry spiritual force—harmful intention could 'dry' luck, blight livestock, or weaken children."
+    - "@type": "Question"
+      "name": "Were herbs placed at doors or burned?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Both. Rue and basil were planted or hung; juniper was burned; garlic was displayed."
+    - "@type": "Question"
+      "name": "Is this medical advice?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "No. This is a folklore-only article."
+
 ---
 
 *Old European & Mediterranean Household Protections*
@@ -146,7 +179,7 @@ Rue in Mediterranean regions; juniper in northern regions; garlic everywhere.
 
 ### **Why did the evil eye matter so much?**  
 It was seen as a force that could affect health, luck, livestock, and infants.
-(
+
 ### **Did people plant these or hang them?**  
 Often both—threshold plants, doorway bundles, window amulets, and smoke rituals. Learn how to use these herbs in rituals here: **[Herbs for Protection](/world-magic-for-protection/)**.
 
