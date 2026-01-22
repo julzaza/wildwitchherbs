@@ -4,7 +4,7 @@ title: "Old European Folklore: Garden Herbs"
 description: "A rich, historically grounded exploration of Old European garden herbs—their lore, seasonal meanings, household magic, and ritual uses."
 excerpt: "A folklore-rich guide to Old European garden herbs: protective household plants, dream herbs, threshold guardians, and ancestral green allies."
 categories: [folklore-ancestral, herbal-magic]
-tags: tags: [garden herbs, European folklore, protective herbs, ancestral herbs, dream herbs, threshold magic]
+tags: [garden herbs, European folklore, protective herbs, ancestral herbs, dream herbs, threshold magic]
 canonical_url: https://wildwitchherbs.com/old-european-folklore-garden-herbs
 image: /assets/images/old-european-garden-herbs.jpg
 
@@ -97,8 +97,6 @@ schema:
         "text": "Mugwort above all; thyme and rosemary also appear in medieval dream rituals."
         
 ---
-
-## **Old European Folklore of Garden Herbs**
 
 Not every medieval herb was magical.  
 But the ones that guarded doors, flavored feasts, healed households, and whispered in dreams carried a weight that survived centuries.
