@@ -4,7 +4,7 @@ title: "Old European Folklore: Garden Herbs"
 description: "A rich, historically grounded exploration of Old European garden herbs—their lore, seasonal meanings, household magic, and ritual uses."
 excerpt: "A folklore-rich guide to Old European garden herbs: protective household plants, dream herbs, threshold guardians, and ancestral green allies."
 categories: [folklore-ancestral, herbal-magic]
-tags: [garden herbs, European folklore, protective plants, ancestral magic, dream herbs, threshold herbs]
+tags: tags: [garden herbs, European folklore, protective herbs, ancestral herbs, dream herbs, threshold magic]
 canonical_url: https://wildwitchherbs.com/old-european-folklore-garden-herbs
 image: /assets/images/old-european-garden-herbs.jpg
 
@@ -211,3 +211,32 @@ Grow rosemary at the door, rue at the steps, mugwort near paths, juniper at the 
 The old ways return through the soil.
 
 ---
+
+## FAQ: Old European Garden Herbs
+
+**Q: What makes a herb 'witchy' in Old European tradition?**  
+A: Herbs were considered witchy if they protected thresholds, aided divination, guarded homes, or connected the living with ancestors.
+
+**Q: Which herbs were common in medieval European gardens?**  
+A: Sage, rosemary, rue, wormwood, mugwort, mint, thyme, and lovage—all had deep magical associations.
+
+**Q: Did witches use poisonous plants?**  
+A: Some traditions mention poisonous plants, but this post focuses on household herbs, not flying ointment lore.
+
+**Q: Where were protective herbs planted?**  
+A: At doors, windows, gates, and boundary lines—thresholds where magic and spirits moved.
+
+**Q: Which herbs guard against the evil eye?**  
+A: Rue, basil, and rosemary in Mediterranean households; garlic and wormwood in Slavic regions.
+
+**Q: How were herbs used seasonally?**  
+A: Evergreens during winter rites, mugwort for midsummer fires, rosemary for solstice protection.
+
+**Q: Which herbs connect to ancestors?**  
+A: Juniper, mugwort, and wormwood—burned or planted near thresholds.
+
+**Q: What is a threshold herb?**  
+A: A plant kept near doors or gates to guard the home's liminal spaces, where spirits or ill-will might enter.
+
+**Q: Which herbs were used for dream rites?**  
+A: Mugwort above all; thyme and rosemary also appear in medieval dream rituals.
