@@ -1,35 +1,62 @@
 ---
 layout: single
 title: "Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights"
-description: "A folklore-rich guide to solstice dreaming with mugwort and wormwood—Old European prophecy, vision rites, and winter witchcraft for the longest night."
-excerpt: "How Old European witches used mugwort and wormwood on the winter solstice to call prophetic dreams, travel the night-road, and read omens for the year ahead."
-categories: [herbal-magic, witchcraft-rituals, folklore-ancestral]
-tags: [mugwort, wormwood, solstice, dreaming-magic, prophecy, winter-protection-herbs]
----
+author: Wild Witch Herbs
+permalink: /solstice-dreaming-mugwort-wormwood/
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights",
-  "description": "A folklore-rich guide to solstice dreaming with mugwort and wormwood—Old European prophecy, vision rites, and winter witchcraft for the longest night.",
-  "author": {
-    "@type": "Person",
-    "name": "Julia"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Wild Witch Herbs",
-    "url": "https://wildwitchherbs.com"
-  },
-  "keywords": "solstice dreaming,mugwort,wormwood,prophecy,winter divination,old european witchcraft",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
+description: "A folklore-rich guide to solstice dreaming with mugwort and wormwood, exploring Old European prophetic rites, dream magic, and winter vision practices."
+excerpt: "How Old European witches used mugwort and wormwood on the winter solstice to call prophetic dreams, travel the night-road, and read omens for the year ahead."
+
+categories:
+  - witchcraft-ritual
+  - herbal-magic
+
+tags:
+  - solstice dreaming
+  - dream magic
+
+schema:
+  "@context": "https://schema.org"
+  "@type": "BlogPosting"
+  headline: "Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights"
+  description: "A folklore-rich guide to solstice dreaming with mugwort and wormwood, exploring Old European prophecy, vision rites, and winter witchcraft."
+  author:
+    "@type": "Organization"
+    name: "Wild Witch Herbs"
+  publisher:
+    "@type": "Organization"
+    name: "Wild Witch Herbs"
+  mainEntityOfPage:
+    "@type": "WebPage"
     "@id": "https://wildwitchherbs.com/solstice-dreaming-mugwort-wormwood/"
-  },
-  "datePublished": "2025-12-05"
-}
-</script>
+  keywords: "solstice dreaming, mugwort folklore, wormwood prophecy, winter divination, Old European witchcraft"
+
+faq_schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  mainEntity:
+    - "@type": "Question"
+      name: "When is the best night to practice solstice dreaming?"
+      acceptedAnswer:
+        "@type": "Answer"
+        text: "The winter solstice night itself is considered the most potent for prophetic dreaming, as it marks the longest night of the year. The following Twelve Nights were also traditionally used for continued dream-omens."
+    - "@type": "Question"
+      name: "Can mugwort and wormwood be used together for dream magic?"
+      acceptedAnswer:
+        "@type": "Answer"
+        text: "Yes. In Old European folk practice, mugwort was used to gently open prophetic vision, while wormwood was used sparingly to sharpen clarity. Wormwood was treated with caution due to its strength."
+    - "@type": "Question"
+      name: "Is solstice dreaming dangerous?"
+      acceptedAnswer:
+        "@type": "Answer"
+        text: "Solstice dreaming was considered powerful but not inherently dangerous when practiced respectfully. Traditional sources emphasize moderation, protection, and clear intention rather than forceful vision-seeking."
+    - "@type": "Question"
+      name: "Do solstice dreams have special meaning?"
+      acceptedAnswer:
+        "@type": "Answer"
+        text: "Yes. Solstice dreams were believed to carry messages about the coming year, including health, fate, travel, and household fortune, because the solstice was seen as a moment when time briefly stood still."
+
+---
 
 # The Night of Prophecy
 
@@ -161,4 +188,3 @@ A: Yes—mugwort opens while wormwood clarifies; use wormwood sparingly and resp
 A: Dream-work benefits from guidance and care; start with basic practices and build skill before advanced dream-travel.
 
 ---
-
