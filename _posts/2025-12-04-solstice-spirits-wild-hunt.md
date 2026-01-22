@@ -2,28 +2,41 @@
 layout: single
 title: "Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide"
 description: "A witch’s deep, folklore-rich guide to the Wild Hunt, solstice spirits, and Old European protection magic for surviving the longest night of the year."
-excerpt: A raw, folklore-rich guide to the Wild Hunt—solstice spirits, ancestral riders, winter protections, and Old European witchcraft for surviving the longest night.
-categories: [folklore-ancestral, witchcraft-rituals]
-tags: [Winter Solstice, Wild Hunt, Protection Magic, European Folklore, Spirits]
+excerpt: "A raw, folklore-rich guide to the Wild Hunt—solstice spirits, ancestral riders, winter protections, and Old European witchcraft for surviving the longest night."
+categories:
+  - folklore-ancestral
+  - witchcraft-ritual
+tags:
+  - winter-solstice
+  - wild-hunt
+  - protection-magic
+  - european-folklore
+  - solstice-spirits
+
 faq:
   - question: "What is the Wild Hunt in Old European folklore?"
-    answer: "A storm of spirits—ancestors, gods, witches, and wandering dead—riding across the winter solstice sky."
-  - question: "Why does the Wild Hunt appear at the solstice?"
-    answer: "Because the stillness of the solstice opens a doorway between worlds, allowing the Host to ride."
+    answer: "The Wild Hunt is a storm-like procession of spirits—ancestors, gods, witches, beasts, and the wandering dead—believed to ride across the sky during the winter solstice and the Twelve Nights."
+
+  - question: "Why does the Wild Hunt appear at the winter solstice?"
+    answer: "Folklore teaches that the solstice stills the sun and thins the boundary between worlds, allowing the spirit host to cross freely into the human realm."
+
   - question: "How did witches protect themselves from the Wild Hunt?"
-    answer: "Juniper smoke, iron at thresholds, salt wards, red-wool knots, and evergreen charms were the most common protections."
+    answer: "Traditional protections included juniper smoke, iron at thresholds, salt wards, red-wool knots, evergreen charms, and keeping all doors and hearths secured."
+
   - question: "Is it dangerous to see the Wild Hunt?"
-    answer: "Folklore warns never to run or shout. One should lower the head, remain still, and refuse any gifts offered by the riders."
+    answer: "Yes. Folk belief warns never to stare, shout, run, or accept gifts. The proper response was to lower the head, remain still, and refuse engagement."
+
   - question: "Which herbs were used in solstice protection magic?"
-    answer: "Mugwort, yew, wormwood, and blackthorn were favored for banishing, vision, and protection against wandering spirits."
+    answer: "Mugwort, wormwood, yew, and blackthorn were most commonly used for protection, vision control, banishing, and warding against wandering spirits."
+
 schema:
   "@context": "https://schema.org"
   "@type": "BlogPosting"
   "headline": "Solstice Spirits & the Wild Hunt: A Witch’s Midwinter Guide"
   "description": "A folklore-rich exploration of Old European Wild Hunt traditions, Yuletide spirits, and protective solstice witchcraft."
-  "keywords": "Wild Hunt folklore, winter solstice witchcraft, Yuletide spirits, European witchcraft, solstice rituals"
+  "keywords": "wild hunt folklore, winter solstice witchcraft, yuletide spirits, european folklore, solstice rituals"
   "author":
-    "@type": "Person"
+    "@type": "Organization"
     "name": "Wild Witch Herbs"
   "publisher":
     "@type": "Organization"
@@ -31,6 +44,40 @@ schema:
     "logo":
       "@type": "ImageObject"
       "url": "/assets/images/logo.png"
+faq_schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What is the Wild Hunt?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "A storm-like procession of spirits—ancestors, gods, witches, beasts, and wandering dead—riding across the sky at winter solstice."
+
+    - "@type": "Question"
+      "name": "Why does the Wild Hunt appear at the solstice?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "The solstice thins the boundary between worlds, allowing the spirit host to cross into the human realm."
+
+    - "@type": "Question"
+      "name": "How did witches protect themselves from the Wild Hunt?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Common protections included juniper smoke, iron at thresholds, salt wards, red-wool knots, and evergreen charms."
+
+    - "@type": "Question"
+      "name": "Is it dangerous to see the Wild Hunt?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Folklore warns never to run, shout, or accept gifts. Remain still, lower your head, and avoid engagement."
+
+    - "@type": "Question"
+      "name": "Which herbs were used in solstice protection magic?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Mugwort for vision, wormwood for courage, yew to keep out the dead, and blackthorn to block harmful spirits."
+
 ---
 
 # How to Survive the Longest Night
