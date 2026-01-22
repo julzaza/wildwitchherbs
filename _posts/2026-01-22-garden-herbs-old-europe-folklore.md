@@ -140,7 +140,7 @@ Used across the Alps and Germanic lands for dream rites and solstice fires.
 Hung above beds or doors to invite prophetic dreams.
 
 **Internal link:**  
-For indoor dream magic, see **[Witchy Plants for Bedrooms](/witchy-plants-bedrooms)**.
+For indoor dream magic, see **[Witchy Plants for Bedrooms](/witchy-plants-bedroom)**.
 
 ---
 
