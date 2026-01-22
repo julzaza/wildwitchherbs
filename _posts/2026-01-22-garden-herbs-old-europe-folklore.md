@@ -7,53 +7,20 @@ categories: [folklore-ancestral, herbal-magic]
 tags: [garden herbs, European folklore, protective herbs, ancestral herbs, dream herbs, threshold magic]
 permalink: /old-european-folklore-garden-herbs/
 
-faq:
-  - question: "What makes a herb 'witchy' in Old European tradition?"
-    answer: "Plants were considered witchy if they protected thresholds, aided divination, guarded homes, or connected the living with ancestors."
-  - question: "Which herbs were common in medieval European gardens?"
-    answer: "Sage, rosemary, rue, wormwood, mugwort, mint, thyme, and lovage—all with deep magical associations."
-  - question: "Did witches use poisonous plants?"
-    answer: "Some traditions mention poisonous plants, but this post focuses on household herbs, not flying ointment lore."
-  - question: "Where were protective herbs planted?"
-    answer: "At doors, windows, gates, and boundary lines—thresholds where magic and spirits moved."
-  - question: "Which herbs guard against the evil eye?"
-    answer: "Rue, basil, and rosemary in Mediterranean households; garlic and wormwood in Slavic regions."
-  - question: "How were herbs used seasonally?"
-    answer: "Evergreens during winter rites, mugwort for midsummer fires, rosemary for solstice protection."
-  - question: "Did medieval gardens have magical sections?"
-    answer: "Yes—kitchen gardens often contained sacred clusters for purification, dreamwork, or protection."
-  - question: "Which herbs connect to ancestors?"
-    answer: "Juniper, mugwort, and wormwood—burned or planted near thresholds."
-  - question: "What is a threshold herb?"
-    answer: "A plant kept near doors or gates to guard the home's liminal spaces, where spirits or ill-will might enter."
-  - question: "Which herbs were used for dream rites?"
-    answer: "Mugwort above all; thyme and rosemary also appear in medieval dream rituals."
-
-schema:
+faq_for_ai:
   "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Old European Folklore of Garden Herbs"
-  "description": "A deep look at Old European garden herbs and their magical, historical, and folkloric roles."
-  "author": {
-    "@type": "Organization",
-    "name": "Wild Witch Herbs"
-  }
-  "publisher": {
-    "@type": "Organization",
-    "name": "Wild Witch Herbs"
-  }
-  "image": "/assets/images/old-european-garden-herbs.jpg"
+  "@type": "FAQPage"
   "mainEntity":
     - "@type": "Question"
       "name": "What makes a herb 'witchy' in Old European tradition?"
       "acceptedAnswer":
         "@type": "Answer"
-        "text": "Plants were considered witchy if they protected thresholds, aided divination, guarded homes, or connected the living with ancestors."
+        "text": "Herbs were considered witchy if they protected thresholds, aided divination, guarded homes, or connected the living with ancestors."
     - "@type": "Question"
       "name": "Which herbs were common in medieval European gardens?"
       "acceptedAnswer":
         "@type": "Answer"
-        "text": "Sage, rosemary, rue, wormwood, mugwort, mint, thyme, and lovage—all with deep magical associations."
+        "text": "Sage, rosemary, rue, wormwood, mugwort, mint, thyme, and lovage—all had deep magical associations."
     - "@type": "Question"
       "name": "Did witches use poisonous plants?"
       "acceptedAnswer":
@@ -94,7 +61,9 @@ schema:
       "acceptedAnswer":
         "@type": "Answer"
         "text": "Mugwort above all; thyme and rosemary also appear in medieval dream rituals."
-        
+schema: true
+schema_type: "Article"
+
 ---
 
 Not every medieval herb was magical.  
