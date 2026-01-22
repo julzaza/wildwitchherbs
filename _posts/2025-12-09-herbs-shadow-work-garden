@@ -1,11 +1,10 @@
 ---
-layout: post
+layout: single
 title: "Herbs for a Shadow Work Garden"
 description: "A sophisticated guide to Old European shadow-work herbs—plants once used for introspection, dreamwork, ancestral healing, and confronting the hidden self."
 excerpt: "A deep, folklore-rooted exploration of Old European herbs for shadow work: introspection, dream rites, confronting fears, and walking the darker threshold paths."
-categories: [Witchcraft, Folklore, Herbs, Shadow Work]
-tags: [shadow work, herbs, folklore, witchcraft, ancestral magic]
-toc: true
+categories: [herbal-magic, witchcraft-ritual]
+tags: [shadow work, garden herbs, European folklore, ancestral magic, dream herbs, threshold herbs, liminal plants, protective herbs]
 
 faq:
   - question: "What is a shadow work garden?"
@@ -34,9 +33,69 @@ schema:
   "@type": "Article"
   "headline": "Herbs for a Shadow Work Garden"
   "description": "A deep, folklore-based guide to Old European herbs associated with introspection, descent, and dreamwork."
-  "author": "Wild Witch Herbs"
-  "about": "Old European Witchcraft, Shadow Work, Herbal Folklore"
-  "publisher": "Wild Witch Herbs"
+  "author":
+    "@type": "Organization"
+    "name": "Wild Witch Herbs"
+  "publisher":
+    "@type": "Organization"
+    "name": "Wild Witch Herbs"
+  "image": "/assets/images/shadow-work-garden.jpg"
+  "mainEntityOfPage":
+    "@type": "WebPage"
+    "@id": "https://wildwitchherbs.com/herbs-shadow-work-garden"
+  "keywords": ["shadow work herbs", "Old European herbs", "dreamwork plants", "ancestral magic", "liminal herbs", "threshold herbs"]
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What is a shadow work garden?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "A garden designed with herbs traditionally used in Old European introspective rites—dream herbs, liminal plants, threshold guardians, and ancestral protectors."
+    - "@type": "Question"
+      "name": "Are these herbs dangerous?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Some historically used shadow herbs can be toxic. This post discusses folklore only, not ingestion or medical use."
+    - "@type": "Question"
+      "name": "What herbs were used for ancestral work in Europe?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Mugwort, yew, juniper, rue, rosemary, and wormwood were all associated with ancestral contact and protective liminality."
+    - "@type": "Question"
+      "name": "Can I plant these in containers?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Mugwort, wormwood, rue, and sage thrive in pots and still carry their traditional magical associations."
+    - "@type": "Question"
+      "name": "How is this different from a regular witchy garden?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "A shadow garden focuses on the hidden self, rites of descent, initiation, and dreamwork instead of everyday household magic."
+    - "@type": "Question"
+      "name": "Which plant is best for dreamwork?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Old European traditions most often call upon mugwort for guided dreams, clear-sight, and walking between worlds."
+    - "@type": "Question"
+      "name": "What plants help with banishing fear?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Rue, juniper, and yew held reputations for facing the 'inner wolf' in Mediterranean and Northern European folklore."
+    - "@type": "Question"
+      "name": "How do I spiritually cleanse a shadow garden?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Balkan traditions use juniper smoke to purify threshold spaces before rituals of descent."
+    - "@type": "Question"
+      "name": "Where should I plant wormwood?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Along boundaries. Wormwood was a liminal herb, placed at edges, gates, or garden borders in pre-modern Europe."
+    - "@type": "Question"
+      "name": "Is mugwort safe?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "This post treats mugwort as folklore only. Avoid ingestion unless guided by qualified herbal professionals."
+
 ---
 
 # TL;DR  
@@ -46,7 +105,6 @@ Plant them along **boundaries, thresholds, crossroads of the garden**, or beside
 
 ---
 
-# **Herbs for a Shadow Work Garden**  
 Shadow work is not modern psychology dressed in witchcraft clothing.  
 Long before the concept had a name, Old European witches walked the darker corners of the garden—edges, ruins, liminal borders—and worked with herbs that revealed what the bright sun hides.
 
@@ -57,7 +115,7 @@ If you already explored my guide on **[Witchy Plants for Bedrooms (Dreamwork Edi
 
 ---
 
-# **Why Gardens Were Used for Descent Work**  
+## **Why Gardens Were Used for Descent Work**  
 In Old European cosmology:
 
 - **edges and borders** were where one met spirits  
@@ -69,9 +127,9 @@ Shadow work happened where light fades. Gardens offered that naturally.
 
 ---
 
-# **The Core Shadow Work Herbs**
+## **The Core Shadow Work Herbs**
 
-## **Mugwort — The Dream-Path Herb**  
+### **Mugwort — The Dream-Path Herb**  
 **Regions:** Alps, Balkans, Germanic lands, Britain  
 **Folklore:**  
 Mugwort (Artemisia vulgaris) was a guide herb, placed in shoes for long journeys and burned to open dream-vision.  
@@ -86,7 +144,7 @@ For deeper dream lore, explore **[Witchy Plants for Bedrooms (Dreamwork Edition)
 
 ---
 
-## **Wormwood — The Herb of Bitter Clarity**  
+### **Wormwood — The Herb of Bitter Clarity**  
 **Regions:** Mediterranean, Slavic, Baltic  
 **Folklore:**  
 Wormwood marked boundaries between worlds.  
@@ -100,7 +158,7 @@ See **[Plants Witches Avoid](/plants-witches-avoid)** for why wormwood drew both
 
 ---
 
-## **Rue — Protector Against Inner and Outer Evil**  
+### **Rue — Protector Against Inner and Outer Evil**  
 **Regions:** Mediterranean & Balkans  
 Rue was used to confront the “evil eye within”—jealousy, fear, shame.  
 Shadow work often begins with removing internal curses.
@@ -110,7 +168,7 @@ Paired with **[Herbs to Keep Out the Evil Eye Next Door](/evil-eye-herbs)**, rue
 
 ---
 
-## **Yew — The Tree of Descent and Return**  
+### **Yew — The Tree of Descent and Return**  
 **Regions:** Celtic, Norse, Alpine  
 Yew stood in graveyards not for mourning but for **ritual descent**.  
 Its evergreen needles symbolized surviving the winter of the soul.
@@ -119,7 +177,7 @@ Plant yew at the back edge of the garden—its proper place.
 
 ---
 
-## **Juniper — Smoke of Purification Before Descent**  
+### **Juniper — Smoke of Purification Before Descent**  
 Juniper smoke was used in Alpine and Balkan households before entering initiatory rites.  
 Before meeting the shadow, one purified the path.
 
@@ -131,15 +189,15 @@ See **[The Witch’s Winter Bottle](/winter-witch-bottle)** for more Alpine thre
 
 ---
 
-## **Black Poplar — The Tree of Night Winds**  
+### **Black Poplar — The Tree of Night Winds**  
 Associated with dream-journeys and the whispering dead.  
 A poplar at the garden edge becomes the “listener” in shadow rites.
 
 ---
 
-# **Designing the Shadow Work Garden**
+## **Designing the Shadow Work Garden**
 
-## **1. Use Edges, Borders, and Back Corners**  
+### **1. Use Edges, Borders, and Back Corners**  
 Shadow plants belong:
 - behind sheds  
 - along stone walls  
@@ -151,7 +209,7 @@ This is edge magic—where transformation lives.
 
 ---
 
-## **2. Build a “Descent Seat”**  
+### **2. Build a “Descent Seat”**  
 A simple stone, log, or bench placed:
 - near mugwort  
 - in sight of yew or poplar  
@@ -161,9 +219,9 @@ This becomes the ritual place for nightly introspection.
 
 ---
 
-## **3. Ritual Examples**
+### **3. Ritual Examples**
 
-### **Night Courage Rite (Mediterranean)**  
+#### **Night Courage Rite (Mediterranean)**  
 At moonrise:  
 - stand between rue and juniper  
 - burn a sprig of juniper  
@@ -174,7 +232,7 @@ This was done to “walk through the wolf,” as the Greeks said.
 
 ---
 
-### **Dream-Descent Path (Alpine & Germanic)**  
+#### **Dream-Descent Path (Alpine & Germanic)**  
 At the garden path lined with mugwort:  
 - walk barefoot  
 - breathe slowly  
@@ -186,11 +244,9 @@ Straightforward, powerful.
 
 ---
 
-# **Conclusion**  
+## **Conclusion**  
 A shadow work garden is a map of the soul.  
 Plant the herbs our ancestors used to descend into themselves: mugwort, wormwood, rue, juniper, yew, and poplar.  
 Let the plants teach you what the bright garden never can.
 
 ---
-
-# **END OF POST 1**
