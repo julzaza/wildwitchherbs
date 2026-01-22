@@ -14,17 +14,51 @@ tags:
   - global herbal folklore
   - women’s fertility magic
   - ethnobotany
-faq_schema: |
-  type: FAQPage
-  mainEntity:
-    - question: "Are fertility herbs for women found in cultures outside Europe?"
-      answer: "Yes. Fertility herbs and womb rituals exist worldwide, including African seed rites, Middle Eastern tonics, Asian adaptogenic herbs, Oceanic ceremonial plants, and American Indigenous traditions."
-    - question: "Are these fertility herbs meant as medical advice?"
-      answer: "No. This guide documents folklore, traditional plant lore, and ritual uses. It does not replace medical guidance or professional care."
-    - question: "Do different cultures approach fertility magic differently?"
-      answer: "Yes. While themes repeat globally, each culture adapts fertility plants to local ecology, spiritual beliefs, and ancestral customs."
-    - question: "Where can I learn about Old European fertility herbs specifically?"
-      answer: "See Fertility Herbs for Women: Womb Magic & Old European Folklore at /fertility-herbs-women-old-europe."
+schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Are fertility herbs universal across cultures?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "While specific plants differ, nearly all cultures share fertility themes: cleansing before conception, strengthening vitality, calming fear, and invoking ancestral or land spirits."
+    - "@type": "Question"
+      "name": "Do these traditions replace modern fertility care?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "No. These practices historically existed alongside midwifery, diet, rest, and communal support. They were relational, not mechanical."
+    - "@type": "Question"
+      "name": "Why do so many fertility herbs focus on cleansing first?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "In folk belief, conception requires openness—physical, emotional, and spiritual. Clearing stagnation was often considered the first step before inviting new life."
+    - "@type": "Question"
+      "name": "Can fertility magic be practiced without copying another culture’s rituals?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Understanding the logic behind plant use is more important than copying forms. Respect, context, and relationship to your own land matter most."
+    - "@type": "Question"
+      "name": "Are fertility herbs for women found in cultures outside Europe?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Fertility herbs and womb rituals exist worldwide, including African seed rites, Middle Eastern tonics, Asian adaptogenic herbs, Oceanic ceremonial plants, and American Indigenous traditions."
+    - "@type": "Question"
+      "name": "Are these fertility herbs meant as medical advice?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "No. This guide documents folklore, traditional plant lore, and ritual uses. It does not replace medical guidance or professional care."
+    - "@type": "Question"
+      "name": "Do different cultures approach fertility magic differently?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. While themes repeat globally, each culture adapts fertility plants to local ecology, spiritual beliefs, and ancestral customs."
+    - "@type": "Question"
+      "name": "Where can I learn about Old European fertility herbs specifically?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "See Fertility Herbs for Women: Womb Magic & Old European Folklore at /fertility-herbs-women-old-europe."
+
 ---
 
 Fertility magic has never belonged to a single continent.
