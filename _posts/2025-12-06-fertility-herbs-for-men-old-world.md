@@ -11,13 +11,56 @@ schema:
   "headline": "Fertility Herbs for Men: Old European Virility Magic, Vitality Tonics, and Ancestral Plant Lore"
   "description": "A folklore-rich guide to fertility herbs for men, exploring virility rites, vitality herbs, and Old European traditions connected to male creative force."
   "author":
-    "@type": "Person"
-    "name": "Wild Witchy Herbs"
-  "articleSection": "Fertility"
-  "keywords": "fertility herbs for men, virility herbs, male vitality, European folklore, aphrodisiac plants, men's reproductive health"
+    "@type": "Organization"
+    "name": "Wild Witch Herbs"
   "publisher":
     "@type": "Organization"
-    "name": "Wild Witchy Herbs"
+    "name": "Wild Witch Herbs"
+    "url": "https://wildwitchherbs.com"
+  "keywords": "fertility herbs for men, virility herbs, male vitality, European folklore, aphrodisiac plants, men's reproductive health"
+
+faq:
+  - question: "What herbs increase male fertility naturally?"
+    answer: "Traditional herbs include Tribulus, ginseng, fenugreek, nettle root, pine pollen, and horny goat weed—used historically to support vitality, circulation, drive, and stamina."
+  - question: "Do fertility herbs really help men?"
+    answer: "Old European herbalism used these herbs to enhance vigor, libido, blood flow, and energy—factors believed to support male reproductive health."
+  - question: "How long do male fertility herbs take to work?"
+    answer: "Folk traditions suggest several weeks to months of consistent use, as vitality and blood-building herbs work gradually."
+  - question: "Which herbs should men avoid?"
+    answer: "Men traditionally avoided heavy sedatives, strong cooling herbs, and anything that 'dampened the fire' of the lower body."
+  - question: "What is the best fertility herb for men?"
+    answer: "Symbolically and traditionally: Tribulus for virility, nettle root for foundation, ginseng for life-force, and pine pollen for 'seed strength.'"
+
+faq_schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What herbs increase male fertility naturally?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Traditional herbs include Tribulus, ginseng, fenugreek, nettle root, pine pollen, and horny goat weed—used historically to support vitality, circulation, drive, and stamina."
+    - "@type": "Question"
+      "name": "Do fertility herbs really help men?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Old European herbalism used these herbs to enhance vigor, libido, blood flow, and energy—factors believed to support male reproductive health."
+    - "@type": "Question"
+      "name": "How long do male fertility herbs take to work?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Folk traditions suggest several weeks to months of consistent use, as vitality and blood-building herbs work gradually."
+    - "@type": "Question"
+      "name": "Which herbs should men avoid?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Men traditionally avoided heavy sedatives, strong cooling herbs, and anything that 'dampened the fire' of the lower body."
+    - "@type": "Question"
+      "name": "What is the best fertility herb for men?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Symbolically and traditionally: Tribulus for virility, nettle root for foundation, ginseng for life-force, and pine pollen for 'seed strength.'"
+
 ---
 
 Male fertility has its own lineage of old magic—a lineage rarely spoken of, but woven into European folklore through symbols of the stag, the plowman, the thunder god, and the winter king reborn each spring.  
