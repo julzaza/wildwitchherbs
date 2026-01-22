@@ -101,7 +101,7 @@ Not every medieval herb was magical.
 But the ones that guarded doors, flavored feasts, healed households, and whispered in dreams carried a weight that survived centuries.
 
 Across Europe—from the Balkans to Britain, Greece to the Alpine valleys—gardens were places of **threshold magic**.  
-Herbs watched over doors, dried above hearths, crowned newborns, protected travelers, and marked the changing seasons.
+**Herbs watched over doors, dried above hearths, crowned newborns, protected travelers, and marked the changing seasons.**
 
 This post continues the tradition you may recognize from **[Witchy Plants for Front Doors](/witchy-plants-for-front-door)** and **[How to Start a Witchy Garden](/witch-garden)**.
 
