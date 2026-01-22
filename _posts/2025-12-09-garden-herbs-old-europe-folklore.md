@@ -1,11 +1,12 @@
 ---
 layout: single
-title: "Old European Folklore of Garden Herbs"
+title: "Old European Folklore: Garden Herbs"
 description: "A rich, historically grounded exploration of Old European garden herbs—their lore, seasonal meanings, household magic, and ritual uses."
-excerpt: "A folklore-heavy journey through Old European garden herbs: protective household plants, dream herbs, threshold guardians, and ancestral green allies."
-categories: [Witchcraft, Folklore, Herbs, History]
-tags: [folklore, herbs, witchcraft, household magic, history]
-toc: true
+excerpt: "A folklore-rich guide to Old European garden herbs: protective household plants, dream herbs, threshold guardians, and ancestral green allies."
+categories: [folklore-ancestral, herbal-magic]
+tags: [garden herbs, European folklore, protective plants, ancestral magic, dream herbs, threshold herbs]
+canonical_url: https://wildwitchherbs.com/old-european-folklore-garden-herbs
+image: /assets/images/old-european-garden-herbs.jpg
 
 faq:
   - question: "What makes a herb 'witchy' in Old European tradition?"
@@ -22,7 +23,7 @@ faq:
     answer: "Evergreens during winter rites, mugwort for midsummer fires, rosemary for solstice protection."
   - question: "Did medieval gardens have magical sections?"
     answer: "Yes—kitchen gardens often contained sacred clusters for purification, dreamwork, or protection."
-  - question: "What herbs connect to ancestors?"
+  - question: "Which herbs connect to ancestors?"
     answer: "Juniper, mugwort, and wormwood—burned or planted near thresholds."
   - question: "What is a threshold herb?"
     answer: "A plant kept near doors or gates to guard the home's liminal spaces, where spirits or ill-will might enter."
@@ -34,9 +35,66 @@ schema:
   "@type": "Article"
   "headline": "Old European Folklore of Garden Herbs"
   "description": "A deep look at Old European garden herbs and their magical, historical, and folkloric roles."
-  "author": "Wild Witch Herbs"
-  "about": "Old European Witchcraft, Herbal Folklore"
-  "publisher": "Wild Witch Herbs"
+  "author": {
+    "@type": "Organization",
+    "name": "Wild Witch Herbs"
+  }
+  "publisher": {
+    "@type": "Organization",
+    "name": "Wild Witch Herbs"
+  }
+  "image": "/assets/images/old-european-garden-herbs.jpg"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What makes a herb 'witchy' in Old European tradition?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Plants were considered witchy if they protected thresholds, aided divination, guarded homes, or connected the living with ancestors."
+    - "@type": "Question"
+      "name": "Which herbs were common in medieval European gardens?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Sage, rosemary, rue, wormwood, mugwort, mint, thyme, and lovage—all with deep magical associations."
+    - "@type": "Question"
+      "name": "Did witches use poisonous plants?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Some traditions mention poisonous plants, but this post focuses on household herbs, not flying ointment lore."
+    - "@type": "Question"
+      "name": "Where were protective herbs planted?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "At doors, windows, gates, and boundary lines—thresholds where magic and spirits moved."
+    - "@type": "Question"
+      "name": "Which herbs guard against the evil eye?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Rue, basil, and rosemary in Mediterranean households; garlic and wormwood in Slavic regions."
+    - "@type": "Question"
+      "name": "How were herbs used seasonally?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Evergreens during winter rites, mugwort for midsummer fires, rosemary for solstice protection."
+    - "@type": "Question"
+      "name": "Did medieval gardens have magical sections?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes—kitchen gardens often contained sacred clusters for purification, dreamwork, or protection."
+    - "@type": "Question"
+      "name": "Which herbs connect to ancestors?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Juniper, mugwort, and wormwood—burned or planted near thresholds."
+    - "@type": "Question"
+      "name": "What is a threshold herb?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "A plant kept near doors or gates to guard the home's liminal spaces, where spirits or ill-will might enter."
+    - "@type": "Question"
+      "name": "Which herbs were used for dream rites?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Mugwort above all; thyme and rosemary also appear in medieval dream rituals."
 ---
 
 # TL;DR  
@@ -45,7 +103,7 @@ Their placements—doors, windows, gates, and paths—were more important than q
 
 ---
 
-# **Old European Folklore of Garden Herbs**
+## **Old European Folklore of Garden Herbs**
 
 Not every medieval herb was magical.  
 But the ones that guarded doors, flavored feasts, healed households, and whispered in dreams carried a weight that survived centuries.
@@ -57,9 +115,9 @@ This post continues the tradition you may recognize from **[Witchy Plants for Fr
 
 ---
 
-# **Household Guardians: The Protector Herbs**
+## **Household Guardians: The Protector Herbs**
 
-## **Rosemary — Guardian of Doors and Memory**  
+### **Rosemary — Guardian of Doors and Memory**  
 Mediterranean households planted rosemary by the front door “so the witch of the house remembers her power.”  
 It protected from wandering spirits and strengthened memory during rites.
 
@@ -68,7 +126,7 @@ See **[Why Witches Plant Rosemary by the Door](/rosemary-door)** for a fuller lo
 
 ---
 
-## **Rue — The Eye-Breaker**  
+### **Rue — The Eye-Breaker**  
 Rue was hung in doorways and placed in salt at entrances to block the evil eye.  
 Italian, Greek, and Balkan households treated rue as sacred.
 
@@ -77,7 +135,7 @@ Its deeper role appears in **[Herbs to Keep Out the Evil Eye Next Door](/evil-ey
 
 ---
 
-## **Wormwood — The Boundary Herb**  
+### **Wormwood — The Boundary Herb**  
 Planted along fences and borders.  
 Its bitter scent marked the line between home and wild.
 
@@ -85,9 +143,9 @@ Paired well with thyme or rosemary.
 
 ---
 
-# **Dream Herbs: The Night Garden**
+## **Dream Herbs: The Night Garden**
 
-## **Mugwort — Dreams, Sight, and Travel**  
+### **Mugwort — Dreams, Sight, and Travel**  
 Used across the Alps and Germanic lands for dream rites and solstice fires.  
 Hung above beds or doors to invite prophetic dreams.
 
@@ -96,16 +154,16 @@ For indoor dream magic, see **[Witchy Plants for Bedrooms](/witchy-plants-bedroo
 
 ---
 
-## **Thyme — Courage for the Night**  
+### **Thyme — Courage for the Night**  
 In Celtic and Mediterranean lore, thyme was burned to give courage before facing spirits or the night’s unknowns.
 
 A beautiful herb near paths.
 
 ---
 
-# **Herbs of Ancestral Contact**
+## **Herbs of Ancestral Contact**
 
-## **Juniper — Smoke of the Old Ones**  
+### **Juniper — Smoke of the Old Ones**  
 A tree more than a herb, but included in every garden.  
 Burned during seasonal rites—especially the Twelve Nights.
 
@@ -114,15 +172,15 @@ Connected to traditional protections in **[The Witch’s Winter Bottle](/winter-
 
 ---
 
-## **Sage — Clearing the Path**  
+### **Sage — Clearing the Path**  
 European sages were used to clear rooms, beds, and entryways.  
 Planted close to the kitchen door.
 
 ---
 
-# **Seasonal Magic in the Garden**
+## **Seasonal Magic in the Garden**
 
-## **Midsummer: Mugwort, St. John’s Wort, Thyme**  
+### **Midsummer: Mugwort, St. John’s Wort, Thyme**  
 These herbs were woven into wreaths thrown onto roofs or burned in solstice fires.
 
 **Internal link:**  
@@ -130,7 +188,7 @@ See **[St. John’s Wort Sun Water](/st-johns-wort-sun-water)** for solstice tra
 
 ---
 
-## **Midwinter: Evergreen Clusters**  
+### **Midwinter: Evergreen Clusters**  
 Rosemary, juniper, and pine stood as symbols of surviving the dark.
 
 **Internal link:**  
@@ -138,7 +196,7 @@ For deeper evergreen lore: **[Evergreen Magic](/evergreens-witchcraft)**.
 
 ---
 
-# **A Simple Garden Ritual: The Four Corners Charm**
+## **A Simple Garden Ritual: The Four Corners Charm**
 
 1. Plant rosemary at the **east** corner (clarity).  
 2. Plant sage at the **south** (action).  
@@ -150,7 +208,7 @@ At dusk, walk the corners clockwise and whisper:
 
 ---
 
-# **Conclusion**  
+## **Old Witchy Herbs In Your Life**  
 Old European herbs were woven into daily life—dreams, meals, births, thresholds, and seasonal rites.  
 Your garden can echo those ancient patterns, not as reconstruction but as continuation.
 
@@ -159,6 +217,3 @@ Grow rosemary at the door, rue at the steps, mugwort near paths, juniper at the 
 The old ways return through the soil.
 
 ---
-
-# **END OF POST 2**
-```markdown
