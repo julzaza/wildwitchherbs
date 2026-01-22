@@ -16,20 +16,57 @@ tags:
 permalink: /forbidden-herbs-for-men/
 schema: true
 schema_type: "Article"
-faq_schema:
-  type: FAQPage
-  mainEntity:
-    - question: "Were herbs ever forbidden to men in traditional cultures?"
-      answer: "Yes. In many cultures, specific herbs or herbal roles were restricted to women, elders, or trained specialists due to fertility concerns, ritual law, or toxicity."
-    - question: "Were these restrictions symbolic?"
-      answer: "No. Most restrictions were practical, tied to reproductive safety, pharmacological danger, or cosmological balance."
-    - question: "Is this modern medical advice?"
-      answer: "No. This article documents historical and ethnobotanical practices, not contemporary health guidance."
-    - question: "Which herbs were cautioned for men?"
-      answer: "Notable examples include belladonna, wolfsbane (Aconitum), strong bitters, datura, and psychoactive vision plants. Use was often guided by apprenticeship or ritual knowledge."
+schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Were herbs ever forbidden to men in traditional cultures?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. In many cultures, specific herbs or herbal roles were restricted to men, women, elders, or trained specialists due to fertility concerns, ritual law, or toxicity."
+    - "@type": "Question"
+      "name": "Were these restrictions symbolic or practical?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Most restrictions were practical, tied to reproductive safety, pharmacological danger, or cosmological balance. Symbolic meaning reinforced practical caution."
+    - "@type": "Question"
+      "name": "Is this modern medical advice?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "No. This article documents historical and ethnobotanical practices, not contemporary health guidance."
+    - "@type": "Question"
+      "name": "Which herbs were cautioned for men?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Notable examples include belladonna, wolfsbane (Aconitum), strong bitters, datura, mandrake, mugwort, and psychoactive vision plants. Use was often guided by apprenticeship or ritual knowledge."
+    - "@type": "Question"
+      "name": "Why were some herbs restricted specifically for men?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Restrictions existed when herbs affected female physiology, fertility, reproductive cycles, or ritual efficacy. Men’s handling could weaken potency, provoke misfortune, or disrupt reproductive authority."
+    - "@type": "Question"
+      "name": "Did these rules apply globally?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Europe, Asia, Indigenous North America, and Africa all documented gendered herbal restrictions, often enforced by elders, midwives, or ritual law."
+    - "@type": "Question"
+      "name": "Were these restrictions absolute?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Not always. Some restrictions were absolute, others contextual, based on life stage, ritual role, or training. Apprenticeship and ritual literacy guided safe use."
+    - "@type": "Question"
+      "name": "Could misuse harm men?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Many restricted herbs, such as belladonna, wolfsbane, and datura, are toxic or psychoactive, posing serious health risks if handled incorrectly."
+    - "@type": "Question"
+      "name": "Are these herbs still used today?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Some are still used in modern herbalism, often under professional guidance. However, reproductive and psychoactive risks remain, so historical caution remains relevant."
 
 ---
-
 
 ## Why Some Herbs Were Restricted for Men
 
