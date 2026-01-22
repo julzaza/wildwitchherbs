@@ -18,49 +18,47 @@ layout: default
     {% include feature_row %}
   </div>
 
-  {% comment %} Herbalism Cluster {% endcomment %}
-  <section class="cluster-section" style="max-width:1000px; margin:4rem auto; padding:0 1rem;">
-    <h2 style="font-family:Roboto,sans-serif; font-size:1.8rem; border-bottom:2px solid #7a5c2f; padding-bottom:0.3rem; margin-bottom:2rem; color:#4a3c2f;">
-      Herbalism & Magic in Practice
-    </h2>
-    <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:2rem;">
-      {% assign herbal_posts = site.posts | sort: 'date' | reverse %}
-      {% for post in herbal_posts %}
-        {% if post.categories contains 'herbal-magic' or post.categories contains 'natural-healing' %}
-          {% include archive_item.html post=post excerpt_length=140 %}
-        {% endif %}
-      {% endfor %}
-    </div>
-  </section>
+{% comment %} Herbalism Cluster {% endcomment %}
+<section class="cluster-section" style="max-width:1000px; margin:4rem auto; padding:0 1rem;">
+  <h2 style="font-family:Roboto,sans-serif; font-size:1.8rem; border-bottom:2px solid #7a5c2f; padding-bottom:0.3rem; margin-bottom:2rem; color:#4a3c2f;">
+    Herbalism & Magic in Practice
+  </h2>
+  <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:2rem;">
+    {% assign herbal_posts = site.posts | sort:'date' | reverse %}
+    {% for post in herbal_posts %}
+      {% if post.categories contains 'herbal-magic' or post.categories contains 'natural-healing' %}
+        {% include archive-single.html post=post type="grid" %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
 
-  {% comment %} Folklore & Witchcraft Cluster {% endcomment %}
-  <section class="cluster-section" style="max-width:1000px; margin:4rem auto; padding:0 1rem;">
-    <h2 style="font-family:Roboto,sans-serif; font-size:1.8rem; border-bottom:2px solid #7a5c2f; padding-bottom:0.3rem; margin-bottom:2rem; color:#4a3c2f;">
-      Folklore & Witchcraft
-    </h2>
-    <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:2rem;">
-      {% assign folklore_posts = site.posts | sort: 'date' | reverse %}
-      {% for post in folklore_posts %}
-        {% if post.categories contains 'folklore-ancestral' or post.categories contains 'witchcraft-ritual' %}
-          {% include archive_item.html post=post excerpt_length=140 %}
-        {% endif %}
-      {% endfor %}
-    </div>
-  </section>
+{% comment %} Folklore & Witchcraft Cluster {% endcomment %}
+<section class="cluster-section" style="max-width:1000px; margin:4rem auto; padding:0 1rem;">
+  <h2 style="font-family:Roboto,sans-serif; font-size:1.8rem; border-bottom:2px solid #7a5c2f; padding-bottom:0.3rem; margin-bottom:2rem; color:#4a3c2f;">
+    Folklore & Witchcraft
+  </h2>
+  <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:2rem;">
+    {% assign folklore_posts = site.posts | sort:'date' | reverse %}
+    {% for post in folklore_posts %}
+      {% if post.categories contains 'folklore-ancestral' or post.categories contains 'witchcraft-ritual' %}
+        {% include archive-single.html post=post type="grid" %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
 
-  {% comment %} More Articles & Stories {% endcomment %}
-  <section class="cluster-section" style="max-width:1000px; margin:4rem auto; padding:0 1rem;">
-    <h2 style="font-family:Roboto,sans-serif; font-size:1.8rem; border-bottom:2px solid #7a5c2f; padding-bottom:0.3rem; margin-bottom:2rem; color:#4a3c2f;">
-      More Articles & Stories
-    </h2>
-    <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:2rem;">
-      {% assign other_posts = site.posts | sort: 'date' | reverse %}
-      {% for post in other_posts %}
-        {% unless post.categories contains 'herbal-magic' or post.categories contains 'natural-healing' or post.categories contains 'folklore-ancestral' or post.categories contains 'witchcraft-ritual' %}
-          {% include archive_item.html post=post excerpt_length=100 %}
-        {% endunless %}
-      {% endfor %}
-    </div>
-  </section>
-</div>
-
+{% comment %} More Articles & Stories {% endcomment %}
+<section class="cluster-section" style="max-width:1000px; margin:4rem auto; padding:0 1rem;">
+  <h2 style="font-family:Roboto,sans-serif; font-size:1.8rem; border-bottom:2px solid #7a5c2f; padding-bottom:0.3rem; margin-bottom:2rem; color:#4a3c2f;">
+    More Articles & Stories
+  </h2>
+  <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:2rem;">
+    {% assign other_posts = site.posts | sort:'date' | reverse %}
+    {% for post in other_posts %}
+      {% unless post.categories contains 'herbal-magic' or post.categories contains 'natural-healing' or post.categories contains 'folklore-ancestral' or post.categories contains 'witchcraft-ritual' %}
+        {% include archive-single.html post=post type="grid" %}
+      {% endunless %}
+    {% endfor %}
+  </div>
+</section>
