@@ -6,7 +6,6 @@ excerpt: "Long before Christianity reshaped Europe, the Straw Bear embodied the 
 categories: [folklore-ancestral, witchcraft-ritual]
 tags: [straw bear, field spirits, European folk magic, pre-Christian rituals, fertility rites, winter rites, agrarian magic]
 permalink: /straw-bear-last-field-spirit
-image: /assets/images/straw-bear-europe.jpg
 
 schema:
   "@context": "https://schema.org"
@@ -167,4 +166,21 @@ It is the last echo of a time when the land spoke, and people answered.
 - **[Old World Fertility Magic](/old-world-fertility-magic)**  
 - **[Evergreen Magic](/evergreens-witchcraft)**  
 - **[Winter Solstice Witchcraft](/winter-solstice-witchcraft)**  
-- **[The Witch’s Winter Bottle](/witchy-winter-solstice-bottle)**  
+- **[The Witch’s Winter Bottle](/witchy-winter-solstice-bottle)**
+
+---
+
+## FAQ
+
+**Q: Is the Straw Bear a pagan tradition?**  
+A: Yes. It embodies the Old European field spirit and predates Christian influence.
+
+**Q: Why was straw used?**  
+A: Straw symbolized the final sheaves of the harvest, temporarily giving the field spirit a body to bless the land.
+
+**Q: Does the Straw Bear still have meaning today?**  
+A: While now mostly folklore, the ritual preserves the logic of European agrarian magic and fertility practices.
+
+**Q: Where was the Straw Bear tradition practiced?**  
+A: Parts of Germany, Austria, and the Czech lands, with parallels across Europe.
+
