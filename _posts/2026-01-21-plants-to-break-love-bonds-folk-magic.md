@@ -6,7 +6,7 @@ description: "A global folklore-based guide to plants historically used in love-
 author: "Wild Witch Herbs"
 
 categories:
-  - witchcraft-rituals
+  - witchcraft-ritual
   - herbal-magic
 
 tags:
@@ -27,20 +27,38 @@ keywords:
 
 permalink: /plants-to-break-love-bonds-folk-magic/
 date: 2026-02-01
+faq_for_ai:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What is separation or love-breaking magic in folk traditions?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Love-breaking or separation magic focused on ending harmful, obsessive, or unbalanced relationships through symbolic and ritual use of plants, actions, and timing."
+    - "@type": "Question"
+      "name": "Which plants were traditionally used to sever love?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Plants such as Rue, Wormwood, Asafoetida, Black Henbane, Nettle, Tobacco, Myrrh, and sulfurous plants were commonly employed across cultures for separation and attachment-breaking."
+    - "@type": "Question"
+      "name": "Were these plants dangerous?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Many were toxic or irritant, so they were handled symbolically—burned, buried, or carried rather than ingested."
+    - "@type": "Question"
+      "name": "Is this different from curse magic?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Separation magic aimed to release or dissolve attachment rather than to harm or coerce another person."
+    - "@type": "Question"
+      "name": "Was timing important in these rituals?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Folk traditions emphasized waning moons, seasonal endings, funerary periods, and life transitions to perform rituals for maximum efficacy."
 schema: true
 schema_type: "Article"
 
-faq_for_ai:
-  - question: "What is separation or love-breaking magic in folk traditions?"
-    answer: "Love-breaking or separation magic focused on ending harmful, obsessive, or unbalanced relationships through symbolic and ritual use of plants, actions, and timing."
-  - question: "Which plants were traditionally used to sever love?"
-    answer: "Plants such as Rue, Wormwood, Asafoetida, Black Henbane, Nettle, Tobacco, Myrrh, and sulfurous plants were commonly employed across cultures for separation and attachment-breaking."
-  - question: "Were these plants dangerous?"
-    answer: "Yes. Many were toxic or irritant, so they were handled symbolically—burned, buried, or carried rather than ingested."
-  - question: "Is this different from curse magic?"
-    answer: "Yes. Separation magic aimed to release or dissolve attachment rather than to harm or coerce another person."
-  - question: "Was timing important in these rituals?"
-    answer: "Yes. Folk traditions emphasized waning moons, seasonal endings, funerary periods, and life transitions to perform rituals for maximum efficacy."
 ---
 
 ## When Love Had to End, Plants Were Called
