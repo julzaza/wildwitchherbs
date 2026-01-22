@@ -173,7 +173,6 @@ Explore the full traditional recipe: **[The Witch’s Winter Bottle: Solstice Pr
 - **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**
 - **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
 - **[The Twelve Nights](/twelve-nights-witchcraft)**
-- **[Solstice Dreaming: Mugwort and Wormwood](/solstice-dreaming-mugwort-wormwood/)**
 
 ---
 
