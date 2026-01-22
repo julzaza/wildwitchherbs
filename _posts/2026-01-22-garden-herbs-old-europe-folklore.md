@@ -5,7 +5,7 @@ description: "A rich, historically grounded exploration of Old European garden h
 excerpt: "A folklore-rich guide to Old European garden herbs: protective household plants, dream herbs, threshold guardians, and ancestral green allies."
 categories: [folklore-ancestral, herbal-magic]
 tags: [garden herbs, European folklore, protective herbs, ancestral herbs, dream herbs, threshold magic]
-canonical_url: https://wildwitchherbs.com/old-european-folklore-garden-herbs
+permalink: /old-european-folklore-garden-herbs/
 image: /assets/images/old-european-garden-herbs.jpg
 
 faq:
