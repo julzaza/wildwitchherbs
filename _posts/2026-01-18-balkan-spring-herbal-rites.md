@@ -13,14 +13,38 @@ tags:
   - love herbs Balkans
   - fertility herbs folklore
   - seasonal rituals
-faq_schema:
-  mainEntity:
-    - question: "What herbs were used in Balkan spring folk magic?"
-      answer: "Traditional Balkan spring folk magic used herbs such as basil, wormwood, nettle, elder, yarrow, dandelion, hawthorn, clover, and St. John’s Wort, gathered during specific seasonal and ritual windows."
-    - question: "Did Balkan witches use herbs for love and fertility?"
-      answer: "Yes. Balkan folk traditions document herbs used in love attraction, fertility, marriage rites, and protection, often gathered during spring festivals, equinoxes, and saint days."
-    - question: "How were herbs gathered in Balkan spring rituals?"
-      answer: "Herbs were gathered at dawn, in silence, or with spoken charms, often by women, during specific feast days believed to increase potency and protection."
+faq_for_ai:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What herbs were used in Balkan spring folk magic?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Traditional Balkan spring folk magic used herbs such as basil, wormwood, nettle, elder, yarrow, dandelion, hawthorn, clover, and St. John’s Wort, gathered during specific seasonal and ritual windows."
+    - "@type": "Question"
+      "name": "Did Balkan witches use herbs for love and fertility?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Balkan folk traditions document herbs used in love attraction, fertility, marriage rites, and protection, often gathered during spring festivals, equinoxes, and saint days."
+    - "@type": "Question"
+      "name": "How were herbs gathered in Balkan spring rituals?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Herbs were gathered at dawn, in silence, or with spoken charms, often by women, during specific feast days believed to increase potency and protection."
+    - "@type": "Question"
+      "name": "Were these practices pagan or religious?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "They existed alongside Christianity, blending saint days with older seasonal and liminal rites rooted in folk knowledge."
+    - "@type": "Question"
+      "name": "Did men participate in Balkan spring herbal rites?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Rarely. Most spring herbal rites were preserved and practiced by women. Men were often excluded from certain herbs for fertility, reproductive, or ritual reasons, as detailed in Forbidden Herbalism for Men."
+schema: true
+schema_type: "Article"
+
 ---
 
 ## Spring in Balkan Folk Belief: A Dangerous Threshold
