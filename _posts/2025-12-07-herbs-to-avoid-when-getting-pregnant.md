@@ -5,7 +5,7 @@ description: "A deep, folklore-rooted guide to herbs to stay away from when tryi
 excerpt: "A folklore-rich exploration of herbs to avoid when trying to conceive, drawing on European tradition, ritual history, and cautious herbal knowledge."
 categories: [herbal-magic, folklore-ancestral]
 tags: [fertility herbs, women’s magic, womb magic, contraceptive herbs, European folk magic]
-canonical_url: https://wildwitchherbs.com//herbs-to-avoid-when-getting-pregnant/
+permalink: /herbs-to-avoid-when-getting-pregnant/
 schema:
   "@context": "https://schema.org"
   "@type": "Article"
