@@ -5,7 +5,7 @@ excerpt: "A folklore-rich compendium of Balkan witchy herbs, drawn from document
 description: "An in-depth guide to Balkan witchy herbs rooted in ethnographic sources, folk ritual, and regional plant lore. Real traditions, real plants, no modern inventions."
 categories:
   - herbal-magic
-  - witchcraft-rituals
+  - witchcraft-ritual
 tags:
   - Balkan witchcraft
   - Balkan herbs
