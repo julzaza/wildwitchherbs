@@ -96,8 +96,6 @@ schema:
         "@type": "Answer"
         "text": "This post treats mugwort as folklore only. Avoid ingestion unless guided by qualified herbal professionals."
 
----
-
 # TL;DR  
 A **shadow work garden** draws on Old European herbs used to confront fear, enter dream states, meet ancestors, and walk liminal paths.  
 Key plants: **mugwort, wormwood, rue, yew, juniper, rosemary, black poplar, and sage**.  
