@@ -237,7 +237,9 @@ Straightforward, powerful.
 
 ## **Time to Plant Your Own Garden**  
 A shadow work garden is a map of the soul.  
+
 Plant the herbs our ancestors used to descend into themselves: mugwort, wormwood, rue, juniper, yew, and poplar.  
+
 Let these plants teach you what the bright garden never can.
 
 Find out **[Why Real Witches Plant Rosemarry by the Front Door](/why-witches-plant-rosemary-front-door/)** next.
