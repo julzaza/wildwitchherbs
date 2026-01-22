@@ -1,5 +1,4 @@
 ---
----
 layout: single
 title: "Winter Solstice Witchcraft: Old European Magic & Rituals"
 description: "Explore traditional European winter solstice witchcraft—Wild Hunt lore, ancestral rites, evergreen magic, solstice herbs, and rituals behind the year’s longest night."
