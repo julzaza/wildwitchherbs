@@ -100,7 +100,7 @@ schema:
 
 Shadow work is not modern psychology dressed in witchcraft clothing.  
 
-Long before the concept had a name, Old European witches walked the darker corners of the garden—edges, ruins, liminal borders—and worked with herbs that revealed what the bright sun hides.
+Long before the concept had a name, **Old European witches walked the darker corners of the garden—edges, ruins, liminal borders**—and worked with herbs that revealed what the bright sun hides.
 
 These were not “aesthetic goth” plants. They were boundary keepers, dream guides, purifiers, and ancestral trees.  
 A shadow work garden is not a place of danger—it is a place of **clarity**.
