@@ -5,7 +5,7 @@ description: "A deep, folklore-rooted exploration of the Straw Bear tradition—
 excerpt: "Long before Christianity reshaped Europe, the Straw Bear embodied the spirit of the fields. This surviving winter rite reveals how Old European magic continued beneath Christian veneer."
 categories: [folklore-ancestral, witchcraft-ritual]
 tags: [straw bear, field spirits, European folk magic, pre-Christian rituals, fertility rites, winter rites, agrarian magic]
-canonical_url: https://wildwitchherbs.com//straw-bear-last-field-spirit/
+permalink:/straw-bear-last-field-spirit/
 image: /assets/images/straw-bear-europe.jpg
 
 schema:
