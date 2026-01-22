@@ -2,7 +2,7 @@
 layout: single
 title: "Old European Yule Rituals: Wolves, Mistletoe & Midwinter Lore"
 author: Wild Witch Herbs
-permalink: /old-european-yule-rituals/
+permalink: /oldest-yule-rituals/
 
 description: "An in-depth exploration of Old European Yule rituals, including wolf guardian rites, mistletoe magic, solstice spirits, and the dangerous folklore of the Twelve Nights."
 excerpt: "Before Christmas softened the season, Old European Yule was fierce and protective—marked by wolves, wandering spirits, mistletoe cut by moonlight, and raw midwinter witchcraft."
