@@ -95,6 +95,7 @@ schema:
       "acceptedAnswer":
         "@type": "Answer"
         "text": "Mugwort above all; thyme and rosemary also appear in medieval dream rituals."
+        
 ---
 
 ## **Old European Folklore of Garden Herbs**
