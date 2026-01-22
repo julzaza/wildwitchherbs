@@ -13,17 +13,46 @@ tags:
   - ritual magic
   - ancestral plants
   - global folk magic
-faq_schema: |
-  type: FAQPage
-  mainEntity:
-    - question: "What makes an herb forbidden in folklore?"
-      answer: "Herbs were considered forbidden when they were believed to summon spirits, disrupt fate, cause harm if misused, or require ritual permission to handle safely."
-    - question: "Were forbidden herbs illegal?"
-      answer: "Rarely. Most were restricted socially or ritually rather than legally, controlled through tradition, taboo, and specialist knowledge."
-    - question: "Are forbidden herbs always poisonous?"
-      answer: "Not always. Some were dangerous spiritually rather than physically, while others were both toxic and ritually volatile."
-    - question: "Can forbidden herbs be used safely today?"
-      answer: "Only with deep knowledge, respect for historical context, and awareness of real toxicity and legal restrictions."
+schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What makes an herb forbidden in folklore?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Herbs were considered forbidden when they were believed to summon spirits, disrupt fate, cause harm if misused, or require ritual permission to handle safely."
+    - "@type": "Question"
+      "name": "Were forbidden herbs illegal?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Rarely. Most were restricted socially or ritually rather than legally, controlled through tradition, taboo, and specialist knowledge."
+    - "@type": "Question"
+      "name": "Are forbidden herbs always poisonous?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Not always. Some were dangerous spiritually rather than physically, while others were both toxic and ritually volatile."
+    - "@type": "Question"
+      "name": "Can forbidden herbs be used safely today?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Only with deep knowledge, respect for historical context, and awareness of real toxicity and legal restrictions."
+    - "@type": "Question"
+      "name": "Why were some herbs restricted to specialists?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Because misuse could cause illness, death, or spiritual harm. Specialists ensured proper handling, dosage, and ritual context."
+    - "@type": "Question"
+      "name": "Do forbidden herbs appear across all cultures?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. From Europe to Asia, Africa, and the Americas, many cultures recognized certain plants as dangerous or ritually potent."
+    - "@type": "Question"
+      "name": "Does this guide teach how to use forbidden herbs?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "No. This document explains historical and folkloric significance only, not practical usage or modern experimentation."
+
 ---
 
 ## Forbidden Herbs Are Not a Moral Category
