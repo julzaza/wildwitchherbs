@@ -63,3 +63,16 @@ layout: default
     </div>
   </section>
 </div>
+
+<article class="archive__item" style="background:rgba(255,255,255,0.9); border-radius:10px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1); transition:transform 0.2s ease;">
+  <div class="archive__item-content" style="padding:0.8rem 1rem;">
+    <h3 class="archive__item-title" style="font-weight:600; font-size:1.3rem; margin:0.3rem 0;">
+      <a href="{{ include.post.url | relative_url }}" style="color:#4a3c2f; text-decoration:none;">{{ include.post.title }}</a>
+    </h3>
+    {% if include.post.excerpt %}
+      <p class="archive__item-excerpt" style="font-weight:400; font-size:0.95rem; line-height:1.5; margin-top:0.5rem;">
+        {{ include.post.excerpt | strip_html | truncate: include.excerpt_length }}
+      </p>
+    {% endif %}
+  </div>
+</article>
