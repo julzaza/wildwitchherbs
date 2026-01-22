@@ -3,21 +3,63 @@ layout: single
 title: "The Twelve Nights: Old European Witchcraft Between Christmas and Epiphany"
 excerpt: "A folklore-rich exploration of the Twelve Nights—Old European witchcraft, ancestral rites, omens, house spirits, midwinter spirits, and dangerous liminal magic."
 description: "Discover the folklore, witchcraft, ancestral rites, and winter spirits of the Twelve Nights between Christmas and Epiphany in Old European tradition."
-categories: [folklore-ancestral, witchcraft-rituals]
-tags: [twelve-nights, yuletide, winter-solstice, wild-hunt, perchta, ancestral-rites, european-folklore]
+categories:
+  - folklore-ancestral
+  - witchcraft-ritual
+tags:
+  - twelve-nights
+  - yuletide
+  - winter-solstice
+  - wild-hunt
+  - perchta
+  - ancestral-rites
+  - european-folklore
 schema:
   "@context": "https://schema.org"
-  "@type": "Article"
+  "@type": "BlogPosting"
   "headline": "The Twelve Nights: Old European Witchcraft Between Christmas and Epiphany"
   "description": "A deeply folkloric exploration of the mystical Twelve Nights, ancestral rites, winter spirits, and traditional European witchcraft."
   "author":
-    "@type": "Person"
+    "@type": "Organization"
     "name": "Wild Witch Herbs"
   "publisher":
     "@type": "Organization"
     "name": "Wild Witch Herbs"
     "url": "https://wildwitchherbs.com"
   "keywords": "Twelve nights folklore, Yuletide witchcraft, Perchta, European solstice magic, winter rituals, Christmas to Epiphany traditions"
+faq_schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "What are the Twelve Nights in European folklore?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "The liminal days between Christmas and Epiphany when spirits roam, the Wild Hunt rides, and witches perform protection and divination rites."
+
+    - "@type": "Question"
+      "name": "Why were the Twelve Nights considered dangerous?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Because time was believed to loosen, allowing ancestors, gods, and wandering spirits to cross into the human world."
+
+    - "@type": "Question"
+      "name": "Which herbs were used during the Twelve Nights?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Juniper, mistletoe, St. John’s Wort, rowan, angelica, and evergreen branches were used for protection and divination."
+
+    - "@type": "Question"
+      "name": "Are the Twelve Nights connected to the Wild Hunt?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. The Wild Hunt continues riding through these nights, though more quietly than on the Solstice."
+
+    - "@type": "Question"
+      "name": "How did witches practice magic during the Twelve Nights?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Through dream divination, house cleansing, prophecy, protective rites, and silent ritual work."
 ---
 
 The solstice sun returns only by a thread.  
