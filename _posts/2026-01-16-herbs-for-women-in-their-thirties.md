@@ -5,7 +5,7 @@ excerpt: "In traditional cultures, a woman’s thirties marked her strongest yea
 description: "A folklore-grounded exploration of herbs traditionally used to support women in their 30s—focusing on strength, cycle integrity, endurance, and sustained vitality across European, Balkan, Asian, African, and Indigenous traditions."
 categories:
   - herbal-magic
-  - witchcraft-rituals
+  - witchcraft-ritual
 tags:
   - fertility herbs
   - women’s health
@@ -14,22 +14,40 @@ tags:
   - folklore herbs
   - Balkan herbs
   - adaptogens
-faq_schema: |
-  type: FAQPage
-  mainEntity:
-    - question: "Which herbs support women’s cycles and fertility in their 30s?"
-      answer: "Traditionally, herbs like Red Raspberry Leaf, Vitex (Chasteberry), Maca, Ashwagandha, and Red Clover were used to support cycle regularity, blood strength, and hormonal balance rather than aggressive fertility stimulation."
-    - question: "Can these herbs help with PMS or hormonal fluctuations?"
-      answer: "Yes. Folk traditions and modern research indicate that Vitex, Red Clover, Ashwagandha, and Turmeric were used to ease menstrual discomfort, nervous strain, and stress-related imbalances."
-    - question: "Why focus on women in their 30s as a distinct life stage?"
-      answer: "Traditional societies viewed the 30s as peak endurance and authority years. Herbal practices emphasized maintenance, resilience, and blood health rather than fertility anxiety or decline."
-    - question: "Are these herbs meant as medical advice?"
-      answer: "No. This content reflects historical and folkloric plant use, not medical recommendations."
-    - question: "Are these herbs safe for daily use?"
-      answer: "Most herbs are safe in traditional culinary or tea doses, but individual reactions vary. Consult a healthcare professional, especially if pregnant, nursing, or on medication."
-    - question: "Were fertility herbs emphasized in this life stage?"
-      answer: "Not primarily. Folk traditions focused more on blood strength, cycle stability, and nervous endurance than on conception itself."
-      
+schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Which herbs support women’s cycles and fertility in their 30s?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Traditionally, herbs like Red Raspberry Leaf, Vitex (Chasteberry), Maca, Ashwagandha, and Red Clover were used to support cycle regularity, blood strength, and hormonal balance rather than aggressive fertility stimulation."
+    - "@type": "Question"
+      "name": "Can these herbs help with PMS or hormonal fluctuations?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Folk traditions and modern research indicate that Vitex, Red Clover, Ashwagandha, and Turmeric were used to ease menstrual discomfort, nervous strain, and stress-related imbalances."
+    - "@type": "Question"
+      "name": "Why focus on women in their 30s as a distinct life stage?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Traditional societies viewed the 30s as peak endurance and authority years. Herbal practices emphasized maintenance, resilience, and blood health rather than fertility anxiety or decline."
+    - "@type": "Question"
+      "name": "Are these herbs meant as medical advice?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "No. This content reflects historical and folkloric plant use, not medical recommendations."
+    - "@type": "Question"
+      "name": "Are these herbs safe for daily use?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Most herbs are safe in traditional culinary or tea doses, but individual reactions vary. Consult a healthcare professional, especially if pregnant, nursing, or on medication."
+    - "@type": "Question"
+      "name": "Were fertility herbs emphasized in this life stage?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Not primarily. Folk traditions focused more on blood strength, cycle stability, and nervous endurance than on conception itself."
 ---
 
 ## The Strong Years: How Traditional Cultures Viewed a Woman’s Thirties
