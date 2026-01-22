@@ -1,21 +1,45 @@
 ---
 layout: single
 title: "Before the Cross: The Old Magic of Pre-Christian Europe"
-description: "A deep dive into the magical world of pre-Christian Europe—its witches, rites, spirits, and ancestral traditions—and how the old ways faded after Christianization."
-categories: [Folklore, Witchcraft, History]
-tags: [European Witchcraft, Paganism, Folklore, Old Religion]
+description: "An exploration of Europe's pre-Christian magical traditions, from folk rites and animism to ancestor veneration and seasonal witchcraft."
+excerpt: "A folklore-rich journey into Europe's ancient magic, examining rituals, spirits, and seasonal cycles of witchcraft."
+categories: [folklore-ancestral, witchcraft-ritual]
+tags: [european folk magic, ancestral magic, pre-christian rituals, seasonal witchcraft, old world witchcraft]
 canonical_url: https://wildwitchherbs.com/pre-christian-europe-magic
 schema:
-  type: Article
-  headline: "Before the Cross: The Old Magic of Pre-Christian Europe"
-  description: "An exploration of Europe's pre-Christian magical traditions, from folk rites and animism to ancestor veneration and seasonal witchcraft."
-  keywords:
-    - pre-Christian Europe magic
-    - pagan witchcraft history
-    - European folklore
-    - animism in old Europe
-  author: "Wild Witch Herbs"
-  image: /assets/images/pre-christian-europe-magic.jpg
+  "@context": "https://schema.org"
+  "@type": "Article"
+  "headline": "Old European Magic: Folk Rites, Ancestors & Seasonal Witchcraft"
+  "description": "An in-depth look at pre-Christian European magical traditions, exploring folk rites, animism, ancestor veneration, and seasonal witchcraft."
+  "keywords": ["European folk magic", "ancestral magic", "seasonal witchcraft", "pre-Christian traditions", "Old World witchcraft"]
+  "author":
+    "@type": "Person"
+    "name": "Wild Witch Herbs"
+  "articleSection": "Folk Magic"
+  "publisher":
+    "@type": "Organization"
+    "name": "Wild Witch Herbs"
+  "image": "/assets/images/old-european-magic.jpg"
+  "mainEntityOfPage":
+    "@type": "WebPage"
+    "@id": "https://wildwitchherbs.com/pre-christian-europe-magic"
+  "faq":
+    - "@type": "Question"
+      "name": "What is Old European magic?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Old European magic refers to pre-Christian folk traditions, including animistic beliefs, ancestor veneration, seasonal rites, and household or land-based witchcraft."
+    - "@type": "Question"
+      "name": "Which practices were central to European folk magic?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Key practices included seasonal festivals, offerings to ancestors, charms and amulets, divination, herbal magic, and rituals for protection, fertility, and prosperity."
+    - "@type": "Question"
+      "name": "How is ancestor veneration connected to witchcraft?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Ancestor veneration in Old Europe was intertwined with witchcraft; ancestors were called upon for guidance, protection, and to bless households, fields, and family continuity."
+
   faq:
     - question: "What was the core worldview of pre-Christian European magic?"
       answer: "It was animistic: land, spirits, ancestors, and natural forces were alive and conversational. Magic was relationship, not command."
@@ -25,6 +49,7 @@ schema:
       answer: "It reframed spirits as demons, recast local gods as saints or devils, and pushed magical expertise underground, turning communal rites into secret craft."
     - question: "Is it possible to reconstruct Old European magic today?"
       answer: "Partially. Through folklore, surviving charms, seasonal rites, archaeological evidence, and rural traditions that preserved the old ways beneath Christian veneer."
+      
 ---
 
 Before churches cast their shadows across the continent, Europe was a landscape stitched together by stories, spirits, and the old magic of the land. The people who lived here did not think of nature as scenery or metaphor. Forests were persons. Rivers had moods. Stones remembered. And magic was not a separate practice—it was woven into the rhythm of everyday life.
