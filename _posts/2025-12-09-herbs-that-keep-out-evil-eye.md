@@ -106,7 +106,7 @@ Basil has two roles in evil-eye tradition:
 Greek island households kept a basil pot at the front door “to sweeten the eyes” of anyone entering.  
 In Bulgaria and Serbia, basil water was sprinkled around rooms after a difficult visit.
 
-And, by the way, growing basi is very easy. Maybe this will even inspire you to **[Start Your Own Witchy Garden](/witch-garden)**.
+And, by the way, growing basil is very easy. Maybe this post will even inspire you to **[Start Your Own Witchy Garden](/witch-garden)**.
 
 ---
 
@@ -138,7 +138,7 @@ Folklore attributes:
 
 Many households planted rosemary specifically at **corners of houses**, where misfortune was believed to cling.
 
-More at: **[Rosemary to Protect Witchy Doorways](/why-witches-plant-rosemary-front-door/)**.
+And in many magical traditions, witches planted **[Rosemary to Protect the Doorways](/why-witches-plant-rosemary-front-door/)**.
 
 ---
 
@@ -154,7 +154,7 @@ Its smoke was believed to:
 
 Baltic families hung juniper branches over windows “so the eye cannot settle.”
 
-Check out: **[Evergreens Magic- Before Christams Even Existed](/evergreens-witchcraft)**
+See how witches used **[Evergreens Magic- Before Christams Even Existed](/evergreens-witchcraft)**.
 
 ---
 
@@ -187,5 +187,5 @@ Often both—threshold plants, doorway bundles, window amulets, and smoke ritual
 Yes, in many rural parts of Greece, Italy, the Balkans, and Cyprus.
 
 ### **Is this religious?**  
-These traditions exist across pagan, Christian, Jewish, and Muslim communities. See **[What Witchcraft Looked Like in Pre-Christian Europe](/pre-christian-europe/)**.
+These traditions exist across pagan, Christian, Jewish, and Muslim communities. See **[What Witchcraft Looked Like in Pre-Christian Europe](/pre-christian-europe-magic)**.
 
