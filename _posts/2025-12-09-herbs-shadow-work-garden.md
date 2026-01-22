@@ -111,7 +111,7 @@ Long before the concept had a name, Old European witches walked the darker corne
 These were not “aesthetic goth” plants. They were boundary keepers, dream guides, purifiers, and ancestral trees.  
 A shadow work garden is not a place of danger—it is a place of **clarity**.
 
-If you already explored my guide on **[Witchy Plants for Bedrooms (Dreamwork Edition)](/witchy-plants-bedrooms)**, this is its outdoor counterpart: the night-space of the self.
+If you already explored the guide on **[Witchy Plants for Bedrooms (Dreamwork Edition)](/witchy-plants-for-front-door/)**, this is its outdoor counterpart.
 
 ---
 
@@ -139,9 +139,6 @@ Balkan witches slept with mugwort under pillows to confront fears and receive an
 It guides. It clarifies.  
 Plant it near paths or behind the garden bench—where its presence is felt but not dominating.
 
-**Internal link:**  
-For deeper dream lore, explore **[Witchy Plants for Bedrooms (Dreamwork Edition)](/witchy-plants-bedrooms)**.
-
 ---
 
 ### **Wormwood — The Herb of Bitter Clarity**  
@@ -153,8 +150,7 @@ It was planted by gates, crossroads, and graveyard paths to repel harmful spirit
 **Why shadow work calls for it:**  
 It forces truth. In Balkan lore, “wormwood reveals what hides behind the door.”
 
-**Internal link:**  
-See **[Plants Witches Avoid](/plants-witches-avoid)** for why wormwood drew both fear and respect.
+You can also learn how witches used **[Artemisia Absinthium a.k.a. Wormwood for Lucid Dreaming](/wormwood-lucid-dreaming/)**.
 
 ---
 
@@ -163,8 +159,8 @@ See **[Plants Witches Avoid](/plants-witches-avoid)** for why wormwood drew both
 Rue was used to confront the “evil eye within”—jealousy, fear, shame.  
 Shadow work often begins with removing internal curses.
 
-**Internal link:**  
-Paired with **[Herbs to Keep Out the Evil Eye Next Door](/evil-eye-herbs)**, rue creates both inner and outer protection.
+
+Rue is one of the most potent herbs in witchraft traditions, explored in **[Herbs to Keep Out the Evil Eye Next Door](/herbs-that-keep-out-evil-eye/)**. Rue creates both inner and outer protection.
 
 ---
 
@@ -183,9 +179,8 @@ Before meeting the shadow, one purified the path.
 
 **Threshold lore:**  
 Juniper branches were hung above doors during the Twelve Nights to guard against wandering spirits.
-
-**Internal link:**  
-See **[The Witch’s Winter Bottle](/winter-witch-bottle)** for more Alpine threshold protections.
+ 
+See **[The Witch’s Winter Bottle](/witchy-winter-solstice-bottle/)** to learn how to make your own protective witchy charm.
 
 ---
 
