@@ -97,12 +97,6 @@ schema:
         "text": "Mugwort above all; thyme and rosemary also appear in medieval dream rituals."
 ---
 
-# TL;DR  
-Old European gardens held herbs with specific magical roles: **rosemary for protection**, **rue for the evil eye**, **mugwort for dreams**, **wormwood for boundaries**, **sage for cleansing**, **juniper for ancestors**, and **thyme for courage**.  
-Their placements—doors, windows, gates, and paths—were more important than quantity.
-
----
-
 ## **Old European Folklore of Garden Herbs**
 
 Not every medieval herb was magical.  
