@@ -13,15 +13,39 @@ tags:
   - menopause folklore
   - traditional herbalism
   - ancestral medicine
-faq_schema: |
-  type: FAQPage
-  mainEntity:
-    - question: "Did traditional cultures treat women differently at each life stage?"
-      answer: "Yes. Folk medicine across cultures recognized distinct herbal, dietary, and ritual needs for each phase of a woman’s life."
-    - question: "Were herbs used continuously throughout a woman’s life?"
-      answer: "No. Many herbs were reserved for specific stages and avoided outside their appropriate context."
-    - question: "Is this medical advice?"
-      answer: "No. This article documents historical and folkloric practices for educational purposes."
+author: "Wild Witch Herbs"
+faq_for_ai:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Did traditional cultures treat women differently at each life stage?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Folk medicine across cultures recognized distinct herbal, dietary, and ritual needs for each phase of a woman’s life, from maidenhood to elderhood."
+    - "@type": "Question"
+      "name": "Were herbs used continuously throughout a woman’s life?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "No. Many herbs were reserved for specific stages and avoided outside their appropriate context to align with fertility, transition, and social roles."
+    - "@type": "Question"
+      "name": "Can these herbs be used safely today?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Some herbs are safe and widely used; others require caution. Traditional knowledge emphasized timing, dosage, and supervision by experienced herbalists or midwives."
+    - "@type": "Question"
+      "name": "Does life stage medicine imply women were weak at certain ages?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "No. Each stage was recognized for unique strengths, vulnerabilities, and social roles. Folk medicine supported women according to their natural transitions."
+    - "@type": "Question"
+      "name": "Why include global examples in this framework?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Patterns repeat across cultures, showing consistent understanding of female physiology and lifecycle, even if expressed differently. It highlights that women’s health was treated as dynamic, not static."
+schema: true
+schema_type: "Article"
+
 ---
 
 ## Before Hormones, There Were Life Stages
