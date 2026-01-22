@@ -99,6 +99,7 @@ schema:
 ---
 
 Shadow work is not modern psychology dressed in witchcraft clothing.  
+
 Long before the concept had a name, Old European witches walked the darker corners of the garden—edges, ruins, liminal borders—and worked with herbs that revealed what the bright sun hides.
 
 These were not “aesthetic goth” plants. They were boundary keepers, dream guides, purifiers, and ancestral trees.  
@@ -153,7 +154,9 @@ Rue was used to confront the “evil eye within”—jealousy, fear, shame.
 Shadow work often begins with removing internal curses.
 
 
-Rue is one of the most potent herbs in witchraft traditions, explored in **[Herbs to Keep Out the Evil Eye Next Door](/herbs-that-keep-out-evil-eye/)**. Rue creates both inner and outer protection.
+Rue is one of the most potent herbs in witchraft traditions, explored in **[Herbs That Keep Out the Evil Eye Next Door](/herbs-that-keep-out-evil-eye/)**. 
+
+Rue creates both inner and outer protection.
 
 ---
 
@@ -237,6 +240,6 @@ A shadow work garden is a map of the soul.
 Plant the herbs our ancestors used to descend into themselves: mugwort, wormwood, rue, juniper, yew, and poplar.  
 Let these plants teach you what the bright garden never can.
 
-Find out **[Why Real Witches Plant Rosemarry by the Front Door](/why-witches-plant-rosemary-front-door/)**.
+Find out **[Why Real Witches Plant Rosemarry by the Front Door](/why-witches-plant-rosemary-front-door/)** next.
 
 ---
