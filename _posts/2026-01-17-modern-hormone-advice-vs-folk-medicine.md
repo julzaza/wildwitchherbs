@@ -12,17 +12,41 @@ tags:
   - perimenopause
   - menstrual health
   - herbal wisdom
-faq_schema: |
-  type: FAQPage
-  mainEntity:
-    - question: "Is modern hormone therapy wrong?"
-      answer: "Not inherently. This article examines philosophical and practical differences between modern hormone management and traditional women’s medicine."
-    - question: "Did folk medicine understand hormones?"
-      answer: "Not chemically, but functionally. Folk systems recognized cyclical patterns and transitions."
-    - question: "Is this anti-science?"
-      answer: "No. It is a historical and cultural analysis."
-    - question: "Why do hormone treatments help some women but harm others?"
-      answer: "Because modern hormone protocols often ignore timing, life stage, and individual transition states that folk systems prioritized."
+
+faq_schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Is modern hormone therapy wrong?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Not inherently. Modern hormone protocols aim to control numbers and symptoms, but they often ignore timing, life stage, and individual transition states that folk medicine prioritized."
+    - "@type": "Question"
+      "name": "Did folk medicine understand hormones?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Not chemically, but functionally. Traditional systems recognized cyclical patterns, thresholds, and transitions, and treated women according to these processes."
+    - "@type": "Question"
+      "name": "Is this anti-science?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "No. This article presents a historical and cultural analysis of hormone advice compared to traditional women’s medicine."
+    - "@type": "Question"
+      "name": "Why do some women feel worse following modern hormone advice?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Because modern protocols can suppress natural signals and transitions, whereas folk medicine worked with them, providing support and protection during critical life stages."
+    - "@type": "Question"
+      "name": "How did folk medicine approach female change?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Folk medicine expected fluctuation and viewed it as informative. Herbs, rituals, and social practices were applied contextually, respecting life stage, cycles, and transitions rather than flattening variation."
+    - "@type": "Question"
+      "name": "Can modern women benefit from integrating folk approaches?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Understanding timing, life stage, and the body’s natural transitions, alongside herbs, rituals, and lifestyle practices, can complement modern approaches without rejecting contemporary medicine."
 
 ---
 
