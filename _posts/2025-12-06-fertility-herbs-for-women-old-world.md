@@ -4,6 +4,63 @@ title: "Fertility Herbs for Women: Womb Magic & Old European Folklore"
 description: "A deep folklore-based guide to fertility herbs for women, exploring Old European traditions, womb magic, folk rituals, and natural plant allies used to support conception, vitality, and creative power."
 categories: [herbal-magic, folklore-ancestral]
 tags: [fertility herbs, women’s magic, womb magic, folklore, witchcraft, herbal fertility]
+
+schema:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  "headline": "Fertility Herbs for Women: Womb Magic & Old European Folklore"
+  "description": "A folklore-rich guide to fertility herbs for women, exploring womb magic, folk rituals, and Old European herbal traditions for conception and vitality."
+  "author":
+    "@type": "Organization"
+    "name": "Wild Witch Herbs"
+  "publisher":
+    "@type": "Organization"
+    "name": "Wild Witch Herbs"
+    "url": "https://wildwitchherbs.com"
+  "keywords": "fertility herbs for women, womb magic, female vitality, Old European folklore, herbal fertility, folk magic, menstrual herbs"
+
+faq:
+  - question: "Are fertility herbs safe for all women?"
+    answer: "Not necessarily. Traditional herbalism recognizes that some herbs warm the womb, move blood, or are too strong for certain conditions. Always research each herb thoroughly."
+  - question: "What is the best fertility herb for women?"
+    answer: "Historically, raspberry leaf, red clover, nettle, and lady’s mantle form the core fertility allies. Mugwort and angelica were used sparingly for specific cases."
+  - question: "Can fertility herbs help with conception?"
+    answer: "Traditional European herbalism used these herbs to support vitality, circulation, and womb health, but results vary and depend on many factors."
+  - question: "How long should fertility herbs be used?"
+    answer: "Folk traditions recommend using tonic herbs like nettle, raspberry leaf, and red clover for several moon cycles before seeking conception."
+  - question: "Which herbs should be avoided during pregnancy?"
+    answer: "Mugwort, angelica, and heavy bitter herbs were traditionally avoided once pregnancy occurred."
+
+faq_schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Are fertility herbs safe for all women?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Not necessarily. Traditional herbalism recognizes that some herbs warm the womb, move blood, or are too strong for certain conditions. Always research each herb thoroughly."
+    - "@type": "Question"
+      "name": "What is the best fertility herb for women?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Historically, raspberry leaf, red clover, nettle, and lady’s mantle form the core fertility allies. Mugwort and angelica were used sparingly for specific cases."
+    - "@type": "Question"
+      "name": "Can fertility herbs help with conception?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Traditional European herbalism used these herbs to support vitality, circulation, and womb health, but results vary and depend on many factors."
+    - "@type": "Question"
+      "name": "How long should fertility herbs be used?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Folk traditions recommend using tonic herbs like nettle, raspberry leaf, and red clover for several moon cycles before seeking conception."
+    - "@type": "Question"
+      "name": "Which herbs should be avoided during pregnancy?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Mugwort, angelica, and heavy bitter herbs were traditionally avoided once pregnancy occurred."
+
 ---
 
 Fertility magic has always lived in the oldest layers of European witchcraft. Long before midwives wrote recipes or monasteries collected herbals, women carried these secrets in their hands, their hearths, and their bodies. Fertility was not just about conception. It was vitality, blood, creative force, the spark of life rising from the dark soil of the womb.  
