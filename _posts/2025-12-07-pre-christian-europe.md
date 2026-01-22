@@ -5,7 +5,7 @@ description: "An exploration of Europe's pre-Christian magical traditions, from 
 excerpt: "A folklore-rich journey into Europe's ancient magic, examining rituals, spirits, and seasonal cycles of witchcraft."
 categories: [folklore-ancestral, witchcraft-ritual]
 tags: [european folk magic, ancestral magic, pre-christian rituals, seasonal witchcraft, old world witchcraft]
-canonical_url: https://wildwitchherbs.com/pre-christian-europe-magic
+permalink: /pre-christian-europe-magic
 schema:
   "@context": "https://schema.org"
   "@type": "Article"
