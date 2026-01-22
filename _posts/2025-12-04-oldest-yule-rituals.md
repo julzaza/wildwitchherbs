@@ -2,19 +2,60 @@
 layout: single
 title: "Old European Yule Rituals: Wolves, Mistletoe & Midwinter Lore"
 author: Wild Witch Herbs
-description: "A folklore-rich exploration of forgotten Yule rites—wolf guardians, mistletoe magic, solstice spirits, and the fierce midwinter practices of Old Europe."
-excerpt: "Before Christmas softened the season, Old European Yule was a time of wolves, wandering spirits, mistletoe cut by moonlight, and raw protective witchcraft. These are the oldest rites you’ve never heard of."
-categories: [witchcraft-rituals, folklore-ancestral]
-tags: [Yule, Winter Solstice Magic, Old European Folklore, Evergreen Magic, Wolves, Mistletoe, Wild Hunt]
+permalink: /old-european-yule-rituals/
+
+description: "An in-depth exploration of Old European Yule rituals, including wolf guardian rites, mistletoe magic, solstice spirits, and the dangerous folklore of the Twelve Nights."
+excerpt: "Before Christmas softened the season, Old European Yule was fierce and protective—marked by wolves, wandering spirits, mistletoe cut by moonlight, and raw midwinter witchcraft."
+
+categories:
+  - witchcraft-ritual
+  - folklore-ancestral
+
+tags:
+  - Yule rituals
+  - Old European witchcraft
+
 schema:
-  type: BlogPosting
+  "@context": "https://schema.org"
+  "@type": "BlogPosting"
   headline: "Old European Yule Rituals: Wolves, Mistletoe & Midwinter Lore"
-  description: "A deep historical dive into Old European Yule rituals, wolf rites, mistletoe magic, and the raw midwinter witchcraft practiced during the Twelve Nights."
-  keywords: "Yule rituals, Old European witchcraft, wolves folklore, mistletoe magic, winter solstice traditions, Wild Hunt folklore"
-  author: "Wild Witch Herbs"
-  genre: "Folklore & Witchcraft"
-  wordcount: "2300"
-  mainEntityOfPage: "https://wildwitchherbs.com/"
+  description: "A folklore-rich exploration of forgotten Yule rites, wolf guardians, mistletoe magic, and the fierce midwinter practices of Old Europe."
+  author:
+    "@type": "Organization"
+    name: "Wild Witch Herbs"
+  publisher:
+    "@type": "Organization"
+    name: "Wild Witch Herbs"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://wildwitchherbs.com/old-european-yule-rituals/"
+  keywords: "Yule rituals, Old European witchcraft, midwinter folklore, mistletoe magic, wolf guardians, Twelve Nights"
+
+faq_schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  mainEntity:
+    - "@type": "Question"
+      name: "What is the difference between Yule and Christmas?"
+      acceptedAnswer:
+        "@type": "Answer"
+        text: "Yule is an Old European midwinter festival rooted in ancestral rites, solstice magic, and household protection. Christmas later absorbed many Yule customs but removed much of the darker, spirit-focused folklore."
+    - "@type": "Question"
+      name: "Why are wolves connected to Yule rituals?"
+      acceptedAnswer:
+        "@type": "Answer"
+        text: "In Old European folklore, winter was considered the wolves’ season. Wolves functioned as threshold guardians during midwinter, protecting households from wandering spirits and otherworldly dangers."
+    - "@type": "Question"
+      name: "Why was mistletoe sacred in Old European Yule traditions?"
+      acceptedAnswer:
+        "@type": "Answer"
+        text: "Mistletoe was believed to carry solar power because it grows without touching the earth and remains green through winter. It was ritually harvested and used for protection against illness, spirits, and misfortune."
+    - "@type": "Question"
+      name: "Why were the Twelve Nights considered dangerous?"
+      acceptedAnswer:
+        "@type": "Answer"
+        text: "The Twelve Nights were believed to exist outside ordinary time. During this liminal period, spirits, ancestral dead, and the Wild Hunt were thought to roam freely, making protective rites essential."
+        
 ---
 
 # The Oldest Yule Rituals You’ve Never Heard Of:
