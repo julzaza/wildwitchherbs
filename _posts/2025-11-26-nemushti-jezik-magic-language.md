@@ -7,7 +7,7 @@ description: "Explore the mystical Balkan story of Nemušti Jezik (The Silent To
 categories: [folklore-ancestral, witchcraft-ritual]
 tags: [Nemušti Jezik, Vlach Magija]
 search: false
-author_profile: false
+author: "Wild Witch Herbs"
 audience: "Herbalists, witches, folklore enthusiasts, and lovers of Balkan magic"
 language: "en"
 difficulty: "Beginner to Intermediate"
