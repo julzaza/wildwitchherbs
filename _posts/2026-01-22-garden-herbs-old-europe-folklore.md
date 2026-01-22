@@ -6,7 +6,6 @@ excerpt: "A folklore-rich guide to Old European garden herbs: protective househo
 categories: [folklore-ancestral, herbal-magic]
 tags: [garden herbs, European folklore, protective herbs, ancestral herbs, dream herbs, threshold magic]
 permalink: /old-european-folklore-garden-herbs/
-image: /assets/images/old-european-garden-herbs.jpg
 
 faq:
   - question: "What makes a herb 'witchy' in Old European tradition?"
@@ -104,7 +103,7 @@ But the ones that guarded doors, flavored feasts, healed households, and whisper
 Across Europe—from the Balkans to Britain, Greece to the Alpine valleys—gardens were places of **threshold magic**.  
 Herbs watched over doors, dried above hearths, crowned newborns, protected travelers, and marked the changing seasons.
 
-This post continues the tradition you may recognize from **[Witchy Plants for Front Doors](/witchy-plants-front-doors)** and **[How to Start a Witchy Garden](/start-witchy-garden)**.
+This post continues the tradition you may recognize from **[Witchy Plants for Front Doors](/witchy-plants-for-front-door)** and **[How to Start a Witchy Garden](/witch-garden)**.
 
 ---
 
@@ -114,8 +113,7 @@ This post continues the tradition you may recognize from **[Witchy Plants for Fr
 Mediterranean households planted rosemary by the front door “so the witch of the house remembers her power.”  
 It protected from wandering spirits and strengthened memory during rites.
 
-**Internal link:**  
-See **[Why Witches Plant Rosemary by the Door](/rosemary-door)** for a fuller lore immersion.
+See **[Why Witches Plant Rosemary by the Door](/why-witches-plant-rosemary-front-door/)** for a fuller lore immersion.
 
 ---
 
@@ -123,8 +121,7 @@ See **[Why Witches Plant Rosemary by the Door](/rosemary-door)** for a fuller lo
 Rue was hung in doorways and placed in salt at entrances to block the evil eye.  
 Italian, Greek, and Balkan households treated rue as sacred.
 
-**Internal link:**  
-Its deeper role appears in **[Herbs to Keep Out the Evil Eye Next Door](/evil-eye-herbs)**.
+Its deeper role appears in **[Herbs to Keep Out the Evil Eye Next Door](/herbs-that-keep-out-evil-eye/)**.
 
 ---
 
@@ -161,7 +158,7 @@ A tree more than a herb, but included in every garden.
 Burned during seasonal rites—especially the Twelve Nights.
 
 **Internal link:**  
-Connected to traditional protections in **[The Witch’s Winter Bottle](/winter-witch-bottle)**.
+Connected to traditional protections in **[The Witch’s Winter Bottle](/witchy-winter-solstice-bottle/)**.
 
 ---
 
@@ -181,10 +178,9 @@ See **[St. John’s Wort Sun Water](/st-johns-wort-sun-water)** for solstice tra
 
 ---
 
-### **Midwinter: Evergreen Clusters**  
+### **Midwinter Evergreens Magic**  
 Rosemary, juniper, and pine stood as symbols of surviving the dark.
 
-**Internal link:**  
 For deeper evergreen lore: **[Evergreen Magic](/evergreens-witchcraft)**.
 
 ---
