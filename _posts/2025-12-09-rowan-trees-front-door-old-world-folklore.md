@@ -3,18 +3,45 @@ layout: single
 title: "Rowan Trees by the Door: Old European Folklore"
 description: "A historically grounded, folklore-rich exploration of why rowan trees protected thresholds, gates, and doorways in Old European witchcraft."
 excerpt: "Discover the Old European tradition of planting rowan trees at the door—why witches, shepherds, and household guardians trusted this tree to defend the threshold."
-categories: [folklore-ancestral, witchcraft-rituals]
-tags: [Rowan, Protection, Thresholds, Folklore]
+categories: [folklore-ancestral, witchcraft-ritual]
+tags: [rowan tree, threshold magic, household protection, european folklore, doorway guardians]
+
+faq:
+  - question: "Why was rowan planted by the door?"
+    answer: "Rowan was believed to protect the threshold from witches, spirits, the evil eye, and wandering dead. Its red berries and five-pointed star markings symbolized protection."
+  - question: "Is rowan associated with fairies?"
+    answer: "Yes. In many Celtic and Northern traditions, rowan guarded humans from mischievous or hostile fairy beings and marked safe boundaries."
+  - question: "Did rowan have to be planted on a specific side of the house?"
+    answer: "Yes. In Scottish and Northern English folklore, rowan planted on the wrong side—especially west-facing—could attract the dead rather than protect the living."
 
 schema:
-  type: Article
-  faq:
-    - question: "Why was rowan planted by the door?"
-      answer: "Rowan was believed to protect the threshold from witches, spirits, the evil eye, and wandering dead. Its red berries and five-pointed star markings symbolized protection."
-    - question: "Is rowan associated with fairies?"
-      answer: "Yes. In many Celtic and Northern traditions, rowan guarded humans from mischievous or hostile fairy beings and marked safe boundaries."
-    - question: "Did rowan have to be planted on a specific side of the house?"
-      answer: "Yes. In Scottish and Northern English folklore, rowan planted on the wrong side—especially west-facing—could attract the dead rather than protect the living."
+  "@context": "https://schema.org"
+  "@type": "Article"
+  "headline": "Rowan Trees by the Door: Old European Folklore"
+  "description": "A folklore-based exploration of rowan trees as threshold guardians in Old European household magic."
+  "author":
+    "@type": "Organization"
+    "name": "Wild Witch Herbs"
+  "publisher":
+    "@type": "Organization"
+    "name": "Wild Witch Herbs"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Why was rowan planted by the door?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Rowan was believed to protect the threshold from witches, spirits, the evil eye, and wandering dead. Its red berries and five-pointed star markings symbolized protection."
+    - "@type": "Question"
+      "name": "Is rowan associated with fairies?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. In many Celtic and Northern traditions, rowan guarded humans from mischievous or hostile fairy beings and marked safe boundaries."
+    - "@type": "Question"
+      "name": "Did rowan have to be planted on a specific side of the house?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. In Scottish and Northern English folklore, rowan planted on the wrong side—especially west-facing—could attract the dead rather than protect the living."
+
 ---
 
 In nearly every corner of Northern and Celtic Europe, the rowan tree stood where **danger met the household**—at the threshold, the gate, the byre door, or the beginning of the farm path.
