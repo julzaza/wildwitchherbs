@@ -5,7 +5,7 @@ date: 2026-01-15
 permalink: /balkan-love-magic-folklore/
 categories:
   - folklore-ancestral
-  - witchcraft-rituals
+  - witchcraft-ritual
 tags:
   - balkan love magic
   - folk magic
