@@ -165,8 +165,8 @@ Root powder is given to those recovering from illness or spiritual depletion. Al
 ### Moon Cycles Matter  
 - **In biodynamic farming** (popular in Europe), moon phases affect root and leaf strength. Root crops on waning moons.  
 - **Old Ukrainian calendars** marked best planting days with religious feasts and lunar signs — folk Catholicism intertwined with pagan rhythms.
-  
-  Check out **[Lunar Gardening: How Real Witches Plant with the Moon](/lunar-gardening-folklore/)** for more.
+
+Traditional witches did not choose plants in isolation — they timed planting, harvesting, and pruning according to lunar cycles, a practice explored in depth in **[Lunar Gardening: How Real Witches Plant with the Moon](/lunar-gardening-folklore/)**.
 
 ### Offering Before Digging  
 - In **West African Vodun**, spirits of the land are greeted with offerings before breaking soil.  
