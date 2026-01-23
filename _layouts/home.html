@@ -18,17 +18,28 @@ layout: default
     {% include feature_row %}
   </div>
 
-  <!-- FEATURED POSTS -->
+  {% comment %} Featured Guides & Posts {% endcomment %}
   <section class="cluster-section" style="max-width:1000px; margin:4rem auto; padding:0 1rem;">
     <h2 style="font-family:Roboto,sans-serif; font-size:1.8rem; border-bottom:2px solid #7a5c2f; padding-bottom:0.3rem; margin-bottom:2rem; color:#4a3c2f;">
       Featured Guides & Posts
     </h2>
-    <div class="entries-grid">
+    <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:2rem;">
       {% assign featured_posts = site.posts | sort:'date' | reverse %}
       {% assign count = 0 %}
       {% for post in featured_posts %}
         {% if post.featured %}
-          {% include archive-single.html post=post type="grid" %}
+          <article class="archive__item" style="background:rgba(255,255,255,0.9); border-radius:10px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1); transition:transform 0.2s ease;">
+            <div class="archive__item-content" style="padding:0.8rem 1rem;">
+              <h3 class="archive__item-title" style="font-weight:600; font-size:1.3rem; margin:0.3rem 0;">
+                <a href="{{ post.url | relative_url }}" style="color:#4a3c2f; text-decoration:none;">{{ post.title }}</a>
+              </h3>
+              {% if post.excerpt %}
+                <p class="archive__item-excerpt" style="font-weight:400; font-size:0.95rem; line-height:1.5; margin-top:0.5rem;">
+                  {{ post.excerpt | strip_html | truncate: 140 }}
+                </p>
+              {% endif %}
+            </div>
+          </article>
           {% assign count = count | plus: 1 %}
           {% if count == 3 %}{% break %}{% endif %}
         {% endif %}
@@ -36,17 +47,28 @@ layout: default
     </div>
   </section>
 
-  <!-- HERBALISM POSTS -->
+  {% comment %} Herbalism & Magic Cluster (limit 6) {% endcomment %}
   <section class="cluster-section" style="max-width:1000px; margin:4rem auto; padding:0 1rem;">
     <h2 style="font-family:Roboto,sans-serif; font-size:1.8rem; border-bottom:2px solid #7a5c2f; padding-bottom:0.3rem; margin-bottom:2rem; color:#4a3c2f;">
       Herbalism & Magic in Practice
     </h2>
-    <div class="entries-grid">
+    <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:2rem;">
       {% assign herbal_posts = site.posts | sort:'date' | reverse %}
       {% assign herbal_count = 0 %}
       {% for post in herbal_posts %}
         {% if post.categories contains 'herbal-magic' %}
-          {% include archive-single.html post=post type="grid" %}
+          <article class="archive__item" style="background:rgba(255,255,255,0.9); border-radius:10px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1); transition:transform 0.2s ease;">
+            <div class="archive__item-content" style="padding:0.8rem 1rem;">
+              <h3 class="archive__item-title" style="font-weight:600; font-size:1.3rem; margin:0.3rem 0;">
+                <a href="{{ post.url | relative_url }}" style="color:#4a3c2f; text-decoration:none;">{{ post.title }}</a>
+              </h3>
+              {% if post.excerpt %}
+                <p class="archive__item-excerpt" style="font-weight:400; font-size:0.95rem; line-height:1.5; margin-top:0.5rem;">
+                  {{ post.excerpt | strip_html | truncate: 140 }}
+                </p>
+              {% endif %}
+            </div>
+          </article>
           {% assign herbal_count = herbal_count | plus: 1 %}
           {% if herbal_count == 6 %}{% break %}{% endif %}
         {% endif %}
@@ -54,28 +76,29 @@ layout: default
     </div>
   </section>
 
-  <!-- MORE ARTICLES -->
+  {% comment %} More Articles & Stories (ALL POSTS) {% endcomment %}
   <section class="cluster-section" style="max-width:1000px; margin:4rem auto; padding:0 1rem;">
     <h2 style="font-family:Roboto,sans-serif; font-size:1.8rem; border-bottom:2px solid #7a5c2f; padding-bottom:0.3rem; margin-bottom:2rem; color:#4a3c2f;">
       More Articles & Stories
     </h2>
-    <div class="entries-grid">
+    <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:2rem;">
       {% assign other_posts = site.posts | sort:'date' | reverse %}
       {% for post in other_posts %}
-        {% unless post.featured or post.categories contains 'herbal-magic' %}
-          {% include archive-single.html post=post type="grid" %}
-        {% endunless %}
+        {% if post.featured != true and post.categories contains 'herbal-magic' == false %}
+          <article class="archive__item" style="background:rgba(255,255,255,0.9); border-radius:10px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1); transition:transform 0.2s ease;">
+            <div class="archive__item-content" style="padding:0.8rem 1rem;">
+              <h3 class="archive__item-title" style="font-weight:600; font-size:1.3rem; margin:0.3rem 0;">
+                <a href="{{ post.url | relative_url }}" style="color:#4a3c2f; text-decoration:none;">{{ post.title }}</a>
+              </h3>
+              {% if post.excerpt %}
+                <p class="archive__item-excerpt" style="font-weight:400; font-size:0.95rem; line-height:1.5; margin-top:0.5rem;">
+                  {{ post.excerpt | strip_html | truncate: 140 }}
+                </p>
+              {% endif %}
+            </div>
+          </article>
+        {% endif %}
       {% endfor %}
     </div>
   </section>
-
 </div>
-
-<style>
-/* Keep tiles correct, no stretching */
-.entries-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 2rem;
-}
-</style>
