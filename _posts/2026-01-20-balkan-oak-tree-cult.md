@@ -75,6 +75,7 @@ They were addressed directly.
 Cutting one without cause was believed to invite illness, storms, or death.
 
 ---
+
 ## The Oak and the Thunder God 
 
 In Slavic belief, the oak belonged to **Perun**, the thunder and sky god.
@@ -258,9 +259,11 @@ The oak remembers.
 
 ## Related Reading
 
-- **[Why Balkan Witches Survived: Folk Magic Beyond the Witch Hunt](/why-balkan-witches-survived/)**
-- **[Witchy Herbalism 101: Real Plants, Real Magic](/witchy-herbalism-101/)**
-- **[Herbs That Should Never Be Burned in Ritual](/herbs-to-never-burn/)**
+Oaks did not stand alone in Balkan cosmology but belonged to a wider ecology of living forces, explored further in:
+
+- **[Balkan Animal Spirits in Folk Magic](/balkan-animal-spirit-guides/)** - exploration of Balkan animism
+- **[Balkan House Spirits and Domestic Guardians](/balkan-house-spirits-folklore/)** — how land and dwellings were treated as inhabited places  
+- **[House Snakes and Ancestor Spirits](/house-snakes-ancestor-spirits-balkan-folklore/)** — serpents as chthonic guardians of lineage  
 
 ---
 
