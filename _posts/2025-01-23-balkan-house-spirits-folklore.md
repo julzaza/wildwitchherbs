@@ -275,6 +275,8 @@ You did not choose them.
 
 They tolerated you.
 
+To see how these household guardians fit into the wider tapestry of Balkan folklore, explore our guide to **[Balkan Animal Spirits](/balkan-animal-spirit-guides/)**, where wolves, owls, and crows act as messengers and protectors in folk magic
+
 ---
 
 ## Frequently Asked Questions
