@@ -47,37 +47,39 @@ layout: default
 </div>
 
 <style>
-/* HOMEPAGE ONLY — 3 columns, natural card height */
+/* HOMEPAGE: 3 posts per row, natural card height */
 .home-layout .entries-grid {
   display: grid !important;
   grid-template-columns: repeat(3, 1fr) !important;
-  gap: 1.5rem;
-  align-items: start; /* 🔑 prevents vertical stretching */
+  gap: 2rem; /* spacing between cards */
+  align-items: start; /* prevents vertical stretching */
 }
 
-/* Reset MM flex behavior safely */
+/* Force each card to maintain natural height */
 .home-layout .entries-grid .archive__item {
-  width: 100% !important;
-  display: block;
-}
-
-/* Ensure cards don’t stretch internally */
-.home-layout .archive__item-teaser {
+  display: flex;
+  flex-direction: column;
   height: auto !important;
 }
 
-/* Tablet */
+/* Make inner content expand naturally */
+.home-layout .entries-grid .archive__item .archive__item-content {
+  flex: 1 0 auto;
+}
+
+/* Tablet: 2 columns */
 @media (max-width: 1024px) {
   .home-layout .entries-grid {
     grid-template-columns: repeat(2, 1fr) !important;
   }
 }
 
-/* Mobile */
+/* Mobile: 1 column */
 @media (max-width: 640px) {
   .home-layout .entries-grid {
     grid-template-columns: 1fr !important;
   }
 }
 </style>
+
 
