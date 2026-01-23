@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The Balkan Oak Tree Cult: Sacred Living Folk Religion"
-permalink: /balkan-oak-cult/
+permalink: /balkan-oak-tree-cult/
 date: 2026-01-20
 author: Wild Witch Herbs
 categories:
