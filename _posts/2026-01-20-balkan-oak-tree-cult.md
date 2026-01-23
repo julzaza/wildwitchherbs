@@ -182,7 +182,9 @@ Even today, the oak is treated with ritual respect—not as firewood.
 In Balkan belief:
 - large old trees were associated with ancestors
 - spirits were thought to linger near roots
-- trees remembered what humans forgot  
+- trees remembered what humans forgot
+
+Just as ancestral presence was believed to dwell beneath houses in the form of serpents, described in **[House Snakes and Ancestor Spirits](/house-snakes-ancestor-spirits-balkan-folklore/)**, sacred oaks anchored memory in the open landscape.
 
 Cutting an old oak was sometimes equated with **killing a witness**.
 
