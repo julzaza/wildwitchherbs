@@ -125,7 +125,7 @@ The shepherd’s pact with the serpent mirrors these practices.
 The snake is a **totemic guide**, bridging earth and underworld, much like the serpent-spirits honored in Vlach healing ceremonies.  
 For a modern herbalist or witch, this story resonates as a reminder that **plants and animals speak if we know how to listen**.
 
-> *For a deeper dive into these living traditions, explore our guide to **[Vlach Magija](/vlach-magija-protective-herbs/)** and discover how Balkan magic still thrives today.*
+> *For a deeper dive into these living traditions, explore our guide to **[Vlach Magija](/vlach-magic-negotin-serbia/)** and discover how Balkan magic still thrives today.*
 
 ---
 
@@ -141,7 +141,7 @@ For the Wild Witchy herbalist, this tale is a call to deepen your relationship w
 Every herb has a voice, every breeze a message.  
 The question is not whether they speak—but whether you will keep the silence required to hear them.
 
-Learn how to talk to animals yourself, see: **[The Practical Guide: How to Communicate with Nature](/silent-language-animals-nemusti-jezik/)**. 
+Learn how to talk to animals yourself, see: **[The Practical Guide: How to Communicate with Nature](/silent-language-animals-nemusti-jezik/)**. It has the rituals, herbs, and exercises to help modern witches hear nature’s messages. 
 
 ---
 
