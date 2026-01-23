@@ -49,20 +49,28 @@ layout: default
 <style>
 /* FORCE 3 POSTS PER ROW ON HOMEPAGE ONLY */
 .home-layout .entries-grid {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  gap: 1.5rem;
+}
+
+/* Kill MM flex widths */
+.home-layout .entries-grid .archive__item {
+  width: auto !important;
 }
 
 /* Tablet */
 @media (max-width: 1024px) {
   .home-layout .entries-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr) !important;
   }
 }
 
 /* Mobile */
 @media (max-width: 640px) {
   .home-layout .entries-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr !important;
   }
 }
 </style>
+
