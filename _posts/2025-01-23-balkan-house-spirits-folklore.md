@@ -2,7 +2,7 @@
 layout: single
 title: "Balkan House Spirits: Guardians, Serpents, and Dangerous Guests"
 permalink: /balkan-house-spirits-folklore/
-date: 2025-12-10
+date: 2026-01-23
 categories:
   - folklore-ancestral
 tags:
