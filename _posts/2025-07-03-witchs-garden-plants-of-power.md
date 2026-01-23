@@ -32,6 +32,8 @@ Some herbs were grown behind monasteries. Some in courtyards with bones. Some tu
 
 This post isn’t for collecting “aesthetic” plants. It’s for those who want to grow herbs with memory — plants that held ground through war, exile, colonization, and silence.
 
+Some plants were grown specifically for descent, protection, and working with the darker layers of experience — a tradition explored further in **[Herbs for a Shadow Work Garden](/herbs-shadow-work-garden/)**.
+
 ---
 
 ## What Makes a Plant Witchy?
