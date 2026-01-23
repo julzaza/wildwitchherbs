@@ -141,7 +141,7 @@ For the Wild Witchy herbalist, this tale is a call to deepen your relationship w
 Every herb has a voice, every breeze a message.  
 The question is not whether they speak—but whether you will keep the silence required to hear them.
 
-Learn how to talk to animals yourself, see: **[The Practical Guide: How to Communicate with Nature](/silent-language-animals-nemusti-jezik/)**. It has the rituals, herbs, and exercises to help modern witches hear nature’s messages. 
+*Learn how to talk to animals yourself, see: **[The Practical Guide: How to Communicate with Nature](/silent-language-animals-nemusti-jezik/)**. It has the rituals, herbs, and exercises to help modern witches hear nature’s messages.*
 
 ---
 
