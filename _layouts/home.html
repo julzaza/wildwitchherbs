@@ -61,22 +61,21 @@ layout: default
   }
 }
 
-/* FIX POST CARD STRETCHING */
+/* FIX CARD STRETCHING */
 .home-layout .entries-grid .archive__item {
-  display: flex !important;
-  flex-direction: column;
+  display: block !important;
   height: auto !important;
 }
 
-.home-layout .entries-grid .archive__item .archive__item-content {
-  flex: 1 0 auto; /* content determines height */
+/* IMAGE ASPECT RATIO */
+.home-layout .entries-grid .archive__item img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
 }
 
-/* Optional: limit excerpt length visually */
-.home-layout .entries-grid .archive__item .archive__item-excerpt {
-  display: -webkit-box;
-  -webkit-line-clamp: 5;
-  -webkit-box-orient: vertical;  
-  overflow: hidden;
+/* CONTENT HEIGHT AUTO */
+.home-layout .entries-grid .archive__item .archive__item-content {
+  height: auto;
 }
 </style>
