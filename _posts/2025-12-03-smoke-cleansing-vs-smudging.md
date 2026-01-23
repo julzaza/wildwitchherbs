@@ -158,7 +158,7 @@ White sage (**Salvia apiana**) is sacred to several Indigenous nations, and comm
 You never need white sage.  
 You have powerful herbs wherever you live.
 
-That also means knowing which plantss can be dangerous to burn — check our comprehensive guide to **[Herbs Never to Burn in Ritual](/never-burn-herbs/)** for safety and clarity.
+That also means knowing which plants can be dangerous to burn — check our comprehensive guide to **[Herbs Never to Burn in Ritual](/never-burn-herbs/)** for safety and clarity.
 
 ---
 
