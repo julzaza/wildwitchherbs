@@ -76,7 +76,7 @@ The language is “silent” because it is not spoken in words humans usually un
 
 3. **Respectful approach**  
    - Always maintain distance and do not disturb.  
-   - In Vlach traditions, harming or startling animals blocks communication.  
+   - In **[Vlach Traditions](/vlach-magic-negotin-serbia/)**, **harming or startling animals blocks communication**.  
 
 4. **Mindful speech**  
    - Silent meditation, whispered words, or offering herbs to animals are common folkloric practices.  
@@ -110,7 +110,7 @@ Herbs in Balkan witchcraft are often used to **tune the senses and open the mind
 
 This practice isn’t just about mystical tricks—it’s a reflection of **ancestral wisdom**. The shepherd in Nemušti Jezik didn’t speak the language to impress others; he **listened, respected, and acted responsibly**. Modern witches can follow the same principles, using herbs, rituals, and observation to attune to the Silent Language.
 
-> For a full story of the shepherd, serpent, and the origins of Nemušti Jezik, see: [Nemušti Jezik: The Silent Tongue in Balkan Folk Tales](/nemusti-jezik-silent-tongue/).
+For a full story of the shepherd, serpent, and the origins of Nemušti Jezik, see: [Nemušti Jezik: The Silent Tongue in Balkan Folk Tales](/nemusti-jezik-silent-tongue/).
 
 ---
 
