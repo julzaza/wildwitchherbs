@@ -240,6 +240,8 @@ A shadow work garden is a map of the soul.
 
 Plant the herbs our ancestors used to descend into themselves: mugwort, wormwood, rue, juniper, yew, and poplar.  
 
+Many of these herbs were traditionally planted or harvested during the waning moon, when energy was believed to descend into roots and soil — a timing system outlined in **[Lunar Gardening: How Real Witches Plant with the Moon](/lunar-gardening-folklore/)**.
+
 Let these plants teach you what the bright garden never can.
 
 Find out **[Why Real Witches Plant Rosemarry by the Front Door](/why-witches-plant-rosemary-front-door/)** next.
