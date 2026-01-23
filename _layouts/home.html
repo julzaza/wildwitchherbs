@@ -41,10 +41,7 @@ layout: default
   </h2>
 
   <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:2rem;">
-    {% assign herbal_posts = all_posts | where_exp: "post",
-      "post.categories contains 'herbal-magic'
-       or post.categories contains 'natural-healing'" %}
-
+    {% assign herbal_posts = all_posts | where_exp: "post", "post.categories contains 'herbal-magic' or post.categories contains 'natural-healing'" %}
     {% for post in herbal_posts limit:6 %}
       {% include archive-single.html post=post type="grid" %}
     {% endfor %}
