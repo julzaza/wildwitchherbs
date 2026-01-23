@@ -113,6 +113,8 @@ Plants respond to light, moisture, and gravity — and the moon influences all t
 
 Farmers from the Andes to the Balkans to the Mediterranean worked with this rhythm instinctively.
 
+For those building a garden from the ground up, timing was inseparable from plant choice — a foundation explored further in **[How to Start a Real Witch’s Garden: Powerful Traditional Plants](/witch-garden/)**, which documents historically used plants chosen for function rather than aesthetics.
+
 ---
 
 ## Moon Phases and What to Do
@@ -137,7 +139,9 @@ Farmers from the Andes to the Balkans to the Mediterranean worked with this rhyt
 - Prune, cut back, remove pests, uproot weeds.  
 - In Caribbean Vodou, offerings were buried under herbs planted during the waning moon, binding intention to the roots.
 
-If you want to make moon water and use it in rituals: **[Learn How to Make Moon Water](/moon-water-magic/)**.
+This inward, descending phase was traditionally favored for banishing, grief work, and confrontation with the unseen — practices reflected in **[Herbs for a Shadow Work Garden](/herbs-shadow-work-garden/)**, where plants are chosen specifically for psychological depth, ancestral contact, and underworld-facing rites.
+
+Knowing how to work with the moon's phases is also useful when making moon water for rituals, see **[Learn How to Make Your Own Moon Water](/moon-water-magic/)**.
 
 ---
 
