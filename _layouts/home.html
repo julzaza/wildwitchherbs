@@ -21,13 +21,14 @@ layout: default
 <section class="cluster-section" style="clear:both; display:block; width:100%; margin-top:5rem;">
   <h2>Herbalism</h2>
 
-  {% assign herbal_posts = site.categories.herbal-magic | limit:6 %}
+  {% assign herbal_posts = site.categories.herbal-magic | sort:'date' | reverse | slice: 0,6 %}
   <div class="entries-grid">
     {% for post in herbal_posts %}
-      {% include archive-single.html type="grid" %}
+      {% include archive-single.html post=post type="grid" %}
     {% endfor %}
   </div>
 </section>
+
 
 
 <!-- ALL OTHER POSTS -->
