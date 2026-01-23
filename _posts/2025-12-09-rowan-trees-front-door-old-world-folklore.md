@@ -164,6 +164,8 @@ The tree grew into its role, year after year, becoming:
 
 When rowan thrived, the household thrived with it.
 
+Just as rowan guarded the household threshold, larger sacred trees — especially oaks — protected villages and communal land, a role documented in **[The Balkan Oak Tree Cult](/balkan-oak-cult/)**.
+
 ---
 
 # FAQ
