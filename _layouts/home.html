@@ -15,7 +15,7 @@ layout: default
     </div>
   </section>
 
-  <!-- HERBALISM POSTS -->
+  <!-- HERBALISM POSTS (limit 6) -->
   <section class="cluster-section" style="margin-top:5rem;">
     <h2>Herbalism</h2>
     {% assign herbal_posts = site.categories['herbal-magic'] | sort:'date' | reverse | slice:0,6 %}
@@ -40,45 +40,22 @@ layout: default
 </div>
 
 <style>
-/* 3 posts per row */
+/* HOMEPAGE: FORCE 3 POSTS PER ROW ON DESKTOP, keep theme styling intact */
 .home-layout .entries-grid {
-  display: grid !important;
-  grid-template-columns: repeat(3, 1fr) !important;
-  gap: 2rem !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 /* Tablet */
 @media (max-width: 1024px) {
   .home-layout .entries-grid {
-    grid-template-columns: repeat(2, 1fr) !important;
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
 /* Mobile */
 @media (max-width: 640px) {
   .home-layout .entries-grid {
-    grid-template-columns: 1fr !important;
+    grid-template-columns: 1fr;
   }
-}
-
-/* FORCE CARDS NOT TO STRETCH */
-.home-layout .entries-grid .archive__item {
-  display: block !important;
-  flex: unset !important;        /* remove flex stretching */
-  height: auto !important;
-  min-height: unset !important;
-}
-
-/* IMAGE FIX */
-.home-layout .entries-grid .archive__item img {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-}
-
-/* CONTENT FIX */
-.home-layout .entries-grid .archive__item .archive__item-content {
-  height: auto !important;
-  display: block !important;
 }
 </style>
