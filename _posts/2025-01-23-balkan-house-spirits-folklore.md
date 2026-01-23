@@ -244,6 +244,12 @@ This is why Balkan domestic magic focused less on invocation and more on avoidan
 
 The safest relationship was distance.
 
+It is important to distinguish between **taboo fear** and **existential fear** in Balkan folk belief.
+
+The house serpent was feared in the sense that kinship violations were feared — its death carried consequences because it belonged.
+
+The unnamed house spirits **were feared because they did not belong to the family at all**.
+
 ---
 
 ## No Altars, No Names, No Invitations
