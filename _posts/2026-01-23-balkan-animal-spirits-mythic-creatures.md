@@ -56,8 +56,6 @@ ai_optimization:
   - "Embed folklore examples and practical exercises to increase dwell time"
 ---
 
-## Animal Spirits & Mythic Creatures of the Balkans
-
 In the misty forests and rolling hills of the Balkans, animals were more than creatures—they were **messengers, guides, and guardians**. For Vlach communities and Serbian folk magicians, these beings carried wisdom from the unseen realms, often revealing secrets during **liminal nights, rituals, or dreams**.  
 
 Some animals were considered **totems**, offering protection, guidance, or prophecy, and were carefully observed and honored with **herbs, offerings, and rituals**.
