@@ -228,5 +228,3 @@ Quietly, yes — especially in rural areas and older households.
 No, but the Balkans preserved it longer and more clearly than most of Europe.
 
 ---
-
----
