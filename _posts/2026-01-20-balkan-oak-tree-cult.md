@@ -204,6 +204,8 @@ Spoken words carried weight when said beneath them.
 This is why sacred trees were left standing even when forests were cleared.  
 They anchored memory.
 
+In folk logic, trees were not mute objects but listening presences — a worldview echoed in **[Nemušti Jezik, the Silent Tongue of Animals and Nature](/silent-language-animals-nemusti-jezik/)**, where land and living beings speak to those who know how to listen.
+
 ---
 
 ## ## Why the Oak Cult Survived Here
@@ -240,7 +242,7 @@ It survives as:
 
 And that’s how old religions endure.
 
-
+--- 
 
 ## The Quiet Continuation
 
