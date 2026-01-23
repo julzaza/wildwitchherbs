@@ -150,7 +150,7 @@ See **[St. John’s Wort Sun Water](/st-johns-wort-sun-water)** for solstice tra
 ### **Midwinter Evergreens Magic**  
 Rosemary, juniper, and pine stood as symbols of surviving the dark.
 
-For deeper evergreen lore: **[Evergreen Magic](/evergreens-witchcraft)**.
+For deeper evergreen lore: see how witches used **[Evergreen Magic Before Christmas Even Existed](/evergreens-witchcraft)**.
 
 ---
 
