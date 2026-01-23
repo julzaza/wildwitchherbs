@@ -80,7 +80,7 @@ It was **bound to the house**, the land beneath it, and the people who slept abo
 
 To kill it was unthinkable.
 
-While the house snake represents a specific ancestral guardian, it was only one form of the many **[House Spirits That Inhabited Balkan Homes](/balkan-house-spirits-folklore/)**, each with their own rules and dangers.
+To fully understand the household forces at play, it helps to explore the broader system of **[House Spirits That Inhabited Balkan Homes](/balkan-house-spirits-folklore/)** and how they coexisted alongside serpents.
 
 ---
 
