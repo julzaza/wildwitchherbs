@@ -177,6 +177,8 @@ They were understood as **territorial powers**, bound to:
 
 Importantly, these spirits were not inherited in the way the house snake was. A family moving into an old house did not “receive” protection — they **entered a relationship already in progress**.
 
+Ethnographic records from eastern Serbia and western Bulgaria describe families abandoning houses where night pressure, recurring illness, and falling objects persisted despite silence and restraint. No spirit was named, no ritual prescribed. The house was simply described as teška — “heavy” — and left behind.
+
 This is why Balkan folklore repeatedly warns that some houses were simply *bad*.
 
 No reliable ritual could fix them.
