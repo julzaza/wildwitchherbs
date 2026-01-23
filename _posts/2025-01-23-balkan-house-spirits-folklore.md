@@ -149,7 +149,7 @@ These domestic taboos align closely with **[Old European Yule Rituals](/oldest-y
 
 ---
 
-## The House Spirits Themselves — Unnamed, Territorial, and Volatile
+## The House Spirits Themselves — Unnamed, Territorial, and Volatile Forces
 
 Beyond the house serpent, Balkan folk belief held that **something lived in every dwelling** — whether seen or not.
 
