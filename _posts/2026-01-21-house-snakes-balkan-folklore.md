@@ -209,9 +209,9 @@ And that may be the oldest form of reverence there is.
 
 To understand the wider system this belief belongs to, see:
 
+- **[Balkan Animal Spirit and Mythic Creatures](/balkan-animal-spirit-guides/)** — what they guarded and what messages they carried 
 - **[Why Balkan Witches Survived](/balkan-witches/)** — social roles, fear, and endurance  
 - **[The Oak Was the Shrine: Sacred Trees in Balkan Folk Religion](/oak-tree-cult-balkans/)** — land-bound sacred power  
-- **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)** — protection without spectacle  
 
 ---
 
