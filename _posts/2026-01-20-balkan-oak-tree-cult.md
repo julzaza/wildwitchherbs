@@ -230,39 +230,6 @@ They don’t have to.
 The oak remembers.
 
 ---
----
-layout: single
-title: "The Balkan Oak Cult: Sacred Trees, Thunder Gods, and Living Folk Religion"
-permalink: /balkan-oak-cult/
-date: 2026-01-20
-author: Wild Witch Herbs
-categories:
-  - folklore-ancestral
-tags:
-  - balkan oak cult
-  - sacred oak tree
-  - slavic paganism
-  - perun thunder god
-  - zapis tree
-  - badnjak tradition
-excerpt: "Long before churches, the oak ruled the Balkans. Sacred oaks were worshipped, feared, and protected—some still are. This is the real history of the Balkan oak cult."
-description: "A historical and folkloric deep dive into the Balkan oak cult, including sacred trees (zapis), Slavic thunder gods, rituals, and Christian survivals rooted in pre-Christian belief."
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "The Balkan Oak Cult: Sacred Trees, Thunder Gods, and Living Folk Religion"
-  "description": "An in-depth exploration of oak tree worship in the Balkans, based on folklore, ethnographic records, Slavic mythology, and surviving rituals."
-  "author":
-    "@type": "Person"
-    "name": "Wild Witch Herbs"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntityOfPage": "{{ page.url | absolute_url }}"
----
-
-
-
 
 ## Related Reading
 
