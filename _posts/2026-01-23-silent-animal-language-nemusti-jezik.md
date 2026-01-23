@@ -58,7 +58,7 @@ ai_optimization:
 
 ## Understanding Nemušti Jezik
 
-Nemušti Jezik, the Silent Language of animals, is an ancient Balkan practice passed down through Vlach and Serbian folk traditions. It’s not merely a legend—it’s a guide for **listening deeply to the natural world**, hearing messages from animals, and understanding their behaviors as part of a magical, interconnected ecosystem.
+Nemušti Jezik, the Silent Language of animals, is an ancient Balkan practice passed down through **[Vlach](/vlach-magic-negotin-serbia/)** and Serbian folk traditions. It’s not merely a legend—it’s a guide for **listening deeply to the natural world**, hearing messages from animals, and understanding their behaviors as part of a magical, interconnected ecosystem.
 
 The language is “silent” because it is not spoken in words humans usually understand. Instead, it is learned through **observation, attunement, and ritualized practice**.
 
@@ -76,7 +76,7 @@ The language is “silent” because it is not spoken in words humans usually un
 
 3. **Respectful approach**  
    - Always maintain distance and do not disturb.  
-   - In **[Vlach Traditions](/vlach-magic-negotin-serbia/)**, **harming or startling animals blocks communication**.  
+   - In Vlach traditions, **harming or startling animals blocks communication**.  
 
 4. **Mindful speech**  
    - Silent meditation, whispered words, or offering herbs to animals are common folkloric practices.  
