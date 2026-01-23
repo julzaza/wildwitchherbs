@@ -125,7 +125,7 @@ The shepherd’s pact with the serpent mirrors these practices.
 The snake is a **totemic guide**, bridging earth and underworld, much like the serpent-spirits honored in Vlach healing ceremonies.  
 For a modern herbalist or witch, this story resonates as a reminder that **plants and animals speak if we know how to listen**.
 
-> *For a deeper dive into these living traditions, explore our guide to **[Vlach Magija](/vlach-magic-negotin-serbia/)** and discover how Balkan magic still thrives today.*
+*For a deeper dive into these living traditions, explore our guide to **[Vlach Magija](/vlach-magic-negotin-serbia/)** and discover how Balkan magic still thrives today.*
 
 ---
 
