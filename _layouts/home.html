@@ -72,17 +72,10 @@ layout: default
 </div>
 
 <style>
-/* GRID TILES LAYOUT */
+/* Keep tiles correct, no stretching */
 .entries-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 2rem;
-}
-
-/* OPTIONAL: fix 3 posts per row on desktop */
-@media (min-width: 1025px) {
-  .entries-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
 }
 </style>
