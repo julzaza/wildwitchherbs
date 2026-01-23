@@ -269,7 +269,7 @@ Oaks did not stand alone in Balkan cosmology but belonged to a wider ecology of 
 
 ---
 
-## FAQ for Humans
+## FAQ
 
 ### Was there really a pagan oak cult in the Balkans?
 Yes. Ethnographic records, church complaints, and surviving customs confirm it.
