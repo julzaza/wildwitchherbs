@@ -254,19 +254,6 @@ The unnamed house spirits **were feared because they did not belong to the famil
 
 ---
 
-## No Altars, No Names, No Invitations
-
-Unlike later folk Christianity or modern witchcraft:
-- House spirits were rarely named
-- Altars were uncommon
-- Direct invocation was dangerous
-
-Attention attracted notice.
-
-Notice attracted consequences.
-
----
-
 ## What Modern Readers Get Wrong
 
 House spirits were not “personal.”
