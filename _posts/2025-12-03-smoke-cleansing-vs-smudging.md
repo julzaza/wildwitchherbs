@@ -4,7 +4,7 @@ title: "Smoke Cleansing vs. Smudging"
 permalink: /smoke-cleansing-vs-smudging/
 excerpt: "A global guide to smoke cleansing traditions, how they differ from Indigenous smudging, and which herbs are safe to burn."
 description: "Learn the difference between smoke cleansing and smudging. Explore global traditional cleansing practices and herbs from Europe, Asia, Africa, and beyond."
-author: wildwitchyherbs
+author: Wild Witch Herbs
 date: 2025-07-07
 
 categories:
@@ -158,6 +158,8 @@ White sage (**Salvia apiana**) is sacred to several Indigenous nations, and comm
 You never need white sage.  
 You have powerful herbs wherever you live.
 
+That also means knowing which plantss can be dangerous to burn — check our comprehensive guide to **[Herbs Never to Burn in Ritual](/never-burn-herbs/)** for safety and clarity.
+
 ---
 
 ## How to Perform a Global-Friendly Smoke Cleansing Ritual  
@@ -188,9 +190,9 @@ If not, “smoke cleansing” is the correct and respectful term.
 ## Want to Go Deeper into Ritual Smoke?
 
 If you want to build a smoke practice rooted in safety, ancestry, and the land beneath your feet, these guides will help you take the next steps:
-
-- **[Herbs That Are Toxic When Burned](/never-burn-herbs/)** — an essential list of plants that release harmful compounds when burned, so your practice stays safe, informed, and grounded in real herbal knowledge.
   
 - **[How to Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)** — a practical walkthrough of choosing the right herbs, preparing them, and building a personal cleansing ritual without cultural borrowing.
+
+- **[Herbs That Are Toxic When Burned](/never-burn-herbs/)** — an essential list of plants that release harmful compounds when burned, so your practice stays safe, informed, and grounded in real herbal knowledge.
 
 ---
