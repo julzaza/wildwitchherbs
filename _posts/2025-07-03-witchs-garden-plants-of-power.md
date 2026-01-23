@@ -53,6 +53,15 @@ These herbs got stories to tell. They go way back.
 
 ---
 
+### **Tulsi (*Ocimum tenuiflorum*)**  
+**Region:** India  
+**Use:** Spiritual purity, protection, healing  
+**Folklore:** Considered the earthly embodiment of Lakshmi. 
+
+Almost every traditional Hindu home grows it in a central altar pot. Watered daily while chanting mantras — not for decoration, but for divine connection.
+
+---
+
 ### **Rue (*Ruta graveolens*)**  
 **Region:** Mediterranean, Balkans, Latin America  
 **Use:** Protection against curses and envy  
@@ -75,7 +84,8 @@ On a recent trip through the southern Balkans, we met a family producing some of
 
 So now you can grow this legendary plant for yourself. 
 
-**[Order Heirloom Artemisia Annua Seeds](/shop/#artemisia-annua-seeds--5/)** while supplies last — this is a limited harvest, and once they’re gone, they’re gone. **[Sweet Wormwood Tea and Tincture](/shop/#dried-artemisia-annua-tea--14)** also available in limited supply. 
+**[Order Heirloom Artemisia Annua Seeds](/shop/#artemisia-annua-seeds--5/)** while supplies last — this is a limited harvest, and once they’re gone, they’re gone. 
+**[Sweet Wormwood Tea and Tincture](/shop/#dried-artemisia-annua-tea--14)** also available in limited supply. 
 
 These seeds aren’t mass-produced. They’re wild and strong.
 
@@ -100,15 +110,6 @@ In Vodou, it’s used to calm disturbed spirits and open ritual space.
 **Folklore:** Roman soldiers put mugwort in their sandals for endurance. 
 
 In Japanese *omamori*, mugwort is sometimes used in amulets for protection. In the Balkans, young women bathed in mugwort-infused water before Slava or solstice rituals.
-
----
-
-### **Tulsi (*Ocimum tenuiflorum*)**  
-**Region:** India  
-**Use:** Spiritual purity, protection, healing  
-**Folklore:** Considered the earthly embodiment of Lakshmi. 
-
-Almost every traditional Hindu home grows it in a central altar pot. Watered daily while chanting mantras — not for decoration, but for divine connection.
 
 ---
 
