@@ -213,7 +213,7 @@ To understand the wider system this belief belongs to, see:
 
 - **[Balkan Animal Spirits in Folk Magic](/balkan-animal-spirit-guides/)** - folkore animism and mythic cratures
 - **[Why Balkan Witches Survived](/balkan-witches/)** — social roles, fear, and endurance  
-- **[The Oak Was the Shrine: Sacred Trees in Balkan Folk Religion](/oak-tree-cult-balkans/)** — land-bound sacred power  
+- **[The Oak Was the Shrine: Sacred Trees in Balkan Folk Religion](/balkan-oak-tree-cult/)** — land-bound sacred power  
 
 ---
 
