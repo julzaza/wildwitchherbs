@@ -95,7 +95,7 @@ Herbs in Balkan witchcraft are often used to **tune the senses and open the mind
 
 **Tip:** Sprinkle a small amount of dried herbs around your observation area or create a gentle herbal tea to sip while meditating on animal messages.  
 
-You can also learn about other **[Favorite Herbs Used by Vlach Wise Women](/herbs-vlach-wise-women/)**.
+Learn about **[Favorite Herbs Used by Vlach Wise Women](/herbs-vlach-wise-women/)**.
 
 ---
 
