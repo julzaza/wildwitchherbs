@@ -119,7 +119,7 @@ House spirits were tightly linked to ancestors.
 Serpents were common forms.  
 Disrespect led to sickness.
 
-These beliefs intersect with practices described in **[Vlach Magic of Negotin](/vlach-magic-negotin/)**, where ancestral spirits remained actively involved in household fate.
+These beliefs intersect with practices described in **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)**, where ancestral spirits remained actively involved in household fate.
 
 ### Bulgaria
 The **domovnik** or **stopanin** guarded the household economy.  
