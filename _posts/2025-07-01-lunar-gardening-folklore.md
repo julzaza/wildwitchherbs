@@ -141,7 +141,7 @@ For those building a garden from the ground up, timing was inseparable from plan
 
 This inward, descending phase was traditionally favored for banishing, grief work, and confrontation with the unseen — practices reflected in **[Herbs for a Shadow Work Garden](/herbs-shadow-work-garden/)**, where plants are chosen specifically for psychological depth, ancestral contact, and underworld-facing rites.
 
-Knowing how to work with the moon's phases is also useful when making moon water for rituals, see **[Learn How to Make Your Own Moon Water](/moon-water-magic/)**.
+Knowing how to work with the moon's phases is essential when making moon water for rituals, see **[How to Make Your Own Moon Water](/moon-water-magic/)** to get started.
 
 ---
 
