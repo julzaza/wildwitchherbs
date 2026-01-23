@@ -112,6 +112,8 @@ The Nemušti Jezik is not just a Serbian curiosity.
 Legends of animal speech at sacred times—especially **Christmas Eve, St. John’s Eve, and midwinter nights**—appear across Europe.  
 But in the Balkans, they take on a special flavor, where **pre-Christian animism** mingles with Orthodox rites and the deep mountain mysticism of the **Vlach people**.
 
+The shepherd’s gift of Nemušti Jezik reflects the same wisdom honored in **[Balkan Animal Spirits in Folk Magic](/balkan-animal-spirit-guides/)**, where snakes, owls, and other creatures guide humans through observation, ritual, and herbal practice.
+
 ### Connection to Vlach Magija
 
 The **Vlach** (Wallachian) communities of eastern Serbia, Romania, and Montenegro are renowned for their **magija**—old magic that blends Roman, Thracian, and Slavic elements.  
