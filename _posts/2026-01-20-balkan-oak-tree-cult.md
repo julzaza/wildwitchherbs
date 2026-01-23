@@ -229,6 +229,10 @@ Oak worship survived because:
 
 Storms, illness, borders, fertility — the oak handled them all.
 
+While the oak guarded villages, oaths, and open land, protection at the household threshold was often entrusted to smaller but no less powerful trees — most notably the rowan. 
+
+Traditionally it was planted by the doors and gates to repel harmful forces, as explored in **[Rowan Trees by the Door: Old European Folklore](/rowan-trees-front-door-old-world-folklore/)**. 
+
 ---
 
 ## Is the Oak Cult Still Alive?
