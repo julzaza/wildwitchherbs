@@ -47,16 +47,23 @@ layout: default
 </div>
 
 <style>
-/* FORCE 3 POSTS PER ROW ON HOMEPAGE ONLY */
+/* HOMEPAGE ONLY — 3 columns, natural card height */
 .home-layout .entries-grid {
   display: grid !important;
-  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  grid-template-columns: repeat(3, 1fr) !important;
   gap: 1.5rem;
+  align-items: start; /* 🔑 prevents vertical stretching */
 }
 
-/* Kill MM flex widths */
+/* Reset MM flex behavior safely */
 .home-layout .entries-grid .archive__item {
-  width: auto !important;
+  width: 100% !important;
+  display: block;
+}
+
+/* Ensure cards don’t stretch internally */
+.home-layout .archive__item-teaser {
+  height: auto !important;
 }
 
 /* Tablet */
