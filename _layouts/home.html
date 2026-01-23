@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<div class="page__content">
+<div class="page__content home-layout">
+
 
 <!-- FEATURED POSTS -->
 <section class="cluster-section" style="clear:both; display:block; width:100%;">
@@ -44,3 +45,24 @@ layout: default
 </section>
 
 </div>
+
+<style>
+/* FORCE 3 POSTS PER ROW ON HOMEPAGE ONLY */
+.home-layout .entries-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+  .home-layout .entries-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobile */
+@media (max-width: 640px) {
+  .home-layout .entries-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
