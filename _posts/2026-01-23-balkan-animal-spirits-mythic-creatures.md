@@ -72,6 +72,10 @@ Herbalists sometimes paired **snake-related rituals** with protective herbs like
 
 The unique status of the serpent, both feared and respected, is detailed further in **[House Snakes: Guardians of the Balkan Homes](/house-snakes-ancestor-spirits-balkan-folklore/)**.
 
+Snakes were not only wild guardians—they could also dwell beneath thresholds and hearths. 
+
+Learn more about these domestic serpents and their unseen household companions in **[Balkan House Spirits: Guardians, Serpents, and Dangerous Guests](/balkan-house-spirits-folklore/)**.
+
 ### Owl — Messenger Between Worlds
 
 Owls, with their nocturnal eyes and haunting calls, were understood as **intermediaries between the living and the spirit world**. 
