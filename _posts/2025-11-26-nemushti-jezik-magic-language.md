@@ -106,7 +106,7 @@ Understanding the thoughts of beasts and spirits is no gift for idle gossip; it 
 
 ---
 
-## Symbolism in the Silent Tongue Tale
+## How Nemušti Jezik Works in Folk Logic
 
 The Nemušti Jezik is not just a Serbian curiosity.  
 Legends of animal speech at sacred times—especially **Christmas Eve, St. John’s Eve, and midwinter nights**—appear across Europe.  
