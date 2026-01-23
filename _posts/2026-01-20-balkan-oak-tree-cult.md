@@ -158,26 +158,6 @@ They marked **where protection ended**.
 
 ---
 
-## The Badnjak: The Oak That Enters the House
-
-The **Badnjak** tradition is one of the clearest survivals of oak worship.
-
-On Christmas Eve:
-- an oak branch or young oak is cut
-- brought into the home
-- ritually burned  
-
-This is not originally Christian.
-
-Scholars agree:
-- it descends from winter solstice oak rites
-- the burning oak symbolized solar rebirth
-- Christianity absorbed the act rather than abolishing it  
-
-Even today, the oak is treated with ritual respect—not as firewood.
-
----
-
 ## The Oak as Witness
 
 In Balkan belief:
@@ -206,6 +186,26 @@ This is why sacred trees were left standing even when forests were cleared.
 They anchored memory.
 
 In folk logic, trees were not mute objects but listening presences — a worldview echoed in **[Nemušti Jezik, the Silent Tongue of Animals and Nature](/silent-language-animals-nemusti-jezik/)**, where land and living beings speak to those who know how to listen.
+
+---
+
+## The Badnjak: The Oak That Enters the House
+
+The **Badnjak** tradition is one of the clearest survivals of oak worship.
+
+On Christmas Eve:
+- an oak branch or young oak is cut
+- brought into the home
+- ritually burned  
+
+This is not originally Christian.
+
+Scholars agree:
+- it descends from winter solstice oak rites
+- the burning oak symbolized solar rebirth
+- Christianity absorbed the act rather than abolishing it  
+
+Even today, the oak is treated with ritual respect—not as firewood.
 
 ---
 
@@ -247,9 +247,7 @@ It survives as:
 
 And that’s how old religions endure.
 
---- 
-
-## The Quiet Continuation
+### The Quiet Continuation
 
 Even now, offerings appear at old trees.  
 Ribbons. Bread. Coins. Silence.
