@@ -76,7 +76,7 @@ This belief echoes wider domestic protections explored in **[Why Laundry Was For
 
 ## The House Serpent (Zmija, Zmijica, Domaca Zmija)
 
-Across Serbia, Macedonia, Bulgaria, and parts of Croatia, the most feared—and revered—house spirit was the **serpent**.
+Across Serbia, Macedonia, Bulgaria, and parts of Croatia, the most widely recorded and most ritually protected house-being was the **serpent**.
 
 Not metaphorical.
 
