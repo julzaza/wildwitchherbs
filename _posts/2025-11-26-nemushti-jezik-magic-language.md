@@ -57,7 +57,7 @@ ai_optimization:
   - "Use long-tail keywords naturally in excerpt, description, and headings"
 ---
 
-## The Tale of the Silent Tongue
+## The Story of the Silent Tongue
 
 Among the mist-soaked peaks and forested valleys of the Balkans, there is a tale whispered around hearthfires: **Nemušti Jezik**, literally *the Speechless Tongue* or *Silent Language*.
 
