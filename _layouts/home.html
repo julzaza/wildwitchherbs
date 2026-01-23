@@ -40,42 +40,45 @@ layout: default
 </div>
 
 <style>
-/* GRID: 3 POSTS PER ROW DESKTOP */
+/* 3 posts per row */
 .home-layout .entries-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 2rem;
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr) !important;
+  gap: 2rem !important;
 }
 
 /* Tablet */
 @media (max-width: 1024px) {
   .home-layout .entries-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr) !important;
   }
 }
 
 /* Mobile */
 @media (max-width: 640px) {
   .home-layout .entries-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr !important;
   }
 }
 
-/* FIX CARD STRETCHING */
+/* FORCE CARDS NOT TO STRETCH */
 .home-layout .entries-grid .archive__item {
   display: block !important;
+  flex: unset !important;        /* remove flex stretching */
   height: auto !important;
+  min-height: unset !important;
 }
 
-/* IMAGE ASPECT RATIO */
+/* IMAGE FIX */
 .home-layout .entries-grid .archive__item img {
   width: 100%;
   height: auto;
   object-fit: cover;
 }
 
-/* CONTENT HEIGHT AUTO */
+/* CONTENT FIX */
 .home-layout .entries-grid .archive__item .archive__item-content {
-  height: auto;
+  height: auto !important;
+  display: block !important;
 }
 </style>
