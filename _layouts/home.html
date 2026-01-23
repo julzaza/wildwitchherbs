@@ -8,7 +8,7 @@ layout: default
   <section class="cluster-section">
     <h2>Featured Guides</h2>
     {% assign featured_posts = site.posts | sort:'date' | reverse | where:"featured", true | limit:3 %}
-    <div class="entries-grid">
+    <div class="entries-grid custom-grid">
       {% for post in featured_posts %}
         {% include archive-single.html post=post type="grid" %}
       {% endfor %}
@@ -19,7 +19,7 @@ layout: default
   <section class="cluster-section" style="margin-top:5rem;">
     <h2>Herbalism</h2>
     {% assign herbal_posts = site.categories['herbal-magic'] | sort:'date' | reverse | slice:0,6 %}
-    <div class="entries-grid">
+    <div class="entries-grid custom-grid">
       {% for post in herbal_posts %}
         {% include archive-single.html post=post type="grid" %}
       {% endfor %}
@@ -30,7 +30,7 @@ layout: default
   <section class="cluster-section" style="margin-top:5rem;">
     <h2>More Articles</h2>
     {% assign other_posts = site.posts | where_exp:"post","post.featured != true" | limit:6 %}
-    <div class="entries-grid">
+    <div class="entries-grid custom-grid">
       {% for post in other_posts %}
         {% include archive-single.html post=post type="grid" %}
       {% endfor %}
@@ -40,31 +40,31 @@ layout: default
 </div>
 
 <style>
-/* GRID FIXES */
-.home-layout .entries-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 2rem;
-  align-items: start; /* stops cards stretching to the tallest */
+/* CUSTOM GRID OVERRIDES */
+.home-layout .custom-grid {
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr) !important;
+  gap: 2rem !important;
+  align-items: start !important; /* stops stretching */
 }
 
-.home-layout .entries-grid article.archive__item {
-  display: flex;
-  flex-direction: column; /* ensures content stacks naturally */
-  height: auto !important; /* prevent stretching */
+.home-layout .custom-grid article.archive__item {
+  display: flex !important;
+  flex-direction: column !important;
+  height: auto !important; /* ensures natural height */
 }
 
 /* Tablet */
 @media (max-width: 1024px) {
-  .home-layout .entries-grid {
-    grid-template-columns: repeat(2, 1fr);
+  .home-layout .custom-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
   }
 }
 
 /* Mobile */
 @media (max-width: 640px) {
-  .home-layout .entries-grid {
-    grid-template-columns: 1fr;
+  .home-layout .custom-grid {
+    grid-template-columns: 1fr !important;
   }
 }
 </style>
