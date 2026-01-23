@@ -209,7 +209,7 @@ In folk logic, trees were not mute objects but listening presences — a worldvi
 
 ---
 
-## ## Why the Oak Cult Survived Here
+## Why the Oak Cult Survived Here
 
 Because it was **practical**.
 
