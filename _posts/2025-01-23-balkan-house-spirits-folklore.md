@@ -163,7 +163,11 @@ In Serbian, Bulgarian, Bosnian, and Vlach traditions, people spoke of them indir
 Naming was avoided.  
 Names implied access, and access invited attention.
 
-Unlike the serpent, these house spirits did not usually take clear animal form. They were described through **effects**, not appearances:
+Unlike the serpent, these house spirits did not usually take clear animal form. 
+
+They were understood less as beings with identity than as forces bound to place, indifferent to human lineage or intention.
+
+They were described through **effects**, not appearances:
 - unexplained knocking or footsteps  
 - objects moving or falling repeatedly  
 - pressure on the chest during sleep  
@@ -262,7 +266,7 @@ House spirits were not “personal.”
 
 They belonged to:
 - The land
-- The bloodline
+- The site
 - The structure itself
 
 You did not choose them.
