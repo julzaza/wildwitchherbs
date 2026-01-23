@@ -70,7 +70,7 @@ Folk belief held that a snake’s appearance was a sign to approach with caution
 
 Herbalists sometimes paired **snake-related rituals** with protective herbs like wormwood or rue, invoking both caution and insight.
 
-Learn more about **[House Snakes: Guardians of the Balkan Homes](/house-snakes-ancestor-spirits-balkan-folklore/)**.
+The unique status of the serpent, both feared and respected, is detailed further in **[House Snakes: Guardians of the Balkan Homes](/house-snakes-ancestor-spirits-balkan-folklore/)**.
 
 ### Owl — Messenger Between Worlds
 
