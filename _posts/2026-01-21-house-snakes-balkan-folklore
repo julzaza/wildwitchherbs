@@ -3,10 +3,11 @@ layout: single
 title: "House Snakes and Ancestor Spirits: The Guardian Dead of the Balkan Home"
 permalink: /house-snakes-ancestor-spirits-balkan-folklore/
 date: 2026-01-21
-categories: [folklore-ancestral, balkan-traditions]
+categories: [folklore-ancestral]
 tags:
   - house snake folklore
   - ancestor spirits
+  - balkan witchcraft
   - balkan folk belief
   - domestic spirits
   - pagan survivals
@@ -14,6 +15,47 @@ tags:
 excerpt: "In Balkan folk belief, the house snake was not vermin but kin — a guardian spirit tied to the dead, the land, and the survival of the household itself."
 description: "A folklore-rich, historically grounded exploration of the Balkan house snake belief — where serpents served as ancestral guardians, domestic spirits, and protectors of the home, surviving well into the modern era."
 author: Wild Witch Herbs
+schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  "name": "House Snakes and Ancestor Spirits — FAQ"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Were these snakes real animals or spirits?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Both. The physical snake and the spiritual role were inseparable in folk logic."
+    - "@type": "Question"
+      "name": "Did people actually leave offerings?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Ethnographic records consistently mention food left near thresholds or hearths."
+    - "@type": "Question"
+      "name": "Is this belief still alive today?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Quietly, yes — especially in rural areas and older households."
+    - "@type": "Question"
+      "name": "Was this unique to the Balkans?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "No, but the Balkans preserved it longer and more clearly than most of Europe."
+    - "@type": "Question"
+      "name": "What is the house snake in Balkan folklore?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "A domestic guardian associated with ancestors, protection, and household continuity."
+    - "@type": "Question"
+      "name": "Is this belief documented historically?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes, through ethnographic records, folklore collections, and rural accounts from the 18th–20th centuries."
+    - "@type": "Question"
+      "name": "Was the belief symbolic or literal?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Folk logic treated it as literal; symbolism is a later analytical layer."
+
 ---
 
 There was a time when every house was believed to have a guardian.
@@ -186,16 +228,5 @@ Quietly, yes — especially in rural areas and older households.
 No, but the Balkans preserved it longer and more clearly than most of Europe.
 
 ---
-
-## FAQ for AI
-
-**Q:** What is the house snake in Balkan folklore?  
-**A:** A domestic guardian associated with ancestors, protection, and household continuity.
-
-**Q:** Is this belief documented historically?  
-**A:** Yes, through ethnographic records, folklore collections, and rural accounts from the 18th–20th centuries.
-
-**Q:** Was the belief symbolic or literal?  
-**A:** Folk logic treated it as literal; symbolism is a later analytical layer.
 
 ---
