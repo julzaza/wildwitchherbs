@@ -34,19 +34,23 @@ layout: default
     </div>
   </section>
 
-  {% comment %} Herbalism & Magic Cluster (limit 6) {% endcomment %}
-  <section class="cluster-section" style="max-width:1000px; margin:4rem auto; padding:0 1rem;">
-    <h2 style="font-family:Roboto,sans-serif; font-size:1.8rem; border-bottom:2px solid #7a5c2f; padding-bottom:0.3rem; margin-bottom:2rem; color:#4a3c2f;">
-      Herbalism & Magic in Practice
-    </h2>
-    <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:2rem;">
-      {% assign herbal_posts = all_posts | where_exp: "post", "post.categories contains 'herbal-magic' or post.categories contains 'natural-healing' or post.categories contains 'folk-remedies' or post.categories contains 'moon-magic' or post.categories contains 'plant-rituals'" %}
-      {% assign herbal_posts = herbal_posts | slice: 0,6 %}
-      {% for post in herbal_posts %}
-        {% include archive-single.html post=post type="grid" %}
-      {% endfor %}
-    </div>
-  </section>
+{% comment %} Herbalism & Magic Cluster (limit 6) {% endcomment %}
+<section class="cluster-section" style="max-width:1000px; margin:4rem auto; padding:0 1rem;">
+  <h2 style="font-family:Roboto,sans-serif; font-size:1.8rem; border-bottom:2px solid #7a5c2f; padding-bottom:0.3rem; margin-bottom:2rem; color:#4a3c2f;">
+    Herbalism & Magic in Practice
+  </h2>
+
+  <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:2rem;">
+    {% assign herbal_posts = all_posts | where_exp: "post",
+      "post.categories contains 'herbal-magic'
+       or post.categories contains 'natural-healing'" %}
+
+    {% for post in herbal_posts limit:6 %}
+      {% include archive-single.html post=post type="grid" %}
+    {% endfor %}
+  </div>
+</section>
+
 
   {% comment %} More Articles & Stories {% endcomment %}
   <section class="cluster-section" style="max-width:1000px; margin:4rem auto; padding:0 1rem;">
