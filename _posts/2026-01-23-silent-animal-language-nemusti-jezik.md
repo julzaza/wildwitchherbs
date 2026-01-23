@@ -3,7 +3,7 @@ layout: single
 title: "Learn to Communicate with Nature: Silent Nemušti Language Guide"
 permalink: /silent-language-animals-nemusti-jezik/
 excerpt: "Learn the ancient Balkan practice of Nemušti Jezik, the Silent Language, to understand animal speech, commune with nature, and apply folkloric techniques in modern witchcraft."
-description: "Discover the Silent Language of animals from Balkan folklore. Practical guidance for modern witches using Nemušti Jezik: rituals, herbs, and exercises to attune to animal messages."
+description: "Learn Nemušti Jezik, the Silent Language of animals in Balkan folklore. Practical rituals, herbs, and exercises to help modern witches hear nature’s messages"
 categories: [witchcraft-ritual, folklore-ancestral]
 tags: [Nemušti Jezik, Silent Language, animal communication, Balkan animal rituals, herbal magic]
 search: false
