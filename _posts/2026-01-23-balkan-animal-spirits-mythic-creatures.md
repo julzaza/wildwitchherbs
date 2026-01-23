@@ -123,7 +123,7 @@ Modern witches can still honor these practices. Observing animal behavior, offer
 
 ---
 
-## The Role of Herbs in Spirit Communication
+## Herbs in Balkan Animal Lore Context
 
 Balkan witches often paired **animal spirit work with herbal magic**:
 
@@ -132,11 +132,11 @@ Balkan witches often paired **animal spirit work with herbal magic**:
 - **Thyme (Thymus vulgaris):** Encourages alertness and awareness of subtle signs.  
 - **St. John’s Wort (Hypericum perforatum):** Bridges communication with ancestral and natural spirits.  
 
-Herbs could be used in teas, incense, or sprinkled in sacred spaces while observing animals or performing rituals.  
+Ethnographic records show these herbs appearing alongside animal-related beliefs, especially in periods of heightened spiritual sensitivity.  
 
 ---
 
-## Lessons for the Modern Witch
+## Lessons of Patience and Respect
 
 Animal spirits remind us that **nature speaks in many voices**. Attuning to their messages requires:
 
@@ -147,9 +147,9 @@ Animal spirits remind us that **nature speaks in many voices**. Attuning to thei
 
 By honoring these practices, modern witches walk in harmony with both the **living earth** and the **ancestral traditions** of the Balkans.  
 
-> For a deeper understanding of animal communication and Nemušti Jezik, see our companion posts:  
-> - [Nemušti Jezik: The Silent Tongue in Balkan Folk Tales](/nemusti-jezik-silent-tongue/)  
-> - [Silent Language of Animals: Nemušti Jezik in Practical Witchcraft](/silent-language-animals-nemusti-jezik/)
+For a deeper understanding of animal communication and Nemušti Jezik, see our companion posts:  
+ - **[Nemušti Jezik: The Silent Tongue in Balkan Folk Tales](/nemusti-jezik-silent-tongue/)**
+ - **[Silent Language of Animals: Nemušti Jezik in Practical Witchcraft](/silent-language-animals-nemusti-jezik/)**
 
 ---
 
