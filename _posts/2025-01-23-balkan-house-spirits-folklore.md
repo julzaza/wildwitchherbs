@@ -165,7 +165,7 @@ Names implied access, and access invited attention.
 
 Unlike the serpent, these house spirits did not usually take clear animal form. 
 
-They were understood less as beings with identity than as forces bound to place, indifferent to human lineage or intention.
+They functioned not as named beings, but as forces bound to place bound to place, indifferent to human lineage or intention.
 
 They were described through **effects**, not appearances:
 - unexplained knocking or footsteps  
