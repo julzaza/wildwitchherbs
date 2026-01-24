@@ -24,6 +24,43 @@ faqs:
 schema:
   "@context": "https://schema.org"
   "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Was the Spring Equinox a happy festival historically?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Often, no. Many cultures treated it cautiously. Celebration was delayed until crops emerged, animals survived birth season, or weather stabilized."
+    - "@type": "Question"
+      "name": "Why does folklore treat balance as dangerous?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Because balance is temporary. Folk belief understood that moments of equilibrium often precede disruption, making vigilance more important than joy."
+    - "@type": "Question"
+      "name": "Did people perform magic on the equinox?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "They performed corrective and protective actions — cleansing, offerings, food restrictions, silence, or ancestor feeding — rather than overt spellwork."
+    - "@type": "Question"
+      "name": "Is the Spring Equinox connected to spirits or ancestors?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. Transitional times were believed to thin boundaries between worlds, increasing ancestor presence and spiritual movement."
+    - "@type": "Question"
+      "name": "Why do modern equinox rituals feel so different?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Modern practices often emphasize personal intention and abundance. Traditional practices prioritized land safety, communal survival, and restraint."
+    - "@type": "Question"
+      "name": "Do I need to follow a specific tradition to honor the equinox?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "No. Historically, people worked with their local land and seasonal realities. Quiet acknowledgment, cleaning, and respect are closer to tradition than elaborate ritual."
+    - "@type": "Question"
+      "name": "What is the most traditional way to observe the equinox today?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Do less, not more. Clean your space, avoid excess, acknowledge the season’s uncertainty, and allow growth to prove itself."
+
 ---
 
 The Spring Equinox was not universally celebrated — but it was universally **noticed**.
