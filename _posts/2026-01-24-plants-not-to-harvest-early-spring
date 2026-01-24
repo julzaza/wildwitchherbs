@@ -12,37 +12,28 @@ tags:
   - seasonal magic
 excerpt: "In folk tradition, early spring was a dangerous time to harvest plants. Certain herbs were believed to belong to spirits, the dead, or the land itself before May, and gathering them too soon risked illness, bad luck, or crop failure."
 description: "Discover which plants were traditionally forbidden to harvest in early spring according to Balkan, Slavic, and European folk belief. A historically grounded exploration of seasonal plant taboos, ancestral warnings, and land-based wisdom."
-faq_schema: |
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Why were some plants forbidden to harvest in early spring?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "In folk belief, early spring plants were considered spiritually immature or still claimed by earth spirits, ancestors, or chthonic forces. Harvesting them too early was believed to cause illness, misfortune, or agricultural failure."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Were these taboos based on practical knowledge?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. Many taboos reflected ecological realities such as weak medicinal potency, soil instability, frost risk, and the need to preserve early growth for later harvests."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Did these beliefs exist outside the Balkans?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Similar plant taboos appear across Slavic, Central European, and Mediterranean folk traditions, indicating a widespread seasonal understanding of plant spirits and land readiness."
-        }
-      }
-    ]
-  }
+faq_schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  mainEntity:
+    - "@type": "Question"
+      name: "Why were some plants forbidden to harvest in early spring?"
+      acceptedAnswer:
+        "@type": "Answer"
+        text: "In folk belief, early spring plants were considered spiritually immature or still claimed by earth spirits, ancestors, or chthonic forces. Harvesting them too early was believed to cause illness or misfortune."
+
+    - "@type": "Question"
+      name: "Were these plant taboos based on practical knowledge?"
+      acceptedAnswer:
+        "@type": "Answer"
+        text: "Yes. Many seasonal plant restrictions reflected ecological realities such as weak medicinal potency, toxin concentration, frost vulnerability, and soil instability."
+
+    - "@type": "Question"
+      name: "Did these harvesting taboos exist across Europe?"
+      acceptedAnswer:
+        "@type": "Answer"
+        text: "Similar early spring plant taboos appear in Balkan, Slavic, Central European, and Mediterranean folklore, suggesting a widespread seasonal understanding of land readiness."
+
 ---
 
 ## The Land Was Not Ready to Give
