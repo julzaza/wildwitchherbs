@@ -208,7 +208,7 @@ It is a conversation.
 ## Read Next
 
 - **[Spring Equinox Rituals: Ancient Balance and Living Folk Traditions](/spring-equinox-rituals-folklore/)**  
-- **[Spring Equinox Across Cultures: How the World Marked the Return of Balance](/spring-equinox-global-folklore/)**
+- **[Spring Equinox Across Cultures: Folklore of Light and Life](/spring-equinox-global-folklore/)**
 - **[Balkan Spring Herbs: Seasonal Power, Fertility & Protection](/balkan-spring-herbal-rites/)**
 
 ---
