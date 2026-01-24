@@ -13,37 +13,27 @@ tags:
   - liminal days
 excerpt: "In traditional European folklore, early spring was not a gentle awakening but a dangerous threshold. This post explores unlucky days, forbidden actions, and ancestral taboos observed between the Spring Equinox and May Day."
 description: "Explore historical folk taboos, unlucky spring days, and ancestral prohibitions observed between the Spring Equinox and May Day across Balkan, Slavic, and European traditions. A deep folklore-based study of what was once considered dangerous in early spring."
-faq_schema: |
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Why were certain spring days considered unlucky in folklore?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "In traditional European folklore, early spring was seen as a liminal and unstable period when natural and spiritual forces were shifting. Certain days were considered unlucky because spirits, ancestral dead, and chthonic forces were believed to move freely during this transition."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What activities were traditionally forbidden in early spring?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Commonly forbidden activities included sweeping after sunset, planting or ploughing on specific days, washing clothes near rivers, and disturbing the earth before ritual permissions were observed."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Are spring taboos connected to agriculture?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. Many spring taboos were directly tied to agricultural timing, soil spirits, and weather control. Violating these customs was believed to result in crop failure, illness, or bad weather."
-        }
-      }
-    ]
-  }
+faq_schema:
+  "@context": "https://schema.org"
+  "@type": "FAQPage"
+  mainEntity:
+    - "@type": "Question"
+      name: "Why were certain spring days considered unlucky in folklore?"
+      acceptedAnswer:
+        "@type": "Answer"
+        text: "Traditional European folklore viewed early spring as a liminal and unstable period when ancestral spirits, land forces, and seasonal powers were in transition. Certain days were avoided to prevent illness, crop failure, or spiritual disturbance."
+
+    - "@type": "Question"
+      name: "What activities were forbidden during early spring?"
+      acceptedAnswer:
+        "@type": "Answer"
+        text: "Commonly forbidden actions included ploughing, sweeping after sunset, washing clothes in rivers, disturbing soil, and loud domestic labor on specific days associated with the dead or earth spirits."
+
+    - "@type": "Question"
+      name: "Were spring taboos linked to agriculture?"
+      acceptedAnswer:
+        "@type": "Answer"
+        text: "Yes. Many spring taboos reflected agricultural timing, soil readiness, frost risk, and the belief that the land had not yet fully settled after winter."
   
 ---
 
