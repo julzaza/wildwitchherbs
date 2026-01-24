@@ -31,29 +31,6 @@ faq:
   - question: "How can I build a folk herbal first aid kit?"
     answer: "Include dried yarrow, plantain, elderflower, infused oils of comfrey, arnica, lavender, and basic tools like cloth, jars, and beeswax."
 
-schema:
-  context: "https://schema.org"
-  type: "Article"
-  headline: "Folk Herbal First Aid: Remedies for Cuts, Fevers & Bruises"
-  description: "A folklore-based guide to traditional European herbal first aid using yarrow, plantain, elderflower, arnica, comfrey, calendula, and other ancestral remedies."
-  author:
-    type: "Person"
-    name: "Julia Molton"
-  mainEntityOfPage:
-    type: "WebPage"
-    "@id": "https://wildwitchherbs.com/folk-herbal-first-aid/"
-  image: "https://wildwitchherbs.com/assets/images/folk-herbal-first-aid.jpg"
-  keywords:
-    - folk herbalism
-    - first aid herbs
-    - yarrow
-    - plantain
-    - old european healing
-    - herbal folklore
-    - witchcraft herbs
-  publisher:
-    type: "Organization"
-    name: "Wild Witch Herbs"
 ---
 
 Long before antiseptic wipes and factory-sealed pills, people turned to what they had: leaves, roots, resins, and instinct. **The original first responders were witches, midwives, and grandmothers** — women who knew what to rub on a sting, steep for a fever, or smear on a burn. 
