@@ -55,9 +55,7 @@ It is agricultural reality meeting spiritual interpretation.
 
 Across cultures, this moment of balance demanded action — through ritual correction, protective customs, and careful engagement with the land, all explored in greater depth through:
 
-- **[Spring Equinox Rituals in Folk Practice](/spring-equinox-rituals-folklore/)**
-- **[Spring Renewal and Protection Folk Traditions](/spring-renewal-protection-folk-traditions/)**
-- **[Ancestral Spring Equinox Foraging Customs](/spring-equinox-foraging-folklore/)**
+**[Spring Equinox Rituals in Folk Practice](/spring-equinox-rituals-folklore/)**
 
 ---
 
