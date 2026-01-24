@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Spring Equinox Foraging: The First Wild Plants and Early Harvests"
+title: "Spring Equinox Foraging: Folklore of Early Plants"
 permalink: /spring-equinox-foraging-folklore/
 date: 2026-02-24
 author: Wild Witch Herbs
