@@ -112,6 +112,8 @@ Others:
 
 What they shared was **respect**, not celebration.
 
+Some cultures collected herbs and made offerings — practices documented in **[Balkan Spring Herbal Rites](/balkan-spring-herbal-rites/)**.
+
 ---
 
 ## Why the Spring Equinox Was Watched, Not Trusted
