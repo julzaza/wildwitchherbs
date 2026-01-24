@@ -245,7 +245,7 @@ If you want to build your own protection apothecary, consider starting with foun
 
 - learn which **[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)**
 - and how to perform **[Full Moon Rituals With Sacred Herbs ](/full-moon-rituals/)**
-- explore **[Protection Magic: Global Witchcraft](/world-magic-for-protection/)**
+- or dive deeper into **[Protection Magic: Global Witchcraft](/world-magic-for-protection/)**
 
 ---
 
@@ -273,7 +273,7 @@ A: Not always. Many herbs were traditionally hung, carried, planted, or placed w
 A: Most are safe when used traditionally—hung in the home, carried as charms, or burned carefully. Some herbs are toxic if ingested or dangerous when burned improperly and should always be researched before use.
 
 **Q: Are there herbs that should never be burned or ingested?**  
-A: Yes. Certain plants are physically toxic, culturally restricted, or ritually volatile when burned or consumed. These should be avoided or used only through non-fire methods, following traditional practices.
+A: Yes. Certain plants are physically toxic, culturally restricted, or ritually volatile when burned or consumed. These should be avoided or used only through non-fire methods, following traditional practices. See: **[Avoid Burning These Herbs in Ritual](/never-burn-herbs/)** to find out why certain plants should never touch the flame. 
 
 **Q: Can multiple protective herbs be combined?**  
 A: Yes, but traditional folk magic favors a small number of trusted plants rather than complex blends. Combining herbs usually followed regional or ancestral traditions rather than experimentation.
@@ -296,6 +296,6 @@ A: Absolutely. Herbs like mugwort, yarrow, and angelica were often paired with e
 A: Choose a few protective herbs such as juniper, mugwort, rue, or basil. Wrap them in red cloth, tie with black or red thread, and speak your intent. Hang the charm above a door or bury it near a threshold.
 
 **Q: Which protective herbs are traditionally used against curses or the evil eye?**  
-A: Garlic, rue, wormwood, blackthorn, and juniper are commonly cited in European, Slavic, and Balkan folk magic as defenses against curses, envy, and malicious spirits.
+A: Garlic, rue, wormwood, blackthorn, and juniper are commonly cited in European, Slavic, and Balkan folk magic as defenses against curses, envy, and malicious spirits. Check out **[Herbs That Keep the Evil Eye Out](/herbs-that-keep-out-evil-eye/)** for more. 
 
 
