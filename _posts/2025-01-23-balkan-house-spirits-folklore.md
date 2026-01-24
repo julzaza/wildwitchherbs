@@ -15,38 +15,24 @@ tags:
 excerpt: "Across the Balkans, house spirits were feared as much as they were honored. From ancestral serpents to volatile guardians, these beings were not friendly—and never symbolic."
 description: "A folklore-based exploration of Balkan house spirits, ancestral guardians, and domestic beings—from serpent spirits and hearth guardians to volatile entities that punished disrespect."
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Balkan House Spirits: Guardians, Serpents, and Dangerous Guests"
-  "description": "An in-depth examination of Balkan house spirits, serpent guardians, and ancestral domestic beings rooted in regional folklore and household magic."
-  "author":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntityOfPage": "{{ page.url | absolute_url }}"
-  "image": "{{ site.url }}/assets/images/balkan-house-spirits.jpg"
+faq:
+  - question: "What are Balkan house spirits?"
+    answer: "Balkan house spirits are ancestral or territorial beings believed to inhabit homes, hearths, and foundations. They could protect or punish depending on how they were treated."
 
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What are Balkan house spirits?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Balkan house spirits are ancestral or territorial beings believed to inhabit homes, hearths, and foundations, offering protection or punishment depending on how they were treated."
+  - question: "Were house spirits dangerous?"
+    answer: "Yes. Many house spirits were volatile and could cause illness, misfortune, or death if offended. They enforced boundaries rather than granting favors."
 
-    - "@type": "Question"
-      "name": "Were house spirits considered dangerous?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Unlike later romanticized folklore, Balkan house spirits were volatile and could cause illness, misfortune, or death if offended."
+  - question: "Did every house have a spirit?"
+    answer: "Folk belief held that every dwelling had some presence beneath it—often unnamed and invisible. Even without a visible spirit, the house itself was considered inhabited."
 
-    - "@type": "Question"
-      "name": "Did Balkan house spirits take animal forms?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Many appeared as serpents, dogs, or shadowy human figures, especially associated with ancestors or the land beneath the house."
+  - question: "What forms did house spirits take?"
+    answer: "The most common form was the household serpent (Zmija or Domaca Zmija), but spirits could also appear as dogs, shadowy figures, or remain entirely formless while affecting the household."
+
+  - question: "How were house spirits appeased?"
+    answer: "Restraint and discretion were more important than offerings. Common practices included avoiding arguments near the hearth, not sweeping at night, and leaving small, quiet acknowledgments like milk or bread without drawing attention."
+
+  - question: "Are these beliefs still alive today?"
+    answer: "Yes. In rural Balkan areas, the memory of house spirits survives, though usually quietly as customs or warnings rather than active worship."
 
 ---
 
