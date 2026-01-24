@@ -254,34 +254,48 @@ If you want to build your own protection apothecary, consider starting with foun
 ### General Questions
 
 **Q: What are protective herbs in witchcraft?**  
-A: Protective herbs are plants traditionally used to guard against harmful spirits, curses, illness, misfortune, and unwanted influences. They are often paired with rituals, charms, and ancestral knowledge.
+A: Protective herbs are plants traditionally used to guard against harmful spirits, curses, illness, misfortune, and unwanted influences. Their use comes from folklore, ancestral practice, and regional herbal traditions rather than modern symbolism.
 
 **Q: How do protective herbs work?**  
-A: Many herbs have inherent protective qualities, which can be strengthened by intention, spoken charms, or ritual use. They often protect physically, emotionally, and spiritually.
+A: In folk belief, herbs carry inherent protective qualities. Their power is often strengthened through intention, spoken charms, timing, or ritual placement, but many were believed to work simply by being present.
 
-**Q: Which herbs are the strongest for protection?**  
-A: Garlic, rue, mugwort, juniper, and wormwood are the most consistently cited worldwide for their protective properties.
-
-**Q: Are protective herbs safe to use today?**  
-A: Yes, when used traditionally—hung, carried, or burned in small amounts. Some herbs, however, should never be ingested without proper knowledge.
+**Q: Which herbs are considered the strongest for protection?**  
+A: Garlic, rue, mugwort, juniper, wormwood, angelica, basil, and blackthorn are among the most consistently cited protective herbs across European, Balkan, Mediterranean, and global folk traditions.
 
 **Q: Do protective herbs need rituals to work?**  
-A: Rituals and charms can amplify a herb’s power, but many protective plants are effective on their own in simple uses like hanging, tying, or carrying.
-
+A: Not always. Many herbs were traditionally hung, carried, planted, or placed without formal ritual. Rituals, prayers, or charms were used to intensify their effect, not create it from nothing.
 
 ---
 
-### Combining Herbs and Emotional Protection
+### Safety, Use, and Combining Herbs
 
-**Q: Can multiple protective herbs be combined?**  
-A: Yes, but traditional folk magic favors a few trusted plants used with intention rather than complex blends. Follow ancestral or regional practices for best results.
-
-**Q: Do protective herbs only protect physically?**  
-A: No. Many herbs also guard emotional and spiritual well-being, soothing fear, shock, grief, and psychic vulnerability.
-
-**Q: Can protective herbs help with emotional or spiritual protection?**  
-A: Absolutely. Herbs like mugwort, yarrow, and angelica were traditionally paired with emotional healing practices for holistic protection.
+**Q: Are protective herbs safe to use today?**  
+A: Most are safe when used traditionally—hung in the home, carried as charms, or burned carefully. Some herbs are toxic if ingested or dangerous when burned improperly and should always be researched before use.
 
 **Q: Are there herbs that should never be burned or ingested?**  
-A: Yes. Some herbs are toxic if ingested or dangerous if burned improperly. Always research and respect traditional usage.
+A: Yes. Certain plants are physically toxic, culturally restricted, or ritually volatile when burned or consumed. These should be avoided or used only through non-fire methods, following traditional practices.
+
+**Q: Can multiple protective herbs be combined?**  
+A: Yes, but traditional folk magic favors a small number of trusted plants rather than complex blends. Combining herbs usually followed regional or ancestral traditions rather than experimentation.
+
+---
+
+### Emotional and Spiritual Protection
+
+**Q: Do protective herbs guard more than just the physical body?**  
+A: Yes. In traditional belief, protection included emotional and spiritual states. Herbs were used to guard against fear, grief, shock, spiritual vulnerability, and psychic disturbance.
+
+**Q: Can protective herbs help with emotional or spiritual protection?**  
+A: Absolutely. Herbs like mugwort, yarrow, and angelica were often paired with emotional healing, dream protection, and spiritual boundary work.
+
+---
+
+### Practical Application
+
+**Q: How do I make a simple protective charm with herbs?**  
+A: Choose a few protective herbs such as juniper, mugwort, rue, or basil. Wrap them in red cloth, tie with black or red thread, and speak your intent. Hang the charm above a door or bury it near a threshold.
+
+**Q: Which protective herbs are traditionally used against curses or the evil eye?**  
+A: Garlic, rue, wormwood, blackthorn, and juniper are commonly cited in European, Slavic, and Balkan folk magic as defenses against curses, envy, and malicious spirits.
+
 
