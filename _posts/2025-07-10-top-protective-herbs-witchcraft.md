@@ -12,34 +12,25 @@ header:
 
 faq:
   - question: "What are protective herbs in witchcraft?"
-    answer: "Protective herbs are plants traditionally used to guard against harmful spirits, curses, illness, misfortune, and unwanted influences. Their use is rooted in folklore, ancestral practice, and regional herbal knowledge."
+    answer: "Protective herbs are plants traditionally used to guard against harmful spirits, curses, illness, misfortune, and unwanted influences. Their use comes from folklore, ancestral practice, and long-standing herbal traditions."
 
-  - question: "How do protective herbs work?"
-    answer: "Protective herbs have inherent qualities believed to shield physically, emotionally, and spiritually. Their effect can be amplified with rituals, charms, spoken intentions, or proper placement in the home."
+  - question: "Which herbs are considered the strongest for protection?"
+    answer: "Garlic, rue, mugwort, juniper, wormwood, angelica, basil, and blackthorn are among the most widely recognized protective herbs across European, Balkan, Mediterranean, and folk magic traditions."
 
-  - question: "Which herbs are strongest for protection?"
-    answer: "Garlic, rue, mugwort, juniper, wormwood, angelica, basil, and blackthorn are widely recognized across cultures for their protective properties."
-
-  - question: "Are protective herbs safe to use today?"
-    answer: "Yes, when used traditionally—carried, hung, or burned in small amounts. Some herbs should never be ingested or burned improperly and require caution."
+  - question: "How are protective herbs traditionally used?"
+    answer: "Protective herbs are commonly burned in small amounts, hung over doorways, carried as charms, planted near homes, or placed under beds and thresholds depending on tradition."
 
   - question: "Do protective herbs need rituals to work?"
-    answer: "Rituals, prayers, and charms can enhance their power, but many protective herbs have inherent protective qualities even when used simply."
+    answer: "Not always. Many herbs were believed to offer protection simply by being present. Rituals, spoken charms, or prayers were used to strengthen their effect rather than create it."
 
   - question: "Can multiple protective herbs be combined?"
-    answer: "Yes, but traditional folk magic favors a few trusted plants used with intention rather than complex blends. Cultural or regional context should guide combinations."
+    answer: "Yes. Traditional folk magic favors small combinations of trusted plants rather than complex blends. Herbs were typically combined based on regional or ancestral practice."
 
-  - question: "Do protective herbs protect more than just the physical body?"
-    answer: "Yes. Many herbs guard emotional and spiritual well-being, soothe grief, fear, or psychic vulnerability, and are often paired with rituals or charms for holistic protection."
+  - question: "Are protective herbs safe to use today?"
+    answer: "Most are safe when used externally or symbolically. Some herbs are toxic if ingested or dangerous when burned improperly and should always be researched before use."
 
-  - question: "How do I make a protective charm with herbs?"
-    answer: "Gather protective herbs like juniper, mugwort, rue, and basil. Wrap them in red cloth, tie with black thread, whisper your intent, and hang over doors or bury near thresholds."
-
-  - question: "Which protective herbs guard against curses?"
-    answer: "Garlic, rue, wormwood, blackthorn, and juniper are traditional herbs used to defend against curses and malicious spirits across European, Slavic, and Balkan folk magic."
-
-  - question: "Are there herbs that should never be burned or ingested?"
-    answer: "Yes. Some herbs, like henbane, belladonna, or oleander, are toxic when burned or ingested. Always research traditional uses and safety precautions."
+  - question: "Which herbs are traditionally used against curses or the evil eye?"
+    answer: "Garlic, rue, wormwood, blackthorn, and juniper are commonly cited in European, Slavic, and Balkan folk magic as defenses against curses, envy, and malicious intent."
 
 ---
 
