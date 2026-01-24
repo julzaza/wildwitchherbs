@@ -25,6 +25,31 @@ related: true
 layout: single
 permalink: /world-magic-for-protection/
 
+faq:
+  - question: "What are protection herbs in witchcraft?"
+    answer: "Protection herbs in witchcraft are plants traditionally used to ward off negative energy, evil spirits, illness, or misfortune. Across cultures, they are used in rituals, amulets, smoke cleansing, baths, and household charms for spiritual defense."
+
+  - question: "Which herbs are most commonly used for protection across cultures?"
+    answer: "Herbs that appear repeatedly across global traditions include rue, garlic, wormwood, juniper, yarrow, sage, angelica, and anamu. These plants are used for warding, cleansing, and spiritual protection in European, African, Middle Eastern, and folk magic systems."
+
+  - question: "How did ancient cultures use herbs for spiritual protection?"
+    answer: "Ancient cultures used protective herbs by hanging them over doors, burning them as incense, sewing them into charms, bathing in herbal infusions, or burying them near homes. These practices were meant to guard against spirits, curses, disease, and the evil eye."
+
+  - question: "Are protective herbs used differently in various witchcraft traditions?"
+    answer: "Yes. While many herbs overlap, their preparation and symbolism differ by tradition. For example, juniper smoke is common in Balkan and Nordic practices, hyssop is central in African Diaspora traditions, and rowan is strongly associated with Celtic protection magic."
+
+  - question: "What is the evil eye and how do herbs protect against it?"
+    answer: "The evil eye is a belief found in many cultures describing harm caused by envy or ill intent. Herbs such as rue, garlic, basil, and rosemary are traditionally used to deflect or absorb this influence through charms, washes, or household protection."
+
+  - question: "Can protective herbs be used for home protection?"
+    answer: "Yes. Many traditions use herbs specifically to protect homes by placing them above doors, burning them in hearths, washing floors with herbal infusions, or keeping protective bundles inside living spaces."
+
+  - question: "Are protection herbs associated with ancestor or spirit work?"
+    answer: "In many traditions, protective herbs are closely linked to ancestor veneration and spirit boundaries. Plants like wormwood, juniper, frankincense, and mugwort are used to protect practitioners while working with spirits or honoring the dead."
+
+  - question: "Are protection herbs symbolic or believed to have real effects?"
+    answer: "Historically, protective herbs were believed to work through a combination of spiritual belief, ritual practice, and observable effects such as cleansing smoke, antimicrobial properties, or psychological reassurance. Their power is rooted in long-standing cultural use."
+
 ---
 
 ## The Need for Protection
