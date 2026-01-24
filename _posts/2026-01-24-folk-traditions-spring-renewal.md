@@ -212,7 +212,7 @@ Spring renewal begins with care, not demand.
 ## Read Next
 
 - **[Spring Equinox Across Cultures: How the World Marked the Return of Balance](/spring-equinox-global-folklore/)**  
-- **[Spring Equinox Rituals: Ancient Balance and Living Folk Traditions](/spring-equinox-rituals-folklore/)**  
+- **[Spring Equinox Rituals: Ancient Traditions of Renewal](/spring-equinox-rituals-folklore/)**  
 - **[Spring Equinox Foraging: The First Wild Plants and the Folklore of Early Harvests](/spring-equinox-foraging-folklore/)**
 
 ---
