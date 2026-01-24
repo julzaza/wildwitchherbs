@@ -251,3 +251,38 @@ It was about **not losing what you had**.
 And that wisdom still holds.
 
 ---
+
+## FAQ: Spring Equinox Rituals
+
+### What is the Spring Equinox, really?
+It’s the moment when day and night are roughly equal. Traditionally, it was seen as a dangerous balance point, not just a seasonal change, requiring care, ritual, and respect.
+
+### Were people actually celebrating during the equinox?
+Not always. Across cultures, it was often a time for protective actions, offerings to land and ancestors, and rituals to ensure crops, animals, and households stayed safe.
+
+### What kinds of rituals were performed?
+Common rites included:  
+- cleansing homes, barns, and tools  
+- walking boundaries or blessing fields  
+- offerings of food, drink, or small tokens  
+- ancestor veneration and silence  
+
+Joy and abundance came **after** the land and spirits were appeased.
+
+### Did these rituals happen everywhere?
+Yes, though they looked different in each region. From Nowruz in Persia to Shunbun no Hi in Japan, Mesoamerican architectural alignments, and Balkan boundary offerings, the core was the same: protection, renewal, and negotiation with the land.
+
+### How can I honor the Spring Equinox today?
+You don’t need elaborate festivals. Simple actions work:  
+- clean and prepare your space  
+- make a small offering to the land or ancestors  
+- set an intention for balance  
+- observe quietly and respectfully  
+
+### Can modern celebrations capture the old meaning?
+Modern rituals often focus on joy, manifestation, or aesthetic celebration. To honor the old traditions, prioritize **protection, observation, and respect for the land** before celebration.
+
+### Were there traditional rules for gathering plants at the Spring Equinox??
+Yes. Across cultures, early spring plants were considered powerful and unstable. Foragers followed strict timing, offering, and preparation rules to ensure safety and spiritual respect. Learn more in **[Spring Equinox Foraging: Folklore of Early Plants](/spring-equinox-foraging-folklore/)**.
+
+
