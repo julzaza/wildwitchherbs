@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Spring Equinox Rituals: Folk Rites of Ancient Balance"
+title: "Spring Equinox Rituals: Folk Rites of Ancient Balancen"
 permalink: /spring-equinox-rituals-folklore/
 date: 2026-02-20
 author: Wild Witch Herbs
