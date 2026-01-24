@@ -3,7 +3,7 @@ layout: single
 title: "Top 11 Protective Herbs in Witchcraft"
 permalink: /top-protective-herbs-witchcraft/
 description: "Discover the top 11 protective herbs in witchcraft, their folklore, magical uses, and safe practices. Learn how garlic, rue, mugwort, and more have guarded witches worldwide."
-excerpt: "Explore the top 11 protective herbs in witchcraft—garlic, rue, mugwort, and more. Discover their folklore, magical uses, and the powerful protection spells used by witches across cultures."
+excerpt: "Explore the top 11 protective herbs in witchcraft—garlic, rue, mugwort, and more—through folklore, traditional uses, and ancestral protection practices across cultures."
 categories: [herbal-magic, witchcraft-ritual]
 tags: [protection, herbs, witchcraft, folklore, rituals, spellcraft]
 header:
