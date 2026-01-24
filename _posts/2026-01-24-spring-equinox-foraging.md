@@ -76,7 +76,7 @@ schema:
 The Spring Equinox did not announce abundance.  
 It announced **permission**.
 
-Across cultures, this moment marked the fragile return of balance — a time already explored in depth in **[how the Spring Equinox was understood across cultures worldwide](/spring-equinox-global-folklore/)**. But balance did not mean safety.
+Across cultures, this moment marked the fragile return of balance — a time already explored in depth in **[How Spring Equinox Was Understood Across Cultures](/spring-equinox-global-folklore/)**. But balance did not mean safety.
 
 The first wild plants of spring were not welcomed as food.  
 They were approached as **threshold beings**: half-winter, half-alive, carrying medicine, hunger, and risk at once.
@@ -97,7 +97,7 @@ Despite geographic distance, the same beliefs surface again and again:
 Spring Equinox foraging was rarely celebratory.  
 It was a cautious response to necessity — survival tempered by fear of imbalance.
 
-This attitude mirrors the broader ritual logic of the season, where humans did not seek to *manifest* but to **negotiate**, as seen in traditional **[Spring Equinox ritual practices rooted in balance rather than abundance](/spring-equinox-rituals-folklore/)**.
+This attitude mirrors the broader ritual logic of the season, where humans did not seek to *manifest* but to **negotiate**, as seen in traditional **[Spring Equinox Ritual Practices Rooted in Balance](/spring-equinox-rituals-folklore/)** rather than abundance.
 
 ---
 
@@ -210,7 +210,7 @@ It is a conversation.
 - **[Spring Equinox Rituals: Ancient Balance and Living Folk Traditions](/spring-equinox-rituals-folklore/)**  
 - **[Spring Equinox Across Cultures: How the World Marked the Return of Balance](/spring-equinox-global-folklore/)**
 - **[Balkan Spring Herbs: Seasonal Power, Fertility & Protection](/balkan-spring-herbal-rites/)**
-- 
+
 ---
 
 ## FAQ: Practical & Cultural Questions
