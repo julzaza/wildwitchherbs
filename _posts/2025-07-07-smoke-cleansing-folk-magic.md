@@ -28,28 +28,8 @@ keywords:
 
 permalink: /smoke-cleansing-folk-magic/
 date: 2025-07-07
-schema: true
-schema_type: "Article"
 
-head_scripts:
-  - type: "application/ld+json"
-    script: >
-      {
-        "@context": "https://schema.org",
-        "@type": "Article",
-        "headline": "How to Use Smoke Cleansing in Folk Magic",
-        "description": "A global guide to performing smoke cleansing rituals in folk magic, including safe herbs and traditional methods from around the world.",
-        "author": { "@type": "Person", "name": "Wild Witchy Herbs" },
-        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://wildwitchyherbs.com/smoke-cleansing-folk-magic/" },
-        "articleSection": "Witchcraft & Ritual",
-        "keywords": ["smoke cleansing","ritual smoke herbs","global witchcraft","banishing rituals","folk magic practices"],
-        "publisher": {
-          "@type": "Organization",
-          "name": "Wild Witchy Herbs",
-          "url": "https://wildwitchyherbs.com"
-        }
-      }
-faq_for_ai:
+faq:
   - question: "What is smoke cleansing in folk magic?"
     answer: "Smoke cleansing is a ritual practice using burning herbs or resins to cleanse, protect, banish, or summon spiritual forces across many folk traditions."
   - question: "Which herbs are traditionally used for smoke cleansing?"
