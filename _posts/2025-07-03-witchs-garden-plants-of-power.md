@@ -15,17 +15,37 @@ tags:
   - herbal witchcraft
   - old world herbs
 permalink: /witch-garden/
-faq_schema: |
-  type: FAQPage
-  mainEntity:
-    - question: "What makes a plant suitable for a witch’s garden?"
-      answer: "In traditional folklore, witch-garden plants were chosen for their medicinal use, ritual role, and long-standing presence in local culture rather than aesthetics or symbolism alone."
-    - question: "Do witch gardens have to follow specific traditions?"
-      answer: "Historically, witch gardens reflected local ecology and culture. What was sacred in one region might be ignored in another, making place-based knowledge essential."
-    - question: "Is Artemisia important in traditional witch gardens?"
-      answer: "Yes. Multiple Artemisia species appear across European and Asian folk traditions as protective, cleansing, and liminal plants tied to healing, dreaming, and boundary work."
-    - question: "Can you grow a witch’s garden without land?"
-      answer: "Yes. Traditional practice includes container growing, window herbs, and portable plant magic for those without permanent access to land."
+faq:
+  - question: "What is a traditional witch’s garden?"
+    answer: "A traditional witch’s garden is a collection of plants grown for medicinal, ritual, protective, and spiritual purposes, based on local folk knowledge rather than aesthetics or modern trends."
+
+  - question: "Do I need rare or dangerous plants to start a witch’s garden?"
+    answer: "No. Historically, witch gardens were made of common, resilient plants. Power came from relationship, care, and knowledge of the plant, not rarity or danger."
+
+  - question: "Is ritual planting necessary?"
+    answer: "Historically, planting often involved offerings, lunar timing, or spoken intention, though practices varied across cultures. Ritual enhances the connection but isn’t mandatory."
+
+  - question: "Can I grow plants from other regions without cultural appropriation?"
+    answer: "Intent, education, and respect matter. Learn the plant’s history, honor its traditional use, and acknowledge the culture it comes from to practice ethically."
+
+  - question: "Why are so many witch plants bitter or medicinal?"
+    answer: "Bitter and medicinal herbs were chosen for survival, protection, and spiritual strength. Their potency supported healing, warding, and clarity in both body and mind."
+
+  - question: "Is a witch’s garden about magic or medicine?"
+    answer: "Historically, there was no separation. Healing, protection, and ritual practice were integrated — magic was medicine, and medicine was magic."
+
+  - question: "Can I start small?"
+    answer: "Yes. One pot, one plant, one relationship at a time mirrors traditional practice and builds a personal, powerful connection with the garden."
+
+  - question: "Can a witch’s garden be grown indoors or without land?"
+    answer: "Absolutely. Many traditional herbs were grown in pots, courtyards, windowsills, or portable gardens, allowing practice even without permanent land."
+
+  - question: "Which plants are essential for a traditional witch’s garden?"
+    answer: "Plants with long-standing ritual, medicinal, and protective uses like Artemisia species, Mugwort, Rue, Yarrow, Tulsi, Lemongrass, Mandrake, Neem, and Dittany of Crete are core examples."
+
+  - question: "How do I choose plants for my region?"
+    answer: "Observe what grows naturally near you. Folk cultures often relied on wild or volunteer plants that thrived locally — these plants were considered powerful because they were persistent and accessible."
+
 ---
 
 Some herbs were grown behind monasteries. Some in courtyards with bones. Some tucked behind wooden huts where midwives hid from the bishop’s men. **A witch’s garden is a living piece of culture, resistance, medicine, and magic.**
