@@ -42,3 +42,10 @@
   }
 }
 </script>
+
+{% if page.faq_schema %}
+<script type="application/ld+json">
+{{ page.faq_schema | jsonify }}
+</script>
+{% endif %}
+
