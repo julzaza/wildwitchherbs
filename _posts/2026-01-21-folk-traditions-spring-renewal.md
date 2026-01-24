@@ -2,7 +2,7 @@
 layout: single
 title: "Folk Traditions for Spring Renewal and Protection"
 permalink: /spring-renewal-protection-folk-traditions/
-date: 2026-02-26
+date: 2026-02-21
 author: Wild Witch Herbs
 categories:
   - folklore-ancestral
