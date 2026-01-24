@@ -7,39 +7,31 @@ permalink: /witchy-herbalism-101/
 excerpt: "Discover the core herbs every modern witch should know. From wormwood and mugwort to sage and calendula, learn real-world uses rooted in folklore, protection, and ritual magic."
 description: "A practical guide to witchy herbalism: real plants, historical uses, protective magic, and ritual work. Learn the herbs that witches actually used and how to start your practice safely."
 author: Wild Witch Herbs
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Witchy Herbalism 101: Real Plants, Real Magic, No B.S."
-  "description": "A folklore-based guide to witchy herbalism, historical plant magic, and ritual use of protective and healing herbs."
-  "author":
-    "@type": "Person"
-    "name": "Wild Witch Herbs"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntityOfPage": "{{ page.url | absolute_url }}"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Which herbs should a beginner witch start with?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Begin with herbs like Mugwort, Wormwood, Sage, Chamomile, Lavender, Yarrow, Rosemary, and Calendula to explore protection, divination, and ritual magic safely."
-    - "@type": "Question"
-      "name": "Are these herbs safe to use?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "This guide is educational and folkloric. Some herbs, like Wormwood and Mugwort, can be potent or toxic, so do not ingest or experiment without expert guidance."
-    - "@type": "Question"
-      "name": "How do I start practicing witchy herbalism?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Learn one herb at a time, observe its effects, try safe ritual uses like teas, incense, or protective charms, and journal your experiences."
-    - "@type": "Question"
-      "name": "Where is the information sourced from?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "All herbs and uses are drawn from historical folk practices, European and Balkan witchcraft traditions, ethnobotany, and ritual records rather than modern speculation."
+faq:
+  - question: "What is witchy herbalism and how do I start?"
+    answer: "Witchy herbalism is the practice of working with plants for protection, healing, divination, and ritual magic. Beginners should start with one herb at a time, observe its effects, and use safe applications like teas, incense, charms, or simple rituals while journaling experiences."
+
+  - question: "Which herbs are essential for beginner witches?"
+    answer: "Core herbs include Wormwood, Mugwort, Sage, Chamomile, Lavender, Yarrow, Rosemary, Calendula, and Thyme. These herbs have historical uses in protection, dreamwork, cleansing, love, healing, and solar magic."
+
+  - question: "Are these herbs safe to use?"
+    answer: "Many herbs are potent or toxic. Use caution, follow historical guidance, and avoid ingesting or experimenting with unfamiliar plants without proper knowledge. Observing their effects through ritual or symbolic use is safest for beginners."
+
+  - question: "Can I grow witchy herbs at home?"
+    answer: "Yes. Most herbs can be grown in pots, jars, gardens, or small urban spaces. Some, like Belladonna or Wormwood, require caution or should not be ingested. Starting small and observing growth is recommended."
+
+  - question: "How do I choose which herb to work with first?"
+    answer: "Pick one herb that resonates with your magical or practical goals. Learn its smell, touch, historical uses, and folklore before moving to another. Building a relationship with the plant is more important than mastering multiple herbs at once."
+
+  - question: "Are witchy herbs tied to specific regions?"
+    answer: "Yes. Many herbs have roots in European, Balkan, and Mediterranean folk traditions. Some, like Mugwort and Sage, appear worldwide, but their magical and medicinal roles can vary by region."
+
+  - question: "Where can I learn more about using herbs in rituals?"
+    answer: "Explore linked guides on smoke cleansing, moon water, full moon rituals, and starter herbal kits. Observing traditional practice and recorded ethnobotany helps you safely incorporate herbs into ritual work."
+
+  - question: "Do these herbs really have magical effects?"
+    answer: "Folklore and historical accounts describe herbs influencing dreams, protection, healing, and divination. Effects may be subtle or symbolic, but the ritual use, intention, and connection to ancestral practices are key."
+        
 ---
 
 Witchy herbalism was never about pretty jars or vague energy.  
