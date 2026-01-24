@@ -27,6 +27,48 @@ faqs:
 schema:
   "@context": "https://schema.org"
   "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Did people traditionally forage at the Spring Equinox?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes, but cautiously. Many cultures considered early spring plants powerful, unstable, or spiritually charged."
+    - "@type": "Question"
+      "name": "What kinds of plants were gathered first?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Bitter greens, cleansing roots, protective herbs, and famine foods were most common."
+    - "@type": "Question"
+      "name": "Was Spring Equinox foraging spiritual or practical?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "It was both. Gathering plants required ritual awareness because land and spirits were believed to be newly awakened."
+    - "@type": "Question"
+      "name": "Are modern foraging practices historically accurate?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Many modern practices ignore traditional taboos, timing rules, and offering customs that once governed plant gathering."
+    - "@type": "Question"
+      "name": "Is the Spring Equinox a good time to start foraging?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Traditionally it marked the beginning of permission, not abundance."
+    - "@type": "Question"
+      "name": "Why are bitter plants common in early spring folklore?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Bitterness was believed to cleanse winter stagnation and reawaken digestion safely."
+    - "@type": "Question"
+      "name": "Were early spring plants eaten raw?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Rarely. Most cultures cooked, dried, or fermented early greens."
+    - "@type": "Question"
+      "name": "Did people traditionally make offerings before foraging?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Very often. Offerings acknowledged that the land was alive and newly awakened."
+
 ---
 
 ## The Dangerous Gift of Early Green
