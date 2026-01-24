@@ -26,27 +26,6 @@ keywords:
 
 permalink: /never-burn-herbs/
 date: 2025-07-07
-schema: true
-schema_type: "Article"
-
-head_scripts:
-  - type: "application/ld+json"
-    script: >
-      {
-        "@context": "https://schema.org",
-        "@type": "Article",
-        "headline": "Herbs You Should Never Burn in Ritual — And What to Do Instead",
-        "description": "A global witch’s guide to herbs that should never be burned and culturally safe alternatives.",
-        "author": { "@type": "Person", "name": "Wild Witchy Herbs" },
-        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://wildwitchyherbs.com/never-burn-herbs/" },
-        "articleSection": "Witchcraft & Ritual",
-        "keywords": ["ritual safety","herbs that are toxic when burned","smoke cleansing","global witchcraft","sacred herbs"],
-        "publisher": {
-          "@type": "Organization",
-          "name": "Wild Witchy Herbs",
-          "url": "https://wildwitchyherbs.com"
-        }
-      }
 
 faq:
   - question: "Why are some herbs dangerous to burn?"
