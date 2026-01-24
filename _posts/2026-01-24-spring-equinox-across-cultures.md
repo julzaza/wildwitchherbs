@@ -124,9 +124,11 @@ For a deeper look at *how* people ritually responded — through offerings, clea
 
 - **[Spring Equinox Rituals: Ancient Balance and Living Folk Traditions](/spring-equinox-rituals-folklore/)** — a folklore-rich examination of equinox rites across Europe, the Balkans, the Middle East, Africa, Asia, and the Americas.
 
+- **[Spring Equinox Foraging: The First Wild Plants and Early Harvests](/spring-equinox-foraging-folklore/)** - see how first wild plants were approached as threshold beings in folklore.
+
 ---
 
-## Frequently Asked Questions About the Spring Equinox in Folklore
+## Frequently Asked Questions: Spring Equinox in Folklore
 
 ### Was the Spring Equinox a happy festival historically?
 Often, no. Many cultures treated it cautiously. Celebration was delayed until crops emerged, animals survived birth season, or weather stabilized.
