@@ -62,7 +62,7 @@ In folk belief, spring was not gentle — it was **ritually unstable**, a season
 
 It was **open**.
 
-As explored in **[How Cultures Worldwide Understood the Spring Equinox](/spring-equinox-global-folklore/)** as a moment of unstable balance, this seasonal threshold weakened boundaries — between cold and warmth, life and decay, human and spirit.
+As discussed in **[How Cultures Worldwide Understood the Spring Equinox](/spring-equinox-global-folklore/)**, the equinox represented a moment of unstable balance, weakening boundaries between cold and warmth, life and decay, and the human and spirit worlds.
 
 Renewal did not arrive freely.  
 It had to be **protected**.
