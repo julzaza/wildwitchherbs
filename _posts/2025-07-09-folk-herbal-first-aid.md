@@ -149,7 +149,7 @@ Keep your Folk First Aid Kit small, sacred, and real.
 For a curated introduction to the herbs every witch should know, see **[The Witch’s Herbal Starter Kit: 10 Essential Plants](/herbal-starter-kit)**.
 
 Want to grow your own healing herbs? 
-Check **[How to Start a Real Witch’s Garden](/witch-garden)** for planting guidance and magical alignment.
+Check out **[How to Start a Real Witch’s Garden](/witch-garden)** for planting guidance and magical alignment.
 
 ---
 
