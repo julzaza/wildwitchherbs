@@ -118,7 +118,7 @@ Folklore warned that plants gathered before the soil “settled” could:
 - disturb household luck  
 - sicken livestock  
 
-In parts of the Balkans, women gathered early greens at dawn, often in silence, returning home without greeting anyone — a sign that the act crossed seasonal boundaries and should not be socially interrupted.
+In parts of the Balkans, women gathered early greens at dawn, often in silence, returning home without greeting anyone — a sign that the act crossed seasonal boundaries and should not be socially interrupted, as documented in **[Balkan Spring Herbal Rites](/balkan-spring-herbal-rites/)**.
 
 ---
 
@@ -209,7 +209,8 @@ It is a conversation.
 
 - **[Spring Equinox Rituals: Ancient Balance and Living Folk Traditions](/spring-equinox-rituals-folklore/)**  
 - **[Spring Equinox Across Cultures: How the World Marked the Return of Balance](/spring-equinox-global-folklore/)**
-
+- **[Balkan Spring Herbs: Seasonal Power, Fertility & Protection](/balkan-spring-herbal-rites/)**
+- 
 ---
 
 ## FAQ: Practical & Cultural Questions
