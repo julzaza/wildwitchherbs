@@ -2,7 +2,7 @@
 layout: single
 title: "Spring Equinox Across Cultures: Folklore of Balance"
 permalink: /spring-equinox-global-folklore/
-date: 2026-02-22
+date: 2026-01-20
 author: Wild Witch Herbs
 categories:
   - folklore-ancestral
