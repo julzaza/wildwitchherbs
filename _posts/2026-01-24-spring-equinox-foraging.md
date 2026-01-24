@@ -97,7 +97,7 @@ Despite geographic distance, the same beliefs surface again and again:
 Spring Equinox foraging was rarely celebratory.  
 It was a cautious response to necessity — survival tempered by fear of imbalance.
 
-This attitude mirrors the broader ritual logic of the season, where humans did not seek to *manifest* but to **negotiate**, as seen in traditional **[Spring Equinox Ritual Practices Rooted in Balance](/spring-equinox-rituals-folklore/)** rather than abundance.
+This attitude mirrors the broader ritual logic of the season, where humans did not seek to *manifest* but to **negotiate**, as seen in traditional **[Spring Equinox Ritual Practices](/spring-equinox-rituals-folklore/)**.
 
 ---
 
