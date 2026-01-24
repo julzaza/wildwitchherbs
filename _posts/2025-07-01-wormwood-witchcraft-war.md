@@ -14,15 +14,31 @@ tags:
   - death rites
   - european witchcraft
   - bitter herbs
-faq_schema: |
-  type: FAQPage
-  mainEntity:
-    - question: "Why is wormwood associated with war and death?"
-      answer: "In European folk tradition, wormwood thrived on disturbed land such as battlefields, roads, and graves. Its bitterness became symbolic of grief, endurance, and truths revealed through suffering."
-    - question: "Did soldiers actually use wormwood?"
-      answer: "Yes. Folk medicine records wormwood as a digestive aid, parasite repellent, preservative, and protective charm carried by soldiers and travelers."
-    - question: "Are all Artemisia plants used the same way?"
-      answer: "No. Artemisia absinthium, Artemisia vulgaris, and Artemisia annua share ancestry but serve different roles in folklore, ritual, and bodily use."
+faq:
+  - question: "Why is wormwood associated with war and death?"
+    answer: "In European folk tradition, wormwood (*Artemisia absinthium*) grew on disturbed land such as battlefields, roads, and graves. Its extreme bitterness became a symbol of grief, endurance, and the harsh truths revealed through suffering."
+
+  - question: "Did soldiers really use wormwood?"
+    answer: "Yes. Folk medicine records indicate that soldiers and travelers carried wormwood for digestive support, parasite prevention, alcohol preservation, and protection from insects, integrating it into both practical and symbolic wartime routines."
+
+  - question: "Is wormwood the same as mugwort or sweet wormwood?"
+    answer: "No. *Artemisia absinthium* (wormwood) is bitter and tied to war, endurance, and death rites. *Artemisia vulgaris* (mugwort) is gentler, linked to dreams, intuition, and protection. *Artemisia annua* (sweet wormwood) focuses on purification, fever relief, and clearing stagnant energy, especially after illness or conflict."
+
+  - question: "How was wormwood used in witchcraft and ritual?"
+    answer: "Wormwood was used for protective charms, grave marking, clearing land after violence, anti-curse baths, dreamwork, and enforcing boundaries between the living and the dead. Its bitterness symbolized truth and endurance in ritual practice."
+
+  - question: "Can wormwood help with dreams or visions?"
+    answer: "Yes. In European folk practice, wormwood—often alongside mugwort—was used in prophetic or diagnostic dreaming. Placed under pillows, near beds, or burned as smoke, it helped reveal ancestral messages, fate, and insights into spiritual or physical disturbances."
+
+  - question: "Is Artemisia annua part of traditional European wormwood practices?"
+    answer: "Yes, but differently. Sweet wormwood (*Artemisia annua*) was traditionally used for purification, clearing fever, and removing corruption. Its role is more about cleansing after disturbance rather than direct engagement with war, death, or dream divination."
+
+  - question: "Is wormwood safe to use today?"
+    answer: "Wormwood is potent and should be handled with caution. Folk traditions emphasized indirect, small, and careful use. Modern applications should respect historical warnings, avoiding ingestion or long-term exposure without expert guidance."
+
+  - question: "Why did folk cultures consider wormwood a boundary herb?"
+    answer: "Because it grew where land was disturbed, wormwood became a marker between life and death, order and chaos. It was used to enforce spiritual and physical boundaries, protect graves, and maintain liminal spaces, making it central to Old World magical and ritual systems."
+
 ---
 
 Mentioned in the Bible, feared by medieval priests, and planted on Balkan graves long before borders or countries existed, *Artemisia* carries an ancient power. Bitterness isn’t just its flavor — it’s its weapon.
