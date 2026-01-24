@@ -28,20 +28,35 @@ permalink: /never-burn-herbs/
 date: 2025-07-07
 
 faq:
-  - question: "Why are some herbs dangerous to burn?"
-    answer: "Some herbs release toxic alkaloids, neuroactive compounds, or carcinogenic smoke when burned. Others are restricted due to cultural, ceremonial, or spiritual boundaries rather than physical danger."
+  - question: "What herbs are dangerous to burn?"
+    answer: "Herbs like henbane, belladonna, oleander, and rue are dangerous to burn due to toxic smoke, neuroactive compounds, or lung irritation. Some sacred herbs are also restricted for cultural or ritual reasons."
 
-  - question: "Is it unsafe to burn herbs indoors?"
-    answer: "Yes. Even traditionally burned herbs can become dangerous indoors due to poor ventilation, concentration of smoke, or modern contaminants such as chemical binders and synthetic fragrances."
+  - question: "Why are some herbs toxic when burned?"
+    answer: "Burning certain plants changes their chemistry, releasing toxic alkaloids, carcinogens, or neuroactive compounds that can cause serious health issues."
 
-  - question: "Are sacred herbs always safe to burn?"
-    answer: "No. Sacred does not mean safe. Many sacred herbs were traditionally hung, steeped, buried, or carried — not burned."
+  - question: "Is it safe to burn herbs indoors?"
+    answer: "No. Even safe herbs can become harmful indoors because smoke can accumulate, irritate the lungs, or interact with modern contaminants in incense or essential oils."
 
-  - question: "What should I use instead of burning toxic herbs?"
-    answer: "Alternatives include safe resins like frankincense or myrrh, herb bundles such as juniper or rosemary, steam infusions, oils for anointing, or non-fire-based ritual methods."
+  - question: "Can sacred herbs be burned safely?"
+    answer: "Not always. Some sacred herbs were traditionally hung, steeped, buried, or carried rather than burned, and others have cultural restrictions that make burning them inappropriate."
 
-  - question: "Is burning white sage always inappropriate?"
-    answer: "White sage is culturally sacred to specific Indigenous traditions. Its use outside those contexts should be approached with caution, ethical sourcing, and cultural awareness."
+  - question: "What are safe alternatives to burning toxic herbs?"
+    answer: "Use resins like frankincense or myrrh, herb bundles such as juniper or rosemary, steam infusions, or anointing oils instead of fire-based methods."
+
+  - question: "Why shouldn’t I burn white sage outside Indigenous traditions?"
+    answer: "White sage is sacred to specific Native American tribes. Burning it without proper cultural context may be disrespectful and contributes to overharvesting."
+
+  - question: "What should I do if I accidentally burn a forbidden herb?"
+    answer: "Open windows to ventilate, ground yourself, and avoid repeating the practice. One accidental burn is not spiritually or physically catastrophic, but repeated use can be dangerous."
+
+  - question: "Can essential oils be safely burned on charcoal?"
+    answer: "No. Pouring essential oils directly on charcoal can ignite violently or release harmful chemicals. Use steam infusion or anoint candles instead."
+
+  - question: "Which herbs should never be burned indoors?"
+    answer: "Henbane, belladonna, oleander, rue, and other toxic or culturally restricted herbs should never be burned indoors due to health risks and spiritual concerns."
+
+  - question: "Why did traditional cultures avoid burning certain herbs?"
+    answer: "Folk systems recognized three main reasons: physical danger (toxic smoke), cultural restriction (sacred or ceremonial use), and ritual volatility (herbs that could open boundaries uncontrollably)."
 
 ---
 ## Not All Herbs Are Meant for Fire
