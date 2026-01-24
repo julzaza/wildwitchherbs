@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Spring Equinox Across Cultures: How the World Marked the Return of Balance"
+title: "Spring Equinox Across Cultures: Folklore of Balance"
 permalink: /spring-equinox-global-folklore/
 date: 2026-02-22
 author: Wild Witch Herbs
