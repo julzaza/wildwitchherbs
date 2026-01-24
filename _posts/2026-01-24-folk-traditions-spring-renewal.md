@@ -27,6 +27,33 @@ faqs:
 schema:
   "@context": "https://schema.org"
   "@type": "FAQPage"
+  "mainEntity":
+    - "@type": "Question"
+      "name": "Why were protection rituals common in spring folklore?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Spring was believed to weaken spiritual boundaries, allowing illness, spirits, and misfortune to move more freely."
+    - "@type": "Question"
+      "name": "Did spring rituals focus on renewal or protection?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Historically, protection came first. Renewal followed only after safety and balance were secured."
+    - "@type": "Question"
+      "name": "Were spring folk traditions global?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Yes. While practices differed, nearly all cultures marked spring with rites of cleansing, protection, and boundary reinforcement."
+    - "@type": "Question"
+      "name": "Are modern spring rituals historically accurate?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Many modern rituals emphasize personal growth, while traditional practices focused on communal safety and land stability."
+    - "@type": "Question"
+      "name": "How do these protection rites relate to early spring foraging?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Traditional spring foraging was approached with restraint and offerings, reflecting the same protective and cautious logic found in folk spring rituals."
+
 ---
 
 ## Spring Was Never Innocent
@@ -35,7 +62,7 @@ In folk belief, spring was not gentle — it was **ritually unstable**, a season
 
 It was **open**.
 
-As explored in **[how cultures worldwide understood the Spring Equinox as a moment of unstable balance](/spring-equinox-global-folklore/)**, this seasonal threshold weakened boundaries — between cold and warmth, life and decay, human and spirit.
+As explored in **[How Cultures Worldwide Understood the Spring Equinox](/spring-equinox-global-folklore/)** as a moment of unstable balance, this seasonal threshold weakened boundaries — between cold and warmth, life and decay, human and spirit.
 
 Renewal did not arrive freely.  
 It had to be **protected**.
@@ -54,7 +81,7 @@ Despite vast geographic distance, spring customs share striking similarities:
 - boundaries were reinforced  
 - spirits were acknowledged, not invited  
 
-This logic mirrors the ritual restraint found in **[traditional Spring Equinox rites focused on balance rather than abundance](/spring-equinox-rituals-folklore/)**.
+This logic mirrors the ritual restraint found in **[Traditional Spring Equinox Rites Focused on Balance](/spring-equinox-rituals-folklore/)** rather than abundance.
 
 Before asking the land to give, people first made sure it was safe to receive.
 
@@ -73,7 +100,7 @@ Common practices included:
 Dew was believed to carry the land’s first breath.  
 To step into it was to align the body with seasonal correction.
 
-In many regions, these customs were closely tied to early herbal activity — protective plants gathered cautiously and used sparingly, as documented in **[traditional Balkan spring herbal rites](/balkan-spring-herbal-rites/)**.
+In many regions, these customs were closely tied to early herbal activity — protective plants gathered cautiously and used sparingly, as documented in **[Traditional Balkan Spring Herbal Rites](/balkan-spring-herbal-rites/)**.
 
 In some areas, speaking during these acts was avoided — words could disturb what had not yet settled.
 
@@ -151,7 +178,7 @@ Early rites focused on:
 - cleansing body and tools  
 - observing silence or prayer  
 
-This restraint parallels the caution seen in **[ancestral Spring Equinox foraging traditions](/spring-equinox-foraging-folklore/)**, where early growth was approached carefully rather than consumed freely.
+This restraint parallels the caution seen in **[Ancestral Spring Equinox Foraging Traditions](/spring-equinox-foraging-folklore/)**, where early growth was approached carefully rather than consumed freely.
 
 ---
 
