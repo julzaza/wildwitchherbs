@@ -26,7 +26,7 @@ keywords:
   - ancestral relationship magic
 
 permalink: /love-attraction-rituals-global-folk-magic/
-date: 2026-02-02
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
