@@ -83,7 +83,7 @@ Despite vast geographic distance, spring customs share striking similarities:
 
 This logic mirrors the ritual restraint found in **[Traditional Spring Equinox Rites Focused on Balance](/spring-equinox-rituals-folklore/)** rather than abundance.
 
-Before asking the land to give, people first made sure it was safe to receive.
+Before asking the land to give, people first made sure it was safe to receive. 
 
 ---
 
