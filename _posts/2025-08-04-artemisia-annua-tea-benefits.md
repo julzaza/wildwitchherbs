@@ -14,19 +14,15 @@ tags:
 description: Discover the ancient, bitter tradition of Artemisia annua tea — a wild Old World tonic rooted in folk medicine, seasonal cleansing, and protective witchcraft rituals.
 excerpt: Dive into the folklore, ritual uses, and traditional bitterness of Artemisia annua tea — a centuries-old brew used across Europe, Asia, and the Balkans for cleansing, protection, and resilience.
 
-# AI FAQ (zero-volume friendly)
 faq:
   - question: "What makes Artemisia annua a traditional bitter herb?"
     answer: "Old European folk healers prized bitter herbs like Artemisia for their ability to ‘wake’ digestion, clear stagnation, and align the body with seasonal rhythms."
 
   - question: "How is Artemisia annua different from common wormwood?"
-    answer: "Though related, sweet wormwood (*Artemisia annua*) is considered lighter and more aromatic than traditional wormwood; for deeper lore, see the Old European notes on **Wormwood in Witchcraft**."
+    answer: "Though related, sweet wormwood (*Artemisia annua*) is considered lighter and more aromatic than traditional wormwood.
 
   - question: "How did Balkan folk traditions prepare Artemisia tea?"
     answer: "In the southern Balkans, Artemisia was harvested with the moon and dried slowly in shaded attics — a method believed to preserve the plant’s ‘living heat.’"
-
-  - question: "Can Artemisia tea be used for dreamwork rituals?"
-    answer: "Yes. Many Old World traditions used small amounts before sleep to sharpen dreams. See also **Witchy Plants for Dreamwork** for context."
 
   - question: "Is Artemisia annua used for cleansing rituals?"
     answer: "Yes. In European folk magic, it appears in floor washes, smoke bundles, and ritual baths for clearing stagnant energy."
@@ -35,7 +31,7 @@ faq:
     answer: "Historically, Europeans drank bitters in spring and late summer to support the body during shifts in temperature, diet, and rhythm."
 
   - question: "Can I blend Artemisia with other herbs?"
-    answer: "Traditionally, it pairs with cooling herbs or grounding roots. For pairing ideas, see **Old World Bitter Herb Traditions**."
+    answer: "Traditionally, it pairs with cooling herbs or grounding roots. 
 
   - question: "Is Artemisia linked to midsummer or solstice rites?"
     answer: "Yes. It was often gathered around midsummer fires, believed to shield the bearer from wandering spirits."
@@ -49,28 +45,6 @@ faq:
   - question: "What is the spiritual meaning of drinking bitter herbs?"
     answer: "In ancestral tradition, bitterness teaches resilience, clarity, and boundary-setting — virtues linked to threshold magic."
 
-  - question: "Can beginners safely work with bitter herbs?"
-    answer: "Yes, in small amounts and with awareness. For broader guidance, explore **Working with Bitter Herbs Safely**."
-
-# Schema (Article + FAQ)
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "The Bitter Brew: Discovering Artemisia Annua Tea"
-  "description": "A folklore-rich exploration of Artemisia annua tea, its traditional bitterness, Old World cleansing rituals, moon harvesting customs, and protective uses in witchcraft."
-  "author":
-    "@type": "Person"
-    "name": "Wild Witch Herbs"
-  "mainEntityOfPage": "/blog/artemisia-annua-tea-benefits/"
-  "articleSection": "natural-healing"
-  "image": "/assets/images/artemisia-annua-tea.jpg"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntity":
-    "@type": "FAQPage"
-    "name": "Artemisia Annua Tea — FAQ"
-    "acceptedAnswerCount": 12
 ---
 
 ## Why Drink Artemisia Annua Tea?
@@ -194,4 +168,3 @@ A: Resilience, clarity, boundaries, and personal sovereignty.
 A: Yes. Often paired with cooling herbs or grounding roots to balance bitterness.
 
 ---
-
