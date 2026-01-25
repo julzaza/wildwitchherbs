@@ -55,7 +55,11 @@ Modern witchcraft has reclaimed this ritual as **remembrance**. Returning blood 
 - **Protection** and energetic grounding  
 - **Ancestral communication**, especially with women of your bloodline
 
-It’s also scientifically sound—**menstrual blood is rich in nitrogen, phosphorus, and stem cells**. Some witches feed their roses or mugwort with it. What once was taboo now becomes **communion.**
+It’s also scientifically sound—**menstrual blood is rich in nitrogen, phosphorus, and stem cells**.
+
+Some witches feed their roses or mugwort with it.  What once was taboo now becomes **communion.**
+
+For a deeper look at plants historically used for fertility and growth, see **[Top Fertility Herbs in Witchcraft](/top-fertility-herbs-witchcraft/)**.
 
 ---
 
