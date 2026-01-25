@@ -13,7 +13,7 @@ tags:
   - balkan witchcraft
   - folk herbalism
 excerpt: "Deep in Eastern Serbia, the Vlach (Vlaska) people preserved one of the Balkans’ most enigmatic magical traditions. Explore rituals, herbs, legends, and the living folk magic of Negotin."
-description: "Explore the mysterious Vlach magic (Vlaska magija) of Negotin, Serbia—ancient rituals, true folklore, protective herbs, night women, babas, and living traditions of Balkan witchcraft."
+description: "Explore the mysterious Vlach (Vlaska) magic of Negotin, Serbia—ancient rituals, protective herbs, wise women, and living Balkan folk traditions of herbal magic."
 
 faq:
   - question: "What is Vlach (Vlaska) magic?"
@@ -87,6 +87,8 @@ The heart of Vlach magic lies with the **baba**, the wise woman who knows every 
 She might boil **nettle** for strength, burn **sage** for cleansing, or tuck **yarrow** beneath a child’s pillow to guard against nightmares. 
 
 Some babas are said to meet at crossroads under the waning moon, trading charms and secret words in the Vlach language so old that outsiders hear only whispers.
+
+**Did You Know?** In Negotin, some babas still gather herbs at dawn before the first church bell, believing it doubles their potency.
 
 Learn exactly which **[Herbal Companions Vlaska Babas Turn To](/herbs-vlach-wise-women/)**. 
 
