@@ -125,7 +125,7 @@ Harvested by hand. Crafted with care. Limited batches only.
 ✖ Not for people seeking mild, comforting teas
 
 
-## ✦ FAQ: Artemisia Annua Tea (For Humans)
+## FAQ: Artemisia Annua Tea 
 
 **Is Artemisia annua tea safe to drink?**  
 Traditionally, yes — when used respectfully and in small amounts. Bitter herbs are strong allies, not daily comfort teas. Start slow and listen to your body.
