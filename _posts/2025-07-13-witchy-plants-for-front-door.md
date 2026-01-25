@@ -209,6 +209,8 @@ Check out **[Rosemary- Witchy Plant to Guard the Front Door](/why-witches-plant-
 
 ---
 
+## Welcome Threshold Herbs Into Your Life
+
 The door you walk through each day can become **a gate of magic**, a veil stitched with root and leaf, bloom and thorn. Let it **speak on your behalf**: *“This home is watched, protected, and blessed.”*
 
 Want to guard your inner space as well? Explore: **[Grow Witchy Plants Indoors](/witchy-plants-to-grow-indoors/)**.
