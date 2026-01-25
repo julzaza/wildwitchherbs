@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Moonlit Weddings & Milk Spells: Danube Vlach Fertility Rites"
-description: "Uncover the moon-blessed wedding customs and dairy magic of the Vlachs along the Danube, where ancient fertility rites still echo."
+description: "Explore Danube Vlach fertility rites, moonlit weddings, milk spells, herbal bridal charms, and protective traditions of Balkan folklore."
 excerpt: "An exploration of Danube Vlach fertility magic, including moonlit weddings, milk spells, herbal bridal charms, and protective rites for new life."
 categories:
   - witchcraft-ritual
@@ -14,30 +14,28 @@ tags:
   - danube folklore
   - balkan witchcraft
   - folk fertility rites
-schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Why were Vlach weddings held under the full moon?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "In Vlach belief, the waxing or full moon symbolized growth and abundance, ensuring fertility for the couple and prosperity for their household."
-    - "@type": "Question"
-      "name": "What is the Vlach milk spell?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "A post-wedding fertility rite where milk was poured over the threshold to bless the womb with nourishment, abundance, and life-giving power."
-    - "@type": "Question"
-      "name": "Which herbs were used in Vlach fertility rituals?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Common herbs included basil, rue, nettle seed, and hawthorn, each associated with protection, circulation, vitality, and reproductive strength."
-    - "@type": "Question"
-      "name": "Are these fertility rites still practiced today?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "While often preserved as folklore, elements of these rites still survive in family customs and ceremonial traditions along the Danube."
+faq:
+  - q: "Why were Vlach weddings traditionally held under the full moon?"
+    a: "The waxing or full moon symbolized growth and abundance in Vlach belief, ensuring fertility for the couple and prosperity for their household."
+  - q: "What is the Vlach milk spell and how was it performed?"
+    a: "The milk spell was a post-wedding fertility rite where warm cow’s milk, sometimes mixed with crushed nettle seed, was poured over the threshold to bless the womb and household with nourishment and life."
+  - q: "Which herbs did Vlach couples and healers use in fertility rituals?"
+    a: "Common herbs included basil, rue, nettle seed, and hawthorn, each believed to protect, stimulate circulation, support vitality, and enhance reproductive health."
+  - q: "Are Danube Vlach fertility rites still practiced today?"
+    a: "Elements of these rituals survive in family customs and ceremonial traditions, often preserved as folklore rather than formal magic practices."
+  - q: "Why were red threads and hawthorn used to guard new life?"
+    a: "Red wool threads symbolized protection and vitality, while hawthorn, placed above beds, was believed to safeguard the mother and child—its antioxidant properties reflect subtle practical wisdom."
+  - q: "Did these fertility practices influence other cultures?"
+    a: "Yes. Similar milk and herb-based fertility rites appear in ancient Greece and among Balkan Romani communities, showing an Indo-European continuity of belief."
+  - q: "How do these herbal practices align with modern science?"
+    a: "Many herbs used, such as basil, rue, and nettle seed, contain compounds supporting circulation, reproductive health, and stress reduction, echoing the practical effects behind the folklore."
+  - q: "What role did elders play in Vlach fertility rites?"
+    a: "Experienced women and midwives guided rituals, prepared herbal charms, and ensured proper timing with lunar cycles, passing down knowledge orally through generations."
+  - q: "Were fertility charms purely symbolic or also protective?"
+    a: "They were both—intended to boost fertility and protect the couple and unborn child from harm, blending ritual symbolism with practical household health measures."
+  - q: "Where can I learn more about Vlach herbal and ritual traditions?"
+    a: "Explore related posts like **[Charms of the Vlach Wise Women](/charms-vlach-healers/)** and **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)** for deeper insight into Balkan folk herbalism and ritual magic."
+
 ---
 
 In the misty valleys near the **Iron Gates of the Danube**, the Vlach people keep alive a complex web of **fertility magic**—practices that weave together **Romanian, Thracian, and Slavic** strands of belief.
@@ -70,7 +68,29 @@ Hawthorn is now known for its **heart-strengthening antioxidants**, a reminder t
 ## Echoes Across Cultures
 Similar milk-based fertility rites appear in **ancient Greece** and among the **Romani** of the Balkans, suggesting a much older Indo-European root for this practice.
 
+In Vlaska Magija traditions, fire was used to ensure fertile harvest and to keep sickness away. Learn more about **[Eastern Serbia Firewalkers](/eastern-serbia-firewalkers/)** and St. John's pegan ritual.
+
 ---
 
 **Related Magic:**  
-Dive deeper into protective charms in our post on **[St. John’s Firewalking Rites](/eastern-serbia-firewalkers/)** and explore herbal lore with **[Charms of the Vlach Wise Women](/charms-vlach-healers/)**.
+Dive deeper:
+
+- into protective charms: **[Charms of the Vlach Wise Women](/charms-vlach-healers/)**
+- learn which **[Herbs Vlach Wise Women Relied On](/herbs-vlach-wise-women/)**
+- and which **[Herbs Kept the Dead Away in Serbia](/vampire-herbs-vlach-magic/)**
+
+---
+
+## Frequently Asked Questions
+
+**Why did the Vlachs tie fertility rituals to the moon?**  
+The full and waxing moon symbolized growth and abundance, believed to bless couples and ensure healthy children.
+
+**What herbs were most important in these rites?**  
+Basil, rue, nettle seed, and hawthorn were commonly used for protection, vitality, and reproductive support.
+
+**Is it safe to try these rituals today?**  
+These practices are primarily cultural and symbolic; small herbal teas or charms can be explored safely, but they are not a substitute for medical care.
+
+**Where can I learn more about Vlach magic and herbal traditions?**  
+Posts like **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)** offer deeper exploration of rituals, herbs, and folklore.
