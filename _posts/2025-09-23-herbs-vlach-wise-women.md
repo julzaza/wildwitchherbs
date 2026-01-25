@@ -115,9 +115,6 @@ Offerings such as bread crumbs, coins, or whispered prayers were made to ensure 
 **Are these practices safe today?**  
 Yes, in small amounts such as teas or culinary use, but some herbs like rue and wormwood should be used with caution.
 
-**Where can I learn more about Vlach herbal magic?**  
-See **[Vlasko Love Spells, Binding Knots and Forest Spirits](/charms-vlach-healers/)** and **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)** for more on rituals, herbs, and folklore.
-
 ---
 
 *Sources: Serbian Academy of Sciences ethnobotanical records; “Medicinal Plants of the Timok Region” (Journal of Ethnopharmacology, 2018); Tihomir Đorđević’s field studies.*
