@@ -88,12 +88,14 @@ Before harvesting powerful herbs like *Artemisia absinthium* or wild rue, a heal
 ---
 
 ### Keeping the Tradition Alive
-Many of these rites today are seen only as **cultural heritage** rather than clandestine sorcery. 
+While modern visitors see only demonstrations, the rituals are still practiced today and the mysteries of **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)** are quietly preserved. 
 
-Theese days festivals in Negotin and nearby villages invite visitors to witness ritual songs and knot-tying demonstrations, blending respect for the old ways with modern herbal practice.
+**Potent magic still takes place across the Timok Valley**. 
 
-However, when the outsiders are not looking, **potent magic still takes place across the Timok Valley**. 
+#### Wild Witch Herbs Tip: 
 
+Try a protective sachet or small infusion with the **[Herbs Vlaska Babas Traditionally Rely On](/herbs-vlach-wise-women/)** to connect with ancestral magic safely.
+ 
 ---
 
 ## Frequently Asked Questions
