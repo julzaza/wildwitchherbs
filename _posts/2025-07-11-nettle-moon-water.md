@@ -2,17 +2,11 @@
 layout: single
 title: "Stinging Nettle Moon Water: Courage & Cutting Ties"
 permalink: /stinging-nettle-moon-water/
+author: Wild Witch Herbs
 
-excerpt: >
-  Stinging nettle is rarely used in moon water, yet in European folk magic it was
-  feared and respected for protection, banishing, and boundary-setting. This guide
-  explores how witches used nettle moon water for courage, ancestral strength, and
-  cutting harmful ties.
+excerpt: "Stinging nettle is rarely used in moon water, yet in European folk magic it was feared and respected for protection, banishing, and boundary-setting. This guide explores how witches used nettle moon water for courage, ancestral strength, and cutting harmful ties."
 
-description: >
-  A folklore-based guide to stinging nettle moon water in witchcraft. Learn its
-  traditional uses for protection, banishing, courage, and ancestral magic, with
-  safe ritual methods and European folk context.
+description: "A folklore-based guide to stinging nettle moon water in witchcraft. Learn its traditional uses for protection, banishing, courage, and ancestral magic, with safe ritual methods and European folk context."
 
 categories:
   - herbal-magic
@@ -27,21 +21,19 @@ tags:
   - European folk magic
   - herbal witchcraft
   - boundary magic
-  - witchy herbs
-  - lunar magic
-  - folk magic
+  - lunar folk magic
 
 faq:
-  - question: "Is stinging nettle safe to use in moon water?"
-    answer: "Yes, when properly dried or handled with care. Fresh nettle should be harvested with gloves, and moon water should only be consumed if made with clean water and correctly identified Urtica dioica."
+- question: "Is stinging nettle safe to use in moon water?"
+  answer: "Yes, when handled with care. Fresh nettle must be harvested with gloves, and any internal use should follow traditional herbal safety practices with correctly identified Urtica dioica."
 
-  - question: "What moon phase is best for nettle moon water?"
-    answer: "Dark Moon is best for banishing and cutting ties, Full Moon for strengthening boundaries and courage, and New Moon for rebuilding strength after exhaustion or trauma."
+- question: "What moon phase is best for nettle moon water?"
+  answer: "Dark Moon for banishing and cutting ties, Full Moon for strengthening boundaries and courage, and New Moon for rebuilding strength after exhaustion or trauma."
 
-  - question: "Can nettle moon water be drunk?"
-    answer: "Traditionally, nettle infusions were consumed for strength and resilience. Moon water made with dried nettle may be drunk if prepared safely, though many witches prefer external ritual use."
+- question: "Can nettle moon water be drunk?"
+  answer: "Historically, nettle infusions were consumed for strength and resilience. Many modern practitioners prefer using nettle moon water externally for ritual, cleansing, or anointing rather than drinking it."
 
-  - question: "Is stinging nettle associated with protection in folklore?"
+- question: "Is stinging nettle associated with protection in folklore?"
     answer: "Yes. Across Europe, nettle was planted near homes, paths, and thresholds to deter harm, unwanted spirits, and human ill intent."
 
 ---
@@ -129,3 +121,17 @@ Splash the moon water across your chest, back, and crown of the head. Visualize 
 It’s a witch’s tool for those who need to stand their ground and protect their fire.
 
 ---
+
+## Common Questions Witches Ask
+
+**Is nettle moon water too aggressive for sensitive people?**  
+Nettle isn’t gentle, but that doesn’t mean it’s cruel. If you’re emotionally raw or energetically porous, use it externally first—doorways, baths, or floor washes—before drinking or heavy personal work.
+
+**Can I combine nettle moon water with gentler herbs?**  
+Yes. Blending nettle with plants like plantain, linden, or St. John’s wort can soften its edge while keeping its protective core intact.
+
+**What if I feel emotional after working with nettle?**  
+That’s normal. Nettle tends to stir what needs defending or releasing. Ground afterward—eat, sleep, touch the earth, or work with salt or bread magic.
+
+**Is this beginner-friendly magic?**  
+It’s simple, but not passive. If you’re new, start small and treat nettle like an ally you’re getting to know, not a tool to dominate.
