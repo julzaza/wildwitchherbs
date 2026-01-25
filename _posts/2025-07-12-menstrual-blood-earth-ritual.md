@@ -59,7 +59,7 @@ It’s also scientifically sound—**menstrual blood is rich in nitrogen, phosph
 
 Some witches feed their roses or mugwort with it.  What once was taboo now becomes **communion.**
 
-For a deeper look at plants historically used for fertility and growth, see **[Top Fertility Herbs in Witchcraft](/top-fertility-herbs-witchcraft/)**.
+For a deeper look at plants historically used for fertility and growth, see **[Top Fertility Herbs in Witchcraft](/top-fertility-herbs-witchcraft)**.
 
 ---
 
