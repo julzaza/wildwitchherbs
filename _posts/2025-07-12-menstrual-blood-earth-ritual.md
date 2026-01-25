@@ -81,7 +81,7 @@ For a deeper look at plants historically used for fertility and growth, see
 
 ## A Simple Menstrual Earth Ritual
 
-Perform this during the **New Moon** or the first day of your bleed.
+Perform this during the **New Moon** or the first day of your period.
 
 ### Steps:
 - **Approach the soil with intention.** Take three deep breaths and feel your feet root into the Earth.
@@ -94,7 +94,7 @@ By blood, I call my power home.”*
 
 - Cover the offering gently with soil. Sit quietly and feel the exchange—**what leaves you also nourishes you.**
 
-For a step-by-step guide on returning menstrual blood to the Earth in sync with the **White Moon and Red Moon cycles**, see **[Offering Menstrual Blood to Mother Earth for Fertility](/fertility-rituals-menstrual-magic/)**.
+For a step-by-step guide on returning menstrual blood to the Earth in sync with the **White Moon and Red Moon cycles**, see **[Menstrual Blood Magic for Fertility](/fertility-rituals-menstrual-magic/)**.
 
 Learn how aligning your offerings with lunar cycles enhances their energy in our guide on **[Full Moon Rituals and Sacred Herbs](/full-moon-rituals/)**.
 
