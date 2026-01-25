@@ -125,24 +125,21 @@ Check out other **[Folk Fertility Rituals](/folk-fertility-rituals/)** to create
 
 ### Frequently Asked Questions
 
-**Q: Is it safe to offer menstrual blood to the Earth?**  
-**A:** Yes! As long as you approach the ritual with privacy and intention. Use your own blood, avoid public areas, and consider alternatives like burying a red-stained cloth or visualizing the offering if needed. Respect and care ensure the ritual works safely.
+**Q: When is the best time to return menstrual blood to the Earth?**  
+**A:** The New Moon or the first day of your period works best. You can also follow your personal lunar rhythm or seasonal cycles. Timing supports energetic alignment but isn’t strictly required.
 
-**Q: When is the best time to perform this ritual?**  
-**A:** The New Moon or the first day of your period is ideal. These times align naturally with cycles of renewal, grounding, and fertility. You can also work with seasonal cycles or your personal lunar rhythm if that feels right.
+**Q: How can non-menstruating people participate?**  
+**A:** You can honor the cycle using a red cloth, symbolic objects, or energy work. The ritual is about intention and connection, not bleeding.
 
-**Q: Can non-menstruating people participate?**  
-**A:** Absolutely. You can honor the cycle with a red cloth, meditation, or symbolic objects. The intention is what matters—connecting with the Earth’s energy and honoring menstrual and life cycles.
+**Q: What magical benefits does this ritual offer?**  
+**A:** It supports fertility of body, land, and ideas; aids healing after grief or trauma; grounds your energy; deepens connection with nature; and strengthens ancestral bonds, especially with women in your lineage.
 
-**Q: What are the magical benefits of returning blood to the soil?**  
-**A:** This ritual supports fertility of body, land, ideas, and relationships. It can aid healing after grief or trauma, ground your energy, deepen your connection with nature, and strengthen ancestral bonds—especially with women in your bloodline.
+**Q: Can herbs or other magic be combined with this ritual?**  
+**A:** Yes. Mugwort, yarrow, rose, and other herbs can amplify the magic. Use them with your offering, in meditation, or in complementary spells.
 
-**Q: Can I combine this ritual with herbs or other magic?**  
-**A:** Yes! Herbs like mugwort, yarrow, rose, or others can amplify the ritual. Place them with your offering, feed them to the soil, or use them in meditation and related spells to boost intention.
-
-**Q: How can I align this ritual with moon work?**  
-**A:** Aligning your offering with lunar phases strengthens the energetic flow. New Moon supports renewal, Full Moon empowers protection and personal strength, and other phases can enhance intention. Listen to your intuition and body for timing.
+**Q: How can I align this ritual with the moon?**  
+**A:** Aligning your offering with lunar phases enhances energetic flow. New Moon supports renewal, Full Moon empowers protection and personal strength. Listen to your intuition for timing.
 
 **Q: How do I perform this ritual safely and respectfully?**  
-**A:** Choose a private space or container, cover your offering with soil, and focus on your intention. Never leave blood where others could come into contact with it. Respect—for yourself and the Earth—is the foundation of this work.
+**A:** Choose a private spot or container, cover your offering with soil, and focus on your intention. Never leave blood where others may come into contact with it. Respect for yourself and the Earth ensures the magic works.
 
