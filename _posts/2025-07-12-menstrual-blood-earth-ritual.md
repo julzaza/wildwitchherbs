@@ -76,6 +76,7 @@ For a deeper look at plants historically used for fertility and growth, see
 
 - **[Top Fertility Herbs in Witchcraft](/top-fertility-herbs-witchcraft)**
 - or explore traditionally used **[Herbs to Attract the Right Partner](/love-magic-herbs-to-attract-the-right-partner/)**
+- for detailed guidance on performing fertility rituals during White and Red Moon cycles, see **[Menstrual Blood Magic – Fertility Ritual](/fertility-rituals-menstrual-magic/)**
 
 ---
 
