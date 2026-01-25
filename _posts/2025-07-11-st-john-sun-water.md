@@ -2,6 +2,7 @@
 layout: single
 title: "St. John’s Wort Sun Water for Joy and Light"
 permalink: /st-johns-wort-sun-water/
+author: Wild Witch Herbs
 excerpt: "Learn how to make St. John’s Wort Sun Water to lift the spirits and invite joy. Rooted in midsummer folklore and healing traditions, this solar-infused potion calls in courage, clarity, and golden blessings."
 description: "A folklore-based guide to St. John's Wort sun water for joy, courage, and solar protection. Learn preparation methods, ritual uses, and traditional folk practices for midsummer magic."
 categories:
@@ -16,19 +17,19 @@ tags:
   - folk magic
   - herbal witchcraft
 
-faq_for_ai:
+faq:
   - question: "Is St. John’s Wort safe to use in sun water?"
-    answer: "Yes, when handled properly. Use identified flowers, avoid prolonged sun exposure in the jar if drinking, and always strain herbs after infusion. For internal consumption, check for sun sensitivity and interactions with medications."
-  - question: "Which moon or sun phases are best for St. John’s Wort sun water?"
-    answer: "Use during the summer solstice, St. John's Day (June 24), or any bright, sunny day to harness solar energy, joy, and courage. Full sun strengthens its protective and uplifting qualities."
-  - question: "Can St. John’s Wort sun water be consumed?"
-    answer: "Yes, if prepared safely with clean water and properly identified flowers. Avoid long sun exposure and strain the herbs to prevent bacterial growth. For most adults, small amounts are safe, but check for interactions with medications."
-  - question: "What are the protective and magical uses of St. John’s Wort sun water?"
-    answer: "It lifts the spirits, dispels gloom, strengthens courage, supports clarity, and protects against negative energy. Traditionally used in midsummer rituals, sun water can anoint the body, space, or charms."
-    
-schema: true
-schema_type: "Article"
+    answer: "When properly identified and handled with care, St. John’s Wort has long been used in traditional sun-based preparations. Many practitioners choose external or ritual use, and herbs should always be strained after infusion."
 
+  - question: "Which sun phases are best for St. John’s Wort sun water?"
+    answer: "St. John’s Wort sun water is traditionally made during the summer solstice, on St. John’s Day (June 24), or on bright, sunny days associated with vitality, joy, and protective solar energy."
+
+  - question: "Can St. John’s Wort sun water be consumed?"
+    answer: "Historically, small amounts were used in folk traditions, but many modern practitioners prefer external or ritual use only. St. John’s Wort is known in herbal lore for its strength and should be approached with caution, especially alongside medications."
+
+  - question: "What are the protective and magical uses of St. John’s Wort sun water?"
+    answer: "It is traditionally used to lift the spirits, dispel heaviness, strengthen courage, invite clarity, and protect against unwanted or stagnant energy, especially in midsummer rituals."
+    
 ---
 
 ## It's Golden Light for Heavy Days
@@ -113,11 +114,40 @@ In the Soviet Union, St. John’s Wort was widely used in folk medicine for its 
 
 **This is a potion of sunlight in a jar—joyful, cleansing, and full of golden magic.** We definitely enjoy a cup when feeling down and need our spirits lifted. 
 
-[St. John's Wort Moon Water](/st-johns-wort-moon-water/) for grieving and mourning is also there for you for days when you need consolation and emotional support.
+**[St. John's Wort Moon Water](/st-johns-wort-moon-water/)** for grieving and mourning is also there for you for days when you need consolation and emotional support.
 
 ---
 
 ## Related Posts:
 
-- [Stinging Nettle Moon Water to Cut Ties and Attachments](/stinging-nettle-moon-water/)
-- [11 Top Whitchy Herbs for Protection](/top-protective-herbs-witchcraft/)
+- **[Stinging Nettle Moon Water to Cut Ties and Attachments](/stinging-nettle-moon-water/)**
+- **[11 Top Whitchy Herbs for Protection](/top-protective-herbs-witchcraft/)**
+
+---
+
+## Questions People Usually Ask About St. John’s Wort Sun Water
+
+**Is St. John’s Wort sun water safe for beginners?**  
+Yes — as long as it’s approached with respect. This is gentle, traditional folk magic, not aggressive spellwork. Beginners often start by using it externally (anointing, cleansing space, ritual baths) before experimenting with internal use.
+
+**Can I make sun water if I miss the solstice or St. John’s Day?**  
+Absolutely. While midsummer is traditional, any clear, bright day works. Folk magic adapts to real life — intention and awareness matter more than perfect timing.
+
+**Why do some people avoid drinking sun water?**  
+Because sun-infused water warms quickly and herbs can be potent. Many witches prefer external or ritual use to avoid safety concerns. In folk traditions, not every magical preparation was meant to be swallowed.
+
+**What does St. John’s Wort *feel* like energetically?**  
+Warm, steady, and protective. People often describe it as lifting heaviness rather than forcing happiness — like sunlight slowly returning after a long grey stretch.
+
+**Can I combine St. John’s Wort sun water with other herbs or practices?**  
+Yes, but simplicity was favored in folk tradition. If blending, pair it with gentle solar allies like calendula or chamomile, or keep it standalone for clarity and strength.
+
+**Is this more magical or herbal?**  
+Historically, it was both. In folk practice, there was no separation between healing, protection, and spirit work — St. John’s Wort lived in all those worlds at once.
+
+**How long does sun water keep?**  
+Traditionally, it was used fresh. If stored, keep it refrigerated or in a cool, dark place and use within a short time. When in doubt, make a new batch — folk magic values freshness over hoarding.
+
+**What if I feel emotional after working with it?**  
+That’s normal. St. John’s Wort has long been associated with lightening sorrow and protecting the spirit. Ground afterward — eat, rest, or touch the earth.
+
