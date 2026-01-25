@@ -101,21 +101,28 @@ Sweeten lightly with honey if desired, but we recommend trying her bare first. L
 
 ---
 
-## Final Word
+## Orders Yours Today
 
 This is not a tea you forget.  
 She’s bold. She’s ancient. She’s here to challenge and support.
 
 Whether you’re looking to clear fog, reconnect with herbal traditions, or work more deeply with protective plants in your practice — *Artemisia annua* is a potent ally.
 
-[→ Order Your Artemisia Annua Tea Now](/shop/)  
+**[Order Your Artemisia Annua Tea Now](/shop/)**
 Harvested by hand. Crafted with care. Limited batches only.
 
 ---
 
-**⚠️ Caution**: Not for use in pregnancy or while breastfeeding. Bitter herbs are strong allies. Begin slowly and listen to your body.
+## ✦ Who This Tea Is (and Isn’t) For
 
----
+✔ For people drawn to bitter herbs, ritual plants, ancestral practices
+
+✔ For seasonal resets, not daily sipping
+
+✖ Not for pregnancy or while breastfeeding
+
+✖ Not for people seeking mild, comforting teas
+
 
 ## ✦ FAQ: Artemisia Annua Tea (For Humans)
 
