@@ -39,21 +39,6 @@ faq:
   - question: "What replaced dung remedies over time?"
     answer: "Herbal rinses, smoke cleansing with juniper, and mineral-rich clay began to dominate household cures."
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Cow Dung for Hair Loss: Montenegrin Highland Folklore"
-  "description": "A cultural exploration of the Montenegrin belief that fresh cow dung could restore hair, rooted in symbolism, protection magic, and broader Balkan healing traditions."
-  "author":
-    "@type": "Person"
-    "name": "Wild Witch Herbs"
-  "mainEntityOfPage": "/balkan-cow-dung-hair-loss-folklore/"
-  "articleSection": "natural-healing"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntity":
-    "@type": "FAQPage"
 ---
 
 High on the Durmitor plateau, where pine forests meet high meadows, stories of mountain cures still move from hearth to hearth.
@@ -61,6 +46,8 @@ High on the Durmitor plateau, where pine forests meet high meadows, stories of m
 One of the strangest—and most memorable—tells that when a person’s hair begins to thin, the surest remedy is **fresh cow dung spread across the scalp**.  
 
 But definitely check out our **[Top 10 Traditional Hairloss Remedies](/folk-hairloss-remedies/)** if animal manure hair mask is not your thing. 
+
+---
 
 ## A Folk Remedy of Survival  
 Before pharmacies and bottled tonics, villagers in the Žabljak region worked with whatever life gave them.  
@@ -71,6 +58,8 @@ That rich, steaming manure symbolized **fertility and renewal**. If it could tra
 
 Older Montenegrins describe mixing a small lump of fresh dung with mountain spring water, patting it onto bald patches, and covering the head with a wool cloth while reciting protective words.
 
+---
+
 ## Magical Protection and the Evil Eye  
 Hair loss was rarely seen as simple biology.  
 
@@ -79,6 +68,8 @@ In traditional Balkan belief, sudden shedding could mean the **“evil eye” ha
 Cow dung, warm and pungent, carried the cow’s own vitality.  
 
 Applying it was an act of **sympathetic magic**—borrowing the animal’s strength while its strong odor drove away the malevolent force.
+
+---
 
 ## Regional Echoes and Kindred Practices  
 This custom belongs to a wider tapestry of Dinaric folk medicine:
@@ -90,10 +81,12 @@ This custom belongs to a wider tapestry of Dinaric folk medicine:
 
 Even farther afield, similar beliefs appear: **Ayurvedic India honors cow dung for purification**, and ancient Roman and Egyptian texts list animal manure in skin and hair recipes.
 
+---
+
 ## From Folklore to Modern Science  
 However, fresh dung can harbor bacteria such as *E. coli*, tetanus spores, and parasites that pose real health risks.  
 
-## Safer Herbal Parallels  
+### Safer Herbal Parallels  
 If you love the earthy spirit but don't want to risk contact with pathogens, turn to plants long gathered in these same highlands:  
 * **Nettle rinses** rich in minerals to strengthen the scalp.  
 * **Rosemary infusions** to boost circulation and fragrance the hair.  
@@ -103,9 +96,38 @@ These herbs carry the scent of tradition without the hazards of fresh manure.
 
 ---
 
+## Vlaska Magija Connection
 This earthy remedy belongs to the same rugged tradition that gave rise to Vlach river-magic and graveyard charms.  
 
 To explore that neighboring lore, wander east to the Timok Valley in **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)**, where old women still whisper spells over herbs gathered at moonrise.
+
+---
+
+## FAQ: Cow Dung in Balkan Folk Healing (For Humans)
+
+**Did people actually believe this could regrow hair?**  
+Yes — but belief mattered more than outcome. Hair loss was often seen as a spiritual or energetic problem, not a cosmetic one.
+
+**Was this considered medicine or magic?**  
+Both. In Balkan folk culture, healing and magic were not separate. Remedies worked through symbolism, ritual, and bodily contact with living forces.
+
+**Why didn’t people see it as dangerous?**  
+Because modern germ theory didn’t exist. What mattered was warmth, fertility, and vitality — qualities manure clearly embodied.
+
+**Was this common or rare?**  
+Uncommon but remembered. It appears mostly in highland oral tradition, shared as a “last-resort” or powerful household cure.
+
+**Do any people still do this today?**  
+Not typically. Most modern practitioners preserve the story, not the practice — choosing herbs, clays, or oils instead.
+
+**What does this tell us about Balkan folk magic overall?**  
+That it is practical, earthy, unsentimental, and deeply tied to survival. Nothing sacred was untouchable if it could help.
+
+**Is there a symbolic way to work with this idea safely?**  
+Yes. Earth-based rituals using clay, compost soil, nettle, or ash carry the same fertility symbolism without health risks.
+
+**Why preserve such uncomfortable folklore at all?**  
+Because it shows how people understood the body, fear, and hope — and how magic often grows from necessity, not beauty.
 
 ---
 
