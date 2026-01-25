@@ -79,6 +79,8 @@ Gentle balm of bees and broken hearts.
 
 **Witch Tip: Blend with lavender in tea or anoint the chest with balm during full moon rites.**
 
+Lemon balm appears again and again in traditions focused on **[Herbs Witches Used for Grief, Anxiety, and Emotional Wounds](/witchy-herbs-anxiety-grief-emotional-healing/)**.
+
 ---
 
 ## ✦ 4. **Comfrey (Symphytum officinale)**
@@ -138,6 +140,8 @@ Green armor for skin and soul.
 - Magical Properties: Grounding, wound sealing, anti-venom.
 
 **Witch Tip: Chew and apply as a spit poultice in emergencies.**
+
+Plantain was also a cornerstone of traditional **[Folk Herbal First Aid](/folk-herbal-first-aid/)**, used for cuts, burns, bites, and emergency wound care by witches and village healers.
 
 ---
 
@@ -260,13 +264,13 @@ These herbs are bridges between spirit and body, story and science. Each one has
 
 Let your apothecary be your altar. Let your healing be a ritual.
 
-Here are **[Top Whitchy Herbs for Protection](/top-protective-herbs-witchcraft/)** to guide you on your witchy journey and the **[Ultimate Winter Folk Remedies](/winter-herbal-remedies-cold-prevention/)** for cold prevention. 
+Many of these plants grew in monastery plots and village gardens, forming what we now recognize as **[Old European Garden Herbs](/old-european-folklore-garden-herbs/)** steeped in folklore.
 
 ---
 
 ## ✦ Keep Growing
 
-- Explore [Witchy Plants for the Front Door](/witchy-plants-for-front-door/)  
-- Learn how to [Grow Witchy Herbs Indoors](/witchy-plants-to-grow-indoors/)  
-
+- Explore **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**
+- Learn how to **[Grow Witchy Herbs Indoors](/witchy-plants-to-grow-indoors/)**
+- Use the **[Ultimate Winter Folk Remedies](/winter-herbal-remedies-cold-prevention/)** for cold prevention
 
