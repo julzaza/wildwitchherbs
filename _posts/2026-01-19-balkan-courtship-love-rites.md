@@ -13,37 +13,24 @@ tags:
   - fertility folklore
   - women's folk medicine
   - seasonal magic
-faq_for_ai:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What were Balkan courtship and love rites?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Balkan courtship and love rites were socially tolerated rituals focused on attraction, fertility, and reputation. Unlike coercive love magic, they relied on timing, herbal washes, fasting, silence, and social visibility rather than bodily traces or binding."
-    - "@type": "Question"
-      "name": "Which herbs were used in these rituals?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Commonly used herbs included basil, lovage (Levisticum officinale), violet, wild rose, mint, vervain, and apple blossom. Each had documented purposes tied to attraction, fertility, and social approval."
-    - "@type": "Question"
-      "name": "Were these practices dangerous?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Courtship rites were considered safe when practiced according to village rules and seasonal calendars. Danger arose when practices escalated into coercive love magic, which used graves, bodily traces, or binding spells."
-    - "@type": "Question"
-      "name": "Were these practices pagan or religious?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "They existed alongside Christianity, blending saint days with older seasonal and liminal rites rooted in folk knowledge."
-    - "@type": "Question"
-      "name": "Did men participate in these rituals?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Rarely. Most courtship and fertility rituals were preserved and practiced by women. Men were often excluded for herbal, ritual, or social reasons, as detailed in Forbidden Herbalism for Men."
-schema: true
-schema_type: "Article"
+faqs:
+  - question: "What were spring courtship rites in Balkan folk magic?"
+    answer: "Spring courtship rites were socially accepted folk practices focused on attraction, fertility readiness, and public visibility. They relied on seasonal timing, herbal washes, fasting, and silence rather than coercive love spells."
+
+  - question: "How were Balkan courtship rites different from love-binding magic?"
+    answer: "Courtship rites avoided naming or targeting a specific person and did not use bodily traces or binding techniques. Love-binding magic was considered dangerous, coercive, and socially condemned."
+
+  - question: "Which herbs were traditionally used in Balkan love and courtship rituals?"
+    answer: "Common herbs included basil, lovage, violet, wild rose, mint, vervain, and apple blossom. These plants were associated with attraction, fertility, reputation, and lawful union."
+
+  - question: "When were these love rituals traditionally performed?"
+    answer: "They were performed in spring around key dates such as St. George’s Day, Annunciation, Lazarus Saturday, and early May herb-gathering days, aligned with fertility and social calendars."
+
+  - question: "Were these rituals considered pagan or Christian?"
+    answer: "They existed alongside Christianity, blending saint days with older seasonal and folk practices rather than belonging exclusively to either system."
+
+  - question: "Did men participate in Balkan courtship magic?"
+    answer: "Rarely. Most courtship and fertility rites were practiced and preserved by women, with men often excluded due to herbal taboos, ritual purity rules, and social boundaries."
 
 ---
 
@@ -132,6 +119,28 @@ Courtship magic was intertwined with fertility preparation, as detailed in:
 - **[Women’s Herbal Life Stages in Folk Medicine](/womens-herbs-life-stages-folk-medicine/)**  
 
 The goal: readiness for union, pregnancy, and social integration rather than immediate conception.
+
+---
+
+## Frequently Asked Questions Balkan Courtship Rights
+
+### Were these rituals meant to make someone fall in love?
+No. Balkan courtship rites were designed to increase *visibility, favor, and readiness* rather than force affection. Naming or targeting a specific person was considered dangerous and socially unacceptable.
+
+### Could unmarried women safely perform these rites?
+Yes. These practices were widely known, tolerated, and often guided by older women in the community. When done according to seasonal rules, they carried little social or spiritual risk.
+
+### Why was silence so important in courtship rituals?
+Silence prevented gossip, obsession, and premature exposure. Speaking too early was believed to dissipate the ritual’s effect or turn desire into fixation.
+
+### Were these rituals considered witchcraft?
+Not in their original context. They belonged to folk religion and women’s seasonal knowledge. Only coercive or secretive practices crossed into what villages labeled as dangerous magic.
+
+### Why were certain herbs avoided?
+Plants like wormwood, mandrake, and henbane were associated with domination, obsession, or liminal forces. Using them for courtship was believed to invite illness, social punishment, or spiritual imbalance.
+
+### Are these practices still done today?
+Rarely in formal ritual form, but fragments survive as “traditions” — spring washing, herb gathering, fasting, and symbolic acts whose meanings are no longer explained aloud.
 
 ---
 
