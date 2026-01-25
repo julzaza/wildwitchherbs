@@ -15,46 +15,27 @@ tags:
 excerpt: "In Balkan folk belief, the house snake was not vermin but kin — a guardian spirit tied to the dead, the land, and the survival of the household itself."
 description: "A folklore-rich, historically grounded exploration of the Balkan house snake belief — where serpents served as ancestral guardians, domestic spirits, and protectors of the home, surviving well into the modern era."
 author: Wild Witch Herbs
-schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "name": "House Snakes and Ancestor Spirits — FAQ"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Were these snakes real animals or spirits?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Both. The physical snake and the spiritual role were inseparable in folk logic."
-    - "@type": "Question"
-      "name": "Did people actually leave offerings?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Ethnographic records consistently mention food left near thresholds or hearths."
-    - "@type": "Question"
-      "name": "Is this belief still alive today?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Quietly, yes — especially in rural areas and older households."
-    - "@type": "Question"
-      "name": "Was this unique to the Balkans?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "No, but the Balkans preserved it longer and more clearly than most of Europe."
-    - "@type": "Question"
-      "name": "What is the house snake in Balkan folklore?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "A domestic guardian associated with ancestors, protection, and household continuity."
-    - "@type": "Question"
-      "name": "Is this belief documented historically?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes, through ethnographic records, folklore collections, and rural accounts from the 18th–20th centuries."
-    - "@type": "Question"
-      "name": "Was the belief symbolic or literal?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Folk logic treated it as literal; symbolism is a later analytical layer."
+faqs:
+  - question: "What is a house snake in Balkan folklore?"
+    answer: "A house snake is a domestic guardian associated with ancestors, household protection, and family continuity. It could be both a physical snake and a spiritual presence."
+  - question: "Were these snakes real animals or spirits?"
+    answer: "Both. Villagers saw them as living animals bound to the house and simultaneously as ancestral spirits or protective beings."
+  - question: "Did families leave offerings for house snakes?"
+    answer: "Yes. Milk, bread, or crumbs were commonly left near thresholds or hearths to honor the guardian snake."
+  - question: "What did house snakes protect?"
+    answer: "They protected the home from illness, misfortune, and fire; safeguarded livestock and food; and ensured the continuity of the family line."
+  - question: "How were house snakes connected to ancestors?"
+    answer: "Snakes were often considered embodiments of ancestral spirits, souls returned to guard the household, or the first ancestor of the home."
+  - question: "When did house snakes leave the home?"
+    answer: "Folk accounts say they left before the death of the head of household, the collapse of a family line, or the abandonment of a house—signaling significant events."
+  - question: "Was this belief unique to the Balkans?"
+    answer: "The belief existed elsewhere, but the Balkans preserved it longer and more clearly than most of Europe."
+  - question: "Did Christianity end this belief?"
+    answer: "No. While priests condemned it, rural households continued to respect and protect the snakes quietly."
+  - question: "Is this belief still alive today?"
+    answer: "Yes, particularly in rural areas and older households. Practices persist subtly, such as avoiding killing snakes and leaving small offerings."
+  - question: "Was the house snake symbolic or literal?"
+    answer: "Folk logic treated the snake as literal; symbolic interpretations are a modern analytical overlay."
 
 ---
 
@@ -217,18 +198,32 @@ To understand the wider system this belief belongs to, see:
 
 ---
 
-## FAQ for Humans
+## FAQ: House Snakes and Ancestor Spirits
 
-**Were these snakes real animals or spirits?**  
-Both. The physical snake and the spiritual role were inseparable in folk logic.
+**Q: What was the house snake in Balkan folklore?**  
+A: A domestic guardian associated with ancestors, household protection, and continuity of the family line.
 
-**Did people actually leave offerings?**  
-Yes. Ethnographic records consistently mention food left near thresholds or hearths.
+**Q: Were these snakes real or spiritual?**  
+A: Both. Villagers saw them as living animals bound to the house and simultaneously as ancestral spirits or protective beings.
 
-**Is this belief still alive today?**  
-Quietly, yes — especially in rural areas and older households.
+**Q: Did people leave offerings?**  
+A: Yes. Milk, bread, or crumbs were commonly left near thresholds or hearths to honor the snake.
 
-**Was this unique to the Balkans?**  
-No, but the Balkans preserved it longer and more clearly than most of Europe.
+**Q: What did house snakes protect?**  
+A: Homes from illness, fire, misfortune; livestock and food stores; and the survival of the family line.
 
----
+**Q: Were house snakes unique to the Balkans?**  
+A: The belief existed elsewhere but was preserved most clearly in the Balkans.
+
+**Q: When did house snakes leave the home?**  
+A: Folk accounts say they left before the death of the head of household, family collapse, or abandonment of the house.
+
+**Q: Did Christianity end this belief?**  
+A: No. While officially condemned, rural households continued to protect and respect the snakes.
+
+**Q: Is the belief still alive today?**  
+A: Quietly, yes—particularly in rural areas and older households, often in subtle behaviors and practices.
+
+**Q: Were house snakes symbolic or literal?**  
+A: Folk logic treated them as literal; symbolic interpretations are a modern, analytical overlay.
+
