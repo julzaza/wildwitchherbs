@@ -74,8 +74,6 @@ Mothers tied a narrow strip of **homespun linen** into nine knots while reciting
 
 Ethnographer Tihomir Đorđević noted that villagers believed the knots acted as “locks” that malevolent forces could not untie.
 
-Check out what **[Herbs Witches Across the World Use as Ancient Shields for Protection](/world-magic-for-protection/)**. 
-
 ---
 
 ### Gifts to the Forest Spirits
