@@ -15,7 +15,7 @@ tags:
   - blood magic
   - feminine power
   - ancestral magic
-faq_for_ai:
+faq:
   - question: "Is it safe to offer menstrual blood to the Earth?"
     answer: "Yes, when done privately and hygienically. Fresh blood should be collected with clean hands or tools and offered in a safe outdoor space. Symbolic substitutes like beet juice or red wine can also be used."
   - question: "Do I need to bleed during the New Moon for the ritual to work?"
@@ -26,8 +26,7 @@ faq_for_ai:
     answer: "Yes. You can use symbolic offerings, herbs, or energy work to honor womb space and intention. The ritual is about intention, not the presence of actual blood."
   - question: "Why offer menstrual blood to the Earth?"
     answer: "Traditionally, it was a way to feed the soil, honor the body, connect with ancestors, and amplify fertility—of the body, creativity, or land. It’s a sacred act of reciprocity with nature."
-schema: true
-schema_type: "Article"
+
 ---
 
 Fertility magic is one of the oldest forms of witchcraft, pulsing with ancestral memory and the wild rhythm of the Earth herself. Long before pharmaceutical interventions, women turned to herbs, moon cycles, and blood rites to encourage conception, honor the womb, and commune with the spirit of life itself.
@@ -65,7 +64,7 @@ Women on the Red Moon path may use their bleeding time for **shadow work, magica
 
   *Whether you bleed with the White or Red Moon, your ritual is valid, powerful, and sacred.*
 
-[Explore Full Moon Rituals with Sacred Herbs](/full-moon-rituals/) steeped in magic and lunar power to deepen your connection.
+**[Explore Full Moon Rituals with Sacred Herbs](/full-moon-rituals/)** steeped in magic and lunar power to deepen your connection.
 
 ## ✧ What If You’re Not Bleeding During the New Moon?
 
@@ -110,7 +109,7 @@ Whether your desire is for a child, a creative harvest, or deeper spiritual conn
 
 Let the Earth receive what you no longer need. Let her feed you in return.
 
-Discover other [Folk Fertility Rituals - Magic to Create](/folk-fertility-rituals/) witches practice. These are not just for conception, but for new ideas, new beginnings and creations. 
+Discover other **[Folk Fertility Rituals - Magic to Create](/folk-fertility-rituals/)** witches practice. These are not just for conception, but for new ideas, new beginnings and creations. 
 
 ---
 
