@@ -15,40 +15,24 @@ tags:
   - badnjak tradition
 excerpt: "Long before churches, the oak ruled the Balkans. Sacred oaks were worshipped, feared, and protected—some still are. This is the real history of the Balkan oak cult."
 description: "A historical and folkloric deep dive into the Balkan oak cult, including sacred trees (zapis), Slavic thunder gods, rituals, and Christian survivals rooted in pre-Christian belief."
-schema_faq:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Was there really a pagan oak cult in the Balkans?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Ethnographic records, church complaints, and surviving village customs confirm the existence of an oak-centered cult in the Balkans that predates Christianity."
-    - "@type": "Question"
-      "name": "What god was associated with oak trees in Balkan folklore?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "In Slavic belief, oak trees were associated with Perun, the thunder and sky god, and were believed to attract lightning and divine presence."
-    - "@type": "Question"
-      "name": "What is a zapis tree?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "A zapis is a ritually protected tree, usually an oak, marked with a carved cross and believed to guard a village spiritually."
-    - "@type": "Question"
-      "name": "Is the oak cult still practiced today?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Not openly, but it survives through customs, taboos, and protected trees that people continue to respect without formal explanation."
-    - "@type": "Question"
-      "name": "Was oak worship replaced by Christianity?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "No. Christianity layered over existing beliefs, absorbing oak rituals rather than erasing them."
-    - "@type": "Question"
-      "name": "Is this considered witchcraft?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "No. Oak worship predates witchcraft as a category and belongs to land-based folk religion rather than magical practice."
+faqs:
+  - question: "Was there really a pagan oak cult in the Balkans?"
+    answer: "Yes. Ethnographic records, church complaints, and surviving village customs confirm the existence of an oak-centered cult in the Balkans that predates Christianity."
+
+  - question: "Which god was associated with oak trees in Balkan folklore?"
+    answer: "In Slavic belief, oak trees were associated with Perun, the thunder and sky god, and were believed to attract lightning and divine presence."
+
+  - question: "What is a zapis tree?"
+    answer: "A zapis is a ritually protected tree, usually an oak, marked with a carved cross and believed to guard a village spiritually and protect its land."
+
+  - question: "Did Christianity erase oak worship?"
+    answer: "No. Christianity layered itself over existing beliefs, absorbing oak rituals rather than fully erasing them."
+
+  - question: "Is the oak cult still practiced today?"
+    answer: "Not openly, but it survives through customs, taboos, protected trees, and village traditions that people continue to respect without formal explanation."
+
+  - question: "Is oak worship considered witchcraft?"
+    answer: "No. Oak worship predates witchcraft as a category and belongs to land-based folk religion rather than magical practice."
 
 ---
 
@@ -269,7 +253,7 @@ Oaks did not stand alone in Balkan cosmology but belonged to a wider ecology of 
 
 ---
 
-## FAQ
+## FAQ The Oak Tree Cult
 
 ### Was there really a pagan oak cult in the Balkans?
 Yes. Ethnographic records, church complaints, and surviving customs confirm it.
