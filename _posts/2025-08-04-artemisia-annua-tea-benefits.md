@@ -63,6 +63,8 @@ In folk medicine, bitter herbs like Artemisia are **believed to “wake up” th
 
 In the Balkans, **where we source our tea, women once gathered Artemisia with the moon, drying it slowly** in shaded sheds and attics, away from harsh sunlight. The result is a clean, piercing infusion that feels alive — one cup is enough to remind you: this is no supermarket herb.
 
+--- 
+
 ## Magical Uses & Rituals
 
 Artemisia isn’t just medicine. She’s a witch’s herb — full of magic, mystery, and protection.
@@ -120,10 +122,11 @@ Harvested by hand. Crafted with care. Limited batches only.
 
 - For seasonal resets, not daily sipping
 
-✖ Not for pregnancy or while breastfeeding
+- Not for pregnancy or while breastfeeding
 
-✖ Not for people seeking mild, comforting teas
+- Not for people seeking mild, comforting teas
 
+---
 
 ## FAQ: Artemisia Annua Tea 
 
