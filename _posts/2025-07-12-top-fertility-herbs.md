@@ -114,7 +114,7 @@ Within the cunning craft, fertility work often went beyond conception, intertwin
 
 In certain traditions, fertility work blurred into desire and control — a darker boundary explored in **[Fear-Based Love Binding Magic](/balkan-love-magic-folklore/)** where conception, obsession, and survival overlapped.
 
-* Always consult a qualified herbalist or health practitioner before using herbs medicinally, especially if you’re pregnant or taking medication.
+*Always consult a qualified herbalist or health practitioner before using herbs medicinally, especially if you’re pregnant or taking medication.*
 
 ---
 
