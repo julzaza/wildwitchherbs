@@ -116,9 +116,9 @@ Harvested by hand. Crafted with care. Limited batches only.
 
 ## Who This Tea Is (and Isn’t) For
 
-✔ For people drawn to bitter herbs, ritual plants, ancestral practices
+- For people drawn to bitter herbs, ritual plants, ancestral practices
 
-✔ For seasonal resets, not daily sipping
+- For seasonal resets, not daily sipping
 
 ✖ Not for pregnancy or while breastfeeding
 
