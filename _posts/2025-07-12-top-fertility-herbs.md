@@ -102,17 +102,15 @@ Not to be confused with yams from the grocery store, wild yam supports progester
 
 ---
 
-Some fertility traditions went further, linking conception to blood, cycle timing, and ritual preparation — explored in **[Menstrual Blood Fertility Rites](/fertility-rituals-menstrual-magic/)** tied to White and Red Moon cycles.
-
----
-
 ## Final Thoughts
 
 Fertility is not just about the body—it’s about cycles, timing, soul, and spirit. These herbs work not only through their physical effects, but through their stories, symbolism, and the quiet rituals they invite us into. Whether you are trying to conceive, reconnecting with your womb, or honoring the sacred power of creation, these plants stand ready as allies.
 
 For herbs that work to invite love into your life, see **[Love Magic Herbs: Attract the Right Partner](/love-magic-herbs-to-attract-the-right-partner/)**.
 
-In some traditions, fertility work blurred into desire and control — a darker boundary explored in **[Fear-Based Love Magic Traditions](/balkan-love-magic-folklore/)** where conception, obsession, and survival overlapped.
+Some fertility traditions went further, linking conception to blood, cycle timing, and ritual preparation — explored in **[Menstrual Blood Fertility Rites](/fertility-rituals-menstrual-magic/)** tied to White and Red Moon cycles.
+
+In certain traditions, fertility work blurred into desire and control — a darker boundary explored in **[Fear-Based Love Magic Traditions](/balkan-love-magic-folklore/)** where conception, obsession, and survival overlapped.
 
 * Always consult a qualified herbalist or health practitioner before using herbs medicinally, especially if you’re pregnant or taking medication.
 
