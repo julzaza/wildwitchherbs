@@ -157,7 +157,7 @@ Isolation, strong oral tradition, and a community that preserved ancestral rites
 
 **Can I learn more about related Balkan magic?**  
 Yes — explore:    
-- **[Herbal Companions Vlaska Babas Use](/herbs-vlach-wise-women/)**  
+- **[Herbs Vlaska Wise Women Use](/herbs-vlach-wise-women/)**  
 
 **Is this post meant as instruction for spells?**  
 No — this is folklore, cultural anthropology, and storytelling, not magical guidance.
