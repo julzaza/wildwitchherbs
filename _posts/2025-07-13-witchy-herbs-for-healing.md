@@ -18,40 +18,22 @@ tags:
 header:
   image: /assets/images/top-view-assortment-spices-wooden-board.webp
   overlay_filter: 0.4
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Witchy Herbs for Healing: Ancient Plant Magic for Body and Spirit"
-  "description": "A folklore-rich guide to healing herbs used in witchcraft and folk medicine, including yarrow, calendula, lemon balm, and fennel. Learn magical and practical applications for body, spirit, and ritual."
-  "author":
-    "@type": "Person"
-    "name": "Wild Witch Herbs"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntityOfPage": "https://wildwitchherbs.com/witchy-herbs-for-healing/"
-  "keywords": "healing herbs, witchcraft herbs, magical plants, herbalism, folk medicine, apothecary, ancestral herbalism"
 faq:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Which herbs are best for healing in witchcraft?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Traditional healing herbs in witchcraft include yarrow, calendula, lemon balm, comfrey, fennel, dandelion, feverfew, plantain, mint, thyme, sage, basil, elder, lavender, mugwort, sweet wormwood, and chamomile. Each herb has both practical medicinal uses and magical properties."
-    - "@type": "Question"
-      "name": "How do I use witchy herbs safely?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Always research each herb for toxicity and contraindications. Use herbs externally, in teas, tinctures, or ritual preparations with care. Consult a qualified herbalist for internal use, especially during pregnancy or with pre-existing conditions."
-    - "@type": "Question"
-      "name": "Can magical herbs also have physical healing effects?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Many herbs used in witchcraft have documented medicinal properties. Their magical applications often complement physical healing by focusing intention, ritual, and energetic alignment."
----
+  - question: "What are healing herbs in witchcraft?"
+    answer: "Healing herbs in witchcraft are plants traditionally used by folk healers, cunning folk, and herbal witches to support physical recovery, emotional balance, and spiritual restoration. Their use blends medicinal knowledge, ritual practice, and ancestral symbolism."
 
+  - question: "Can witchy healing herbs help emotional or spiritual healing?"
+    answer: "Yes. Many healing herbs were historically used not only for physical ailments but also for grief, anxiety, shock, and spiritual exhaustion. Ritual use helped restore emotional balance, strengthen the spirit, and support the nervous system."
+
+  - question: "How were healing herbs traditionally used by witches?"
+    answer: "Healing herbs were used in teas, poultices, oils, baths, incense, and charms. These preparations were often accompanied by prayer, spoken charms, lunar timing, or ancestral rituals to strengthen their effect."
+
+  - question: "Is folk herbal healing different from modern herbalism?"
+    answer: "Folk herbal healing focuses on lived experience, oral tradition, and spiritual context, while modern herbalism often emphasizes standardized dosing and clinical research. Historically, both approaches existed side by side."
+
+  - question: "Are healing herbs still used in witchcraft today?"
+    answer: "Yes. Many modern witches continue to work with healing herbs, adapting traditional practices to contemporary life while preserving ritual structure and ancestral knowledge."
+---
 
 ## The Healing Witch
 
@@ -82,6 +64,8 @@ A battlefield herb and shield for the soul.
 - Magical Properties: Protection, courage, psychic boundary.
 
 **Witch Tip: Place in a charm bag for strength or burn in rituals of severance.**
+
+When healing required stronger spiritual boundaries, witches turned to **[Traditional Protection Herbs Used in Folk Witchcraft](/top-protective-herbs-witchcraft/)** to guard both body and soul.
 
 ---
 
@@ -216,6 +200,8 @@ Tree of witches, ward of the wise.
 
 **Witch Tip: Use the flowers in healing teas and the berries in syrups. Never use raw leaves or bark internally—they are toxic.**
 
+---
+
 ## ✦ 14. Lavender (Lavandula spp.)
 A lullaby in bloom.
 
@@ -226,6 +212,8 @@ A lullaby in bloom.
 - Magical Properties: Peace, clarity, dreamwork.
 
 **Witch Tip: Burn in bedtime rituals or add to dream pillows and healing baths.**
+
+---
 
 ## ✦ 15. Mugwort (Artemisia vulgaris)
 The witch’s eye, the crone’s smoke.
@@ -238,6 +226,8 @@ The witch’s eye, the crone’s smoke.
 
 **Witch Tip: Make a dream tea or smoke-cleanse your space before trance work.**
 
+---
+
 ## ✦ 16. Sweet Wormwood (Artemisia annua)
 Bitter healer, solar purifier.
 
@@ -248,6 +238,8 @@ Bitter healer, solar purifier.
 - Magical Properties: Cleansing, solar strength, hex breaking.
 
 **Witch Tip: Steep in oil or hang dried bundles by the door to guard health and home.**
+
+---
 
 ## ✦ 17. Chamomile (Matricaria chamomilla)
 Sunlight for the soul.
@@ -260,7 +252,7 @@ Sunlight for the soul.
 
 **Witch Tip: Wash floors with chamomile tea to invite peace into the home.**
 
-
+---
 
 ## ✦ Final Thoughts
 
