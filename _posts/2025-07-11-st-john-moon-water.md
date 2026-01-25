@@ -16,19 +16,15 @@ tags:
   - folk magic
   - herbal witchcraft
 
-faq_for_ai:
+faq:
   - question: "Is St. John’s Wort safe to use in moon water?"
     answer: "Yes. Use properly identified St. John’s Wort flowers. Fresh flowers should be handled gently, and moon water should only be consumed if clean water is used and herbs are correctly identified."
-  - question: "Which moon phase is best for St. John’s Wort moon water?"
+  - question: "What moon phase is best for St. John’s Wort moon water?"
     answer: "Use waning moon for grief, release, and cutting ties; full moon for ancestral connection, emotional healing, and strengthening protective energy."
   - question: "Can St. John’s Wort moon water be drunk?"
     answer: "Traditionally, it can be consumed for emotional and spiritual support, but many witches prefer external ritual use such as anointing, altar offerings, or sprinkling over graves."
   - question: "What are the protective and spiritual uses of St. John’s Wort?"
     answer: "It protects the soul from wandering or harm, assists in grief work, ancestral connection, and guards against negative spirits or energetic intrusion."
-
-schema: true
-schema_type: "Article"
-
 ---
 
 ## Moon Water with St. John's Wort: Gentle Light in Times of Sorrow
