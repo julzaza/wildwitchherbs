@@ -79,7 +79,7 @@ Balkan hedgewitches and "baba vračare" used herbs both practically and magicall
   
 **Rituals**: “Throwing herbs on coals” was a common household practice for driving out the evil eye or banishing sorrow.
 
-Learn more about **[Witchy Herbs Used by Vlach Wise Women of the Balkans](/herbs-vlach-wise-women/)** and their **[Magic Practices: Love Spells and Protective Knots](/charms-vlach-healers/)**.
+Learn more about **[Witchy Herbs Used by Vlach Wise Women of the Balkans](/herbs-vlach-wise-women/)**.
 
 ---
 
@@ -181,7 +181,9 @@ These herbs show up across continents, often with remarkably similar uses:
  **Angelica:**  Barrier against sickness and ill intent       
  **Anamu:**     Banishing, removing hexes, protection spells  
 
- To find out which plants are the most potent against the dark forces, check out **[11 Top Whitchy Herbs for Protection](/top-protective-herbs-witchcraft/)**.
+These herbs appear repeatedly across cultures, often fulfilling similar protective roles.
+
+Learn which **[Herbs Should Never Be Burned in Ritual](/never-burn-herbs/)** to avoid making dangerous mistakes. 
 
 ---
 
@@ -216,9 +218,3 @@ Let the plants protect you—boldly, softly, completely.
 **[Top Witchy Herbs for Healing](/witchy-herbs-for-healing/)** will guide you through plants witches and healers used to cure body, mind and soul. 
 
 ---
-
-## Related Posts 
-
-- [How to Make Moon Water and Use It in Magic](/moon-water-magic)
-- [How To Start Your Own Witchy Garden](/witch-garden/)
-- [Herbs You Should Never Burn in Ritual](/never-burn-herbs/)
