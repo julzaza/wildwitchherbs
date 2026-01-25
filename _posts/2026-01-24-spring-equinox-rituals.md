@@ -35,36 +35,6 @@ faqs:
   - question: "Is Spring Equinox witchcraft about love and joy?"
     answer: "Historically, it was more about balance, protection, agricultural survival, and renewing the land’s spiritual contracts."
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What is the Spring Equinox in folk belief?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "In folk belief, the Spring Equinox marked a moment of dangerous balance between light and dark, requiring rituals of protection, renewal, and land blessing."
-    - "@type": "Question"
-      "name": "Is Ostara an ancient festival?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Ostara as a named festival is modern, but spring equinox rites existed across Europe long before modern pagan frameworks."
-    - "@type": "Question"
-      "name": "What did people traditionally do on the Spring Equinox?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "People performed land offerings, boundary rites, fertility magic, seed blessings, ancestor offerings, and protective cleansing."
-    - "@type": "Question"
-      "name": "Did non-European cultures observe the equinox?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Equinox rites existed globally, including in Persia, Mesoamerica, East Asia, Africa, and Indigenous cultures of the Americas."
-    - "@type": "Question"
-      "name": "Is Spring Equinox witchcraft about love and joy?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Historically, it was more about balance, protection, agricultural survival, and renewing the land’s spiritual contracts."
-        
 ---
 
 The Spring Equinox has always been one of the most misunderstood points in the ritual year.
