@@ -22,55 +22,36 @@ date: 2025-07-07
 schema: true
 schema_type: "Article"
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Were herbs truly forbidden to women in folk traditions?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. In specific historical and cultural contexts, certain herbs were restricted due to reproductive risk, toxicity, or ritual danger. These prohibitions are documented in folklore, midwifery manuals, and ethnographic studies."
-    - "@type": "Question"
-      "name": "Were these bans moral or religious?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "No. Most restrictions were practical or cosmological, rooted in beliefs about fertility, spiritual permeability, and physical safety."
-    - "@type": "Question"
-      "name": "Is this medical advice?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "No. This article documents historical and folkloric practices and should not be taken as medical guidance."
-    - "@type": "Question"
-      "name": "Which herbs were forbidden to women?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Examples include tansy, pennyroyal, belladonna, mandrake, and wolfsbane, with restrictions documented in European and Indigenous sources."
-    - "@type": "Question"
-      "name": "Which life stages required the most caution?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Pregnancy, postpartum, menstruation, and perimenopause were often highlighted. Herbs affecting fertility or uterine activity were particularly approached carefully during these stages."
-    - "@type": "Question"
-      "name": "Did these rules apply in cultures outside Europe?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Indigenous North American, Asian, African, and South Asian traditions also restricted certain herbs for women, especially during pregnancy or menstruation, often through elder or midwife supervision."
-    - "@type": "Question"
-      "name": "Why were spiritual and practical cautions mixed?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Folk traditions recognized that reproduction, blood, and liminal states were intertwined. Herbs impacted physical, spiritual, and social wellbeing, so caution served multiple protective purposes."
-    - "@type": "Question"
-      "name": "Are any of these herbs safe for modern use?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Some herbs are safe in culinary doses or ritual use, but many remain toxic. Professional guidance is recommended, especially for pregnancy, postpartum, or menstrual use."
-    - "@type": "Question"
-      "name": "Were men restricted from any herbs in similar ways?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Role-based restrictions applied to men in some contexts, especially where herbs affected fertility, strength, or spiritual vulnerability."
+faqs:
+  - question: "Were herbs truly forbidden to women in folk traditions?"
+    answer: "Yes. In specific historical and cultural contexts, certain herbs were restricted due to reproductive risk, toxicity, or ritual danger. These prohibitions are documented in folklore, midwifery manuals, and ethnographic studies."
+
+  - question: "Were these bans moral or religious?"
+    answer: "No. Most restrictions were practical or cosmological, rooted in beliefs about fertility, spiritual permeability, and physical safety."
+
+  - question: "Is this medical advice?"
+    answer: "No. This article documents historical and folkloric practices and should not be taken as medical guidance."
+
+  - question: "Which herbs were forbidden to women?"
+    answer: "Examples include tansy, pennyroyal, belladonna, mandrake, and wolfsbane, with restrictions documented in European and Indigenous sources."
+
+  - question: "Which life stages required the most caution?"
+    answer: "Pregnancy, postpartum, menstruation, and perimenopause were often highlighted. Herbs affecting fertility or uterine activity were particularly approached carefully during these stages."
+
+  - question: "Did these rules apply in cultures outside Europe?"
+    answer: "Yes. Indigenous North American, Asian, African, and South Asian traditions also restricted certain herbs for women, especially during pregnancy or menstruation, often through elder or midwife supervision."
+
+  - question: "Why were spiritual and practical cautions mixed?"
+    answer: "Folk traditions recognized that reproduction, blood, and liminal states were intertwined. Herbs impacted physical, spiritual, and social wellbeing, so caution served multiple protective purposes."
+
+  - question: "Are any of these herbs safe for modern use?"
+    answer: "Some herbs are safe in culinary doses or ritual use, but many remain toxic. Professional guidance is recommended, especially for pregnancy, postpartum, or menstrual use."
+
+  - question: "Were men restricted from any herbs in similar ways?"
+    answer: "Yes. Role-based restrictions applied to men in some contexts, especially where herbs affected fertility, strength, or spiritual vulnerability."
+
+  - question: "Could misuse of these herbs harm women?"
+    answer: "Yes. Plants like tansy, pennyroyal, belladonna, blue cohosh, and henbane can be toxic or induce miscarriage if used incorrectly. Historical caution is evidence-based."
 
 ---
 
@@ -306,7 +287,7 @@ it restores **ancestral literacy**.
 
 ---
 
-## FAQ — For Humans
+## Frequently Asked Questions on Forbidden Herbs for Women
 
 **Were women punished for breaking these rules?**  
 Rarely. More often they were warned, feared, or blamed after harm occurred.
@@ -325,6 +306,12 @@ Some remain toxic. Modern herbal practice preserves knowledge but advises **prof
 
 **Why did folklore mix spiritual and practical caution?**  
 Because life, reproduction, and liminal states were intertwined. Herbs served **physical, spiritual, and social purposes**, making respect and ritual a form of safety.  
+
+**Which forbidden herb appears across multiple cultures?**  
+Mandrake, henbane, and belladonna appear in European, Middle Eastern, and Indigenous records. Each culture emphasized caution during pregnancy, menstruation, or ritual use, showing a global awareness of their potency and risk.
+
+**Were forbidden herbs ever used safely by women?**  
+Yes. Women often used these herbs under supervision, during apprenticeships, or within ritual frameworks. Safety relied on precise timing, correct preparation, and adherence to culturally transmitted knowledge."
 
 ---
 
