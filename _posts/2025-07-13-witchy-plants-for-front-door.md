@@ -15,38 +15,28 @@ tags:
   - garden magic
   - folk magic
   - threshold
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Witchy Plants for the Front Door"
-  "description": "Learn which protective and magical plants witches have historically planted at thresholds to guard homes, invite blessings, and work ancestral magic."
-  "author":
-    "@type": "Person"
-    "name": "Wild Witch Herbs"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntityOfPage": "https://wildwitchherbs.com/witchy-plants-for-front-door/"
-  "keywords": "witchy plants, protective herbs, threshold magic, garden magic, folk magic, witchcraft herbs, ancestral plants"
 faq:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Which plants are best for planting at the front door?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Traditional threshold plants include southernwood, basil, yarrow, boxwood, hellebore, woodruff, hawthorn, nettles, angelica, thyme, rue, hyssop, vervain, wormwood, lavender, and rosemary. Each carries protective, healing, or warding properties."
-    - "@type": "Question"
-      "name": "How do I use these plants for protection?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Plant near the door, sprinkle salt around them, whisper intentions, tie red threads or iron nails nearby, or use dried bundles inside or outside. Ritual reinforcement amplifies their magical effect."
-    - "@type": "Question"
-      "name": "Can I grow threshold plants indoors?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Many herbs like basil, rosemary, lavender, and thyme thrive indoors. Place them near windows or entryways to maintain their protective and magical qualities."
+  - question: "What are threshold plants and why are they used at the front door?"
+    answer: "Threshold plants are herbs, shrubs, and flowering plants historically placed near doorways to protect the home, invite blessings, and honor ancestral magic. They serve as living wards, combining practical, spiritual, and symbolic functions."
+
+  - question: "Which plants are considered the most powerful for home protection?"
+    answer: "Traditional protective threshold plants include southernwood, basil, yarrow, boxwood, hellebore, woodruff, hawthorn, nettles, angelica, thyme, rue, hyssop, vervain, wormwood, lavender, and rosemary. Each has unique protective, healing, or warding properties."
+
+  - question: "How do I use these plants for magical protection?"
+    answer: "Plant near doors or windows, sprinkle salt around them, whisper your intentions, tie red threads or iron nails, or use dried bundles indoors. Rituals performed during moon phases, solstices, or full moons can enhance their magical effect."
+
+  - question: "Can I grow threshold plants indoors?"
+    answer: "Yes. Herbs like basil, rosemary, lavender, and thyme adapt well to pots indoors. Place them near windows or entryways to maintain protective and magical qualities."
+
+  - question: "Do threshold plants work if I don’t perform rituals?"
+    answer: "They still offer symbolic and energetic protection, but ritual, intention, and repeated care amplify their efficacy. Magic is both in the plant and in the hands and mind of the practitioner."
+
+  - question: "Can these plants attract positive energy and blessings?"
+    answer: "Yes. Many threshold herbs, like vervain, rosemary, and lavender, were used to invite peace, love, prosperity, and harmonious energy into the home, in addition to warding off harm."
+
+  - question: "Are threshold plants safe to handle and grow?"
+    answer: "Most are safe if handled correctly, but toxic plants like hellebore or wormwood should never be ingested. Some, like rue, can irritate skin. Keep plants away from pets and children, and consult reliable sources before using for medicinal purposes."
+
 ---
 
 The front door is no ordinary place. It is a **threshold —a liminal line between worlds, sacred in nearly every magical tradition.** Spirits are said to pause there. Blessings gather or scatter at the doorstep. Witchcraft, especially of the folk kind, treats the entryway as a spell in itself.
@@ -209,14 +199,40 @@ Not just for inside! Bundles of lavender were hung by front doors to calm househ
 ---
 
 ## ✦ 16. Rosemary (Rosmarinus officinalis)
-“Where rosemary grows, the woman rules.” It was planted by thresholds for fidelity and strength. Check out **[Rosemary- Witchy Plant to Guard the Front Door](/why-witches-plant-rosemary-front-door/)** for more.
+“Where rosemary grows, the woman rules.” It was planted by thresholds for fidelity and strength. 
 
 - Folklore: Brides carried it, but it was also burned at doorways during plague times.
 - Magic: Memory, love, purification.
 - Growing Tip: Drought-tolerant, loves the sun, protect from frost.
+
+Check out **[Rosemary- Witchy Plant to Guard the Front Door](/why-witches-plant-rosemary-front-door/)** for more.
 
 ---
 
 The door you walk through each day can become **a gate of magic**, a veil stitched with root and leaf, bloom and thorn. Let it **speak on your behalf**: *“This home is watched, protected, and blessed.”*
 
 Want to guard your inner space as well? Explore: **[Grow Witchy Plants Indoors](/witchy-plants-to-grow-indoors/)**.
+
+---
+
+## Frequently Asked Questions
+
+### What are threshold plants and why are they used at the front door?
+Threshold plants are herbs, shrubs, and flowering plants historically placed near doorways to protect the home, invite blessings, and honor ancestral magic. They serve as living wards, combining practical, spiritual, and symbolic functions.
+
+### Which plants are considered the most powerful for home protection?
+Traditional protective threshold plants include southernwood, basil, yarrow, boxwood, hellebore, woodruff, hawthorn, nettles, angelica, thyme, rue, hyssop, vervain, wormwood, lavender, and rosemary. Each has unique protective, healing, or warding properties.
+
+### How do I use these plants for magical protection?
+Plant near doors or windows, sprinkle salt around them, whisper your intentions, tie red threads or iron nails, or use dried bundles indoors. Rituals performed during moon phases, solstices, or full moons can enhance their magical effect.
+
+### Can I grow threshold plants indoors?
+Yes. Herbs like basil, rosemary, lavender, and thyme adapt well to pots indoors. Place them near windows or entryways to maintain protective and magical qualities.
+
+### Do threshold plants work if I don’t perform rituals?
+They still offer symbolic and energetic protection, but ritual, intention, and repeated care amplify their efficacy. Magic is both in the plant and in the hands and mind of the practitioner.
+
+### Can these plants attract positive energy and blessings?
+Yes. Many threshold herbs, like vervain, rosemary, and lavender, were used to invite peace, love, prosperity, and harmonious energy into the home, in addition to warding off harm.
+
+---
