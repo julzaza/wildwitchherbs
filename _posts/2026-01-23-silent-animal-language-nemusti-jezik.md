@@ -19,26 +19,7 @@ faqs:
     answer: "By observing animal behavior, meditating with specific herbs, performing rituals during sacred times, and practicing silent, respectful listening, witches can attune to the messages of nature."
   - question: "Which herbs help communicate with animals?"
     answer: "Balkan herbs such as wormwood, sage, thyme, and St. John’s Wort are traditionally used to heighten perception and facilitate communication with animals and spirits."
-schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "name": "Silent Language of Animals — FAQ"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What is the Silent Language of animals, Nemušti Jezik?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Nemušti Jezik, or the Silent Language, is a Balkan folkloric practice that allows humans to understand animal speech and nature messages. It involves observation, herbal rituals, and mindful listening."
-    - "@type": "Question"
-      "name": "How can modern witches practice Nemušti Jezik?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "By observing animal behavior, meditating with specific herbs, performing rituals during sacred times, and practicing silent, respectful listening, witches can attune to the messages of nature."
-    - "@type": "Question"
-      "name": "Which herbs help communicate with animals?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Balkan herbs such as wormwood, sage, thyme, and St. John’s Wort are traditionally used to heighten perception and facilitate communication with animals and spirits."
+
 internal_links:
   - title: "Nemušti Jezik: The Silent Tongue in Balkan Folk Tales"
     url: /nemusti-jezik-silent-tongue/
