@@ -72,10 +72,9 @@ In Vlaska Magija traditions, fire was used to ensure fertile harvest and to keep
 
 ---
 
-**Related Magic:**  
-Dive deeper:
+## **Related Magic:**  
 
-- into protective charms: **[Charms of the Vlach Wise Women](/charms-vlach-healers/)**
+- protective **[Charms of the Vlach Wise Women](/charms-vlach-healers/)**
 - learn which **[Herbs Vlach Wise Women Relied On](/herbs-vlach-wise-women/)**
 - and which **[Herbs Kept the Dead Away in Serbia](/vampire-herbs-vlach-magic/)**
 
