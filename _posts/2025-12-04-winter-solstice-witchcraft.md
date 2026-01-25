@@ -26,35 +26,6 @@ faq:
   - question: "Who leads the Wild Hunt?"
     answer: "Depending on region: Odin/Wodan, Frau Holle, Perchta, King Herla, or ancestral riders."
 
-faq_schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Is the solstice the same as Yule?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Not exactly—Yule is a later Germanic festival layered over older solstice rites."
-    - "@type": "Question"
-      "name": "Did witches historically practice solstice rituals?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes—many documented Alpine, Slavic, Germanic, and Baltic traditions involve midwinter rites."
-    - "@type": "Question"
-      "name": "Which herbs are best for solstice magic?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Juniper, mugwort, wormwood, yew, holly, ivy, pine, and oak were commonly used."
-    - "@type": "Question"
-      "name": "What is the spiritual meaning of the solstice?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Rebirth, protection, ancestral presence, and the return of light."
-    - "@type": "Question"
-      "name": "Who leads the Wild Hunt?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Depending on region: Odin/Wodan, Frau Holle, Perchta, King Herla, or ancestral riders."
 ---
 
 # The Return of the Sun
