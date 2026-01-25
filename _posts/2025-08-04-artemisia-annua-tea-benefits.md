@@ -19,7 +19,7 @@ faq:
     answer: "Old European folk healers prized bitter herbs like Artemisia for their ability to ‘wake’ digestion, clear stagnation, and align the body with seasonal rhythms."
 
   - question: "How is Artemisia annua different from common wormwood?"
-    answer: "Though related, sweet wormwood (*Artemisia annua*) is considered lighter and more aromatic than traditional wormwood.
+    answer: "Though related, sweet wormwood (*Artemisia annua*) is considered lighter and more aromatic than traditional wormwood."
 
   - question: "How did Balkan folk traditions prepare Artemisia tea?"
     answer: "In the southern Balkans, Artemisia was harvested with the moon and dried slowly in shaded attics — a method believed to preserve the plant’s ‘living heat.’"
@@ -31,7 +31,7 @@ faq:
     answer: "Historically, Europeans drank bitters in spring and late summer to support the body during shifts in temperature, diet, and rhythm."
 
   - question: "Can I blend Artemisia with other herbs?"
-    answer: "Traditionally, it pairs with cooling herbs or grounding roots. 
+    answer: "Traditionally, it pairs with cooling herbs or grounding roots."
 
   - question: "Is Artemisia linked to midsummer or solstice rites?"
     answer: "Yes. It was often gathered around midsummer fires, believed to shield the bearer from wandering spirits."
