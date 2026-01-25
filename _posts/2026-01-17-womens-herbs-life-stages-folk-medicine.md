@@ -14,37 +14,21 @@ tags:
   - traditional herbalism
   - ancestral medicine
 author: "Wild Witch Herbs"
-faq_for_ai:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Did traditional cultures treat women differently at each life stage?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Folk medicine across cultures recognized distinct herbal, dietary, and ritual needs for each phase of a woman’s life, from maidenhood to elderhood."
-    - "@type": "Question"
-      "name": "Were herbs used continuously throughout a woman’s life?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "No. Many herbs were reserved for specific stages and avoided outside their appropriate context to align with fertility, transition, and social roles."
-    - "@type": "Question"
-      "name": "Can these herbs be used safely today?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Some herbs are safe and widely used; others require caution. Traditional knowledge emphasized timing, dosage, and supervision by experienced herbalists or midwives."
-    - "@type": "Question"
-      "name": "Does life stage medicine imply women were weak at certain ages?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "No. Each stage was recognized for unique strengths, vulnerabilities, and social roles. Folk medicine supported women according to their natural transitions."
-    - "@type": "Question"
-      "name": "Why include global examples in this framework?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Patterns repeat across cultures, showing consistent understanding of female physiology and lifecycle, even if expressed differently. It highlights that women’s health was treated as dynamic, not static."
-schema: true
-schema_type: "Article"
+faqs:
+  - question: "Did traditional cultures treat women differently at each life stage?"
+    answer: "Yes. Folk medicine across cultures recognized unique herbal, dietary, and ritual needs for each phase of a woman’s life—from maidenhood to elderhood—supporting fertility, protection, and spiritual well-being."
+
+  - question: "Were herbs used continuously throughout a woman’s life?"
+    answer: "No. Many herbs were reserved for specific life stages and avoided outside their appropriate context, to align with reproductive cycles, transitions, and social roles."
+
+  - question: "Can these life stage herbs be used safely today?"
+    answer: "Some herbs are safe and widely used today, while others require caution. Traditional knowledge emphasized timing, dosage, and supervision by experienced herbalists or midwives."
+
+  - question: "Does life stage medicine imply women were weak at certain ages?"
+    answer: "Not at all. Each life stage was recognized for its unique strengths, vulnerabilities, and social roles. Folk medicine supported women according to natural physiological and social transitions."
+
+  - question: "Why include examples from global traditions?"
+    answer: "Patterns repeat across cultures, highlighting a consistent understanding of female physiology and lifecycle. Including global examples demonstrates that women’s health was treated as dynamic, not static."
 
 ---
 
@@ -244,6 +228,28 @@ No. Each stage was recognized for its unique strength, vulnerability, and social
 
 **Why include global examples?**  
 Patterns repeat across cultures, showing consistent understanding of female physiology and lifecycle, even if expressed differently.
+
+---
+
+## Curious Questions About Women’s Herbal Life Stages
+
+### How did women know which herbs were “right” for their age?
+Traditional knowledge passed through observation, oral teaching, and careful timing — often taught by mothers, grandmothers, and village healers.
+
+### Could a single herb serve multiple life stages?
+Sometimes. Some plants, like mugwort or nettle, had flexible uses, but dosage, timing, and ritual context changed depending on a woman’s stage.
+
+### Were these life stages ever seen as a blessing rather than a limitation?
+Absolutely. Each stage was respected for its unique strengths and powers — maidenhood for sensitivity and learning, fertile years for endurance, elderhood for wisdom and authority.
+
+### Did women ignore these rules at their own risk?
+Yes. Folk medicine emphasized precise timing, harvest rituals, and preparation. Missteps were believed to affect fertility, health, or spiritual protection.
+
+### How do these old practices relate to modern herbalism?
+They remind us that health is dynamic, context matters, and herbs have stories — they’re not just ingredients, but companions in a woman’s life journey.
+
+### Can we still use these traditions today?
+With care. Understanding historical context and respecting potency is key — many herbs are safe, but traditional knowledge always emphasized guidance and caution.
 
 ---
 
