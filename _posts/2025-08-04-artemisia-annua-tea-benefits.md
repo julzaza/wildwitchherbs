@@ -108,12 +108,13 @@ She’s bold. She’s ancient. She’s here to challenge and support.
 
 Whether you’re looking to clear fog, reconnect with herbal traditions, or work more deeply with protective plants in your practice — *Artemisia annua* is a potent ally.
 
-**[Order Your Artemisia Annua Tea Now](/shop/)**
+**[Order Artemisia Annua Tea Now](/shop/)**
+
 Harvested by hand. Crafted with care. Limited batches only.
 
 ---
 
-## ✦ Who This Tea Is (and Isn’t) For
+## Who This Tea Is (and Isn’t) For
 
 ✔ For people drawn to bitter herbs, ritual plants, ancestral practices
 
