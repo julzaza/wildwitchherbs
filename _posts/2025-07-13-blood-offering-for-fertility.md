@@ -66,6 +66,8 @@ Women on the Red Moon path may use their bleeding time for **shadow work, magica
 
 **[Explore Full Moon Rituals with Sacred Herbs](/full-moon-rituals/)** steeped in magic and lunar power to deepen your connection.
 
+For a detailed step-by-step on returning menstrual blood to the Earth, see **[Blood and Soil: The Old Magic of Menstrual Offerings](/menstrual-blood-earth-ritual/)**.
+
 ## ✧ What If You’re Not Bleeding During the New Moon?
 
 No need to wait.
