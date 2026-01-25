@@ -13,25 +13,25 @@ tags:
   - ethnobotany Balkans
   - witchy herbs
   - Slavic folklore
-faq_schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What herbs were used in Balkan folk magic?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Balkan folk magic used herbs such as wormwood, mugwort, rue, garlic, basil, elder, yarrow, St. John’s wort, nettle, and thyme, each tied to specific regional rites, seasons, and beliefs."
-    - "@type": "Question"
-      "name": "Is Balkan witchcraft different from Western witchcraft?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Balkan witchcraft is rooted in village life, ethnobotany, Orthodox and pre-Christian layers, and survival-based folk practices rather than ceremonial or symbolic systems."
-    - "@type": "Question"
-      "name": "Are these Balkan herb traditions documented?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Many practices are recorded in 18th–20th century ethnographic works by Balkan folklorists and preserved in rural oral traditions."
+faqs:
+  - question: "What herbs were traditionally used in Balkan folk magic?"
+    answer: "Balkan folk magic used herbs such as wormwood, mugwort, rue, garlic, basil, elder, yarrow, St. John’s wort, nettle, and thyme, each tied to specific regions, seasons, and ritual purposes."
+
+  - question: "How is Balkan herbal magic different from modern witchcraft?"
+    answer: "Balkan herbal magic is rooted in village life, survival medicine, and seasonal ritual. It emphasizes restraint, timing, and local ecology rather than symbolic correspondences or aesthetic practices."
+
+  - question: "Are Balkan witchy herb traditions historically documented?"
+    answer: "Yes. These practices are recorded in ethnographic works from the 18th to 20th centuries and preserved through oral tradition across Serbia, Romania, Bulgaria, and neighboring regions."
+
+  - question: "Were herbs used magically or medicinally in the Balkans?"
+    answer: "Both. In Balkan folk tradition, healing and magic were not separate categories; the same plants were used for illness, protection, fertility, and ritual cleansing."
+
+  - question: "Who traditionally practiced Balkan herbal magic?"
+    answer: "Herbal knowledge was primarily held by village healers, midwives, elder women, widows, and ritual specialists, often passed down orally and guarded carefully."
+
+  - question: "Is Balkan witchcraft a unified system?"
+    answer: "No. Balkan witchcraft was not a formal system but a collection of local practices shaped by ecology, folklore, and layered pre-Christian and Christian beliefs."
+
 ---
 ## Balkan Magic: A Living Folk Tradition
 
@@ -270,17 +270,23 @@ It is **practical, restrained, and deeply rooted**.
 
 ## Frequently Asked Questions
 
-### What makes an herb “Balkan” in witchcraft?
-It is native or long-naturalized, used in village practices, and embedded in local ritual life rather than imported symbolic systems.
+### Were these herbs used for spells or everyday life?
+Both. In Balkan folk tradition, herbs were part of daily survival — treating illness, protecting homes, supporting childbirth — while also being used in ritual contexts. The distinction between “magic” and “medicine” did not exist.
 
-### Were these herbs used magically or medicinally?
-Both. In Balkan traditions, there was no strict separation between healing and magic.
+### Did people call this witchcraft?
+Rarely. Most practitioners did not identify as witches. These practices were understood as tradition, household knowledge, or women’s work, even when they involved ritual or spiritual elements.
 
-### Are these practices still alive?
-Yes, particularly in rural areas, though often described today as “tradition” rather than witchcraft.
+### Why are plants like wormwood and rue considered dangerous?
+Because they were powerful. These herbs were believed to act on boundaries — between health and illness, life and death, human and spirit — and required strict rules around harvesting, timing, and use.
 
-### Is this Slavic witchcraft?
-Partially. Balkan traditions overlap with Slavic, Vlach, Greek, and local pre-Slavic influences.
+### Are these herbs still used today?
+Yes, especially in rural areas. Many practices survive under the name of “custom” or “tradition,” even when their original magical meanings are no longer spoken aloud.
+
+### Is Balkan herbal magic Slavic?
+Partially. It includes Slavic elements but also Vlach, Greek, Roman, and older pre-Slavic layers, shaped by geography and long-term settlement rather than a single cultural source.
+
+### Can these traditions be practiced today?
+They can be studied and respected, but historically they required local knowledge, restraint, and community context. Balkan herbal magic was never about experimentation or spectacle.
 
 ---
 
