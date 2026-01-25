@@ -110,6 +110,8 @@ Some fertility traditions went further, linking conception to blood, cycle timin
 
 Fertility is not just about the body—it’s about cycles, timing, soul, and spirit. These herbs work not only through their physical effects, but through their stories, symbolism, and the quiet rituals they invite us into. Whether you are trying to conceive, reconnecting with your womb, or honoring the sacred power of creation, these plants stand ready as allies.
 
+For herbs that work to invite love into your life, see **[Love Magic Herbs: Attract the Right Partner](/love-magic-herbs-to-attract-the-right-partner/)**.
+
 In some traditions, fertility work blurred into desire and control — a darker boundary explored in **[Fear-Based Love Magic Traditions](/balkan-love-magic-folklore/)** where conception, obsession, and survival overlapped.
 
 * Always consult a qualified herbalist or health practitioner before using herbs medicinally, especially if you’re pregnant or taking medication.
@@ -132,7 +134,7 @@ No. In traditional cultures, fertility herbs were used alongside midwives, commu
 Yes. Historically, fertility herbs were also used to regulate cycles, restore strength after illness or loss, support hormonal balance, and reconnect women to their reproductive rhythms — not only for pregnancy.
 
 ### Why are some fertility herbs restricted to women?
-In many folk traditions, certain plants were associated with womb power, menstrual blood, and lineage magic. These herbs were sometimes restricted or ritually forbidden to men due to their perceived energetic and physiological effects. For more see: **[Herbs Forbidden for Men](/forbidden-herbs-for-men/)**.
+In many folk traditions, certain plants were associated with womb power, menstrual blood, and lineage magic. These herbs were sometimes restricted or ritually forbidden to men due to their perceived energetic and physiological effects.
 
 ### Is fertility magic the same across cultures?
 No. While themes overlap globally, each culture applied fertility herbs differently based on climate, belief systems, social structure, and ritual timing. 
