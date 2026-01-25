@@ -112,7 +112,7 @@ For herbs that work to invite love into your life, see **[Love Magic Herbs: Attr
 
 Within the cunning craft, fertility work often went beyond conception, intertwining it with blood, cycle timing, and ritual preparation — explored in **[Menstrual Blood Fertility Rites](/fertility-rituals-menstrual-magic/)** tied to White and Red Moon cycles.
 
-In certain folk magic , fertility work blurred into desire and control — a darker boundary explored in **[Fear-Based Love Magic Traditions](/balkan-love-magic-folklore/)** where conception, obsession, and survival overlapped.
+In certain traditions, fertility work blurred into desire and control — a darker boundary explored in **[Fear-Based Love Binding Magic](/balkan-love-magic-folklore/)** where conception, obsession, and survival overlapped.
 
 * Always consult a qualified herbalist or health practitioner before using herbs medicinally, especially if you’re pregnant or taking medication.
 
