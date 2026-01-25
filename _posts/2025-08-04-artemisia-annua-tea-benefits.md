@@ -117,54 +117,30 @@ Harvested by hand. Crafted with care. Limited batches only.
 
 ---
 
-## FAQ: Artemisia Annua Tea
+## ✦ FAQ: Artemisia Annua Tea (For Humans)
 
-**Q: What does Artemisia annua tea taste like?**
+**Is Artemisia annua tea safe to drink?**  
+Traditionally, yes — when used respectfully and in small amounts. Bitter herbs are strong allies, not daily comfort teas. Start slow and listen to your body.
 
-A: Very bitter — resinous, citrusy, with a metallic green edge. True bitterness signals correct drying and potency.
+**Who should not drink Artemisia annua tea?**  
+Avoid during pregnancy or breastfeeding. If you have a medical condition or take medication, consult a qualified practitioner before use.
 
-**Q: Is Artemisia annua the same as common wormwood?**
+**How often should I drink it?**  
+Historically, this was used seasonally or ritualistically — not daily. A few cups over a short period is more aligned with folk use than constant consumption.
 
-A: No. Sweet wormwood is lighter, more aromatic, and used differently in European and Asian folk traditions.
+**Why does bitterness matter so much in folk traditions?**  
+Bitterness was seen as a teacher. It sharpens awareness, strengthens boundaries, and signals potency. In ancestral medicine, bitter meant effective.
 
-**Q: Why harvest with the waxing moon?**
+**Can I sweeten Artemisia tea?**  
+Yes, lightly — honey was traditionally used. Still, many herbalists recommend tasting it plain at least once to understand the plant’s nature.
 
-A: Waxing moon symbolizes rising energy. Herbs cut then are thought to retain vitality and protective strength.
+**Is this tea meant more for ritual or physical support?**  
+Both. Artemisia annua sits at the crossroads of body, spirit, and threshold magic. How you use it depends on your intention.
 
-**Q: Can Artemisia be used in dreamwork?**
+**Can beginners work with Artemisia?**  
+Yes — cautiously. This is not a “gentle” herb, but it is a wise one. Respect, moderation, and intention matter more than experience level.
 
-A: Yes. Small doses before sleep were traditionally used to sharpen dreams and clarify inner visions.
-
-**Q: Is it safe for cleansing rituals?**
-
-A: Historically yes, in floor washes, baths, and smoke bundles — always small amounts.
-
-**Q: How bitter should the tea be?**
-
-A: Strongly bitter; mild tea usually indicates weak or poorly dried herb.
-
-**Q: Why link bitter herbs to seasonal transitions?**
-
-A: They help “wake” the body, support digestion, and restore clarity during changing seasons.
-
-**Q: How did traditional European practitioners prepare it?**
-
-A: Shade-dried, whole-leaf storage, brewed with a covered cup.
-
-**Q: Can beginners use bitter herbs?**
-
-A: Yes, cautiously and in small amounts. Bitterness requires awareness.
-
-**Q: Is Artemisia linked to solstice/midsummer rites?**
-
-A: Yes. Used in Balkan, Greek, and Central European solstice protection and fire rites.
-
-**Q: What spiritual qualities does it convey?**
-
-A: Resilience, clarity, boundaries, and personal sovereignty.
-
-**Q: Can it be blended with other herbs?**
-
-A: Yes. Often paired with cooling herbs or grounding roots to balance bitterness.
+**Why is Artemisia associated with protection?**  
+Across Europe and the Balkans, it was believed to repel illness, harmful forces, and spiritual intrusion — especially when used near doors, windows, or thresholds.
 
 ---
