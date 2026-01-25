@@ -394,9 +394,9 @@ The sweet sleep sentinel.
 Speak aloud:  
 *“Let this heaviness pass. Let this breath return. Let the green ones hold me.”*
 
-Check out [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/) to learn more about this popular witchy ritual. 
+Check out **[How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)** to learn more about this popular witchy ritual. 
 
-As well as [Herbs You Should Never Burn in Ritual](/never-burn-herbs/) to keep it on the safe side. 
+As well as **[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)** to keep it on the safe side. 
 
 ---
 
@@ -410,7 +410,7 @@ Combine:
 
 Bury it under a tree, keep it on your altar, or open it during moments of sorrow to release the spell’s energy.
 
-And here is [How to Make Moon Water for Witchcraft](/moon-water-magic/) in case you haven't done this simple but potent witchy potion. 
+And here is **[How to Make Moon Water for Witchcraft](/moon-water-magic/)** in case you haven't done this simple but potent witchy potion. 
 
 ---
 
@@ -422,9 +422,5 @@ Drink the tea. Burn the bundle. Speak to the leaves. Let yourself feel, and let 
 
 ---
 
-**Related Posts**  
-- [Witchy Herbs for Protection](/top-protective-herbs-witchcraft/)  
-- [Menstrual Blood Magic for Fertility](/fertility-rituals-menstrual-magic/)  
-- [Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)  
 
 
