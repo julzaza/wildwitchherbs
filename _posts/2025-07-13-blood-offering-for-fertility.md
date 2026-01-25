@@ -30,7 +30,9 @@ faq:
 
 ---
 
-Fertility magic is one of the oldest forms of witchcraft, pulsing with ancestral memory and the wild rhythm of the Earth herself. Long before modern medicine or pharmaceutical interventions, women turned to herbs, moon cycles, and blood rites to encourage conception, honor the womb, and commune with the spirit of life itself.
+Fertility magic is one of the oldest forms of witchcraft, pulsing with ancestral memory and **the wild rhythm of the Earth herself**. 
+
+Long before modern medicine or pharmaceutical interventions, women turned to herbs, moon cycles, and blood rites to encourage conception, honor the womb, and commune with the spirit of life itself.
 
 One of the most potent, sacred rituals in this tradition is the act of **offering menstrual blood to the Earth**—a practice observed in cultures across the globe, from ancient Slavs to indigenous tribes and modern-day witches reclaiming body sovereignty.
 
@@ -116,4 +118,20 @@ Discover other **[Folk Fertility Rituals - Magic to Create](/folk-fertility-ritu
 
 ---
 
+### Frequently Asked Questions
+
+**Q: Is it safe to offer menstrual blood to the Earth?**  
+**A:** Yes. Use privacy, clean hands or tools, and a safe outdoor spot. You can also substitute symbolic offerings like red wine, beet juice, or a red cloth if needed. Intention matters most.
+
+**Q: Do I need to bleed during the New Moon for the ritual to work?**  
+**A:** No. You can perform the ritual during your natural cycle or use symbolic offerings and visualization. The New Moon simply enhances lunar alignment.
+
+**Q: What are White Moon and Red Moon cycles?**  
+**A:** White Moon cycles align menstruation with the New Moon and ovulation with the Full Moon, emphasizing fertility and introspection. Red Moon cycles align menstruation with the Full Moon, emphasizing creativity, transformation, and spiritual power.
+
+**Q: Can non-menstruating people perform this ritual?**  
+**A:** Absolutely. You can honor womb space with herbs, meditation, energy work, or symbolic offerings. Intention matters more than actual blood.
+
+**Q: Why offer menstrual blood to the Earth?**  
+**A:** It nourishes the soil, honors your body, connects with ancestors, and amplifies fertility—whether for your body, creativity, or the land. It’s a sacred act of reciprocity with nature.
 
