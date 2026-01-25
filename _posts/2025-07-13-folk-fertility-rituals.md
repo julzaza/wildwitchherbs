@@ -87,12 +87,16 @@ Before lying together, lovers might stuff the bed with herbs and flowers like **
   To bless a bed or room, sprinkle dried herbs and say: *“Let what is planted here be blessed and bloom.”*
 
 Deepen your knowledge of **[Top Fertility Herbs](/top-fertility-herbs-witchcraft)**. These are remedies known to midwives, witches, and wise women through the ages.
+
+Some plants are used in cunning crafts to bring love into one's life, see: **[Herbs to Attract the Right Partner](/love-magic-herbs-to-attract-the-right-partner/)**. 
   
 ---
 
 ## 8. Menstrual Blood Magic
 
 **[Offering Menstrual Blood to Mother Earth](/fertility-rituals-menstrual-magic/)** is one of the oldest forms of witchcraft. Wherether you are looking to ecourage conception or honor the creative force, do it in sync with the Moon Cycles. 
+
+Through these rituals, the threads of ancestry, desire, and creation intertwine, reminding us that fertility in folk magic encompasses body, spirit, and heart.
 
 ## Slow Down to Create
 
