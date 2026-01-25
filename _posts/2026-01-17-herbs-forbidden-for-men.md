@@ -14,57 +14,33 @@ tags:
   - ritual restriction
   - folk medicine for men
 permalink: /forbidden-herbs-for-men/
-schema: true
-schema_type: "Article"
-schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Were herbs ever forbidden to men in traditional cultures?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. In many cultures, specific herbs or herbal roles were restricted to men, women, elders, or trained specialists due to fertility concerns, ritual law, or toxicity."
-    - "@type": "Question"
-      "name": "Were these restrictions symbolic or practical?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Most restrictions were practical, tied to reproductive safety, pharmacological danger, or cosmological balance. Symbolic meaning reinforced practical caution."
-    - "@type": "Question"
-      "name": "Is this modern medical advice?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "No. This article documents historical and ethnobotanical practices, not contemporary health guidance."
-    - "@type": "Question"
-      "name": "Which herbs were cautioned for men?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Notable examples include belladonna, wolfsbane (Aconitum), strong bitters, datura, mandrake, mugwort, and psychoactive vision plants. Use was often guided by apprenticeship or ritual knowledge."
-    - "@type": "Question"
-      "name": "Why were some herbs restricted specifically for men?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Restrictions existed when herbs affected female physiology, fertility, reproductive cycles, or ritual efficacy. Men’s handling could weaken potency, provoke misfortune, or disrupt reproductive authority."
-    - "@type": "Question"
-      "name": "Did these rules apply globally?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Europe, Asia, Indigenous North America, and Africa all documented gendered herbal restrictions, often enforced by elders, midwives, or ritual law."
-    - "@type": "Question"
-      "name": "Were these restrictions absolute?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Not always. Some restrictions were absolute, others contextual, based on life stage, ritual role, or training. Apprenticeship and ritual literacy guided safe use."
-    - "@type": "Question"
-      "name": "Could misuse harm men?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Many restricted herbs, such as belladonna, wolfsbane, and datura, are toxic or psychoactive, posing serious health risks if handled incorrectly."
-    - "@type": "Question"
-      "name": "Are these herbs still used today?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Some are still used in modern herbalism, often under professional guidance. However, reproductive and psychoactive risks remain, so historical caution remains relevant."
+faqs:
+  - question: "Were herbs really forbidden to men in traditional cultures?"
+    answer: "Yes. Many traditions restricted men from handling certain herbs due to fertility concerns, ritual law, toxicity, or spiritual reasons."
+
+  - question: "Were these restrictions symbolic or practical?"
+    answer: "Mostly practical. Restrictions protected reproductive health, prevented accidental poisoning, and maintained ritual or social balance, though symbolic meaning reinforced caution."
+
+  - question: "Could misuse harm men?"
+    answer: "Absolutely. Plants like belladonna, wolfsbane, datura, and henbane are toxic or psychoactive, and mishandling could cause serious injury or death."
+
+  - question: "Did all men face the same restrictions?"
+    answer: "No. Some herbs were restricted absolutely, while others were conditional—based on age, ritual role, apprenticeship, or life stage."
+
+  - question: "Why were herbs gendered in folklore?"
+    answer: "Herbs were linked to reproductive cycles, fertility, and ritual power. Men’s handling could disrupt potency, provoke misfortune, or violate spiritual laws."
+
+  - question: "Are these herbs still used today?"
+    answer: "Yes, many are used in modern herbalism under professional guidance, but historical caution regarding dosage, context, and reproductive effects remains relevant."
+
+  - question: "Was this historical gender restriction sexism?"
+    answer: "No. Restrictions were about community safety, ritual integrity, and lineage continuity—not about social bias."
+
+  - question: "Can modern men safely use these herbs?"
+    answer: "Only with expert supervision. These herbs remain potent and potentially dangerous; historical knowledge emphasizes context, dosage, and training."
+
+  - question: "Why did some herbs have male and female uses separately?"
+    answer: "Certain plants, like Artemisia or mandrake, had distinct ceremonial or reproductive functions. Men could use some parts or for some purposes, but female-specific uses were restricted to protect fertility and ritual efficacy."
 
 ---
 
