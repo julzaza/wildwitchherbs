@@ -68,11 +68,14 @@ Hawthorn is now known for its **heart-strengthening antioxidants**, a reminder t
 ## Echoes Across Cultures
 Similar milk-based fertility rites appear in **ancient Greece** and among the **Romani** of the Balkans, suggesting a much older Indo-European root for this practice.
 
-In Vlaska Magija traditions, fire was used to ensure fertile harvest and to keep sickness away. Learn more about **[Eastern Serbia Firewalkers](/eastern-serbia-firewalkers/)** and St. John's pegan ritual.
+In Vlaska Magija traditions, fire was used to ensure fertile harvest and to keep sickness away. 
+
+Learn more about this **[Eastern Serbia Firewalkers and St. John Pegan Ritual](/eastern-serbia-firewalkers/)**.
 
 ---
 
-## **Related Magic:**  
+## **Related Magic**  
+Dive deeper into Vlach Magic:
 
 - protective **[Charms of the Vlach Wise Women](/charms-vlach-healers/)**
 - learn which **[Herbs Vlach Wise Women Relied On](/herbs-vlach-wise-women/)**
