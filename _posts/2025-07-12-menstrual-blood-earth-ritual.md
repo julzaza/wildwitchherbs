@@ -2,6 +2,7 @@
 layout: single
 title: "Blood and Soil: The Old Magic of Menstrual Offerings"
 permalink: /menstrual-blood-earth-ritual/
+author: Wild Witch Herbs
 excerpt: "Discover the ancient practice of offering menstrual blood to the Earth. Rooted in fertility rites, moon cycles, and folk traditions, this ritual honors the sacred bond between womb and soil."
 description: "A folklore and ritual guide to returning menstrual blood to the Earth for fertility, healing, protection, and ancestral connection. Learn traditional methods, chants, and safe practices."
 categories:
@@ -15,7 +16,7 @@ tags:
   - folk witchcraft
   - ancestral magic
   - moon cycles
-faq_for_ai:
+faq:
   - question: "Is it safe to offer menstrual blood to the Earth?"
     answer: "Yes, when done with privacy and intention. Use your own blood, avoid leaving it where others may contact it, and consider alternatives like red-stained cloth or visualization if needed."
   - question: "When is the best time for this ritual?"
@@ -24,9 +25,8 @@ faq_for_ai:
     answer: "Yes. Alternatives include burying a red cloth, using menstrual cups for visualization, or offering energy in meditation to honor the cycle."
   - question: "What are the magical purposes of returning blood to the Earth?"
     answer: "It supports fertility, healing, reconnection with nature, energetic grounding, and communication with ancestors, especially maternal lineage."
-schema: true
-schema_type: "Article"
 ---
+
 Long before shame was stitched to the hem of a woman’s skirt, menstrual blood was seen as sacred—**a gift, not a curse**. Across time and cultures, women bled in rhythm with the moon, and their blood was recognized not as waste, but as **life-force**—capable of nourishing both land and lineage.
 
 In the old ways, it was said that **to give your blood to the soil was to speak directly to the Earth**.
@@ -51,7 +51,7 @@ Modern witchcraft has reclaimed this ritual as **remembrance**. Returning blood 
 
 - **Fertility** (of body, land, ideas, and relationships)
 
-[Offering Menstrual Blood to Mother Earth for Fertility](/fertility-rituals-menstrual-magic/) explains how to do it correctly in sync witht the White Moon and Red Moon cycles. 
+**[Offering Menstrual Blood to Mother Earth for Fertility](/fertility-rituals-menstrual-magic/)** explains how to do it correctly in sync with the White Moon and Red Moon cycles. 
 - **Healing** after miscarriage, grief, or trauma  
 - **Reconnection** with nature and your own cyclical power  
 - **Protection** and energetic grounding  
@@ -95,7 +95,7 @@ And when you return your blood to the earth, **so will you.**
 
 ---
 
-Check out other [Folk Fertility Rituals](/folk-fertility-rituals/) to create new beginnings, new ideas, and possibly new life. 
+Check out other **[Folk Fertility Rituals](/folk-fertility-rituals/)** to create new beginnings, new ideas, and possibly new life. 
 
 *May your roots grow deep, and your womb magic return to its rightful throne.*
 
