@@ -25,7 +25,7 @@ faq:
     answer: "In the southern Balkans, Artemisia was harvested with the moon and dried slowly in shaded attics — a method believed to preserve the plant’s ‘living heat.’"
 
   - question: "Is Artemisia annua used for cleansing rituals?"
-    answer: "Yes. In European folk magic, it appears in floor washes, smoke bundles, and ritual baths for clearing stagnant energy."
+    answer: "Yes. In European folk magic, it appears in floor washes, smoke bundles and ritual baths for clearing stagnant energy."
 
   - question: "Why are bitter herbs important in seasonal transitions?"
     answer: "Historically, Europeans drank bitters in spring and late summer to support the body during shifts in temperature, diet, and rhythm."
