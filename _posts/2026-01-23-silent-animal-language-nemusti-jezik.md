@@ -13,12 +13,35 @@ language: "en"
 difficulty: "Beginner to Intermediate"
 contentType: "Educational, Magical Guide"
 faqs:
-  - question: "What is the Silent Language of animals, Nemušti Jezik?"
-    answer: "Nemušti Jezik, or the Silent Language, is a Balkan folkloric practice that allows humans to understand animal speech and nature messages. It involves observation, herbal rituals, and mindful listening."
-  - question: "How can modern witches practice Nemušti Jezik?"
-    answer: "By observing animal behavior, meditating with specific herbs, performing rituals during sacred times, and practicing silent, respectful listening, witches can attune to the messages of nature."
-  - question: "Which herbs help communicate with animals?"
-    answer: "Balkan herbs such as wormwood, sage, thyme, and St. John’s Wort are traditionally used to heighten perception and facilitate communication with animals and spirits."
+  - question: "What is Nemušti Jezik, the Silent Language of animals?"
+    answer: "Nemušti Jezik is a Balkan folkloric practice allowing humans to perceive animal speech and nature messages through observation, herbal rituals, and mindful listening."
+
+  - question: "Which herbs help attune to animal communication?"
+    answer: "Traditional Balkan herbs such as wormwood, sage, thyme, and St. John's Wort are used to enhance perception, clarity, and connection to animal and nature spirits."
+
+  - question: "How can modern witches practice Nemušti Jezik safely?"
+    answer: "By observing animal behavior without interference, using small amounts of protective herbs, performing meditative exercises, and practicing silent, respectful listening."
+
+  - question: "When are the best times to listen to animals in Nemušti Jezik?"
+    answer: "Sacred or liminal times like St. John’s Eve, Christmas Eve, midwinter, and the full moon are believed to make animal communication more potent."
+
+  - question: "What practical exercises help learn the Silent Language?"
+    answer: "Morning birdsong listening, herbal meditation, silent forest walks, and safe offerings to animals can strengthen attunement and perception."
+
+  - question: "Do I need special powers to understand Nemušti Jezik?"
+    answer: "No; the practice emphasizes patience, observation, respect, and the use of herbs and rituals to enhance natural sensitivity rather than innate supernatural ability."
+
+  - question: "Can Nemušti Jezik be used for magical purposes?"
+    answer: "Yes, folkloric practices often incorporated animal messages into decision-making, protective rituals, fertility rites, and guidance for herbal magic."
+
+  - question: "Is Nemušti Jezik still practiced today?"
+    answer: "While mostly preserved as folklore, elements of this practice survive among Vlach and Serbian families, modern witches, and ritual practitioners."
+
+  - question: "How do I prepare my space for Nemušti Jezik practice?"
+    answer: "Create a quiet observation area, use herbs like wormwood or sage, avoid disturbances, and maintain respectful distance from animals."
+
+  - question: "Where can I learn more about Balkan animal and herbal traditions?"
+    answer: "Explore posts such as [Nemušti Jezik: The Silent Tongue in Balkan Folk Tales](/nemusti-jezik-silent-tongue/) and [Vlach Magija: Protective Herbs & Ancient Balkan Witchcraft](/vlach-magija-protective-herbs/) for detailed rituals, herbs, and folklore."
 
 internal_links:
   - title: "Nemušti Jezik: The Silent Tongue in Balkan Folk Tales"
@@ -103,6 +126,22 @@ For a full story of the shepherd, serpent, and the origins of Nemušti Jezik, se
 - Herbs and rituals can **enhance perception** and create a sacred space for interaction.  
 - Sacred times, patience, and silent attention are crucial—nature speaks to those who wait.  
 - Document your observations; even small messages carry guidance.  
+
+---
+
+## Frequently Asked Questions
+
+**What is the Silent Language of animals?**  
+Nemušti Jezik is an ancient Balkan practice for observing and understanding animal messages, combining herbal rituals, mindful listening, and folklore.
+
+**Which herbs help communicate with animals?**  
+Wormwood, sage, thyme, and St. John’s Wort are traditionally used to heighten perception and facilitate connection with animal and nature spirits.
+
+**When is the best time to practice Nemušti Jezik?**  
+Liminal nights like St. John’s Eve, Christmas Eve, midwinter, or the full moon are considered most potent for listening to animals.
+
+**Is this practice safe for modern witches?**  
+Yes, if approached respectfully: use herbs in small amounts, observe without disturbing animals, and follow meditative or ritual exercises rather than attempting coercion.
 
 ---
 
