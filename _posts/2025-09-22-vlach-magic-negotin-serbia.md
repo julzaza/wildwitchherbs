@@ -88,8 +88,6 @@ She might boil **nettle** for strength, burn **sage** for cleansing, or tuck **y
 
 Some babas are said to meet at crossroads under the waning moon, trading charms and secret words in the Vlach language so old that outsiders hear only whispers.
 
-**Did You Know?** In Negotin, some babas still gather herbs at dawn before the first church bell, believing it doubles their potency.
-
 Learn exactly which **[Herbal Companions Vlaska Babas Turn To](/herbs-vlach-wise-women/)**. 
 
 ---
@@ -103,7 +101,7 @@ Common plants take on uncommon meaning here:
 * **Elderflower** (*Sambucus nigra*): brewed for winter colds and offered to ancestors.  
 * **Nettle** (*Urtica dioica*): cooked for vitality during spring fasts.  
 
-Locals believe the strength of a plant gathered at dawn, before the first church bell, carries double power.
+**Did You Know?** In Negotin, some babas still gather herbs at dawn before the first church bell, believing it doubles their potency.
 
 ---
 
