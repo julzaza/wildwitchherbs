@@ -34,7 +34,7 @@ faq:
   answer: "Historically, nettle infusions were consumed for strength and resilience. Many modern practitioners prefer using nettle moon water externally for ritual, cleansing, or anointing rather than drinking it."
 
 - question: "Is stinging nettle associated with protection in folklore?"
-    answer: "Yes. Across Europe, nettle was planted near homes, paths, and thresholds to deter harm, unwanted spirits, and human ill intent."
+  answer: "Yes. Across Europe, nettle was planted near homes, paths, and thresholds to deter harm, unwanted spirits, and human ill intent."
 
 ---
 
