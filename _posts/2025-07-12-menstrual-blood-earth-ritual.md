@@ -97,8 +97,8 @@ By blood, I call my power home.”*
 
 For a step-by-step guide on returning menstrual blood to the Earth in sync with the **White Moon and Red Moon cycles**, see **[Offering Menstrual Blood to Mother Earth for Fertility](/fertility-rituals-menstrual-magic/)**.
 
-Our guide on **[Full Moon Rituals and Sacred Herbs](/full-moon-rituals/)** explains how aligning your offering with lunar cycles can help harness even greater energetic power. 
- 
+Learn how aligning your offerings with lunar cycles enhances their energy in our guide on **[Full Moon Rituals and Sacred Herbs](/full-moon-rituals/)**.
+
 ---
 
 ## Things to Keep in Mind
