@@ -14,7 +14,7 @@ tags:
   - vernal protection customs
 excerpt: "Across cultures, spring renewal required protection. From blessing wells to walking dew-soaked fields, folk traditions treated spring as powerful, unstable, and in need of ritual care."
 description: "A global folklore exploration of spring renewal and protection rites across Slavic, Celtic, Mediterranean, Balkan, Asian, African, and Indigenous traditions."
-faqs:
+faq:
   - question: "Why was spring considered dangerous in folk traditions?"
     answer: "Many cultures believed spring weakened natural and spiritual boundaries, allowing illness, spirits, and misfortune to move more freely before balance was restored."
 
