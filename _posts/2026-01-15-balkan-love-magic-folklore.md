@@ -176,7 +176,8 @@ Rarely. Balkan love magic was widely understood as coercive. That lack of consen
 Because Balkan magic relied on contagion. Hair, blood, sweat, and footprints were believed to carry a person’s essence, creating a binding link that could not be easily broken.
 
 **Were herbs used to undo or block love magic?**  
-Very often. Garlic, rue, wormwood, and bitter plants were more commonly used for protection and severance than attraction, reflecting how seriously unwanted love magic was taken.
+Very often. Garlic, rue, wormwood, and bitter plants were more commonly used for protection and severance than attraction, reflecting how seriously unwanted love magic was taken. 
+See: **[Herbs Used to Break Love Binding Magic](/plants-to-break-love-bonds-folk-magic/)**.
 
 ---
 
