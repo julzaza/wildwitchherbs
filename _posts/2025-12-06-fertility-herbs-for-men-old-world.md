@@ -162,7 +162,7 @@ Old herbalists used nettle root for urinary and lower-body vitality—essential 
 
 ---
 
-# A Traditional European Virility Tonic (Folkloric Version)
+# A Traditional European Virility Tonic
 
 This is historical folklore, not medical advice.
 
