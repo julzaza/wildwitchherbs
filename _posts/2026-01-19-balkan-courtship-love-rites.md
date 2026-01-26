@@ -13,7 +13,7 @@ tags:
   - fertility folklore
   - women's folk medicine
   - seasonal magic
-faqs:
+faq:
   - question: "What were spring courtship rites in Balkan folk magic?"
     answer: "Spring courtship rites were socially accepted folk practices focused on attraction, fertility readiness, and public visibility. They relied on seasonal timing, herbal washes, fasting, and silence rather than coercive love spells."
 
