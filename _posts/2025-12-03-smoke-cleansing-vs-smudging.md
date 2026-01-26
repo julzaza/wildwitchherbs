@@ -26,9 +26,7 @@ keywords:
   - ritual smoke
   - cleansing herbs
 
-search: false
-
-faqs:
+faq:
   - question: "What is smoke cleansing?"
     answer: "Smoke cleansing is the practice of burning herbs for purification, protection, blessing, or ritual purposes. It is a global tradition, distinct from Indigenous smudging ceremonies."
   - question: "How is smoke cleansing different from smudging?"
@@ -39,37 +37,6 @@ faqs:
     answer: "Choose a local herb, set an intention, burn it in a heat-proof bowl, move clockwise for blessing or counterclockwise for banishing, focus on corners, doors, and windows, and close with grounding words."
   - question: "Can I use white sage?"
     answer: "White sage is sacred to certain Indigenous nations and is endangered in the wild. Only use it if you belong to the lineage and were taught the ceremony. Otherwise, use local herbs for smoke cleansing."
-
-schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "name": "Smoke Cleansing vs. Smudging — FAQ"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What is smoke cleansing?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Smoke cleansing is the practice of burning herbs for purification, protection, blessing, or ritual purposes. It is a global tradition, distinct from Indigenous smudging ceremonies."
-    - "@type": "Question"
-      "name": "How is smoke cleansing different from smudging?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Smudging is a sacred Indigenous ceremony with lineage, prayer, and specific cultural protocols. Smoke cleansing is a global practice inspired by local traditions and herbs without appropriating Indigenous rituals."
-    - "@type": "Question"
-      "name": "Which herbs are safe to use for smoke cleansing?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Local, ethically sourced herbs are best. Common choices include mugwort, juniper, thyme, bay laurel, pine, sandalwood, and tulsi. Avoid endangered or toxic plants like wild-harvested white sage or unknown resins."
-    - "@type": "Question"
-      "name": "How do I perform a respectful smoke cleansing?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Choose a local herb, set an intention, burn it in a heat-proof bowl, move clockwise for blessing or counterclockwise for banishing, focus on corners, doors, and windows, and close with grounding words."
-    - "@type": "Question"
-      "name": "Can I use white sage?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "White sage is sacred to certain Indigenous nations and is endangered in the wild. Only use it if you belong to the lineage and were taught the ceremony. Otherwise, use local herbs for smoke cleansing."
         
 ---
 
@@ -196,3 +163,29 @@ If you want to build a smoke practice rooted in safety, ancestry, and the land b
 - **[Herbs That Are Toxic When Burned](/never-burn-herbs/)** — an essential list of plants that release harmful compounds when burned, so your practice stays safe, informed, and grounded in real herbal knowledge.
 
 ---
+
+## Frequently Asked Questions
+
+### Can I do smoke cleansing if I’m not Indigenous?
+Yes. Smoke cleansing is global and local—choose herbs from your land and follow safe, intentional practices. It is distinct from smudging, which is a sacred Indigenous ceremony.
+
+### What’s the difference between smoke cleansing and smudging?
+Smudging has lineage, prayer, and cultural protocols. Smoke cleansing is a worldwide tradition using herbs for purification, blessing, and protection, without appropriating Indigenous ceremonies.
+
+### Are all herbs safe to burn?
+No. Some herbs release toxic smoke. Stick to locally sourced, non-endangered plants like mugwort, juniper, thyme, or bay. Avoid unknown or wild-harvested endangered species.
+
+### Why does smoke cleansing work?
+In folklore, smoke carries intention, clears stagnant energy, and marks sacred space. The ritual engages both senses and attention, creating a psychological and spiritual effect.
+
+### Can I use white sage?
+Only if you were taught by the relevant Indigenous community. Otherwise, use local herbs—every land has its own magical smoke.
+
+### When is smoke cleansing most effective?
+Traditionally, at thresholds—new homes, seasonal transitions, after illness, or before rituals. Any time you want to reset energy is valid.
+
+### Can smoke cleansing protect against negative energy?
+Yes. Across cultures, smoke was burned to guard homes, spaces, and people from sickness, envy, spirits, and lingering heaviness. Check out: **[Herbs That Keep Evil Eye Out](/herbs-that-keep-out-evil-eye/)** for more. 
+
+### How do I make my smoke ritual feel intentional?
+Set a clear purpose, move the smoke mindfully around doors, windows, and corners, and close with a grounding phrase. Your attention and focus are what give it power.
