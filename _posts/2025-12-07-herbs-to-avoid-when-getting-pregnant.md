@@ -6,47 +6,7 @@ excerpt: "A folklore-rich exploration of herbs to avoid when trying to conceive,
 categories: [herbal-magic, folklore-ancestral]
 tags: [fertility herbs, women’s magic, womb magic, contraceptive herbs, European folk magic]
 permalink: /herbs-to-avoid-when-getting-pregnant/
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Herbs to Avoid When Seeking Pregnancy"
-  "description": "A folklore-rooted exploration of herbs traditionally known to hinder conception or disturb the womb, blending historical magic and modern caution."
-  "keywords":
-    - herbs to avoid for pregnancy
-    - contraceptive herbs folklore
-    - European fertility magic
-    - herbs harmful for conception
-  "author":
-    "@type": "Person"
-    "name": "Wild Witch Herbs"
-  "articleSection": "Fertility"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntity":
-    "@type": "FAQPage"
-    "mainEntity":
-      - "@type": "Question"
-        "name": "Which herbs are traditionally avoided when trying to conceive?"
-        "acceptedAnswer":
-          "@type": "Answer"
-          "text": "Old European herbalism warns against herbs like wormwood, rue, pennyroyal, sage, hellebore, and certain mints because of their warming, stimulating, or downward-driving nature."
-      - "@type": "Question"
-        "name": "Are these herbs always dangerous?"
-        "acceptedAnswer":
-          "@type": "Answer"
-          "text": "Not inherently, but their actions on circulation, uterine tone, or hormones can disrupt conception, so traditional practitioners avoided them during preconception."
-      - "@type": "Question"
-        "name": "Can I use small amounts for culinary purposes?"
-        "acceptedAnswer":
-          "@type": "Answer"
-          "text": "Culinary amounts of most herbs are generally mild, but concentrated teas, tinctures, or ritual doses were historically avoided during conception attempts."
-      - "@type": "Question"
-        "name": "What should I work with instead?"
-        "acceptedAnswer":
-          "@type": "Answer"
-          "text": "Consider gentle nourishing herbs and practices that support fertility. You can explore these in the post on Fertility Rituals for Creation and upcoming posts on Men’s Fertility Herbs and Women’s Fertility Herbs."
-ai_faq:
+faq:
   - question: "Which herbs should I avoid when trying to conceive?"
     answer: "Traditional European herbalism advises avoiding herbs like rue, pennyroyal, wormwood, sage, hellebore, and some warming or stimulating herbs because they can disrupt conception."
   - question: "Can I use these herbs in cooking?"
