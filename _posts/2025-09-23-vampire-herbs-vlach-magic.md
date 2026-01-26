@@ -10,7 +10,7 @@ audience: "Witches, herbalists, folklore enthusiasts, Balkan history buffs"
 language: "en"
 difficulty: "Beginner to Intermediate"
 contentType: "Educational, Folklore, Herbal Guide"
-faqs:
+faq:
   - question: "Which herbs did the Vlachs use against vampires?"
     answer: "Garlic, hawthorn, wild rose, wormwood, and juniper were commonly used to protect homes, graves, and thresholds."
   - question: "Why was garlic so central in Balkan vampire lore?"
