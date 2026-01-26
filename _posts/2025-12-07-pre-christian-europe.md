@@ -6,49 +6,31 @@ excerpt: "A folklore-rich journey into Europe's ancient magic, examining rituals
 categories: [folklore-ancestral, witchcraft-ritual]
 tags: [european folk magic, ancestral magic, pre-christian rituals, seasonal witchcraft, old world witchcraft]
 permalink: /pre-christian-europe-magic
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Old European Magic: Folk Rites, Ancestors & Seasonal Witchcraft"
-  "description": "An in-depth look at pre-Christian European magical traditions, exploring folk rites, animism, ancestor veneration, and seasonal witchcraft."
-  "keywords": ["European folk magic", "ancestral magic", "seasonal witchcraft", "pre-Christian traditions", "Old World witchcraft"]
-  "author":
-    "@type": "Person"
-    "name": "Wild Witch Herbs"
-  "articleSection": "Folk Magic"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "image": "/assets/images/old-european-magic.jpg"
-  "mainEntityOfPage":
-    "@type": "WebPage"
-    "@id": "https://wildwitchherbs.com/pre-christian-europe-magic"
-  "faq":
-    - "@type": "Question"
-      "name": "What is Old European magic?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Old European magic refers to pre-Christian folk traditions, including animistic beliefs, ancestor veneration, seasonal rites, and household or land-based witchcraft."
-    - "@type": "Question"
-      "name": "Which practices were central to European folk magic?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Key practices included seasonal festivals, offerings to ancestors, charms and amulets, divination, herbal magic, and rituals for protection, fertility, and prosperity."
-    - "@type": "Question"
-      "name": "How is ancestor veneration connected to witchcraft?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Ancestor veneration in Old Europe was intertwined with witchcraft; ancestors were called upon for guidance, protection, and to bless households, fields, and family continuity."
 
-  faq:
-    - question: "What was the core worldview of pre-Christian European magic?"
-      answer: "It was animistic: land, spirits, ancestors, and natural forces were alive and conversational. Magic was relationship, not command."
-    - question: "Did every region of Europe share the same magical traditions?"
-      answer: "No. While patterns overlapped—ancestor veneration, seasonal rites, protective charms—each region had its own spirits, customs, and ritual language."
-    - question: "How did Christianity change European magical practice?"
-      answer: "It reframed spirits as demons, recast local gods as saints or devils, and pushed magical expertise underground, turning communal rites into secret craft."
-    - question: "Is it possible to reconstruct Old European magic today?"
-      answer: "Partially. Through folklore, surviving charms, seasonal rites, archaeological evidence, and rural traditions that preserved the old ways beneath Christian veneer."
+faq:
+  - question: "What was the worldview of pre-Christian Europe?"
+    answer: "It was animistic: humans, animals, plants, and spirits were all alive and interactive. Magic was about relationship, not control."
+
+  - question: "Who practiced magic before Christianity in Europe?"
+    answer: "Seers, herb-women, charmers, smiths, and ritual leaders all performed specialized roles in community magic."
+
+  - question: "How did Christianity change European magical traditions?"
+    answer: "Spirits were recast as saints or demons, magical rites were pushed underground, and practitioners were often labeled witches."
+
+  - question: "Which spirits were recognized in pre-Christian Europe?"
+    answer: "House spirits, land wights, ancestral dead, tricksters, and night-walkers populated the landscape, each with unique roles."
+
+  - question: "What types of magic did pre-Christian Europeans practice?"
+    answer: "Seasonal rites, charms, plant magic, and offerings of blood, bone, or soil were common, blending daily life with the sacred."
+
+  - question: "Are any pre-Christian rituals still practiced today?"
+    answer: "Yes. Solstice rites, herb gathering, harvest offerings, protective charms, and ancestor veneration preserve traces of old magic."
+
+  - question: "Can Old European magic be reconstructed today?"
+    answer: "Partially. Folklore, archaeological evidence, seasonal customs, and surviving rural practices give us insight into ancestral rites."
+
+  - question: "Why did some pre-Christian magic survive under Christianity?"
+    answer: "Magic adapted—rituals were rebranded, charms concealed, and folk knowledge hidden within Christian festivals or household practices."
       
 ---
 
@@ -262,4 +244,28 @@ Christianity overlaid that world with new names, new rules, and new fears. But t
 
 ---
 
+## Frequently Asked Questions
 
+### What was pre-Christian European magic like?
+It was animistic, relational, and woven into everyday life, with humans, spirits, and nature all interacting.
+
+### Who were the magical practitioners?
+Seers, herb-women, charmers, smiths, and ritual leaders each had specialized roles in the community.
+
+### How did Christianity affect old magic?
+It recast spirits as saints or demons, pushed rituals underground, and framed magical specialists as witches.
+
+### Which spirits were most important?
+House spirits, land wights, ancestral dead, and tricksters shaped daily life and rituals.
+
+### What kinds of rituals existed?
+Seasonal rites, charms, plant magic, and offerings of blood, bone, or soil were central.
+
+### Did any pre-Christian magic survive?
+Yes. Solstice celebrations, herb rites, protective charms, and ancestor veneration preserve its traces.
+
+### Can we practice Old European magic today?
+Partially. Folklore, archaeological records, and surviving rural traditions offer guidance for reconstruction.
+
+### Where can I see echoes of pre-Christian magic today?
+In midsummer bonfires, Yule evergreens, protective charms, harvest festivals, and ancestral offerings.
