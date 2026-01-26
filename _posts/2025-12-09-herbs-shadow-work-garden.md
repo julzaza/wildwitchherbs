@@ -188,32 +188,32 @@ Find out **[Why Real Witches Plant Rosemarry by the Front Door](/why-witches-pla
 
 ## Frequently Asked Questions
 
-**What is a shadow work garden in traditional witchcraft?**
+**What is a shadow work garden in traditional witchcraft?**  
 A shadow work garden is a deliberately planted space using herbs and trees historically associated with introspection, dreamwork, ancestral contact, and liminal rites. In Old European traditions, these plants were placed at garden edges, borders, or secluded corners where spiritual descent and inner confrontation were believed to occur naturally.
 
-**Did European witches really use gardens for shadow or descent work?**
+**Did European witches really use gardens for shadow or descent work?**  
 Yes. Folklore records show that gardens, thresholds, grave-adjacent land, and forest edges were used for dream rites, fear-confrontation, purification, and ancestral work. Shadow work was not abstract—it was grounded in physical places and plants.
 
-**Which herbs are most important for a shadow work garden?**
+**Which herbs are most important for a shadow work garden?**  
 Mugwort, wormwood, rue, juniper, yew, and poplar appear repeatedly in European folklore as plants connected to dream paths, boundary crossing, purification, and confronting hidden fears.
 
-**Why are shadow herbs planted at borders and edges instead of the center?**
+**Why are shadow herbs planted at borders and edges instead of the center?**  
 Because borders were seen as liminal zones. In pre-modern European belief, transformation occurred where spaces met—garden edges, gates, paths, and walls—rather than in cultivated, orderly centers.
 
-**Is a shadow work garden dangerous?**
+**Is a shadow work garden dangerous?**  
 Historically, it was treated with respect rather than fear. Some plants associated with shadow work are toxic and were never meant for casual handling or ingestion. Traditionally, danger was managed through placement, timing, and ritual boundaries—not avoidance.
 
-**Is this the same as modern psychological shadow work?**
+**Is this the same as modern psychological shadow work?**  
 No. While modern shadow work focuses on psychology, European folk traditions viewed shadow work as a spiritual and ancestral process involving the soul, dreams, and unseen forces. The overlap is symbolic, not methodological.
 
-**Which plant is best for dreamwork and confronting fears?**
+**Which plant is best for dreamwork and confronting fears?**  
 Mugwort was the most widely used European dream herb, often paired with wormwood for clarity and rue for protection when facing difficult dreams or inner truths.
 
-**Can a shadow work garden be planted in a small space or containers?**
+**Can a shadow work garden be planted in a small space or containers?**  
 Yes. Many traditional shadow herbs—including mugwort, wormwood, rue, and juniper—were historically grown in pots, near walls, or behind homes. The symbolism comes from placement and intention, not garden size.
 
-**How were shadow gardens spiritually cleansed or protected?**
+**How were shadow gardens spiritually cleansed or protected?**  
 Juniper smoke was commonly used across Alpine and Balkan regions to purify gardens and threshold spaces before rites involving dreams, descent, or ancestral contact.
 
-**Is a shadow work garden meant to replace protection magic?**
+**Is a shadow work garden meant to replace protection magic?**  
 No. Traditionally, shadow work and protection worked together. Rue, juniper, and rosemary often appeared alongside darker herbs to ensure the practitioner could return safely from inner descent.
