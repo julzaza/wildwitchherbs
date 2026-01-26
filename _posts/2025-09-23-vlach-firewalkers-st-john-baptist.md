@@ -26,31 +26,7 @@ internal_links:
     url: /vlach-magic-negotin-serbia/
   - title: "Herbal Companions in Magic and Medicine Practices"
     url: /herbal-companions-magic-medicine/
-schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "name": "Eastern Serbia Firewalkers — FAQ"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What is the firewalking ritual in Eastern Serbia?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Known as pali hod, it is a Vlach summer solstice ritual where participants walk barefoot over embers for protection, blessing, and connection with ancestral spirits."
-    - "@type": "Question"
-      "name": "Why is wormwood used in the ritual?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Wormwood is tied to protective charms; its volatile oils may cool the skin and offer mild antimicrobial properties, reducing risk of burns or illness."
-    - "@type": "Question"
-      "name": "What are the origins of this ritual?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "The ritual predates Christianity, tracing back to Thracian and Dacian sun cults. Later, St. John’s Eve was layered over the ancient practices."
-    - "@type": "Question"
-      "name": "Is this ritual still performed today?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes, villages along the Timok and Mlava rivers continue the firewalking tradition, maintaining both its spiritual and protective aspects."
+
 ---
 
 Every **June 24th**, on the feast of **St. John the Baptist**, villages along the Timok and Mlava rivers come alive with a ritual that **predates Christianity**.  
