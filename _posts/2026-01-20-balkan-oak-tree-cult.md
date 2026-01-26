@@ -15,7 +15,7 @@ tags:
   - badnjak tradition
 excerpt: "Long before churches, the oak ruled the Balkans. Sacred oaks were worshipped, feared, and protected—some still are. This is the real history of the Balkan oak cult."
 description: "A historical and folkloric deep dive into the Balkan oak cult, including sacred trees (zapis), Slavic thunder gods, rituals, and Christian survivals rooted in pre-Christian belief."
-faqs:
+faq:
   - question: "Was there really a pagan oak cult in the Balkans?"
     answer: "Yes. Ethnographic records, church complaints, and surviving village customs confirm the existence of an oak-centered cult in the Balkans that predates Christianity."
 
