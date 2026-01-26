@@ -7,46 +7,20 @@ categories: [witchcraft-ritual, herbal-magic]
 tags: [dreamwork folklore, night magic, protective herbs, european witchcraft, sleep magic]
 
 faq:
-  - question: "What plants were historically used for dreamwork in European witchcraft?"
-    answer: "Mugwort, bay, rosemary, juniper, lemon balm, and jasmine appear in Old European and Mediterranean folklore for dream protection and vision-calling."
-  - question: "Did witches actually use herbs for night protection?"
-    answer: "Yes. Medieval, Balkan, and Mediterranean household folklore all contain traditions of hanging herbs over beds or placing protective branches at windows."
-  - question: "Were dream plants used for prophecy?"
-    answer: "In Greek, Roman, and later European folklore, bay laurel and mugwort were linked with prophetic dreams and visionary sleep."
-  - question: "Is this medical advice?"
-    answer: "No. This is historical folklore only, not medical guidance."
-  - question: "Do these traditions relate to modern lucid dreaming?"
-    answer: "They relate symbolically—folklore treated dreaming as a spiritual threshold rather than a psychological practice."
+  - question: "What plants were historically used for dreamwork in European folklore?"
+    answer: "European and Mediterranean folklore frequently references mugwort, bay laurel, rosemary, juniper, lemon balm, and jasmine as plants used for dream protection, prophetic sleep, and nighttime spiritual safety."
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What plants were historically used for dreamwork in European witchcraft?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Mugwort, bay, rosemary, juniper, lemon balm, and jasmine appear in Old European and Mediterranean folklore for dream protection and vision-calling."
-    - "@type": "Question"
-      "name": "Did witches actually use herbs for night protection?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Medieval, Balkan, and Mediterranean household folklore all contain traditions of hanging herbs over beds or placing protective branches at windows."
-    - "@type": "Question"
-      "name": "Were dream plants used for prophecy?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "In Greek, Roman, and later European folklore, bay laurel and mugwort were linked with prophetic dreams and visionary sleep."
-    - "@type": "Question"
-      "name": "Is this medical advice?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "No. This is historical folklore only, not medical guidance."
-    - "@type": "Question"
-      "name": "Do these traditions relate to modern lucid dreaming?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "They relate symbolically—folklore treated dreaming as a spiritual threshold rather than a psychological practice."
+  - question: "Did people historically use plants to protect sleep and dreams?"
+    answer: "Yes. Household folklore across medieval Europe, the Balkans, and the Mediterranean describes placing herbs above beds, at windows, or near sleepers to guard the dreaming soul and prevent harmful night influences."
+
+  - question: "Were dream plants used for prophecy or vision?"
+    answer: "Yes. Bay laurel and mugwort were especially associated with prophetic dreams in Greek, Roman, and later European folk belief, where dreaming was treated as a form of spiritual vision."
+
+  - question: "Is this article offering medical or herbal advice?"
+    answer: "No. This article documents historical folklore and traditional belief, not medical or therapeutic guidance."
+
+  - question: "How do historical dream traditions differ from modern lucid dreaming?"
+    answer: "Historical European traditions viewed dreaming as a spiritual threshold involving the soul, rather than a psychological or self-directed practice like modern lucid dreaming."
         
 ---
 
@@ -154,20 +128,20 @@ It appears in monastic manuscripts as a nighttime herb to “settle the minds of
 
 ---
 
-# **FAQ**
+## Frequently Asked Questions 
 
-### **Were mugwort and bay actually used in real folklore?**  
-Yes. Mugwort in European folk magic is extremely well attested; bay is widespread in Mediterranean dream lore.
+### **Were mugwort and bay actually used for dreamwork in historical folklore?**  
+Yes. Mugwort appears repeatedly in European folk records as a dream-guard and vision herb, while bay laurel is deeply rooted in Mediterranean prophetic dream traditions, especially in Greek and Roman sources.
 
-### **Did witches keep plants in bedrooms?**  
-Some did, but the more common practice was household-level—mothers, shepherds, wise-women, and night-watchers.
+### **Was keeping plants in bedrooms a witch-only practice?**  
+No. Most dream-protection plants were used at the household level by mothers, shepherds, midwives, and monks. Witchcraft emerged later as a label applied to older domestic traditions.
 
-### **Why were dreams feared historically?**  
-Many traditions believed the soul left the body during sleep, making it vulnerable.
+### **Why were dreams considered dangerous or important in old European belief?**  
+Many traditions believed the soul wandered during sleep. This made the dreamer vulnerable to spirits, envy, or intrusion — which is why protection mattered as much as vision.
 
-### **Did Europeans burn juniper indoors?**  
-Yes—especially in Scandinavia and the Alps during winter and after nightmares.
+### **Were juniper and other evergreens really burned indoors?**  
+Yes, especially in cold regions. Small-scale smoke cleansing with juniper or pine was common after nightmares, illness, or fearful dreams, particularly in winter.
 
-### **Is this article offering health uses?**  
-No. This is folklore only.
+### **Is this a modern spiritual interpretation or historical folklore?**  
+This article reflects documented folk belief and household tradition, not modern psychology or medical practice. Dream plants were understood spiritually, not therapeutically.
 
