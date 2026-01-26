@@ -13,7 +13,7 @@ tags:
   - vernal equinox traditions
 excerpt: "From Persia to the Balkans, from Africa to the Americas, the Spring Equinox marked balance, danger, and renewal—not celebration."
 description: "A global folklore survey of Spring Equinox traditions across Asia, Africa, Europe, the Balkans, and the Americas."
-faqs:
+faq:
   - question: "Did all cultures mark the Spring Equinox?"
     answer: "Yes, but not always as a celebration. Many cultures acknowledged the equinox quietly or through protective and corrective rituals rather than festivals."
 
