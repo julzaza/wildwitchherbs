@@ -10,7 +10,7 @@ audience: "Herbalists, witches, folklore enthusiasts, travelers"
 language: "en"
 difficulty: "Beginner to Intermediate"
 contentType: "Cultural, Travel, Herbal Guide"
-faqs:
+faq:
   - question: "Why are the Timok and Homolje springs considered sacred?"
     answer: "Villagers believed each spring carried its own spirit and healing properties, often linked to ancient gods and local folklore."
   - question: "Which herbs are traditionally used with the spring waters?"
