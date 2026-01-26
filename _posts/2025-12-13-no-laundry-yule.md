@@ -15,38 +15,21 @@ tags:
 excerpt: "Across Europe, washing clothes during Yule was forbidden. This was not superstition—it was protection against spirits, death, and winter misfortune."
 description: "A folklore-based exploration of why laundry was forbidden during Yule across Europe, including ancestral taboos, spirits, and domestic magic traditions."
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Why Laundry Was Forbidden During Yule"
-  "description": "An exploration of European Yule taboos surrounding laundry, domestic work, and winter spirits."
-  "author":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntityOfPage": "{{ page.url | absolute_url }}"
-  "image": "{{ site.url }}/assets/images/yule-laundry-folklore.jpg"
-
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Why was laundry forbidden during Yule?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Laundry was forbidden during Yule because hanging cloth was believed to attract spirits, entangle the dead, or invite death into the household."
-
-    - "@type": "Question"
-      "name": "Which cultures avoided washing clothes at Yule?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Germanic, Slavic, Balkan, Alpine, and Nordic cultures all preserved versions of this taboo."
-
-    - "@type": "Question"
-      "name": "Is this connected to the Wild Hunt?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Hanging laundry was believed to catch riders of the Wild Hunt or mark a household for misfortune."
+faq:
+  - question: "Why was laundry forbidden during Yule?"
+    answer: "Laundry was forbidden because hanging cloth was believed to attract spirits, entangle the dead, or invite death into the household during the liminal Twelve Nights. This was part of protective domestic magic, not superstition."
+  - question: "Which cultures observed this Yule laundry taboo?"
+    answer: "Germanic, Slavic, Balkan, Alpine, and Nordic cultures all preserved versions of this prohibition, with local variations in practice and enforcement."
+  - question: "Is this taboo connected to the Wild Hunt?"
+    answer: "Yes. Hanging laundry, especially white sheets, could be mistaken for a corpse, attracting the Wild Hunt or marking a household for misfortune."
+  - question: "Why was water considered dangerous during Yule?"
+    answer: "Water was thought to carry souls and attract wandering spirits during the Twelve Nights. Pouring, washing, or moving water unnecessarily could disturb the liminal boundaries between worlds."
+  - question: "Were these taboos enforced in reality?"
+    answer: "Yes. Social enforcement was often strict, with fear and storytelling ensuring compliance to protect households from accidents, illness, or death during winter."
+  - question: "How can modern witches honor this tradition safely?"
+    answer: "Modern practitioners can honor the intent by practicing rest, silence, protective herbs, candlelight, and intentional observation rather than literal laundry bans."
+  - question: "What does this teach about Yule magic?"
+    answer: "Not all magic is active; sometimes magic is about stillness, restraint, and listening. The house itself became a ritual space during the liminal Twelve Nights."
 
 ---
 
@@ -159,5 +142,3 @@ You don’t need to obey—but understanding why it existed changes how you hono
 
 ### What can replace the taboo today?
 Rest. Candles. Silence. Protective herbs. Intention.
-
-For seasonal protection practices, see **[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)**.
