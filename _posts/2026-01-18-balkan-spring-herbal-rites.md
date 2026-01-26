@@ -13,7 +13,7 @@ tags:
   - love herbs Balkans
   - fertility herbs folklore
   - seasonal rituals
-faqs:
+faq:
   - question: "What herbs were used in Balkan spring folk magic?"
     answer: "Traditional Balkan spring folk magic used herbs such as basil, wormwood, nettle, elder, yarrow, hawthorn, clover, dandelion, and St. John’s Wort, gathered during specific seasonal and ritual windows to enhance fertility, protection, and love."
 
