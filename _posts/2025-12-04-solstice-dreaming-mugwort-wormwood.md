@@ -15,46 +15,21 @@ tags:
   - solstice dreaming
   - dream magic
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "BlogPosting"
-  headline: "Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights"
-  description: "A folklore-rich guide to solstice dreaming with mugwort and wormwood, exploring Old European prophecy, vision rites, and winter witchcraft."
-  author:
-    "@type": "Organization"
-    name: "Wild Witch Herbs"
-  publisher:
-    "@type": "Organization"
-    name: "Wild Witch Herbs"
-  mainEntityOfPage:
-    "@type": "WebPage"
-    "@id": "https://wildwitchherbs.com/solstice-dreaming-mugwort-wormwood/"
-  keywords: "solstice dreaming, mugwort folklore, wormwood prophecy, winter divination, Old European witchcraft"
-
-faq_schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  mainEntity:
-    - "@type": "Question"
-      name: "When is the best night to practice solstice dreaming?"
-      acceptedAnswer:
-        "@type": "Answer"
-        text: "The winter solstice night itself is considered the most potent for prophetic dreaming, as it marks the longest night of the year. The following Twelve Nights were also traditionally used for continued dream-omens."
-    - "@type": "Question"
-      name: "Can mugwort and wormwood be used together for dream magic?"
-      acceptedAnswer:
-        "@type": "Answer"
-        text: "Yes. In Old European folk practice, mugwort was used to gently open prophetic vision, while wormwood was used sparingly to sharpen clarity. Wormwood was treated with caution due to its strength."
-    - "@type": "Question"
-      name: "Is solstice dreaming dangerous?"
-      acceptedAnswer:
-        "@type": "Answer"
-        text: "Solstice dreaming was considered powerful but not inherently dangerous when practiced respectfully. Traditional sources emphasize moderation, protection, and clear intention rather than forceful vision-seeking."
-    - "@type": "Question"
-      name: "Do solstice dreams have special meaning?"
-      acceptedAnswer:
-        "@type": "Answer"
-        text: "Yes. Solstice dreams were believed to carry messages about the coming year, including health, fate, travel, and household fortune, because the solstice was seen as a moment when time briefly stood still."
+faq:
+  - question: "When is the best night to practice solstice dreaming?"
+    answer: "The winter solstice night itself is the most potent for prophetic dreaming, marking the longest night of the year. The following Twelve Nights were also traditionally used for continued dream-omens."
+  - question: "Can mugwort and wormwood be used together for dream magic?"
+    answer: "Yes. Mugwort gently opens prophetic vision, while wormwood sharpens clarity. Use wormwood sparingly, as it is strong and was traditionally treated with caution."
+  - question: "Is solstice dreaming dangerous?"
+    answer: "Solstice dreaming is powerful but not inherently dangerous when practiced respectfully. Traditional sources emphasize moderation, protection, and clear intention rather than forceful vision-seeking."
+  - question: "Do solstice dreams have special meaning?"
+    answer: "Yes. Solstice dreams were believed to carry messages about the coming year, including health, fate, travel, and household fortune, as the solstice was considered a time when the boundaries between worlds thinned."
+  - question: "Do I need to be a witch or initiated to practice solstice dreaming?"
+    answer: "No. While guidance is helpful, beginners can start with basic practices such as mugwort pillows, intention-setting, and careful observation of dream symbols, then gradually explore more advanced dream-work."
+  - question: "How were solstice dreams traditionally interpreted?"
+    answer: "Dreams were read using symbolic correspondences—movement, light, animals, weather, and other details were linked to crops, household fortunes, and future events. Record literal details first, then consider symbolic meaning."
+  - question: "How can I practice solstice dreaming safely?"
+    answer: "Use small amounts of herbs, avoid ingestion of wormwood, test for allergies, do not force visions with sleep deprivation, and set clear intentions for protection and clarity."
 
 ---
 
