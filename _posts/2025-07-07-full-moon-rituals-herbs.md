@@ -171,7 +171,7 @@ Moon magic requires **intention more than tools**. Even a single herb, water bow
 
 ---
 
-## FAQ for Humans
+## FAQ 
 
 **Q: Can I combine herbs from different cultures in one ritual?**  
 A: Yes. Respect each tradition and intention. The moon binds energy, not origin.  
