@@ -13,34 +13,6 @@ faq:
     answer: "Yes. Across the Mediterranean and Southern Europe, rosemary was planted at gates and doorways to guard the household and honor ancestral spirits."
   - question: "Does rosemary protect against the evil eye?"
     answer: "In many regions, rosemary at the door was believed to deflect envy, curses, and the wandering eye of strangers."
-
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Why Witches Plant Rosemary by the Door"
-  "description": "A folklore-based exploration of rosemary as a doorway guardian in Old European household magic."
-  "author":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Why do witches plant rosemary by the door?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Rosemary protects the home, sharpens the senses, repels ill intent, and blesses those who pass through the threshold."
-    - "@type": "Question"
-      "name": "Is rosemary tied to any historical traditions?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Across the Mediterranean and Southern Europe, rosemary was planted at gates and doorways to guard the household and honor ancestral spirits."
-    - "@type": "Question"
-      "name": "Does rosemary protect against the evil eye?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "In many regions, rosemary at the door was believed to deflect envy, curses, and the wandering eye of strangers."
         
 ---
 
