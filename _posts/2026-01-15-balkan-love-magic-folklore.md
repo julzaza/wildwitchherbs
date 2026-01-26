@@ -15,33 +15,28 @@ tags:
   - slavic witchcraft
 excerpt: "Balkan love magic was not romantic. It was feared, bodily, and often dangerous—rooted in obsession, binding, and survival."
 description: "A factual exploration of Balkan love magic across Serbia, Romania, Bulgaria, and Macedonia—documenting real practices, fears, and consequences."
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Balkan Love Magic: What Was Done and What Was Feared"
-  "description": "An unsanitized look at real Balkan love magic practices and the fears surrounding them."
-  "author":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Was Balkan love magic dangerous?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. It was feared for causing obsession, illness, and spiritual contamination."
-    - "@type": "Question"
-      "name": "Who practiced love magic?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Mostly women, widows, and marginalized figures with folk knowledge."
-    - "@type": "Question"
-      "name": "Was consent involved?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Often no. Love magic was coercive and feared for that reason."
+faq:
+  - question: "Was Balkan love magic actually dangerous?"
+    answer: "Yes. In Balkan folklore, love magic was feared for causing obsession, physical decline, madness, and spiritual contamination. It was not viewed as symbolic or harmless."
+
+  - question: "Why was Balkan love magic feared more than other forms of folk magic?"
+    answer: "Because it interfered directly with desire, consent, and bodily autonomy. Communities believed love magic could trap both the target and the practitioner in destructive bonds."
+
+  - question: "Who typically practiced love magic in the Balkans?"
+    answer: "Historical records show it was most often practiced by women, widows, and socially vulnerable figures who lacked legal or economic power and relied on folk knowledge to secure survival."
+
+  - question: "Did Balkan love magic involve consent?"
+    answer: "Often no. Many practices were explicitly coercive, which is why they were morally condemned and socially feared."
+
+  - question: "What role did bodily substances play in Balkan love spells?"
+    answer: "Bodily substances such as menstrual blood, sweat, hair, and footprints were used in contagion magic, based on the belief that physical traces created binding spiritual links."
+
+  - question: "Were herbs used to protect against love magic?"
+    answer: "Yes. Plants like garlic, rue, and bitter herbs were widely used to block, reverse, or cleanse unwanted love magic rather than to attract affection."
+
+  - question: "How is Balkan love magic different from modern love spells?"
+    answer: "Traditional Balkan love magic focused on survival, control, and binding outcomes, not mutual attraction or romance. Modern love magic narratives often erase this historical reality."
+
 ---
 
 Balkan love magic was **not about romance**.
@@ -176,5 +171,28 @@ No. Understand it — don’t reenact it blindly.
 - **[Herbs Vlach Wise Women Use: Plants of the Timok Valley](/herbs-vlach-wise-women/)** — traditional medicinal and protective plants from Eastern Serbia.
 - **[7 Sacred Springs of Serbia](/seven-sacred-springs-serbia/)** — explore local folklore, legends, and herbal connections surrounding Serbia’s most revered natural springs.  
 - **[Why Balkan Witches Survived: Magic Rooted in the People](/balkan-witches/)** — explores how practical folk magic sustained communities.
-- **[How to Start a Real Witch’s Garden: Powerful Traditional Plants](/witch-garden/)** — plants with deep historical and magical roots.
 
+---
+
+## Frequently Asked Questions on Binding Love Magic
+
+**Was Balkan love magic common or rare?**  
+It was common enough to be feared. Ethnographic records suggest it appeared most often where women had limited legal or social power and few options to secure marriage or stability.
+
+**Why was love magic considered more dangerous than other folk magic?**  
+Because it targeted desire itself. Illness could be healed and curses reversed, but love magic was believed to warp the will, creating obsession, fixation, and long-term spiritual damage.
+
+**Did people believe love magic actually worked?**  
+Yes. Communities treated it as real and effective, which is why accusations carried social consequences. Fear existed because people believed results followed action.
+
+**Was consent ever part of these practices?**  
+Rarely. Balkan love magic was widely understood as coercive. That lack of consent is precisely what made it taboo and morally dangerous.
+
+**Why were bodily substances used instead of symbolic items?**  
+Because Balkan magic relied on contagion. Hair, blood, sweat, and footprints were believed to carry a person’s essence, creating a binding link that could not be easily broken.
+
+**Were herbs used to undo or block love magic?**  
+Very often. Garlic, rue, wormwood, and bitter plants were more commonly used for protection and severance than attraction, reflecting how seriously unwanted love magic was taken.
+
+**Is this something modern practitioners should recreate?**  
+No. These practices belong to survival-driven historical contexts. They should be studied to understand power, fear, and consequence — not reenacted without restraint or awareness.
