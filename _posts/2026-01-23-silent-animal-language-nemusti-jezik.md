@@ -12,7 +12,7 @@ audience: "Herbalists, witches, folklore enthusiasts, and those seeking to commu
 language: "en"
 difficulty: "Beginner to Intermediate"
 contentType: "Educational, Magical Guide"
-faqs:
+faq:
   - question: "What is Nemušti Jezik, the Silent Language of animals?"
     answer: "Nemušti Jezik is a Balkan folkloric practice allowing humans to perceive animal speech and nature messages through observation, herbal rituals, and mindful listening."
 
