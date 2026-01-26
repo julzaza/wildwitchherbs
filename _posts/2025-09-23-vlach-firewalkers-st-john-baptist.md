@@ -12,7 +12,7 @@ audience: "Folklore enthusiasts, herbalists, witches, travelers interested in tr
 language: "en"
 difficulty: "Beginner to Intermediate"
 contentType: "Educational, Cultural, Herbal Guide"
-faqs:
+faq:
   - question: "What is the firewalking ritual in Eastern Serbia?"
     answer: "Known as pali hod, it is a Vlach summer solstice ritual where participants walk barefoot over embers for protection, blessing, and connection with ancestral spirits."
   - question: "Why is wormwood used in the ritual?"
