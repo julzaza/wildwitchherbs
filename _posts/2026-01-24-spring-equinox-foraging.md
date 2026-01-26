@@ -14,7 +14,7 @@ tags:
   - seasonal foraging traditions
 excerpt: "Across the world, the Spring Equinox marked the moment when the first wild plants could be taken—carefully, ritually, and with restraint."
 description: "A global folklore exploration of Spring Equinox foraging traditions, early wild plants, and ancestral rules for gathering from Europe, Asia, Africa, the Americas, and beyond."
-faqs:
+faq:
   - question: "Did people traditionally forage at the Spring Equinox?"
     answer: "Yes, but cautiously. Early spring plants were considered spiritually potent and unstable, so foraging required ritual awareness and restraint."
   - question: "Which plants were gathered first during the Spring Equinox?"
