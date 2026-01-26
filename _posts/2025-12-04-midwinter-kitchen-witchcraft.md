@@ -16,39 +16,24 @@ tags:
   - midwinter magic
   - food magic
 
-search: false
-author: "Wild Witch Herbs"
-series: twelve-nights
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What was the Witch’s Midwinter Kitchen?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "The Witch’s Midwinter Kitchen was the ritual heart of Old European households during the Twelve Nights, where food was used as protection, divination, and ancestral offering. Everyday ingredients like honey, garlic, poppy seeds, apples, nuts, and bread carried symbolic and magical meaning."
-    - "@type": "Question"
-      "name": "Which foods were considered magical during the Twelve Nights?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Honey, poppy seeds, garlic, apples, nuts, and solstice bread were considered magical. Honey bound luck and sweetened spirits, poppy seeds distracted harmful beings, garlic warded illness and spirits, apples and nuts were used for prophecy, and bread acted as both nourishment and protective talisman."
-    - "@type": "Question"
-      "name": "How were these foods used in folk magic rituals?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Foods were eaten, burned, offered, scattered, or marked with symbols. These acts aligned the household with ancestral spirits, seasonal cycles, and protective forces during the darkest part of the year."
-    - "@type": "Question"
-      "name": "Can modern witches practice Midwinter Kitchen magic?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Modern practitioners can adapt these traditions by cooking with intention, making symbolic offerings, performing simple divinations, and honoring seasonal rhythms rather than copying fixed historical rituals."
-    - "@type": "Question"
-      "name": "Why were the Twelve Nights considered dangerous or powerful?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "The Twelve Nights were believed to be a liminal period when spirits, ancestors, and wandering forces moved freely. Protective food rituals helped keep the household balanced, fed, and spiritually guarded."
+faq:
+  - question: "What was the Witch’s Midwinter Kitchen?"
+    answer: "The Witch’s Midwinter Kitchen was the ritual heart of Old European households during the Twelve Nights, where food was used for protection, divination, and offerings to ancestors."
+  - question: "Which foods were considered magical during the Twelve Nights?"
+    answer: "Honey, poppy seeds, garlic, apples, nuts, and solstice bread carried magical significance for luck, protection, prophecy, and ancestral feeding."
+  - question: "How were these foods used in folk magic rituals?"
+    answer: "Foods were eaten, offered, scattered, burned, or marked with symbols to protect the household, honor spirits, and guide divination."
+  - question: "Can modern witches practice Midwinter Kitchen magic?"
+    answer: "Yes. Modern practitioners can cook with intention, make symbolic offerings, perform divinations, and honor seasonal cycles while adapting these traditions."
+  - question: "Why were the Twelve Nights considered powerful or dangerous?"
+    answer: "The Twelve Nights were liminal, when spirits and wandering forces moved freely. Food rituals helped protect the household and maintain balance."
+  - question: "Did people really believe the food had magical effects?"
+    answer: "Yes. In folklore, these foods were seen as vessels for blessings, protection, and ancestral communication, not just nourishment."
+  - question: "Which food was most important for divination?"
+    answer: "Apples and nuts were commonly used—apples for love and fate, nuts for predicting the year ahead by cracking or burning them."
+  - question: "Was bread really magical?"
+    answer: "Yes. The solstice loaf was both sustenance and talisman, often marked with symbols, offered to ancestors, and hung to protect the home."
 
 ---
 
