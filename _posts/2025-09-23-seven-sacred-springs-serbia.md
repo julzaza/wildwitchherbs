@@ -5,7 +5,7 @@ description: "Travel through the Timok and Homolje regions to seven legendary sp
 excerpt: "Discover seven sacred springs of Eastern Serbia where folklore, herbal magic, and pilgrimage converge, from Devil’s Water to Timok’s Whispering Eye."
 categories: [folklore-ancestral, herbal-magic]
 tags: [sacred springs, Eastern Serbia, holy water, herbal magic, Vlach traditions, pilgrimage]
-search: false
+
 audience: "Herbalists, witches, folklore enthusiasts, travelers"
 language: "en"
 difficulty: "Beginner to Intermediate"
@@ -19,45 +19,7 @@ faqs:
     answer: "Yes, many remain free and wild, visited by locals and travelers who leave coins or offerings as part of traditional rites."
   - question: "How did herbalists traditionally use holy water?"
     answer: "Infusions made with these waters were believed to enhance the medicinal and magical properties of herbs, sometimes for teas, baths, or hair rinses."
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Sacred Springs of Serbia: Holy Waters & Herbal Magic"
-  "description": "Discover seven sacred springs of Eastern Serbia where folklore, herbal magic, and pilgrimage converge, from Devil’s Water to Timok’s Whispering Eye."
-  "author":
-    "@type": "Person"
-    "name": "Wild Witch Herbs"
-  "datePublished": "2026-01-21"
-  "mainEntityOfPage": "/blog/sacred-springs-serbia/"
-  "articleSection": "balkan-folklore"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntity":
-    "@type": "FAQPage"
-    "name": "Sacred Springs of Serbia — FAQ"
-    "acceptedAnswerCount": 4
-    "mainEntity": 
-      - "@type": "Question"
-        "name": "Why are the Timok and Homolje springs considered sacred?"
-        "acceptedAnswer":
-          "@type": "Answer"
-          "text": "Villagers believed each spring carried its own spirit and healing properties, often linked to ancient gods and local folklore."
-      - "@type": "Question"
-        "name": "Which herbs are traditionally used with the spring waters?"
-        "acceptedAnswer":
-          "@type": "Answer"
-          "text": "Common herbs include St. John’s wort, yarrow, mugwort, vervain, nettle, and wild mint, often used for protection, fertility, or healing teas."
-      - "@type": "Question"
-        "name": "Are these springs still accessible today?"
-        "acceptedAnswer":
-          "@type": "Answer"
-          "text": "Yes, many remain free and wild, visited by locals and travelers who leave coins or offerings as part of traditional rites."
-      - "@type": "Question"
-        "name": "How did herbalists traditionally use holy water?"
-        "acceptedAnswer":
-          "@type": "Answer"
-          "text": "Infusions made with these waters were believed to enhance the medicinal and magical properties of herbs, sometimes for teas, baths, or hair rinses."
+
 ---
 
 Eastern Serbia is a land of **limestone gorges and whispering forests**, a place where **water rises from deep caverns and the old gods never truly left**.  
