@@ -13,7 +13,7 @@ tags:
   - ritual magic
   - ancestral plants
   - global folk magic
-faqs:
+faq:
   - question: "What makes an herb forbidden in folklore?"
     answer: "Herbs were considered forbidden when they were believed to summon spirits, disrupt fate, cause harm if misused, or require ritual permission to handle safely."
 
