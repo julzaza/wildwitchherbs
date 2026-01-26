@@ -14,47 +14,23 @@ categories:
 tags:
   - Yule rituals
   - Old European witchcraft
+  - winter witchcraft
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "BlogPosting"
-  headline: "Old European Yule Rituals: Wolves, Mistletoe & Midwinter Lore"
-  description: "A folklore-rich exploration of forgotten Yule rites, wolf guardians, mistletoe magic, and the fierce midwinter practices of Old Europe."
-  author:
-    "@type": "Organization"
-    name: "Wild Witch Herbs"
-  publisher:
-    "@type": "Organization"
-    name: "Wild Witch Herbs"
-  mainEntityOfPage:
-    "@type": "WebPage"
-    "@id": "https://wildwitchherbs.com/old-european-yule-rituals/"
-  keywords: "Yule rituals, Old European witchcraft, midwinter folklore, mistletoe magic, wolf guardians, Twelve Nights"
-
-faq_schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  mainEntity:
-    - "@type": "Question"
-      name: "What is the difference between Yule and Christmas?"
-      acceptedAnswer:
-        "@type": "Answer"
-        text: "Yule is an Old European midwinter festival rooted in ancestral rites, solstice magic, and household protection. Christmas later absorbed many Yule customs but removed much of the darker, spirit-focused folklore."
-    - "@type": "Question"
-      name: "Why are wolves connected to Yule rituals?"
-      acceptedAnswer:
-        "@type": "Answer"
-        text: "In Old European folklore, winter was considered the wolves’ season. Wolves functioned as threshold guardians during midwinter, protecting households from wandering spirits and otherworldly dangers."
-    - "@type": "Question"
-      name: "Why was mistletoe sacred in Old European Yule traditions?"
-      acceptedAnswer:
-        "@type": "Answer"
-        text: "Mistletoe was believed to carry solar power because it grows without touching the earth and remains green through winter. It was ritually harvested and used for protection against illness, spirits, and misfortune."
-    - "@type": "Question"
-      name: "Why were the Twelve Nights considered dangerous?"
-      acceptedAnswer:
-        "@type": "Answer"
-        text: "The Twelve Nights were believed to exist outside ordinary time. During this liminal period, spirits, ancestral dead, and the Wild Hunt were thought to roam freely, making protective rites essential."
+faq:
+  - question: "What is the difference between Yule and Christmas?"
+    answer: "Yule is an Old European midwinter festival rooted in ancestral rites, solstice magic, and household protection. Christmas later absorbed many Yule customs but removed much of the darker, spirit-focused folklore."
+  - question: "Why are wolves connected to Yule rituals?"
+    answer: "Winter was traditionally the wolves' season. In Old European folklore, wolves acted as guardians of thresholds, protecting households from wandering spirits and otherworldly dangers."
+  - question: "Why was mistletoe sacred in Old European Yule traditions?"
+    answer: "Mistletoe grows without touching the earth and stays green in winter, symbolizing solar power. It was harvested for protection against illness, misfortune, and spirits."
+  - question: "What makes the Twelve Nights dangerous?"
+    answer: "The Twelve Nights were considered liminal, existing outside ordinary time. During this period, spirits, ancestors, and the Wild Hunt roamed freely, making protective rites essential."
+  - question: "How were Yule rites performed in households?"
+    answer: "Rites included leaving offerings for spirits, marking doors with ash, hanging evergreens, performing wolf guardian rituals, and observing taboos like avoiding laundry or uncovered bread."
+  - question: "Can modern witches practice these Yule traditions?"
+    answer: "Yes. Modern practitioners can adapt these rituals by honoring seasonal cycles, using protective symbols, making offerings, and working with local herbs and evergreens."
+  - question: "What role did food play in Old Yule magic?"
+    answer: "Food was both nourishment and magic—bread, honey, nuts, and seeds were offered to ancestors, used for divination, and employed as protective charms during the Twelve Nights."
         
 ---
 
