@@ -6,20 +6,6 @@ excerpt: "An atmospheric dive into Old European fertility magic—where land, li
 categories: [witchcraft-ritual, folklore-ancestral]
 tags: [fertility rituals, old european magic, folklore, witchcraft traditions]
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Old World Fertility Magic: Charms, Rites & Witchcraft"
-  "description": "A folklore-rich exploration of Old World fertility magic and how witches, healers, and farmers invoked creation through land, spirits, animals, and charms."
-  "author":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-    "url": "https://wildwitchherbs.com"
-  "keywords": "fertility magic, old european witchcraft, folk magic, fertility rites, land fertility rituals"
-
 faq:
   - question: "What herbs were used for fertility in Old European magic?"
     answer: "Herbs varied by region, but common ones included red clover, mugwort, lady’s mantle, vervain, and apple blossom. They were used for womb blessing, land fertility rites, and livestock charms."
@@ -35,46 +21,6 @@ faq:
     answer: "Not in the Old European worldview. They were part prayer, part spell, part negotiation with forces both seen and unseen."
   - question: "Why include livestock fertility in a human fertility post?"
     answer: "Because Old World people saw land, animals, and humans as bound by one life-force. If one weakened, all weakened."
-
-faq_schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What herbs were used for fertility in Old European magic?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Herbs varied by region, but common ones included red clover, mugwort, lady’s mantle, vervain, and apple blossom. They were used for womb blessing, land fertility rites, and livestock charms."
-    - "@type": "Question"
-      "name": "Did witches use fertility rituals for agriculture?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Much of Old World fertility magic was agricultural—blessing fields, protecting herds, and ensuring healthy offspring in both humans and animals."
-    - "@type": "Question"
-      "name": "How is animal fertility connected to human fertility in folklore?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "In traditional European belief, the fertility of people, livestock, and land was part of one inseparable life-force. Healthy herds meant healthy households."
-    - "@type": "Question"
-      "name": "Were fertility rituals only for conception?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "No. In folk tradition, fertility also meant creativity, new beginnings, agricultural success, and the renewal of life-force."
-    - "@type": "Question"
-      "name": "Why do many fertility rituals involve fire and ash?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Fire awakens and energizes, while ash blesses, grounds, and carries the memory of flame, making it sacred to the spirits of growth."
-    - "@type": "Question"
-      "name": "Are these rituals purely symbolic?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Not in the Old European worldview. They were part prayer, part spell, part negotiation with forces both seen and unseen."
-    - "@type": "Question"
-      "name": "Why include livestock fertility in a human fertility post?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Because Old World people saw land, animals, and humans as bound by one life-force. If one weakened, all weakened."
         
 ---
 
