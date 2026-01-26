@@ -11,7 +11,7 @@ audience: "Herbalists, witches, folk medicine enthusiasts"
 language: "en"
 difficulty: "Beginner to Intermediate"
 contentType: "Educational, Historical, Herbal Guide"
-faqs:
+faq:
   - question: "What remedies did Vasa Pelagić suggest for measles?"
     answer: "He recommended smoke baths using juniper and oak branches to disinfect the air and aid the sick."
   - question: "How did Pelagić use dew in skincare?"
