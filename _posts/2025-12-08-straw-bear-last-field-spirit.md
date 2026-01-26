@@ -7,45 +7,7 @@ categories: [folklore-ancestral, witchcraft-ritual]
 tags: [straw bear, field spirits, European folk magic, pre-Christian rituals, fertility rites, winter rites, agrarian magic]
 permalink: /straw-bear-last-field-spirit
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "The Straw Bear: Europe’s Last Field Spirit"
-  "description": "An in-depth look at the Straw Bear tradition as a surviving fragment of Old European field-spirit rites, winter liminality, and agrarian magic."
-  "keywords": ["straw bear tradition", "pre-Christian fertility rites", "European field spirits", "old European magic", "Shrovetide pagan customs"]
-  "author":
-    "@type": "Person"
-    "name": "Wild Witch Herbs"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "image": "/assets/images/straw-bear-europe.jpg"
-  "mainEntityOfPage":
-    "@type": "WebPage"
-    "@id": "https://wildwitchherbs.com/straw-bear-last-field-spirit/"
-  "faq":
-    - "@type": "Question"
-      "name": "Is the Straw Bear originally a pagan ritual?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Its structure—a human embodied in straw, blessing households and reawakening the fields—matches pre-Christian field-spirit rites found across Old Europe."
-    - "@type": "Question"
-      "name": "Why is the Straw Bear associated with fertility and agriculture?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "In Old Europe, the spirit of the grain was believed to retreat into the final sheaves at harvest. Binding someone in straw temporarily ‘incarnated’ this spirit for blessing and renewal."
-    - "@type": "Question"
-      "name": "How did the Christian Church respond to the Straw Bear tradition?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "It was tolerated only under new names—usually as a Shrovetide or carnival figure. The ritual survived because it was rebranded rather than eliminated."
-    - "@type": "Question"
-      "name": "Does the Straw Bear still carry magical meaning today?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "While seen as folklore now, its actions, timing, and symbolism preserve the logic of Old European agrarian magic. It remains a living remnant of a pre-Christian worldview."
-
-  faq:
+faq:
     - question: "Is the Straw Bear originally a pagan ritual?"
       answer: "Yes. Its structure—a human embodied in straw, blessing households and reawakening the fields—matches pre-Christian field-spirit rites found across Old Europe."
     - question: "Why is the Straw Bear associated with fertility and agriculture?"
