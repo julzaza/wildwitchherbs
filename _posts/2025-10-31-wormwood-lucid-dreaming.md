@@ -12,7 +12,7 @@ audience: "Herbalists, witches, dream workers, folklore enthusiasts"
 language: "en"
 difficulty: "Beginner to Intermediate"
 contentType: "Educational, Herbal & Magical Guide"
-faqs:
+faq:
   - question: "What is the connection between wormwood and lucid dreaming?"
     answer: "Wormwood contains thujone, a compound that stimulates the nervous system, traditionally used to enhance dream clarity and spiritual vision."
   - question: "How should wormwood be used safely for dreams?"
