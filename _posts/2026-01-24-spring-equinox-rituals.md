@@ -41,7 +41,7 @@ The Spring Equinox has always been one of the most misunderstood points in the r
 
 Across cultures, it was not a celebration of joy or abundance, but a moment of **unstable balance** — when light and dark stood equal, and neither could be trusted to hold.
 
-In traditional folk belief, this balance was dangerous.
+In traditional folk belief, this **balance was dangerous**.
 
 That is why Spring Equinox rituals appear across Europe, the Balkans, Asia, Africa, the Middle East, and the Americas — not as festivals, but as acts of protection, renewal, and negotiation with the land.
 
