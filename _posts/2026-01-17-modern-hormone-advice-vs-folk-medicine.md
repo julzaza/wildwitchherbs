@@ -12,7 +12,7 @@ tags:
   - perimenopause
   - menstrual health
   - herbal wisdom
-faqs:
+faq:
   - question: "Why does modern hormone advice often contradict traditional medicine?"
     answer: "Modern hormone protocols focus on controlling numbers and symptoms, while traditional folk medicine emphasized supporting natural life stage transitions and respecting the body’s cycles."
 
