@@ -15,7 +15,7 @@ tags:
 excerpt: "In Balkan folk belief, the house snake was not vermin but kin — a guardian spirit tied to the dead, the land, and the survival of the household itself."
 description: "A folklore-rich, historically grounded exploration of the Balkan house snake belief — where serpents served as ancestral guardians, domestic spirits, and protectors of the home, surviving well into the modern era."
 author: Wild Witch Herbs
-faqs:
+faq:
   - question: "What is a house snake in Balkan folklore?"
     answer: "A house snake is a domestic guardian associated with ancestors, household protection, and family continuity. It could be both a physical snake and a spiritual presence."
   - question: "Were these snakes real animals or spirits?"
