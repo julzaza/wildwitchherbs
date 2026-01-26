@@ -22,7 +22,7 @@ date: 2025-07-07
 schema: true
 schema_type: "Article"
 
-faqs:
+faq:
   - question: "Were herbs truly forbidden to women in folk traditions?"
     answer: "Yes. In specific historical and cultural contexts, certain herbs were restricted due to reproductive risk, toxicity, or ritual danger. These prohibitions are documented in folklore, midwifery manuals, and ethnographic studies."
 
