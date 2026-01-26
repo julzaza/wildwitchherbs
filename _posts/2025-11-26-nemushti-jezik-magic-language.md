@@ -19,26 +19,7 @@ faqs:
     answer: "The story is preserved in Serbian folklore and closely connected to Vlach communities in Eastern Serbia, Romania, and Montenegro, where animism and ancestral magic remain strong."
   - question: "What lessons does the Silent Tongue teach modern witches?"
     answer: "It teaches that knowledge from the natural world comes with responsibility and restraint. Observing and respecting animals and plants is central to modern herbal and witchcraft practices."
-schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "name": "Nemušti Jezik — FAQ"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What is Nemušti Jezik in Balkan folk tales?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Nemušti Jezik, or the Silent Tongue, is a Balkan folk tale about a shepherd who gains the ability to understand the language of animals and nature through a magical encounter with a serpent. It emphasizes listening, observation, and ancestral wisdom."
-    - "@type": "Question"
-      "name": "Which communities preserve this story?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "The story is preserved in Serbian folklore and closely connected to Vlach communities in Eastern Serbia, Romania, and Montenegro, where animism and ancestral magic remain strong."
-    - "@type": "Question"
-      "name": "What lessons does the Silent Tongue teach modern witches?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "It teaches that knowledge from the natural world comes with responsibility and restraint. Observing and respecting animals and plants is central to modern herbal and witchcraft practices."
+
 internal_links:
   - title: "Vlach Magija: Protective Herbs & Ancient Balkan Witchcraft"
     url: /vlach-magija-protective-herbs/
