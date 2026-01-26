@@ -11,7 +11,7 @@ audience: "Herbalists, witches, folklore enthusiasts, historical magic researche
 language: "en"
 difficulty: "Intermediate"
 contentType: "Educational, Historical, Herbal Guide"
-faqs:
+faq:
   - question: "What is the Nine Herbs Charm?"
     answer: "A 10th-century Anglo-Saxon spell from the Lacnunga manuscript using nine sacred herbs for healing, protection, and spiritual empowerment."
   - question: "Which herbs are included in the Nine Herbs Charm?"
