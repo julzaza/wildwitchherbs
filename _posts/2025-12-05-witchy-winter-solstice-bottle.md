@@ -15,19 +15,6 @@ tags:
   - folklore
   - twelve-nights
   - wild-hunt
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "The Witch’s Winter Bottle: Solstice Protection Magic"
-  "description": "Explore the Old European tradition of winter witch bottles crafted to guard homes, livestock, and thresholds during the solstice, the Twelve Nights, and the Wild Hunt."
-  "author":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-    "url": "https://wildwitchherbs.com"
-  "keywords": "winter witchcraft, solstice protection, twelve nights magic, wild hunt folklore, witch bottles, evergreen European magic"
 
 faq:
   - question: "What is a winter witch bottle in Old European folklore?"
@@ -40,36 +27,6 @@ faq:
     answer: "Evergreens were viewed as ‘death-defying’ plants whose life force endured the cold. Their magic protected households from the dead, the Wild Hunt, and winter illnesses."
   - question: "Can a winter witch bottle be made today?"
     answer: "Yes. Modern practitioners recreate them using traditional ingredients—iron, juniper, pine, salt, red thread—while keeping the original purpose: to guard the home during dark, liminal winter nights."
-
-faq_schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What is a winter witch bottle in Old European folklore?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "It is a protective vessel—usually clay or glass—filled with evergreen, iron, salt, and binding materials. These bottles were buried or hidden during the solstice and the Twelve Nights to guard against spirits, illness, and the Wild Hunt."
-    - "@type": "Question"
-      "name": "How is a winter witch bottle different from later English witch bottles?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Early English bottles used urine, pins, and wine. Winter bottles from continental Europe were older, seasonal, and built for solstice dangers—using juniper, fir, iron, holly, salt, and St. John’s Wort."
-    - "@type": "Question"
-      "name": "Where should a winter witch bottle be placed for protection?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Traditionally under thresholds, near hearths, or facing north. These placements were believed to block wandering spirits and harmful winter forces during the Twelve Nights."
-    - "@type": "Question"
-      "name": "Why were evergreens used in winter witch bottles?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Evergreens were viewed as ‘death-defying’ plants whose life force endured the cold. Their magic protected households from the dead, the Wild Hunt, and winter illnesses."
-    - "@type": "Question"
-      "name": "Can a winter witch bottle be made today?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Modern practitioners recreate them using traditional ingredients—iron, juniper, pine, salt, red thread—while keeping the original purpose: to guard the home during dark, liminal winter nights."
         
 ---
 
