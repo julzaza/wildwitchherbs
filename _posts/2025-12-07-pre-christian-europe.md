@@ -217,7 +217,7 @@ It survived in bread, fire, herbs, and story.
 
 One of the clearest surviving traces of Old European magic is the Straw Bear tradition of central Europe. Originally an embodiment of the field spirit—the “corn mother” or winter wight—the Straw Bear was a living ritual. A person was bound entirely in straw at the start of the agricultural year and led through the village to bless homes, stir fertility, and awaken the sleeping earth.
 
-Rolling on the ground, scattering straw, dancing with women, and receiving gifts were all ancient acts meant to transfer prosperity from the spirit of the fields to the community. Though later recast as a Shrovetide custom, its structure is unmistakably pre-Christian: masked liminality, agricultural blessing, death-and-rebirth symbolism, and the yearly awakening of the land’s power. Learn more about this **[Last Field Spirit of Europe](/straw-bear-last-field-spirit/)**.
+Rolling on the ground, scattering straw, dancing with women, and receiving gifts were all ancient acts meant to transfer prosperity from the spirit of the fields to the community. Though later recast as a Shrovetide custom, its structure is unmistakably pre-Christian: masked liminality, agricultural blessing, death-and-rebirth symbolism, and the yearly awakening of the land’s power. Learn more about this **[Last Field Spirit of Europe](/straw-bear-last-field-spirit)**.
 
 ---
 
