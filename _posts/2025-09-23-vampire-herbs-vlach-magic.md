@@ -20,31 +20,6 @@ faqs:
   - question: "Are these herbs used in modern folk magic?"
     answer: "Yes, garlic plaits, hawthorn hedges, and protective herb bundles remain part of Balkan folk magic and witchcraft traditions."
 
-# Schema for structured data
-schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Which herbs did the Vlachs use against vampires?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Garlic, hawthorn, wild rose, wormwood, and juniper were commonly used to protect homes, graves, and thresholds."
-    - "@type": "Question"
-      "name": "Why was garlic so central in Balkan vampire lore?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Garlic’s antimicrobial properties may have inspired its reputation for keeping the dead from rising, combined with symbolic protection beliefs."
-    - "@type": "Question"
-      "name": "Did Vlach vampire practices influence Europe?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Reports of Serbian vampire cases, like Arnold Paole in the 1720s, spread to Europe and influenced Gothic literature, including Bram Stoker’s Dracula."
-    - "@type": "Question"
-      "name": "Are these herbs used in modern folk magic?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes, garlic plaits, hawthorn hedges, and protective herb bundles remain part of Balkan folk magic and witchcraft traditions."
 ---
 
 Long before Bram Stoker imagined Transylvania, **Balkan villagers already knew how to keep the dead from rising**.  
