@@ -47,37 +47,6 @@ faq:
   - question: "Where can I learn more about related solstice practices?"
     answer: "See related posts: Winter Solstice Witchcraft (/winter-solstice-witchcraft/), Solstice Spirits & the Wild Hunt (/solstice-spirits-wild-hunt/), Twelve Nights Witchcraft (/twelve-nights-witchcraft/), Solstice Dreaming: Mugwort & Wormwood (/solstice-dreaming-mugwort-wormwood/), and Midwinter Kitchen Witchcraft (/midwinter-kitchen-witchcraft/)."
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "name": "How Witches Used Evergreen Trees Before Christmas Existed — FAQ"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "How did witches use evergreen trees before Christmas existed?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Witches used evergreens as protective charms, boundary-magic at doorways, fumigation tools, ancestral offerings, and winter solstice guardians. Pine, fir, and juniper were central because they remained alive when other plants died back."
-    - "@type": "Question"
-      "name": "Why were evergreens important in pre-Christian winter rituals?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Evergreens symbolized life that refused to die, making them powerful protective and spiritual symbols during the dark months. They guarded thresholds, healed illnesses, warded spirits, and carried life-force to ancestors."
-    - "@type": "Question"
-      "name": "Which types of evergreens were used in ancient witchcraft?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "The main magical evergreens were pine, fir, juniper, holly, and sometimes yew. Pine was cleansing, fir protective, and juniper used for purification and exorcism during midwinter rites."
-    - "@type": "Question"
-      "name": "How were evergreens involved in solstice traditions?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Evergreens were used as solstice guardians—placed over doors, burned at dawn after the longest night, woven into protective wreaths, or offered to ancestral spirits. Their endurance represented the return of the sun."
-    - "@type": "Question"
-      "name": "Where can I learn more about related solstice practices?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "See related posts: Winter Solstice Witchcraft (/winter-solstice-witchcraft/), Solstice Spirits & the Wild Hunt (/solstice-spirits-wild-hunt/), Twelve Nights Witchcraft (/twelve-nights-witchcraft/), Solstice Dreaming: Mugwort & Wormwood (/solstice-dreaming-mugwort-wormwood/), and Midwinter Kitchen Witchcraft (/midwinter-kitchen-witchcraft/)."
-
 ---
 
 Modern people tend to imagine the evergreen tree as the Christmas tree—domestic, decorated, and wrapped in lights. But the evergreen was revered long before Christianity touched Europe. It was **the witch’s winter tree**, a symbol of defiance against death, a living spine of green standing in a world of white bone and silence.
