@@ -141,31 +141,6 @@ For readers seeking non-coercive alternatives, love was traditionally invited th
 
 ---
 
-## Sources & Ethnographic References
-
-- Veselin Čajkanović – *Studies in Serbian Folk Religion*  
-- Tatomir Vukanović – *Ethnology of Eastern Serbia*  
-- Romanian Folklore Archives (Wallachian love rites)  
-- British Library Balkan ethnographic notes  
-
----
-
-## Frequently Asked Questions
-
-### Was this common?
-Yes — especially among women with limited social power.
-
-### Was it illegal?
-Rarely, but it was socially punished.
-
-### Is this ethical?
-Historically, ethics followed survival, not modern values.
-
-### Should modern witches copy this?
-No. Understand it — don’t reenact it blindly.
-
----
-
 ## More Balkan Witchcraft: 
 
 - **[Herbs Vlach Wise Women Use: Plants of the Timok Valley](/herbs-vlach-wise-women/)** — traditional medicinal and protective plants from Eastern Serbia.
@@ -175,6 +150,15 @@ No. Understand it — don’t reenact it blindly.
 ---
 
 ## Frequently Asked Questions on Binding Love Magic
+
+**Was this common?**
+Yes — especially among women with limited social power.
+
+**Was it illegal?**
+Rarely, but it was socially punished.
+
+**Is this ethical?**
+Historically, ethics followed survival, not modern values.
 
 **Was Balkan love magic common or rare?**  
 It was common enough to be feared. Ethnographic records suggest it appeared most often where women had limited legal or social power and few options to secure marriage or stability.
@@ -194,5 +178,11 @@ Because Balkan magic relied on contagion. Hair, blood, sweat, and footprints wer
 **Were herbs used to undo or block love magic?**  
 Very often. Garlic, rue, wormwood, and bitter plants were more commonly used for protection and severance than attraction, reflecting how seriously unwanted love magic was taken.
 
-**Is this something modern practitioners should recreate?**  
-No. These practices belong to survival-driven historical contexts. They should be studied to understand power, fear, and consequence — not reenacted without restraint or awareness.
+---
+
+## Sources & Ethnographic References
+
+- Veselin Čajkanović – *Studies in Serbian Folk Religion*  
+- Tatomir Vukanović – *Ethnology of Eastern Serbia*  
+- Romanian Folklore Archives (Wallachian love rites)  
+- British Library Balkan ethnographic notes  
