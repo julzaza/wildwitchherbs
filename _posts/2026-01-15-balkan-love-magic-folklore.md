@@ -151,13 +151,13 @@ For readers seeking non-coercive alternatives, love was traditionally invited th
 
 ## Frequently Asked Questions on Binding Love Magic
 
-**Was this common?**
+**Was this common?**  
 Yes — especially among women with limited social power.
 
-**Was it illegal?**
+**Was it illegal?**  
 Rarely, but it was socially punished.
 
-**Is this ethical?**
+**Is this ethical?**  
 Historically, ethics followed survival, not modern values.
 
 **Was Balkan love magic common or rare?**  
