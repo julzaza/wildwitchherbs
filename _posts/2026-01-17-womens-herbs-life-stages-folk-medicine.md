@@ -14,7 +14,7 @@ tags:
   - traditional herbalism
   - ancestral medicine
 author: "Wild Witch Herbs"
-faqs:
+faq:
   - question: "Did traditional cultures treat women differently at each life stage?"
     answer: "Yes. Folk medicine across cultures recognized unique herbal, dietary, and ritual needs for each phase of a woman’s life—from maidenhood to elderhood—supporting fertility, protection, and spiritual well-being."
 
