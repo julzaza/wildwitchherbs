@@ -235,7 +235,7 @@ It is a **threshold**, a night of realignment, a return to the oldest rhythms.
 
 ---
 
-## Solstice FAQ
+## Frequently Asked Questions About Winter Solstice
 
 ### **Is the solstice the same as Yule?**  
 Not exactly—Yule is a later Germanic festival layered over older solstice rites.
