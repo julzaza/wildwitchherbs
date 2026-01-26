@@ -14,37 +14,21 @@ tags:
 excerpt: "During the Twelve Nights, ordinary household acts became dangerous. Sweeping, washing, spinning, and noise could invite death or spirits."
 description: "A folklore-based exploration of European household taboos during the Twelve Nights, including laundry bans, silence rules, and domestic spirit beliefs."
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Household Taboos of the Twelve Nights"
-  "description": "An exploration of domestic taboos during the Twelve Nights in European folklore."
-  "author":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntityOfPage": "{{ page.url | absolute_url }}"
-
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What were the Twelve Nights?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "The Twelve Nights were a liminal midwinter period between solstice and Epiphany associated with spirits, ancestors, and fate."
-
-    - "@type": "Question"
-      "name": "Why were household chores forbidden?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Certain actions were believed to disturb spirits, invite death, or damage household fortune."
-
-    - "@type": "Question"
-      "name": "Is this connected to the Wild Hunt?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Many taboos aimed to avoid attracting the Wild Hunt or marking a house for misfortune."
+faq:
+  - question: "What were the Twelve Nights?"
+    answer: "The Twelve Nights were a liminal midwinter period between the winter solstice and Epiphany, when spirits, ancestors, and other forces were believed to move freely between worlds."
+  - question: "Why were household chores forbidden during the Twelve Nights?"
+    answer: "Actions like washing, sweeping, spinning, or making noise were thought to disturb spirits, invite misfortune, or interfere with household fortune during this dangerous liminal period."
+  - question: "Is this connected to the Wild Hunt?"
+    answer: "Yes. Many taboos aimed to avoid attracting the Wild Hunt or other malevolent spirit forces that roamed during the Twelve Nights."
+  - question: "Were these taboos observed everywhere in Europe?"
+    answer: "No, practices varied by region, but similar rules appear across Germanic, Slavic, Balkan, and Alpine areas, reflecting shared beliefs about midwinter danger."
+  - question: "Did people really fear punishments for breaking taboos?"
+    answer: "Yes. Social enforcement and folklore stories maintained compliance, and fear of spirit retribution or household misfortune was a powerful deterrent."
+  - question: "Should modern people follow these taboos literally?"
+    answer: "Not literally. Today, understanding them helps honor the liminal period, emphasizing rest, quiet, and mindful household protection rather than strict avoidance of chores."
+  - question: "What replaces these taboos in modern practice?"
+    answer: "Intentional rest, maintaining quiet spaces, protective rituals, and connecting with ancestral or seasonal energy can serve as modern adaptations of these folk taboos."
 
 ---
 
