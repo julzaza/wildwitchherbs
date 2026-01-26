@@ -105,7 +105,7 @@ These herbs appear in midwives’ teas, postpartum baths, and long-term women’
 
 Balkan women would steep Red Raspberry leaves during early spring, carrying the infusion to fields to ensure strength and ancestral favor.
 
-Some plants highlighted here — such as yarrow — are covered in broader healing context in **[Witchy Herbs for Healing: Ancient Plant Magic for Body and Spirit](/witchy-herbs-for-healing/)**.
+Some plants highlighted here — such as yarrow — are covered in broader healing context in **[Healing Herbs: Plant Magic for Body and Spirit](/witchy-herbs-for-healing/)**.
 
 ---
 
@@ -154,7 +154,7 @@ Rue, Garlic and Juniper are explored further in detail in **[Top 11 Protective H
 
 These plants were not used continuously. They appeared **at thresholds** — after birth, during illness, after loss, or during periods of heavy responsibility.
 
-Folk traditions were careful about when and how plants were used ritually, especially around women’s health — a caution explored further in **[Herbs You Should Never Burn in Ritual (And What to Use Instead)](/herbs-never-burn)**. 
+Folk traditions were careful about when and how plants were used ritually, especially around women’s health — a caution explored further in **[Herbs You Should Never Burn in Ritual (And What to Use Instead)](/never-burn-herbs)**. 
 
 ---
 
@@ -262,7 +262,7 @@ Adaptogen supporting endurance and reproductive vitality in harsh climates. Wome
 
 ---
 
-Many of these herbs overlap with broader **[Fertility Herbs For Women In Folk Traditions](/top-fertility-herbs-witchcraft/)**, showing how cycle support and reproductive preparation were intertwined in traditional practices.
+Some of these herbs overlap with **[Fertility Herbs For Women In Folk Traditions](/fertility-herbs-women-world-witchcraft/)**, showing how cycle support and reproductive preparation were intertwined in traditional practices.
 
 ## Herbs by Regions and Use
 
