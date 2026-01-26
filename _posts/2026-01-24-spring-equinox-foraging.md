@@ -36,7 +36,7 @@ faq:
 
 ---
 
-## The Dangerous Gift of Early Green
+## The Dangerous Gift of Early Greens
 
 The Spring Equinox did not announce abundance.  
 It announced **permission**.
