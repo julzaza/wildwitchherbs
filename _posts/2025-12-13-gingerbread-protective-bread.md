@@ -13,34 +13,22 @@ tags:
   - winter rituals
 excerpt: "Before gingerbread became a sweet treat, it was a spiced protective bread baked to guard homes, bodies, and spirits during winter."
 description: "An exploration of gingerbread as a protective bread in Old European folklore, tracing its ritual use, spices, and role in winter household magic."
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Gingerbread as Protective Bread in Old Europe"
-  "description": "How gingerbread functioned as ritual protection, not dessert, in European winter folklore."
-  "author":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntityOfPage": "{{ page.url | absolute_url }}"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Was gingerbread originally protective?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Early gingerbread was spiced bread used for protection, digestion, and warding during winter."
-    - "@type": "Question"
-      "name": "Why were spices important in winter bread?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Spices were warming, antimicrobial, and symbolically protective against illness and spirits."
-    - "@type": "Question"
-      "name": "Was gingerbread linked to Yule?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. Gingerbread and spiced breads were commonly baked during Yule and midwinter liminal periods."
+faq:
+  - question: "Was gingerbread originally protective?"
+    answer: "Yes. Early gingerbread in Old Europe was a dense, spiced bread baked for protection against illness, winter spirits, and household misfortune. It served a practical and magical function, not a sweet treat."
+  - question: "Why were spices important in protective bread?"
+    answer: "Spices such as ginger, cloves, cinnamon, and pepper were warming, antimicrobial, and symbolically powerful. They supported digestion, preserved food, and were believed to ward off spirits and illness during harsh winter months."
+  - question: "Was gingerbread linked to Yule and midwinter rituals?"
+    answer: "Yes. Gingerbread and other spiced breads were traditionally baked during Yule and the Twelve Nights. They functioned as household protection, threshold offerings, and part of domestic winter magic."
+  - question: "Did gingerbread have symbolic shapes or markings?"
+    answer: "Early gingerbread was often stamped or shaped as hearts, animals, suns, or wheels. These marks were not decorative—they symbolized protection for the home, body, and livestock, and sometimes contained spiritual power."
+  - question: "Was gingerbread used in relation to the dead?"
+    answer: "In parts of Central and Eastern Europe, spiced bread was left on windowsills, thresholds, or graves. This was to protect the living from spirits, mask the smell of decay, and provide a strong offering that could bridge worlds."
+  - question: "How did gingerbread evolve into the cookie we know today?"
+    answer: "Sugar increased, spices softened, and the bread’s protective purpose diminished. Modern gingerbread became a nostalgic treat rather than a ritual object."
+  - question: "Can modern practitioners reclaim the protective power of gingerbread?"
+    answer: "Yes. By baking gingerbread intentionally during Yule, using traditional spices, and honoring its protective intent, you can reconnect with its folkloric and magical heritage."
+
 ---
 
 Gingerbread was **never meant to be cute**.
