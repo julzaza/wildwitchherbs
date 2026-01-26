@@ -15,45 +15,21 @@ tags:
   - ancestral ritual
 excerpt: "Long before Christmas, winter marked the death of the Sun. Across Europe, kings, gods, and sacred men were bound to the solar cycle—and some were never meant to survive it."
 description: "An in-depth exploration of pre-Christian winter kings, sacrificial rulers, and the dying sun myth across European folklore, including Yule, solstice rituals, and ancestral beliefs."
-
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "The Dying Sun: Pre-Christian Winter Kings and Sacrificial Lore"
-  "description": "A folklore-based exploration of the dying sun myth, winter kings, and sacrificial rulers in pre-Christian Europe."
-  "author":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntityOfPage": "{{ page.url | absolute_url }}"
-  "image": "{{ site.url }}/assets/images/dying-sun-winter-king.jpg"
-
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What is the dying sun myth?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "The dying sun myth describes ancient beliefs that the sun weakened or died during winter and required ritual renewal through sacrifice, kingship rites, or communal ceremonies."
-
-    - "@type": "Question"
-      "name": "Who were winter kings in pagan Europe?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Winter kings were symbolic or literal rulers whose authority was tied to the solar cycle. In some traditions, they were ritually replaced or sacrificed to ensure the sun’s return."
-
-    - "@type": "Question"
-      "name": "Was human sacrifice connected to Yule?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "While not universal, some pre-Christian societies practiced symbolic or real sacrifice during midwinter as part of solar renewal rites."
-
-    - "@type": "Question"
-      "name": "How does this relate to modern Yule traditions?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Modern Yule customs—logs, candles, evergreen kings—preserve symbolic remnants of ancient solar death and rebirth myths."
+faq:
+  - question: "What is the dying sun myth?"
+    answer: "The dying sun myth describes ancient beliefs that the sun weakened or died during winter and required ritual renewal through sacrifices, kingship rites, or communal ceremonies to ensure its return."
+  - question: "Who were winter kings in pagan Europe?"
+    answer: "Winter kings were symbolic or literal rulers whose health and authority were tied to the solar cycle. In some traditions, they were ritually replaced or sacrificed to ensure the sun’s return and the land’s fertility."
+  - question: "Was human sacrifice part of Yule traditions?"
+    answer: "While not universal, some pre-Christian societies practiced symbolic or real sacrifice during midwinter as part of solar renewal rites. Over time, these were often replaced by symbolic acts like burning straw effigies or logs."
+  - question: "How does the dying sun myth connect to modern Yule?"
+    answer: "Modern Yule traditions—lighting candles, burning the Yule log, bringing evergreens indoors—preserve symbolic remnants of solar death and rebirth myths from pre-Christian Europe."
+  - question: "What is the Oak King and Holly King legend?"
+    answer: "In later British folklore, the Oak King represents the waxing year, the Holly King the waning year. At solstice, they 'battle,' symbolizing the sun's cyclical weakening and renewal."
+  - question: "Did Balkan cultures practice winter king rituals?"
+    answer: "While not documented as kings, Balkan folklore emphasizes communal midwinter rites, animal sacrifices, and protective magic that reflect the same concern for seasonal survival."
+  - question: "Why does the myth of the dying sun matter today?"
+    answer: "It reminds us that survival in ancient Europe relied on ritual memory, cyclical observation, and symbolic action. Modern rituals preserve this ancestral understanding of the sun’s return and seasonal continuity."
 
 ---
 
