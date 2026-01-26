@@ -12,7 +12,7 @@ audience: "Herbalists, witches, folklore enthusiasts, and lovers of Balkan magic
 language: "en"
 difficulty: "Beginner to Intermediate"
 contentType: "Educational, Folklore, Magical Guide"
-faqs:
+faq:
   - question: "What is Nemušti Jezik in Balkan folk tales?"
     answer: "Nemušti Jezik, or the Silent Tongue, is a Balkan folk tale about a shepherd who gains the ability to understand the language of animals and nature through a magical encounter with a serpent. It emphasizes listening, observation, and ancestral wisdom."
   - question: "Which communities preserve this story?"
