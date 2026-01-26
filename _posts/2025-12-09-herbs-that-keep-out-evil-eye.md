@@ -18,46 +18,6 @@ faq:
   - question: "Is this medical advice?"
     answer: "No. This is a folklore-only article."
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Herbs to Keep Out the Evil Eye Next Door"
-  "description": "A historically grounded guide to European and Mediterranean herbs used for household protection against the evil eye, envy, and malicious intent."
-  "author": {
-    "@type": "Organization",
-    "name": "Wild Witch Herbs"
-  }
-  "publisher": {
-    "@type": "Organization",
-    "name": "Wild Witch Herbs"
-  }
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What herbs were traditionally used to protect against the evil eye?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Rue, basil, garlic, rosemary, juniper, and black cumin appear widely in European and Mediterranean folklore against the evil eye."
-    - "@type": "Question"
-      "name": "Is the evil eye a European belief?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "It appears across Southern, Eastern, and Central Europe, the Mediterranean, Jewish diaspora communities, and the Levant."
-    - "@type": "Question"
-      "name": "Why was envy feared so much historically?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Envy was believed to carry spiritual force—harmful intention could 'dry' luck, blight livestock, or weaken children."
-    - "@type": "Question"
-      "name": "Were herbs placed at doors or burned?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Both. Rue and basil were planted or hung; juniper was burned; garlic was displayed."
-    - "@type": "Question"
-      "name": "Is this medical advice?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "No. This is a folklore-only article."
-
 ---
 
 *Old European & Mediterranean Household Protections*
@@ -172,7 +132,7 @@ In Greek and Ottoman Balkan households, it was called the “eye-closing seed.�
 
 ---
 
-# **FAQ**
+## FAQ
 
 ### **Which herb was considered strongest in Europe?**  
 Rue in Mediterranean regions; juniper in northern regions; garlic everywhere.
