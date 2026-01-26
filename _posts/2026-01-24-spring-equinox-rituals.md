@@ -23,7 +23,7 @@ keywords:
   - ostara history
   - folk spring rites
   - ancestral witchcraft
-faqs:
+faq:
   - question: "What is the Spring Equinox in folk belief?"
     answer: "In folk belief, the Spring Equinox marked a moment of dangerous balance between light and dark, requiring rituals of protection, renewal, and land blessing."
   - question: "Is Ostara an ancient festival?"
