@@ -14,34 +14,6 @@ faq:
   - question: "Did rowan have to be planted on a specific side of the house?"
     answer: "Yes. In Scottish and Northern English folklore, rowan planted on the wrong side—especially west-facing—could attract the dead rather than protect the living."
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  "headline": "Rowan Trees by the Door: Old European Folklore"
-  "description": "A folklore-based exploration of rowan trees as threshold guardians in Old European household magic."
-  "author":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "publisher":
-    "@type": "Organization"
-    "name": "Wild Witch Herbs"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "Why was rowan planted by the door?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Rowan was believed to protect the threshold from witches, spirits, the evil eye, and wandering dead. Its red berries and five-pointed star markings symbolized protection."
-    - "@type": "Question"
-      "name": "Is rowan associated with fairies?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. In many Celtic and Northern traditions, rowan guarded humans from mischievous or hostile fairy beings and marked safe boundaries."
-    - "@type": "Question"
-      "name": "Did rowan have to be planted on a specific side of the house?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Yes. In Scottish and Northern English folklore, rowan planted on the wrong side—especially west-facing—could attract the dead rather than protect the living."
-
 ---
 
 In nearly every corner of Northern and Celtic Europe, the rowan tree stood where **danger met the household**—at the threshold, the gate, the byre door, or the beginning of the farm path.
@@ -177,7 +149,7 @@ Yes—but only in the proper place and season. Direction and intent mattered.
 Yes. St. Brigid, St. Helen, and St. Michael sometimes absorbed older rowan lore, making it both magical and “holy.”
 
 ### **Should modern witches plant rowan by the door?**
-If it suits your land and climate, absolutely. Also, **[Witches Use Rosemary to Guard the Front Door](/why-witches-plant-rosemary-front-door/)**.
+If it suits your land and climate, absolutely. Also, see why **[Witches Use Rosemary to Guard the Front Door](/why-witches-plant-rosemary-front-door/)** for an alternative threshold protection strategy.
 
 ---
 
