@@ -7,7 +7,7 @@ description: "Discover the ancient connection between wormwood (Artemisia absint
 categories: [herbal-magic, folklore-ancestral]
 tags: [wormwood, lucid dreaming]
 search: false
-author_profile: false
+
 audience: "Herbalists, witches, dream workers, folklore enthusiasts"
 language: "en"
 difficulty: "Beginner to Intermediate"
@@ -19,26 +19,7 @@ faqs:
     answer: "Use sparingly as a mild tea, never alcohol-based, 2–3 nights per week. Pair with calming herbs like chamomile or mugwort."
   - question: "What folklore surrounds wormwood?"
     answer: "Across Europe, wormwood was hung in doorways to ward off spirits, burned to cleanse spaces, and used in pillows or teas to inspire visions and protect travelers."
-schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  "name": "Wormwood for Lucid Dreaming — FAQ"
-  "mainEntity":
-    - "@type": "Question"
-      "name": "What is the connection between wormwood and lucid dreaming?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Wormwood contains thujone, a compound that stimulates the nervous system, traditionally used to enhance dream clarity and spiritual vision."
-    - "@type": "Question"
-      "name": "How should wormwood be used safely for dreams?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Use sparingly as a mild tea, never alcohol-based, 2–3 nights per week. Pair with calming herbs like chamomile or mugwort."
-    - "@type": "Question"
-      "name": "What folklore surrounds wormwood?"
-      "acceptedAnswer":
-        "@type": "Answer"
-        "text": "Across Europe, wormwood was hung in doorways to ward off spirits, burned to cleanse spaces, and used in pillows or teas to inspire visions and protect travelers."
+
 ---
 
 ## Wormwood and Lucid Dreaming
