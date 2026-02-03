@@ -52,54 +52,46 @@
   text-decoration: underline;
 }
 
-/* FULL WIDTH HERO FIX — No white space on desktop or mobile */
 .page__hero-full {
   position: relative;
   width: 100vw;
   max-width: 100vw;
-  margin: 0;          /* remove extra margin */
+  margin: 0;
   padding: 0;
   overflow: hidden;
-  left: 0;            /* make sure it starts at left edge */
+  left: 0;
 }
 
 .page__hero-full picture,
 .page__hero-full img {
   width: 100%;
-  height: 100%;
+  height: 240px; // desktop height
   display: block;
   object-fit: cover;
 }
 
-/* Mobile height */
 @media (max-width: 1023px) {
-  .page__hero-full {
-    height: 220px;
+  .page__hero-full picture,
+  .page__hero-full img {
+    height: 220px; // mobile height
   }
 }
 
-/* Desktop height */
-@media (min-width: 1024px) {
-  .page__hero-full {
-    height: 240px;
-  }
+.page__hero-title {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #fff;
+  text-align: center;
+  z-index: 2;
 }
 
-/* Remove any body/html margin that can cause horizontal space */
 body, html {
   margin: 0;
   padding: 0;
-  overflow-x: hidden; /* prevent horizontal scroll */
+  overflow-x: hidden; // prevent horizontal scroll
 }
-
-/* Remove padding from wrapping containers that affect hero */
-.initial-content,
-#main,
-.page {
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-
 
 
 
