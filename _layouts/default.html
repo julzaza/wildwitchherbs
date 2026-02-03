@@ -8,94 +8,79 @@ layout: null
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+
+    <!-- Minimal Mistakes SEO -->
     {% unless page.seo == false %}{% seo %}{% endunless %}
+
+    <!-- FAQ JSON-LD (only if page.faq exists in YAML) -->
+    {% if page.faq %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {% for item in page.faq %}
+        {
+          "@type": "Question",
+          "name": "{{ item.question | escape }}",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "{{ item.answer | strip_html | escape }}"
+          }
+        }{% if forloop.last == false %},{% endif %}
+        {% endfor %}
+      ]
+    }
+    </script>
+    {% endif %}
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FXPRZC2NZ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-7FXPRZC2NZ');
+    </script>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}">
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
 
-    <!-- FULL WIDTH HERO (Respecting image_mobile / image_desktop) -->
-    {% if page.image_mobile and page.image_desktop %}
-    <div class="page__hero-full">
-      <picture>
-        <source media="(min-width: 1024px)" srcset="{{ page.image_desktop | relative_url }}">
-        <source media="(max-width: 1023px)" srcset="{{ page.image_mobile | relative_url }}">
-        <img src="{{ page.image_desktop | relative_url }}" alt="{{ page.title }}">
-      </picture>
-      {% if page.title %}
-      <div class="page__hero-title">
-        <h1 class="page__title">{{ page.title }}</h1>
-      </div>
-      {% endif %}
+    <div class="initial-content">
+      {{ content }}
+
+      {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" | limit: 100 %}
+      {% assign matches = "" %}
+      {% for post in related_posts %}
+        {% assign overlap = false %}
+        {% for tag in post.tags %}
+          {% if page.tags contains tag %}
+            {% assign overlap = true %}
+          {% endif %}
+        {% endfor %}
+        {% if overlap %}
+          {% assign matches = matches | append: post.url | append: ";" %}
+        {% endif %}
+      {% endfor %}
+
+      {% include after-content.html %}
     </div>
+
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include_cached search/search_form.html %}
+      </div>
     {% endif %}
 
-    <div id="main" role="main">
-      {% include sidebar.html %}
-
-      <article class="page"
-        itemscope
-        itemtype="https://schema.org/CreativeWork"
-        {% if page.locale %} lang="{{ page.locale }}"{% endif %}>
-
-        {% assign breadcrumbs_enabled = site.breadcrumbs %}
-        {% if page.breadcrumbs != null %}
-          {% assign breadcrumbs_enabled = page.breadcrumbs %}
-        {% endif %}
-        {% if page.url != "/" and breadcrumbs_enabled %}
-          {% unless paginator %}
-            {% include breadcrumbs.html %}
-          {% endunless %}
-        {% endif %}
-
-        <div class="page__inner-wrap">
-          <section class="page__content" itemprop="text">
-            {% if page.toc %}
-              <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
-                <nav class="toc">
-                  <header>
-                    <h4 class="nav__title">
-                      <i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i>
-                      {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}
-                    </h4>
-                  </header>
-                  {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
-                </nav>
-              </aside>
-            {% endif %}
-
-            {{ content }}
-
-            {% if page.link %}
-              <div>
-                <a href="{{ page.link }}" class="btn btn--primary">
-                  {{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}
-                </a>
-              </div>
-            {% endif %}
-          </section>
-
-          {% include post_pagination.html %}
-        </div>
-
-        {% if site.comments.provider and page.comments %}
-          {% if jekyll.environment == 'production' %}
-            {% include comments.html %}
-          {% else %}
-            <p>
-              Comments are configured with provider: <strong>{{ site.comments.provider }}</strong>,
-              but are disabled in non-production environments.
-            </p>
-          {% endif %}
-        {% endif %}
-      </article>
-
-      {% if page.id and page.related and site.related_posts.size > 0 %}
-        {% include page__related.html posts=site.related_posts %}
-      {% elsif page.id and page.related %}
-        {% include page__related.html posts=site.posts %}
-      {% endif %}
+    <div id="footer" class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html %}
+      </footer>
     </div>
+
+    {% include scripts.html %}
   </body>
 </html>
