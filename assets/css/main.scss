@@ -76,38 +76,38 @@
 .page__hero,
 .page__hero--overlay,
 .page__hero--image {
+  box-sizing: border-box !important; /* ensure width calculations include padding/border */
   width: 100vw !important;
   max-width: none !important;
-  margin-left: calc(50% - 50vw) !important;
-  margin-right: calc(50% - 50vw) !important;
+  margin: 0 !important;              /* remove inherited margins that create white space */
   padding: 0 !important;
   overflow: hidden;
-  display: block !important;        /* ensures block layout */
-  height: 280px !important;         /* desktop height */
+  display: block !important;
+  height: 280px !important;           /* desktop height */
+}
+
+/* Inner wrapper for content/title overlay */
+.page__hero__content-wrapper {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  height: 100% !important;           /* fills container */
+  display: flex !important;
+  align-items: center !important;    /* vertical center */
 }
 
 /* Picture inside hero fills container */
 .page__hero picture {
-  width: 100%;
-  height: 100%;
-  display: block;                   /* fill hero width/height */
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
 }
 
 /* Hero image fills picture container */
 .page__hero picture img {
-  width: 100%;
-  height: 100%;
+  width: 100% !important;
+  height: 100% !important;
   object-fit: cover;
-  display: block;
-}
-
-/* Inner wrapper for title overlay */
-.page__hero__content-wrapper {
-  padding-top: 0 !important;
-  padding-bottom: 0 !important;
-  height: 100% !important;        /* fills container */
-  display: flex !important;       /* centers content vertically */
-  align-items: center !important;
+  display: block !important;
 }
 
 /* Mobile: skinny hero */
@@ -116,7 +116,7 @@
   .page__hero__content-wrapper,
   .page__hero picture,
   .page__hero picture img {
-    height: 220px !important;  /* mobile height */
+    height: 220px !important;         /* mobile height */
   }
 }
 
