@@ -55,9 +55,9 @@
 
 .page__hero-full {
   position: relative;
-  width: 100vw; /* full viewport width */
-  height: 240px; /* desktop */
-  margin: 0; 
+  width: 100vw;       /* full viewport width */
+  height: 240px;      /* desktop height */
+  margin: 0;
   padding: 0;
   overflow: hidden;
 }
@@ -72,11 +72,11 @@
 
 @media (max-width: 768px) {
   .page__hero-full {
-    height: 220px;
+    height: 220px;   /* mobile height */
   }
 }
 
-/* force no horizontal overflow */
+/* prevent horizontal scroll */
 body, html {
   overflow-x: hidden;
 }
