@@ -3,17 +3,15 @@ layout: default
 ---
 
 {% if page.image_mobile and page.image_desktop %}
-  <picture class="page__hero">
-    <!-- Desktop version -->
+<div class="page__hero">
+  <picture>
     <source media="(min-width: 1024px)" srcset="{{ page.image_desktop | relative_url }}" type="image/webp">
-
-    <!-- Mobile version -->
     <source media="(max-width: 1023px)" srcset="{{ page.image_mobile | relative_url }}" type="image/webp">
-
-    <!-- Fallback — desktop first, mobile if necessary -->
-    <img src="{{ page.image_desktop | relative_url }}" alt="{{ page.title }}" style="width:100%; height:100%; object-fit:cover; display:block;">
+    <img src="{{ page.image_desktop | relative_url }}" alt="{{ page.title }}">
   </picture>
+</div>
 {% endif %}
+
 
 
 {% assign breadcrumbs_enabled = site.breadcrumbs %}
