@@ -54,36 +54,15 @@
 
 
 
-
-/* FULL-WIDTH HERO — works with Minimal Mistakes default header */
-.page__hero {
-  position: relative;
-  width: 100vw !important;       /* full viewport width */
-  margin-left: calc(-50vw + 50%); /* breakout from container */
-  height: 240px;                 /* desktop height */
-  overflow: hidden;
-  left: 0;
-}
-
-.page__hero picture,
-.page__hero img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
-
-/* Mobile height */
-@media (max-width: 768px) {
-  .page__hero {
-    height: 220px;
-  }
-}
-
-/* Force no horizontal overflow globally */
-html, body {
-  overflow-x: hidden;
-}
+{% if page.image_mobile and page.image_desktop %}
+<div class="page__hero-full">
+  <picture>
+    <source media="(min-width: 1024px)" srcset="{{ page.image_desktop | relative_url }}">
+    <source media="(max-width: 1023px)" srcset="{{ page.image_mobile | relative_url }}">
+    <img src="{{ page.image_desktop | relative_url }}" alt="{{ page.title }}">
+  </picture>
+</div>
+{% endif %}
 
 
 
