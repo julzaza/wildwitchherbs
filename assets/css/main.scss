@@ -73,31 +73,34 @@
    Wild Witch Herbs — Full-width responsive hero
    Desktop adjustable, mobile tall
    ------------------------------------------- */
-
-/* Hero container */
+/* Hero container full-width */
 .page__hero,
 .page__hero--overlay,
 .page__hero--image {
-  max-width: none !important;
   width: 100vw !important;
+  max-width: none !important;
   margin-left: calc(50% - 50vw) !important;
   margin-right: calc(50% - 50vw) !important;
-  padding-top: 0 !important;
-  padding-bottom: 0 !important;
-  min-height: 240px !important;   /* desktop height you want */
+
+  /* DESKTOP height you want */
+  height: 400px !important;    /* adjust this to taste */
+  min-height: 400px !important;
+  padding: 0 !important;
   overflow: hidden;
+  display: block;
 }
 
 /* Inner wrapper padding reset */
 .page__hero__content-wrapper {
   padding-top: 0 !important;
   padding-bottom: 0 !important;
+  height: 100% !important;
 }
 
-/* Hero image itself */
+/* Hero image fills container */
 .page__hero img {
   width: 100% !important;
-  height: 240px !important;   /* match container min-height */
+  height: 100% !important;   /* fill container completely */
   object-fit: cover;
   display: block;
 }
@@ -105,8 +108,8 @@
 /* Mobile: taller hero */
 @media (max-width: 768px) {
   .page__hero,
+  .page__hero__content-wrapper,
   .page__hero img {
-    min-height: 420px !important;  /* container */
-    height: 420px !important;      /* image */
+    height: 420px !important;
   }
 }
