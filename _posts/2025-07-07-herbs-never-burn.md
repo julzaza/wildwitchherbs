@@ -8,7 +8,6 @@ featured: true
 author: "Wild Witch Herbs"
 header:
   teaser: /assets/images/incense-holder-with-burning-charcoal-incense-resin-myrrh-rustic-wooden-table.webp
-  image: /assets/images/incense-holder-with-burning-charcoal-incense-resin-myrrh-rustic-wooden-table.webp
 
 categories:
   - witchcraft-ritual
@@ -62,7 +61,7 @@ faq:
     answer: "Folk systems recognized three main reasons: physical danger (toxic smoke), cultural restriction (sacred or ceremonial use), and ritual volatility (herbs that could open boundaries uncontrollably)."
 
 ---
-![Not all herbs are meant to be burned in ritual](/assets/images/incense-holder-with-burning-charcoal-incense-resin-myrrh-rustic-wooden-table.webp)
+![Not all herbs are meant to be burned in ritual](/assets/images/incense-holder-with-burning-charcoal-incense-resin-myrrh-rustic-wooden-table.webp){: .page__hero-image }
 
 ## Not All Herbs Are Meant for Fire
 
