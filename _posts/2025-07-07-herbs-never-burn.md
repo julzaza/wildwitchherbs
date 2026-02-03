@@ -7,7 +7,7 @@ meta_description: "Some herbs were never meant for fire. Learn which plants shou
 featured: true
 author: "Wild Witch Herbs"
 header:
-  image: /assets/images/incense-holder-with-burning-charcoal-incense-resin-myrrh-rustic-wooden-table.webp
+  image: /assets/images/banner-wellness-practices-self-care-world-health-day.webp
   teaser: /assets/images/incense-holder-with-burning-charcoal-incense-resin-myrrh-rustic-wooden-table.webp
 
 categories:
