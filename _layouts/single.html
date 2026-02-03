@@ -9,8 +9,20 @@ layout: default
     <source media="(max-width: 1023px)" srcset="{{ page.image_mobile | relative_url }}">
     <img src="{{ page.image_desktop | relative_url }}" alt="{{ page.title }}">
   </picture>
+  {% if page.title %}
+    <div class="page__hero-title">
+      <h1 class="page__title">{{ page.title }}</h1>
+    </div>
+  {% endif %}
 </div>
 {% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork" {% if page.locale %} lang="{{ page.locale }}"{% endif %}>
+    ...rest of your content...
+  </article>
+</div>
 
 
 
