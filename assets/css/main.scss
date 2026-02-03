@@ -77,47 +77,32 @@
    Desktop 240px, Mobile 220px
 ------------------------------------------- */
 
+/* -------------------------------------------
+   Hero Banner — FINAL FIX
+------------------------------------------- */
+
 .page__hero {
-  position: relative !important;     /* relative for absolute children */
-  width: 100vw !important;
-  max-width: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  height: 240px !important;          /* desktop height */
-  overflow: hidden !important;
-  box-sizing: border-box !important;
+  position: relative;
+  width: 100%;
+  height: 240px;        /* DESKTOP HEIGHT */
+  overflow: hidden;
 }
 
-.page__hero picture {
-  position: absolute !important;    /* fill hero container */
-  top: 0;
-  left: 0;
-  width: 100% !important;
-  height: 100% !important;
-  display: block !important;
+.page__hero picture,
+.page__hero img {
+  width: 100%;
+  height: 100%;
 }
 
-.page__hero picture img {
-  width: 100% !important;
-  height: 100% !important;
+.page__hero img {
   object-fit: cover;
-  display: block !important;
+  display: block;
 }
 
-.page__hero__content-wrapper {
-  position: relative !important;    /* ensures title/content stays above image */
-  z-index: 2;
-  height: 100% !important;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important; /* optional: center horizontally */
-  padding: 0 !important;
-}
-
-/* Mobile override */
+/* Mobile */
 @media (max-width: 768px) {
   .page__hero {
-    height: 220px !important;
+    height: 220px;
   }
 }
 
