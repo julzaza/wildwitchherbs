@@ -19,8 +19,9 @@ layout: default
            itemtype="https://schema.org/CreativeWork"
            {% if page.locale %} lang="{{ page.locale }}"{% endif %}>
 
+
 {% if page.image_mobile and page.image_desktop %}
-<div class="page__hero">
+<div class="page__hero-full">
   <picture>
     <source media="(min-width: 1024px)" srcset="{{ page.image_desktop | relative_url }}">
     <source media="(max-width: 1023px)" srcset="{{ page.image_mobile | relative_url }}">
@@ -28,6 +29,8 @@ layout: default
   </picture>
 </div>
 {% endif %}
+
+<div id="main" role="main">
 
 
     {% if page.title %}
