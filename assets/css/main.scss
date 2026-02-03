@@ -54,11 +54,8 @@
 
 
 .page__hero-full {
-  position: relative;
   width: 100vw;
-  height: 240px;
-  margin: 0;
-  padding: 0;
+  height: 240px; /* desktop */
   overflow: hidden;
 }
 
@@ -72,11 +69,12 @@
 
 @media (max-width: 768px) {
   .page__hero-full {
-    height: 220px;
+    height: 220px; /* mobile */
   }
 }
 
-body, html {
+/* optional: prevent horizontal scroll caused by vw */
+body {
   overflow-x: hidden;
 }
 
