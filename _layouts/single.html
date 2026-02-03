@@ -3,28 +3,22 @@ layout: default
 ---
 
 {% comment %}
-  Responsive hero banner for posts using image_desktop and image_mobile
-  Using Minimal Mistakes hero container to avoid layout issues
+  Hero using Minimal Mistakes container — desktop & mobile images
 {% endcomment %}
-{% if page.image_mobile and page.image_desktop %}
-  <div class="page__hero">
+{% if page.image_desktop and page.image_mobile %}
+  <div class="page__hero" style="background-image: url('{{ page.image_mobile | relative_url }}');">
     <div class="page__hero__content-wrapper">
-      <picture>
-        <!-- Desktop -->
-        <source media="(min-width:1024px)" srcset="{{ page.image_desktop | relative_url }}" type="image/webp">
-        <!-- Mobile -->
-        <source media="(max-width:1023px)" srcset="{{ page.image_mobile | relative_url }}" type="image/webp">
-        <!-- Fallback -->
-        <img src="{{ page.image_mobile | relative_url }}" alt="{{ page.title }}">
-      </picture>
+      <img 
+        src="{{ page.image_mobile | relative_url }}" 
+        srcset="{{ page.image_mobile | relative_url }} 768w, {{ page.image_desktop | relative_url }} 1200w" 
+        sizes="(max-width: 768px) 100vw, 100vw" 
+        alt="{{ page.title }}" 
+        style="width:100%; height:100%; object-fit:cover; display:block;">
     </div>
   </div>
-{% elsif page.header.overlay_color or page.header.overlay_image or page.header.image %}
+{% elsif page.header.image or page.header.overlay_image %}
   {% include page__hero.html %}
-{% elsif page.header.video.id and page.header.video.provider %}
-  {% include page__hero_video.html %}
 {% endif %}
-
 
 
 {% assign breadcrumbs_enabled = site.breadcrumbs %}
