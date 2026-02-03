@@ -70,18 +70,24 @@
 }
 
 /* -------------------------------------------
-   Wild Witch Herbs — Full-width header hero
-   Slim desktop, tall mobile
+   Wild Witch Herbs — Full-width responsive hero
+   Desktop slim, mobile tall
    ------------------------------------------- */
 
+/* Break hero out of content constraints */
 .page__hero--overlay,
 .page__hero--image {
   max-width: none !important;
   margin-left: calc(50% - 50vw) !important;
   margin-right: calc(50% - 50vw) !important;
   width: 100vw !important;
+  padding-top: 0 !important;    /* override theme */
+  padding-bottom: 0 !important; /* override theme */
+  height: auto !important;
+  overflow: hidden;
 }
 
+/* Image inside hero */
 .page__hero--overlay img,
 .page__hero--image img {
   width: 100% !important;
@@ -94,7 +100,6 @@
 @media (max-width: 768px) {
   .page__hero--overlay img,
   .page__hero--image img {
-    height: 420px !important; /* mobile height */
+    height: 420px !important;
   }
 }
-
