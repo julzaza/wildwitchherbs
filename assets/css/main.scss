@@ -52,48 +52,26 @@
   text-decoration: underline;
 }
 
-/* FULL-WIDTH HERO — Minimal Mistakes SAFE BREAKOUT */
-
-.page__hero {
-  position: relative;
-  width: 100%;
-  height: 240px;                 /* desktop height */
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
+.page__hero-full {
+  width: 100vw;
+  height: 240px;
+  margin-left: 50%;
+  transform: translateX(-50%);
   overflow: hidden;
 }
 
-.page__hero picture,
-.page__hero img {
+.page__hero-full picture,
+.page__hero-full img {
   width: 100%;
   height: 100%;
   display: block;
-}
-
-.page__hero img {
   object-fit: cover;
 }
 
-/* Mobile */
 @media (max-width: 768px) {
-  .page__hero {
+  .page__hero-full {
     height: 220px;
   }
-}
-
-
-/* REMOVE GLOBAL SIDE PADDING THAT CAUSES WHITE BORDERS */
-.initial-content,
-.page,
-#main {
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-
-/* Restore padding ONLY for actual content */
-.page__inner-wrap {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
 }
 
 
