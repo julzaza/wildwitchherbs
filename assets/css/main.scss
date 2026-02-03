@@ -52,24 +52,54 @@
   text-decoration: underline;
 }
 
+/* -------------------------------------------
+   Wild Witch Herbs — Full Width Hero Banner
+------------------------------------------- */
 
+.page__hero-full {
+  position: relative;
+  left: 0;
+  top: 0;
+  width: 100vw;       /* full viewport width */
+  max-width: 100vw;   /* prevent container max-width from shrinking it */
+  height: 240px;      /* desktop height */
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 
-{% if page.image_mobile and page.image_desktop %}
-<div class="page__hero-full">
-  <picture>
-    <source media="(min-width: 1024px)" srcset="{{ page.image_desktop | relative_url }}">
-    <source media="(max-width: 1023px)" srcset="{{ page.image_mobile | relative_url }}">
-    <img src="{{ page.image_desktop | relative_url }}" alt="{{ page.title }}">
-  </picture>
-</div>
-{% endif %}
+.page__hero-full picture,
+.page__hero-full img {
+  position: absolute;   /* cover full hero container */
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
 
+/* Mobile override */
+@media (max-width: 768px) {
+  .page__hero-full {
+    height: 220px;   /* mobile height */
+  }
 
+  .page__hero-full picture,
+  .page__hero-full img {
+    width: 100vw;
+  }
+}
 
+/* remove horizontal overflow */
+body, html {
+  overflow-x: hidden;
+}
 
 /* -------------------------------------------
    Wild Witch Herbs — Archive / Teaser Tiles
-   ------------------------------------------- */
+------------------------------------------- */
 
 .archive__item-teaser img {
   width: 100%;
