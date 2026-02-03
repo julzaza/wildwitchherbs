@@ -70,19 +70,19 @@
 }
 
 /* -------------------------------------------
-   Wild Witch Herbs — Full-width hero image
-   Stable + centered (Minimal Mistakes safe)
+   Wild Witch Herbs — Full-width header hero
    ------------------------------------------- */
 
-.wwh-hero {
-  width: 100vw;
-  max-width: 100vw;
+.page__hero--overlay,
+.page__hero--image {
+  max-width: none !important;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
-  overflow: hidden;
+  width: 100vw;
 }
 
-.wwh-hero img {
+.page__hero--overlay img,
+.page__hero--image img {
   width: 100%;
   height: 280px;
   object-fit: cover;
@@ -91,7 +91,8 @@
 
 /* Mobile: taller hero */
 @media (max-width: 768px) {
-  .wwh-hero img {
+  .page__hero--overlay img,
+  .page__hero--image img {
     height: 420px;
   }
 }
