@@ -6,11 +6,16 @@ layout: default
   Responsive hero banner for posts using image_desktop and image_mobile
 {% endcomment %}
 {% if page.image_mobile and page.image_desktop %}
-  <picture class="page__hero">
-    <source media="(min-width: 1024px)" srcset="{{ page.image_desktop | relative_url }}" type="image/webp">
-    <source media="(max-width: 1023px)" srcset="{{ page.image_mobile | relative_url }}" type="image/webp">
-    <img src="{{ page.image_mobile | relative_url }}" alt="{{ page.title }}" style="width:100%; height:auto; object-fit:cover;">
-  </picture>
+  <div class="page__hero">
+    <picture>
+      <!-- Desktop version -->
+      <source media="(min-width: 1024px)" srcset="{{ page.image_desktop | relative_url }}" type="image/webp">
+      <!-- Mobile version -->
+      <source media="(max-width: 1023px)" srcset="{{ page.image_mobile | relative_url }}" type="image/webp">
+      <!-- Fallback -->
+      <img src="{{ page.image_mobile | relative_url }}" alt="{{ page.title }}">
+    </picture>
+  </div>
 {% elsif page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
