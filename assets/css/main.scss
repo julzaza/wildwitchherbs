@@ -70,9 +70,9 @@
 }
 
 /* -------------------------------------------
-   Wild Witch Herbs — Full-width responsive hero
-   Desktop adjustable, mobile tall
+   Wild Witch Herbs — Responsive Hero using aspect ratio
    ------------------------------------------- */
+
 /* Hero container full-width */
 .page__hero,
 .page__hero--overlay,
@@ -81,35 +81,31 @@
   max-width: none !important;
   margin-left: calc(50% - 50vw) !important;
   margin-right: calc(50% - 50vw) !important;
-
-  /* DESKTOP height you want */
-  height: 400px !important;    /* adjust this to taste */
-  min-height: 400px !important;
   padding: 0 !important;
   overflow: hidden;
-  display: block;
+  
+  /* Aspect ratio: width / height */
+  aspect-ratio: 3 / 1; /* desktop: width 3x height 1 → cinematic */
 }
 
 /* Inner wrapper padding reset */
 .page__hero__content-wrapper {
   padding-top: 0 !important;
   padding-bottom: 0 !important;
-  height: 100% !important;
+  height: 100%;
 }
 
 /* Hero image fills container */
 .page__hero img {
   width: 100% !important;
-  height: 100% !important;   /* fill container completely */
+  height: 100% !important;
   object-fit: cover;
   display: block;
 }
 
-/* Mobile: taller hero */
+/* Mobile: taller aspect ratio */
 @media (max-width: 768px) {
-  .page__hero,
-  .page__hero__content-wrapper,
-  .page__hero img {
-    height: 420px !important;
+  .page__hero {
+    aspect-ratio: 5 / 3; /* taller for mobile, keeps full width */
   }
 }
