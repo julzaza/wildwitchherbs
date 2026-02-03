@@ -52,24 +52,36 @@
   text-decoration: underline;
 }
 
+/* FULL-WIDTH HERO — Minimal Mistakes SAFE BREAKOUT */
+
 .page__hero {
+  position: relative;
   width: 100%;
-  height: 240px;
+  height: 240px;                 /* desktop height */
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
   overflow: hidden;
 }
 
+.page__hero picture,
 .page__hero img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
   display: block;
 }
 
+.page__hero img {
+  object-fit: cover;
+}
+
+/* Mobile */
 @media (max-width: 768px) {
   .page__hero {
     height: 220px;
   }
 }
+
+
 
 
 /* -------------------------------------------
