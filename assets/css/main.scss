@@ -70,7 +70,8 @@
 }
 
 /* -------------------------------------------
-   Wild Witch Herbs — Responsive hero, skinnier on both desktop and mobile
+   Wild Witch Herbs — Skinny Hero
+   Desktop slightly taller, Mobile very skinny
    ------------------------------------------- */
 
 /* Hero container full-width */
@@ -83,9 +84,9 @@
   margin-right: calc(50% - 50vw) !important;
   padding: 0 !important;
   overflow: hidden;
-  
-  /* Desktop: fixed slim height */
-  height: 240px !important;  /* adjust as needed for desktop */
+
+  /* Desktop height */
+  height: 240px !important;  /* adjust for cinematic strip */
 }
 
 /* Remove inner wrapper padding */
@@ -103,12 +104,11 @@
   display: block;
 }
 
-/* Mobile: same slim height, no stretching */
+/* Mobile: skinnier hero */
 @media (max-width: 768px) {
   .page__hero,
   .page__hero__content-wrapper,
   .page__hero img {
-    height: 220px !important; /* slightly taller than desktop, still slim */
+    height: 220px !important;  /* mobile skinny height */
   }
 }
-
