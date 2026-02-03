@@ -7,7 +7,7 @@ layout: default
 {% endcomment %}
 {% if page.image_mobile and page.image_desktop %}
   <div class="page__hero">
-    <picture>
+    <picture class="page__hero__picture">
       <!-- Desktop version -->
       <source media="(min-width: 1024px)" srcset="{{ page.image_desktop | relative_url }}" type="image/webp">
       <!-- Mobile version -->
@@ -21,6 +21,7 @@ layout: default
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
+
 
 {% assign breadcrumbs_enabled = site.breadcrumbs %}
 {% if page.breadcrumbs != null %}
