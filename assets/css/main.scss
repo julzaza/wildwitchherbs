@@ -70,39 +70,28 @@
 }
 
 /* -------------------------------------------
-   Wild Witch Herbs — Hero image sizing
-   Slim on desktop, taller on mobile
-   ------------------------------------------- */
-
-/* -------------------------------------------
    Wild Witch Herbs — Full-width hero image
+   Stable + centered (Minimal Mistakes safe)
    ------------------------------------------- */
 
-.page__hero-image {
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
+.wwh-hero {
   width: 100vw;
+  max-width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  overflow: hidden;
 }
 
-.page__hero-image img {
+.wwh-hero img {
   width: 100%;
   height: 280px;
   object-fit: cover;
   display: block;
 }
 
+/* Mobile: taller hero */
 @media (max-width: 768px) {
-  .page__hero-image img {
+  .wwh-hero img {
     height: 420px;
-  }
-}
-
-
-@media (max-width: 768px) {
-  .page__hero-image img {
-    max-height: 420px;
   }
 }
