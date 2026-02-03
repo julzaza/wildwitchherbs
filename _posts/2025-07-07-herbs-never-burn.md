@@ -8,7 +8,7 @@ featured: true
 author: "Wild Witch Herbs"
 header:
   image: /assets/images/banner-wellness-practices-self-care-world-health-day.webp
-  teaser: /assets/images/incense-holder-with-burning-charcoal-incense-resin-myrrh-rustic-wooden-table.webp
+  teaser: /assets/images/teaser-wellness-practices-self-care-world-health-day.webp
 
 categories:
   - witchcraft-ritual
