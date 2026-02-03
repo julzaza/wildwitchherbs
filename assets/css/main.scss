@@ -74,11 +74,32 @@
    Slim on desktop, taller on mobile
    ------------------------------------------- */
 
-.page__hero-image img {
-  max-height: 280px;
-  object-fit: cover;
-  width: 100%;
+/* -------------------------------------------
+   Wild Witch Herbs — Full-width hero image
+   ------------------------------------------- */
+
+.page__hero-image {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  width: 100vw;
 }
+
+.page__hero-image img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .page__hero-image img {
+    height: 420px;
+  }
+}
+
 
 @media (max-width: 768px) {
   .page__hero-image img {
