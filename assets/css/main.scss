@@ -71,22 +71,17 @@
    Wild Witch Herbs — Hero Banner
    Desktop slightly shorter, Mobile skinny
    ------------------------------------------- */
-
-/* Hero container full-width */
 .page__hero {
   width: 100vw !important;
   max-width: none !important;
-  margin: 0 !important;              /* remove extra space */
+  margin: 0 !important;
   padding: 0 !important;
   overflow: hidden;
   display: block !important;
-
-  /* Desktop height */
-  height: 240px !important;          /* desired desktop height */
+  height: 240px !important;          /* desktop height */
   box-sizing: border-box !important;
 }
 
-/* Inner wrapper for title overlay */
 .page__hero__content-wrapper {
   height: 100% !important;
   display: flex !important;
@@ -94,7 +89,6 @@
   padding: 0 !important;
 }
 
-/* Make picture and img fill hero container */
 .page__hero picture,
 .page__hero picture img {
   width: 100% !important;
@@ -103,7 +97,7 @@
   display: block !important;
 }
 
-/* Mobile: override to keep skinny hero */
+/* Mobile override */
 @media (max-width: 768px) {
   .page__hero,
   .page__hero__content-wrapper,
@@ -112,6 +106,7 @@
     height: 220px !important;
   }
 }
+
 
 
 /* -------------------------------------------
