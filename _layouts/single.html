@@ -12,27 +12,23 @@ layout: default
 </div>
 {% endif %}
 
-
-
 <div id="main" role="main">
   {% include sidebar.html %}
 
   <article class="page"
-    itemscope
-    itemtype="https://schema.org/CreativeWork"
-    {% if page.locale %} lang="{{ page.locale }}"{% endif %}>
+           itemscope
+           itemtype="https://schema.org/CreativeWork"
+           {% if page.locale %} lang="{{ page.locale }}"{% endif %}>
 
-{% assign breadcrumbs_enabled = site.breadcrumbs %}
-{% if page.breadcrumbs != null %}
-  {% assign breadcrumbs_enabled = page.breadcrumbs %}
-{% endif %}
-{% if page.url != "/" and breadcrumbs_enabled %}
-  {% unless paginator %}
-    {% include breadcrumbs.html %}
-  {% endunless %}
-{% endif %}
-
-
+    {% assign breadcrumbs_enabled = site.breadcrumbs %}
+    {% if page.breadcrumbs != null %}
+      {% assign breadcrumbs_enabled = page.breadcrumbs %}
+    {% endif %}
+    {% if page.url != "/" and breadcrumbs_enabled %}
+      {% unless paginator %}
+        {% include breadcrumbs.html %}
+      {% endunless %}
+    {% endif %}
 
     {% if page.title %}
       <meta itemprop="headline" content="{{ page.title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once }}">
