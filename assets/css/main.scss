@@ -82,34 +82,41 @@
   margin-right: calc(50% - 50vw) !important;
   padding: 0 !important;
   overflow: hidden;
-
-  /* Desktop height — slightly shorter */
-  height: 280px !important;       /* adjusted desktop height */
+  display: block !important;        /* ensures block layout */
+  height: 280px !important;         /* desktop height */
 }
 
-/* Inner wrapper must match container */
+/* Picture inside hero fills container */
+.page__hero picture {
+  width: 100%;
+  height: 100%;
+  display: block;                   /* fill hero width/height */
+}
+
+/* Hero image fills picture container */
+.page__hero picture img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Inner wrapper for title overlay */
 .page__hero__content-wrapper {
   padding-top: 0 !important;
   padding-bottom: 0 !important;
   height: 100% !important;        /* fills container */
-  display: flex !important;       /* keeps title centered if needed */
-  align-items: center !important; /* optional: vertically center title */
-}
-
-/* Hero image fills container */
-.page__hero img {
-  width: 100% !important;
-  height: 100% !important;
-  object-fit: cover;
-  display: block;
+  display: flex !important;       /* centers content vertically */
+  align-items: center !important;
 }
 
 /* Mobile: skinny hero */
 @media (max-width: 768px) {
   .page__hero,
   .page__hero__content-wrapper,
-  .page__hero img {
-    height: 220px !important;  /* mobile height stays slim */
+  .page__hero picture,
+  .page__hero picture img {
+    height: 220px !important;  /* mobile height */
   }
 }
 
