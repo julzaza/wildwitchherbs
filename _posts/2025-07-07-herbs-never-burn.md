@@ -10,7 +10,6 @@ header:
   teaser: /assets/images/incense-holder-with-burning-charcoal-incense-resin-myrrh-rustic-wooden-table.webp
   image: /assets/images/incense-holder-with-burning-charcoal-incense-resin-myrrh-rustic-wooden-table.webp
 
-assets/images/incense-holder-with-burning-charcoal-incense-resin-myrrh-rustic-wooden-table.webp
 categories:
   - witchcraft-ritual
   - herbal-magic
