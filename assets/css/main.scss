@@ -82,6 +82,20 @@
 }
 
 
+/* REMOVE GLOBAL SIDE PADDING THAT CAUSES WHITE BORDERS */
+.initial-content,
+.page,
+#main {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Restore padding ONLY for actual content */
+.page__inner-wrap {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
 
 
 /* -------------------------------------------
