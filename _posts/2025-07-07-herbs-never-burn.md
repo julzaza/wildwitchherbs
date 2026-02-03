@@ -6,7 +6,11 @@ description: "A folklore-based guide to herbs that should never be burned due to
 meta_description: "Some herbs were never meant for fire. Learn which plants should never be burned in ritual, why they’re dangerous, and what to use instead."
 featured: true
 author: "Wild Witch Herbs"
+header:
+  teaser: /assets/images/incense-holder-with-burning-charcoal-incense-resin-myrrh-rustic-wooden-table.webp
+  image: /assets/images/incense-holder-with-burning-charcoal-incense-resin-myrrh-rustic-wooden-table.webp
 
+assets/images/incense-holder-with-burning-charcoal-incense-resin-myrrh-rustic-wooden-table.webp
 categories:
   - witchcraft-ritual
   - herbal-magic
@@ -59,6 +63,8 @@ faq:
     answer: "Folk systems recognized three main reasons: physical danger (toxic smoke), cultural restriction (sacred or ceremonial use), and ritual volatility (herbs that could open boundaries uncontrollably)."
 
 ---
+![Not all herbs are meant to be burned in ritual](/assets/images/incense-holder-with-burning-charcoal-incense-resin-myrrh-rustic-wooden-table.webp)
+
 ## Not All Herbs Are Meant for Fire
 
 In the old world, smoke was sacred. It fed the gods, carried prayers, veiled thresholds. But not every herb was offered to flame.
