@@ -96,3 +96,24 @@
     height: 420px;
   }
 }
+
+/* -------------------------------------------
+   Wild Witch Herbs — Responsive header hero
+   ------------------------------------------- */
+
+/* Target the header hero image */
+.page__hero--overlay img,
+.page__hero--image img {
+  width: 100%;
+  object-fit: cover;
+  display: block;
+  height: 220px; /* desktop height */
+}
+
+/* Mobile: taller hero */
+@media (max-width: 768px) {
+  .page__hero--overlay img,
+  .page__hero--image img {
+    height: 420px; /* same as before */
+  }
+}
