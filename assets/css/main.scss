@@ -72,24 +72,25 @@
    Desktop slightly shorter, Mobile skinny
    ------------------------------------------- */
 .page__hero {
+  position: relative !important;   /* allow absolute children */
   width: 100vw !important;
   max-width: none !important;
   margin: 0 !important;
   padding: 0 !important;
   overflow: hidden;
-  display: block !important;
-  height: 240px !important;          /* desktop height */
+  height: 240px !important;       /* desktop height */
   box-sizing: border-box !important;
 }
 
-.page__hero__content-wrapper {
+.page__hero picture {
+  position: absolute !important;  /* fill container */
+  top: 0;
+  left: 0;
+  width: 100% !important;
   height: 100% !important;
-  display: flex !important;
-  align-items: center !important;
-  padding: 0 !important;
+  display: block !important;
 }
 
-.page__hero picture,
 .page__hero picture img {
   width: 100% !important;
   height: 100% !important;
@@ -97,12 +98,18 @@
   display: block !important;
 }
 
+.page__hero__content-wrapper {
+  position: relative !important;  /* keep content above picture */
+  z-index: 2;
+  height: 100% !important;
+  display: flex !important;
+  align-items: center !important;
+  padding: 0 !important;
+}
+
 /* Mobile override */
 @media (max-width: 768px) {
-  .page__hero,
-  .page__hero__content-wrapper,
-  .page__hero picture,
-  .page__hero picture img {
+  .page__hero {
     height: 220px !important;
   }
 }
