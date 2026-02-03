@@ -52,52 +52,24 @@
   text-decoration: underline;
 }
 
-/* -------------------------------------------
-   Wild Witch Herbs — Inline link styling
-   ------------------------------------------- */
-
-.page__content a {
-  color: #3A5F0B !important;
-  text-decoration: none !important;
-  font-weight: 600;
-}
-
-.page__content a:hover {
-  color: #3A5F0B !important;
-  text-decoration: underline;
-}
-
-/* -------------------------------------------
-   Hero Banner — FINAL, STABLE FIX
-------------------------------------------- */
-
 .page__hero {
-  position: relative;
-  width: 100%;          /* ← NOT 100vw */
-  max-width: 100%;
-  height: 240px;        /* desktop height */
+  width: 100%;
+  height: 240px;
   overflow: hidden;
 }
 
-.page__hero picture,
 .page__hero img {
   width: 100%;
   height: 100%;
+  object-fit: cover;
   display: block;
 }
 
-.page__hero img {
-  object-fit: cover;
-}
-
-/* Mobile */
 @media (max-width: 768px) {
   .page__hero {
     height: 220px;
   }
 }
-
-
 
 
 
