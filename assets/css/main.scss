@@ -1,5 +1,3 @@
----
----
 /* Theme imports MUST come first */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
@@ -70,8 +68,8 @@
 }
 
 /* -------------------------------------------
-   Wild Witch Herbs — Skinny Hero
-   Desktop taller, Mobile skinny
+   Wild Witch Herbs — Hero Banner
+   Desktop slightly shorter, Mobile skinny
    ------------------------------------------- */
 
 /* Hero container full-width */
@@ -85,15 +83,15 @@
   padding: 0 !important;
   overflow: hidden;
 
-  /* Desktop height */
-  height: 320px !important;       /* desired desktop height */
+  /* Desktop height — slightly shorter */
+  height: 280px !important;       /* adjusted desktop height */
 }
 
 /* Inner wrapper must match container */
 .page__hero__content-wrapper {
   padding-top: 0 !important;
   padding-bottom: 0 !important;
-  height: 100% !important;        /* ensure it fills container */
+  height: 100% !important;        /* fills container */
   display: flex !important;       /* keeps title centered if needed */
   align-items: center !important; /* optional: vertically center title */
 }
@@ -115,8 +113,13 @@
   }
 }
 
+/* -------------------------------------------
+   Wild Witch Herbs — Archive / Teaser Tiles
+   ------------------------------------------- */
+
 .archive__item-teaser img {
   width: 100%;
-  height: 180px; /* adjust for your preferred tile height */
+  height: 180px; /* fixed teaser tile height */
   object-fit: cover;
+  display: block;
 }
