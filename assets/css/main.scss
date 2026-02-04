@@ -52,6 +52,132 @@
   }
 }
 
+
+/* ===============================
+   GLOBAL BOX-SIZING
+   =============================== */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* ===============================
+   HERO IMAGE + TITLE
+   =============================== */
+.page__hero-full {
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 2rem; /* spacing between hero and content */
+  padding-left: 1rem;
+  padding-right: 1rem;
+
+  @media (min-width: 768px) {
+    margin-bottom: 2.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+    max-height: none;
+    display: block;
+    object-fit: cover;
+    object-position: center;
+  }
+}
+
+.page__hero-title {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+
+  @media (min-width: 768px) {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+    line-height: 1.2;
+    word-break: break-word;
+  }
+}
+
+/* ===============================
+   HERO HEIGHT FIX
+   =============================== */
+.page__hero,
+.page__hero--overlay,
+.page__hero img {
+  width: 100%;
+  max-width: 100%;
+  height: 220px;
+  object-fit: cover;
+  object-position: center;
+
+  @media (min-width: 768px) {
+    height: 280px;
+  }
+
+  @media (min-width: 1024px) {
+    height: 350px;
+  }
+}
+
+/* ===============================
+   MAIN CONTENT PADDING
+   =============================== */
+.page__inner-wrap,
+.initial-content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+
+  @media (min-width: 768px) {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  @media (min-width: 1024px) {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+
+/* ===============================
+   KILL HORIZONTAL OVERFLOW
+   =============================== */
+html, body {
+  overflow-x: hidden;
+}
+
+/* ===============================
+   ARCHIVE / TEASER IMAGES
+   =============================== */
+.archive__item-teaser img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  display: block;
+}
+
+/* ===============================
+   INLINE LINKS
+   =============================== */
+.page__content a {
+  color: #3A5F0B;
+  font-weight: 600;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+
+
 /* -------------------------------
    PREVENT TEXT PUSHING HEIGHT
    ------------------------------- */
