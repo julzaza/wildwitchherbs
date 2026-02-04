@@ -52,54 +52,74 @@
   text-decoration: underline;
 }
 
-.page__hero-full {
-  position: relative;
-  margin-left: calc(-50vw + 50%);
-  margin-right: calc(-50vw + 50%);
-  width: 100vw;
-  overflow: hidden;
+/* -------------------------------------------
+   Wild Witch Herbs — Inline link styling
+   ------------------------------------------- */
+
+.page__content a {
+  color: #3A5F0B !important;
+  text-decoration: none !important;
+  font-weight: 600;
 }
 
-.page__hero-full picture,
-.page__hero-full img {
-  width: 100%;
-  height: 260px; /* desktop */
+.page__content a:hover {
+  color: #3A5F0B !important;
+  text-decoration: underline;
+}
+
+/* -------------------------------------------
+   Wild Witch Herbs — Hero Banner
+   Desktop slightly shorter, Mobile skinny
+   ------------------------------------------- */
+
+/* Hero container full-width */
+.page__hero,
+.page__hero--overlay,
+.page__hero--image {
+  width: 100vw !important;
+  max-width: none !important;
+  margin-left: calc(50% - 50vw) !important;
+  margin-right: calc(50% - 50vw) !important;
+  padding: 0 !important;
+  overflow: hidden;
+
+  /* Desktop height — slightly shorter */
+  height: 280px !important;       /* adjusted desktop height */
+}
+
+/* Inner wrapper must match container */
+.page__hero__content-wrapper {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  height: 100% !important;        /* fills container */
+  display: flex !important;       /* keeps title centered if needed */
+  align-items: center !important; /* optional: vertically center title */
+}
+
+/* Hero image fills container */
+.page__hero img {
+  width: 100% !important;
+  height: 100% !important;
   object-fit: cover;
   display: block;
 }
 
-@media (max-width: 1023px) {
-  .page__hero-full picture,
-  .page__hero-full img {
-    height: 220px; /* mobile */
-  }
-}
-
+/* Mobile: skinny hero */
 @media (max-width: 768px) {
-  .page__inner-wrap {
-    padding-left: 1rem;
-    padding-right: 1rem;
+  .page__hero,
+  .page__hero__content-wrapper,
+  .page__hero img {
+    height: 220px !important;  /* mobile height stays slim */
   }
 }
-
-
-
-.page__inner-wrap {
-  max-width: 1200px; /* or 1100px if you want it tighter */
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-}
-
 
 /* -------------------------------------------
    Wild Witch Herbs — Archive / Teaser Tiles
-------------------------------------------- */
+   ------------------------------------------- */
 
 .archive__item-teaser img {
   width: 100%;
-  height: 180px;                      /* fixed teaser tile height */
+  height: 180px; /* fixed teaser tile height */
   object-fit: cover;
   display: block;
 }
