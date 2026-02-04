@@ -1,25 +1,14 @@
-/* -------------------------------------------
-   Minimal Mistakes imports
-------------------------------------------- */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
+@import "custom";
 
-/* -------------------------------------------
-   Custom CSS
-------------------------------------------- */
-
-/* Hide meta + taxonomy */
+/* Hide meta and taxonomy */
 .page__meta,
 .page__taxonomy {
   display: none !important;
 }
 
-/* Load custom partials */
-@import "custom";
-
-/* -------------------------------------------
-   Title & link styling
-------------------------------------------- */
+/* Page titles */
 .page__title a,
 .archive__item-title a {
   color: #333;
@@ -32,6 +21,7 @@
   color: #b3b3b3;
 }
 
+/* Page content links */
 .page__content a {
   color: #3A5F0B !important;
   text-decoration: none !important;
@@ -42,106 +32,33 @@
   text-decoration: underline !important;
 }
 
-/* -------------------------------------------
-   Hero Banner
-------------------------------------------- */
-.page__hero,
-.page__hero--overlay,
-.page__hero--image {
-  width: 100vw !important;
-  max-width: none !important;
-  margin-left: calc(50% - 50vw) !important;
-  margin-right: calc(50% - 50vw) !important;
-  padding: 0 !important;
-  overflow: hidden;
-  height: 280px !important;
-}
-
-.page__hero__content-wrapper {
-  height: 100% !important;
-  display: flex !important;
-  align-items: center !important;
-}
-
-.page__hero img {
-  width: 100% !important;
-  height: 100% !important;
-  object-fit: cover;
+/* Hero image */
+.page__hero-full img {
+  width: 100%;
+  height: auto;
   display: block;
+  object-fit: cover;
 }
 
-.page__hero-full {
-  margin-bottom: 2rem;
+.page__hero-title {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
-.page__hero-title-inner {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-
-@media (max-width: 768px) {
-  .page__hero,
-  .page__hero__content-wrapper,
-  .page__hero img {
-    height: 220px !important;
-  }
-
-  .page__hero-full {
-    margin-bottom: 1.5rem;
-  }
-
-  .page__hero-title-inner {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-}
-
-/* -------------------------------------------
-   Content & inner wrap padding
-------------------------------------------- */
-.page__inner-wrap {
+/* Initial content padding (original working setup) */
+.initial-content {
   padding-left: 1.25rem;
   padding-right: 1.25rem;
 }
 
 @media (min-width: 768px) {
-  .page__inner-wrap {
+  .initial-content {
     padding-left: 2rem;
     padding-right: 2rem;
   }
 }
 
-/* Responsive images, tables, iframes */
-.page__content img,
-.page__content table,
-.page__content iframe {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
-
-/* Kill horizontal overflow */
+/* Kill horizontal overflow globally */
 html, body {
   overflow-x: hidden;
-}
-
-/* Archive teaser tiles */
-.archive__item-teaser img {
-  width: 100%;
-  height: 180px;
-  object-fit: cover;
-  display: block;
-}
-
-/* Hero title spacing */
-.page__hero-title {
-  margin-top: 1.25rem;
-  margin-bottom: 1.5rem;
-}
-
-@media (max-width: 768px) {
-  .page__hero-title {
-    margin-top: 1rem;
-    margin-bottom: 1.25rem;
-  }
 }
