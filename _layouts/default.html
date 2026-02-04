@@ -8,57 +8,18 @@ layout: null
     {% include head.html %}
     {% include head/custom.html %}
 
-    <!-- Minimal Mistakes SEO -->
     {% unless page.seo == false %}{% seo %}{% endunless %}
-
-    <!-- FAQ JSON-LD -->
-    {% if page.faq %}
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {% for item in page.faq %}
-        {
-          "@type": "Question",
-          "name": "{{ item.question | escape }}",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "{{ item.answer | strip_html | escape }}"
-          }
-        }{% if forloop.last == false %},{% endif %}
-        {% endfor %}
-      ]
-    }
-    </script>
-    {% endif %}
-
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FXPRZC2NZ"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-7FXPRZC2NZ');
-    </script>
   </head>
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}">
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
 
-    <!-- MAIN CONTENT -->
-    {{ content }}
+    <div class="initial-content">
+      {{ content }}
+      {% include after-content.html %}
+    </div>
 
-    {% include after-content.html %}
-
-    {% if site.search == true %}
-      <div class="search-content">
-        {% include_cached search/search_form.html %}
-      </div>
-    {% endif %}
-
-    <!-- FOOTER -->
     <div id="footer" class="page__footer">
       <footer>
         {% include footer/custom.html %}
