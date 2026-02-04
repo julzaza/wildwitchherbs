@@ -96,45 +96,44 @@
   }
 }
 
-/* -------------------------------------------
-   Content & inner wrap padding
-   ------------------------------------------- */
+/* ===============================
+   FORCE CONTENT PADDING & SAFE WIDTH
+   =============================== */
+
+.initial-content,
 .page__inner-wrap,
-.initial-content {
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
+.page__content {
+  padding-left: 1.25rem !important;
+  padding-right: 1.25rem !important;
+  box-sizing: border-box !important;
+  max-width: 100% !important;
 }
 
 @media (min-width: 768px) {
+  .initial-content,
   .page__inner-wrap,
-  .initial-content {
-    padding-left: 2rem;
-    padding-right: 2rem;
+  .page__content {
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
   }
 }
 
-/* Kill horizontal overflow */
-html, body {
-  overflow-x: hidden;
+/* Make sure all direct children respect padding */
+.initial-content > *,
+.page__inner-wrap > *,
+.page__content > * {
+  box-sizing: border-box;
+  max-width: 100%;
+  word-break: break-word;
 }
 
-/* Archive teaser tiles */
-.archive__item-teaser img {
-  width: 100%;
-  height: 180px;
-  object-fit: cover;
-  display: block;
-}
-
-/* Hero title spacing */
-.page__hero-title {
-  margin-top: 1.25rem;
-  margin-bottom: 1.5rem;
-}
-
-@media (max-width: 768px) {
-  .page__hero-title {
-    margin-top: 1rem;
-    margin-bottom: 1.25rem;
-  }
+/* Force images, tables, iframes to not overflow */
+.page__content img,
+.page__content table,
+.page__content iframe,
+.page__content pre,
+.page__content blockquote {
+  max-width: 100% !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
 }
