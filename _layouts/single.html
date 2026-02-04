@@ -2,20 +2,29 @@
 layout: default
 ---
 
-{% if page.image_mobile and page.image_desktop %}
-<div class="page__hero-full">
-  <picture>
-    <source media="(min-width: 1024px)" srcset="{{ page.image_desktop | relative_url }}">
-    <source media="(max-width: 1023px)" srcset="{{ page.image_mobile | relative_url }}">
-    <img src="{{ page.image_desktop | relative_url }}" alt="{{ page.title }}">
-  </picture>
-  {% if page.title %}
-    <div class="page__hero-title">
-      <h1 class="page__title">{{ page.title }}</h1>
-    </div>
+<article class="page"
+  itemscope
+  itemtype="https://schema.org/CreativeWork"
+  {% if page.locale %} lang="{{ page.locale }}"{% endif %}>
+
+  {% if page.image_mobile and page.image_desktop %}
+  <div class="page__hero-full">
+    <picture>
+      <source media="(min-width: 1024px)" srcset="{{ page.image_desktop | relative_url }}">
+      <source media="(max-width: 1023px)" srcset="{{ page.image_mobile | relative_url }}">
+      <img src="{{ page.image_desktop | relative_url }}" alt="{{ page.title }}">
+    </picture>
+
+    {% if page.title %}
+      <div class="page__hero-title">
+        <h1 class="page__title">{{ page.title }}</h1>
+      </div>
+    {% endif %}
+  </div>
   {% endif %}
-</div>
-{% endif %}
+
+  <div class="page__inner-wrap">
+
 
 <div id="main" role="main">
   {% include sidebar.html %}
@@ -27,10 +36,6 @@ layout: default
 
 
 
-  <article class="page"
-           itemscope
-           itemtype="https://schema.org/CreativeWork"
-           {% if page.locale %} lang="{{ page.locale }}"{% endif %}>
 
     {% assign breadcrumbs_enabled = site.breadcrumbs %}
     {% if page.breadcrumbs != null %}
@@ -55,18 +60,6 @@ layout: default
       <meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">
     {% endif %}
 
-    <div class="page__inner-wrap">
-      {% unless page.header.overlay_color or page.header.overlay_image %}
-        <header>
-          {% if page.title -%}
-            <h1 id="page-title" class="page__title" itemprop="headline">
-              <a href="{{ page.url | absolute_url }}" itemprop="url">
-                {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
-              </a>
-            </h1>
-          {%- endif %}
-        </header>
-      {% endunless %}
 
       <section class="page__content" itemprop="text">
         {% if page.toc %}
