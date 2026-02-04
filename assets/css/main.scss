@@ -1,81 +1,66 @@
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
-@import "custom";
-
-/* Hide meta and taxonomy */
-.page__meta,
-.page__taxonomy {
-  display: none !important;
-}
-
-/* Page titles */
-.page__title a,
-.archive__item-title a {
-  color: #333;
-  text-decoration: none;
-  font-weight: 700;
-}
-
-.page__title a:hover,
-.archive__item-title a:hover {
-  color: #b3b3b3;
-}
-
-/* Page content links */
-.page__content a {
-  color: #3A5F0B !important;
-  text-decoration: none !important;
-  font-weight: 600;
-}
-
-.page__content a:hover {
-  text-decoration: underline !important;
-}
-
-/* Hero image */
-.page__hero-full img {
-  width: 100%;
-  height: auto;
-  display: block;
-  object-fit: cover;
-}
-
-/* Hero title wrapper for padding */
-.page__hero-title-inner {
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
-@media (min-width: 768px) {
-  .page__hero-title-inner {
-    padding-left: 2rem;
-    padding-right: 2rem;
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
-  }
-}
-
-/* Space between banner and content */
-.page__content {
-  margin-top: 1.5rem;
-}
-
-/* Initial content padding */
-.initial-content {
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-}
-
-@media (min-width: 768px) {
-  .initial-content {
-    padding-left: 2rem;
-    padding-right: 2rem;
-  }
-}
-
-/* Kill horizontal overflow globally */
-html, body {
-  overflow-x: hidden;
-}
+diff --git a/assets/css/main.scss b/assets/css/main.scss
+index 1c8825d4b52fa687adc108413591e02da8735457..9fdbcc45cddbd6b4aca51e4cf39df5d8b59f7b15 100644
+--- a/assets/css/main.scss
++++ b/assets/css/main.scss
+@@ -24,58 +24,56 @@
+ /* Page content links */
+ .page__content a {
+   color: #3A5F0B !important;
+   text-decoration: none !important;
+   font-weight: 600;
+ }
+ 
+ .page__content a:hover {
+   text-decoration: underline !important;
+ }
+ 
+ /* Hero image */
+ .page__hero-full img {
+   width: 100%;
+   height: auto;
+   display: block;
+   object-fit: cover;
+ }
+ 
+ /* Hero title wrapper for padding */
+ .page__hero-title-inner {
+   padding-left: 1.25rem;
+   padding-right: 1.25rem;
+   padding-top: 1rem;
+   padding-bottom: 1rem;
++  margin-top: 0.75rem;
+ }
+ 
+ @media (min-width: 768px) {
+   .page__hero-title-inner {
+     padding-left: 2rem;
+     padding-right: 2rem;
+     padding-top: 1.5rem;
+     padding-bottom: 1.5rem;
++    margin-top: 1rem;
+   }
+ }
+ 
+ /* Space between banner and content */
+ .page__content {
+   margin-top: 1.5rem;
+-}
+-
+-/* Initial content padding */
+-.initial-content {
+   padding-left: 1.25rem;
+   padding-right: 1.25rem;
+ }
+ 
+ @media (min-width: 768px) {
+-  .initial-content {
++  .page__content {
+     padding-left: 2rem;
+     padding-right: 2rem;
+   }
+ }
+ 
+ /* Kill horizontal overflow globally */
+ html, body {
+   overflow-x: hidden;
+ }
