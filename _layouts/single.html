@@ -9,24 +9,23 @@ layout: default
 
   {% if page.image_mobile and page.image_desktop %}
   <div class="page__hero-full">
-    <div class="page__inner-wrap"> <!-- ADD THIS: wrap hero image & title in padded container -->
-      <picture>
-        <source media="(min-width: 1024px)" srcset="{{ page.image_desktop | relative_url }}">
-        <source media="(max-width: 1023px)" srcset="{{ page.image_mobile | relative_url }}">
-        <img src="{{ page.image_desktop | relative_url }}" alt="{{ page.title }}">
-      </picture>
+    <picture>
+      <source media="(min-width: 1024px)" srcset="{{ page.image_desktop | relative_url }}">
+      <source media="(max-width: 1023px)" srcset="{{ page.image_mobile | relative_url }}">
+      <img src="{{ page.image_desktop | relative_url }}" alt="{{ page.title }}">
+    </picture>
 
-      {% if page.title %}
-        <div class="page__hero-title">
+    {% if page.title %}
+      <div class="page__hero-title">
+        <div class="page__hero-title-inner">
           <h1 class="page__title">{{ page.title }}</h1>
         </div>
-      {% endif %}
-    </div>
+      </div>
+    {% endif %}
   </div>
   {% endif %}
 
-  <div class="page__inner-wrap"> <!-- main content wrapper -->
-
+  <div class="page__inner-wrap">
     {% assign breadcrumbs_enabled = site.breadcrumbs %}
     {% if page.breadcrumbs != null %}
       {% assign breadcrumbs_enabled = page.breadcrumbs %}
