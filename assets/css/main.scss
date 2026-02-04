@@ -1,49 +1,36 @@
-/* Theme imports MUST come first */
+/* =====================================================
+   Minimal Mistakes — REQUIRED IMPORTS (KEEP FIRST)
+   ===================================================== */
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* Custom CSS starts below */
+/* =====================================================
+   Wild Witch Herbs — Stable Custom Styles
+   ===================================================== */
 
 /* Hide meta + taxonomy */
 .page__meta,
 .page__taxonomy {
-  display: none !important;
+  display: none;
 }
 
-/* Load any custom partials */
-@import "custom";
+/* -------------------------------------
+   Typography & Links
+   ------------------------------------- */
 
-/* -------------------------------------------
-   Wild Witch Herbs — Title Link Styling
-   ------------------------------------------- */
-
-/* Single post page titles */
-.page__title a {
-  color: #333333;
-  text-decoration: none;
-  font-weight: 700;
-}
-
-/* Hover effect for single post titles */
-.page__title a:hover {
-  color: #b3b3b3;
-  text-decoration: none;
-}
-
-/* Archive / blog list titles */
+.page__title a,
 .archive__item-title a {
-  color: #333333;
+  color: #333;
   text-decoration: none;
   font-weight: 700;
 }
 
-/* Hover effect for archive titles */
+.page__title a:hover,
 .archive__item-title a:hover {
   color: #b3b3b3;
-  text-decoration: none;
 }
 
-/* Remove underline from links in excerpts */
 .archive__item-excerpt a {
   text-decoration: none;
 }
@@ -52,149 +39,82 @@
   text-decoration: underline;
 }
 
-/* -------------------------------------------
-   Wild Witch Herbs — Inline link styling
-   ------------------------------------------- */
-
 .page__content a {
-  color: #3A5F0B !important;
-  text-decoration: none !important;
+  color: #3A5F0B;
   font-weight: 600;
+  text-decoration: none;
 }
 
 .page__content a:hover {
-  color: #3A5F0B !important;
   text-decoration: underline;
 }
 
-/* -------------------------------------------
-   Wild Witch Herbs — Hero Banner
-   Desktop slightly shorter, Mobile skinny
-   ------------------------------------------- */
+/* -------------------------------------
+   CONTENT PADDING (THE REAL FIX)
+   ------------------------------------- */
 
-/* Hero container full-width */
-.page__hero,
-.page__hero--overlay,
-.page__hero--image {
-  width: 100vw !important;
-  max-width: none !important;
-  margin-left: calc(50% - 50vw) !important;
-  margin-right: calc(50% - 50vw) !important;
-  padding: 0 !important;
-  overflow: hidden;
-
-  /* Desktop height — slightly shorter */
-  height: 280px !important;       /* adjusted desktop height */
-}
-
-/* Inner wrapper must match container */
-.page__hero__content-wrapper {
-  padding-top: 0 !important;
-  padding-bottom: 0 !important;
-  height: 100% !important;        /* fills container */
-  display: flex !important;       /* keeps title centered if needed */
-  align-items: center !important; /* optional: vertically center title */
-}
-
-/* Hero image fills container */
-.page__hero img {
-  width: 100% !important;
-  height: 100% !important;
-  object-fit: cover;
-  display: block;
-}
-
-/* Mobile: skinny hero */
-@media (max-width: 768px) {
-  .page__hero,
-  .page__hero__content-wrapper,
-  .page__hero img {
-    height: 220px !important;  /* mobile height stays slim */
-  }
-}
-
-.page__hero-full {
-  margin-bottom: 2rem; /* space between banner and content */
-}
-
-@media (max-width: 768px) {
-  .page__hero-full {
-    margin-bottom: 1.5rem;
-  }
-}
-
-
-/* Restore safe content padding */
-.page__inner-wrap {
+/* This is where post text actually lives */
+.page__content {
   padding-left: 1.25rem;
   padding-right: 1.25rem;
 }
 
 @media (min-width: 768px) {
-  .page__inner-wrap {
+  .page__content {
     padding-left: 2rem;
     padding-right: 2rem;
   }
 }
 
+/* -------------------------------------
+   CUSTOM HERO (SAFE, ISOLATED)
+   ------------------------------------- */
 
-/* Kill horizontal overflow globally */
-html, body {
-  overflow-x: hidden;
-}
-
-/* Fix hero banner overflow */
-.page__hero,
-.page__hero--overlay,
-.page__hero img {
+.page__hero-full {
   width: 100%;
-  max-width: 100%;
-}
-
-/* Make sure images don’t create inline gaps */
-.page__hero img {
-  display: block;
-}
-
-/* Proper spacing between banner and title */
-.page__hero-title {
-  margin-top: 1.25rem;
+  height: 280px;
   margin-bottom: 1.5rem;
+  overflow: hidden;
 }
 
+.page__hero-full picture,
+.page__hero-full img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+/* Mobile hero */
 @media (max-width: 768px) {
-  .page__hero-title {
-    margin-top: 1rem;
+  .page__hero-full {
+    height: 220px;
     margin-bottom: 1.25rem;
   }
 }
 
+/* Space between hero and title */
+.page__hero-title {
+  margin: 1rem 0 1.5rem;
+}
 
-
-/* -------------------------------------------
-   Wild Witch Herbs — Archive / Teaser Tiles
-   ------------------------------------------- */
+/* -------------------------------------
+   Archive / Teaser Images
+   ------------------------------------- */
 
 .archive__item-teaser img {
   width: 100%;
-  height: 180px; /* fixed teaser tile height */
+  height: 180px;
   object-fit: cover;
   display: block;
 }
 
-/* ===============================
-   FORCE CONTENT PADDING (REAL FIX)
-   =============================== */
+/* -------------------------------------
+   Safety: Prevent horizontal scroll
+   ------------------------------------- */
 
-/* This is the container that actually needs padding */
-.initial-content {
-  padding-left: 1.25rem !important;
-  padding-right: 1.25rem !important;
-}
-
-@media (min-width: 768px) {
-  .initial-content {
-    padding-left: 2rem !important;
-    padding-right: 2rem !important;
-  }
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
 }
