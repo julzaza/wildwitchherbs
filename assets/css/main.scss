@@ -75,6 +75,14 @@
   }
 }
 
+@media (max-width: 768px) {
+  .page__inner-wrap {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+
 
 .page__inner-wrap {
   max-width: 1200px; /* or 1100px if you want it tighter */
