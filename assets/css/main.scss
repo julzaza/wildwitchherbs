@@ -154,6 +154,18 @@ html, body {
   display: block;
 }
 
+/* Proper spacing between banner and title */
+.page__hero-title {
+  margin-top: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .page__hero-title {
+    margin-top: 1rem;
+    margin-bottom: 1.25rem;
+  }
+}
 
 
 
