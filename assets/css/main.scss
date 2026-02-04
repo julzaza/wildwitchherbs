@@ -113,6 +113,30 @@
   }
 }
 
+.page__hero-full {
+  margin-bottom: 2rem; /* space between banner and content */
+}
+
+@media (max-width: 768px) {
+  .page__hero-full {
+    margin-bottom: 1.5rem;
+  }
+}
+
+
+.page__content {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+@media (min-width: 768px) {
+  .page__content {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+
 /* -------------------------------------------
    Wild Witch Herbs — Archive / Teaser Tiles
    ------------------------------------------- */
