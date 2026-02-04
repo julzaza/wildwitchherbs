@@ -136,6 +136,26 @@
   }
 }
 
+/* Kill horizontal overflow globally */
+html, body {
+  overflow-x: hidden;
+}
+
+/* Fix hero banner overflow */
+.page__hero,
+.page__hero--overlay,
+.page__hero img {
+  width: 100%;
+  max-width: 100%;
+}
+
+/* Make sure images don’t create inline gaps */
+.page__hero img {
+  display: block;
+}
+
+
+
 
 /* -------------------------------------------
    Wild Witch Herbs — Archive / Teaser Tiles
