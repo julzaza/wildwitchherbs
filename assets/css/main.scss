@@ -124,17 +124,19 @@
 }
 
 
-.page__content {
+/* Restore safe content padding */
+.page__inner-wrap {
   padding-left: 1.25rem;
   padding-right: 1.25rem;
 }
 
 @media (min-width: 768px) {
-  .page__content {
+  .page__inner-wrap {
     padding-left: 2rem;
     padding-right: 2rem;
   }
 }
+
 
 /* Kill horizontal overflow globally */
 html, body {
