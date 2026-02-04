@@ -76,6 +76,13 @@
 }
 
 
+.page__inner-wrap {
+  max-width: 1200px; /* or 1100px if you want it tighter */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
 
 
 /* -------------------------------------------
