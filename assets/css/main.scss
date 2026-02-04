@@ -1,120 +1,70 @@
-/* =====================================================
-   Minimal Mistakes — REQUIRED IMPORTS (KEEP FIRST)
-   ===================================================== */
+/* ===============================
+   HERO IMAGE – HARD OVERRIDE FIX
+   =============================== */
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
-
-/* =====================================================
-   Wild Witch Herbs — Stable Custom Styles
-   ===================================================== */
-
-/* Hide meta + taxonomy */
-.page__meta,
-.page__taxonomy {
-  display: none;
-}
-
-/* -------------------------------------
-   Typography & Links
-   ------------------------------------- */
-
-.page__title a,
-.archive__item-title a {
-  color: #333;
-  text-decoration: none;
-  font-weight: 700;
-}
-
-.page__title a:hover,
-.archive__item-title a:hover {
-  color: #b3b3b3;
-}
-
-.archive__item-excerpt a {
-  text-decoration: none;
-}
-
-.archive__item-excerpt a:hover {
-  text-decoration: underline;
-}
-
-.page__content a {
-  color: #3A5F0B;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.page__content a:hover {
-  text-decoration: underline;
-}
-
-/* -------------------------------------
-   CONTENT PADDING (THE REAL FIX)
-   ------------------------------------- */
-
-/* This is where post text actually lives */
-.page__content {
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-}
-
-@media (min-width: 768px) {
-  .page__content {
-    padding-left: 2rem;
-    padding-right: 2rem;
-  }
-}
-
-/* -------------------------------------
-   CUSTOM HERO (SAFE, ISOLATED)
-   ------------------------------------- */
-
-.page__hero-full {
-  width: 100%;
-  height: 280px;
-  margin-bottom: 1.5rem;
+/* Base hero container */
+.page__hero,
+.page__hero--overlay {
+  position: relative;
   overflow: hidden;
 }
 
-.page__hero-full picture,
-.page__hero-full img {
+/* Hero image itself */
+.page__hero img,
+.page__hero--overlay img {
   width: 100%;
   height: 100%;
-  display: block;
   object-fit: cover;
+  object-position: center;
 }
 
-/* Mobile hero */
-@media (max-width: 768px) {
-  .page__hero-full {
-    height: 220px;
-    margin-bottom: 1.25rem;
+/* -------------------------------
+   MOBILE (default)
+   ------------------------------- */
+.page__hero,
+.page__hero--overlay {
+  height: 220px !important;
+  min-height: 220px !important;
+  max-height: 220px !important;
+}
+
+/* -------------------------------
+   TABLET
+   ------------------------------- */
+@media (min-width: 768px) {
+  .page__hero,
+  .page__hero--overlay {
+    height: 300px !important;
+    min-height: 300px !important;
+    max-height: 300px !important;
   }
 }
 
-/* Space between hero and title */
-.page__hero-title {
-  margin: 1rem 0 1.5rem;
+/* -------------------------------
+   DESKTOP
+   ------------------------------- */
+@media (min-width: 1024px) {
+  .page__hero,
+  .page__hero--overlay {
+    height: 360px !important;
+    min-height: 360px !important;
+    max-height: 360px !important;
+  }
 }
 
-/* -------------------------------------
-   Archive / Teaser Images
-   ------------------------------------- */
-
-.archive__item-teaser img {
-  width: 100%;
-  height: 180px;
-  object-fit: cover;
-  display: block;
+/* -------------------------------
+   PREVENT TEXT PUSHING HEIGHT
+   ------------------------------- */
+.page__hero--overlay .wrapper {
+  height: 100%;
+  display: flex;
+  align-items: center;
 }
 
-/* -------------------------------------
-   Safety: Prevent horizontal scroll
-   ------------------------------------- */
-
-html,
-body {
-  max-width: 100%;
-  overflow-x: hidden;
+/* Optional: slightly raise crop if image feels low */
+@media (max-width: 767px) {
+  .page__hero img,
+  .page__hero--overlay img {
+    object-position: center 40%;
+  }
 }
