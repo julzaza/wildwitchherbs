@@ -181,3 +181,20 @@ html, body {
   object-fit: cover;
   display: block;
 }
+
+/* ===============================
+   FORCE CONTENT PADDING (REAL FIX)
+   =============================== */
+
+/* This is the container that actually needs padding */
+.initial-content {
+  padding-left: 1.25rem !important;
+  padding-right: 1.25rem !important;
+}
+
+@media (min-width: 768px) {
+  .initial-content {
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+  }
+}
