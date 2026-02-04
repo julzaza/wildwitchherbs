@@ -40,12 +40,29 @@
   object-fit: cover;
 }
 
-.page__hero-title {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+/* Hero title wrapper for padding */
+.page__hero-title-inner {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
-/* Initial content padding (original working setup) */
+@media (min-width: 768px) {
+  .page__hero-title-inner {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+}
+
+/* Space between banner and content */
+.page__content {
+  margin-top: 1.5rem;
+}
+
+/* Initial content padding */
 .initial-content {
   padding-left: 1.25rem;
   padding-right: 1.25rem;
