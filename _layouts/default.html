@@ -3,7 +3,6 @@ layout: null
 ---
 
 <!doctype html>
-{% include copyright.html %}
 <html lang="{{ site.locale | replace: "_", "-" | default: "en" }}" class="no-js">
   <head>
     {% include head.html %}
@@ -12,7 +11,7 @@ layout: null
     <!-- Minimal Mistakes SEO -->
     {% unless page.seo == false %}{% seo %}{% endunless %}
 
-    <!-- FAQ JSON-LD (only if page.faq exists in YAML) -->
+    <!-- FAQ JSON-LD -->
     {% if page.faq %}
     <script type="application/ld+json">
     {
@@ -48,24 +47,10 @@ layout: null
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
 
-{{ content }}
+    <!-- MAIN CONTENT -->
+    {{ content }}
 
-      {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" | limit: 100 %}
-      {% assign matches = "" %}
-      {% for post in related_posts %}
-        {% assign overlap = false %}
-        {% for tag in post.tags %}
-          {% if page.tags contains tag %}
-            {% assign overlap = true %}
-          {% endif %}
-        {% endfor %}
-        {% if overlap %}
-          {% assign matches = matches | append: post.url | append: ";" %}
-        {% endif %}
-      {% endfor %}
-
-      {% include after-content.html %}
-    </div>
+    {% include after-content.html %}
 
     {% if site.search == true %}
       <div class="search-content">
@@ -73,6 +58,7 @@ layout: null
       </div>
     {% endif %}
 
+    <!-- FOOTER -->
     <div id="footer" class="page__footer">
       <footer>
         {% include footer/custom.html %}
