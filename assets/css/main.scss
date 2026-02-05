@@ -15,3 +15,21 @@
 .page__content {
   margin-top: 1rem;
 }
+
+/* Space between banner image and title */
+.page__hero-title-inner {
+  margin-top: 1.5rem;   /* gap below banner */
+  margin-bottom: 1rem;  /* optional gap before content */
+  padding-left: 1rem;   /* side padding for mobile */
+  padding-right: 1rem;
+}
+
+/* Tablet / desktop */
+@media (min-width: 768px) {
+  .page__hero-title-inner {
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
