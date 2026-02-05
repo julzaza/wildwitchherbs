@@ -28,21 +28,37 @@
   }
 }
 
-/* Content container padding — MOBILE FIX */
+/* ========== MOBILE CONTENT GUTTERS FIX ========== */
+
+/* Force padding on the article container */
 .page {
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
 }
 
 /* Tablet + desktop */
 @media (min-width: 768px) {
   .page {
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
   }
 }
 
-/* Content spacing */
+/* Prevent text from stretching edge-to-edge */
 .page__content {
   margin-top: 1.5rem;
 }
+
+/* ========== BANNER → TITLE → CONTENT SPACING ========== */
+
+/* Space under banner */
+.page__hero-full {
+  margin-bottom: 1rem !important;
+}
+
+@media (min-width: 768px) {
+  .page__hero-full {
+    margin-bottom: 1.5rem !important;
+  }
+}
+
