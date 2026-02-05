@@ -15,10 +15,15 @@ layout: null
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
 
-    <div class="initial-content">
+    <div id="main" role="main">
+  <div class="initial-content">
+    <div class="page__inner-wrap">
       {{ content }}
       {% include after-content.html %}
     </div>
+  </div>
+</div>
+
 
     <div id="footer" class="page__footer">
       <footer>
