@@ -11,7 +11,7 @@
   display: none !important;
 }
 
-/* Load any custom partials */
+/* Optional: load custom partials */
 @import "custom";
 
 /* ------------------------------------------- */
@@ -53,33 +53,21 @@
 }
 
 /* ------------------------------------------- */
-/* Post & archive link colors — Wild Witch Herbs */
+/* Wild Witch Herbs — Link Styling */
 
-/* Links inside post content */
-.page__content a {
-  color: #3A5F0B !important;   /* dark green */
-  text-decoration: none !important;
-  font-weight: 600;
-}
-
-.page__content a:hover {
-  text-decoration: underline !important;
-  color: #3A5F0B !important;
-}
-
-/* Links in post titles (if any) */
+/* Single post page titles */
 .page__title a {
-  color: #3A5F0B !important;
+  color: #3A5F0B !important; /* dark green */
   text-decoration: none;
   font-weight: 700;
 }
 
 .page__title a:hover {
-  text-decoration: underline;
   color: #3A5F0B !important;
+  text-decoration: underline;
 }
 
-/* Links in archive/blog list titles */
+/* Archive / blog list titles */
 .archive__item-title a {
   color: #3A5F0B !important;
   text-decoration: none;
@@ -91,7 +79,7 @@
   text-decoration: underline;
 }
 
-/* Links in archive excerpts */
+/* Remove underline from links in excerpts */
 .archive__item-excerpt a {
   color: #3A5F0B !important;
   text-decoration: none;
@@ -100,4 +88,18 @@
 .archive__item-excerpt a:hover {
   color: #3A5F0B !important;
   text-decoration: underline;
+}
+
+/* Inline links inside post content */
+.page__content a,
+.page__inner-wrap a {
+  color: #3A5F0B !important;
+  text-decoration: none !important;
+  font-weight: 600;
+}
+
+.page__content a:hover,
+.page__inner-wrap a:hover {
+  color: #3A5F0B !important;
+  text-decoration: underline !important;
 }
