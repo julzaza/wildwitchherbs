@@ -103,3 +103,26 @@
   color: #3A5F0B !important;
   text-decoration: underline !important;
 }
+
+/* Force green links everywhere inside posts */
+.page__inner-wrap .page__content a,
+.page__inner-wrap .page__content p a,
+.page__inner-wrap .page__content li a,
+.page__inner-wrap .page__content strong a,
+.page__inner-wrap .page__content em a,
+.page__inner-wrap .page__content span a {
+  color: #3A5F0B !important;
+  text-decoration: none !important;
+  font-weight: 600 !important;
+}
+
+.page__inner-wrap .page__content a:hover,
+.page__inner-wrap .page__content p a:hover,
+.page__inner-wrap .page__content li a:hover,
+.page__inner-wrap .page__content strong a:hover,
+.page__inner-wrap .page__content em a:hover,
+.page__inner-wrap .page__content span a:hover {
+  color: #3A5F0B !important;
+  text-decoration: underline !important;
+}
+
