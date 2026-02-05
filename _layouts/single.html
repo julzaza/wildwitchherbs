@@ -3,6 +3,7 @@ layout: default
 ---
 
 <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+
   {% if page.image_desktop %}
     <div class="page__hero-full">
       <img src="{{ page.image_desktop | relative_url }}" alt="{{ page.title }}">
@@ -15,9 +16,10 @@ layout: default
     </div>
   {% endif %}
 
-<div class="page__inner-wrap">
-  <section class="page__content" itemprop="text">
-    {{ content }}
-  </section>
-</div>
+  <div class="page__inner-wrap">
+    <section class="page__content" itemprop="text">
+      {{ content }}
+    </section>
+  </div>
 
+</article>
