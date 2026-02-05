@@ -4,20 +4,20 @@ layout: default
 
 <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
 
-  {% if page.title %}
-  <div class="page__inner-wrap">
-    <div class="page__hero-title-inner">
-      <h1 class="page__title">{{ page.title }}</h1>
-    </div>
-  </div>
-{% endif %}
+  {% if page.image_desktop %}
+    <div class="page__hero-full">
+      <picture>
+        {% if page.image_mobile %}
+          <source srcset="{{ page.image_mobile | relative_url }}" media="(max-width: 767px)">
+        {% endif %}
+        <img src="{{ page.image_desktop | relative_url }}" alt="{{ page.title }}">
+      </picture>
 
-
-  {% if page.title %}
-    <div class="page__inner-wrap">
-      <div class="page__hero-title-inner">
-        <h1 class="page__title">{{ page.title }}</h1>
-      </div>
+      {% if page.title %}
+        <div class="page__hero-title-inner">
+          <h1 class="page__title">{{ page.title }}</h1>
+        </div>
+      {% endif %}
     </div>
   {% endif %}
 
