@@ -5,7 +5,7 @@ layout: default
 <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
 
   {% if page.image_desktop %}
-    <!-- Hero banner with title overlay -->
+    <!-- Hero banner -->
     <div class="page__hero-full">
       <picture>
         {% if page.image_mobile %}
@@ -13,22 +13,16 @@ layout: default
         {% endif %}
         <img src="{{ page.image_desktop | relative_url }}" alt="{{ page.title }}">
       </picture>
-
-      {% if page.title %}
-        <div class="page__hero-title-inner">
-          <h1 class="page__title">{{ page.title }}</h1>
-        </div>
-      {% endif %}
     </div>
-  {% else %}
-    <!-- No hero: title sits above content -->
-    {% if page.title %}
-      <div class="page__inner-wrap">
-        <div class="page__hero-title-inner">
-          <h1 class="page__title">{{ page.title }}</h1>
-        </div>
+  {% endif %}
+
+  <!-- Title (always visible, always below banner if it exists) -->
+  {% if page.title %}
+    <div class="page__inner-wrap">
+      <div class="page__hero-title-inner">
+        <h1 class="page__title">{{ page.title }}</h1>
       </div>
-    {% endif %}
+    </div>
   {% endif %}
 
   <!-- Post content -->
