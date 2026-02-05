@@ -91,12 +91,12 @@
 }
 
 /* ------------------------------ */
-/* Wild Witch Herbs — Inline post links */
+/* Wild Witch Herbs — Force green links in post content */
 .page__content a,
 .page__content a * {
-  color: #3A5F0B !important;  /* your green */
+  color: #3A5F0B !important; /* your green */
   text-decoration: none !important;
-  font-weight: 600;
+  font-weight: 600 !important;
 }
 
 .page__content a:hover,
@@ -104,3 +104,4 @@
   color: #3A5F0B !important;
   text-decoration: underline !important;
 }
+
