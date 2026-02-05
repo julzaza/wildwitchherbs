@@ -53,45 +53,8 @@
   margin-top: 1rem;
 }
 
-/* ------------------------------------------- */
-/* Wild Witch Herbs — Post & Archive Title Links */
 
-/* Single post page titles */
-.page__title a {
-  color: #3A5F0B !important; /* dark green */
-  text-decoration: none;
-  font-weight: 700;
-}
-
-.page__title a:hover {
-  color: #3A5F0B !important;
-  text-decoration: underline;
-}
-
-/* Archive / blog list titles */
-.archive__item-title a {
-  color: #3A5F0B !important;
-  text-decoration: none;
-  font-weight: 700;
-}
-
-.archive__item-title a:hover {
-  color: #3A5F0B !important;
-  text-decoration: underline;
-}
-
-/* Remove underline from links in excerpts */
-.archive__item-excerpt a {
-  color: #3A5F0B !important;
-  text-decoration: none;
-}
-
-.archive__item-excerpt a:hover {
-  color: #3A5F0B !important;
-  text-decoration: underline;
-}
-
-/* ------------------------------------------- */
+/* ------------------------------ */
 /* Wild Witch Herbs — Force green links everywhere in post content */
 .page__content a,
 .page__content a *,
@@ -101,11 +64,12 @@
 .entry-content a *,
 .page__body a,
 .page__body a * {
-  color: #3A5F0B !important;   /* force green everywhere */
+  color: #3A5F0B !important;   /* your green */
   text-decoration: none !important;
   font-weight: 600 !important;
 }
 
+/* Hover state */
 .page__content a:hover,
 .page__content a:hover *,
 .page__inner-wrap a:hover,
@@ -118,67 +82,15 @@
   text-decoration: underline !important;
 }
 
-/* ------------------------------------------- */
-/* Wild Witch Herbs — FORCE GREEN LINKS EVERYWHERE */
-
-/* Post content links */
-.page__content a,
-.page__content a *,
-.page__content strong a,
-.page__content em a,
-.page__content p a,
-.page__content li a,
-.page__content ul a,
-.page__content ol a {
+/* Visited links — force green too */
+.page__content a:visited,
+.page__content a:visited *,
+.page__inner-wrap a:visited,
+.page__inner-wrap a:visited *,
+.entry-content a:visited,
+.entry-content a:visited *,
+.page__body a:visited,
+.page__body a:visited * {
   color: #3A5F0B !important;
-  text-decoration: none !important;
-  font-weight: 600 !important;
 }
 
-.page__content a:hover,
-.page__content a:hover *,
-.page__content strong a:hover,
-.page__content em a:hover,
-.page__content p a:hover,
-.page__content li a:hover,
-.page__content ul a:hover,
-.page__content ol a:hover {
-  color: #3A5F0B !important;
-  text-decoration: underline !important;
-}
-
-/* Archive titles & excerpts */
-.archive__item-title a,
-.archive__item-title a *,
-.archive__item-excerpt a,
-.archive__item-excerpt a * {
-  color: #3A5F0B !important;
-  text-decoration: none !important;
-  font-weight: 700 !important;
-}
-
-.archive__item-title a:hover,
-.archive__item-title a:hover *,
-.archive__item-excerpt a:hover,
-.archive__item-excerpt a:hover * {
-  color: #3A5F0B !important;
-  text-decoration: underline !important;
-}
-
-/* Page / Hero / Inner wrap links */
-.page__title a,
-.page__title a *,
-.page__hero-title-inner a,
-.page__hero-title-inner a * {
-  color: #3A5F0B !important;
-  text-decoration: none !important;
-  font-weight: 700 !important;
-}
-
-.page__title a:hover,
-.page__title a:hover *,
-.page__hero-title-inner a:hover,
-.page__hero-title-inner a:hover * {
-  color: #3A5F0B !important;
-  text-decoration: underline !important;
-}
