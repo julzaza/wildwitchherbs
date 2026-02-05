@@ -117,3 +117,68 @@
   color: #3A5F0B !important;
   text-decoration: underline !important;
 }
+
+/* ------------------------------------------- */
+/* Wild Witch Herbs — FORCE GREEN LINKS EVERYWHERE */
+
+/* Post content links */
+.page__content a,
+.page__content a *,
+.page__content strong a,
+.page__content em a,
+.page__content p a,
+.page__content li a,
+.page__content ul a,
+.page__content ol a {
+  color: #3A5F0B !important;
+  text-decoration: none !important;
+  font-weight: 600 !important;
+}
+
+.page__content a:hover,
+.page__content a:hover *,
+.page__content strong a:hover,
+.page__content em a:hover,
+.page__content p a:hover,
+.page__content li a:hover,
+.page__content ul a:hover,
+.page__content ol a:hover {
+  color: #3A5F0B !important;
+  text-decoration: underline !important;
+}
+
+/* Archive titles & excerpts */
+.archive__item-title a,
+.archive__item-title a *,
+.archive__item-excerpt a,
+.archive__item-excerpt a * {
+  color: #3A5F0B !important;
+  text-decoration: none !important;
+  font-weight: 700 !important;
+}
+
+.archive__item-title a:hover,
+.archive__item-title a:hover *,
+.archive__item-excerpt a:hover,
+.archive__item-excerpt a:hover * {
+  color: #3A5F0B !important;
+  text-decoration: underline !important;
+}
+
+/* Page / Hero / Inner wrap links */
+.page__title a,
+.page__title a *,
+.page__hero-title-inner a,
+.page__hero-title-inner a * {
+  color: #3A5F0B !important;
+  text-decoration: none !important;
+  font-weight: 700 !important;
+}
+
+.page__title a:hover,
+.page__title a:hover *,
+.page__hero-title-inner a:hover,
+.page__hero-title-inner a:hover * {
+  color: #3A5F0B !important;
+  text-decoration: underline !important;
+}
