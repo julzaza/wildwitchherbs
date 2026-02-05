@@ -105,3 +105,29 @@
   text-decoration: underline !important;
 }
 
+/* ------------------------------ */
+/* Wild Witch Herbs — Force green links everywhere in post content */
+.page__content a,
+.page__content a *,
+.page__inner-wrap a,
+.page__inner-wrap a *,
+.entry-content a,
+.entry-content a *,
+.page__body a,
+.page__body a * {
+  color: #3A5F0B !important;   /* your green */
+  text-decoration: none !important;
+  font-weight: 600 !important;
+}
+
+.page__content a:hover,
+.page__content a:hover *,
+.page__inner-wrap a:hover,
+.page__inner-wrap a:hover *,
+.entry-content a:hover,
+.entry-content a:hover *,
+.page__body a:hover,
+.page__body a:hover * {
+  color: #3A5F0B !important;
+  text-decoration: underline !important;
+}
