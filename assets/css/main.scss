@@ -3,6 +3,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
+/* ------------------------------------------- */
 /* Custom CSS starts below */
 
 /* Hide meta + taxonomy */
@@ -53,7 +54,7 @@
 }
 
 /* ------------------------------------------- */
-/* Wild Witch Herbs — Link Styling */
+/* Wild Witch Herbs — Post & Archive Title Links */
 
 /* Single post page titles */
 .page__title a {
@@ -90,22 +91,7 @@
   text-decoration: underline;
 }
 
-/* ------------------------------ */
-/* Wild Witch Herbs — Force green links in post content */
-.page__content a,
-.page__content a * {
-  color: #3A5F0B !important; /* your green */
-  text-decoration: none !important;
-  font-weight: 600 !important;
-}
-
-.page__content a:hover,
-.page__content a:hover * {
-  color: #3A5F0B !important;
-  text-decoration: underline !important;
-}
-
-/* ------------------------------ */
+/* ------------------------------------------- */
 /* Wild Witch Herbs — Force green links everywhere in post content */
 .page__content a,
 .page__content a *,
@@ -115,7 +101,7 @@
 .entry-content a *,
 .page__body a,
 .page__body a * {
-  color: #3A5F0B !important;   /* your green */
+  color: #3A5F0B !important;   /* force green everywhere */
   text-decoration: none !important;
   font-weight: 600 !important;
 }
