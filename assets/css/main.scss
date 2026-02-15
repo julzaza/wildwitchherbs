@@ -132,4 +132,23 @@
 }
 
 
+/* -------------------------------------------
+   Tighten title → content spacing
+   ------------------------------------------- */
+
+.page__title {
+  margin-bottom: 0.4rem;
+}
+
+.page__content {
+  margin-top: 0.4rem;
+}
+
+/* Remove extra gap if first element is heading */
+.page__content > h2:first-child,
+.page__content > h3:first-child,
+.page__content > p:first-child {
+  margin-top: 0;
+}
+
 
