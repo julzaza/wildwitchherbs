@@ -162,3 +162,52 @@ a > *:hover {
 .page__inner-wrap a[href] code {
   color: #3A5F0B !important;
 }
+
+
+/* ============================================
+   FIX LINKS INSIDE CODE - WILD WITCH HERBS
+   ============================================ */
+
+/* Force all links in content to be green */
+.page__content a,
+.page__inner-wrap a {
+  color: #3A5F0B !important;
+}
+
+/* CRITICAL: Override the code color inheritance issue */
+/* The dirt skin sets code color to $text-color (grey/brown) */
+/* We need to force code inside links to inherit the link color */
+.page__content a code,
+.page__inner-wrap a code,
+.page__content a > code,
+.page__inner-wrap a > code {
+  color: inherit !important; /* Inherit green from parent <a> */
+  background: transparent !important;
+}
+
+/* Also handle links inside code blocks */
+.page__content code a,
+.page__inner-wrap code a {
+  color: #3A5F0B !important;
+}
+
+/* Hover states */
+.page__content a:hover,
+.page__inner-wrap a:hover {
+  color: #3A5F0B !important;
+  text-decoration: underline !important;
+}
+
+.page__content a:hover code,
+.page__inner-wrap a:hover code {
+  color: inherit !important;
+  text-decoration: underline !important;
+}
+
+/* Visited */
+.page__content a:visited,
+.page__inner-wrap a:visited,
+.page__content a:visited code,
+.page__inner-wrap a:visited code {
+  color: #3A5F0B !important;
+}
