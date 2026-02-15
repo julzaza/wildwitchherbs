@@ -1,4 +1,6 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
 
 /* ------------------------------------------- */
 /* Theme imports MUST come first */
@@ -7,6 +9,7 @@
 
 /* ------------------------------------------- */
 /* Custom CSS starts below */
+...
 
 /* Hide meta + taxonomy */
 .page__meta,
