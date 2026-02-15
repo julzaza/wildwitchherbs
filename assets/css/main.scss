@@ -8,85 +8,54 @@
 }
 
 /* ============================================
-   NUCLEAR LINK COLOR OVERRIDE
+   ABSOLUTE NUCLEAR LINK OVERRIDE
+   Uses 0 specificity hack + !important
    ============================================ */
 
-/* Override ALL link colors in content with maximum specificity */
-.page__content a,
-.page__content a:link,
-.page__content a:visited,
-.page__inner-wrap a,
-.page__inner-wrap a:link,
-.page__inner-wrap a:visited,
-.entry-content a,
-.entry-content a:link,
-.entry-content a:visited {
+/* Force all links to green - 0 specificity but with important */
+:where(.page__content a, 
+       .page__content a:link, 
+       .page__content a:visited,
+       .page__inner-wrap a,
+       .page__inner-wrap a:link,
+       .page__inner-wrap a:visited) {
   color: #3A5F0B !important;
   text-decoration: none !important;
   font-weight: 600 !important;
 }
 
-/* CRITICAL: Override code elements inside links - this is what's failing */
-.page__content a code,
-.page__content a > code,
-.page__inner-wrap a code,
-.page__inner-wrap a > code,
-.page__content a tt,
-.page__content a kbd,
-.page__content a samp,
-.page__inner-wrap a tt,
-.page__inner-wrap a kbd,
-.page__inner-wrap a samp {
+/* Override code inside links - this is the critical part */
+:where(.page__content a code, 
+       .page__content a > code,
+       .page__content a tt,
+       .page__content a kbd,
+       .page__content a samp) {
   color: #3A5F0B !important;
-  background-color: transparent !important;
+  background: transparent !important;
 }
 
-/* Handle links inside code blocks */
-.page__content code a,
-.page__inner-wrap code a,
-.page__content pre a,
-.page__inner-wrap pre a,
-.page__content tt a,
-.page__inner-wrap tt a {
+/* Links inside code blocks */
+:where(.page__content code a,
+       .page__content pre a) {
   color: #3A5F0B !important;
   text-decoration: underline !important;
 }
 
 /* Hover states */
-.page__content a:hover,
-.page__content a:focus,
-.page__inner-wrap a:hover,
-.page__inner-wrap a:focus,
-.entry-content a:hover,
-.entry-content a:focus {
+:where(.page__content a:hover,
+       .page__content a:focus,
+       .page__inner-wrap a:hover) {
   color: #3A5F0B !important;
   text-decoration: underline !important;
 }
 
-.page__content a:hover code,
-.page__content a:focus code,
-.page__inner-wrap a:hover code,
-.page__inner-wrap a:focus code {
-  color: #3A5F0B !important;
-  text-decoration: underline !important;
-}
-
-/* Visited states */
-.page__content a:visited,
-.page__inner-wrap a:visited,
-.page__content a:visited code,
-.page__inner-wrap a:visited code {
-  color: #3A5F0B !important;
-}
-
-/* Force inheritance for any nested elements */
-.page__content a *,
-.page__inner-wrap a * {
+/* Universal override for any element inside links */
+:where(.page__content a *, .page__inner-wrap a *) {
   color: inherit !important;
 }
 
 /* ============================================
-   HERO STYLES (your existing code)
+   HERO STYLES
    ============================================ */
 @import "custom";
 
