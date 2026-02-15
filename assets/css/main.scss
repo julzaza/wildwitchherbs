@@ -4,6 +4,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
+
 /* Custom CSS starts below */
 
 /* Hide meta + taxonomy */
@@ -64,32 +65,41 @@
   font-weight: 600;
 }
 
+.page__content a:hover {
+  color: #3A5F0B !important;
+  text-decoration: underline;
+}
 
-/* Full-bleed hero images - edge to edge */
+/* -------------------------------------------
+   Full-width thin hero strip (TEST)
+   ------------------------------------------- */
+
 .page__hero-full-bleed {
   width: 100%;
-  background-color: #f3f3f3; /* Matches your dirt skin */
-  text-align: center;
+  height: 400px; /* Fixed height strip - adjust if needed */
+  overflow: hidden;
   margin: 0;
   padding: 0;
+  background-color: #f3f3f3; /* Matches your dirt skin */
 }
 
 .page__hero-full-bleed picture {
   display: block;
   width: 100%;
+  height: 100%;
   margin: 0;
   padding: 0;
 }
 
 .page__hero-full-bleed img {
   width: 100%;
-  max-width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
   display: block;
-  margin: 0 auto;
 }
 
-/* Remove side padding from main container */
+/* Remove side padding from main container for full width */
 #main {
   padding-left: 0;
   padding-right: 0;
@@ -107,6 +117,3 @@
     padding-right: 2rem;
   }
 }
-
-
-
