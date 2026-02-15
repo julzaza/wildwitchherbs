@@ -113,3 +113,18 @@
     padding-right: 2rem;
   }
 }
+
+
+/* Add padding when NO hero exists */
+.page__inner-wrap {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 768px) {
+  .page__inner-wrap {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
