@@ -18,7 +18,6 @@
 /* ------------------------------------------- */
 /* Wild Witch Herbs — Hero & Title Spacing */
 
-/* Hero image */
 .page__hero-full img {
   width: 100%;
   height: auto;
@@ -30,7 +29,6 @@
   margin-bottom: 0;
 }
 
-/* Space between banner image and title */
 .page__hero-title-inner {
   margin-top: 1.5rem;
   margin-bottom: 1rem;
@@ -47,7 +45,6 @@
   }
 }
 
-/* Content spacing */
 .page__content {
   margin-top: 1rem;
 }
@@ -55,7 +52,7 @@
 /* ------------------------------ */
 /* Wild Witch Herbs — Force green links everywhere */
 
-/* Base link styling with high specificity */
+/* Target the link itself */
 .page__content a,
 .page__inner-wrap a {
   color: #3A5F0B !important;
@@ -63,18 +60,20 @@
   font-weight: 600 !important;
 }
 
-/* CRITICAL: Target links inside code elements specifically */
+/* CRITICAL: Override code elements inside links with maximum specificity */
+/* This targets: <a><code>linked text</code></a> */
 .page__content a code,
-.page__content code a,
 .page__inner-wrap a code,
-.page__inner-wrap code a,
 .page__content a > code,
-.page__inner-wrap a > code {
+.page__inner-wrap a > code,
+/* And this targets any code that contains a link: <code><a>linked text</a></code> */
+.page__content code a,
+.page__inner-wrap code a {
   color: #3A5F0B !important;
-  background-color: transparent !important; /* Optional: remove grey background if desired */
+  background-color: transparent !important;
 }
 
-/* Hover states */
+/* Hover states - must be equally specific */
 .page__content a:hover,
 .page__inner-wrap a:hover {
   color: #3A5F0B !important;
@@ -82,19 +81,27 @@
 }
 
 .page__content a:hover code,
-.page__content code a:hover,
 .page__inner-wrap a:hover code,
+.page__content a code:hover,
+.page__inner-wrap a code:hover,
+.page__content code a:hover,
 .page__inner-wrap code a:hover {
   color: #3A5F0B !important;
   text-decoration: underline !important;
 }
 
-/* Visited links */
+/* Visited states */
 .page__content a:visited,
 .page__inner-wrap a:visited,
 .page__content a:visited code,
-.page__content code a:visited,
 .page__inner-wrap a:visited code,
+.page__content code a:visited,
 .page__inner-wrap code a:visited {
   color: #3A5F0B !important;
+}
+
+/* Additional safety: override any inline code styling that might conflict */
+.page__content code,
+.page__inner-wrap code {
+  color: inherit !important; /* This makes code inherit the parent's color */
 }
