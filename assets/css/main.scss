@@ -71,34 +71,10 @@
 }
 
 
-/* Full-bleed hero images - edge to edge */
-.page__hero-full-bleed {
-  width: 100%;
-  background-color: #f3f3f3; /* Matches your dirt skin */
-  text-align: center;
-  margin: 0;
-  padding: 0;
-}
-
-.page__hero-full-bleed picture {
-  display: block;
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-.page__hero-full-bleed img {
-  width: 100%;
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
-
-
 
 /* -------------------------------------------
-   Restore default padding
+   Restore default content padding
+   (keeps titles aligned on posts with no hero)
    ------------------------------------------- */
 
 #main {
@@ -113,17 +89,45 @@
   }
 }
 
-/* Remove padding ONLY when full-bleed hero exists */
+
+/* -------------------------------------------
+   TRUE Full-Bleed Hero
+   Works with mobile + desktop images
+   ------------------------------------------- */
+
 .page__hero-full-bleed {
-  margin-left: -1rem;
-  margin-right: -1rem;
+  position: relative;
+
+  /* Break out of padded container */
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  width: 100vw;
+
+  background-color: #f3f3f3; /* your dirt skin bg */
+  padding: 0;
+  text-align: center;
 }
 
-@media (min-width: 768px) {
-  .page__hero-full-bleed {
-    margin-left: -2rem;
-    margin-right: -2rem;
-  }
+
+/* Remove any spacing inside picture */
+.page__hero-full-bleed picture {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
+
+/* Image behavior */
+.page__hero-full-bleed img {
+  width: 100%;
+  height: auto;
+  display: block;
+
+  /* Prevent crop weirdness */
+  object-fit: cover;
+  object-position: center;
+}
 
