@@ -7,7 +7,7 @@ meta_description: "Some herbs were never meant for fire. Learn which plants shou
 featured: true
 author: "Wild Witch Herbs"
 image_desktop: /assets/images/1280x450pxwellness-practices-self-care-world-health-day.webp
-image_mobile: /assets/images/800x1000wellness-practices-self-care-world-health-day.webp
+image_mobile: /assets/images/800x1000pxwellness-practices-self-care-world-health-day.webp
 
 categories:
   - witchcraft-ritual
