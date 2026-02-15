@@ -1,15 +1,6 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-
-/* ------------------------------------------- */
 /* Theme imports MUST come first */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
-
-/* ------------------------------------------- */
-/* Custom CSS starts below */
-...
 
 /* Hide meta + taxonomy */
 .page__meta,
@@ -17,12 +8,10 @@
   display: none !important;
 }
 
-/* Optional: load custom partials */
+/* Import custom styles */
 @import "custom";
 
-/* ------------------------------------------- */
-/* Wild Witch Herbs — Hero & Title Spacing */
-
+/* Hero styles */
 .page__hero-full img {
   width: 100%;
   height: auto;
@@ -52,4 +41,25 @@
 
 .page__content {
   margin-top: 1rem;
+}
+
+/* FORCE GREEN LINKS - Add this directly to main.scss since custom.scss isn't loading */
+.page__content a,
+.page__inner-wrap a {
+  color: #3A5F0B !important;
+  font-weight: 600 !important;
+}
+
+.page__content a code,
+.page__inner-wrap a code,
+.page__content code a,
+.page__inner-wrap code a {
+  color: #3A5F0B !important;
+  background: transparent !important;
+}
+
+.page__content a:hover,
+.page__inner-wrap a:hover {
+  color: #3A5F0B !important;
+  text-decoration: underline !important;
 }
