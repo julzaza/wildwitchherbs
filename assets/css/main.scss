@@ -1,4 +1,3 @@
-/* Theme imports MUST come first */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
@@ -8,10 +7,89 @@
   display: none !important;
 }
 
-/* Import custom styles */
+/* ============================================
+   NUCLEAR LINK COLOR OVERRIDE
+   ============================================ */
+
+/* Override ALL link colors in content with maximum specificity */
+.page__content a,
+.page__content a:link,
+.page__content a:visited,
+.page__inner-wrap a,
+.page__inner-wrap a:link,
+.page__inner-wrap a:visited,
+.entry-content a,
+.entry-content a:link,
+.entry-content a:visited {
+  color: #3A5F0B !important;
+  text-decoration: none !important;
+  font-weight: 600 !important;
+}
+
+/* CRITICAL: Override code elements inside links - this is what's failing */
+.page__content a code,
+.page__content a > code,
+.page__inner-wrap a code,
+.page__inner-wrap a > code,
+.page__content a tt,
+.page__content a kbd,
+.page__content a samp,
+.page__inner-wrap a tt,
+.page__inner-wrap a kbd,
+.page__inner-wrap a samp {
+  color: #3A5F0B !important;
+  background-color: transparent !important;
+}
+
+/* Handle links inside code blocks */
+.page__content code a,
+.page__inner-wrap code a,
+.page__content pre a,
+.page__inner-wrap pre a,
+.page__content tt a,
+.page__inner-wrap tt a {
+  color: #3A5F0B !important;
+  text-decoration: underline !important;
+}
+
+/* Hover states */
+.page__content a:hover,
+.page__content a:focus,
+.page__inner-wrap a:hover,
+.page__inner-wrap a:focus,
+.entry-content a:hover,
+.entry-content a:focus {
+  color: #3A5F0B !important;
+  text-decoration: underline !important;
+}
+
+.page__content a:hover code,
+.page__content a:focus code,
+.page__inner-wrap a:hover code,
+.page__inner-wrap a:focus code {
+  color: #3A5F0B !important;
+  text-decoration: underline !important;
+}
+
+/* Visited states */
+.page__content a:visited,
+.page__inner-wrap a:visited,
+.page__content a:visited code,
+.page__inner-wrap a:visited code {
+  color: #3A5F0B !important;
+}
+
+/* Force inheritance for any nested elements */
+.page__content a *,
+.page__inner-wrap a * {
+  color: inherit !important;
+}
+
+/* ============================================
+   HERO STYLES (your existing code)
+   ============================================ */
 @import "custom";
 
-/* Hero styles */
 .page__hero-full img {
   width: 100%;
   height: auto;
@@ -41,25 +119,4 @@
 
 .page__content {
   margin-top: 1rem;
-}
-
-/* FORCE GREEN LINKS - Add this directly to main.scss since custom.scss isn't loading */
-.page__content a,
-.page__inner-wrap a {
-  color: #3A5F0B !important;
-  font-weight: 600 !important;
-}
-
-.page__content a code,
-.page__inner-wrap a code,
-.page__content code a,
-.page__inner-wrap code a {
-  color: #3A5F0B !important;
-  background: transparent !important;
-}
-
-.page__content a:hover,
-.page__inner-wrap a:hover {
-  color: #3A5F0B !important;
-  text-decoration: underline !important;
 }
