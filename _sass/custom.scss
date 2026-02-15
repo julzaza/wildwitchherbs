@@ -145,3 +145,20 @@ body {
   line-height: 1.5;
   margin: 0;
 }
+
+
+/* NUCLEAR OPTION: Override any remaining code colors */
+a *,
+a *:hover,
+a *:visited,
+a *:active,
+a > *,
+a > *:hover {
+  color: #3A5F0B !important;
+}
+
+/* Or specifically target the computed style */
+.page__content a[href] code,
+.page__inner-wrap a[href] code {
+  color: #3A5F0B !important;
+}
