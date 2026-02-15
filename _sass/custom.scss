@@ -1,3 +1,5 @@
+/* _sass/custom.scss */
+
 /* Hide anchorjs links */
 .page__content .anchorjs-link {
   display: none;
@@ -7,7 +9,7 @@
 body {
   background: url("/assets/images/background-plantain-herb.webp") no-repeat center center fixed;
   background-size: cover;
-  background-color: rgba(255, 255, 255, 0.8); /* Optional white overlay for readability */
+  background-color: rgba(255, 255, 255, 0.8);
   background-blend-mode: overlay;
 }
 
@@ -16,6 +18,75 @@ body {
   background-color: rgba(255, 255, 255, 0.6);
   padding: 1rem;
   border-radius: 1rem;
+}
+
+/* ============================================
+   LINK COLORS - FORCE GREEN EVERYWHERE
+   ============================================ */
+
+/* Base links in content */
+.page__content a,
+.page__inner-wrap a,
+.entry-content a {
+  color: #3A5F0B !important;
+  text-decoration: none !important;
+  font-weight: 600 !important;
+}
+
+/* CRITICAL: Override code elements inside links */
+/* This handles: <a><code>text</code></a> */
+.page__content a code,
+.page__inner-wrap a code,
+.page__content a > code,
+.page__inner-wrap a > code,
+.page__content a tt,
+.page__inner-wrap a tt,
+.page__content a kbd,
+.page__inner-wrap a kbd,
+.page__content a samp,
+.page__inner-wrap a samp {
+  color: #3A5F0B !important;
+  background-color: transparent !important;
+}
+
+/* This handles: <code><a>text</a></code> */
+.page__content code a,
+.page__inner-wrap code a,
+.page__content tt a,
+.page__inner-wrap tt a,
+.page__content kbd a,
+.page__inner-wrap kbd a,
+.page__content samp a,
+.page__inner-wrap samp a {
+  color: #3A5F0B !important;
+}
+
+/* Hover states */
+.page__content a:hover,
+.page__inner-wrap a:hover,
+.entry-content a:hover {
+  color: #3A5F0B !important;
+  text-decoration: underline !important;
+}
+
+.page__content a:hover code,
+.page__inner-wrap a:hover code,
+.page__content a code:hover,
+.page__inner-wrap a code:hover,
+.page__content code a:hover,
+.page__inner-wrap code a:hover {
+  color: #3A5F0B !important;
+  text-decoration: underline !important;
+}
+
+/* Visited links */
+.page__content a:visited,
+.page__inner-wrap a:visited,
+.page__content a:visited code,
+.page__inner-wrap a:visited code,
+.page__content code a:visited,
+.page__inner-wrap code a:visited {
+  color: #3A5F0B !important;
 }
 
 /* Archive links */
