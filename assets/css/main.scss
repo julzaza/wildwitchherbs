@@ -1,5 +1,5 @@
 ---
----
+
 /* Theme imports MUST come first */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
@@ -130,4 +130,5 @@
   object-fit: cover;
   object-position: center;
 }
+
 
