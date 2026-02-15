@@ -4,20 +4,34 @@ layout: default
 
 <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
 
-{% if page.image_desktop %}
-  <div class="page__hero-full-bleed">
-    <picture>
-      {% if page.image_mobile %}
-        <source srcset="{{ page.image_mobile | relative_url }}" media="(max-width: 767px)">
-      {% endif %}
-      <img src="{{ page.image_desktop | relative_url }}" alt="{{ page.title }}">
-    </picture>
-  </div>
-{% endif %}
+  {% if page.image_mobile or page.image_desktop_1280 %}
+    <div class="page__hero-full-bleed">
+      <picture>
+        {% if page.image_desktop_1280 and page.image_desktop_1920 %}
+          <!-- Desktop images for screens 768px and up -->
+          <source media="(min-width: 768px)"
+                  srcset="{{ page.image_desktop_1280 | relative_url }} 1280w,
+                          {{ page.image_desktop_1920 | relative_url }} 1920w"
+                  sizes="(min-width: 768px) 1280px, 100vw">
+        {% endif %}
 
-  <!-- Title (always visible, always below banner if it exists) -->
+        <!-- Mobile fallback -->
+        {% if page.image_mobile %}
+          <img src="{{ page.image_mobile | relative_url }}"
+               alt="{{ page.image_alt | default: page.title }}"
+               loading="lazy">
+        {% else %}
+          <img src="{{ page.image_desktop_1280 | relative_url }}"
+               alt="{{ page.image_alt | default: page.title }}"
+               loading="lazy">
+        {% endif %}
+      </picture>
+    </div>
+  {% endif %}
+
+  <!-- Title -->
   {% if page.title %}
-    <div class="page__inner-wrap">
+    <div class="page__inner-wrap" style="padding-top: 1rem;">
       <div class="page__hero-title-inner">
         <h1 class="page__title">{{ page.title }}</h1>
       </div>
@@ -32,3 +46,6 @@ layout: default
   </div>
 
 </article>
+
+
+
