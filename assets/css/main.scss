@@ -27,18 +27,17 @@
 }
 
 .page__hero-full {
-  margin-bottom: 0; /* no extra, since title now sits below */
+  margin-bottom: 0;
 }
 
 /* Space between banner image and title */
 .page__hero-title-inner {
-  margin-top: 1.5rem;   /* gap below banner */
-  margin-bottom: 1rem;  /* optional gap before content */
-  padding-left: 1rem;   /* side padding for mobile */
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  padding-left: 1rem;
   padding-right: 1rem;
 }
 
-/* Tablet / desktop spacing for title */
 @media (min-width: 768px) {
   .page__hero-title-inner {
     margin-top: 2rem;
@@ -53,44 +52,49 @@
   margin-top: 1rem;
 }
 
-
 /* ------------------------------ */
-/* Wild Witch Herbs — Force green links everywhere in post content */
+/* Wild Witch Herbs — Force green links everywhere */
+
+/* Base link styling with high specificity */
 .page__content a,
-.page__content a *,
-.page__inner-wrap a,
-.page__inner-wrap a *,
-.entry-content a,
-.entry-content a *,
-.page__body a,
-.page__body a * {
-  color: #3A5F0B !important;   /* your green */
+.page__inner-wrap a {
+  color: #3A5F0B !important;
   text-decoration: none !important;
   font-weight: 600 !important;
 }
 
-/* Hover state */
+/* CRITICAL: Target links inside code elements specifically */
+.page__content a code,
+.page__content code a,
+.page__inner-wrap a code,
+.page__inner-wrap code a,
+.page__content a > code,
+.page__inner-wrap a > code {
+  color: #3A5F0B !important;
+  background-color: transparent !important; /* Optional: remove grey background if desired */
+}
+
+/* Hover states */
 .page__content a:hover,
-.page__content a:hover *,
-.page__inner-wrap a:hover,
-.page__inner-wrap a:hover *,
-.entry-content a:hover,
-.entry-content a:hover *,
-.page__body a:hover,
-.page__body a:hover * {
+.page__inner-wrap a:hover {
   color: #3A5F0B !important;
   text-decoration: underline !important;
 }
 
-/* Visited links — force green too */
-.page__content a:visited,
-.page__content a:visited *,
-.page__inner-wrap a:visited,
-.page__inner-wrap a:visited *,
-.entry-content a:visited,
-.entry-content a:visited *,
-.page__body a:visited,
-.page__body a:visited * {
+.page__content a:hover code,
+.page__content code a:hover,
+.page__inner-wrap a:hover code,
+.page__inner-wrap code a:hover {
   color: #3A5F0B !important;
+  text-decoration: underline !important;
 }
 
+/* Visited links */
+.page__content a:visited,
+.page__inner-wrap a:visited,
+.page__content a:visited code,
+.page__content code a:visited,
+.page__inner-wrap a:visited code,
+.page__inner-wrap code a:visited {
+  color: #3A5F0B !important;
+}
