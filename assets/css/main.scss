@@ -95,36 +95,35 @@
   margin: 0 auto;
 }
 
-/* Remove side padding from main container */
+
+
+/* -------------------------------------------
+   Restore default padding
+   ------------------------------------------- */
+
 #main {
-  padding-left: 0;
-  padding-right: 0;
-}
-
-/* But keep padding for content below hero */
-.page__hero-full-bleed ~ .page__inner-wrap {
   padding-left: 1rem;
   padding-right: 1rem;
 }
 
 @media (min-width: 768px) {
-  .page__hero-full-bleed ~ .page__inner-wrap {
+  #main {
     padding-left: 2rem;
     padding-right: 2rem;
   }
 }
 
-
-/* Add padding when NO hero exists */
-.page__inner-wrap {
-  padding-left: 1rem;
-  padding-right: 1rem;
+/* Remove padding ONLY when full-bleed hero exists */
+.page__hero-full-bleed {
+  margin-left: -1rem;
+  margin-right: -1rem;
 }
 
 @media (min-width: 768px) {
-  .page__inner-wrap {
-    padding-left: 2rem;
-    padding-right: 2rem;
+  .page__hero-full-bleed {
+    margin-left: -2rem;
+    margin-right: -2rem;
   }
 }
+
 
