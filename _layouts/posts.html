@@ -2,6 +2,20 @@
 layout: archive
 ---
 
+{% if page.image_mobile or page.image_desktop_1280 %}
+  <picture class="page__hero-full-bleed">
+    {% if page.image_desktop_1280 and page.image_desktop_1920 %}
+      <source media="(min-width: 768px)"
+              srcset="{{ page.image_desktop_1280 }} 1280w,
+                      {{ page.image_desktop_1920 }} 1920w"
+              sizes="(min-width: 768px) 1280px, 100vw">
+    {% endif %}
+    <img src="{{ page.image_mobile | default: page.image_desktop_1280 }}"
+         alt="{{ page.image_alt | default: page.title }}"
+         loading="lazy">
+  </picture>
+{% endif %}
+
 {{ content }}
 
 
