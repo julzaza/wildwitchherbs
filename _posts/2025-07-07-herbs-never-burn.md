@@ -6,8 +6,12 @@ description: "A folklore-based guide to herbs that should never be burned due to
 meta_description: "Some herbs were never meant for fire. Learn which plants should never be burned in ritual, why they’re dangerous, and what to use instead."
 featured: true
 author: "Wild Witch Herbs"
-image_desktop: /assets/images/1280x450pxwellness-practices-self-care-world-health-day.webp
-image_mobile: /assets/images/800x1000pxwellness-practices-self-care-world-health-day (1).webp
+
+image_mobile: /assets/images/heros/herbs-never-burn/800x1000px-herbs-never-burn-48KB.webp
+image_desktop_1280: /assets/images/heros/herbs-never-burn/1280x450px-herbs-never-burn-85KB.webp
+image_desktop_1920: /assets/images/heros/herbs-never-burn/1920x640px-herbs-never-burn.webp
+image_alt: "Burning herbs ritual performed by two women"
+
 
 categories:
   - witchcraft-ritual
