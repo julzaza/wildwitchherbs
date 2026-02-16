@@ -184,14 +184,16 @@ Most commercial Palo Santo is illegally logged from living trees, stripped befor
 In traditional cultures, **fire was not neutral**.  
 Smoke carried offerings, prayers, warnings — and sometimes illness or death.
 
-Folk traditions across Europe, Asia, the Americas, and the Middle East recognized three reasons an herb should **never** be burned:
+Folk traditions across Europe, Asia, the Americas, and the Middle East recognized **four reasons** an herb should never be burned:
 
 1. **Physical danger** — toxic or neuroactive smoke  
 2. **Cultural restriction** — plants reserved for specific peoples or rites  
-3. **Ritual volatility** — herbs believed to open boundaries uncontrollably  
+3. **Environmental exploitation** — overharvesting, endangered species, illegal trade  
+4. **Ritual volatility** — herbs believed to open boundaries uncontrollably  
 
-Burning the wrong plant was not “edgy magic.”  
-It was ignorance.
+Today, **environmental exploitation** has become urgent. White sage populations are collapsing. Palo Santo forests are illegally stripped. 
+
+Burning these plants without understanding their ecological cost isn't spiritual — it's consumerism wearing a mask of tradition.
 
 ---
 
@@ -210,6 +212,18 @@ Burning was often the **most dangerous method**.
 ---
 
 ## At-a-Glance: Why These Herbs Were Never Burned
+
+| Herb           | Reason                                    | Type of Restriction      |
+| -------------- | ----------------------------------------- | ------------------------ |
+| Henbane        | Neurotoxic smoke                          | Physical                 |
+| Belladonna     | Lethal alkaloids                          | Physical + Ritual        |
+| Rue            | Lung irritation, reproductive caution     | Physical                 |
+| Oleander       | Fatal smoke                               | Absolute                 |
+| White Sage     | Cultural boundary + Overharvesting        | Cultural + Environmental |
+| Palo Santo     | Illegal logging, endangered, exploitation | Environmental + Cultural |
+| Essential oils | Combustion toxins                         | Modern hazard            |
+
+
 
 | Herb | Reason | Type of Restriction |
 |----|----|----|
@@ -265,6 +279,9 @@ Here is a detailed guide on **[How To Use Herbs for Smoke Cleansing](/smoke-clea
 Some herbs should never meet flame. Not because they aren’t magical — but because their magic isn’t meant for smoke.
 
 Not all cleansing rituals are the same, and not all herbs are culturally or ethically appropriate. 
+
+Burning the wrong plant is not "edgy magic."  
+It is ignorance — or worse, complicity in harm.
 
 Before choosing plants to burn, you may want to read **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)** — a guide to understanding the difference between global smoke traditions and Indigenous smudging, so your practice remains safe and respectful on all levels.
 
