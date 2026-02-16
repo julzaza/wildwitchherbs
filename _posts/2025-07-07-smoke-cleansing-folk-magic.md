@@ -116,7 +116,16 @@ Burned to **open dream gates** and guide between the worlds. Used after childbir
 ### 7. Boswellia sacra (Frankincense) — North Africa, Arabia  
 Used to **summon spirits**, carry prayers, and clear deep spiritual residue. High, bright, and temple-like.
 
+**Sourcing Note:** Choose **Somali or Ethiopian community-harvested frankincense** (often labeled "Maydi" or "Beyo") rather than mass-market "church incense" which may use inferior species or unethical middlemen. Sustainable harvesting means tapping trees lightly, not stripping them.
+
 **Folk Practice:** Burned in Somali postpartum rituals and Egyptian offerings to the gods. A clean-burning resin for sacred clarity.
+
+---
+
+### 5. Dragon's Blood (Daemonorops draco) — Indonesia  
+Deep red resin from rattan palms, not endangered trees. Used in Middle Eastern and European protection magic. Cultivated and sustainably harvested.
+
+**Folk Practice:** Burned for love spells, protection, and to amplify other magical ingredients. Less historically "temple" than frankincense, but powerful and ethical.
 
 ---
 
