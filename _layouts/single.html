@@ -8,14 +8,13 @@ layout: default
   HERO IMAGE LOGIC:
   - Desktop hero (≥768px) shows only if desktop image exists
   - Mobile hero (<768px) shows only if mobile image exists
-  - If desktop images missing, desktop screens show NO image
   {% endcomment %}
 
   {%- assign has_desktop = page.image_desktop_1280 or page.image_desktop_1920 -%}
 
   {% if has_desktop %}
     <!-- Desktop / tablet hero -->
-    <div class="page__hero-full-bleed">
+    <div class="page__hero-full-bleed desktop-only-hero">
       <picture>
         {% if page.image_desktop_1920 %}
           <source media="(min-width: 1280px)" srcset="{{ page.image_desktop_1920 | relative_url }}">
@@ -23,10 +22,8 @@ layout: default
         {% if page.image_desktop_1280 %}
           <source media="(min-width: 768px)" srcset="{{ page.image_desktop_1280 | relative_url }}">
         {% endif %}
-        <!-- fallback image for desktop/tablet if both sources exist -->
         <img src="{{ page.image_desktop_1280 | default: page.image_desktop_1920 | relative_url }}"
              alt="{{ page.image_alt | default: page.title }}"
-             class="page__hero-img"
              loading="lazy">
       </picture>
     </div>
