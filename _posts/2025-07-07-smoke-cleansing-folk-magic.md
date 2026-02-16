@@ -164,6 +164,17 @@ Bitter, protective smoke used for divination and boundary-setting. Found wild ac
 
 ---
 
+## Sourcing Herbs Responsibly
+
+Even "safe" herbs become harmful when overharvested:
+
+- **Grow your own:** Rosemary, mugwort, yarrow, garden sage
+- **Choose cultivated over wild:** Pine needles from your yard, not old-growth forests
+- **Support communities:** Somali frankincense, Mexican copal, Indonesian Dragon's Blood from ethical harvesters
+- **Avoid:** White sage, wild-harvested Palo Santo, and any "trendy" herb sold without origin transparency
+
+---
+
 ## How to Perform a Smoke Cleansing Ritual
 
 1. **Choose Your Herb:** Based on intention — protection, healing, spirit work, banishing, dreamwork.  
