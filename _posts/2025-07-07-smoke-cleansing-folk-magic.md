@@ -69,47 +69,47 @@ The type of herb burned shapes the purpose. The timing, the way it’s lit, even
 ---
 ## Traditional Smoke Cleansing Herbs From Around the World
 
-### Myrrh (Commiphora spp.) — Africa & Middle East  
+### 1. Myrrh (Commiphora spp.) — Africa & Middle East  
 Dark, thick resin used in **mourning rituals**, **death work**, and **binding ceremonies**. Strongly connected to sorrow, passage, and sacred endings.
 
 **Folk Practice:** Used in combination with frankincense in Egyptian embalming and funerary rites to anchor the soul for transition.
 
 ---
-### Juniper (Juniperus spp.) — Balkans & Northern Europe  
+### 2. Juniper (Juniperus spp.) — Balkans & Northern Europe  
 Spicy, sharp, and powerful. Burned in rural Balkan homes to **banish illness**, **curse energy**, or even unwanted spirits.
 
 **Folk Practice:** In Montenegro and northern Albania, entire rooms were fumigated with juniper during funerals or illness outbreaks.
 
 ---
-### Palo Santo (Bursera graveolens) — South America  
-Sweet, deep smoke used to **invite benevolent spirits**, clear heavy energy, and restore balance.
+### 3. Rosemary (Rosmarinus officinalis) — Mediterranean
+Sharp, clean smoke for protection, memory, and clarity. Used in funerals, weddings, and exorcisms across Europe. Easily cultivated, no wild harvesting needed.
 
-**Important Note:** Only use **ethically harvested** palo santo from fallen branches. Overharvesting has endangered the tree in some areas.
+**Folk Practice:** Burned in Greek Orthodox churches and by Spanish curanderas to ward off evil spirits and cleanse the sick.
 
 ---
 
-### Artemisia vulgaris (Mugwort) — Slavic & European Traditions  
+### 4. Artemisia vulgaris (Mugwort) — Slavic & European Traditions  
 Burned to **open dream gates** and guide between the worlds. Used after childbirth, near graves, or at midsummer for protection.
 
 **Folk Practice:** Slavic women would burn mugwort near cradles or braid it into garlands to hang over doors on Ivan Kupala night.
 
 ---
 
-### Boswellia sacra (Frankincense) — North Africa, Arabia  
+### 5. Boswellia sacra (Frankincense) — North Africa, Arabia  
 Used to **summon spirits**, carry prayers, and clear deep spiritual residue. High, bright, and temple-like.
 
 **Folk Practice:** Burned in Somali postpartum rituals and Egyptian offerings to the gods. A clean-burning resin for sacred clarity.
 
 ---
 
-### Rue (Ruta graveolens) — Mediterranean  
-Bitter and sulfuric. Burned to **break hexes** or for **protection** from the evil eye.
+### 6. Sage (Salvia officinalis) — Mediterranean, NOT White Sage
+Common garden sage, distinct from sacred White Sage (Salvia apiana). Used for purification and wisdom in European folk magic. Grows easily in gardens.
 
-**Folk Practice:** In southern Italy, rue was burned in charcoal pots while whispering prayers over the smoke to ward off malocchio (the evil eye).
+**Folk Practice:** Bundled and dried in English cottage witchcraft for "smoking out" illness and bad luck from the home.
 
 ---
 
-### Artemisia annua — China, Balkans  
+### 7. Artemisia annua — China, Balkans  
 A sharper cousin of mugwort, burned to **ward off disease** and **malicious spirits**. Especially potent in ancestral rituals or protection rites.
 
 **Folk Practice:** Hung and burned during Chinese Ghost Festival. In parts of the Balkans, tossed into ritual fires near cemeteries.
