@@ -17,7 +17,7 @@ tags:
   - ancestral magic
   - moon cycles
 
-image_mobile: /assets/images/heroes/menstrual-blood-earth-ritual/800x1000pxclose-up-wet-red-flower.webp
+image_mobile: 
 image_desktop_1280: /assets/images/heroes/menstrual-blood-earth-ritual/1280x450pxclose-up-wet-red-flower.webp
 image_desktop_1920: /assets/images/heroes/menstrual-blood-earth-ritual/1920x640pxclose-up-wet-red-flower.webp
 image_alt: "red flower petals covered in water drops"
