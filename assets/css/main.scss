@@ -169,10 +169,10 @@
 }
 
 
-/* Hide mobile hero on desktop when no desktop hero exists */
+/* Hide mobile-only hero on tablet + desktop */
 @media (min-width: 768px) {
-  .hero-mobile-only {
-    display: none;
+  .mobile-only-hero {
+    display: none !important;
   }
 }
 
