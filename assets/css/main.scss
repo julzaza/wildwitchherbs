@@ -187,4 +187,18 @@
 
 
 
+/* mobile-only hero hidden on tablet/desktop */
+@media (min-width: 768px) {
+  .mobile-only-hero {
+    display: none !important;
+  }
+}
+
+/* desktop-only hero hidden on mobile */
+@media (max-width: 767px) {
+  .desktop-only-hero {
+    display: none !important;
+  }
+}
+
 
