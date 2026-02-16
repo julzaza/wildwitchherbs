@@ -75,7 +75,7 @@ In the old world, smoke was sacred. It fed the gods, carried prayers, veiled thr
 
 Let’s walk through a **global witch’s list** of herbs you should *not* burn in ritual — and what to do instead when you need their power without courting danger.
 
-Also, check out **[Herbs For Safe Ritual Smoke Clensing](/smoke-cleansing-folk-magic/#ritual-smoke-herbs-from-around-the-world)**.
+Also, check out a witch's guide to **[Herbs For Safe Ritual Smoke Clensing](/smoke-cleansing-folk-magic/#ritual-smoke-herbs-from-around-the-world)**.
 
 ---
 
