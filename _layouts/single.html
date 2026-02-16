@@ -4,40 +4,40 @@ layout: default
 
 <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
 
-  {% if page.image_mobile or page.image_desktop_1280 or page.image_desktop_1920 %}
+  {% comment %}
+  HERO IMAGE LOGIC:
+  - Desktop hero (≥768px) shows only if desktop image exists
+  - Mobile hero (<768px) shows only if mobile image exists
+  - If desktop images missing, desktop screens show NO image
+  {% endcomment %}
+
+  {%- assign has_desktop = page.image_desktop_1280 or page.image_desktop_1920 -%}
+
+  {% if has_desktop %}
+    <!-- Desktop / tablet hero -->
     <div class="page__hero-full-bleed">
       <picture>
-
-        {%- comment -%} Desktop / large screens {%- endcomment -%}
         {% if page.image_desktop_1920 %}
           <source media="(min-width: 1280px)" srcset="{{ page.image_desktop_1920 | relative_url }}">
         {% endif %}
-
-        {%- comment -%} Tablet / small desktop {%- endcomment -%}
         {% if page.image_desktop_1280 %}
           <source media="(min-width: 768px)" srcset="{{ page.image_desktop_1280 | relative_url }}">
         {% endif %}
-
-        {%- comment -%} Mobile fallback (always exists if mobile image exists) {%- endcomment -%}
-        {% if page.image_mobile %}
-          <img src="{{ page.image_mobile | relative_url }}"
-               alt="{{ page.image_alt | default: page.title }}"
-               class="page__hero-img"
-               loading="lazy">
-        {% elsif page.image_desktop_1280 %}
-          {%- comment -%} fallback to desktop if no mobile available {%- endcomment -%}
-          <img src="{{ page.image_desktop_1280 | relative_url }}"
-               alt="{{ page.image_alt | default: page.title }}"
-               class="page__hero-img"
-               loading="lazy">
-        {% elsif page.image_desktop_1920 %}
-          <img src="{{ page.image_desktop_1920 | relative_url }}"
-               alt="{{ page.image_alt | default: page.title }}"
-               class="page__hero-img"
-               loading="lazy">
-        {% endif %}
-
+        <!-- fallback image for desktop/tablet if both sources exist -->
+        <img src="{{ page.image_desktop_1280 | default: page.image_desktop_1920 | relative_url }}"
+             alt="{{ page.image_alt | default: page.title }}"
+             class="page__hero-img"
+             loading="lazy">
       </picture>
+    </div>
+  {% endif %}
+
+  {% if page.image_mobile %}
+    <!-- Mobile-only hero -->
+    <div class="page__hero-full-bleed mobile-only-hero">
+      <img src="{{ page.image_mobile | relative_url }}"
+           alt="{{ page.image_alt | default: page.title }}"
+           loading="lazy">
     </div>
   {% endif %}
 
@@ -48,7 +48,7 @@ layout: default
     </div>
   {% endif %}
 
-  <!-- CONTENT -->
+  <!-- POST CONTENT -->
   <div class="page__inner-wrap">
     <section class="page__content" itemprop="text">
       {{ content }}
