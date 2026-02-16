@@ -169,6 +169,13 @@
 }
 
 
+/* Hide mobile-only hero on tablet + desktop */
+@media (min-width: 768px) {
+  .mobile-only-hero {
+    display: none !important;
+  }
+}
+
 
 
 /* mobile-only hero hidden on tablet/desktop */
@@ -177,6 +184,7 @@
     display: none !important;
   }
 }
+
 
 
 
