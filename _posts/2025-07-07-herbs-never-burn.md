@@ -79,6 +79,8 @@ Also, check out **[Herbs For Safe Ritual Smoke Clensing](/smoke-cleansing-folk-m
 
 ---
 
+## Stop Burning These 7 Herbs:
+
 ### 1. Henbane *(Hyoscyamus niger)* — Greek, Slavic, Germanic
 
 Used by ancient Greek oracles, Norse seid-workers, and Slavic witches to commune with spirits. But **never by smoke**. Burning henbane can cause delirium, convulsions, or death.
@@ -142,7 +144,9 @@ Some herbs aren't dangerous to your body — but burning them damages cultural b
 
 ###  White Sage *(Salvia apiana)* — North America
 
-White sage is sacred to many Native American tribes, especially the Chumash and Lakota, who use it in ceremony — **not for decoration or TikTok trends**. Overharvesting and cultural appropriation have made it a symbol of spiritual disrespect. Use it only when truly necessary and when you are sure it was sourced ethically. 
+White sage is sacred to many Native American tribes, especially the Chumash and Lakota, who use it in ceremony — **not for decoration or TikTok trends**. 
+
+Overharvesting and cultural appropriation have made it a symbol of spiritual disrespect. Use it only when truly necessary and when you are sure it was sourced ethically. 
 
 **Instead:** Try **juniper**, **mugwort**, **rosemary**, or **yarrow** — all used across Europe, the Balkans, and Central Asia for purification. 
 
