@@ -223,17 +223,6 @@ Burning was often the **most dangerous method**.
 | Palo Santo     | Illegal logging, endangered, exploitation | Environmental + Cultural |
 | Essential oils | Combustion toxins                         | Modern hazard            |
 
-
-
-| Herb | Reason | Type of Restriction |
-|----|----|----|
-| Henbane | Neurotoxic smoke | Physical |
-| Belladonna | Lethal alkaloids | Physical + Ritual |
-| White Sage | Cultural boundary | Cultural |
-| Rue | Lung irritation, reproductive caution | Physical |
-| Oleander | Fatal smoke | Absolute |
-| Essential oils | Combustion toxins | Modern hazard |
-
 ---
 
 ### Sacred Doesn’t Mean Safe
@@ -266,7 +255,7 @@ These herbs hold power — and don’t poison the air:
 - **Juniper** — Used in Alpine, Mongolian, and Sámi traditions for clearing and protection.  
 - **Bay Leaf** — Divinatory and defensive, used in Greek, Slavic, and Mediterranean rites.  
 - **Mugwort (Artemisia vulgaris)** — Dreaming, scrying, threshold crossing. Found across Eurasia.  
-- **Cedar** — North American Indigenous smoke medicine. Also used in Sumerian temples.  
+- **Cedar** — North American Indigenous smoke medicine. Also used in Sumerian temples. *Use only if harvested sustainably.   
 - **Artemisia annua** — Revered in China for thousands of years, tied to spirits and healing.  
 - **Rosemary** — Universally protective, used in funerals, love spells, and exorcisms.
 
