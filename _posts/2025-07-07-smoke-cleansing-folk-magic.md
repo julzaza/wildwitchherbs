@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "11 Safe Herbs for Ritual Smoke Cleansing in Folk Magic"
+title: "11 Safe Herbs for Ritual Smoke Cleansing in Global Folk Magic"
 excerpt: "Discover ancient, global smoke cleansing rituals beyond sage. Learn how witches, healers, and rootworkers worldwide used herbs to protect, banish, heal, and invite spirits."
 description: "A global guide to performing smoke cleansing rituals in folk magic. Explore safe herbs, traditional methods, and the purpose of ritual smoke across cultures."
 author: "Wild Witch Herbs"
