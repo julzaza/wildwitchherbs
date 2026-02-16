@@ -2,7 +2,7 @@
 layout: single
 title: "11 Safe Herbs for Ritual Smoke Cleansing in Global Folk Magic"
 excerpt: "Discover ancient, global smoke cleansing rituals beyond sage. Learn how witches, healers, and rootworkers worldwide used herbs to protect, banish, heal, and invite spirits."
-description: "A global guide to performing smoke cleansing rituals in folk magic. Explore safe herbs, traditional methods, and the purpose of ritual smoke across cultures."
+description: "Stop burning the wrong herbs. Discover 11 safe, sustainable alternatives for ritual smoke cleansing used by witches in Balkan, Slavic & folk magic traditions."
 author: "Wild Witch Herbs"
 
 categories:
@@ -33,7 +33,7 @@ faq:
   - question: "What is smoke cleansing in folk magic?"
     answer: "Smoke cleansing is a ritual practice using burning herbs or resins to cleanse, protect, banish, or summon spiritual forces across many folk traditions."
   - question: "Which herbs are traditionally used for smoke cleansing?"
-    answer: "Common ritual smoke herbs include juniper, mugwort, frankincense, myrrh, rosemary, copal, pine, and yarrow depending on cultural tradition."
+    answer: "Common ritual smoke herbs include myrrh, juniper, pine, copal, rosemary, mugwort, frankincense, Dragon's Blood, garden sage, Artemisia annua, and yarrow depending on cultural tradition."
   - question: "Is smoke cleansing the same as smudging?"
     answer: "No. Smoke cleansing is a broad global practice, while smudging refers to specific Indigenous ceremonial rites."
   - question: "Is smoke cleansing safe indoors?"
