@@ -4,34 +4,22 @@ layout: default
 
 <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
 
-  {%- comment -%}
-  HERO IMAGE LOGIC
-  Desktop hero shows only if desktop images exist.
-  Mobile hero can still show on small screens.
-  {%- endcomment -%}
-
   {% if page.image_mobile or page.image_desktop_1280 or page.image_desktop_1920 %}
     <div class="page__hero-full-bleed">
       <picture>
 
-        {%- comment -%} 1920 Desktop {%- endcomment -%}
         {% if page.image_desktop_1920 %}
           <source
             media="(min-width: 1280px)"
             srcset="{{ page.image_desktop_1920 | relative_url }}">
         {% endif %}
 
-        {%- comment -%} 1280 Desktop / Tablet {%- endcomment -%}
         {% if page.image_desktop_1280 %}
           <source
             media="(min-width: 768px)"
             srcset="{{ page.image_desktop_1280 | relative_url }}">
         {% endif %}
 
-        {%- comment -%}
-        Mobile image ONLY renders visually on small screens
-        CSS hides it on desktop if no desktop hero exists
-        {%- endcomment -%}
         {% if page.image_mobile %}
           <img
             src="{{ page.image_mobile | relative_url }}"
@@ -43,3 +31,19 @@ layout: default
       </picture>
     </div>
   {% endif %}
+
+  <!-- TITLE -->
+  {% if page.title %}
+    <div class="page__inner-wrap" style="padding-top: 1rem;">
+      <h1 class="page__title">{{ page.title }}</h1>
+    </div>
+  {% endif %}
+
+  <!-- CONTENT (THIS WAS MISSING / BROKEN) -->
+  <div class="page__inner-wrap">
+    <section class="page__content" itemprop="text">
+      {{ content }}
+    </section>
+  </div>
+
+</article>
