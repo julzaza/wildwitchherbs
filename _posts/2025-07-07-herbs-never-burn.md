@@ -260,7 +260,7 @@ These herbs hold power — and don’t poison the air:
 - **Cedar** — North American Indigenous smoke medicine. Also used in Sumerian temples.  
   *Choose Thuja occidentalis (Eastern White Cedar) or Juniperus virginiana (Eastern Red Cedar) — both are abundant and sustainably harvested. Avoid Western Red Cedar (Thuja plicata) which faces overharvesting pressure.*
 
-### **A Note on Sustainable Harvesting:**
+### A Note on Sustainable Harvesting:
 Even "safe" herbs become harmful when stripped from endangered populations. 
 Choose:
 - **Cultivated over wild-harvested** (lavender, rosemary, sage grown in gardens)
