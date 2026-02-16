@@ -205,3 +205,12 @@ It can. Some herbs invite, others repel. Know your intention before lighting any
 
 **What should I do with the ashes afterward?**  
 Bury them, scatter them at a crossroads, or return them to the earth as an offering.
+
+**What's the difference between smoke cleansing and smudging?**  
+Smoke cleansing is a global practice using various herbs. Smudging specifically refers to Indigenous North American ceremonies using White Sage, cedar, or sweetgrass in traditional ways.
+
+**Can I use kitchen herbs for smoke cleansing?**  
+Yes. Rosemary, sage (Salvia officinalis), thyme, and bay leaves from your kitchen have long histories in European folk magic. Just ensure they're fully dried and never use toxic ornamentals.
+
+**Is burning herbs indoors safe?**  
+Only with ventilation and proper herbs. Never burn toxic plants (oleander, henbane) or essential oils on charcoal indoors. See [Herbs Not Meant for Burning](/never-burn-herbs/).
