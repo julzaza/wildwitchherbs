@@ -43,9 +43,13 @@ faq:
 
 **Forget the mass-produced sage bundles**. 
 
-Before incense came in neat little bundles, it was a fistful of bitter leaves, cracked resin, and whatever could be burned in a dish over coals.
+Before incense came in neat little packages, it was a fistful of bitter leaves, cracked resin, and whatever could be burned in a dish over coals.
 
-From Balkan death rites to South American protection spells, smoke has always been more than perfume. **It was language. Offering. Defense. Invitation.**
+**Smoke cleansing in folk magic** is the ritual burning of herbs or resins to cleanse space, banish harmful energy, carry prayers to spirits, or mark life transitions. 
+
+Traditional smoke work used local plants — juniper in the Balkans, mugwort in Slavic rites, frankincense in North African temples — chosen by purpose, not trend.
+
+Smoke has always been more than perfume. **It was language. Offering. Defense. Invitation.**
 
 If you’re unsure whether your ritual counts as smoke cleansing or something else entirely, read **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)**. It explains the 
 cultural differences with clarity and respect, so your practice stays rooted in your own lineage and land.
