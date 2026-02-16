@@ -5,6 +5,13 @@ description: "A deep folklore-based guide to fertility herbs for women, explorin
 categories: [herbal-magic, folklore-ancestral]
 tags: [fertility herbs, women’s magic, womb magic, folklore, witchcraft, herbal fertility]
 
+
+image_mobile: /assets/images/heroes/fertility-herbs-for-women-old-world/800x1000px-woman-posing-while-holding-bouquet-lavender.webp
+image_desktop_1280: /assets/images/heroes/fertility-herbs-for-women-old-world/1280x450px-woman-posing-while-holding-bouquet-lavender.webp
+image_desktop_1920: /assets/images/heroes/fertility-herbs-for-women-old-world/1920x640px-woman-posing-while-holding-bouquet-lavender.webp
+image_alt: "woman holding lavender herbal bouquet, light purple background"
+
+
 faq:
   - question: "Are fertility herbs safe for all women?"
     answer: "Not necessarily. Traditional herbalism recognizes that some herbs warm the womb, move blood, or are too strong for certain conditions. Always research each herb thoroughly."
