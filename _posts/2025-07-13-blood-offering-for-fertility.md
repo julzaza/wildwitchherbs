@@ -16,6 +16,13 @@ tags:
   - blood magic
   - feminine power
   - ancestral magic
+
+image_mobile: /assets/images/heroes/blood-offering-for-fertility/800x1000px-twig-near-jar-with-petals.webp
+image_desktop_1280: /assets/images/heroes/blood-offering-for-fertility/1280x450px-twig-near-jar-with-petals.webp
+image_desktop_1920: /assets/images/heroes/blood-offering-for-fertility/1920x640px-twig-near-jar-with-petals.webp
+image_alt: "jar filled with blood red flower petals"
+
+
 faq:
   - question: "Is it safe to offer menstrual blood to the Earth?"
     answer: "Yes, when done privately and hygienically. Fresh blood should be collected with clean hands or tools and offered in a safe outdoor space. Symbolic substitutes like beet juice or red wine can also be used."
