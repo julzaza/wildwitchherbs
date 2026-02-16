@@ -79,6 +79,23 @@ Don't know what to burn instead? Here's a complete guide to **[Safe Herbs For Ri
 
 ---
 
+## Contents
+1. [The 7 Herbs You Should Never Burn](#stop-burning-these-7-herbs)
+   - [1. Henbane](#1-henbane-hyoscyamus-niger--greek-slavic-germanic)
+   - [2. Belladonna](#2-belladonna-atropa-belladonna--european-italian-slavic)
+   - [3. Rue](#3-rue-ruta-graveolens--mediterranean-balkan-middle-eastern)
+   - [4. Oleander](#4-oleander-nerium-oleander--middle-east-mediterranean)
+   - [5. Dragon Tree Resin](#5-dragon-tree-resin-dracaena-draco--canary-islands-north-africa)
+   - [6. Pine Resin](#6-pine-resin-in-plastic-heavy-modern-incense)
+   - [7. Essential Oils](#7-essential-oils-on-charcoal--modern-western)
+2. [Beyond Toxicity: Culturally Protected Herbs](#beyond-toxicity-culturally-protected-herbs)
+3. [Why These Herbs Were Forbidden](#not-all-herbs-are-meant-for-fire)
+4. [What Cultures Did Instead](#what-cultures-did-instead-of-burning)
+5. [Safe Alternatives You Can Burn](#safer-sacred-smoke-alternatives)
+6. [FAQ](#faq--real-questions-witches-actually-ask)
+
+---
+
 ## Stop Burning These 7 Toxic Herbs
 
 ### 1. Henbane *(Hyoscyamus niger)* — Greek, Slavic, Germanic
