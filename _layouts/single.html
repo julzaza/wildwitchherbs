@@ -4,34 +4,40 @@ layout: default
 
 <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
 
-  {%- comment -%}
-  HERO IMAGE LOGIC
-  Desktop images render if present.
-  Mobile images render only on mobile screens (CSS hides them on desktop).
-  {%- endcomment -%}
-
-  {% if page.image_desktop_1280 or page.image_desktop_1920 %}
-    <!-- DESKTOP / TABLET HERO -->
+  {% if page.image_mobile or page.image_desktop_1280 or page.image_desktop_1920 %}
     <div class="page__hero-full-bleed">
       <picture>
+
+        {%- comment -%} Desktop / large screens {%- endcomment -%}
         {% if page.image_desktop_1920 %}
           <source media="(min-width: 1280px)" srcset="{{ page.image_desktop_1920 | relative_url }}">
         {% endif %}
+
+        {%- comment -%} Tablet / small desktop {%- endcomment -%}
         {% if page.image_desktop_1280 %}
           <source media="(min-width: 768px)" srcset="{{ page.image_desktop_1280 | relative_url }}">
         {% endif %}
-        <img src="{{ page.image_desktop_1280 | default: page.image_desktop_1920 | relative_url }}"
-             alt="{{ page.image_alt | default: page.title }}"
-             loading="lazy">
-      </picture>
-    </div>
 
-  {% elsif page.image_mobile %}
-    <!-- MOBILE-ONLY HERO -->
-    <div class="page__hero-full-bleed mobile-only-hero">
-      <img src="{{ page.image_mobile | relative_url }}"
-           alt="{{ page.image_alt | default: page.title }}"
-           loading="lazy">
+        {%- comment -%} Mobile fallback (always exists if mobile image exists) {%- endcomment -%}
+        {% if page.image_mobile %}
+          <img src="{{ page.image_mobile | relative_url }}"
+               alt="{{ page.image_alt | default: page.title }}"
+               class="page__hero-img"
+               loading="lazy">
+        {% elsif page.image_desktop_1280 %}
+          {%- comment -%} fallback to desktop if no mobile available {%- endcomment -%}
+          <img src="{{ page.image_desktop_1280 | relative_url }}"
+               alt="{{ page.image_alt | default: page.title }}"
+               class="page__hero-img"
+               loading="lazy">
+        {% elsif page.image_desktop_1920 %}
+          <img src="{{ page.image_desktop_1920 | relative_url }}"
+               alt="{{ page.image_alt | default: page.title }}"
+               class="page__hero-img"
+               loading="lazy">
+        {% endif %}
+
+      </picture>
     </div>
   {% endif %}
 
@@ -42,7 +48,7 @@ layout: default
     </div>
   {% endif %}
 
-  <!-- POST CONTENT -->
+  <!-- CONTENT -->
   <div class="page__inner-wrap">
     <section class="page__content" itemprop="text">
       {{ content }}
