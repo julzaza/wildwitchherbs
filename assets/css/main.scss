@@ -208,4 +208,19 @@
   }
 }
 
+/* Hide mobile hero on desktop/tablet */
+@media (min-width: 768px) {
+  .mobile-only-hero {
+    display: none !important;
+  }
+}
+
+/* Hide desktop hero on mobile */
+@media (max-width: 767px) {
+  .desktop-only-hero {
+    display: none !important;
+  }
+}
+
+
 
