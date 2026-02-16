@@ -25,10 +25,10 @@ keywords:
   - banishing rituals
   - folk magic practices
 
-image_mobile: /assets/images/heroes/800x1000px-smoke-cleansing-folk-magic-s.webp
+image_mobile: /assets/images/heroes/800x1000px-smoke-cleansing-folk-magic.webp
 image_desktop_1280: 
 image_desktop_1920: 
-image_alt: "burning ritual sticks and herbs on plates"
+image_alt: "ritual sticks and herbs for burning on plates"
 
 
 permalink: /smoke-cleansing-folk-magic/
