@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "11 Ritual Herbs for Smoke Cleansing in Folk Magic"
+title: "11 Safe Herbs for Ritual Smoke Cleansing in Folk Magic"
 excerpt: "Discover ancient, global smoke cleansing rituals beyond sage. Learn how witches, healers, and rootworkers worldwide used herbs to protect, banish, heal, and invite spirits."
 description: "A global guide to performing smoke cleansing rituals in folk magic. Explore safe herbs, traditional methods, and the purpose of ritual smoke across cultures."
 author: "Wild Witch Herbs"
@@ -33,7 +33,7 @@ faq:
   - question: "What is smoke cleansing in folk magic?"
     answer: "Smoke cleansing is a ritual practice using burning herbs or resins to cleanse, protect, banish, or summon spiritual forces across many folk traditions."
   - question: "Which herbs are traditionally used for smoke cleansing?"
-    answer: "Common ritual smoke herbs include juniper, mugwort, frankincense, myrrh, rue, Artemisia annua, and palo santo depending on cultural tradition."
+    answer: "Common ritual smoke herbs include juniper, mugwort, frankincense, myrrh, rosemary, copal, pine, and yarrow depending on cultural tradition."
   - question: "Is smoke cleansing the same as smudging?"
     answer: "No. Smoke cleansing is a broad global practice, while smudging refers to specific Indigenous ceremonial rites."
   - question: "Is smoke cleansing safe indoors?"
@@ -55,6 +55,14 @@ If you’re unsure whether your ritual counts as smoke cleansing or something el
 cultural differences with clarity and respect, so your practice stays rooted in your own lineage and land.
 
 Avoid dangerous and sometimes deadly mistakes when working with smoke: make sure you read **[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)**.
+
+---
+
+## Contents
+1. [Why Smoke Matters in Folk Magic](#the-function-of-smoke-in-magic)
+2. [11 Traditional Herbs for Ritual Smoke](#traditional-smoke-cleansing-herbs-from-around-the-world)
+3. [How to Perform the Ritual](#how-to-perform-a-smoke-cleansing-ritual)
+4. [FAQ](#frequently-asked-questions-on-ritual-smoke-cleansing)
 
 ---
 
@@ -133,8 +141,10 @@ Deep red resin from rattan palms, not endangered trees. Used in Middle Eastern a
 
 ---
 
-### 9. Sage (Salvia officinalis) — Mediterranean, NOT White Sage
-Common garden sage, distinct from sacred White Sage (Salvia apiana). Used for purification and wisdom in European folk magic. Grows easily in gardens.
+### 9. Garden Sage (Salvia officinalis) — Mediterranean
+
+**NOT White Sage**
+Common garden sage, distinct from sacred White Sage (Salvia apiana). Used for purification and wisdom in European folk magic. Grows easily in gardens, no wild harvesting concerns.
 
 **Folk Practice:** Bundled and dried in English cottage witchcraft for "smoking out" illness and bad luck from the home.
 
