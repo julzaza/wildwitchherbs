@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "11 Safe Herbs for Ritual Smoke Cleansing in Global Folk Magic"
+title: "What to Burn Instead of Sage: 11 Herbs for Smoke Cleansing"
 excerpt: "Discover ancient, global smoke cleansing rituals beyond sage. Learn how witches, healers, and rootworkers worldwide used herbs to protect, banish, heal, and invite spirits."
 description: "Stop burning the wrong herbs. Discover 11 safe, sustainable alternatives for ritual smoke cleansing used by witches in Balkan, Slavic & folk magic traditions."
 author: "Wild Witch Herbs"
