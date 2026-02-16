@@ -201,4 +201,11 @@
   }
 }
 
+/* Force mobile fallback to behave well on desktop if you want to hide it entirely */
+@media (min-width: 768px) {
+  .page__hero-full-bleed img {
+    display: block;
+  }
+}
+
 
