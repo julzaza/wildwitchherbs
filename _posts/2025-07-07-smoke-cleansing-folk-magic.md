@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "How to Use Smoke Cleansing in Folk Magic"
+title: "10 Ritual Herbs for Smoke Cleansing in Folk Magic"
 excerpt: "Discover ancient, global smoke cleansing rituals beyond sage. Learn how witches, healers, and rootworkers worldwide used herbs to protect, banish, heal, and invite spirits."
 description: "A global guide to performing smoke cleansing rituals in folk magic. Explore safe herbs, traditional methods, and the purpose of ritual smoke across cultures."
 author: "Wild Witch Herbs"
@@ -122,21 +122,21 @@ Used to **summon spirits**, carry prayers, and clear deep spiritual residue. Hig
 
 ---
 
-### 5. Dragon's Blood (Daemonorops draco) — Indonesia  
+### 8. Dragon's Blood (Daemonorops draco) — Indonesia  
 Deep red resin from rattan palms, not endangered trees. Used in Middle Eastern and European protection magic. Cultivated and sustainably harvested.
 
 **Folk Practice:** Burned for love spells, protection, and to amplify other magical ingredients. Less historically "temple" than frankincense, but powerful and ethical.
 
 ---
 
-### 8. Sage (Salvia officinalis) — Mediterranean, NOT White Sage
+### 9. Sage (Salvia officinalis) — Mediterranean, NOT White Sage
 Common garden sage, distinct from sacred White Sage (Salvia apiana). Used for purification and wisdom in European folk magic. Grows easily in gardens.
 
 **Folk Practice:** Bundled and dried in English cottage witchcraft for "smoking out" illness and bad luck from the home.
 
 ---
 
-### 9. Artemisia annua — China, Balkans  
+### 10. Artemisia annua — China, Balkans  
 A sharper cousin of mugwort, burned to **ward off disease** and **malicious spirits**. Especially potent in ancestral rituals or protection rites.
 
 **Folk Practice:** Hung and burned during Chinese Ghost Festival. In parts of the Balkans, tossed into ritual fires near cemeteries.
