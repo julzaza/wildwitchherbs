@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Herbs You Should Never Burn in Ritual, What to Use Instead"
+title: "7 Herbs You Should Never Burn in Ritual, What to Use Instead"
 excerpt: "A global guide to herbs you should never burn in ritual — whether toxic, sacred, or spiritually volatile — and powerful alternatives rooted in traditional witchcraft and folklore."
 description: "A folklore-based guide to herbs that should never be burned due to toxicity, cultural boundaries, or ritual danger — with safer traditional alternatives."
-meta_description: "Some herbs were never meant for fire. Learn which plants should never be burned in ritual, why they’re dangerous, and what to use instead."
+meta_description: "Discover 7 toxic herbs you should never burn in ritual, from henbane to belladonna, and learn safe alternatives like mugwort and juniper for smoke cleansing."
 featured: true
 author: "Wild Witch Herbs"
 
@@ -126,19 +126,23 @@ Burn raw, clean **Boswellia sacra** (real frankincense resin) over charcoal, or 
 
 ---
 
-### 7. White Sage *(Salvia apiana)* — North America
-
-White sage is sacred to many Native American tribes, especially the Chumash and Lakota, who use it in ceremony — **not for decoration or TikTok trends**. Overharvesting and cultural appropriation have made it a symbol of spiritual disrespect. Use it only when truly necessary and when you are sure it was sourced ethically. 
-
-**Instead:** Try **juniper**, **mugwort**, **rosemary**, or **yarrow** — all used across Europe, the Balkans, and Central Asia for purification. 
-
----
-
-### 8. Essential Oils on Charcoal — Modern Western
+### 7. Essential Oils on Charcoal — Modern Western
 
 Pouring essential oils on charcoal is **not** ancient practice — it’s dangerous. Oils combust, producing harmful chemicals and sometimes igniting with flash fire.
 
 **Instead:** Simmer oils in water for ambient ritual steam, or anoint unscented candles instead of burning directly.
+
+---
+
+## Beyond Toxicity: Culturally Protected Herbs
+
+Some herbs aren't dangerous to your body — but burning them damages cultural boundaries.
+
+###  White Sage *(Salvia apiana)* — North America
+
+White sage is sacred to many Native American tribes, especially the Chumash and Lakota, who use it in ceremony — **not for decoration or TikTok trends**. Overharvesting and cultural appropriation have made it a symbol of spiritual disrespect. Use it only when truly necessary and when you are sure it was sourced ethically. 
+
+**Instead:** Try **juniper**, **mugwort**, **rosemary**, or **yarrow** — all used across Europe, the Balkans, and Central Asia for purification. 
 
 ---
 
