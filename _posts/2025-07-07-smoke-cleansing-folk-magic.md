@@ -173,7 +173,7 @@ Check out:
 
 - **[Herbs To Grow For Home Protection Magic](/witchy-plants-to-grow-indoors/)**
 - **[Ancient Herbal Healing Magic](/witchy-herbs-anxiety-grief-emotional-healing/)**
-- **[Herbs Used By Vlack Wise Women](/herbs-vlach-wise-women/)**
+- **[Herbs Used By Vlach Wise Women](/herbs-vlach-wise-women/)**
 - **[Folk Herbs For Fertility Magic](/top-fertility-herbs-witchcraft/)**
 
 ---
