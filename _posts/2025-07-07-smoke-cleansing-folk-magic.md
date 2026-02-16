@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "10 Ritual Herbs for Smoke Cleansing in Folk Magic"
+title: "11 Ritual Herbs for Smoke Cleansing in Folk Magic"
 excerpt: "Discover ancient, global smoke cleansing rituals beyond sage. Learn how witches, healers, and rootworkers worldwide used herbs to protect, banish, heal, and invite spirits."
 description: "A global guide to performing smoke cleansing rituals in folk magic. Explore safe herbs, traditional methods, and the purpose of ritual smoke across cultures."
 author: "Wild Witch Herbs"
@@ -140,6 +140,13 @@ Common garden sage, distinct from sacred White Sage (Salvia apiana). Used for pu
 A sharper cousin of mugwort, burned to **ward off disease** and **malicious spirits**. Especially potent in ancestral rituals or protection rites.
 
 **Folk Practice:** Hung and burned during Chinese Ghost Festival. In parts of the Balkans, tossed into ritual fires near cemeteries.
+
+---
+
+### 11. Yarrow (Achillea millefolium) — Eurasia, North America
+Bitter, protective smoke used for divination and boundary-setting. Found wild across temperate zones, easily cultivated in any garden. No harvesting pressure on wild populations.
+
+**Folk Practice:** In Scottish folk magic, yarrow was dried and burned before battle or legal proceedings for courage and clear sight. Chinese tradition used it for casting the I Ching.
 
 ---
 
