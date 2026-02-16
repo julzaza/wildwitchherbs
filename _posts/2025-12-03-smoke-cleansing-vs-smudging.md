@@ -7,6 +7,9 @@ description: "Learn the difference between smoke cleansing and smudging. Explore
 author: Wild Witch Herbs
 date: 2025-07-07
 
+
+image_mobile: /assets/images/heroes/smoke-cleansing-vs-smudging/800x1000pxcloseup-shot-flower-petals-burning-metal-bowl-ceremony.webp
+
 categories:
   - witchcraft-ritual
   - herbal-magic
