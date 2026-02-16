@@ -4,40 +4,36 @@ layout: default
 
 <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
 
-  {% comment %}
-  HERO IMAGE LOGIC:
-  - One <picture> element handles responsive images
-  - Mobile image is fallback
-  - Desktop images only used if available
-  - If no desktop image, desktop screen shows nothing
-  {% endcomment %}
+  {% assign has_desktop = page.image_desktop_1280 or page.image_desktop_1920 %}
 
-  {%- assign has_desktop = page.image_desktop_1280 or page.image_desktop_1920 -%}
+  {%- comment -%}
+  MOBILE HERO
+  Only shows visually on small screens
+  {%- endcomment -%}
+  {% if page.image_mobile %}
+    <div class="page__hero-full-bleed mobile-only-hero">
+      <img src="{{ page.image_mobile | relative_url }}"
+           alt="{{ page.image_alt | default: page.title }}"
+           loading="lazy">
+    </div>
+  {% endif %}
 
-  {% if page.image_mobile or has_desktop %}
-    <div class="page__hero-full-bleed">
+  {%- comment -%}
+  DESKTOP HERO
+  Only render if desktop images exist
+  {%- endcomment -%}
+  {% if has_desktop %}
+    <div class="page__hero-full-bleed desktop-only-hero">
       <picture>
-
-        {%- comment -%} Desktop / large screens only if images exist {%- endcomment -%}
         {% if page.image_desktop_1920 %}
           <source media="(min-width: 1280px)" srcset="{{ page.image_desktop_1920 | relative_url }}">
         {% endif %}
         {% if page.image_desktop_1280 %}
           <source media="(min-width: 768px)" srcset="{{ page.image_desktop_1280 | relative_url }}">
         {% endif %}
-
-        {%- comment -%} Fallback mobile image for small screens {%- endcomment -%}
-        {% if page.image_mobile %}
-          <img src="{{ page.image_mobile | relative_url }}"
-               alt="{{ page.image_alt | default: page.title }}"
-               loading="lazy">
-        {% elsif has_desktop %}
-          {%- comment -%} fallback to desktop image if mobile missing {%- endcomment -%}
-          <img src="{{ page.image_desktop_1280 | default: page.image_desktop_1920 | relative_url }}"
-               alt="{{ page.image_alt | default: page.title }}"
-               loading="lazy">
-        {% endif %}
-
+        <img src="{{ page.image_desktop_1280 | default: page.image_desktop_1920 | relative_url }}"
+             alt="{{ page.image_alt | default: page.title }}"
+             loading="lazy">
       </picture>
     </div>
   {% endif %}
