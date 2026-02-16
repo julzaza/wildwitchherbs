@@ -169,6 +169,16 @@ Overharvesting and cultural appropriation have made it a symbol of spiritual dis
 
 ---
 
+### Palo Santo *(Bursera graveolens)* — South America
+
+**Not toxic — but endangered and exploited.** "Holy wood" from the dry forests of Peru and Ecuador. Traditional use belongs to Indigenous healers who harvest only from naturally fallen trees after years of curing.
+
+Most commercial Palo Santo is illegally logged from living trees, stripped before maturity, and sold without community consent. Burning it without connection to its origin is environmental harm disguised as spirituality.
+
+**Instead:** Use **copal resin** (Mesoamerican, sustainably harvested) or **juniper** (Eurasian/North American, abundant).
+
+---
+
 ## Not All Herbs Are Meant for Fire
 
 In traditional cultures, **fire was not neutral**.  
