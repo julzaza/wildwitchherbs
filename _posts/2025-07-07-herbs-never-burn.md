@@ -75,11 +75,11 @@ In the old world, smoke was sacred. It fed the gods, carried prayers, veiled thr
 
 Let’s walk through a **global witch’s list** of herbs you should *not* burn in ritual — and what to do instead when you need their power without courting danger.
 
-For safe, powerful alternatives, check out a witch's guide to **[Herbs For Safe Ritual Smoke Clensing](/smoke-cleansing-folk-magic/#ritual-smoke-herbs-from-around-the-world)**.
+Don't know what to burn instead? Here's a complete guide to **[Safe Herbs For Ritual Smoke Clensing](/smoke-cleansing-folk-magic/#ritual-smoke-herbs-from-around-the-world)** — no ER visits required.
 
 ---
 
-## Stop Burning These 7 Herbs:
+## Stop Burning These 7 Toxic Herbs
 
 ### 1. Henbane *(Hyoscyamus niger)* — Greek, Slavic, Germanic
 
