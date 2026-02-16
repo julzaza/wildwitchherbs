@@ -192,7 +192,7 @@ Check out:
 ## Frequently Asked Questions On Ritual Smoke Cleansing:
 
 **Is smoke cleansing safe to do indoors?**  
-Yes, if done carefully. Always ventilate, use fire-safe containers, and avoid toxic or resin-heavy herbs in enclosed spaces.
+Yes, if done carefully. Always ventilate, use fire-safe containers, and avoid toxic or resin-heavy herbs in enclosed spaces. Never burn toxic plants (oleander, henbane) or essential oils on charcoal indoors. See **[Herbs Not Meant for Burning](/never-burn-herbs/)**.
 
 **Can I mix different herbs together?**  
 Traditionally, yes — but with intention. Combining herbs layers effects, but conflicting purposes (summoning + banishing) should be avoided.
@@ -200,17 +200,14 @@ Traditionally, yes — but with intention. Combining herbs layers effects, but c
 **How often should smoke cleansing be done?**  
 Only when needed. In folk traditions, smoke was used for thresholds, illness, conflict, or spiritual disturbance — not daily routine.
 
+**What's the difference between smoke cleansing and smudging?**  
+Smoke cleansing is a global practice using various herbs. Smudging specifically refers to Indigenous North American ceremonies using White Sage, cedar, or sweetgrass in traditional ways.
+
 **Does smoke cleansing attract spirits?**  
 It can. Some herbs invite, others repel. Know your intention before lighting anything.
 
 **What should I do with the ashes afterward?**  
 Bury them, scatter them at a crossroads, or return them to the earth as an offering.
 
-**What's the difference between smoke cleansing and smudging?**  
-Smoke cleansing is a global practice using various herbs. Smudging specifically refers to Indigenous North American ceremonies using White Sage, cedar, or sweetgrass in traditional ways.
-
 **Can I use kitchen herbs for smoke cleansing?**  
 Yes. Rosemary, sage (Salvia officinalis), thyme, and bay leaves from your kitchen have long histories in European folk magic. Just ensure they're fully dried and never use toxic ornamentals.
-
-**Is burning herbs indoors safe?**  
-Only with ventilation and proper herbs. Never burn toxic plants (oleander, henbane) or essential oils on charcoal indoors. See [Herbs Not Meant for Burning](/never-burn-herbs/).
