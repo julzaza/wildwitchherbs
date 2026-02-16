@@ -6,22 +6,22 @@ layout: default
 
   {%- comment -%}
   HERO IMAGE LOGIC
-  Show hero ONLY if at least one desktop image exists.
-  Prevents mobile image from displaying on desktop.
+  Desktop hero shows only if desktop images exist.
+  Mobile hero can still show on small screens.
   {%- endcomment -%}
 
-  {% if page.image_desktop_1280 or page.image_desktop_1920 %}
+  {% if page.image_mobile or page.image_desktop_1280 or page.image_desktop_1920 %}
     <div class="page__hero-full-bleed">
       <picture>
 
-        {%- comment -%} Large desktop (1280px and up) {%- endcomment -%}
+        {%- comment -%} 1920 Desktop {%- endcomment -%}
         {% if page.image_desktop_1920 %}
           <source
             media="(min-width: 1280px)"
             srcset="{{ page.image_desktop_1920 | relative_url }}">
         {% endif %}
 
-        {%- comment -%} Tablet / small desktop {%- endcomment -%}
+        {%- comment -%} 1280 Desktop / Tablet {%- endcomment -%}
         {% if page.image_desktop_1280 %}
           <source
             media="(min-width: 768px)"
@@ -29,34 +29,17 @@ layout: default
         {% endif %}
 
         {%- comment -%}
-        Mobile image ONLY loads on small screens.
-        Will NOT appear if desktop images missing.
+        Mobile image ONLY renders visually on small screens
+        CSS hides it on desktop if no desktop hero exists
         {%- endcomment -%}
         {% if page.image_mobile %}
           <img
             src="{{ page.image_mobile | relative_url }}"
             alt="{{ page.image_alt | default: page.title }}"
+            class="hero-mobile-only"
             loading="lazy">
         {% endif %}
 
       </picture>
     </div>
   {% endif %}
-
-  <!-- Title -->
-  {% if page.title %}
-    <div class="page__inner-wrap" style="padding-top: 1rem;">
-      <div class="page__hero-title-inner">
-        <h1 class="page__title">{{ page.title }}</h1>
-      </div>
-    </div>
-  {% endif %}
-
-  <!-- Post content -->
-  <div class="page__inner-wrap">
-    <section class="page__content" itemprop="text">
-      {{ content }}
-    </section>
-  </div>
-
-</article>
