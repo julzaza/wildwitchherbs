@@ -169,7 +169,8 @@
 }
 
 
-/* Hide mobile-only hero on tablet + desktop */
+
+/* mobile-only hero hidden on tablet/desktop */
 @media (min-width: 768px) {
   .mobile-only-hero {
     display: none !important;
