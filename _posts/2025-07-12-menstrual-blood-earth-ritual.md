@@ -16,6 +16,13 @@ tags:
   - folk witchcraft
   - ancestral magic
   - moon cycles
+
+image_mobile: /assets/images/heroes/menstrual-blood-earth-ritual/800x1000pxclose-up-wet-red-flower.webp
+image_desktop_1280: /assets/images/heroes/menstrual-blood-earth-ritual/1280x450pxclose-up-wet-red-flower.webp
+image_desktop_1920: /assets/images/heroes/menstrual-blood-earth-ritual/1920x640pxclose-up-wet-red-flower.webp
+image_alt: "red flower petals covered in water drops"
+
+
 faq:
   - question: "Is it safe to offer menstrual blood to the Earth?"
     answer: "Yes, when done with privacy and intention. Always use your own blood, avoid public spaces, and consider alternatives like a red-stained cloth or visualization if needed."
