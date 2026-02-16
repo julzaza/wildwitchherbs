@@ -17,6 +17,12 @@ tags:
   - ancestral rituals
   - dark herbal lore
 
+image_mobile: /assets/images/heroes/plants-to-break-love-bonds-folk-magic/800x1000pxstill-life-burnt-paper-with-carnation-flower.webp
+image_desktop_1280: /assets/images/heroes/plants-to-break-love-bonds-folk-magic/1280x450pxstill-life-burnt-paper-with-carnation-flower.webp
+image_desktop_1920: /assets/images/heroes/plants-to-break-love-bonds-folk-magic/1920x640pxstill-life-burnt-paper-with-carnation-flower.webp
+image_alt: "Two red flowers reflected in fragment of glass"
+
+
 meta_description: "Explore global folklore herbs used to break love, sever bonds, and end unwanted ties in traditional witchcraft and ancestral ritual."
 keywords:
   - herbs to break love
