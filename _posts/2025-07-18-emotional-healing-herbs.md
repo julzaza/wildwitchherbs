@@ -15,6 +15,12 @@ tags:
   - plant magic
   - ancestral healing
 
+image_mobile: /assets/images/heroes/witchy-herbs-anxiety-grief-emotional-healing/800x1000pxyoung-brunette-smelling-flowers.webp
+image_desktop_1280: /assets/images/heroes/witchy-herbs-anxiety-grief-emotional-healing/1280x450pxyoung-brunette-smelling-flowers.webp
+image_desktop_1920: /assets/images/heroes/witchy-herbs-anxiety-grief-emotional-healing/1920x640pxyoung-brunette-smelling-flowers.webp
+image_alt: "woman with dark hair holding some small white flowers with green petals in her hands"
+
+
 faq:
   - question: "Which herbs are best for emotional healing in witchcraft?"
     answer: "Lemon balm, St. John’s wort, mugwort, rose, hawthorn, calendula, valerian, skullcap, and chamomile are central emotional-healing herbs used in Old European and global witchcraft traditions."
