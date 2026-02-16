@@ -6,14 +6,28 @@ layout: default
 
   {% comment %}
   HERO IMAGE LOGIC:
-  - Desktop hero (≥768px) shows only if desktop image exists
-  - Mobile hero (<768px) shows only if mobile image exists
+  - Desktop hero shows only if desktop images exist AND screen is ≥768px
+  - Mobile hero shows only if mobile images exist AND screen is <768px
+  - Done with Liquid + <picture> fallback, no CSS hacks needed
   {% endcomment %}
 
   {%- assign has_desktop = page.image_desktop_1280 or page.image_desktop_1920 -%}
 
+  {% comment %}
+  Render mobile hero only if mobile image exists
+  {% endcomment %}
+  {% if page.image_mobile %}
+    <div class="page__hero-full-bleed mobile-only-hero">
+      <img src="{{ page.image_mobile | relative_url }}"
+           alt="{{ page.image_alt | default: page.title }}"
+           loading="lazy">
+    </div>
+  {% endif %}
+
+  {% comment %}
+  Render desktop hero only if desktop image exists
+  {% endcomment %}
   {% if has_desktop %}
-    <!-- Desktop / tablet hero -->
     <div class="page__hero-full-bleed desktop-only-hero">
       <picture>
         {% if page.image_desktop_1920 %}
@@ -26,15 +40,6 @@ layout: default
              alt="{{ page.image_alt | default: page.title }}"
              loading="lazy">
       </picture>
-    </div>
-  {% endif %}
-
-  {% if page.image_mobile %}
-    <!-- Mobile-only hero -->
-    <div class="page__hero-full-bleed mobile-only-hero">
-      <img src="{{ page.image_mobile | relative_url }}"
-           alt="{{ page.image_alt | default: page.title }}"
-           loading="lazy">
     </div>
   {% endif %}
 
