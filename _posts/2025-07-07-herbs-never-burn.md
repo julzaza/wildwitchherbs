@@ -254,10 +254,19 @@ These herbs hold power — and don’t poison the air:
 - **Frankincense (Boswellia sacra)** — Ritual elevation, divine contact, East African and Arabic roots.  
 - **Juniper** — Used in Alpine, Mongolian, and Sámi traditions for clearing and protection.  
 - **Bay Leaf** — Divinatory and defensive, used in Greek, Slavic, and Mediterranean rites.  
-- **Mugwort (Artemisia vulgaris)** — Dreaming, scrying, threshold crossing. Found across Eurasia.  
-- **Cedar** — North American Indigenous smoke medicine. Also used in Sumerian temples. *Use only if harvested sustainably.   
+- **Mugwort (Artemisia vulgaris)** — Dreaming, scrying, threshold crossing. Found across Eurasia.     
 - **Artemisia annua** — Revered in China for thousands of years, tied to spirits and healing.  
 - **Rosemary** — Universally protective, used in funerals, love spells, and exorcisms.
+- **Cedar** — North American Indigenous smoke medicine. Also used in Sumerian temples.  
+  *Choose Thuja occidentalis (Eastern White Cedar) or Juniperus virginiana (Eastern Red Cedar) — both are abundant and sustainably harvested. Avoid Western Red Cedar (Thuja plicata) which faces overharvesting pressure.*
+
+### **A Note on Sustainable Harvesting:**
+Even "safe" herbs become harmful when stripped from endangered populations. 
+Choose:
+- **Cultivated over wild-harvested** (lavender, rosemary, sage grown in gardens)
+- **Abundant natives** (juniper, mugwort, yarrow in most regions)
+- **Your own backyard** (pine, cedar, spruce from your property)
+- **Certified ethical sources** (FairWild, United Plant Savers guidelines)
 
 Here is a detailed guide on **[How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)**.
   
