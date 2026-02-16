@@ -67,9 +67,11 @@ faq:
 ---
 ## Not All Herbs Are Meant for Fire
 
+A witch in Oregon **ended up in the ER after burning henbane** for a full moon ritual. **She thought "natural" meant "safe." It doesn't.**
+
 In the old world, smoke was sacred. It fed the gods, carried prayers, veiled thresholds. But not every herb was offered to flame.
 
-Some were too poisonous. Others, too holy to be desecrated by burning. And a few — if ignited — were said to open doors that were better left shut.
+**Some were too poisonous.** Others, too holy to be desecrated by burning. And a few — if ignited — were said to open doors that were better left shut.
 
 Let’s walk through a **global witch’s list** of herbs you should *not* burn in ritual — and what to do instead when you need their power without courting danger.
 
