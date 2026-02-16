@@ -60,9 +60,12 @@ Avoid dangerous and sometimes deadly mistakes when working with smoke: make sure
 
 ## Contents
 1. [Why Smoke Matters in Folk Magic](#the-function-of-smoke-in-magic)
-2. [11 Traditional Herbs for Ritual Smoke](#traditional-smoke-cleansing-herbs-from-around-the-world)
-3. [How to Perform the Ritual](#how-to-perform-a-smoke-cleansing-ritual)
-4. [FAQ](#frequently-asked-questions-on-ritual-smoke-cleansing)
+2. [11 Safe Herbs for Ritual Smoke](#traditional-smoke-cleansing-herbs-from-around-the-world)
+3. [Sourcing Herbs Responsibly](#sourcing-herbs-responsibly)
+4. [How to Perform the Ritual](#how-to-perform-a-smoke-cleansing-ritual)
+5. [FAQ](#frequently-asked-questions-on-ritual-smoke-cleansing)
+
+**Jump to herb:** [Myrrh](#1-myrrh-commiphora-spp--africa--middle-east) • [Juniper](#2-juniper-juniperus-spp--balkans--northern-europe) • [Pine](#3-pine-pinus-spp--global-north) • [Copal](#4-copal-protium-spp--mesoamerica) • [Rosemary](#5-rosemary-rosmarinus-officinalis--mediterranean) • [Mugwort](#6-artemisia-vulgaris-mugwort--slavic--european-traditions) • [Frankincense](#7-boswellia-sacra-frankincense--north-africa-arabia) • [Dragon's Blood](#8-dragons-blood-daemonorops-draco--indonesia) • [Garden Sage](#9-garden-sage-salvia-officinalis--mediterranean) • [Artemisia annua](#10-artemisia-annua--china-balkans) • [Yarrow](#11-yarrow-achillea-millefolium--eurasia-north-america)
 
 ---
 
