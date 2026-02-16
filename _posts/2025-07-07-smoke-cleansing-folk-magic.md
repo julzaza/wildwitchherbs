@@ -75,41 +75,59 @@ Dark, thick resin used in **mourning rituals**, **death work**, and **binding ce
 **Folk Practice:** Used in combination with frankincense in Egyptian embalming and funerary rites to anchor the soul for transition.
 
 ---
+
 ### 2. Juniper (Juniperus spp.) — Balkans & Northern Europe  
 Spicy, sharp, and powerful. Burned in rural Balkan homes to **banish illness**, **curse energy**, or even unwanted spirits.
 
 **Folk Practice:** In Montenegro and northern Albania, entire rooms were fumigated with juniper during funerals or illness outbreaks.
 
 ---
-### 3. Rosemary (Rosmarinus officinalis) — Mediterranean
+
+### 3. Pine (Pinus spp.) — Global North
+Bright, cleansing smoke from abundant evergreen needles. Used across Europe, North America, and Asia for purification and protection. No sustainability concerns — harvest fallen branches only.
+
+**Folk Practice:** In Russian folk magic, young pine needles were burned on New Year's Eve to "smoke out" old spirits. In Appalachian tradition, pine knots fueled cleansing fires after illness.
+
+---
+
+### 4. Copal (Protium spp.) — Mesoamerica
+Golden, citrus-sweet resin from the torchwood tree. Used by Maya and Nahua peoples for purification, protection, and offering since pre-Columbian times. Today central to Mexican **Día de los Muertos** ofrendas.
+
+**Sourcing Note:** Choose **Mexican community-sourced copal** (often sold as "Santo Domingo" or "Chiapas" copal) rather than mass-produced "blends." This supports traditional harvesters rather than industrial exporters.
+
+**Folk Practice:** Burned on charcoal during ofrenda preparation; the smoke creates a path for ancestral spirits to return. In Maya ritual, offered at crossroads to clear heavy energy.
+
+---
+
+### 5. Rosemary (Rosmarinus officinalis) — Mediterranean
 Sharp, clean smoke for protection, memory, and clarity. Used in funerals, weddings, and exorcisms across Europe. Easily cultivated, no wild harvesting needed.
 
 **Folk Practice:** Burned in Greek Orthodox churches and by Spanish curanderas to ward off evil spirits and cleanse the sick.
 
 ---
 
-### 4. Artemisia vulgaris (Mugwort) — Slavic & European Traditions  
+### 6. Artemisia vulgaris (Mugwort) — Slavic & European Traditions  
 Burned to **open dream gates** and guide between the worlds. Used after childbirth, near graves, or at midsummer for protection.
 
 **Folk Practice:** Slavic women would burn mugwort near cradles or braid it into garlands to hang over doors on Ivan Kupala night.
 
 ---
 
-### 5. Boswellia sacra (Frankincense) — North Africa, Arabia  
+### 7. Boswellia sacra (Frankincense) — North Africa, Arabia  
 Used to **summon spirits**, carry prayers, and clear deep spiritual residue. High, bright, and temple-like.
 
 **Folk Practice:** Burned in Somali postpartum rituals and Egyptian offerings to the gods. A clean-burning resin for sacred clarity.
 
 ---
 
-### 6. Sage (Salvia officinalis) — Mediterranean, NOT White Sage
+### 8. Sage (Salvia officinalis) — Mediterranean, NOT White Sage
 Common garden sage, distinct from sacred White Sage (Salvia apiana). Used for purification and wisdom in European folk magic. Grows easily in gardens.
 
 **Folk Practice:** Bundled and dried in English cottage witchcraft for "smoking out" illness and bad luck from the home.
 
 ---
 
-### 7. Artemisia annua — China, Balkans  
+### 9. Artemisia annua — China, Balkans  
 A sharper cousin of mugwort, burned to **ward off disease** and **malicious spirits**. Especially potent in ancestral rituals or protection rites.
 
 **Folk Practice:** Hung and burned during Chinese Ghost Festival. In parts of the Balkans, tossed into ritual fires near cemeteries.
