@@ -218,13 +218,13 @@ No. Though closely related, they serve different roles in folklore. Wormwood (*A
 **Was wormwood used for dreaming or visions?**  
 
 Yes. European folk practice used wormwood—often alongside mugwort—for **prophetic or diagnostic dreaming**, especially around themes of death, fate, and ancestral messages. It was placed under pillows, hung near beds, or used as smoke rather than casually consumed.  
-Related reading: [Wormwood & Lucid Dreaming](https://wildwitchherbs.com/wormwood-lucid-dreaming/)
+Related reading: **[Wormwood & Lucid Dreaming](https://wildwitchherbs.com/wormwood-lucid-dreaming/)**.
 
 **What about Artemisia annua — does it belong in this tradition?**  
 
 Yes, but differently. *Artemisia annua* (sweet wormwood) appears more often in **purification, fever-clearing, and corruption-removal traditions**, especially in Eurasian and Chinese contexts. It is less about death symbolism and more about **clearing what festers after war or illness**.
 
-Learn more about its benefits, folklore and safety here: **[Sweet Wormwood or Qinghao Tea](/artemisia-annua-tea-benefits/)**
+Learn more about its benefits, folklore and safety here: **[Sweet Wormwood or Qinghao Tea](/artemisia-annua-tea-benefits/)**.
 
 **Is wormwood safe to use?**  
 
