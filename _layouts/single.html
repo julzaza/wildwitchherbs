@@ -61,7 +61,7 @@ layout: default
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-    {% for item in page.faq %}
+    {% for item in page.faq -%}
     {
       "@type": "Question",
       "name": {{ item.question | jsonify }},
@@ -70,9 +70,11 @@ layout: default
         "text": {{ item.answer | jsonify }}
       }
     }{% unless forloop.last %},{% endunless %}
-    {% endfor %}
+    {%- endfor %}
   ]
 }
 </script>
 {% endif %}
+
+
 
