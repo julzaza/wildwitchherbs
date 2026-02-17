@@ -17,12 +17,6 @@ tags:
   - ancestral rituals
   - dark herbal lore
 
-image_mobile: /assets/images/heroes/plants-to-break-love-bonds-folk-magic/800x1000pxstill-life-burnt-paper-with-carnation-flower.webp
-image_desktop_1280: /assets/images/heroes/plants-to-break-love-bonds-folk-magic/1280x450pxstill-life-burnt-paper-with-carnation-flower.webp
-image_desktop_1920: /assets/images/heroes/plants-to-break-love-bonds-folk-magic/1920x640pxstill-life-burnt-paper-with-carnation-flower.webp
-image_alt: "Two red flowers reflected in fragment of glass"
-
-
 meta_description: "Explore global folklore herbs used to break love, sever bonds, and end unwanted ties in traditional witchcraft and ancestral ritual."
 keywords:
   - herbs to break love
@@ -32,7 +26,7 @@ keywords:
   - dark witchcraft herbs
 
 permalink: /plants-to-break-love-bonds-folk-magic/
-date: 2026-02-01
+
 faq:
   - question: "What is separation or love-breaking magic in folk traditions?"
     answer: "Separation or love-breaking magic focused on ending harmful, obsessive, or unbalanced relationships through symbolic, ritual, and plant-based practices, aiming to dissolve attachment rather than harm."
