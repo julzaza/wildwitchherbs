@@ -15,7 +15,7 @@ tags:
   - death rites
   - european witchcraft
   - bitter herbs
-  - 
+
 faq:
   - question: "Why is wormwood associated with war and death?"
     answer: "In European folk tradition, wormwood (*Artemisia absinthium*) grew on disturbed land such as battlefields, roads, and graves. Its extreme bitterness became a symbol of grief, endurance, and the harsh truths revealed through suffering."
