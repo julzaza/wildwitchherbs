@@ -15,7 +15,7 @@ tags:
   - Slavic folklore
 faq:
   - question: "What herbs were traditionally used in Balkan folk magic?"
-    answer: "Balkan folk magic used herbs such as wormwood, mugwort, rue, garlic, basil, elder, yarrow, St. John’s wort, nettle, and thyme, each tied to specific regions, seasons, and ritual purposes."
+    answer: "Balkan folk magic used herbs such as wormwood, mugwort, rue, garlic, basil, elder, yarrow, St. John’s wort, nettle, thyme and sacred trees like oak, each tied to specific regions, seasons, and ritual purposes."
 
   - question: "How is Balkan herbal magic different from modern witchcraft?"
     answer: "Balkan herbal magic is rooted in village life, survival medicine, and seasonal ritual. It emphasizes restraint, timing, and local ecology rather than symbolic correspondences or aesthetic practices."
