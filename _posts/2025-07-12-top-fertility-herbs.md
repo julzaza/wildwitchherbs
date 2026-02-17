@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Top 9 Fertility Herbs in Witchcraft"
-permalink: /top-fertility-herbs-witchcraft
+permalink: /top-fertility-herbs-witchcraft/
 excerpt: "A folklore-rich guide to the most powerful fertility herbs in witchcraft, folk medicine, and ancestral practice — plants used to prepare the womb, awaken blood, and invite conception across cultures."
 description: "Explore the top fertility herbs in witchcraft and folklore, including raspberry leaf, chasteberry, red clover, mugwort, and black cohosh. Learn how these plants were traditionally used for conception, womb preparation, hormonal balance, and ritual fertility magic."
 categories:
