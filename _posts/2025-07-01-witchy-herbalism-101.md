@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Witchy Herbalism 101: Real Plants, Real Magic, No B.S."
 date: 2025-07-01
 categories: [herbal-magic, witchcraft-ritual]
@@ -100,9 +101,9 @@ So keep a journal. Write what you feel. Be honest. Magic is messy and personal.
 
 ## Make The First Step:
 
-Learn [How to Make Moon Water and Use It in Magic](/moon-water-magic), it is a great way to begin your witchy journey.  
+Learn **[How to Make Moon Water and Use It in Magic](/moon-water-magic/)**, it is a great way to begin your witchy journey.  
 
-Can also [Start Your Own Witchy Garden](/witch-garden/) if getting your hands dirty doesn't scare you. And let's be honest - real witchcraft can get a bit messy...
+Can also **[Start Your Own Witchy Garden](/witch-garden/)** if getting your hands dirty doesn't scare you. And let's be honest - real witchcraft can get a bit messy...
 
 ---
 
