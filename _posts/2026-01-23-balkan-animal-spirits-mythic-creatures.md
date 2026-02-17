@@ -158,7 +158,7 @@ Modern witches can still honor these practices. Observing animal behavior, offer
 
 ---
 
-## Herbs in Balkan Animal Lore Context
+## Trees and Herbs in Balkan Lore Context
 
 Balkan witches often paired **animal spirit work with herbal magic**:
 
@@ -168,6 +168,10 @@ Balkan witches often paired **animal spirit work with herbal magic**:
 - **St. John’s Wort (Hypericum perforatum):** Bridges communication with ancestral and natural spirits.  
 
 Ethnographic records show these herbs appearing alongside animal-related beliefs, especially in periods of heightened spiritual sensitivity.  
+
+**Sacred oaks — known as zapis** — are highly respected living guardians, marking village boundaries, witnessing oaths, and enduring through centuries of change. 
+
+These remarkable trees were more than landmarks; they were active participants in folk religion, connecting the community to both ancestors and the divine. You can explore these traditions further in **[The Balkan Oak Tree Cult](/balkan-oak-tree-cult/)**.
 
 ---
 
