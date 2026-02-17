@@ -54,7 +54,7 @@ Some herbs were grown behind monasteries. Some in courtyards with bones. Some tu
 
 This post isn’t for collecting “aesthetic” plants. It’s for those who want to grow herbs with memory — plants that held ground through war, exile, colonization, and silence.
 
-Some plants were grown specifically for descent, protection, and working with the darker layers of experience — a tradition explored further in **[Herbs for a Shadow Work Garden](/herbs-shadow-work-garden/)**.
+Some plants were grown specifically for descent into the deeper layers of the self, protection, and working with the darker layers of experience — a tradition explored further in **[Herbs for a Shadow Work Garden](/herbs-shadow-work-garden/)**.
 
 ---
 
@@ -71,7 +71,7 @@ The answer depends on *who you ask*. That’s the first truth. What’s sacred i
 
 ## 10 Culturally Rooted Witchy Herbs
 
-These herbs got stories to tell. They go way back. 
+These herbs carry long cultural memory. Their use stretches back centuries.
 
 ---
 
@@ -102,17 +102,17 @@ In the Balkans, wild Artemisia is still used to “smoke out” sickness or stuc
 
 #### Seeds With a Story
 
-On a recent trip through the southern Balkans, we met a family producing some of the finest Artemisia annua tea and tincture we’ve ever encountered — wild-grown, sun-fed, and brimming with life. And they had some extra seeds!
+We recently sourced a small batch of heirloom Artemisia annua tea and seeds from traditional growers in the southern Balkans — wild-grown and strong.
 
-So now you can grow this legendary plant for yourself. 
+If you’re called to cultivate this plant yourself, you can find them here:
 
-**[Order Heirloom Artemisia Annua Seeds](/shop/#artemisia-annua-seeds--5/)** while supplies last — this is a limited harvest, and once they’re gone, they’re gone. 
+**[Order Heirloom Artemisia Annua Seeds](/shop/#artemisia-annua-seeds--5/)** 
+
+Limited harvest, once gone, gone.
+
+If you’re ready to plant your own story, you might want some of these.
 
 **[Sweet Wormwood Tea and Tincture](/shop/#dried-artemisia-annua-tea--14)** also available in limited supply. 
-
-These seeds aren’t mass-produced. They’re wild and strong.
-
-If you’re ready to plant your own story, you’ll want some of these.
 
 And don't forget to check out: **[Sweet Wormwood or Qinghao Tea Benefits](/artemisia-annua-tea-benefits/)**. 
 
