@@ -50,7 +50,7 @@ faq:
 
 ---
 
-Some herbs were grown behind monasteries. Some in courtyards with bones. Some tucked behind wooden huts where midwives hid from the bishop’s men. **A witch’s garden is a living piece of culture, resistance, medicine, and magic.**
+Some herbs were grown behind monasteries. Some in courtyards with bones. Some tucked behind wooden huts where midwives practiced quietly under church scrutiny. **A witch’s garden is a living piece of culture, resistance, medicine, and magic.**
 
 This post isn’t for collecting “aesthetic” plants. It’s for those who want to grow herbs with memory — plants that held ground through war, exile, colonization, and silence.
 
