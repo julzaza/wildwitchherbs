@@ -217,13 +217,6 @@ No invocation. No spectacle. Just recognition that balance is temporary and requ
 
 ---
 
-## Related Reading
-
-- [Spring Equinox Foraging: Folklore of Early Plants](/spring-equinox-foraging-folklore/) — practical restraint applied to first harvests
-- [Balkan Spring Herbal Rites](/balkan-spring-herbal-rites/) — regional depth on plant, water, and tree traditions
-
----
-
 ## FAQ: Spring Equinox in Global Folklore
 
 **Was the equinox celebrated historically?**
