@@ -169,7 +169,7 @@ In protective folklore, vitality itself was a defense.
 
 A living tree repelled deathly forces.
 
-This belief appears repeatedly in Highland and Norse planting traditions. *(See also: [Protective Trees in Folk Magic](/protective-trees-folk-magic))*  
+This belief appears repeatedly in Highland and Norse planting traditions. 
 
 ---
 
@@ -205,7 +205,7 @@ A widely recorded folk charm states:
 
 Meaning harmful forces would be driven away swiftly.
 
-Red thread bindings and rowan crosses were especially common in Scottish cattle protection rites. *(Related: [Folk Charms for Home Protection](/folk-charms-home-protection))*  
+Red thread bindings and rowan crosses were especially common in Scottish cattle protection rites. 
 
 ---
 
@@ -224,7 +224,7 @@ Because rowan repelled enchantment, tools made from it were considered magically
 
 In Celtic tradition, rowan was sometimes called the **Wizard’s Tree** (*fid na ndruad* — “wood of the druids”), reinforcing its role as a conduit between practitioner and unseen forces.
 
-Rowan rods appear in both Irish and Scandinavian cunning-craft practices. *(See: [Traditional Wand Woods in Witchcraft](/wand-woods-witchcraft))*  
+Rowan rods appear in both Irish and Scandinavian cunning-craft practices. 
 
 ---
 
