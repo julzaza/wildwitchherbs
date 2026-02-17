@@ -122,7 +122,7 @@ Its roles:
 
 **Reconstructing the charm:** Bake a round loaf. Before scoring, whisper your household’s name. Mark the bread. Feed a piece to the fire, a piece to yourself, and a piece to the earth.
 
-See also: **[How Witches Used Evergreen Trees Before Christmas Existed](/evergreens-witchcraft)** for using evergreen boughs as additional protection alongside bread charms.
+See also: **[How Witches Used Evergreen Trees Before Christmas Existed](/evergreens-witchcraft/)** for using evergreen boughs as additional protection alongside bread charms.
 
 ---
 
@@ -138,21 +138,21 @@ Through bread, honey, seeds, and smoke, the household tied itself to life, warmt
 
 - **[Why Laundry Was Forbidden During Yule](/yule-laundry-folklore/)** — for household taboos, spirit avoidance, and domestic protection during liminal winter nights.  
 
-- **[Old European Yule Rituals](/oldest-yule-rituals)** — for protective rites, ancestral offerings, and pre-Christian solstice observances.  
+- **[Old European Yule Rituals](/oldest-yule-rituals/)** — for protective rites, ancestral offerings, and pre-Christian solstice observances.  
 
-- **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft)** — for the wider solstice framework, seasonal magic, and traditional winter rites across Europe.  
+- **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)** — for the wider solstice framework, seasonal magic, and traditional winter rites across Europe.  
 
-- **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood)** — for dream-work, night magic, and visionary herbs traditionally used during the darkest nights of the year.
+- **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)** — for dream-work, night magic, and visionary herbs traditionally used during the darkest nights of the year.
 
-- **[Evergreen Magic Before Christmas](/evergreens-witchcraft)** — for pine, fir, holly, and evergreen lore used to guard the home through winter.  
+- **[Evergreen Magic Before Christmas](/evergreens-witchcraft/)** — for pine, fir, holly, and evergreen lore used to guard the home through winter.  
 
 - **[The Dying Sun: Pagan Winter Kings](/dying-sun-winter-kings/)** — for sacrificial kings, dying gods, and the mythic death of the sun at midwinter.  
 
 - **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)** — for home-based protection charms, bottle spells, and folk defensive magic at the solstice.  
 
-- **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)** — for spectral riders, roaming spirits, and the dangers believed to stalk the winter sky.  
+- **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt/)** — for spectral riders, roaming spirits, and the dangers believed to stalk the winter sky.  
 
-- **[The Twelve Nights](/twelve-nights-witchcraft)** — for spirit-walking, ancestral visitations, and the sacred liminal period between the old year and the new.  
+- **[The Twelve Nights](/twelve-nights-witchcraft/)** — for spirit-walking, ancestral visitations, and the sacred liminal period between the old year and the new.  
 
 ---
 
