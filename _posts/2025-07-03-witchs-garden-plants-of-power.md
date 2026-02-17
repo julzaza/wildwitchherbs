@@ -239,11 +239,13 @@ In fact, **[Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)** wi
 
 ## Traditional Witch Garden Plants by Region and Use
 
-Folk traditions across cultures did not choose plants randomly. Witch gardens were shaped by **region, climate, and lived necessity**, not aesthetics. Certain herbs appear again and again in traditional gardens because they addressed the most common threats: illness, spiritual contamination, exhaustion, and grief.
+Folk traditions across cultures **did not choose plants randomly**. Witch gardens were shaped by **region, climate, and lived necessity**, not aesthetics. 
 
-The table below maps specific plants to their regions and roles. **Traditional witch gardens were not planted randomly.** 
+Certain herbs appear again and again in traditional gardens because they addressed the most common threats: illness, spiritual contamination, exhaustion, and grief.
 
-Placement mattered — certain herbs guarded thresholds, others anchored ritual space, while some were deliberately hidden due to their potency.
+The table below maps specific plants to their regions and roles.
+
+Placement also mattered — certain herbs guarded thresholds, others anchored ritual space, while **some were deliberately hidden due to their potency**.
 
 
 | Plant                             | Traditional Region                    | Folklore Role                                       | Garden Placement / Function                                |
