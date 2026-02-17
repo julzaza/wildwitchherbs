@@ -33,9 +33,9 @@ faq:
 
 ---
 
-**[Yule](/oldest-yule-rituals)** was never a tidy holiday.
+**[Yule](/oldest-yule-rituals/)** was never a tidy holiday.
 
-In much of Europe, **washing clothes during the [Twelve Nights](/twelve-nights-witchcraft)—the liminal days of Yule— was forbidden**, sometimes violently so.
+In much of Europe, **washing clothes during the [Twelve Nights](/twelve-nights-witchcraft/)—the liminal days of Yule— was forbidden**, sometimes violently so.
 
 Sheets left outside could summon death.  
 Wet linen could invite spirits.  
@@ -73,7 +73,7 @@ Households found guilty of laundry risked:
 - Illness
 - A death before spring
 
-These beliefs mirror Balkan spirit fears explored in **[Vlach Magic of Negotin, Serbia](/vlach-magic-negotin/)**.
+These beliefs mirror Balkan spirit fears explored in **[Vlach Magic of Negotin, Serbia](/vlach-magic-negotin-serbia/)**.
 
 ---
 
@@ -121,11 +121,11 @@ The house itself became a shrine.
 - **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**
 - **[The Dying Sun: Pegan Winter Kings](/dying-sun-winter-kings/)**
 - **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
-- **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
-- **[The Twelve Nights](/twelve-nights-witchcraft)**  
-- **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**
+- **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt/)**  
+- **[The Twelve Nights](/twelve-nights-witchcraft/)**  
+- **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood/)**
 - **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**
-- **[Evergreen Magic Before Christmas](/evergreens-witchcraft)**
+- **[Evergreen Magic Before Christmas](/evergreens-witchcraft/)**
 
 ---
 
