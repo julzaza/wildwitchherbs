@@ -17,19 +17,6 @@ tags:
   - ancestral magic
   - moon cycles
 
-{% if page.faq %}
-  <div style="background:#fee;border:1px solid #f00;padding:1rem;margin:1rem 0;">
-    <h2>FAQ Debug</h2>
-    {% for item in page.faq %}
-      {% unless item.question and item.answer %}
-        <p>Invalid FAQ detected: {{ item | jsonify }}</p>
-      {% endunless %}
-    {% endfor %}
-  </div>
-{% endif %}
-
-
-
 faq:
   - question: "Is it safe to offer menstrual blood to the Earth?"
     answer: "Yes, when done with privacy and intention. Always use your own blood, avoid public spaces, and consider alternatives like a red-stained cloth or visualization if needed."
