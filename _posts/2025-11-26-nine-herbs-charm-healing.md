@@ -2,7 +2,7 @@
 layout: single
 title: "The Nine Herbs Charm: Anglo-Saxon Healing & Magic"
 date: 2025-11-30
-permalink: /nine-herbs-charm-healing-anglo-saxon/
+permalink: /nine-herbs-charm-anglo-saxon/
 excerpt: "Explore the Nine Herbs Charm, a 10th-century Anglo-Saxon spell using nine sacred herbs and divine invocation for protection, healing, and ritual magic."
 description: "Discover the Nine Herbs Charm, an ancient Anglo-Saxon spell invoking Woden and nine sacred herbs for protection, healing, and magical empowerment. Learn its pagan roots, historical context, and modern herbal applications."
 categories: [herbal-magic, folklore-ancestral]
