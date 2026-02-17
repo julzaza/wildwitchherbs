@@ -181,7 +181,7 @@ Root powder is given to those recovering from illness or spiritual depletion. Al
 
 ---
 
-## The Trees That Hold the Garden’s Spine
+## Trees That Hold the Garden’s Spine
 
 Herbs form the living skin of a witch’s garden — fragrant, shifting, seasonal.
 
@@ -193,9 +193,7 @@ Deeper in the land, oak trees anchored the spiritual authority of the space itse
 
 **Where rowan watched who approached, oak governed what was sworn beneath its branches.**
 
-If you want your garden to echo older land-based traditions rather than modern aesthetic witchcraft, these arboreal guardians form the outer and inner pillars of protection.
-
-You can explore their deeper folklore here:
+If you want your garden to echo older land-based traditions rather than modern aesthetic witchcraft, you can explore their deeper folklore here:
 
 - **[Rowan Trees by the Door: Old European Folklore](/rowan-trees-front-door-old-world-folklore/)**
 - **[The Balkan Oak Tree Cult](/balkan-oak-tree-cult/)**
