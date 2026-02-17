@@ -241,21 +241,9 @@ In fact, **[Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)** wi
 
 Folk traditions across cultures did not choose plants randomly. Witch gardens were shaped by **region, climate, and lived necessity**, not aesthetics. Certain herbs appear again and again in traditional gardens because they addressed the most common threats: illness, spiritual contamination, exhaustion, and grief.
 
-The table below maps **specific plants to their traditional regions and roles**, reflecting how real people used what grew around them — not what modern trends later popularized.
+The table below maps specific plants to their regions and roles. **Traditional witch gardens were not planted randomly.** 
 
-
-
-| Plant | Traditional Region | Folklore Role |
-|------|-------------------|---------------|
-| Artemisia absinthium (Wormwood) | Europe, Balkans, Western Asia | Protection, purification, boundary magic, endurance |
-| Artemisia vulgaris (Mugwort) | Europe, East Asia | Dreamwork, travel protection, spiritual sight |
-| Artemisia annua (Sweet Wormwood) | China, Central Asia | Fever clearing, purification, post-illness recovery |
-| Ruta graveolens (Rue) | Mediterranean, Balkans, Latin America | Curse breaking, evil eye protection |
-| Achillea millefolium (Yarrow) | Europe, Northern Asia | Wound healing, divination, battle protection |
-| Cymbopogon citratus (Lemongrass) | Africa, Caribbean, South Asia | Spiritual cleansing, space purification |
-| Ocimum tenuiflorum (Tulsi) | India | Sacred protection, household blessing |
-| Mandragora officinarum (Mandrake) | Mediterranean, Near East | Fertility magic, trance, protection |
-| Azadirachta indica (Neem) | South Asia | Disease warding, spiritual cleansing |
+Placement mattered — certain herbs guarded thresholds, others anchored ritual space, while some were deliberately hidden due to their potency.
 
 
 | Plant                             | Traditional Region                    | Folklore Role                                       | Garden Placement / Function                                |
