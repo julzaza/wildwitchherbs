@@ -6,7 +6,9 @@ excerpt: "Discover the Vlach firewalking ritual of Eastern Serbia on St. John’
 description: "Explore the ancient firewalking ritual of Eastern Serbia's Vlach communities, known as pali hod. Learn about its pagan roots, St. John’s overlay, protective wormwood charms, and healing practices with fire and ashes."
 categories: [witchcraft-ritual, folklore-ancestral]
 tags: [firewalking, Vlach magic]
-author_profile: false
+
+redirect_from: /vlach-firewalkers-st-john-baptist/
+
 search: false
 audience: "Folklore enthusiasts, herbalists, witches, travelers interested in traditional rituals"
 language: "en"
