@@ -5,7 +5,7 @@ description: "An exploration of Europe's pre-Christian magical traditions, from 
 excerpt: "A folklore-rich journey into Europe's ancient magic, examining rituals, spirits, and seasonal cycles of witchcraft."
 categories: [folklore-ancestral, witchcraft-ritual]
 tags: [european folk magic, ancestral magic, pre-christian rituals, seasonal witchcraft, old world witchcraft]
-permalink: /pre-christian-europe-magic
+permalink: /pre-christian-europe-magic/
 
 faq:
   - question: "What was the worldview of pre-Christian Europe?"
@@ -38,7 +38,7 @@ Before churches cast their shadows across the continent, Europe was a landscape 
 
 This is the Europe beneath the Europe we know. A place where the borders between humans, spirits, animals, and ancestors were porous, negotiable, and often gleefully crossed.
 
-If you'd like to know why the old magic persisted under Christianity, see **[Why Witches Survived Christianization in the Balkans](/balkan-witches)**.
+If you'd like to know why the old magic persisted under Christianity, see **[Why Witches Survived Christianization in the Balkans](/balkan-witches/)**.
 
 This is an attempt to trace the bones of that world: the rites, the spirits, the witches, and the ways of working that shaped the continent long before Christianization swept across it. It explores what Old European magic actually looked like, how people practiced it, and why so much of it survived for the last two thousand years.
 
@@ -115,13 +115,13 @@ Rites included:
 - burning of protective fires  
 - offerings to field spirits for fertility  
 - winter protections against the Wild Hunt  
-- midsummer herb gathering and water rites (still echoed in **[St. John’s Wort Sun Water](/st-johns-wort-sun-water)**)  
+- midsummer herb gathering and water rites (still echoed in **[St. John’s Wort Sun Water](/st-johns-wort-sun-water/)**)  
 - ancestor feasts at autumn’s darkening  
 
 Many of these later became “folk customs” under Christianity.
 
 ### Charms and Spells  
-Old European magic relied on spoken formulas, a tradition most visible in survivals like the **[Nine Herbs Charm](/nine-herbs-charm-healing)**.
+Old European magic relied on spoken formulas, a tradition most visible in survivals like the **[Nine Herbs Charm](/nine-herbs-charm-healing/)**.
 
 - rhythmic incantations  
 - sung charms  
@@ -144,10 +144,10 @@ Gathering herbs was ritualized:
 - often done barefoot  
 - offerings always left in return
 
-Learn more about the **[Old European Witch's Garden: Plants of Power](/witch-garden)**.
+Learn more about the **[Old European Witch's Garden: Plants of Power](/witch-garden/)**.
 
 ### Blood, Bone, and Soil  
-Before Christianity, offerings of blood—menstrual, animal, or symbolic—were common. Their sacred role in Old Europe is examined deeply in **[The Old Magic of Menstrual Blood Offerings](/menstrual-blood-earth-ritual)**.
+Before Christianity, offerings of blood—menstrual, animal, or symbolic—were common. Their sacred role in Old Europe is examined deeply in **[The Old Magic of Menstrual Blood Offerings](/menstrual-blood-earth-ritual/)**.
 
 Bones were repositories of power. Soil was a living archive. 
 
@@ -182,12 +182,12 @@ By the late medieval period, the old magical workers were cast as servants of th
 Despite everything, much survived through:
 
 - folk healing  
-- seasonal festivals like Summer and **[Winter Solstice Witchcraft](/winter-solstice-witchcraft)**
+- seasonal festivals like Summer and **[Winter Solstice Witchcraft](/winter-solstice-witchcraft/)**
 - midwives  
 - herbal magic  
 - protective rites  
 - whispered charms  
-- house and land offerings hidden beneath Christian prayers, like **[The Evergreen Witchcraft](/evergreens-witchcraft)** which was practiced in Old Europe way before Christmas even existed.
+- house and land offerings hidden beneath Christian prayers, like **[The Evergreen Witchcraft](/evergreens-witchcraft/)** which was practiced in Old Europe way before Christmas even existed.
 
 Europe never truly lost its magic.  
 It simply hid it.
@@ -202,7 +202,7 @@ Traces remain everywhere:
 - Saint John’s Wort solar rites  
 - Christmas greenery and the Wild Hunt myths  
 - harvest offerings  
-- protective witch bottles, like **[The Witch’s Winter Bottle](/witchy-winter-solstice-bottle)** 
+- protective witch bottles, like **[The Witch’s Winter Bottle](/witchy-winter-solstice-bottle/)** 
 - Rowan cross charms  
 - house spirit appeasement hidden in “superstitions”  
 - ancestor candles, graveside food, and autumn feasts  
@@ -217,7 +217,7 @@ It survived in bread, fire, herbs, and story.
 
 One of the clearest surviving traces of Old European magic is the Straw Bear tradition of central Europe. Originally an embodiment of the field spirit—the “corn mother” or winter wight—the Straw Bear was a living ritual. A person was bound entirely in straw at the start of the agricultural year and led through the village to bless homes, stir fertility, and awaken the sleeping earth.
 
-Rolling on the ground, scattering straw, dancing with women, and receiving gifts were all ancient acts meant to transfer prosperity from the spirit of the fields to the community. Though later recast as a Shrovetide custom, its structure is unmistakably pre-Christian: masked liminality, agricultural blessing, death-and-rebirth symbolism, and the yearly awakening of the land’s power. Learn more about this **[Last Field Spirit of Europe](/straw-bear-last-field-spirit)**.
+Rolling on the ground, scattering straw, dancing with women, and receiving gifts were all ancient acts meant to transfer prosperity from the spirit of the fields to the community. Though later recast as a Shrovetide custom, its structure is unmistakably pre-Christian: masked liminality, agricultural blessing, death-and-rebirth symbolism, and the yearly awakening of the land’s power. Learn more about this **[Last Field Spirit of Europe](/straw-bear-last-field-spirit/)**.
 
 ---
 
