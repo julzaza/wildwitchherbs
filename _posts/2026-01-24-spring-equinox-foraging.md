@@ -2,8 +2,7 @@
 layout: single
 title: "Spring Equinox Foraging: Folklore of Early Plants"
 permalink: /spring-equinox-foraging-folklore/
-date: 2026-02-24
-author: Wild Witch Herbs
+
 categories:
   - herbal-magic
 tags:
@@ -61,8 +60,6 @@ Despite geographic distance, the same beliefs surface again and again:
 
 Spring Equinox foraging was rarely celebratory.  
 It was a cautious response to necessity — survival tempered by fear of imbalance.
-
-This attitude mirrors the broader ritual logic of the season, where humans did not seek to *manifest* but to **negotiate**, as seen in traditional **[Spring Equinox Ritual Practices](/spring-equinox-rituals-folklore/)**.
 
 ---
 
@@ -172,7 +169,6 @@ It is a conversation.
 
 ## Read Next
 
-- **[Spring Equinox Rituals: Ancient Balance and Living Folk Traditions](/spring-equinox-rituals-folklore/)**  
 - **[Spring Equinox Across Cultures: Folklore of Light and Life](/spring-equinox-global-folklore/)**
 - **[Balkan Spring Herbs: Seasonal Power, Fertility & Protection](/balkan-spring-herbal-rites/)**
 
