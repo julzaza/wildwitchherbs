@@ -69,7 +69,7 @@ They were simply the ones who knew.
 
 ---
 
-## The Top 10 Balkan Witchy Herbs
+## The Top 11 Balkan Witchy Plants
 
 These top eleven plants appear **again and again** across Balkan regions, sources, and traditions. They form the backbone of Balkan folk magic.
 
@@ -165,13 +165,20 @@ While elder governed the household edge and spirit appeasement, the oak belonged
 
 ---
 
-### 7. Oak Tree
+### 7. Oak — *Hrast* (Quercus spp.)
 
 Across Serbia, Romania, and Bulgaria, certain oaks — known as zapis — were consecrated as communal guardians. 
 
 Crosses were carved into their bark, rites were held beneath their branches, and village boundaries were ritually tied to their roots.
 
 Unlike herb magic, which moved through households and women’s hands, oak veneration operated at the level of oath, law, and divine protection — a fusion of pre-Christian tree worship and later folk Christianity.
+
+Ritual uses included:
+
+- Swearing legal and communal oaths beneath the tree  
+- Carving protective crosses into bark  
+- Holding village processions during drought or plague  
+- Appealing for protection from lightning and storm  
 
 You can step into this older, land-bound layer of Balkan tradition in **[The Balkan Oak Tree Cult](/balkan-oak-tree-cult/)**.
 
@@ -236,7 +243,7 @@ Its gentle appearance hides its deep ritual importance in many regions.
 
 ---
 
-## Other Important Balkan Herbs
+## Other Important Folk Herbs & Household Plants
 
 Beyond the core eleven, Balkan folk magic also relied on:
 
