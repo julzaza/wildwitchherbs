@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "The Witch’s Herbal Starter Kit: 10 Powerful Plants"
 date: 2025-07-01
 description: "A folklore-rich guide to 10 essential witchy herbs every modern practitioner should know, including Mugwort, Wormwood, Artemisia annua, Nettle, Yarrow, Rue, Vervain, Dandelion, Belladonna, and Thyme. Explore their magical, protective, and ancestral uses in spells, rituals, and folk traditions."
@@ -55,7 +56,7 @@ Wormwood is for endings. Burned at Balkan funerals to keep spirits from returnin
 
 > Think of wormwood as the herb of goodbye. Sharp, final, and unrepentant.
 
-Dive deeper into understanding **[Wormwood a.k.a. Artemisia in Whitchcraft](/wormwood-witchcraft-war)**.
+Dive deeper into understanding **[Wormwood a.k.a. Artemisia in Whitchcraft](/wormwood-witchcraft-war/)**.
 
 ---
 
@@ -170,7 +171,7 @@ Deepen your knowledge of protective and ritual herbs with these guides:
 **A:** These herbs are presented for educational and folkloric purposes. Some are highly toxic (e.g., Belladonna), and their modern use requires expert guidance.
 
 **Q:** Where can I find more detailed instructions for using Mugwort or Wormwood?  
-**A:** See **[Mugwort and Wormwood for Prophetic Dreaming](/solstice-dreaming-mugwort-wormwood/)** and **[Wormwood in Witchcraft & War](/wormwood-witchcraft-war)** for ritual, dream, and protective practices.
+**A:** See **[Mugwort and Wormwood for Prophetic Dreaming](/solstice-dreaming-mugwort-wormwood/)** and **[Wormwood in Witchcraft & War](/wormwood-witchcraft-war/)** for ritual, dream, and protective practices.
 
 **Q:** Can I grow these herbs at home?  
 **A:** Many can be grown in pots or small gardens. Artemisia, Thyme, and Dandelion are beginner-friendly; toxic plants like Belladonna should not be cultivated without proper expertise.
