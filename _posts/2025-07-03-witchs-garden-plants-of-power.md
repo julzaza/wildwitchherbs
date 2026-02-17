@@ -257,6 +257,19 @@ The table below maps **specific plants to their traditional regions and roles**,
 | Mandragora officinarum (Mandrake) | Mediterranean, Near East | Fertility magic, trance, protection |
 | Azadirachta indica (Neem) | South Asia | Disease warding, spiritual cleansing |
 
+
+| Plant                             | Traditional Region                    | Folklore Role                                       | Garden Placement / Function                                |
+| --------------------------------- | ------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------- |
+| Artemisia absinthium (Wormwood)   | Europe, Balkans, Western Asia         | Protection, purification, boundary magic, endurance | Garden edges, grave borders, near gates or liminal paths   |
+| Artemisia vulgaris (Mugwort)      | Europe, East Asia                     | Dreamwork, travel protection, spiritual sight       | Pathways, thresholds, beside doorways or under windows     |
+| Artemisia annua (Sweet Wormwood)  | China, Central Asia                   | Fever clearing, purification, post-illness recovery | Medicinal beds, drying gardens, near smoke-cleansing areas |
+| Ruta graveolens (Rue)             | Mediterranean, Balkans, Latin America | Curse breaking, evil eye protection                 | Doorways, entrance paths, courtyard corners                |
+| Achillea millefolium (Yarrow)     | Europe, Northern Asia                 | Wound healing, divination, battle protection        | Field borders, wild garden zones, near animal enclosures   |
+| Cymbopogon citratus (Lemongrass)  | Africa, Caribbean, South Asia         | Spiritual cleansing, space purification             | Near entrances, along walkways, ritual washing areas       |
+| Ocimum tenuiflorum (Tulsi)        | India                                 | Sacred protection, household blessing               | Courtyard altars, central yard shrines, near water vessels |
+| Mandragora officinarum (Mandrake) | Mediterranean, Near East              | Fertility magic, trance, protection                 | Hidden or guarded beds, apothecary plots, secluded corners |
+| Azadirachta indica (Neem)         | South Asia                            | Disease warding, spiritual cleansing                | Thresholds, rooflines, boundary lines, village entrances   |
+
 ---
 
 ## A Final Invitation
