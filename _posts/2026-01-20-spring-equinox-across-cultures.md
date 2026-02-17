@@ -3,6 +3,7 @@ layout: single
 title: "Spring Equinox: Global Folklore and Protective Rituals"
 permalink: /spring-equinox-global-folklore/
 redirect_from: /spring-equinox-rituals-folklore/
+redirect_from: /spring-renewal-protection-folk-traditions/
 date: 2026-02-20
 author: Wild Witch Herbs
 categories:
