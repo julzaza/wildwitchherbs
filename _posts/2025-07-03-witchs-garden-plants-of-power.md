@@ -15,6 +15,7 @@ tags:
   - herbal witchcraft
   - old world herbs
 permalink: /witch-garden/
+
 faq:
   - question: "What is a traditional witch’s garden?"
     answer: "A traditional witch’s garden is a collection of plants grown for medicinal, ritual, protective, and spiritual purposes, based on local folk knowledge rather than aesthetics or modern trends."
