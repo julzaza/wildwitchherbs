@@ -55,7 +55,7 @@ Once you plant your threshold herbs (we got a nice bunch to choose from below), 
 
 ---
 
-## ✦ 1. **Southernwood (Artemisia abrotanum)**
+## ✦ 1. Southernwood (Artemisia abrotanum)
 
 Once called **“lad’s love”**, this silvery herb was grown by front gates in Britain and Eastern Europe alike. It was said to **keep away snakes, bad spirits, and lustful men**.
 
@@ -65,7 +65,7 @@ Once called **“lad’s love”**, this silvery herb was grown by front gates i
 
 ---
 
-## ✦ 2. **Basil (Ocimum basilicum)**
+## ✦ 2. Basil (Ocimum basilicum)
 
 In Eastern Europe and India alike, basil was not only culinary—it was sacred. In Greek Orthodox homes, holy water was sprinkled with basil branches. In folk magic, it was grown by doors to **invite love and prosperity, and drive away the devil**.
 
@@ -75,7 +75,7 @@ In Eastern Europe and India alike, basil was not only culinary—it was sacred. 
 
 ---
 
-## ✦ 3. **Yarrow (Achillea millefolium)**
+## ✦ 3. Yarrow (Achillea millefolium)
 
 A powerful plant of **thresholds and unions**, yarrow was once laid across bridal beds and front steps to **ensure lasting love and keep out dark forces**.
 
@@ -85,7 +85,7 @@ A powerful plant of **thresholds and unions**, yarrow was once laid across brida
 
 ---
 
-## ✦ 4. **Boxwood (Buxus sempervirens)**
+## ✦ 4. Boxwood (Buxus sempervirens)
 
 Often planted in formal hedges, boxwood was once a **graveyard plant**, sacred to ancestors. It stood for **everlasting protection**.
 
@@ -95,7 +95,7 @@ Often planted in formal hedges, boxwood was once a **graveyard plant**, sacred t
 
 ---
 
-## ✦ 5. **Hellebore (Helleborus niger)**
+## ✦ 5. Hellebore (Helleborus niger)
 
 Known as **Christmas Rose** or **witch’s flower**, hellebore was believed to **reveal invisible beings** and **banish evil spirits** when planted at the threshold.
 
@@ -105,7 +105,7 @@ Known as **Christmas Rose** or **witch’s flower**, hellebore was believed to *
 
 ---
 
-## ✦ 6. **Woodruff (Galium odoratum)**
+## ✦ 6. Woodruff (Galium odoratum)
 
 A sweet-smelling herb used in **May Day wreaths** and **Germanic love charms**, woodruff brings both gentleness and strength to a threshold.
 
@@ -115,7 +115,7 @@ A sweet-smelling herb used in **May Day wreaths** and **Germanic love charms**, 
 
 ---
 
-## ✦ 7. **Hawthorn (Crataegus spp.)**
+## ✦ 7. Hawthorn (Crataegus spp.)
 
 A fairy tree in Celtic lands, a **witch tree** in Slavic ones. No other plant walks the line between **curse and blessing** quite like hawthorn.
 
@@ -125,7 +125,7 @@ A fairy tree in Celtic lands, a **witch tree** in Slavic ones. No other plant wa
 
 ---
 
-## ✦ 8. **Nettles (Urtica dioica)**
+## ✦ 8. Nettles (Urtica dioica)
 
 A plant of fire and fury, nettle was used to **whip out spirits**, **protect children**, and **defend homes** from unseen harm.
 
@@ -135,7 +135,7 @@ A plant of fire and fury, nettle was used to **whip out spirits**, **protect chi
 
 ---
 
-## ✦ 9. **Angelica (Angelica archangelica)**
+## ✦ 9. Angelica (Angelica archangelica)
 
 Tall and radiant, angelica was named for the **Archangel Michael** and was believed to shield homes from **plague, ill fortune, and malevolent spirits**.
 
