@@ -149,3 +149,13 @@ Check out other **[Folk Fertility Rituals](/folk-fertility-rituals/)** to create
 **Q: How do I perform this ritual safely and respectfully?**  
 **A:** Choose a private spot or container, cover your offering with soil, and focus on your intention. Never leave blood where others may come into contact with it. Respect for yourself and the Earth ensures the magic works.
 
+{% if page.faq %}
+  <div style="background:#fee;border:1px solid #f00;padding:1rem;margin:1rem 0;">
+    <h2>FAQ Debug</h2>
+    {% for item in page.faq %}
+      {% unless item.question and item.answer %}
+        <p>Invalid FAQ detected: {{ item | jsonify }}</p>
+      {% endunless %}
+    {% endfor %}
+  </div>
+{% endif %}
