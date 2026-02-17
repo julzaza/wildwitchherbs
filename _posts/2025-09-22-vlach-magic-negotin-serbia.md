@@ -44,7 +44,7 @@ faq:
     answer: "It shares elements with neighboring traditions, like Vasa Pelagić’s folk remedies and the practices of Vlach and Serbian herbalists, but maintains unique rituals and language specific to Negotin."
 
   - question: "Where can I learn more about Balkan herbal magic?"
-    answer: "Explore related posts on Wild Witch Herbs, such as [Herbal Companions Vlaska Babas Use](/herbs-vlach-wise-women/) and [Vasa Pelagić’s Narodni Učitelj](/lessons-vasa-pelagic/)."
+    answer: "Explore related posts on Wild Witch Herbs, such as [Herbal Companions Vlaska Babas Rely On](herbs-vlach-wise-women/) and [Vasa Pelagić’s Narodni Učitelj](/lessons-vasa-pelagic/)."
 
 ---
 
