@@ -41,17 +41,6 @@ faq:
 
 ---
 
-{% if page.faq %}
-  <div style="background:#fee;border:1px solid #f00;padding:1rem;margin:1rem 0;">
-    <h2>FAQ Debug</h2>
-    {% for item in page.faq %}
-      {% unless item.question and item.answer %}
-        <p>Invalid FAQ detected: {{ item | jsonify }}</p>
-      {% endunless %}
-    {% endfor %}
-  </div>
-{% endif %}
-
 Long before shame was stitched to the hem of a woman’s skirt, menstrual blood was seen as sacred—**a gift, not a curse**. Across time and cultures, women bled in rhythm with the moon, and their blood was recognized not as waste, but as **life-force**—capable of nourishing both land and lineage.
 
 In the old ways, it was said that **to give your blood to the soil was to speak directly to the Earth**.
