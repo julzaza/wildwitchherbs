@@ -141,8 +141,6 @@ For a deeper look at *how* people ritually responded — through offerings, clea
 
 - **[Spring Equinox Foraging: The First Wild Plants and Early Harvests](/spring-equinox-foraging-folklore/)** - see how first wild plants were approached as threshold beings in folklore.
 
-- **[Spring Renewal & Protection Folk Traditions](/spring-renewal-protection-folk-traditions/)** — folk methods of safeguarding land, animals, and households before spring growth.
-
 - **[Balkan Spring Herbal Rites](/balkan-spring-herbal-rites/)** — dew-walking, early plant magic, and herbal practices of Southeastern Europe.
 
 ---
