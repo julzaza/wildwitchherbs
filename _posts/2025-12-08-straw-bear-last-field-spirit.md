@@ -5,7 +5,7 @@ description: "A deep, folklore-rooted exploration of the Straw Bear tradition—
 excerpt: "Long before Christianity reshaped Europe, the Straw Bear embodied the spirit of the fields. This surviving winter rite reveals how Old European magic continued beneath Christian veneer."
 categories: [folklore-ancestral, witchcraft-ritual]
 tags: [straw bear, field spirits, European folk magic, pre-Christian rituals, fertility rites, winter rites, agrarian magic]
-permalink: /straw-bear-last-field-spirit
+permalink: /straw-bear-last-field-spirit/
 
 faq:
     - question: "Is the Straw Bear originally a pagan ritual?"
@@ -23,7 +23,7 @@ Before Christianity stretched its shadow across the continent, Europe’s magica
 
 One of the clearest survivors is the **Straw Bear** tradition: a winter rite found in parts of Germany, Austria, and the Czech lands. To understand it is to glimpse the bones of Old European magic still moving beneath the surface.
 
-If you want to explore the broader worldview this ritual came from, see **[Before the Cross: The Old Magic of Pre-Christian Europe](/pre-christian-europe)**.
+If you want to explore the broader worldview this ritual came from, see **[Before the Cross: The Old Magic of Pre-Christian Europe](/pre-christian-europe/)**.
 
 ---
 
@@ -38,7 +38,7 @@ This was agricultural magic.
 
 The Straw Bear, heavy and faceless, shuffled from house to house accompanied by musicians and masked figures. Everywhere it went, it left fertility behind: rolling on the ground to “wake” the earth, dancing with women to transmit life-force, scattering straw as a blessing.
 
-This ritual logic is identical to the old agrarian practices you’ll find in **[Old World Fertility Magic](/old-world-fertility-magic)**.
+This ritual logic is identical to the old agrarian practices you’ll find in **[Old World Fertility Magic](/old-world-fertility-magic/)**.
 
 ---
 
@@ -54,7 +54,7 @@ Dancing with villagers—especially young women—was a direct act of blessing.
 Straw falling from the body was the field spirit spreading abundance.
 
 ### Blessing Each Household  
-Going door to door paralleled other European rites like winter witch bottles or evergreen protections (see **[Evergreen Magic](/evergreens-witchcraft)**).
+Going door to door paralleled other European rites like winter witch bottles or evergreen protections (see **[Evergreen Magic](/evergreens-witchcraft/)**).
 
 ### Ending the Rite  
 Depending on the tradition:
@@ -87,7 +87,7 @@ But beneath the veneer, its bones remain unmistakably pagan:
 - symbolic death or release  
 - household blessing  
 
-This is the same pattern seen in winter solstice magic, which you can explore more in **[Winter Solstice Witchcraft](/winter-solstice-witchcraft)**.
+This is the same pattern seen in winter solstice magic, which you can explore more in **[Winter Solstice Witchcraft](/winter-solstice-witchcraft/)**.
 
 ---
 
@@ -124,11 +124,11 @@ It is the last echo of a time when the land spoke, and people answered.
 
 ## For Further Reading
 
-- **[Before the Cross: The Old Magic of Pre-Christian Europe](/pre-christian-europe)**  
-- **[Old World Fertility Magic](/old-world-fertility-magic)**  
-- **[Evergreen Magic](/evergreens-witchcraft)**  
-- **[Winter Solstice Witchcraft](/winter-solstice-witchcraft)**  
-- **[The Witch’s Winter Bottle](/witchy-winter-solstice-bottle)**
+- **[Before the Cross: The Old Magic of Pre-Christian Europe](/pre-christian-europe/)**  
+- **[Old World Fertility Magic](/old-world-fertility-magic/)**  
+- **[Evergreen Magic](/evergreens-witchcraft/)**  
+- **[Winter Solstice Witchcraft](/winter-solstice-witchcraft/)**  
+- **[The Witch’s Winter Bottle](/witchy-winter-solstice-bottle/)**
 
 ---
 
