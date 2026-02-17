@@ -205,8 +205,6 @@ Just recognition.
 
 Understanding these older patterns does not require reenactment — only respect for how deeply survival shaped ritual.
 
-Many of these rites were paired with defensive customs, such as cleansing, boundary protection, and water blessing, discussed further in **[Folk Traditions for Spring Renewal and Protection](/spring-renewal-protection-folk-traditions/)**.
-
 ---
 
 ## Why This Still Matters
