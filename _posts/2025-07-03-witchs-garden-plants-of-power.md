@@ -219,6 +219,8 @@ Traditional witches did not choose plants in isolation — they timed planting, 
 - In **West African Vodun**, spirits of the land are greeted with offerings before breaking soil.  
 - In **Nordic folk custom**, a coin or grain was offered to the land wight when planting fruit trees.
 
+Many of these practices are preserved in ethnographic agricultural records and oral folk calendars.
+
 You don’t need to copy rituals, but know where they come from — and respect their depth. Your own practice will come if you start from truth, not trend.
 
 ---
