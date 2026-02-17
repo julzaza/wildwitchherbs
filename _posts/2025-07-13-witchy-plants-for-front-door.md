@@ -205,7 +205,7 @@ Not just for inside! Bundles of lavender were hung by front doors to calm househ
 - Magic: Memory, love, purification.
 - Growing Tip: Drought-tolerant, loves the sun, protect from frost.
 
-Check out **[Rosemary- Witchy Plant to Guard the Front Door](/why-witches-plant-rosemary-front-door/)** for more.
+Check out **[Why Witches Chose Rosemary to Guard the Front Door](/why-witches-plant-rosemary-front-door/)** for more.
 
 ---
 
@@ -226,7 +226,7 @@ Farther north, the **[Rowan Tree by the Door](/rowan-trees-front-door-old-world-
 The door you walk through each day can become **a gate of magic**, a veil stitched with root and leaf, bloom and thorn. Let it **speak on your behalf**: *“This home is watched, protected, and blessed.”*
 
 Want to guard your inner space as well? 
-Explore: **[Grow Witchy Plants Indoors](/witchy-plants-to-grow-indoors/)**.
+Explore: **[Top Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)**.
 
 ---
 
