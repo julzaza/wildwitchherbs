@@ -106,7 +106,7 @@ From Celtic seers to Slavic midwives and Japanese shamans, mugwort has long guar
 
 Shamans, midwives, witches—have always trusted mugwort as their companion when traveling between worlds.
 
-Mugwort also appears in lunar and dreamwork lore — see **[Dreamwork & Night Magic](/witchy-plants-bedroom)** for how herbs like mugwort and juniper guide spirit travel.
+Mugwort also appears in lunar and dreamwork lore — see **[Dreamwork & Night Magic](/witchy-plants-bedroom/)** for how herbs like mugwort and juniper guide spirit travel.
 
 The Germanic name for mugwort means “midge-plant,” referencing its power to ward off not just pests, but parasitic spirits.
 
@@ -168,7 +168,7 @@ Eastern European cemeteries were once rimmed with this bitter plant. In Balkan a
 
 Its ally, Artemisia annua, shares its ghost-walking strength.
 
-Check out **[Wormwood: From Babylon To The Balkans](/wormwood-witchcraft-war)** to find out more about its mystical powers.
+Check out **[Wormwood: From Babylon To The Balkans](/wormwood-witchcraft-war/)** to find out more about its mystical powers.
 
 ---
 
