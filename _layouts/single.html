@@ -55,19 +55,20 @@ layout: default
 </article>
 
 
-{% if page.faq and page.faq.size > 0 %}
+{% assign valid_faqs = page.faq | where_exp:"item","item.question and item.answer" %}
+{% if valid_faqs.size > 0 %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-    {% for item in page.faq %}
+    {% for item in valid_faqs %}
     {
       "@type": "Question",
-      "name": {{ item.question | strip_newlines | jsonify }},
+      "name": {{ item.question | jsonify }},
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": {{ item.answer | strip_newlines | jsonify }}
+        "text": {{ item.answer | jsonify }}
       }
     }{% unless forloop.last %},{% endunless %}
     {% endfor %}
@@ -75,5 +76,6 @@ layout: default
 }
 </script>
 {% endif %}
+
 
 
