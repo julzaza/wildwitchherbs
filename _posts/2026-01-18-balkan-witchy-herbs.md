@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Balkan Witchy Herbs: Plants, Legends & Folk Rituals"
+title: "11 Balkan Witchy Plants: Herbs, Legends & Folk Rituals"
 excerpt: "A folklore-rich compendium of Balkan witchy herbs, drawn from documented village practices, ethnobotany, and traditional folk magic across Serbia, Romania, Bulgaria, and neighboring regions."
 description: "An in-depth guide to Balkan witchy herbs rooted in ethnographic sources, folk ritual, and regional plant lore. Real traditions, real plants, no modern inventions."
 categories:
@@ -44,7 +44,7 @@ Herbs were not symbolic. They were functional, feared, respected, and deeply emb
 
 This post gathers the **core plants of Balkan folk magic** as documented in ethnographic records, village traditions, and regional herbal lore across Serbia, Romania, Bulgaria, Croatia, North Macedonia, and surrounding areas.
 
-No modern inventions. No generic correspondences. Only what was actually used.
+No modern inventions. Only what was actually used.
 
 ---
 
@@ -71,7 +71,7 @@ They were simply the ones who knew.
 
 ## The Top 10 Balkan Witchy Herbs
 
-These ten plants appear **again and again** across Balkan regions, sources, and traditions. They form the backbone of Balkan folk magic.
+These top eleven plants appear **again and again** across Balkan regions, sources, and traditions. They form the backbone of Balkan folk magic.
 
 ---
 
@@ -161,9 +161,23 @@ Elder was used in:
 
 Cutting elder without respect was believed to bring illness.
 
+While elder governed the household edge and spirit appeasement, the oak belonged to the village itself.
+
 ---
 
-### 7. Yarrow — *Hajdučka trava*
+### 7. Oak Tree
+
+Across Serbia, Romania, and Bulgaria, certain oaks — known as zapis — were consecrated as communal guardians. 
+
+Crosses were carved into their bark, rites were held beneath their branches, and village boundaries were ritually tied to their roots.
+
+Unlike herb magic, which moved through households and women’s hands, oak veneration operated at the level of oath, law, and divine protection — a fusion of pre-Christian tree worship and later folk Christianity.
+
+You can step into this older, land-bound layer of Balkan tradition in **[The Balkan Oak Tree Cult](/balkan-oak-tree-cult/)**.
+
+---
+
+### 8. Yarrow — *Hajdučka trava*
 
 Named after the hajduci — outlaw warriors — yarrow carries associations of blood, fate, and endurance.
 
@@ -177,7 +191,7 @@ Yarrow appears in regional practices documented in the Timok Valley and beyond.
 
 ---
 
-### 8. St. John’s Wort — *Žutica / Zvezdana trava*
+### 9. St. John’s Wort — *Žutica / Zvezdana trava*
 
 A solar herb tied to midsummer rites.
 
@@ -194,7 +208,7 @@ Also, **[St. John's Wort Moon Water](/st-johns-wort-moon-water/)** is a trusted 
 
 ---
 
-### 9. Nettle — *Kopriva*
+### 10. Nettle — *Kopriva*
 
 Nettle was never just food.
 
@@ -208,7 +222,7 @@ Despite its sting, nettle symbolized resilience and vitality, its role became es
 
 ---
 
-### 10. Thyme — *Majčina dušica*
+### 11. Thyme — *Majčina dušica*
 
 Literally “mother’s soul.”
 
@@ -224,7 +238,7 @@ Its gentle appearance hides its deep ritual importance in many regions.
 
 ## Other Important Balkan Herbs
 
-Beyond the core ten, Balkan folk magic also relied on:
+Beyond the core eleven, Balkan folk magic also relied on:
 
 - Chamomile (peace, healing, household calm)  
 - Sage (cleansing, incense, wisdom)  
