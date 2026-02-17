@@ -215,7 +215,7 @@ While herbs and shrubs guard the threshold, some traditions looked higher.
 
 In the Balkans, the oak tree stood as the ultimate living ward—not planted at the door, but marking the village boundary itself. Unlike the tender herbs in your pots, these trees witnessed oaths, absorbed lightning, and outlasted generations. 
 
-**[The Balkan Oak Tree Cult](/balkan-oak-tree-cult/)** treated these giants as shrines that anchored memory long before churches claimed the land. 
+The **[Balkan Oak Tree Cult](/balkan-oak-tree-cult/)** treated these giants as shrines that anchored memory long before churches claimed the land. 
 
 Farther north, the **[Rowan Tree by the Door](/rowan-trees-front-door-old-world-folklore/)** served as the household's personal sentinel— warding off witches and unwanted spirits from Scotland to Scandinavia.
 
@@ -226,6 +226,7 @@ Farther north, the **[Rowan Tree by the Door](/rowan-trees-front-door-old-world-
 The door you walk through each day can become **a gate of magic**, a veil stitched with root and leaf, bloom and thorn. Let it **speak on your behalf**: *“This home is watched, protected, and blessed.”*
 
 Want to guard your inner space as well? 
+
 Explore: **[Top Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)**.
 
 ---
