@@ -96,7 +96,7 @@ White sage roots in **Indigenous American rituals**—for purification, gratitud
 
 Use rosemary or juniper if available. Light the bundle, waft smoke, and call on ancestors. Let it guide between worlds.
 
-Before burning, check **[Herbs You Should Never Burn in Ritual (And What to Use Instead)](/never-burn-herbs)** for safer alternatives. 
+Before burning, check **[Herbs You Should Never Burn in Ritual (And What to Use Instead)](/never-burn-herbs/)** for safer alternatives. 
 
 White sage, for example, has become overharvested as it trends across social media. If you want to practice ethically, choose a substitute herb and reserve white sage for the Indigenous communities that hold it sacred.
 
