@@ -71,7 +71,7 @@ They were simply the ones who knew.
 
 ## The Top 11 Balkan Witchy Plants
 
-These top eleven plants appear **again and again** across Balkan regions, sources, and traditions. They form the backbone of Balkan folk magic.
+These eleven plants appear **again and again** across Balkan regions, sources, and traditions. They form the backbone of Balkan folk magic.
 
 ---
 
