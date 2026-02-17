@@ -56,29 +56,22 @@ layout: default
 
 
 {% if page.faq %}
-{% capture faq_json %}
-[
-  {% for item in page.faq %}
-  {
-    "@type": "Question",
-    "name": {{ item.question | jsonify }},
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": {{ item.answer | jsonify }}
-    }
-  }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-]
-{% endcapture %}
+{% capture faq_json %}{% for item in page.faq %}{
+  "@type": "Question",
+  "name": {{ item.question | strip_newlines | jsonify }},
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": {{ item.answer | strip_newlines | jsonify }}
+  }
+}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": {{ faq_json | strip_newlines }}
+  "mainEntity": [{{ faq_json }}]
 }
 </script>
 {% endif %}
-
 
 
