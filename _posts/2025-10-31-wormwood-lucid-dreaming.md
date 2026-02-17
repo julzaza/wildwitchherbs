@@ -28,7 +28,7 @@ In the hidden corners of **European folk magic**, few herbs have walked the boun
 
 Wormwood has a long history as both **protector and guide**: hung over doorways to repel spirits, burned in hearths to dispel nightmares, or steeped in water or wine to open the doors to other realms. This is **not a gentle plant**—its spirit is fierce, restless, and best approached with intention.
 
-Check out **[Witchy Herbs for Your Bedroom](/witchy-plants-bedroom)** for more household plant allies you need to know. 
+Check out **[Witchy Herbs for Your Bedroom](/witchy-plants-bedroom/)** for more household plant allies you need to know. 
 
 ---
 
@@ -98,7 +98,7 @@ In the **Balkan mountains**, wormwood was a guardian herb:
 
 In **France and Britain**, travelers carried small sprigs in shoes to **ward off fatigue and enchantment**, showing the herb’s **protective, liminal role across Europe**.
 
-The **[Nine Herbs Charm](/nine-herbs-charm-healing/)** and similar traditions show that plants, numbers, and words were **inseparable tools of healing and magic**. Wormwood remains a threshold herb, bridging worlds, guiding those who dare to dream lucidly.
+The **[Nine Herbs Charm](/nine-herbs-charm-anglo-saxon/)** and similar traditions show that plants, numbers, and words were **inseparable tools of healing and magic**. Wormwood remains a threshold herb, bridging worlds, guiding those who dare to dream lucidly.
 
 ---
 
