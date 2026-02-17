@@ -4,7 +4,7 @@ title: "Rowan Trees by the Door: Old European Folklore"
 description: "A historically grounded, folklore-rich exploration of why rowan trees protected thresholds, gates, and doorways in Old European witchcraft."
 excerpt: "Discover the Old European tradition of planting rowan trees at the door—why witches, shepherds, and household guardians trusted this tree to defend the threshold."
 categories: [folklore-ancestral, witchcraft-ritual]
-tags: [rowan tree, threshold magic, household protection, european folklore, doorway guardians]
+tags: [rowan tree, threshold magic, household protection, european folklore, doorway guardians, mountain ash]
 
 faq:
   - question: "Why was rowan planted by the door?"
@@ -15,7 +15,7 @@ faq:
     answer: "Yes. In Scottish and Northern English folklore, rowan planted on the wrong side—especially west-facing—could attract the dead rather than protect the living."
 
 ---
-## Mountain Ash Tree a.k.a. Rowan (Sorbus aucuparia)
+## Mountain Ash a.k.a. Rowan (Sorbus aucuparia)
 
 In nearly every corner of Northern and Celtic Europe, the rowan tree stood where **danger met the household**—at the threshold, the gate, the byre door, or the beginning of the farm path.
 
@@ -30,7 +30,7 @@ If you want more plant magic for the threshold, see **[Ancient Doorway Talismans
 ---
 
 ## The Berry as a Protective Talisman  
-Rowan berries have a faint, natural **five-pointed star** on the bottom—an ancient protective mark.
+Mountain ash berries have a faint, natural **five-pointed star** on the bottom—an ancient protective mark.
 
 Across Scotland, Ireland, and Scandinavia, this star was said to:
 
