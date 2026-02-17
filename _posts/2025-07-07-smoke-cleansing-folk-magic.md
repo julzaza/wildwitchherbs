@@ -26,8 +26,6 @@ keywords:
   - folk magic practices
 
 image_mobile: /assets/images/heroes/800x1000px-smoke-cleansing-folk-magic.webp
-image_desktop_1280: /assets/images/heroes/1280x450px-smoke-cleansing-folk-magic (1).webp
-image_desktop_1920: /assets/images/heroes/1920x640px-smoke-cleansing-folk-magic.webp
 image_alt: "ritual sticks and herbs for burning on plates"
 
 
@@ -130,6 +128,12 @@ Sharp, clean smoke for protection, memory, and clarity. Used in funerals, weddin
 Burned to **open dream gates** and guide between the worlds. Used after childbirth, near graves, or at midsummer for protection.
 
 **Folk Practice:** Slavic women would burn mugwort near cradles or braid it into garlands to hang over doors on Ivan Kupala night.
+
+Slavic women would burn mugwort near cradles or braid it into garlands to hang over doors on Ivan Kupala night.
+
+Beyond smoke rites, mugwort also appears in **fertility and womb magic traditions**, where it was worn, burned, or brewed to regulate cycles and invite conception.
+
+Explore its reproductive and lunar associations in **[Fertility Herbs Used in Witchcraft](/top-fertility-herbs-witchcraft/)**.
 
 ---
 
