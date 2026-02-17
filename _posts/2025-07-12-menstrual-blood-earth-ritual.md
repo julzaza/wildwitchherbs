@@ -81,7 +81,7 @@ Some witches feed their roses or mugwort with it. What once was taboo now become
 
 For a deeper look at plants historically used for fertility and growth, see 
 
-- **[Top Fertility Herbs in Witchcraft](/top-fertility-herbs-witchcraft)**
+- **[Top Fertility Herbs in Witchcraft](/top-fertility-herbs-witchcraft/)**
 - or explore traditionally used **[Herbs to Attract the Right Partner](/love-magic-herbs-to-attract-the-right-partner/)**
 
 ---
