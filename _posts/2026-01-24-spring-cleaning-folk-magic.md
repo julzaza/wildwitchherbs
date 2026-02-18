@@ -1,5 +1,5 @@
 ---
-title: "Spring Cleaning in Folk Magic: Why Dust, Ash, and Thresholds Were Dangerous"
+title: "Folk Magic Spring Cleaning Rituals and Taboos"
 layout: single
 category: folklore-ancestral
 tags:
