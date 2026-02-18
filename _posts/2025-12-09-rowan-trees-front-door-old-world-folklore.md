@@ -178,15 +178,6 @@ Over time, the protective meaning dominated.
 
 Rowan was not considered a tree *of* witches — but a tree *against* harmful witchcraft.
 
-It was planted:
-
-- Beside cottage doors  
-- Near windows  
-- At cemetery edges  
-- At the farm gate and along farm boundaries
-- Near cattle byres  
-- At the start of footpaths  
-
 Its berries — marked with a star — were viewed as protective seals.
 
 A widely recorded folk charm states:
