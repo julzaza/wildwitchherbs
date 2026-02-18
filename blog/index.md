@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: Wild Witch Herbs Blog
 permalink: /blog/
 show_title: true
