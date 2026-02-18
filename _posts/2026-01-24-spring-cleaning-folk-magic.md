@@ -12,27 +12,27 @@ tags:
   - liminal spaces
 excerpt: "In traditional folk belief, spring cleaning was never simple or harmless. Dust, ash, and thresholds were spiritually charged substances, and cleaning at the wrong time could invite misfortune, illness, or ancestral anger."
 description: "Explore the hidden folklore behind spring cleaning in Balkan, Slavic, and European traditions. Learn why dust, ash, thresholds, and sweeping were considered dangerous in early spring folk magic."
-faq_schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  mainEntity:
-    - "@type": "Question"
-      name: "Why was spring cleaning considered dangerous in folk belief?"
-      acceptedAnswer:
-        "@type": "Answer"
-        text: "In folk tradition, early spring cleaning disturbed spiritually charged materials such as dust and ash, which were believed to hold luck, ancestral traces, and household protection during a liminal season."
+faq:
+  - question: "Why was spring cleaning considered dangerous in folk belief?"
+    answer: "Early spring cleaning disturbed spiritually charged materials such as dust, ash, and thresholds. These substances were believed to hold luck, ancestral traces, and household protection, making careless cleaning risky during liminal seasonal periods."
 
-    - "@type": "Question"
-      name: "Which parts of the house were most sensitive during spring?"
-      acceptedAnswer:
-        "@type": "Answer"
-        text: "Thresholds, hearths, doorways, and corners were considered liminal spaces where spirits passed or rested, making them dangerous to disturb too early in the season."
+  - question: "Which parts of the house were most sensitive during spring?"
+    answer: "Thresholds, hearths, corners, and doorways were considered liminal spaces where spirits passed or rested. Cleaning these areas too early could expel protective forces or invite misfortune."
 
-    - "@type": "Question"
-      name: "Did these beliefs exist outside the Balkans?"
-      acceptedAnswer:
-        "@type": "Answer"
-        text: "Similar beliefs about dust, sweeping, ash, and household spirits appear across Slavic, Central European, and Mediterranean folklore traditions."
+  - question: "Were these beliefs unique to the Balkans?"
+    answer: "No. Similar customs regarding dust, sweeping, ash, and household spirits appear across Slavic, Central European, and Mediterranean folklore traditions."
+
+  - question: "Was spring cleaning forbidden entirely?"
+    answer: "Not entirely. It was regulated according to folk calendars, ancestral guidance, and seasonal markers. Certain days were considered safe, while others were avoided to maintain household balance."
+
+  - question: "Why were women primarily responsible for these practices?"
+    answer: "Domestic labor, hearth care, and ritual cleanliness traditionally fell to women, making them the main custodians of these protective household practices."
+
+  - question: "Do these beliefs still influence modern homes?"
+    answer: "Yes. Many old customs survive unconsciously today, such as avoiding sweeping toward doors, leaving some dust for luck, or not cleaning at night."
+
+  - question: "Were these customs purely superstition?"
+    answer: "No. They often reflected practical wisdom: avoiding overwork, respecting seasonal cycles, preventing illness, and maintaining household harmony alongside spiritual reasoning."
 
 ---
 
