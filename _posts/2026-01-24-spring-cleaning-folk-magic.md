@@ -48,6 +48,7 @@ Early spring was a dangerous moment to interfere.
 Dust, ash, and thresholds were not waste. They were **repositories of luck, memory, and spiritual presence**. To remove them carelessly, or at the wrong time, was believed to weaken the household itself.
 
 This caution extended beyond the household to the land itself. Gathering the first plants required ritual restraint, as explored in **[Spring Equinox Foraging: Folklore of Early Plants](/spring-equinox-foraging-folklore/)**.
+
 ---
 
 ## The House as a Living Being
