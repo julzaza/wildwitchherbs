@@ -230,6 +230,8 @@ Pass it through incense smoke or over a candle’s flame, and bury it near your 
 
 Let your herb guardians stand sentry.
 
+Charms like these were often prepared specifically for equinox thresholds, when protective work was considered most urgent — a seasonal logic detailed in **[Spring Equinox: Global Folklore and Protective Rituals](/spring-equinox-global-folklore/)**.
+
 If you want to build your own protection apothecary, consider starting with foundational witches’ plants like those in **[The Witch’s Herbal Starter Kit: 10 Powerful Plants](/herbal-starter-kit/)** — it includes many protectors and teachable allies.
 
 Protective herbs were never used in isolation—many also worked as healers, grief-soothers, and shock remedies, which is why they often appear alongside **[Ancient Plant Magic for Body and Spirit](/witchy-herbs-for-healing/)**, a folklore-rich guide to plants that mend both flesh and feeling.
