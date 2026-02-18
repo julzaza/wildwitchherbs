@@ -7,7 +7,7 @@ permalink: /about/
 <div class="about-container" style="max-width:700px;margin:0 auto;padding:3rem 1.5rem;text-align:center;">
 
   <div class="about-intro" style="margin-bottom:3.5rem;">
-    <h1 style="font-size:1.8rem;margin-bottom:1.5rem;font-weight:400;letter-spacing:0.05em;text-transform:uppercase;color:#1a1a1a;font-family:Georgia,serif;">About Wild Witch Herbs</h1>
+    <h1 style="font-size:2rem;margin-bottom:1rem;">About Wild Witch Herbs</h1>
     <p style="font-size:1.15rem;line-height:1.7;color:#444;">
       Where the green world meets the unseen. A space for folk magic, ancestral remembering, and the old ways of working with land, spirit, and self.
     </p>
@@ -43,7 +43,7 @@ permalink: /about/
     </p>
 
     <div class="about-closing" style="margin:3.5rem 0;padding:2.5rem 2rem;background:#f5f5f5;border-top:2px solid #3d5c3d;border-bottom:2px solid #3d5c3d;">
-      <p style="margin:0;font-style:italic;font-size:1.2rem;color:#3d5c3d;letter-spacing:0.02em;font-family:Georgia,serif;">
+      <p style="margin:0;font-style:italic;font-size:1.1rem;color:#3d5c3d;">
         "The plants remember. The land remembers.<br>We are simply learning to listen again."
       </p>
     </div>
