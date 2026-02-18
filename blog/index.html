@@ -9,26 +9,11 @@ permalink: /blog/
 </div>
 
 <div class="archive-entries" style="display:grid;grid-template-columns:repeat(3,1fr);gap:2rem;max-width:1200px;margin:0 auto;">
-  <!-- BEGIN POSTS -->
-  <!-- Replace the following blocks with the posts generated during build -->
+  {% for post in site.posts %}
   <article class="archive-grid-item">
-    <h2><a href="/2025-01-23-balkan-house-spirits-folklore.html">Balkan House Spirits Folklore</a></h2>
-    <p class="excerpt">A dive into the ancestral spirits of Balkan homes and their protective rituals...</p>
-    <span class="post-date">January 23, 2025</span>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p class="excerpt">{{ post.excerpt | strip_html | truncate: 150 }}</p>
+    <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
   </article>
-
-  <article class="archive-grid-item">
-    <h2><a href="/2025-07-01-lunar-gardening-folklore.html">Lunar Gardening Folklore</a></h2>
-    <p class="excerpt">Using the moon phases to grow magical herbs in line with folklore traditions...</p>
-    <span class="post-date">July 1, 2025</span>
-  </article>
-
-  <article class="archive-grid-item">
-    <h2><a href="/2025-07-01-witchs-herbal-starter-kit.html">Witch's Herbal Starter Kit</a></h2>
-    <p class="excerpt">Your first guide to magical herbs, their lore, and practical uses in spells...</p>
-    <span class="post-date">July 1, 2025</span>
-  </article>
-
-  <!-- Repeat for all other posts -->
-  <!-- END POSTS -->
+  {% endfor %}
 </div>
