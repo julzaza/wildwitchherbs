@@ -61,6 +61,8 @@ Despite geographic distance, the same beliefs surface again and again:
 Spring Equinox foraging was rarely celebratory.  
 It was a cautious response to necessity — survival tempered by fear of imbalance.
 
+Similarly, **[House Spring Cleaning: Rules & Taboos](/spring-cleaning-folk-magic/)** explores how domestic spaces were ritually prepared and protected in early spring.
+
 ---
 
 ## Europe & the Balkans: Bitter Greens and Boundary Herbs
