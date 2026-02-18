@@ -81,7 +81,7 @@ Learn more about **[Witchy Herbs Used by Vlach Wise Women of the Balkans](/herbs
 
 **Rituals**: “Throwing herbs on coals” was a common household practice for driving out the evil eye or banishing sorrow.
 
-Seasonal cleansing of the home formed another layer of protection — especially during early spring purifications explored in **[Spring Cleaning in Folk Magic](/spring-cleaning-folk-magic/)**. 
+Seasonal cleansing of the home formed another layer of protection — especially during early spring purifications explored in **[Spring Cleaning: Folk Magic](/spring-cleaning-folk-magic/)**. 
 
 ---
 
