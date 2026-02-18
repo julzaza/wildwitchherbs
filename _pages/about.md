@@ -4,59 +4,59 @@ title: About
 permalink: /about/
 ---
 
-<div class="about-container" style="max-width:800px;margin:0 auto;padding:2rem 1rem;">
+<div class="about-container" style="max-width:800px;margin:0 auto;padding:2rem 1rem;text-align:center;">
 
-  <div class="about-intro" style="text-align:center;margin-bottom:3rem;">
-    <h1 style="font-size:2.5rem;margin-bottom:1rem;">About Wild Witch Herbs</h1>
+  <div class="about-intro" style="margin-bottom:3rem;">
+    <h1 style="font-size:2rem;margin-bottom:1rem;">About Wild Witch Herbs</h1>
     <p style="font-size:1.2rem;line-height:1.6;color:#555;">
-      Where the green world meets the unseen. A space for folk magic, ancestral remembering, and the old ways of working with land, spirit, and self.
+      Where the <span style="color:#2d5016;font-weight:600;">green world</span> meets the <span style="color:#4a3c31;font-weight:600;">unseen</span>. A space for <span style="color:#5d4e37;font-weight:600;">folk magic</span>, <span style="color:#6b4423;font-weight:600;">ancestral remembering</span>, and the <span style="color:#2d5016;font-weight:600;">old ways</span> of working with <span style="color:#4a6741;font-weight:600;">land</span>, <span style="color:#5d4e37;font-weight:600;">spirit</span>, and <span style="color:#6b4423;font-weight:600;">self</span>.
     </p>
   </div>
 
   <div class="about-body" style="line-height:1.8;color:#333;">
     
     <p>
-      Wild Witch Herbs began as a personal grimoire—a place to collect the plant lore, folk practices, and spirit traditions that have threaded through my life and lineage. Over time, it grew into something more public: a living archive for anyone drawn to the intersection of herbalism, witchcraft, and ancestral wisdom.
+      Wild Witch Herbs began as a personal <span style="color:#4a3c31;font-weight:600;">grimoire</span>—a place to collect the <span style="color:#2d5016;font-weight:600;">plant lore</span>, <span style="color:#5d4e37;font-weight:600;">folk practices</span>, and <span style="color:#6b4423;font-weight:600;">spirit traditions</span> that have threaded through my life and <span style="color:#4a6741;font-weight:600;">lineage</span>. Over time, it grew into something more public: a <span style="color:#2d5016;font-weight:600;">living archive</span> for anyone drawn to the intersection of <span style="color:#5d4e37;font-weight:600;">herbalism</span>, <span style="color:#6b4423;font-weight:600;">witchcraft</span>, and <span style="color:#4a3c31;font-weight:600;">ancestral wisdom</span>.
     </p>
 
     <p>
-      Here, you'll find practical herb craft alongside deeper explorations of house spirits, lunar rites, Balkan folklore, and the animist traditions that teach us how to live in relationship with the world around us. This isn't about dogma or rigid tradition. It's about <em>remembering</em>—recovering the knowledge that lives in our bones, our gardens, and the stories passed down through generations.
+      Here, you'll find <span style="color:#2d5016;font-weight:600;">practical herb craft</span> alongside deeper explorations of <span style="color:#4a6741;font-weight:600;">house spirits</span>, <span style="color:#5d4e37;font-weight:600;">lunar rites</span>, <span style="color:#6b4423;font-weight:600;">Balkan folklore</span>, and the <span style="color:#4a3c31;font-weight:600;">animist traditions</span> that teach us how to live in <span style="color:#2d5016;font-weight:600;">relationship</span> with the world around us. This isn't about <span style="color:#777;text-decoration:line-through;">dogma</span> or rigid tradition. It's about <span style="color:#6b4423;font-weight:600;font-style:italic;">remembering</span>—recovering the knowledge that lives in our <span style="color:#4a6741;font-weight:600;">bones</span>, our <span style="color:#2d5016;font-weight:600;">gardens</span>, and the <span style="color:#5d4e37;font-weight:600;">stories</span> passed down through generations.
     </p>
 
-    <h2 style="margin-top:2.5rem;margin-bottom:1rem;font-size:1.5rem;">What You'll Find Here</h2>
+    <h2 style="margin-top:2.5rem;margin-bottom:1rem;font-size:1.3rem;">What You'll Find Here</h2>
     
-    <ul style="margin-bottom:2rem;padding-left:1.5rem;">
-      <li style="margin-bottom:0.5rem;"><strong>Plant Lore & Practical Herbalism:</strong> Magical and medicinal uses of herbs, from protection and purification to fertility and dreamwork.</li>
-      <li style="margin-bottom:0.5rem;"><strong>Folk Magic & Witchcraft:</strong> Spells, rituals, and craft techniques rooted in tradition but adapted for contemporary practice.</li>
-      <li style="margin-bottom:0.5rem;"><strong>Ancestral & Spirit Traditions:</strong> House spirits, land guardians, lunar cycles, and the animist practices that connect us to place and lineage.</li>
-      <li style="margin-bottom:0.5rem;"><strong>Living Traditions:</strong> Research into regional folklore—particularly Balkan and Eastern European traditions—alongside personal experimentation and field notes.</li>
+    <ul style="margin-bottom:2rem;padding-left:0;list-style-position:inside;text-align:center;">
+      <li style="margin-bottom:0.8rem;"><span style="color:#2d5016;font-weight:600;">Plant Lore & Practical Herbalism:</span> Magical and medicinal uses of herbs, from <span style="color:#4a6741;font-weight:600;">protection</span> and <span style="color:#5d4e37;font-weight:600;">purification</span> to <span style="color:#6b4423;font-weight:600;">fertility</span> and <span style="color:#4a3c31;font-weight:600;">dreamwork</span>.</li>
+      <li style="margin-bottom:0.8rem;"><span style="color:#4a6741;font-weight:600;">Folk Magic & Witchcraft:</span> <span style="color:#5d4e37;font-weight:600;">Spells</span>, <span style="color:#6b4423;font-weight:600;">rituals</span>, and craft techniques rooted in tradition but adapted for <span style="color:#2d5016;font-weight:600;">contemporary practice</span>.</li>
+      <li style="margin-bottom:0.8rem;"><span style="color:#6b4423;font-weight:600;">Ancestral & Spirit Traditions:</span> <span style="color:#4a6741;font-weight:600;">House spirits</span>, <span style="color:#5d4e37;font-weight:600;">land guardians</span>, <span style="color:#2d5016;font-weight:600;">lunar cycles</span>, and the animist practices that connect us to <span style="color:#4a3c31;font-weight:600;">place</span> and <span style="color:#6b4423;font-weight:600;">lineage</span>.</li>
+      <li style="margin-bottom:0.8rem;"><span style="color:#5d4e37;font-weight:600;">Living Traditions:</span> Research into <span style="color:#4a6741;font-weight:600;">regional folklore</span>—particularly <span style="color:#6b4423;font-weight:600;">Balkan</span> and <span style="color:#2d5016;font-weight:600;">Eastern European</span> traditions—alongside personal experimentation and field notes.</li>
     </ul>
 
-    <h2 style="margin-top:2.5rem;margin-bottom:1rem;font-size:1.5rem;">A Note on Tradition & Ethics</h2>
+    <h2 style="margin-top:2.5rem;margin-bottom:1rem;font-size:1.3rem;">A Note on Tradition & Ethics</h2>
     
     <p>
-      The practices shared here are drawn from folk traditions, academic research, and personal experience. I strive to honor the sources of this knowledge—whether that's a centuries-old herbal manuscript, a conversation with an elder, or the quiet teaching of a plant growing behind my house.
+      The practices shared here are drawn from <span style="color:#4a6741;font-weight:600;">folk traditions</span>, <span style="color:#5d4e37;font-weight:600;">academic research</span>, and <span style="color:#6b4423;font-weight:600;">personal experience</span>. I strive to honor the <span style="color:#2d5016;font-weight:600;">sources</span> of this knowledge—whether that's a <span style="color:#4a3c31;font-weight:600;">centuries-old herbal manuscript</span>, a conversation with an <span style="color:#6b4423;font-weight:600;">elder</span>, or the quiet teaching of a <span style="color:#2d5016;font-weight:600;">plant</span> growing behind my house.
     </p>
 
     <p>
-      This work is inherently syncretic: it weaves together strands from multiple traditions because that is how folk magic has always evolved. At the same time, I believe in giving credit, respecting closed practices, and never claiming authority over traditions that aren't mine to teach.
+      This work is inherently <span style="color:#4a6741;font-weight:600;">syncretic</span>: it weaves together strands from multiple traditions because that is how <span style="color:#5d4e37;font-weight:600;">folk magic</span> has always <span style="color:#6b4423;font-style:italic;font-weight:600;">evolved</span>. At the same time, I believe in giving <span style="color:#2d5016;font-weight:600;">credit</span>, respecting <span style="color:#4a3c31;font-weight:600;">closed practices</span>, and never claiming authority over traditions that aren't mine to teach.
     </p>
 
-    <div class="about-closing" style="margin-top:3rem;padding:2rem;background:#f9f9f9;border-left:4px solid #666;text-align:center;">
-      <p style="margin:0;font-style:italic;font-size:1.1rem;">
-        "The plants remember. The land remembers. We are simply learning to listen again."
+    <div class="about-closing" style="margin-top:3rem;padding:2rem;background:#f9f9f9;border-left:4px solid #666;border-right:4px solid #666;">
+      <p style="margin:0;font-style:italic;font-size:1.1rem;color:#4a3c31;">
+        "The <span style="color:#2d5016;font-weight:600;">plants</span> remember. The <span style="color:#4a6741;font-weight:600;">land</span> remembers. We are simply learning to <span style="color:#6b4423;font-weight:600;">listen</span> again."
       </p>
     </div>
 
-    <div class="about-contact" style="margin-top:3rem;text-align:center;">
+    <div class="about-contact" style="margin-top:3rem;">
       <p style="margin-bottom:0.5rem;">
-        <strong>Questions? Collaborations? Just want to say hello?</strong>
+        <span style="color:#4a3c31;font-weight:600;">Questions? Collaborations? Just want to say hello?</span>
       </p>
       <p style="margin:0;">
-        Reach out at <a href="mailto:your-email@example.com" style="color:#666;text-decoration:underline;">your-email@example.com</a>
+        Reach out at <a href="mailto:your-email@example.com" style="color:#6b4423;text-decoration:underline;font-weight:600;">your-email@example.com</a>
       </p>
       <p style="margin-top:1rem;font-size:0.9rem;color:#777;">
-        Or find me wandering in the garden, probably talking to the roses.
+        Or find me wandering in the <span style="color:#2d5016;font-weight:600;">garden</span>, probably talking to the <span style="color:#4a6741;font-style:italic;">roses</span>.
       </p>
     </div>
 
