@@ -202,7 +202,7 @@ This post is based on documented folklore sources, including:
 - Claude Lecouteux – *The Tradition of Household Spirits*
 - Slavic and Balkan ethnographic archives (19th–20th century)
 
-No modern ritual inventions have been added.
+*No modern ritual inventions have been added.*
 
 ---
 
