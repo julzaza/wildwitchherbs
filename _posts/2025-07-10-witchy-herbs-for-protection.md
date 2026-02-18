@@ -77,9 +77,11 @@ Balkan hedgewitches and "baba vračare" used herbs both practically and magicall
 - **St. John’s Wort**: Hung over doors during summer solstice to guard against demons and storms.
 - **Thyme**: Brewed into washes for psychic cleansing.
   
+Learn more about **[Witchy Herbs Used by Vlach Wise Women of the Balkans](/herbs-vlach-wise-women/)**.
+
 **Rituals**: “Throwing herbs on coals” was a common household practice for driving out the evil eye or banishing sorrow.
 
-Learn more about **[Witchy Herbs Used by Vlach Wise Women of the Balkans](/herbs-vlach-wise-women/)**.
+Seasonal cleansing of the home formed another layer of protection — especially during early spring purifications explored in **[Spring Cleaning in Folk Magic](/spring-cleaning-folk-magic/)**. 
 
 ---
 
