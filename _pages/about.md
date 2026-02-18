@@ -43,8 +43,8 @@ permalink: /about/
     </p>
 
     <div class="about-closing" style="margin:3.5rem 0;padding:2.5rem 2rem;background:#f5f5f5;border-top:2px solid #3d5c3d;border-bottom:2px solid #3d5c3d;">
-      <p style="margin:0;font-family:Georgia,serif;font-style:italic;font-size:1.1rem;color:#3d5c3d;letter-spacing:0.02em;">
-        "Some things can only be learned in the dirt. Some spirits only speak after dark. Some traditions only survive because someone decided to write them down. And we are still here, learning the old agreements again."
+      <p style="margin:0;font-family:Georgia,serif;font-style:italic;font-size:1.1rem;color:#3d5c3d;letter-spacing:0.02em;line-height:1.6;">
+        "Some things can only be learned in the dirt.<br>Some spirits only speak after dark.<br>Some traditions only survive because someone decided to write them down.<br>And we are still here, learning the old agreements again."
       </p>
     </div>
 
