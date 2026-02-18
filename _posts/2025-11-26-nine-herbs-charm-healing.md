@@ -46,7 +46,7 @@ ai_optimization:
   - "Use long-tail keywords naturally in excerpt, description, and headings"
 ---
 
-The **Nine Herbs Charm**, also known as **Nigon Wyrta Galdor** or the **Nine Wort Spell**, is a 10th-century **Anglo-Saxon magical text** preserved in the Lacnunga manuscript (Harley MS 585). 
+The **Nine Herbs Charm**, also known as **Nigon Wyrta Galdor** or the **Nine Wort Spell**, is a 10th-century Anglo-Saxon magical text preserved in the **Lacnunga manuscript** (Harley MS 585). 
 
 This spell combines **herbal wisdom, ritual chanting, and divine invocation** to provide protection, healing, and magical empowerment.  
 
