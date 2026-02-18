@@ -1,15 +1,7 @@
 ---
-layout: archive
+layout: default
 title: Wild Witch Herbs Blog
 permalink: /blog/
-description: Enter the herbal grimoire — a living archive of plant lore, ritual craft, and ancestral witchcraft traditions. Each post explores the deeper magic of herbs, from protection and purification to fertility, spirit work, and folk healing.
-entries_layout: grid
-show_excerpts: true
-excerpt_length: 160
-columns: 3
-show_date: true
-show_author: false
-paginate: false
 ---
 
 <div class="archive-intro">
