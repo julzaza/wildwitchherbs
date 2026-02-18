@@ -99,7 +99,7 @@ Livestock were vulnerable to:
 
 - fairy mischief  
 - milk-stealing spirits  
-- witches who “blighted” cows  
+- human or otherworldly forces believed to drain vitality 
 
 So rowan branches were tied at:
 
@@ -112,6 +112,8 @@ This practice appears in Scottish, Irish, and Manx tales, with overwhelming cons
 
 Women often used rowan, red thread, or both—especially on **May Eve**, a dangerous night for milk magic.
 
+Rowan protections appear in 18th–19th century Highland accounts, including livestock rites recorded by folklorist Alexander Carmichael in Carmina Gadelica.
+
 ---
 
 ## Rowan as a Living Guardian  
@@ -119,14 +121,9 @@ Planting a rowan tree by the door was more than tradition.
 
 It was an act of **household fortification**.
 
-The tree grew into its role, year after year, becoming:
+The tree grew into its role, year after year, becoming a living boundary — rooting protection into the land itself.
 
-- a binding spell  
-- a boundary marker  
-- a shield  
-- a witness to oaths and blessings  
-
-When rowan thrived, the household thrived with it.
+**When rowan thrived, the household thrived with it.**
 
 Just as rowan guarded the household threshold, larger sacred trees — especially oaks — protected villages and communal land, a role documented in **[The Balkan Oak Tree Cult](/balkan-oak-tree-cult/)**.
 
@@ -178,12 +175,30 @@ Over time, the protective meaning dominated.
 
 Rowan was not considered a tree *of* witches — but a tree *against* harmful witchcraft.
 
-Its berries — marked with a star — were viewed as protective seals.
+Its berries reinforced this protective reputation
 
 A widely recorded folk charm states:
 
 > “Rowan tree and red thread  
 > Will put witches to their speed.”
+
+Important folklore nuance:
+
+“Speed” ≠ physical running.
+
+It meant:
+
+magical success
+
+power
+
+effectiveness
+
+ability to cause harm
+
+So the charm means:
+
+“Strip witches of their power.”
 
 Meaning harmful forces would be driven away swiftly.
 
@@ -226,13 +241,13 @@ It was a mediator between worlds — alive, watchful, and fiercely loyal to the 
 
 ---
 
-# FAQ
+## FAQ
 
 ### **Is rowan always protective?**
 Yes—but only in the proper place and season. Direction and intent mattered.
 
 ### **Was rowan connected to saints or Christianity?**
-Yes. St. Brigid, St. Helen, and St. Michael sometimes absorbed older rowan lore, making it both magical and “holy.”
+Yes. Often through syncretism rather than origin. St. Brigid, St. Helen, and St. Michael sometimes absorbed older rowan lore, making it both magical and “holy.”
 
 ### **Should modern witches plant rowan by the door?**
 If it suits your land and climate, absolutely. Also, see why **[Witches Use Rosemary to Guard the Front Door](/why-witches-plant-rosemary-front-door/)**, for an alternative threshold protection strategy.
