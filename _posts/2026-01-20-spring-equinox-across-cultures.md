@@ -154,6 +154,8 @@ Beyond regional variation, specific protective actions appear repeatedly:
 - washing bodies and tools with blessed or running water
 - sweeping thresholds outward, never inward
 
+Household-specific rituals are explored deeper in **[House Spring Cleaning: Rules & Taboos](/spring-cleaning-folk-magic/)**, detailing customs around dust, ash, and thresholds.
+
 ### Offering
 - bread, grain, or fruit left at boundaries, springs, or trees
 - coins or cloth at holy wells
