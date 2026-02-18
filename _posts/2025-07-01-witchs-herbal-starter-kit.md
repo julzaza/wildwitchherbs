@@ -142,6 +142,10 @@ Burned in temples, steeped in mourning tea, poured into floor washes. In Balkan 
 - Folk practice did not treat all herbs as recreational — most were ceremonial or protective.  
 - Traditional witchcraft often included subtle dreamwork and protective magic, not always overt hallucinogens.
 
+In many traditions, plant gathering followed strict ritual timing — especially around the equinox, when the first plants were treated as threshold medicines rather than common herbs.
+
+Explore **[Spring Equinox Foraging: Folklore of Early Plants](/spring-equinox-foraging-folklore/)** to learn more about seasonal restrictions. 
+
 ---
 
 ## Closing the Circle
