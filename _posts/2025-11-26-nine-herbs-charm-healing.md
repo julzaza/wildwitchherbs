@@ -7,6 +7,9 @@ excerpt: "Explore the Nine Herbs Charm, a 10th-century Anglo-Saxon spell using n
 description: "Discover the Nine Herbs Charm, an ancient Anglo-Saxon spell invoking Woden and nine sacred herbs for protection, healing, and magical empowerment. Learn its pagan roots, historical context, and modern herbal applications."
 categories: [herbal-magic, folklore-ancestral]
 tags: [Nine Herbs Charm, Nigon Wyrta Galdor, Lacnunga, Anglo-Saxon Magic, Protective Herbs]
+
+redirect_from: /nine-herbs-charm-healing/
+
 audience: "Herbalists, witches, folklore enthusiasts, historical magic researchers"
 language: "en"
 difficulty: "Intermediate"
