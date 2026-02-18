@@ -37,6 +37,8 @@ faq:
 In Balkan folk tradition, **spring was not romantic**.  
 It was a **threshold season**, when forces long dormant returned — fertility, illness, desire, envy, spirits, and hunger alike.
 
+This perception of spring as unstable balance was not unique to the Balkans, but part of a wider seasonal worldview explored in **[Spring Equinox: Global Folklore and Protective Rituals](/spring-equinox-global-folklore/)**, where protection — not celebration — marked the turning of the light.
+
 Winter survival had ended. Now came risk.
 
 Across Serbia, Bulgaria, Romania, Croatia, Albania, and Vlach regions, spring herbs were gathered not for aesthetics, but because **life depended on them**. Crops needed blessing. Women needed protection. Marriages needed fertility. Homes needed guarding.
