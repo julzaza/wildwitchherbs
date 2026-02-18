@@ -119,6 +119,8 @@ Mighty against the evil one’s trials—may you shield us.”)
 
 Source: The Lacnunga, 10th century Anglo-Saxon medical manuscript
 
+Mugwort’s prominence in early charm work is perhaps most famously preserved in the **[Nine Herbs Charm: Anglo-Saxon Healing Magic](/nine-herbs-charm-anglo-saxon/)**, where it stands among nine sacred plants invoked for protection and healing.
+
 ---
 
 ### *Sweet Wormwood* (Artemisia Annua)
