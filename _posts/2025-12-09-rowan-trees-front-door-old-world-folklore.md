@@ -25,6 +25,8 @@ Its presence meant one thing:
 
 This tradition is among the oldest and most widespread in European folk magic, stretching from the Scottish Highlands to Scandinavia, the Isle of Man, Ireland, Wales, and northern Germanic regions.
 
+Rowan thrives at high elevations where oak and ash struggle — reinforcing its reputation as a survivor tree rooted in harsh, liminal ground.
+
 If you want more plant magic for the threshold, see **[Ancient Doorway Talismans](/witchy-plants-for-front-door/)** which places rowan among other doorway guardians.
 
 ---
@@ -110,6 +112,8 @@ So rowan branches were tied at:
 
 This practice appears in Scottish, Irish, and Manx tales, with overwhelming consistency.
 
+It was especially documented in Argyll, the Isle of Skye, and the Hebrides, where cattle protection charms formed part of seasonal farm rites.
+
 Women often used rowan, red thread, or both—especially on **May Eve**, a dangerous night for milk magic.
 
 Rowan protections appear in 18th–19th century Highland accounts, including livestock rites recorded by folklorist Alexander Carmichael in Carmina Gadelica.
@@ -175,30 +179,23 @@ Over time, the protective meaning dominated.
 
 Rowan was not considered a tree *of* witches — but a tree *against* harmful witchcraft.
 
-Its berries reinforced this protective reputation
+Its berries reinforced this protective reputation.
 
 A widely recorded folk charm states:
 
 > “Rowan tree and red thread  
-> Will put witches to their speed.”
+> Put the witches to their speed.”
 
 Important folklore nuance:
 
-“Speed” ≠ physical running.
+“Speed” did not mean physical running. It referred to:
 
-It meant:
+- magical success  
+- power  
+- effectiveness  
+- ability to cause harm
 
-magical success
-
-power
-
-effectiveness
-
-ability to cause harm
-
-So the charm means:
-
-“Strip witches of their power.”
+So the charm means: strip witches of their power.
 
 Meaning harmful forces would be driven away swiftly.
 
