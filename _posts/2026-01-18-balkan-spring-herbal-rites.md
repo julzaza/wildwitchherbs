@@ -61,6 +61,8 @@ Unlike modern witchcraft lists, Balkan folk practice followed **strict seasonal 
 
 Women — particularly **babe, vračare, and village herbalists** — passed these rules orally, not in books.
 
+This caution extended beyond the Balkans — forming part of a global pattern of early plant restraint explored in **[Spring Equinox Foraging](/spring-equinox-foraging-folklore/)**, where the first greens were approached as threshold medicines rather than simple food.
+
 Spring herbs governed three main needs:
 
 1. Love and marriage  
