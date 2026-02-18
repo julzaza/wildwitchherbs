@@ -11,18 +11,17 @@ show_date: true
 show_author: false
 paginate: false
 ---
+
 <div class="archive-intro">
   <p>Enter the herbal grimoire — a living archive of plant lore, ritual craft, and ancestral witchcraft traditions. Each post explores the deeper magic of herbs, from protection and purification to fertility, spirit work, and folk healing.</p>
 </div>
 
-{% if paginator.posts %}
+{% if site.posts %}
   <div class="archive-entries">
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
       {% include archive-grid-item.html post=post %}
     {% endfor %}
   </div>
-
-  {% include archive-pagination.html %}
 {% else %}
   <p>No posts found yet. Check back soon for magical herbal insights.</p>
 {% endif %}
