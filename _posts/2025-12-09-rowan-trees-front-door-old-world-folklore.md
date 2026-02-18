@@ -54,7 +54,7 @@ Rowan was planted there because it:
 - signaled to spirits that the home was protected  
 - reinforced the household’s right to stand untouched  
 
-In some regions, rowan twigs were placed **above the door lintel** during the Twelve Nights or Midsummer—liminal festivals full of wandering spirits.
+In some regions, rowan twigs were placed **above the door lintel** during the **[Twelve Nights](/twelve-nights-witchcraft/)** or Midsummer—liminal festivals full of wandering spirits.
 
 ---
 
@@ -73,15 +73,6 @@ This belief appears in:
 The west was where the dead traveled at dusk.
 
 Planting rowan on that side risked **drawing them in**.
-
-Thus, witches and housekeepers placed rowan by:
-
-- the gate  
-- the front door  
-- the barn entrance  
-- the start of the footpath  
-
-—but rarely to the west.
 
 ---
 
