@@ -93,6 +93,8 @@ Druidic and folk traditions across Ireland, Scotland, and Wales treated protecti
 
 **Rituals**: Crosses made of rowan and red thread were placed above doors and cradles.
 
+Mugwort’s sacred status is also recorded in early Anglo-Saxon charm tradition, most notably in the **[Nine Herbs Charm: Healing Magic](/nine-herbs-charm-anglo-saxon/)** — a ritual text invoking nine protective plants through chant and preparation.
+ 
 ---
 
 ## 🜂 Nordic and Norse Witchcraft
