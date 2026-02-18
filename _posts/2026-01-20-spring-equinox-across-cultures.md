@@ -93,7 +93,7 @@ Ethnographic records describe:
 
 The land was believed to be **listening**. Premature joy or demand risked withdrawing its cooperation for the entire growing season.
 
-This connects to broader Balkan traditions where trees, stones, and household spirits governed seasonal safety—practices explored in [Balkan Spring Herbal Rites](/balkan-spring-herbal-rites/).
+This connects to broader Balkan traditions where trees, stones, and household spirits governed seasonal safety—practices explored in **[Balkan Spring Herbal Rites](/balkan-spring-herbal-rites/)**.
 
 ---
 
@@ -187,7 +187,7 @@ Traditional rules included:
 
 This practical restraint mirrored the broader equinox attitude: **the land is awake, but not yet generous**.
 
-Full exploration: [Spring Equinox Foraging: Folklore of Early Plants](/spring-equinox-foraging-folklore/)
+Full exploration: **[Spring Equinox Foraging: Folklore of Early Plants](/spring-equinox-foraging-folklore/)**
 
 ---
 
