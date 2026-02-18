@@ -102,11 +102,11 @@ Breath, voice, and motion fused intention into the medicine. In this way, remedy
 
 ## Pagan Origins and Christian Adaptation
 
-The charm preserves **pre-Christian magical practices**, later adapted to **fit early Christian norms**. 
+The charm preserves **pre-Christian magical practices**, later adapted to fit early Christian norms. 
 
 Despite adaptation, it retains **raw mystical energy**, highlighting the human desire to connect with **plants, ritual, and divine power**.  
 
-It provides insight into how **early Anglo-Saxons blended observation, herbal knowledge, and ritual for survival and spiritual protection**.
+It provides insight into how **early Anglo-Saxons blended observation, herbal knowledge, and ritual** for survival and spiritual protection.
 
 ---
 
