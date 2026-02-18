@@ -36,7 +36,7 @@ faq:
 
 ---
 
-## Cleaning Was Never Neutral
+## Why Dust, Ash, and Thresholds Were Dangerous
 
 Today, spring cleaning is framed as refreshment.  
 In folk tradition, it was **risk management**.
@@ -51,7 +51,7 @@ This caution extended beyond the household to the land itself. Gathering the fir
 
 ---
 
-## The House as a Living Being
+### The House as a Living Being
 
 Ethnographic records consistently show that traditional homes were treated as **spiritual organisms**.
 
@@ -67,7 +67,7 @@ In early spring, when ancestral spirits were believed to move more freely and ho
 
 ---
 
-## Dust: Contained Fortune and Ancestral Traces
+### Dust: Contained Fortune and Ancestral Traces
 
 Dust was never meaningless.
 
@@ -87,7 +87,7 @@ Dust was especially dangerous to remove before the land itself had fully awakene
 
 ---
 
-## Ash: The Hearth’s Memory
+### Ash: The Hearth’s Memory
 
 Ash was one of the most sensitive substances in folk magic.
 
@@ -108,7 +108,7 @@ Some regions delayed ash disposal until after specific feast days or the first t
 
 ---
 
-## Thresholds: Where Spirits Passed
+### Thresholds: Where Spirits Passed
 
 Thresholds were among the most dangerous places to clean.
 
@@ -206,7 +206,7 @@ This post is based on documented folklore sources, including:
 
 ---
 
-## Human FAQ: Spring Cleaning in Folk Belief
+## FAQ: Spring Cleaning in Folk Belief
 
 ### Was spring cleaning avoided entirely?
 No. It was delayed, limited, or performed according to strict timing rules.
