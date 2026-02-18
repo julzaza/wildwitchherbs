@@ -7,9 +7,9 @@ layout: default
   <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3));z-index:1;"></div>
   <img src="/assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp" alt="Wild Witch Herbs" style="width:100%;height:auto;display:block;">
   <div style="position:absolute;top:0;left:0;width:100%;height:100%;display:flex;align-items:center;justify-content:center;z-index:2;">
-    <div style="text-align:center;color:#fff;">
-      <h1 style="font-family:'Cormorant Garamond',Georgia,serif;font-size:3.5rem;margin:0;font-weight:300;letter-spacing:0.15em;text-transform:uppercase;">Wild Witch Herbs</h1>
-      <p style="font-family:'Cormorant Garamond',Georgia,serif;font-size:1.4rem;margin-top:0.8rem;font-weight:400;font-style:italic;letter-spacing:0.05em;opacity:0.9;">Plant lore & folk magic</p>
+    <div style="text-align:center;color:#fff;margin-top:0;">
+      <h1 style="font-family:Georgia,serif;font-size:3.2rem;margin:0;font-weight:400;letter-spacing:0.12em;text-transform:uppercase;text-shadow:0 2px 8px rgba(0,0,0,0.6);">Wild Witch Herbs</h1>
+      <p style="font-family:Georgia,serif;font-size:1.3rem;margin-top:0.6rem;font-weight:400;font-style:italic;letter-spacing:0.08em;opacity:0.95;text-shadow:0 2px 6px rgba(0,0,0,0.5);">Plant lore & folk magic</p>
     </div>
   </div>
 </div>
@@ -18,16 +18,14 @@ layout: default
   <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.35));z-index:1;"></div>
   <img src="/assets/images/800x400px-flat-lay-cup-herbal-tea-with-plants.webp" alt="Wild Witch Herbs" style="width:100%;height:auto;display:block;">
   <div style="position:absolute;top:0;left:0;width:100%;height:100%;display:flex;align-items:center;justify-content:center;z-index:2;">
-    <div style="text-align:center;color:#fff;width:90%;">
-      <h1 style="font-family:'Cormorant Garamond',Georgia,serif;font-size:2rem;margin:0;font-weight:300;letter-spacing:0.15em;text-transform:uppercase;">Wild Witch Herbs</h1>
-      <p style="font-family:'Cormorant Garamond',Georgia,serif;font-size:1.1rem;margin-top:0.5rem;font-weight:400;font-style:italic;letter-spacing:0.05em;opacity:0.9;">Plant lore & folk magic</p>
+    <div style="text-align:center;color:#fff;width:90%;margin-top:0;">
+      <h1 style="font-family:Georgia,serif;font-size:2rem;margin:0;font-weight:400;letter-spacing:0.12em;text-transform:uppercase;text-shadow:0 2px 6px rgba(0,0,0,0.6);">Wild Witch Herbs</h1>
+      <p style="font-family:Georgia,serif;font-size:1rem;margin-top:0.4rem;font-weight:400;font-style:italic;letter-spacing:0.08em;opacity:0.95;text-shadow:0 2px 4px rgba(0,0,0,0.5);">Plant lore & folk magic</p>
     </div>
   </div>
 </div>
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=Source+Sans+Pro:wght@300;400;600&display=swap');
-  
   @media (min-width: 769px) {
     .desktop-only { display: block !important; }
     .mobile-only { display: none !important; }
@@ -39,39 +37,39 @@ layout: default
 </style>
 
 <!-- MAIN CONTENT -->
-<div id="main" class="home-archive" role="main" style="padding-top:3rem;">
+<div id="main" class="home-archive" role="main" style="padding-top:2rem;">
   {% include sidebar.html %}
 
   <!-- ELEGANT INTRO -->
-  <div class="home-intro" style="text-align:center; max-width:600px; margin:0 auto 2.5rem auto; padding:0 1.5rem;">
-    <p style="font-family:'Cormorant Garamond',Georgia,serif;font-size:1.25rem;line-height:1.8;color:#3d3d3d;font-weight:400;">
+  <div class="home-intro" style="text-align:center; max-width:600px; margin:0 auto 2rem auto; padding:0 1.5rem;">
+    <p style="font-family:Georgia,serif;font-size:1.2rem;line-height:1.7;color:#3d3d3d;font-weight:400;margin:0;">
       A living archive of ancestral plant wisdom, folk magic, and the old ways of working with land and spirit.
     </p>
-    <div style="width:60px;height:1px;background:#7a5c3d;margin:1.5rem auto;"></div>
+    <div style="width:60px;height:1px;background:#7a5c3d;margin:1.2rem auto 0 auto;"></div>
   </div>
 
   <!-- SHOP LINK -->
   <div class="shop-link" style="text-align:center; margin-bottom:0.5rem;">
-    <a href="{{ page.shop_link | default: '/shop/' }}" style="font-family:'Source Sans Pro',sans-serif;font-size:0.85rem;font-weight:600;letter-spacing:0.2em;text-transform:uppercase;text-decoration:none;color:#5c4d3d;border-bottom:1px solid #7a5c3d;padding-bottom:2px;transition:all 0.3s;">Visit the Apothecary</a>
+    <a href="{{ page.shop_link | default: '/shop/' }}" style="font-family:Arial,sans-serif;font-size:0.8rem;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;text-decoration:none;color:#5c4d3d;border-bottom:1px solid #7a5c3d;padding-bottom:2px;">Visit the Shop</a>
     {% include feature_row %}
   </div>
 
-  <!-- FEATURED: Minimal section -->
-  <section class="cluster-section" style="max-width:1000px; margin:2rem auto 3rem auto; padding:0 1rem;">
-    <h2 style="font-family:'Source Sans Pro',sans-serif;font-size:0.75rem;font-weight:600;letter-spacing:0.25em;text-transform:uppercase;color:#7a6b5a;text-align:center;margin-bottom:2rem;">
+  <!-- FEATURED -->
+  <section class="cluster-section" style="max-width:1000px; margin:1.5rem auto 3rem auto; padding:0 1rem;">
+    <h2 style="font-family:Arial,sans-serif;font-size:0.75rem;font-weight:600;letter-spacing:0.2em;text-transform:uppercase;color:#6b5d4d;text-align:center;margin-bottom:1.5rem;">
       Featured
     </h2>
-    <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px,1fr)); gap:2.5rem;">
+    <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px,1fr)); gap:2rem;">
       {% assign featured_posts = site.posts | sort:'date' | reverse %}
       {% assign count = 0 %}
       {% for post in featured_posts %}
         {% if post.featured %}
           <article style="text-align:center;">
-            <h3 style="font-family:'Cormorant Garamond',Georgia,serif;font-size:1.4rem;font-weight:600;margin:0 0 0.5rem 0;line-height:1.3;">
-              <a href="{{ post.url | relative_url }}" style="color:#2d2d2d;text-decoration:none;transition:color 0.3s;">{{ post.title }}</a>
+            <h3 style="font-family:Georgia,serif;font-size:1.25rem;font-weight:600;margin:0 0 0.4rem 0;line-height:1.3;color:#2d2d2d;">
+              <a href="{{ post.url | relative_url }}" style="color:#2d2d2d;text-decoration:none;">{{ post.title }}</a>
             </h3>
             {% if post.excerpt %}
-              <p style="font-family:'Source Sans Pro',sans-serif;font-size:0.9rem;line-height:1.6;color:#666;margin:0;">
+              <p style="font-family:Arial,sans-serif;font-size:0.9rem;line-height:1.5;color:#555;margin:0;">
                 {{ post.excerpt | strip_html | truncate: 120 }}
               </p>
             {% endif %}
@@ -83,24 +81,24 @@ layout: default
     </div>
   </section>
 
-  <div style="width:100%;height:1px;background:#e5e5e5;max-width:200px;margin:0 auto 3rem auto;"></div>
+  <div style="width:100%;height:1px;background:#ddd;max-width:150px;margin:0 auto 2.5rem auto;"></div>
 
   <!-- HERBALISM & MAGIC -->
-  <section class="cluster-section" style="max-width:1000px; margin:0 auto 3rem auto; padding:0 1rem;">
-    <h2 style="font-family:'Source Sans Pro',sans-serif;font-size:0.75rem;font-weight:600;letter-spacing:0.25em;text-transform:uppercase;color:#7a6b5a;text-align:center;margin-bottom:2rem;">
+  <section class="cluster-section" style="max-width:1000px; margin:0 auto 2.5rem auto; padding:0 1rem;">
+    <h2 style="font-family:Arial,sans-serif;font-size:0.75rem;font-weight:600;letter-spacing:0.2em;text-transform:uppercase;color:#6b5d4d;text-align:center;margin-bottom:1.5rem;">
       Herbalism & Magic
     </h2>
-    <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px,1fr)); gap:2.5rem;">
+    <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px,1fr)); gap:2rem;">
       {% assign herbal_posts = site.posts | sort:'date' | reverse %}
       {% assign herbal_count = 0 %}
       {% for post in herbal_posts %}
         {% if post.categories contains 'herbal-magic' %}
           <article style="text-align:center;">
-            <h3 style="font-family:'Cormorant Garamond',Georgia,serif;font-size:1.3rem;font-weight:600;margin:0 0 0.5rem 0;line-height:1.3;">
+            <h3 style="font-family:Georgia,serif;font-size:1.2rem;font-weight:600;margin:0 0 0.4rem 0;line-height:1.3;color:#2d2d2d;">
               <a href="{{ post.url | relative_url }}" style="color:#2d2d2d;text-decoration:none;">{{ post.title }}</a>
             </h3>
             {% if post.excerpt %}
-              <p style="font-family:'Source Sans Pro',sans-serif;font-size:0.9rem;line-height:1.6;color:#666;margin:0;">
+              <p style="font-family:Arial,sans-serif;font-size:0.9rem;line-height:1.5;color:#555;margin:0;">
                 {{ post.excerpt | strip_html | truncate: 120 }}
               </p>
             {% endif %}
@@ -112,22 +110,22 @@ layout: default
     </div>
   </section>
 
-  <div style="width:100%;height:1px;background:#e5e5e5;max-width:200px;margin:0 auto 3rem auto;"></div>
+  <div style="width:100%;height:1px;background:#ddd;max-width:150px;margin:0 auto 2.5rem auto;"></div>
 
   <!-- MORE ARTICLES -->
-  <section class="cluster-section" style="max-width:1000px; margin:0 auto 4rem auto; padding:0 1rem;">
-    <h2 style="font-family:'Source Sans Pro',sans-serif;font-size:0.75rem;font-weight:600;letter-spacing:0.25em;text-transform:uppercase;color:#7a6b5a;text-align:center;margin-bottom:2rem;">
+  <section class="cluster-section" style="max-width:1000px; margin:0 auto 3rem auto; padding:0 1rem;">
+    <h2 style="font-family:Arial,sans-serif;font-size:0.75rem;font-weight:600;letter-spacing:0.2em;text-transform:uppercase;color:#6b5d4d;text-align:center;margin-bottom:1.5rem;">
       All Stories
     </h2>
-    <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px,1fr)); gap:2.5rem;">
+    <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px,1fr)); gap:2rem;">
       {% assign all_posts = site.posts | sort:'date' | reverse %}
       {% for post in all_posts %}
         <article style="text-align:center;">
-          <h3 style="font-family:'Cormorant Garamond',Georgia,serif;font-size:1.3rem;font-weight:600;margin:0 0 0.5rem 0;line-height:1.3;">
+          <h3 style="font-family:Georgia,serif;font-size:1.2rem;font-weight:600;margin:0 0 0.4rem 0;line-height:1.3;color:#2d2d2d;">
             <a href="{{ post.url | relative_url }}" style="color:#2d2d2d;text-decoration:none;">{{ post.title }}</a>
           </h3>
           {% if post.excerpt %}
-            <p style="font-family:'Source Sans Pro',sans-serif;font-size:0.9rem;line-height:1.6;color:#666;margin:0;">
+            <p style="font-family:Arial,sans-serif;font-size:0.9rem;line-height:1.5;color:#555;margin:0;">
               {{ post.excerpt | strip_html | truncate: 120 }}
             </p>
           {% endif %}
