@@ -260,7 +260,7 @@ A: In folk belief, herbs carry inherent protective qualities. Their power is oft
 A: Garlic, rue, mugwort, juniper, wormwood, angelica, basil, and blackthorn are among the most consistently cited protective herbs across European, Balkan, Mediterranean, and global folk traditions.
 
 **Q: Do protective herbs need rituals to work?**  
-A: Not always. Many herbs were traditionally hung, carried, planted, or placed without formal ritual. Rituals, prayers, or charms were used to intensify their effect, not create it from nothing.
+A: Not always. Many herbs were traditionally hung, carried, planted, or placed without formal ritual. Rituals, prayers, or charms were used to intensify their effect, not create it from nothing. Seasonal rites such as spring house cleansings often amplified their effect, combining herbal protection with ritual purification practices explored in **[Spring Cleaning in Folk Magic](/spring-cleaning-folk-magic/)**. 
 
 ---
 
