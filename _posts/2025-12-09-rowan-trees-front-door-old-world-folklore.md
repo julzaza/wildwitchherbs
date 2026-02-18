@@ -220,13 +220,6 @@ It did not reject witchcraft itself.
 
 It rejected malice, intrusion, and imbalance.
 
-This is why rowan appears simultaneously in:
-
-- Protective household planting  
-- Divining tools  
-- Ritual staffs  
-- Boundary charms  
-
 It was never merely a barrier.
 
 It was a mediator between worlds — alive, watchful, and fiercely loyal to the land it rooted in.
