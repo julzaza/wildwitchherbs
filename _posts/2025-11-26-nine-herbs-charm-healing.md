@@ -84,7 +84,9 @@ Protective plant power was not limited to spoken charms. In wider European folkl
 | Fennel      | Courage, clarity, digestion          | Tea, digestive aid, ritual smudging |
 | Garlic      | Protection, antimicrobial            | Poultices, warding rituals, culinary magic |
 
-Each herb carries **symbolic, medicinal, and magical significance**, and chanting the charm aloud transforms ordinary herbal preparations into **powerful protective and healing rituals**.
+Each herb carries **symbolic, medicinal, and magical significance**, and chanting the charm aloud transforms ordinary herbal preparations into **powerful protective and healing rituals**. 
+
+This tradition is echoed across many European plant rites, as explored in **[Top Protective Herbs in Witchcraft](/top-protective-herbs-witchcraft/)**, where sacred plants stand as guardians against harm, illness, and unseen intrusion.
 
 ---
 
