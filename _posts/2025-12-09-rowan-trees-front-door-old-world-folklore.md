@@ -92,7 +92,7 @@ But cunning folk—witches working within the community—used rowan extensively
 The difference lay in **intention**:  
 Rowan guarded the household from harmful magic, not from practitioners who worked in harmony with the land.
 
-This nuance appears throughout Celtic folklore.
+This protective role echoes older Anglo-Saxon plant charms, where herbs were invoked collectively to repel poison, curses, and hostile forces — most famously in the **[Nine Herbs Charm](/nine-herbs-charm-anglo-saxon/)**, where sacred plants and spoken galdor worked as unified magical defense.
 
 ---
 
