@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Nine Herbs Charm: Anglo-Saxon Healing & Magic"
+title: "The Nine Herbs Charm: Anglo-Saxon Healing Magic"
 
 permalink: /nine-herbs-charm-anglo-saxon/
 excerpt: "Explore the Nine Herbs Charm, a 10th-century Anglo-Saxon spell using nine sacred herbs and divine invocation for protection, healing, and ritual magic."
@@ -45,8 +45,6 @@ ai_optimization:
   - "Embed historical narrative to increase dwell time and engagement"
   - "Use long-tail keywords naturally in excerpt, description, and headings"
 ---
-
-## Ancient Anglo-Saxon Healing Spell
 
 The **Nine Herbs Charm**, also known as **Nigon Wyrta Galdor** or the **Nine Wort Spell**, is a 10th-century **Anglo-Saxon magical text** preserved in the Lacnunga manuscript (Harley MS 585). 
 
