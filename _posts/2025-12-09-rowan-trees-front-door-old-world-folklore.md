@@ -101,7 +101,7 @@ Livestock were vulnerable to:
 
 - fairy mischief  
 - milk-stealing spirits  
-- human or otherworldly forces believed to drain vitality 
+- human or otherworldly forces believed to drain vitality
 
 So rowan branches were tied at:
 
@@ -143,7 +143,7 @@ These were not poetic inventions, but living folk titles shaped by dialect, land
 
 ### Quickbeam / Quicken Tree — “The Living Tree”
 
-One of the oldest recorded names for rowan is **Quickbeam**, from Old English *cwic-bēam* — meaning *living tree*.
+Rowan (Sorbus aucuparia) gathered many names. One of the oldest recorded is **Quickbeam**, from Old English *cwic-bēam* — meaning *living tree*.
 
 Here, “quick” does not mean fast.
 
@@ -151,7 +151,7 @@ It carries the archaic meaning found in the phrase *“the quick and the dead”
 
 The name reflects enduring folk observations:
 
-- Rowan thrives in harsh mountain climates  
+- Rowan thrives in harsh climates  
 - It roots in rocky, liminal ground  
 - It appears where other trees fail  
 
