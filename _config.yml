@@ -272,6 +272,9 @@ defaults:
       share: true
       related: true
       product_schema: false
+      
+paginate: 9
+paginate_path: /blog/page:num/
 
 
   # For pages
