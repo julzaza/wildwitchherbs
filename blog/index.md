@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: Wild Witch Herbs Blog
 permalink: /blog/
 ---
