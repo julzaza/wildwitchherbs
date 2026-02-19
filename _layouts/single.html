@@ -4,7 +4,7 @@ layout: default
 
 <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
 
-  {% assign has_desktop = page.image_desktop_1280 or page.image_desktop_1920 %}
+  {% assign has_desktop = page.image_desktop_1280 or page.image_desktop_1920 or page.header.overlay_image %}
 
   {%- comment -%}
   MOBILE HERO
@@ -31,7 +31,10 @@ layout: default
         {% if page.image_desktop_1280 %}
           <source media="(min-width: 768px)" srcset="{{ page.image_desktop_1280 | relative_url }}">
         {% endif %}
-        <img src="{{ page.image_desktop_1280 | default: page.image_desktop_1920 | relative_url }}"
+        {% if page.header.overlay_image %}
+          <source media="(min-width: 768px)" srcset="{{ page.header.overlay_image | relative_url }}">
+        {% endif %}
+        <img src="{{ page.image_desktop_1280 | default: page.image_desktop_1920 | default: page.header.overlay_image | relative_url }}"
              alt="{{ page.image_alt | default: page.title }}"
              loading="lazy">
       </picture>
