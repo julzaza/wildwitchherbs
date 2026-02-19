@@ -2,31 +2,42 @@
 layout: default
 ---
 
-<!-- HERO: Clean, edge-to-edge -->
+<!-- DESKTOP HERO -->
 <div class="hero-banner desktop-only" style="width:100vw;margin-left:calc(-50vw + 50%);position:relative;overflow:hidden;">
   <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3));z-index:1;"></div>
   <img src="/assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp" alt="Wild Witch Herbs" style="width:100%;height:auto;display:block;">
   
-  <!-- Text overlay - centered using absolute positioning -->
-  <div style="position:absolute;top:50%;left:0;width:100%;transform:translateY(-50%);text-align:center;z-index:2;">
-    <h1 style="font-family:'Cormorant Garamond',Georgia,serif;font-size:3.5rem;margin:0;font-weight:300;letter-spacing:0.15em;text-transform:uppercase;color:#fff;">Wild Witch Herbs</h1>
-    <p style="font-family:'Cormorant Garamond',Georgia,serif;font-size:1.4rem;margin-top:0.8rem;font-weight:400;font-style:italic;letter-spacing:0.05em;opacity:0.9;color:#fff;">Plant lore & folk magic</p>
+  <!-- Dead center text container -->
+  <div class="hero-text-container" style="position:absolute;top:0;left:0;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:2;">
+    <div style="text-align:center;color:#fff;">
+      <h1 style="font-family:'Cormorant Garamond',Georgia,serif;font-size:3.5rem;margin:0;padding:0;font-weight:300;letter-spacing:0.15em;text-transform:uppercase;line-height:1;">Wild Witch Herbs</h1>
+      <p style="font-family:'Cormorant Garamond',Georgia,serif;font-size:1.4rem;margin:0.8rem 0 0 0;padding:0;font-weight:400;font-style:italic;letter-spacing:0.05em;opacity:0.9;line-height:1;">Plant lore & folk magic</p>
+    </div>
   </div>
 </div>
 
+<!-- MOBILE HERO -->
 <div class="hero-banner mobile-only" style="width:100vw;margin-left:calc(-50vw + 50%);position:relative;overflow:hidden;display:none;">
   <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.35));z-index:1;"></div>
   <img src="/assets/images/800x400px-flat-lay-cup-herbal-tea-with-plants.webp" alt="Wild Witch Herbs" style="width:100%;height:auto;display:block;">
   
-  <!-- Text overlay - centered using absolute positioning -->
-  <div style="position:absolute;top:50%;left:0;width:100%;transform:translateY(-50%);text-align:center;z-index:2;">
-    <h1 style="font-family:'Cormorant Garamond',Georgia,serif;font-size:2rem;margin:0;font-weight:300;letter-spacing:0.15em;text-transform:uppercase;color:#fff;">Wild Witch Herbs</h1>
-    <p style="font-family:'Cormorant Garamond',Georgia,serif;font-size:1.1rem;margin-top:0.5rem;font-weight:400;font-style:italic;letter-spacing:0.05em;opacity:0.9;color:#fff;">Plant lore & folk magic</p>
+  <!-- Dead center text container -->
+  <div class="hero-text-container" style="position:absolute;top:0;left:0;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:2;">
+    <div style="text-align:center;color:#fff;width:90%;">
+      <h1 style="font-family:'Cormorant Garamond',Georgia,serif;font-size:2rem;margin:0;padding:0;font-weight:300;letter-spacing:0.15em;text-transform:uppercase;line-height:1;">Wild Witch Herbs</h1>
+      <p style="font-family:'Cormorant Garamond',Georgia,serif;font-size:1.1rem;margin:0.5rem 0 0 0;padding:0;font-weight:400;font-style:italic;letter-spacing:0.05em;opacity:0.9;line-height:1;">Plant lore & folk magic</p>
+    </div>
   </div>
 </div>
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=Source+Sans+Pro:wght@300;400;600&display=swap');
+  
+  /* Reset any inherited margins */
+  .hero-text-container * {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
   
   @media (min-width: 769px) {
     .desktop-only { display: block !important; }
@@ -42,7 +53,7 @@ layout: default
 <div id="main" class="home-archive" role="main" style="padding-top:2rem;">
   {% include sidebar.html %}
 
-  <!-- ELEGANT INTRO: Cormorant Garamond -->
+  <!-- ELEGANT INTRO -->
   <div class="home-intro" style="text-align:center; max-width:600px; margin:0 auto 2rem auto; padding:0 1.5rem;">
     <p style="font-family:'Cormorant Garamond',Georgia,serif;font-size:1.25rem;line-height:1.8;color:#3d3d3d;font-weight:400;">
       A living archive of ancestral plant wisdom, folk magic, and the old ways of working with land and spirit.
