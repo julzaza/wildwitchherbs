@@ -26,15 +26,15 @@ layout: default
     <div class="page__hero-full-bleed desktop-only-hero">
       <picture>
         {% if page.image_desktop_1920 %}
-          <source media="(min-width: 1280px)" srcset="{{ page.image_desktop_1920 | relative_url }}">
+          <source media="(min-width: 1920px)" srcset="{{ page.image_desktop_1920 | relative_url }}">
         {% endif %}
         {% if page.image_desktop_1280 %}
-          <source media="(min-width: 768px)" srcset="{{ page.image_desktop_1280 | relative_url }}">
+          <source media="(min-width: 1280px)" srcset="{{ page.image_desktop_1280 | relative_url }}">
         {% endif %}
         {% if page.header.overlay_image %}
           <source media="(min-width: 768px)" srcset="{{ page.header.overlay_image | relative_url }}">
         {% endif %}
-        <img src="{{ page.image_desktop_1280 | default: page.image_desktop_1920 | default: page.header.overlay_image | relative_url }}"
+        <img src="{{ page.image_desktop_1920 | default: page.image_desktop_1280 | default: page.header.overlay_image | relative_url }}"
              alt="{{ page.image_alt | default: page.title }}"
              loading="lazy">
       </picture>
