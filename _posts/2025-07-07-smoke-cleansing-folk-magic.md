@@ -26,6 +26,7 @@ keywords:
   - folk magic practices
 
 image_mobile: /assets/images/heroes/800x1000px-smoke-cleansing-folk-magic.webp
+image_desktop_1920: /assets/images/heroes/smoke-cleansing-folk-magic/1920x530px-bursera-graveolens-spanish-holy-tree-plant-leaves.webp
 image_alt: "ritual sticks and herbs for burning on plates"
 
 
