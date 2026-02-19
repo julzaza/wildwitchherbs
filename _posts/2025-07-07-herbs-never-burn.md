@@ -8,8 +8,7 @@ featured: true
 author: "Wild Witch Herbs"
 
 image_mobile: /assets/images/heroes/800x1000px-herbs-never-burn-48KB.webp
-image_desktop_1280: /assets/images/heroes/1280x450px-herbs-never-burn-85KB.webp
-image_desktop_1920: /assets/images/heroes/1920x640px-herbs-never-burn.webp
+image_desktop: /assets/images/heroes/never-burn-herbs/1920x520px-wellness-practices-self-care-world-health-day.webp
 image_alt: "Herbs burning ritual performed by two women"
 
 
