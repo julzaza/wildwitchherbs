@@ -22,7 +22,7 @@ image_desktop_1280: /assets/images/heroes/blood-offering-for-fertility/1280x400p
 image_desktop_1920: /assets/images/heroes/blood-offering-for-fertility/1920x400px-twig-near-jar-with-petals.webp
 image_alt: "jar filled with deep red flower petals"
 hero_overlay: true
-hero_overlay_opacity: 0.2
+hero_overlay_opacity: 0.1
 
 faq:
   - question: "Is it safe to offer menstrual blood to the Earth?"
