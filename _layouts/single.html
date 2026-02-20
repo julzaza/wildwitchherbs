@@ -54,9 +54,9 @@ layout: default
     </div>
   {% endif %}
 
-  <!-- TITLE - Moved up closer to hero -->
+  <!-- TITLE - Different spacing for desktop vs mobile -->
   {% if page.title %}
-    <div class="page__inner-wrap" style="padding-top: 0.3rem; margin-top: -0.5rem;">
+    <div class="page__inner-wrap title-spacing" style="padding-top: 0.3rem; margin-top: -0.5rem;">
       <h1 class="page__title">{{ page.title }}</h1>
     </div>
   {% endif %}
@@ -69,6 +69,16 @@ layout: default
   </div>
 
 </article>
+
+<style>
+  /* Mobile: slightly lower title */
+  @media (max-width: 768px) {
+    .title-spacing {
+      padding-top: 0.8rem !important;
+      margin-top: 0 !important;
+    }
+  }
+</style>
 
 {% if page.faq %}
 <script type="application/ld+json">
