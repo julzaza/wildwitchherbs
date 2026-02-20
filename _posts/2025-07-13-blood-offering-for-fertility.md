@@ -18,9 +18,9 @@ tags:
   - ancestral magic
 
 image_mobile: /assets/images/heroes/blood-offering-for-fertility/800x1000px-twig-near-jar-with-petals.webp
-image_desktop_1280: /assets/images/heroes/blood-offering-for-fertility/1280x450px-twig-near-jar-with-petals.webp
-image_desktop_1920: /assets/images/heroes/blood-offering-for-fertility/1920x640px-twig-near-jar-with-petals.webp
-image_alt: "jar filled with blood red flower petals"
+image_desktop_1280: /assets/images/heroes/blood-offering-for-fertility/1280x400px-twig-near-jar-with-petals copy.webp
+image_desktop_1920: /assets/images/heroes/blood-offering-for-fertility/1920x400px-twig-near-jar-with-petals.webp
+image_alt: "jar filled with deep red flower petals"
 
 
 faq:
