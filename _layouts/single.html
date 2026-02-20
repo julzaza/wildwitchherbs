@@ -4,42 +4,92 @@ layout: default
 
 <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
 
-  {% assign has_desktop = page.image_desktop or page.image_desktop_1280 or page.image_desktop_1920 or page.header.overlay_image %}
+  {% assign has_desktop = page.image_desktop_1280 or page.image_desktop_1920 %}
 
   {%- comment -%}
-  MOBILE HERO
-  Only shows visually on small screens
+  MOBILE HERO - Only if image_mobile exists
   {%- endcomment -%}
   {% if page.image_mobile %}
     <div class="page__hero-full-bleed mobile-only-hero">
       <img src="{{ page.image_mobile | relative_url }}"
            alt="{{ page.image_alt | default: page.title }}"
-           loading="lazy">
+           width="800" 
+           height="1000"
+           fetchpriority="high" 
+           loading="eager"
+           style="width: 100%; height: auto; object-fit: cover;">
     </div>
   {% endif %}
 
   {%- comment -%}
-  DESKTOP HERO
-  Only render if desktop images exist
+  DESKTOP HERO - Only if desktop images exist
   {%- endcomment -%}
   {% if has_desktop %}
     <div class="page__hero-full-bleed desktop-only-hero">
       <picture>
-        {% if page.image_desktop_1920 or page.image_desktop %}
-          <source media="(min-width: 1280px)" srcset="{{ page.image_desktop_1920 | default: page.image_desktop | relative_url }}">
+        <!-- 1. Large Desktop (Screens wider than 1280px) -->
+        {% if page.image_desktop_1920 %}
+          <source 
+            srcset="{{ page.image_desktop_1920 | relative_url }}" 
+            media="(min-width: 1281px)">
         {% endif %}
+        
+        <!-- 2. Small Desktop/Tablet (Screens between 768px and 1280px) -->
         {% if page.image_desktop_1280 %}
-          <source media="(min-width: 768px)" srcset="{{ page.image_desktop_1280 | relative_url }}">
+          <source 
+            srcset="{{ page.image_desktop_1280 | relative_url }}" 
+            media="(min-width: 768px)">
         {% endif %}
-        {% if page.header.overlay_image %}
-          <source media="(min-width: 768px)" srcset="{{ page.header.overlay_image | relative_url }}">
-        {% endif %}
-        <img src="{{ page.image_desktop | default: page.image_desktop_1920 | default: page.image_desktop_1280 | default: page.header.overlay_image | relative_url }}"
-             alt="{{ page.image_alt | default: page.title }}"
-             loading="lazy">
+
+        <!-- 3. Fallback img (uses 1280 or 1920 as default) -->
+        <img 
+          src="{{ page.image_desktop_1280 | default: page.image_desktop_1920 | relative_url }}" 
+          alt="{{ page.image_alt | default: page.title }}" 
+          width="1280" 
+          height="400"
+          fetchpriority="high" 
+          loading="eager"
+          style="width: 100%; height: auto; object-fit: cover;">
       </picture>
     </div>
   {% endif %}
+
+  <!-- TITLE -->
+  {% if page.title %}
+    <div class="page__inner-wrap" style="padding-top: 1rem;">
+      <h1 class="page__title">{{ page.title }}</h1>
+    </div>
+  {% endif %}
+
+  <!-- POST CONTENT -->
+  <div class="page__inner-wrap">
+    <section class="page__content" itemprop="text">
+      {{ content }}
+    </section>
+  </div>
+
+</article>
+
+{% if page.faq %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% for item in page.faq %}
+    {
+      "@type": "Question",
+      "name": {{ item.question | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ item.answer | jsonify }}
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
 
   <!-- TITLE -->
   {% if page.title %}
