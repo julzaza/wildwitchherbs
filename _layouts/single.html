@@ -7,19 +7,22 @@ layout: default
   {% assign has_mobile = page.image_mobile %}
   {% assign has_desktop = page.image_desktop_1280 or page.image_desktop_1920 %}
   {% assign has_any_hero = has_mobile or has_desktop %}
+  
+  {% assign overlay_opacity = page.hero_overlay_opacity | default: 0.3 %}
 
   {%- comment -%}
   MOBILE HERO - Only if image_mobile exists
   {%- endcomment -%}
   {% if has_mobile %}
-    <div class="page__hero-full-bleed mobile-only-hero">
+    <div class="page__hero-full-bleed mobile-only-hero" style="position: relative;">
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(rgba(0,0,0,{{ overlay_opacity }}), rgba(0,0,0,{{ overlay_opacity | plus: 0.1 }})); z-index: 1; pointer-events: none;"></div>
       <img src="{{ page.image_mobile | relative_url }}"
            alt="{{ page.image_alt | default: page.title }}"
            width="800" 
            height="1000"
            fetchpriority="high" 
            loading="eager"
-           style="width: 100%; height: auto; object-fit: cover;">
+           style="width: 100%; height: auto; object-fit: cover; display: block;">
     </div>
   {% endif %}
 
@@ -27,23 +30,19 @@ layout: default
   DESKTOP HERO - Only if desktop images exist
   {%- endcomment -%}
   {% if has_desktop %}
-    <div class="page__hero-full-bleed desktop-only-hero">
-      <picture>
-        <!-- 1. Large Desktop (Screens wider than 1280px) -->
+    <div class="page__hero-full-bleed desktop-only-hero" style="position: relative;">
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(rgba(0,0,0,{{ overlay_opacity }}), rgba(0,0,0,{{ overlay_opacity | plus: 0.1 }})); z-index: 1; pointer-events: none;"></div>
+      <picture style="position: relative; z-index: 0;">
         {% if page.image_desktop_1920 %}
           <source 
             srcset="{{ page.image_desktop_1920 | relative_url }}" 
             media="(min-width: 1281px)">
         {% endif %}
-        
-        <!-- 2. Small Desktop/Tablet (Screens between 768px and 1280px) -->
         {% if page.image_desktop_1280 %}
           <source 
             srcset="{{ page.image_desktop_1280 | relative_url }}" 
             media="(min-width: 768px)">
         {% endif %}
-
-        <!-- 3. Fallback img (uses 1280 or 1920 as default) -->
         <img 
           src="{{ page.image_desktop_1280 | default: page.image_desktop_1920 | relative_url }}" 
           alt="{{ page.image_alt | default: page.title }}" 
@@ -51,7 +50,7 @@ layout: default
           height="400"
           fetchpriority="high" 
           loading="eager"
-          style="width: 100%; height: auto; object-fit: cover;">
+          style="width: 100%; height: auto; object-fit: cover; display: block;">
       </picture>
     </div>
   {% endif %}
@@ -73,13 +72,11 @@ layout: default
 </article>
 
 <style>
-  /* Default: no hero - comfortable spacing */
   .title-spacing {
     padding-top: 2rem !important;
     margin-top: 0 !important;
   }
   
-  /* Desktop with hero: tight spacing */
   @media (min-width: 769px) {
     .title-spacing.has-hero {
       padding-top: 0.3rem !important;
@@ -87,7 +84,6 @@ layout: default
     }
   }
   
-  /* Mobile with hero: slightly more space than desktop */
   @media (max-width: 768px) {
     .title-spacing.has-hero {
       padding-top: 0.8rem !important;
