@@ -4,12 +4,14 @@ layout: default
 
 <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
 
+  {% assign has_mobile = page.image_mobile %}
   {% assign has_desktop = page.image_desktop_1280 or page.image_desktop_1920 %}
+  {% assign has_any_hero = has_mobile or has_desktop %}
 
   {%- comment -%}
   MOBILE HERO - Only if image_mobile exists
   {%- endcomment -%}
-  {% if page.image_mobile %}
+  {% if has_mobile %}
     <div class="page__hero-full-bleed mobile-only-hero">
       <img src="{{ page.image_mobile | relative_url }}"
            alt="{{ page.image_alt | default: page.title }}"
@@ -54,9 +56,9 @@ layout: default
     </div>
   {% endif %}
 
-  <!-- TITLE - Different spacing for desktop vs mobile -->
+  <!-- TITLE - Spacing depends on whether hero exists -->
   {% if page.title %}
-    <div class="page__inner-wrap title-spacing" style="padding-top: 0.3rem; margin-top: -0.5rem;">
+    <div class="page__inner-wrap title-spacing {% if has_any_hero %}has-hero{% endif %}" style="padding-top: 2rem;">
       <h1 class="page__title">{{ page.title }}</h1>
     </div>
   {% endif %}
@@ -71,9 +73,23 @@ layout: default
 </article>
 
 <style>
-  /* Mobile: slightly lower title */
+  /* Default: no hero - comfortable spacing */
+  .title-spacing {
+    padding-top: 2rem !important;
+    margin-top: 0 !important;
+  }
+  
+  /* Desktop with hero: tight spacing */
+  @media (min-width: 769px) {
+    .title-spacing.has-hero {
+      padding-top: 0.3rem !important;
+      margin-top: -0.5rem !important;
+    }
+  }
+  
+  /* Mobile with hero: slightly more space than desktop */
   @media (max-width: 768px) {
-    .title-spacing {
+    .title-spacing.has-hero {
       padding-top: 0.8rem !important;
       margin-top: 0 !important;
     }
