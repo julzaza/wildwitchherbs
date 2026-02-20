@@ -7,8 +7,9 @@ meta_description: "Discover 7 toxic herbs you should never burn in ritual, from 
 featured: true
 author: "Wild Witch Herbs"
 
-image_mobile: /assets/images/heroes/800x1000px-herbs-never-burn-48KB.webp
-image_desktop: /assets/images/heroes/never-burn-herbs/1920x400px-wellness-practices-self-care-world-health-day(1).webp
+image_mobile: /assets/images/heroes/never-burn-herbs/800x1000px-herbs-never-burn-48KB.webp
+image_desktop_1280: /assets/images/heroes/never-burn-herbs/1280x400px-wellness-practices-self-care-world-health-day(1).webp
+image_desktop_1920: /assets/images/heroes/never-burn-herbs/1920x400px-wellness-practices-self-care-world-health-day(1).webp
 image_alt: "Herbs burning ritual performed by two women"
 
 
