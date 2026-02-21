@@ -104,21 +104,5 @@
   }
 }
 
-/* Show/hide heroes - CLEANED UP */
-@media (min-width: 768px) {
-  .mobile-only-hero {
-    display: none;
-  }
-  .desktop-only-hero {
-    display: block;
-  }
-}
 
-@media (max-width: 767px) {
-  .mobile-only-hero {
-    display: block;
-  }
-  .desktop-only-hero {
-    display: none;
-  }
-}
+
