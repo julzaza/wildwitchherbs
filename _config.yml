@@ -177,7 +177,11 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+webrick:
+  headers:
+    Cache-Control: max-age=31536000
 
+    
 # Markdown Processing
 kramdown:
   input: GFM
