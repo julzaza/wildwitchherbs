@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<!-- DESKTOP HERO: Single 1920x520 image -->
-<div class="hero-banner desktop-only-hero" style="width:100vw;margin-left:calc(-50vw + 50%);position:relative;overflow:hidden;">
+<!-- DESKTOP HERO: 1920x400 for large screens -->
+<div class="hero-banner desktop-hero-large" style="width:100vw;margin-left:calc(-50vw + 50%);position:relative;overflow:hidden;display:block;">
   <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3));z-index:1;"></div>
-  <img src="/assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp" alt="Wild Witch Herbs" style="width:100%;height:auto;display:block;">
+  <img src="/assets/images/1920x520px-flat-lay-cup-herbal-tea-with-plants.webp" alt="Wild Witch Herbs" style="width:100%;height:auto;display:block;">
   
   <div class="hero-text-container" style="position:absolute;top:0;left:0;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:2;">
     <div style="text-align:center;color:#fff;">
@@ -15,8 +15,21 @@ layout: default
   </div>
 </div>
 
-<!-- MOBILE HERO: Single 800x400 image -->
-<div class="hero-banner mobile-only-hero" style="width:100vw;margin-left:calc(-50vw + 50%);position:relative;overflow:hidden;">
+<!-- DESKTOP HERO: 1280x400 for medium screens -->
+<div class="hero-banner desktop-hero-medium" style="width:100vw;margin-left:calc(-50vw + 50%);position:relative;overflow:hidden;display:none;">
+  <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3));z-index:1;"></div>
+  <img src="/assets/images/1280x400px-flat-lay-cup-herbal-tea-with-plants.webp" alt="Wild Witch Herbs" style="width:100%;height:auto;display:block;">
+  
+  <div class="hero-text-container" style="position:absolute;top:0;left:0;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:2;">
+    <div style="text-align:center;color:#fff;">
+      <h1 style="font-family:'Cormorant Garamond',Georgia,serif;font-size:3rem;margin:0;padding:0;font-weight:300;letter-spacing:0.15em;text-transform:uppercase;line-height:1;">Wild Witch Herbs</h1>
+      <p style="font-family:'Cormorant Garamond',Georgia,serif;font-size:1.3rem;margin:0.8rem 0 0 0;padding:0;font-weight:400;font-style:italic;letter-spacing:0.05em;opacity:0.9;line-height:1;">Plant lore & folk magic</p>
+    </div>
+  </div>
+</div>
+
+<!-- MOBILE HERO: 800x400 image -->
+<div class="hero-banner mobile-hero" style="width:100vw;margin-left:calc(-50vw + 50%);position:relative;overflow:hidden;display:none;">
   <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.35));z-index:1;"></div>
   <img src="/assets/images/heroes/800x400px-flat-lay-cup-herbal-tea-with-plants.webp" alt="Wild Witch Herbs" style="width:100%;height:auto;display:block;">
   
@@ -34,6 +47,27 @@ layout: default
   .hero-text-container * {
     margin-top: 0;
     margin-bottom: 0;
+  }
+  
+  /* Large desktop: 1920px */
+  @media screen and (min-width: 1281px) {
+    .desktop-hero-large { display: block !important; }
+    .desktop-hero-medium { display: none !important; }
+    .mobile-hero { display: none !important; }
+  }
+  
+  /* Medium desktop: 1280px */
+  @media screen and (min-width: 769px) and (max-width: 1280px) {
+    .desktop-hero-large { display: none !important; }
+    .desktop-hero-medium { display: block !important; }
+    .mobile-hero { display: none !important; }
+  }
+  
+  /* Mobile: 800px */
+  @media screen and (max-width: 768px) {
+    .desktop-hero-large { display: none !important; }
+    .desktop-hero-medium { display: none !important; }
+    .mobile-hero { display: block !important; }
   }
 </style>
 
