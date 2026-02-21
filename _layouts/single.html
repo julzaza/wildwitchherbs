@@ -12,10 +12,10 @@ layout: default
   {% assign overlay_opacity = page.hero_overlay_opacity | default: 0.4 %}
 
   {%- comment -%}
-  MOBILE HERO - Only if image_mobile exists
+  MOBILE HERO
   {%- endcomment -%}
   {% if has_mobile %}
-    <div class="page__hero-full-bleed mobile-only-hero" style="position: relative; width: 100%; aspect-ratio: 4/5;">
+    <div class="page__hero-full-bleed mobile-only-hero" style="position: relative;">
       {% if use_overlay %}
         <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(to bottom, rgba(20,15,10,{{ overlay_opacity | times: 0.6 }}) 0%, rgba(10,8,6,{{ overlay_opacity }}) 50%, rgba(5,4,3,{{ overlay_opacity | times: 1.2 }}) 100%); z-index: 1; pointer-events: none;"></div>
       {% endif %}
@@ -23,43 +23,32 @@ layout: default
            alt="{{ page.image_alt | default: page.title }}"
            width="800" 
            height="1000"
-           fetchpriority="high" 
-           decoding="async"
-           style="width: 100%; height: 100%; object-fit: cover; display: block; {% if use_overlay %}position: relative; z-index: 0;{% endif %}">
+           fetchpriority="high"
+           style="width: 100%; height: auto; display: block;">
     </div>
   {% endif %}
 
   {%- comment -%}
-  DESKTOP HERO - Only if desktop images exist
+  DESKTOP HERO
   {%- endcomment -%}
   {% if has_desktop %}
-    <div class="page__hero-full-bleed desktop-only-hero" style="position: relative; width: 100%; aspect-ratio: 1920/400;">
+    <div class="page__hero-full-bleed desktop-only-hero" style="position: relative;">
       {% if use_overlay %}
         <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(to bottom, rgba(20,15,10,{{ overlay_opacity | times: 0.6 }}) 0%, rgba(10,8,6,{{ overlay_opacity }}) 50%, rgba(5,4,3,{{ overlay_opacity | times: 1.2 }}) 100%); z-index: 1; pointer-events: none;"></div>
       {% endif %}
-      <picture {% if use_overlay %}style="position: relative; z-index: 0;"{% endif %}>
+      <picture>
         {% if page.image_desktop_1920 %}
-          <source 
-            srcset="{{ page.image_desktop_1920 | relative_url }}" 
-            media="(min-width: 1281px)"
-            width="1920"
-            height="400">
+          <source srcset="{{ page.image_desktop_1920 | relative_url }}" media="(min-width: 1281px)">
         {% endif %}
         {% if page.image_desktop_1280 %}
-          <source 
-            srcset="{{ page.image_desktop_1280 | relative_url }}" 
-            media="(min-width: 768px)"
-            width="1280"
-            height="400">
+          <source srcset="{{ page.image_desktop_1280 | relative_url }}" media="(min-width: 768px)">
         {% endif %}
-        <img 
-          src="{{ page.image_desktop_1280 | default: page.image_desktop_1920 | relative_url }}" 
-          alt="{{ page.image_alt | default: page.title }}" 
-          width="1280" 
-          height="400"
-          fetchpriority="high"
-          decoding="async"
-          style="width: 100%; height: 100%; object-fit: cover; display: block;">
+        <img src="{{ page.image_desktop_1280 | default: page.image_desktop_1920 | relative_url }}" 
+             alt="{{ page.image_alt | default: page.title }}" 
+             width="1280" 
+             height="400"
+             fetchpriority="high"
+             style="width: 100%; height: auto; display: block;">
       </picture>
     </div>
   {% endif %}
@@ -97,18 +86,6 @@ layout: default
     .title-spacing.has-hero {
       padding-top: 0.8rem !important;
       margin-top: 0 !important;
-    }
-    
-    .mobile-only-hero {
-      content-visibility: auto;
-      contain-intrinsic-size: 800px 1000px;
-    }
-  }
-  
-  @media (min-width: 769px) {
-    .desktop-only-hero {
-      content-visibility: auto;
-      contain-intrinsic-size: 1920px 400px;
     }
   }
 </style>
