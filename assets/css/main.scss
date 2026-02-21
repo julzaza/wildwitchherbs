@@ -104,14 +104,7 @@
   }
 }
 
-
-<div class="home-archive">
-  <!/* Only affect homepage heroes */
-.home-archive .mobile-only-hero,
-.home-archive .desktop-only-hero {
-  /* homepage specific styles if needed */
-}
-
+/* Show/hide heroes - homepage only */
 @media (min-width: 768px) {
   .home-archive .mobile-only-hero {
     display: none;
@@ -129,5 +122,3 @@
     display: none;
   }
 }
-</div>
-
