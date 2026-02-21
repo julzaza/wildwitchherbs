@@ -177,9 +177,14 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-webrick:
-  headers:
-    Cache-Control: max-age=31536000
+plugins:
+  - jekyll-minifier
+
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
+  compress_css: true
+  compress_javascript: true
 
     
 # Markdown Processing
