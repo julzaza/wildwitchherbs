@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<!-- DESKTOP HERO: 1920x400 for large screens -->
-<div class="hero-banner desktop-hero-large" style="width:100vw;margin-left:calc(-50vw + 50%);position:relative;overflow:hidden;display:block;">
+<!-- DESKTOP LARGE: 1920x520 -->
+<div class="hero-banner desktop-hero-large" style="width:100vw;margin-left:calc(-50vw + 50%);position:relative;overflow:hidden;">
   <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3));z-index:1;"></div>
   <img src="/assets/images/1920x520px-flat-lay-cup-herbal-tea-with-plants.webp" alt="Wild Witch Herbs" style="width:100%;height:auto;display:block;">
   
@@ -15,8 +15,8 @@ layout: default
   </div>
 </div>
 
-<!-- DESKTOP HERO: 1280x400 for medium screens -->
-<div class="hero-banner desktop-hero-medium" style="width:100vw;margin-left:calc(-50vw + 50%);position:relative;overflow:hidden;display:none;">
+<!-- DESKTOP MEDIUM: 1280x400 -->
+<div class="hero-banner desktop-hero-medium" style="width:100vw;margin-left:calc(-50vw + 50%);position:relative;overflow:hidden;">
   <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3));z-index:1;"></div>
   <img src="/assets/images/1280x400px-flat-lay-cup-herbal-tea-with-plants.webp" alt="Wild Witch Herbs" style="width:100%;height:auto;display:block;">
   
@@ -28,8 +28,8 @@ layout: default
   </div>
 </div>
 
-<!-- MOBILE HERO: 800x400 image -->
-<div class="hero-banner mobile-hero" style="width:100vw;margin-left:calc(-50vw + 50%);position:relative;overflow:hidden;display:none;">
+<!-- MOBILE: 800x400 -->
+<div class="hero-banner mobile-only-hero" style="width:100vw;margin-left:calc(-50vw + 50%);position:relative;overflow:hidden;">
   <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.35));z-index:1;"></div>
   <img src="/assets/images/heroes/800x400px-flat-lay-cup-herbal-tea-with-plants.webp" alt="Wild Witch Herbs" style="width:100%;height:auto;display:block;">
   
@@ -49,25 +49,26 @@ layout: default
     margin-bottom: 0;
   }
   
-  /* Large desktop: 1920px */
+  /* Hide all by default */
+  .desktop-hero-large,
+  .desktop-hero-medium,
+  .mobile-only-hero {
+    display: none;
+  }
+  
+  /* Large desktop: >1280px */
   @media screen and (min-width: 1281px) {
-    .desktop-hero-large { display: block !important; }
-    .desktop-hero-medium { display: none !important; }
-    .mobile-hero { display: none !important; }
+    .desktop-hero-large { display: block; }
   }
   
-  /* Medium desktop: 1280px */
-  @media screen and (min-width: 769px) and (max-width: 1280px) {
-    .desktop-hero-large { display: none !important; }
-    .desktop-hero-medium { display: block !important; }
-    .mobile-hero { display: none !important; }
+  /* Medium desktop: 768px-1280px */
+  @media screen and (min-width: 768px) and (max-width: 1280px) {
+    .desktop-hero-medium { display: block; }
   }
   
-  /* Mobile: 800px */
-  @media screen and (max-width: 768px) {
-    .desktop-hero-large { display: none !important; }
-    .desktop-hero-medium { display: none !important; }
-    .mobile-hero { display: block !important; }
+  /* Mobile: <768px */
+  @media screen and (max-width: 767px) {
+    .mobile-only-hero { display: block; }
   }
 </style>
 
