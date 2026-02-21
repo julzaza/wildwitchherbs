@@ -177,15 +177,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-plugins:
-  - jekyll-minifier
-
-jekyll-minifier:
-  uglifier_args:
-    harmony: true
-  compress_css: true
-  compress_javascript: true
-
     
 # Markdown Processing
 kramdown:
@@ -220,6 +211,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-redirect-from
+
 
 # mimic GitHub Pages with --safe
 whitelist:
