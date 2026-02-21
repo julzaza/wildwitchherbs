@@ -6,35 +6,25 @@ layout: default
 
   {% assign has_mobile = page.image_mobile %}
   {% assign has_desktop = page.image_desktop_1280 or page.image_desktop_1920 %}
-  {% assign has_any_hero = has_mobile or has_desktop %}
-  
-  {% assign use_overlay = page.hero_overlay %}
-  {% assign overlay_opacity = page.hero_overlay_opacity | default: 0.4 %}
 
   {%- comment -%}
-  MOBILE HERO
+  MOBILE HERO - Only shows on small screens
   {%- endcomment -%}
   {% if has_mobile %}
     <div class="page__hero-full-bleed mobile-only-hero">
-      {% if use_overlay %}
-        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,{{ overlay_opacity }}); z-index: 1;"></div>
-      {% endif %}
       <img src="{{ page.image_mobile | relative_url }}"
            alt="{{ page.image_alt | default: page.title }}"
            width="800" 
            height="1000"
-           style="width: 100%; height: auto; display: block;">
+           loading="lazy">
     </div>
   {% endif %}
 
   {%- comment -%}
-  DESKTOP HERO
+  DESKTOP HERO - Only shows on larger screens
   {%- endcomment -%}
   {% if has_desktop %}
     <div class="page__hero-full-bleed desktop-only-hero">
-      {% if use_overlay %}
-        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,{{ overlay_opacity }}); z-index: 1;"></div>
-      {% endif %}
       <picture>
         {% if page.image_desktop_1920 %}
           <source srcset="{{ page.image_desktop_1920 | relative_url }}" media="(min-width: 1281px)">
@@ -42,18 +32,18 @@ layout: default
         {% if page.image_desktop_1280 %}
           <source srcset="{{ page.image_desktop_1280 | relative_url }}" media="(min-width: 768px)">
         {% endif %}
-        <img src="{{ page.image_desktop_1280 | default: page.image_desktop_1920 | relative_url }}" 
-             alt="{{ page.image_alt | default: page.title }}" 
-             width="1280" 
+        <img src="{{ page.image_desktop_1280 | default: page.image_desktop_1920 | relative_url }}"
+             alt="{{ page.image_alt | default: page.title }}"
+             width="1280"
              height="400"
-             style="width: 100%; height: auto; display: block;">
+             loading="lazy">
       </picture>
     </div>
   {% endif %}
 
   <!-- TITLE -->
   {% if page.title %}
-    <div class="page__inner-wrap title-spacing {% if has_any_hero %}has-hero{% endif %}">
+    <div class="page__inner-wrap">
       <h1 class="page__title">{{ page.title }}</h1>
     </div>
   {% endif %}
