@@ -202,8 +202,9 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 
-# Plugins (previously gems:)
+# Put jekyll-minifier back
 plugins:
+  - jekyll-minifier
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -211,6 +212,12 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-redirect-from
+
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
+  compress_css: true
+  compress_javascript: true
 
 
 # mimic GitHub Pages with --safe
