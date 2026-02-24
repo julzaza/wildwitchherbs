@@ -7,6 +7,19 @@ layout: default
   <span></span>
 </button>
 
+<!-- Main menu -->
+<ul class="main-menu">
+  {% for item in site.data.navigation %}
+    <li>
+      <a href="{{ item.url | relative_url }}">
+        {% if item.icon %}
+          <i class="fa fa-{{ item.icon }}"></i> <!-- optional icon -->
+        {% endif %}
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
 
 <div class="hero-container">
   <div class="hero-overlay"></div>
