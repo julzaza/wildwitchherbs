@@ -181,9 +181,31 @@
   color: #3d3d3d;
 }
 
-/* ===== MOBILE HAMBURGER & MENU ===== */
+/* Desktop menu */
+.main-menu {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin: 1rem 0;
+  list-style: none;
+}
+
+.main-menu li a {
+  text-decoration: none;
+  color: #5c4d3d;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+
+.main-menu li a:hover {
+  color: #3d3d3d;
+}
+
+/* Hamburger toggle */
 .nav-toggle {
-  display: none; /* hidden on desktop */
+  display: none;
   position: absolute;
   top: 1rem;
   right: 1rem;
@@ -192,7 +214,7 @@
   background: transparent;
   border: none;
   cursor: pointer;
-  z-index: 1000;
+  z-index: 2000;
 }
 
 .nav-toggle span,
@@ -230,27 +252,7 @@
   transform: rotate(-45deg) translate(5px, -5px);
 }
 
-/* Desktop menu */
-.main-menu {
-  display: flex;
-  justify-content: center;
-  gap: 2rem;
-  flex-wrap: wrap;
-  margin: 1rem 0;
-}
-
-.main-menu li a {
-  text-decoration: none;
-  color: #5c4d3d;
-  font-weight: 600;
-  text-transform: uppercase;
-  font-size: 0.9rem;
-}
-.main-menu li a:hover {
-  color: #3d3d3d;
-}
-
-/* Mobile: hide menu by default, show hamburger */
+/* Mobile menu */
 @media (max-width: 767px) {
   .nav-toggle {
     display: block;
@@ -262,7 +264,7 @@
     gap: 0.5rem;
     text-align: center;
     position: absolute;
-    top: 3rem; /* below toggle */
+    top: 3rem; /* below hamburger */
     right: 1rem;
     background: #fff;
     border: 1px solid #e5e5e5;
@@ -278,16 +280,21 @@
   }
 
   .main-menu li a {
-    display: block;
     padding: 0.75rem 1rem;
+    display: block;
   }
 }
 
-.nav-toggle {
-  display: block !important;
-  z-index: 2000; /* make sure it’s above everything */
-}
-
-header {
-  position: relative; /* so the absolute hamburger is positioned correctly */
+/* Landscape / wider mobile still uses same rules */
+@media (min-width: 768px) {
+  .main-menu {
+    display: flex !important;
+    position: static;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    background: none;
+    border: none;
+    box-shadow: none;
+  }
 }
