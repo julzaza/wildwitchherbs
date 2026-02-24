@@ -240,3 +240,82 @@ header .site-nav li a:hover {
     background: none;
   }
 }
+
+/* ===== MOBILE HAMBURGER ===== */
+.nav-toggle {
+  display: none; /* hidden on desktop */
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+.nav-toggle span,
+.nav-toggle span::before,
+.nav-toggle span::after {
+  content: "";
+  display: block;
+  width: 2rem;
+  height: 0.2rem;
+  background: #5c4d3d;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.nav-toggle span::before {
+  top: -0.6rem;
+  position: absolute;
+}
+
+.nav-toggle span::after {
+  bottom: -0.6rem;
+  position: absolute;
+}
+
+/* Hide desktop menu on mobile */
+@media (max-width: 767px) {
+  .main-menu {
+    display: none;
+    position: absolute;
+    top: 3rem; /* below toggle */
+    right: 1rem;
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    flex-direction: column;
+    width: 200px;
+    padding: 0.5rem 0;
+    z-index: 999;
+  }
+
+  .main-menu li a {
+    display: block;
+    padding: 0.75rem 1rem;
+  }
+
+  .main-menu.active {
+    display: flex;
+  }
+
+  .nav-toggle {
+    display: block;
+  }
+}
+
+/* Desktop menu stays the same */
+@media (min-width: 768px) {
+  .main-menu {
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin: 1rem 0;
+  }
+}
