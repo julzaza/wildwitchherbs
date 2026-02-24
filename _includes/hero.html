@@ -13,16 +13,20 @@
     {% if page.image_mobile %}
       <!-- Mobile image -->
       <source media="(max-width: 767px)"
-              srcset="{{ page.image_mobile }}">
+              srcset="{{ page.image_mobile }}"
+              width="800"
+              height="400">
     {% endif %}
 
     {% if page.image_desktop %}
       <!-- Desktop image -->
       <source media="(min-width: 768px)"
-              srcset="{{ page.image_desktop }}">
+              srcset="{{ page.image_desktop }}"
+              width="1920"
+              height="520">
     {% endif %}
 
-    <!-- Fallback image -->
+    <!-- Fallback for browsers that don't support <picture> -->
     <img src="{{ page.image_desktop | default: page.image_mobile }}"
          alt="{{ page.image_alt | default: page.title }}"
          width="1920"
