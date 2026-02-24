@@ -160,3 +160,24 @@
     margin-top: 0.5rem;
   }
 }
+
+/* RESTORE MOBILE MENU - show hamburger on mobile only */
+.greedy-nav__toggle {
+  display: block;
+}
+
+@media (min-width: 768px) {
+  .greedy-nav__toggle {
+    display: none;
+  }
+}
+
+/* Hide the hidden links menu by default */
+.hidden-links {
+  display: none;
+}
+
+/* Show hidden links when toggle is active (handled by JS) */
+.greedy-nav__toggle.hidden + .hidden-links.hidden {
+  display: none;
+}
