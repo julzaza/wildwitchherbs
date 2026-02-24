@@ -3,21 +3,31 @@
   Usage: {% include hero.html %}
   Requires front matter:
     image_mobile
-    image_desktop_1280
-    image_desktop_1920
+    image_desktop
     image_alt
 {% endcomment %}
 
-{% if page.image_mobile or page.image_desktop_1280 %}
+{% if page.image_mobile or page.image_desktop %}
   <picture class="page__hero-full-bleed">
-    {% if page.image_desktop_1280 and page.image_desktop_1920 %}
-      <source media="(min-width: 768px)"
-              srcset="{{ page.image_desktop_1280 }} 1280w,
-                      {{ page.image_desktop_1920 }} 1920w"
-              sizes="(min-width: 768px) 1280px, 100vw">
+
+    {% if page.image_mobile %}
+      <!-- Mobile image -->
+      <source media="(max-width: 767px)"
+              srcset="{{ page.image_mobile }}">
     {% endif %}
-    <img src="{{ page.image_mobile | default: page.image_desktop_1280 }}"
+
+    {% if page.image_desktop %}
+      <!-- Desktop image -->
+      <source media="(min-width: 768px)"
+              srcset="{{ page.image_desktop }}">
+    {% endif %}
+
+    <!-- Fallback image -->
+    <img src="{{ page.image_desktop | default: page.image_mobile }}"
          alt="{{ page.image_alt | default: page.title }}"
-         loading="lazy">
+         width="1920"
+         height="520"
+         fetchpriority="high"
+         style="width:100%;height:auto;display:block;">
   </picture>
 {% endif %}
