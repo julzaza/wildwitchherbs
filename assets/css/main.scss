@@ -181,3 +181,122 @@
 .greedy-nav__toggle.hidden + .hidden-links.hidden {
   display: none;
 }
+
+/* ============================================
+   RESTORE MINIMAL MISTAKES MOBILE NAVIGATION
+   ============================================ */
+
+/* Show hamburger toggle on mobile, hide on desktop */
+.greedy-nav__toggle {
+  display: block;
+  visibility: visible;
+  opacity: 1;
+  background: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  position: relative;
+  z-index: 100;
+}
+
+@media (min-width: 768px) {
+  .greedy-nav__toggle {
+    display: none;
+    visibility: hidden;
+  }
+}
+
+/* Hamburger icon (three lines) */
+.navicon {
+  position: relative;
+  width: 1.5rem;
+  height: 0.25rem;
+  background: #7a6b5a;
+  margin: 0.5rem auto;
+  transition: 0.3s;
+}
+
+.navicon::before,
+.navicon::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 1.5rem;
+  height: 0.25rem;
+  background: #7a6b5a;
+  transition: 0.3s;
+}
+
+.navicon::before {
+  top: -0.5rem;
+}
+
+.navicon::after {
+  bottom: -0.5rem;
+}
+
+/* Hidden links menu - mobile dropdown */
+.hidden-links {
+  display: none;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  margin-top: 0.5rem;
+  padding: 0;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  list-style: none;
+  z-index: 99;
+  min-width: 200px;
+}
+
+.hidden-links li {
+  display: block;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.hidden-links li:last-child {
+  border-bottom: none;
+}
+
+.hidden-links a {
+  display: block;
+  padding: 0.75rem 1rem;
+  color: #5c4d3d;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.hidden-links a:hover {
+  background: #f5f5f5;
+  color: #3d3d3d;
+}
+
+/* Show menu when not hidden */
+.hidden-links:not(.hidden) {
+  display: block;
+}
+
+/* Ensure visible links are hidden on mobile */
+@media (max-width: 767px) {
+  .greedy-nav .visible-links {
+    display: none;
+  }
+}
+
+/* Show visible links on desktop */
+@media (min-width: 768px) {
+  .greedy-nav .visible-links {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .hidden-links {
+    display: none !important;
+  }
+}
