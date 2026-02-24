@@ -104,21 +104,4 @@
   }
 }
 
-/* Show/hide heroes - simple and strong */
-@media (min-width: 768px) {
-  .mobile-only-hero {
-    display: none !important;
-  }
-  .desktop-only-hero {
-    display: block !important;
-  }
-}
-
-@media (max-width: 767px) {
-  .mobile-only-hero {
-    display: block !important;
-  }
-  .desktop-only-hero {
-    display: none !important;
-  }
-}
+/* NO HERO CSS HERE - handled inline in layouts/home.html for performance */
