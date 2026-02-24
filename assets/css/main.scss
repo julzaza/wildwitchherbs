@@ -97,42 +97,6 @@
   }
 }
 
-/* ===== MAIN MENU ===== */
-.main-menu {
-  display: flex;
-  justify-content: center;
-  gap: 2rem;
-  flex-wrap: wrap;
-  margin: 1rem 0;
-  padding: 0;
-  list-style: none;
-}
-
-.main-menu li a {
-  text-decoration: none;
-  color: #5c4d3d;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-size: 0.9rem;
-}
-
-.main-menu li a:hover {
-  color: #3d3d3d;
-}
-
-@media (max-width: 767px) {
-  .main-menu {
-    flex-direction: column;
-    gap: 0.5rem;
-    text-align: center;
-  }
-
-  .main-menu li a {
-    font-size: 1rem;
-  }
-}
-
 /* ===== CLUSTER SECTIONS ===== */
 .cluster-section {
   max-width: 1000px;
@@ -215,4 +179,64 @@
 
 .shop-link a:hover {
   color: #3d3d3d;
+}
+
+/* ===== MINIMAL MISTAKES MOBILE MENU FIX ===== */
+
+/* Show hamburger toggle on mobile */
+header .nav-toggle {
+  display: block !important;
+  z-index: 100;
+}
+
+/* Hide full menu on mobile by default */
+header .site-nav {
+  display: none;
+}
+
+/* Show menu when hamburger is active */
+header .nav-toggle.active + .site-nav {
+  display: block;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  width: 200px;
+  padding: 0.5rem 0;
+  z-index: 999;
+}
+
+header .site-nav li a {
+  display: block;
+  padding: 0.75rem 1rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #5c4d3d;
+}
+
+header .site-nav li a:hover {
+  background: #f5f5f5;
+  color: #3d3d3d;
+}
+
+/* Desktop menu */
+@media (min-width: 768px) {
+  header .nav-toggle {
+    display: none !important;
+  }
+  header .site-nav {
+    display: flex !important;
+    position: relative;
+    width: auto;
+    box-shadow: none;
+    border: none;
+    flex-wrap: wrap;
+  }
+  header .site-nav li a {
+    padding: 0 1rem;
+    background: none;
+  }
 }
