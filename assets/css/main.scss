@@ -319,3 +319,42 @@ header .site-nav li a:hover {
     margin: 1rem 0;
   }
 }
+
+/* Mobile menu hidden by default */
+.main-menu {
+  display: none;
+  flex-direction: column;
+  gap: 0.5rem;
+  text-align: center;
+}
+
+/* Show menu when active */
+.main-menu.active {
+  display: flex;
+}
+
+/* Hamburger animation (optional) */
+.nav-toggle span,
+.nav-toggle span::before,
+.nav-toggle span::after {
+  display: block;
+  height: 2px;
+  width: 24px;
+  background: #5c4d3d;
+  margin: 6px auto;
+  transition: all 0.3s;
+  content: "";
+  position: relative;
+}
+
+.nav-toggle.open span {
+  background: transparent;
+}
+
+.nav-toggle.open span::before {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+
+.nav-toggle.open span::after {
+  transform: rotate(-45deg) translate(5px, -5px);
+}
