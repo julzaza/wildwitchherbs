@@ -2,32 +2,6 @@
 layout: default
 ---
 
-<header class="site-header" role="banner">
-
-  <!-- Hamburger toggle -->
-  <button class="nav-toggle" aria-label="Menu">
-    <span></span>
-  </button>
-
-  <!-- Main navigation -->
-  <nav class="site-nav" role="navigation">
-    <ul>
-      {% for item in site.data.navigation %}
-        <li>
-          <a href="{{ item.url | relative_url }}">
-            {% if item.icon %}
-              <i class="fas fa-{{ item.icon }}"></i>
-            {% endif %}
-            {{ item.title }}
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-  </nav>
-
-</header>
-
-
 
 <div class="hero-container">
   <div class="hero-overlay"></div>
