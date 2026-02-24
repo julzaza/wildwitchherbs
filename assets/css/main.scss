@@ -104,21 +104,21 @@
   }
 }
 
-/* Show/hide heroes - homepage only */
+/* Show/hide heroes - simple and strong */
 @media (min-width: 768px) {
-  .home-archive .mobile-only-hero {
-    display: none;
+  .mobile-only-hero {
+    display: none !important;
   }
-  .home-archive .desktop-only-hero {
-    display: block;
+  .desktop-only-hero {
+    display: block !important;
   }
 }
 
 @media (max-width: 767px) {
-  .home-archive .mobile-only-hero {
-    display: block;
+  .mobile-only-hero {
+    display: block !important;
   }
-  .home-archive .desktop-only-hero {
-    display: none;
+  .desktop-only-hero {
+    display: none !important;
   }
 }
