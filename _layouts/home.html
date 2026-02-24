@@ -4,7 +4,7 @@ layout: default
 
 <div class="home-archive">
 
-<!-- CRITICAL CSS: Only show correct hero immediately -->
+<!-- CRITICAL: Inline styles to prevent FOUC -->
 <style>
   .hero-container {
     width: 100vw;
@@ -12,65 +12,73 @@ layout: default
     position: relative;
     overflow: hidden;
   }
-  
-  /* Mobile-first: show mobile by default */
-  .mobile-hero {
+  .hero-container img {
+    width: 100%;
+    height: auto;
     display: block;
-  }
-  .desktop-hero {
-    display: none;
-  }
-  
-  /* Desktop: swap */
-  @media (min-width: 768px) {
-    .mobile-hero {
-      display: none;
-    }
-    .desktop-hero {
-      display: block;
-    }
   }
 </style>
 
-<!-- DESKTOP HERO: Only loads on desktop -->
-<div class="hero-container desktop-hero">
-  <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3));z-index:1;"></div>
-  <img 
-    src="/assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp"
-    width="1920" 
-    height="520" 
-    alt="Wild Witch Herbs" 
-    style="width:100%;height:auto;display:block;"
-    fetchpriority="high">
-  
-  <div style="position:absolute;top:0;left:0;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:2;">
-    <div style="text-align:center;color:#fff;">
-      <h1 style="font-size:3.5rem;margin:0;padding:0;font-weight:300;letter-spacing:0.15em;text-transform:uppercase;line-height:1;">Wild Witch Herbs</h1>
-      <p style="font-size:1.4rem;margin:0.8rem 0 0 0;padding:0;font-weight:400;font-style:italic;letter-spacing:0.05em;opacity:0.9;line-height:1;">Plant lore & folk magic</p>
+<!-- HERO CONTAINER - Will be populated by JS -->
+<div id="hero-container" class="hero-container">
+  <!-- Fallback content for no-JS users -->
+  <noscript>
+    <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3));z-index:1;"></div>
+    <img src="/assets/images/800x400px-flat-lay-cup-herbal-tea-with-plants.webp" width="800" height="400" alt="Wild Witch Herbs" style="width:100%;height:auto;display:block;">
+    <div style="position:absolute;top:0;left:0;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:2;">
+      <div style="text-align:center;color:#fff;width:90%;">
+        <h1 style="font-size:2rem;margin:0;padding:0;font-weight:300;letter-spacing:0.15em;text-transform:uppercase;line-height:1;">Wild Witch Herbs</h1>
+        <p style="font-size:1.1rem;margin:0.5rem 0 0 0;padding:0;font-weight:400;font-style:italic;letter-spacing:0.05em;opacity:0.9;line-height:1;">Plant lore & folk magic</p>
+      </div>
     </div>
-  </div>
+  </noscript>
 </div>
 
-<!-- MOBILE HERO: Only loads on mobile -->
-<div class="hero-container mobile-hero">
-  <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.35));z-index:1;"></div>
-  <img 
-    src="/assets/images/800x400px-flat-lay-cup-herbal-tea-with-plants.webp"
-    width="800" 
-    height="400" 
-    alt="Wild Witch Herbs" 
-    style="width:100%;height:auto;display:block;"
-    fetchpriority="high">
+<!-- JS to inject correct hero -->
+<script>
+(function() {
+  var isMobile = window.innerWidth < 768;
+  var container = document.getElementById('hero-container');
   
-  <div style="position:absolute;top:0;left:0;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:2;">
-    <div style="text-align:center;color:#fff;width:90%;">
-      <h1 style="font-size:2rem;margin:0;padding:0;font-weight:300;letter-spacing:0.15em;text-transform:uppercase;line-height:1;">Wild Witch Herbs</h1>
-      <p style="font-size:1.1rem;margin:0.5rem 0 0 0;padding:0;font-weight:400;font-style:italic;letter-spacing:0.05em;opacity:0.9;line-height:1;">Plant lore & folk magic</p>
-    </div>
-  </div>
-</div>
+  if (isMobile) {
+    // Mobile hero
+    container.innerHTML = `
+      <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.35));z-index:1;"></div>
+      <img src="/assets/images/800x400px-flat-lay-cup-herbal-tea-with-plants.webp" 
+           width="800" 
+           height="400" 
+           alt="Wild Witch Herbs" 
+           fetchpriority="high"
+           style="width:100%;height:auto;display:block;">
+      <div style="position:absolute;top:0;left:0;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:2;">
+        <div style="text-align:center;color:#fff;width:90%;">
+          <h1 style="font-size:2rem;margin:0;padding:0;font-weight:300;letter-spacing:0.15em;text-transform:uppercase;line-height:1;">Wild Witch Herbs</h1>
+          <p style="font-size:1.1rem;margin:0.5rem 0 0 0;padding:0;font-weight:400;font-style:italic;letter-spacing:0.05em;opacity:0.9;line-height:1;">Plant lore & folk magic</p>
+        </div>
+      </div>
+    `;
+  } else {
+    // Desktop hero
+    container.innerHTML = `
+      <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3));z-index:1;"></div>
+      <img src="/assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp" 
+           width="1920" 
+           height="520" 
+           alt="Wild Witch Herbs" 
+           fetchpriority="high"
+           style="width:100%;height:auto;display:block;">
+      <div style="position:absolute;top:0;left:0;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:2;">
+        <div style="text-align:center;color:#fff;">
+          <h1 style="font-size:3.5rem;margin:0;padding:0;font-weight:300;letter-spacing:0.15em;text-transform:uppercase;line-height:1;">Wild Witch Herbs</h1>
+          <p style="font-size:1.4rem;margin:0.8rem 0 0 0;padding:0;font-weight:400;font-style:italic;letter-spacing:0.05em;opacity:0.9;line-height:1;">Plant lore & folk magic</p>
+        </div>
+      </div>
+    `;
+  }
+})();
+</script>
 
-<!-- ASYNC FONTS - Load after hero -->
+<!-- ASYNC FONTS -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
