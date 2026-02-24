@@ -6,17 +6,14 @@
 @import "minimal-mistakes";
 
 /* ===== CUSTOM CSS ===== */
-
-/* Hide meta + taxonomy */
 .page__meta,
 .page__taxonomy {
   display: none;
 }
 
-/* Load custom partials */
 @import "custom";
 
-/* Content & links */
+/* ===== CONTENT & LINKS ===== */
 .page__content a,
 .page__title a,
 .archive__item-title a {
@@ -32,10 +29,11 @@
   color: #3d3d3d;
 }
 
-/* Content padding */
+/* ===== CONTENT PADDING ===== */
 #main {
   padding: 0 1rem;
 }
+
 @media (min-width: 768px) {
   #main {
     padding: 0 2rem;
@@ -180,17 +178,17 @@
   color: #3d3d3d;
 }
 
-/* ===== MAIN MENU ===== */
-.main-menu {
+/* ===== SITE NAVIGATION ===== */
+.site-nav {
   display: flex;
   justify-content: center;
   gap: 2rem;
   flex-wrap: wrap;
-  margin: 1rem 0;
   list-style: none;
+  margin: 1rem 0;
 }
 
-.main-menu li a {
+.site-nav li a {
   text-decoration: none;
   color: #5c4d3d;
   font-weight: 600;
@@ -198,11 +196,11 @@
   font-size: 0.9rem;
 }
 
-.main-menu li a:hover {
+.site-nav li a:hover {
   color: #3d3d3d;
 }
 
-/* ===== MOBILE HAMBURGER ===== */
+/* ===== HAMBURGER ===== */
 .nav-toggle {
   display: none;
   position: absolute;
@@ -219,7 +217,6 @@
 .nav-toggle span,
 .nav-toggle span::before,
 .nav-toggle span::after {
-  content: "";
   display: block;
   height: 2px;
   width: 24px;
@@ -228,106 +225,7 @@
   border-radius: 2px;
   transition: all 0.3s;
   position: relative;
-}
-
-.nav-toggle span::before {
-  position: absolute;
-  top: -6px;
-}
-
-.nav-toggle span::after {
-  position: absolute;
-  bottom: -6px;
-}
-
-/* Hamburger animation */
-.nav-toggle.open span {
-  background: transparent;
-}
-.nav-toggle.open span::before {
-  transform: rotate(45deg) translate(5px, 5px);
-}
-.nav-toggle.open span::after {
-  transform: rotate(-45deg) translate(5px, -5px);
-}
-
-/* ===== MOBILE MENU ===== */
-@media (max-width: 767px) {
-  .nav-toggle {
-    display: block; /* show hamburger */
-  }
-
-  .main-menu {
-    display: none; /* hide menu by default */
-    flex-direction: column;
-    gap: 0.5rem;
-    text-align: center;
-    position: absolute;
-    top: 3rem; /* below hamburger */
-    right: 1rem;
-    background: #fff;
-    border: 1px solid #e5e5e5;
-    border-radius: 4px;
-    padding: 1rem 0;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    width: 200px;
-    z-index: 999;
-  }
-
-  .main-menu.active {
-    display: flex; /* show when hamburger clicked */
-  }
-
-  .main-menu li a {
-    display: block;
-    padding: 0.75rem 1rem;
-  }
-}
-
-/* ===== DESKTOP OVERRIDES ===== */
-@media (min-width: 768px) {
-  .main-menu {
-    display: flex !important;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 2rem;
-    position: static;
-    background: none;
-    border: none;
-    box-shadow: none;
-  }
-
-  .nav-toggle {
-    display: none;
-  }
-}
-
-/* ===== MOBILE HAMBURGER ===== */
-.nav-toggle {
-  display: none; /* hidden on desktop */
-  position: absolute;
-  top: 1rem;
-  right: 1rem;
-  width: 2rem;
-  height: 2rem;
-  background: transparent;
-  border: none;
-  cursor: pointer;
-  z-index: 2000;
-}
-
-.nav-toggle span,
-.nav-toggle span::before,
-.nav-toggle span::after {
   content: "";
-  display: block;
-  height: 2px;
-  width: 24px;
-  background: #5c4d3d;
-  margin: 6px auto;
-  border-radius: 2px;
-  transition: all 0.3s;
-  position: relative;
 }
 
 .nav-toggle span::before {
@@ -343,21 +241,23 @@
 .nav-toggle.open span {
   background: transparent;
 }
+
 .nav-toggle.open span::before {
   transform: rotate(45deg) translate(5px, 5px);
 }
+
 .nav-toggle.open span::after {
   transform: rotate(-45deg) translate(5px, -5px);
 }
 
-/* Mobile menu toggle */
+/* ===== MOBILE ===== */
 @media (max-width: 767px) {
   .nav-toggle {
     display: block;
   }
 
   .site-nav {
-    display: none; /* hide by default */
+    display: none;
     flex-direction: column;
     position: absolute;
     top: 3rem;
@@ -381,13 +281,14 @@
   }
 }
 
-/* Desktop menu stays normal */
+/* ===== DESKTOP ===== */
 @media (min-width: 768px) {
   .site-nav {
     display: flex !important;
     justify-content: center;
     gap: 2rem;
   }
+
   .nav-toggle {
     display: none;
   }
