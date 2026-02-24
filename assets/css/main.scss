@@ -1,11 +1,14 @@
----
----
-
-/* Theme imports */
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
-
-/* Custom CSS */
-/* ... all your existing CSS ... */
-
-/* NO HERO CSS - handled by JS inline */
+<div class="hero-container">
+  <div class="hero-overlay"></div>
+  <picture>
+    <source media="(max-width: 767px)" srcset="/assets/images/800x400px-flat-lay-cup-herbal-tea-with-plants.webp">
+    <source media="(min-width: 768px)" srcset="/assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp">
+    <img src="/assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp" 
+         width="1920" 
+         height="520" 
+         alt="Wild Witch Herbs"
+         fetchpriority="high"
+         style="width:100%;height:auto;display:block;">
+  </picture>
+  <div class="hero-text">...</div>
+</div>
