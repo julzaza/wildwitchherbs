@@ -282,3 +282,12 @@
     padding: 0.75rem 1rem;
   }
 }
+
+.nav-toggle {
+  display: block !important;
+  z-index: 2000; /* make sure it’s above everything */
+}
+
+header {
+  position: relative; /* so the absolute hamburger is positioned correctly */
+}
