@@ -1,52 +1,105 @@
-.hero-container {
-  width: 100vw;
-  margin-left: calc(-50vw + 50%);
-  position: relative;
-  overflow: hidden;
+---
+---
+
+/* Theme imports */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Custom CSS */
+
+/* Hide meta + taxonomy */
+.page__meta,
+.page__taxonomy {
+  display: none;
 }
 
-.hero-overlay {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3));
-  z-index: 1;
+/* Load custom partials */
+@import "custom";
+
+/* Title Link Styling */
+.page__title a,
+.archive__item-title a {
+  color: #333;
+  text-decoration: none;
+  font-weight: 700;
 }
 
-.hero-text {
-  position: absolute;
-  inset: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  z-index: 2;
-  text-align: center;
-  color: #fff;
+.page__title a:hover,
+.archive__item-title a:hover {
+  color: #b3b3b3;
 }
 
-/* Desktop typography */
-.hero-text h1 {
-  font-size: 3.5rem;
-  font-weight: 300;
-  letter-spacing: 0.15em;
-  text-transform: uppercase;
-  margin: 0;
+.archive__item-excerpt a {
+  text-decoration: none;
 }
 
-.hero-text p {
-  font-size: 1.4rem;
-  margin-top: 0.8rem;
-  font-style: italic;
-  opacity: 0.9;
+.archive__item-excerpt a:hover {
+  text-decoration: underline;
 }
 
-/* Mobile adjustments */
-@media (max-width: 767px) {
-  .hero-text h1 {
-    font-size: 2rem;
+/* Inline link styling */
+.page__content a {
+  color: #3A5F0B;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.page__content a:hover {
+  text-decoration: underline;
+}
+
+/* Content padding */
+#main {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 768px) {
+  #main {
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
+}
 
-  .hero-text p {
-    font-size: 1.1rem;
+/* Full-Bleed Hero - for posts */
+.page__hero-full-bleed {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  width: 100vw;
+  background-color: #f3f3f3;
+}
+
+.page__hero-full-bleed picture,
+.page__hero-full-bleed img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Title spacing */
+.page__title {
+  margin-bottom: 0.4rem;
+}
+
+.page__content {
+  margin-top: 0.4rem;
+}
+
+.page__content > :first-child {
+  margin-top: 0;
+}
+
+.page__hero-full-bleed + .page__inner-wrap .page__title {
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
+}
+
+@media (min-width: 768px) {
+  .page__hero-full-bleed + .page__inner-wrap .page__title {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
   }
 }
