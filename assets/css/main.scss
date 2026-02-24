@@ -181,67 +181,7 @@
   color: #3d3d3d;
 }
 
-/* ===== MINIMAL MISTAKES MOBILE MENU FIX ===== */
-
-/* Show hamburger toggle on mobile */
-header .nav-toggle {
-  display: block !important;
-  z-index: 100;
-}
-
-/* Hide full menu on mobile by default */
-header .site-nav {
-  display: none;
-}
-
-/* Show menu when hamburger is active */
-header .nav-toggle.active + .site-nav {
-  display: block;
-  position: absolute;
-  top: 100%;
-  right: 0;
-  background: #fff;
-  border: 1px solid #e5e5e5;
-  border-radius: 4px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  width: 200px;
-  padding: 0.5rem 0;
-  z-index: 999;
-}
-
-header .site-nav li a {
-  display: block;
-  padding: 0.75rem 1rem;
-  text-transform: uppercase;
-  font-weight: 600;
-  color: #5c4d3d;
-}
-
-header .site-nav li a:hover {
-  background: #f5f5f5;
-  color: #3d3d3d;
-}
-
-/* Desktop menu */
-@media (min-width: 768px) {
-  header .nav-toggle {
-    display: none !important;
-  }
-  header .site-nav {
-    display: flex !important;
-    position: relative;
-    width: auto;
-    box-shadow: none;
-    border: none;
-    flex-wrap: wrap;
-  }
-  header .site-nav li a {
-    padding: 0 1rem;
-    background: none;
-  }
-}
-
-/* ===== MOBILE HAMBURGER ===== */
+/* ===== MOBILE HAMBURGER & MENU ===== */
 .nav-toggle {
   display: none; /* hidden on desktop */
   position: absolute;
@@ -260,101 +200,85 @@ header .site-nav li a:hover {
 .nav-toggle span::after {
   content: "";
   display: block;
-  width: 2rem;
-  height: 0.2rem;
+  height: 2px;
+  width: 24px;
   background: #5c4d3d;
+  margin: 6px auto;
   border-radius: 2px;
-  transition: all 0.3s ease;
+  transition: all 0.3s;
   position: relative;
 }
 
 .nav-toggle span::before {
-  top: -0.6rem;
   position: absolute;
+  top: -6px;
 }
 
 .nav-toggle span::after {
-  bottom: -0.6rem;
   position: absolute;
+  bottom: -6px;
 }
 
-/* Hide desktop menu on mobile */
+/* Hamburger animation */
+.nav-toggle.open span {
+  background: transparent;
+}
+.nav-toggle.open span::before {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+.nav-toggle.open span::after {
+  transform: rotate(-45deg) translate(5px, -5px);
+}
+
+/* Desktop menu */
+.main-menu {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin: 1rem 0;
+}
+
+.main-menu li a {
+  text-decoration: none;
+  color: #5c4d3d;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+.main-menu li a:hover {
+  color: #3d3d3d;
+}
+
+/* Mobile: hide menu by default, show hamburger */
 @media (max-width: 767px) {
+  .nav-toggle {
+    display: block;
+  }
+
   .main-menu {
     display: none;
+    flex-direction: column;
+    gap: 0.5rem;
+    text-align: center;
     position: absolute;
     top: 3rem; /* below toggle */
     right: 1rem;
     background: #fff;
     border: 1px solid #e5e5e5;
     border-radius: 4px;
+    padding: 1rem 0;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    flex-direction: column;
-    width: 200px;
-    padding: 0.5rem 0;
     z-index: 999;
-  }
-
-  .main-menu li a {
-    display: block;
-    padding: 0.75rem 1rem;
+    width: 200px;
   }
 
   .main-menu.active {
     display: flex;
   }
 
-  .nav-toggle {
+  .main-menu li a {
     display: block;
+    padding: 0.75rem 1rem;
   }
-}
-
-/* Desktop menu stays the same */
-@media (min-width: 768px) {
-  .main-menu {
-    display: flex !important;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 2rem;
-    margin: 1rem 0;
-  }
-}
-
-/* Mobile menu hidden by default */
-.main-menu {
-  display: none;
-  flex-direction: column;
-  gap: 0.5rem;
-  text-align: center;
-}
-
-/* Show menu when active */
-.main-menu.active {
-  display: flex;
-}
-
-/* Hamburger animation (optional) */
-.nav-toggle span,
-.nav-toggle span::before,
-.nav-toggle span::after {
-  display: block;
-  height: 2px;
-  width: 24px;
-  background: #5c4d3d;
-  margin: 6px auto;
-  transition: all 0.3s;
-  content: "";
-  position: relative;
-}
-
-.nav-toggle.open span {
-  background: transparent;
-}
-
-.nav-toggle.open span::before {
-  transform: rotate(45deg) translate(5px, 5px);
-}
-
-.nav-toggle.open span::after {
-  transform: rotate(-45deg) translate(5px, -5px);
 }
