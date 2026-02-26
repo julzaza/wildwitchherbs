@@ -6,7 +6,7 @@ layout: default
 
   <!-- MOBILE HERO: Only if image_mobile specified -->
   {% if page.image_mobile %}
-    <div class="page__hero-full-bleed mobile-only-hero">
+    <div class="mobile-only-hero post-hero-mobile">
       <img src="{{ page.image_mobile | relative_url }}"
            alt="{{ page.image_alt | default: page.title }}"
            width="800" 
@@ -17,7 +17,7 @@ layout: default
 
   <!-- DESKTOP HERO: Only if either desktop image specified -->
   {% if page.image_desktop_1280 or page.image_desktop_1920 %}
-    <div class="page__hero-full-bleed desktop-only-hero">
+    <div class="desktop-only-hero post-hero-desktop">
       <picture>
         {% if page.image_desktop_1920 %}
           <source srcset="{{ page.image_desktop_1920 | relative_url }}" media="(min-width: 1281px)">
