@@ -263,3 +263,106 @@
   padding-top: 0 !important;
 }
 
+
+/* ===== MOBILE NAVIGATION FIX ===== */
+
+/* Show hamburger button on mobile */
+.greedy-nav__toggle {
+  display: block;
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Hide on desktop */
+@media (min-width: 768px) {
+  .greedy-nav__toggle {
+    display: none;
+  }
+}
+
+/* Hamburger icon styling */
+.navicon {
+  position: relative;
+  width: 1.5rem;
+  height: 0.25rem;
+  background: #7a6b5a;
+  margin: 0.5rem auto;
+}
+
+.navicon::before,
+.navicon::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 1.5rem;
+  height: 0.25rem;
+  background: #7a6b5a;
+}
+
+.navicon::before {
+  top: -0.5rem;
+}
+
+.navicon::after {
+  bottom: -0.5rem;
+}
+
+/* Hidden links menu - show when not hidden */
+.hidden-links {
+  display: none;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  min-width: 200px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  z-index: 100;
+}
+
+.hidden-links li {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.hidden-links li:last-child {
+  border-bottom: none;
+}
+
+.hidden-links a {
+  display: block;
+  padding: 0.75rem 1rem;
+  color: #5c4d3d;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.hidden-links a:hover {
+  background: #f5f5f5;
+}
+
+/* Show menu when active (JS removes 'hidden' class) */
+.hidden-links:not(.hidden) {
+  display: block;
+}
+
+/* Hide visible links on mobile, show on desktop */
+@media (max-width: 767px) {
+  .visible-links {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .visible-links {
+    display: flex;
+  }
+  .hidden-links {
+    display: none !important;
+  }
+}
