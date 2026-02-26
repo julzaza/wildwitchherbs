@@ -244,22 +244,14 @@
 
 
 
-/* Remove space between title and content wrappers */
-.page__inner-wrap {
-  margin-bottom: 0;
+/* Force no gap between consecutive page__inner-wrap */
+#main .page__inner-wrap {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
 }
 
-.page__inner-wrap + .page__inner-wrap {
-  margin-top: 0;
-  padding-top: 0;
+#main .page__inner-wrap + .page__inner-wrap {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
 }
 
-/* Or more specific */
-article .page__inner-wrap:first-of-type {
-  margin-bottom: 0.5rem;
-}
-
-article .page__inner-wrap:nth-of-type(2) {
-  margin-top: 0;
-  padding-top: 0;
-}
