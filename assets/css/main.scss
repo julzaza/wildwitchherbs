@@ -244,17 +244,22 @@
 
 
 
-/* Tighten space between title and content */
-.page__inner-wrap .page__title {
+/* Remove space between title and content wrappers */
+.page__inner-wrap {
+  margin-bottom: 0;
+}
+
+.page__inner-wrap + .page__inner-wrap {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* Or more specific */
+article .page__inner-wrap:first-of-type {
   margin-bottom: 0.5rem;
 }
 
-.page__content {
+article .page__inner-wrap:nth-of-type(2) {
   margin-top: 0;
-}
-
-.page__content > h2:first-child,
-.page__content > h3:first-child,
-.page__content > p:first-child {
-  margin-top: 0.5rem;
+  padding-top: 0;
 }
