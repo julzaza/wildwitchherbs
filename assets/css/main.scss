@@ -180,20 +180,64 @@
 
 /* ===== OPTIONAL: additional custom tweaks ===== */
 
-/* POST HERO - Strict mobile/desktop separation */
-.mobile-only-hero {
+/* ===== POST HERO - MOBILE/DESKTOP SEPARATION ===== */
+
+/* Mobile hero - full width */
+.post-hero-mobile {
+  display: block;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw;
+  overflow: hidden;
+}
+
+.post-hero-mobile img {
+  width: 100%;
+  height: auto;
   display: block;
 }
 
-.desktop-only-hero {
+/* Desktop hero - full width, hidden by default */
+.post-hero-desktop {
   display: none;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw;
+  overflow: hidden;
 }
 
+.post-hero-desktop img,
+.post-hero-desktop picture {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Switch at 768px */
 @media (min-width: 768px) {
-  .mobile-only-hero {
-    display: none;
+  .post-hero-mobile {
+    display: none !important;
   }
-  .desktop-only-hero {
-    display: block;
+  .post-hero-desktop {
+    display: block !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .post-hero-mobile {
+    display: block !important;
+  }
+  .post-hero-desktop {
+    display: none !important;
   }
 }
