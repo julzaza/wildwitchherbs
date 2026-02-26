@@ -244,17 +244,17 @@
 
 
 
-/* Reduce space between post title and first heading */
-.page__title {
-  margin-bottom: 0.5rem !important;
+/* Tighten space between title and content */
+.page__inner-wrap .page__title {
+  margin-bottom: 0.5rem;
 }
 
-.page__content h2:first-of-type {
-  margin-top: 0.5rem !important;
+.page__content {
+  margin-top: 0;
 }
 
-/* Or more aggressive - remove all extra space */
-.page__title + .page__content h2,
-.page__title ~ .page__content h2:first-of-type {
+.page__content > h2:first-child,
+.page__content > h3:first-child,
+.page__content > p:first-child {
   margin-top: 0.5rem;
 }
