@@ -4,7 +4,7 @@ layout: default
 
 <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
 
-  <!-- MOBILE HERO: Only shows on small screens, ONLY if image_mobile specified -->
+  <!-- MOBILE HERO: Only if image_mobile specified -->
   {% if page.image_mobile %}
     <div class="page__hero-full-bleed mobile-only-hero">
       <img src="{{ page.image_mobile | relative_url }}"
@@ -15,14 +15,22 @@ layout: default
     </div>
   {% endif %}
 
-  <!-- DESKTOP HERO: Only shows on larger screens, ONLY if image_desktop specified -->
-  {% if page.image_desktop %}
+  <!-- DESKTOP HERO: Only if either desktop image specified -->
+  {% if page.image_desktop_1280 or page.image_desktop_1920 %}
     <div class="page__hero-full-bleed desktop-only-hero">
-      <img src="{{ page.image_desktop | relative_url }}"
-           alt="{{ page.image_alt | default: page.title }}"
-           width="1920"
-           height="520"
-           fetchpriority="high">
+      <picture>
+        {% if page.image_desktop_1920 %}
+          <source srcset="{{ page.image_desktop_1920 | relative_url }}" media="(min-width: 1281px)">
+        {% endif %}
+        {% if page.image_desktop_1280 %}
+          <source srcset="{{ page.image_desktop_1280 | relative_url }}" media="(min-width: 768px)">
+        {% endif %}
+        <img src="{{ page.image_desktop_1280 | default: page.image_desktop_1920 | relative_url }}"
+             alt="{{ page.image_alt | default: page.title }}"
+             width="1280"
+             height="400"
+             fetchpriority="high">
+      </picture>
     </div>
   {% endif %}
 
