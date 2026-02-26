@@ -179,4 +179,21 @@
 }
 
 /* ===== OPTIONAL: additional custom tweaks ===== */
-/* Add any other minor overrides here */
+
+/* POST HERO - Strict mobile/desktop separation */
+.mobile-only-hero {
+  display: block;
+}
+
+.desktop-only-hero {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .mobile-only-hero {
+    display: none;
+  }
+  .desktop-only-hero {
+    display: block;
+  }
+}
