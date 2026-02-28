@@ -15,7 +15,8 @@ tags:
   - ritual planting
   - herbal witchcraft
   - old world herbs
-permalink: /witch-garden/
+redirect_from:
+  - /witchs-garden-plants-of-power/
 
 faq:
   - question: "What is a traditional witch’s garden?"
