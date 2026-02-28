@@ -14,28 +14,37 @@ tags:
   - danube folklore
   - balkan witchcraft
   - folk fertility rites
+    
 faq:
-  - q: "Why were Vlach weddings traditionally held under the full moon?"
-    a: "The waxing or full moon symbolized growth and abundance in Vlach belief, ensuring fertility for the couple and prosperity for their household."
-  - q: "What is the Vlach milk spell and how was it performed?"
-    a: "The milk spell was a post-wedding fertility rite where warm cow’s milk, sometimes mixed with crushed nettle seed, was poured over the threshold to bless the womb and household with nourishment and life."
-  - q: "Which herbs did Vlach couples and healers use in fertility rituals?"
-    a: "Common herbs included basil, rue, nettle seed, and hawthorn, each believed to protect, stimulate circulation, support vitality, and enhance reproductive health."
-  - q: "Are Danube Vlach fertility rites still practiced today?"
-    a: "Elements of these rituals survive in family customs and ceremonial traditions, often preserved as folklore rather than formal magic practices."
-  - q: "Why were red threads and hawthorn used to guard new life?"
-    a: "Red wool threads symbolized protection and vitality, while hawthorn, placed above beds, was believed to safeguard the mother and child—its antioxidant properties reflect subtle practical wisdom."
-  - q: "Did these fertility practices influence other cultures?"
-    a: "Yes. Similar milk and herb-based fertility rites appear in ancient Greece and among Balkan Romani communities, showing an Indo-European continuity of belief."
-  - q: "How do these herbal practices align with modern science?"
-    a: "Many herbs used, such as basil, rue, and nettle seed, contain compounds supporting circulation, reproductive health, and stress reduction, echoing the practical effects behind the folklore."
-  - q: "What role did elders play in Vlach fertility rites?"
-    a: "Experienced women and midwives guided rituals, prepared herbal charms, and ensured proper timing with lunar cycles, passing down knowledge orally through generations."
-  - q: "Were fertility charms purely symbolic or also protective?"
-    a: "They were both—intended to boost fertility and protect the couple and unborn child from harm, blending ritual symbolism with practical household health measures."
-  - q: "Where can I learn more about Vlach herbal and ritual traditions?"
-    a: "Explore related posts like **[Charms of the Vlach Wise Women](/charms-vlach-healers/)** and **[Vlach Magic of Negotin](/vlach-magic-negotin-serbia/)** for deeper insight into Balkan folk herbalism and ritual magic."
+  - question: "Why were Vlach weddings traditionally held under the full moon?"
+    answer: "The waxing or full moon symbolized growth and abundance in Vlach belief, ensuring fertility for the couple and prosperity for their household."
 
+  - question: "What is the Vlach milk spell and how was it performed?"
+    answer: "The milk spell was a post-wedding fertility rite where warm cow’s milk, sometimes mixed with crushed nettle seed, was poured over the threshold to bless the womb and household with nourishment and life."
+
+  - question: "Which herbs did Vlach couples and healers use in fertility rituals?"
+    answer: "Common herbs included basil, rue, nettle seed, and hawthorn, each believed to protect, stimulate circulation, support vitality, and enhance reproductive health."
+
+  - question: "Are Danube Vlach fertility rites still practiced today?"
+    answer: "Elements of these rituals survive in family customs and ceremonial traditions, often preserved as folklore rather than formal magic practices."
+
+  - question: "Why were red threads and hawthorn used to guard new life?"
+    answer: "Red wool threads symbolized protection and vitality, while hawthorn, placed above beds, was believed to safeguard the mother and child—its antioxidant properties reflect subtle practical wisdom."
+
+  - question: "Did these fertility practices influence other cultures?"
+    answer: "Yes. Similar milk and herb-based fertility rites appear in ancient Greece and among Balkan Romani communities, showing an Indo-European continuity of belief."
+
+  - question: "How do these herbal practices align with modern science?"
+    answer: "Many herbs used, such as basil, rue, and nettle seed, contain compounds supporting circulation, reproductive health, and stress reduction, echoing the practical effects behind the folklore."
+
+  - question: "What role did elders play in Vlach fertility rites?"
+    answer: "Experienced women and midwives guided rituals, prepared herbal charms, and ensured proper timing with lunar cycles, passing down knowledge orally through generations."
+
+  - question: "Were fertility charms purely symbolic or also protective?"
+    answer: "They were both—intended to boost fertility and protect the couple and unborn child from harm, blending ritual symbolism with practical household health measures."
+
+  - question: "Where can I learn more about Vlach herbal and ritual traditions?"
+    answer: "Explore related posts like Charms of the Vlach Wise Women and Vlach Magic of Negotin for deeper insight into Balkan folk herbalism and ritual magic."
 ---
 
 In the misty valleys near the **Iron Gates of the Danube**, the Vlach people keep alive a complex web of **fertility magic**—practices that weave together **Romanian, Thracian, and Slavic** strands of belief.
