@@ -13,7 +13,7 @@ tags:
   - ethnobotany
   - ritual restriction
   - folk medicine for men
-permalink: /forbidden-herbs-for-men/
+
 faq:
   - question: "Were herbs really forbidden to men in traditional cultures?"
     answer: "Yes. Many traditions restricted men from handling certain herbs due to fertility concerns, ritual law, toxicity, or spiritual reasons."
