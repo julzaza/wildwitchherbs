@@ -7,7 +7,8 @@ description: "Explore the ancient firewalking ritual of Eastern Serbia's Vlach c
 categories: [witchcraft-ritual, folklore-ancestral]
 tags: [firewalking, Vlach magic]
 
-search: false
+redirect_from: /vlach-firewalkers-st-john-baptist/
+
 audience: "Folklore enthusiasts, herbalists, witches, travelers interested in traditional rituals"
 language: "en"
 difficulty: "Beginner to Intermediate"
