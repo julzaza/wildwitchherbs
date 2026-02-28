@@ -250,3 +250,14 @@ $(document).ready(function () {
     });
   }
 });
+
+
+
+// TEST - add this right at the top of main.js
+console.log('Main.js is loading!');
+$(document).ready(function () {
+  console.log('jQuery ready!');
+  $('.greedy-nav__toggle').on('click', function() {
+    console.log('Hamburger clicked!');
+  });
+});
