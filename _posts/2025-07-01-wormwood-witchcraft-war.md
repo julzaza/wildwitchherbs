@@ -144,7 +144,7 @@ Both wormwood and mugwort appear in traditions concerned with **disturbed sleep,
 Dreamwork involving Artemisia was never recreational. It was diagnostic, ancestral, and often uncomfortable.
 
 This tradition is explored further in  
-**[Wormwood and Mugwort For Lucid Dreaming: Folklore, Rituals & Safety](https://wildwitchherbs.com/wormwood-lucid-dreaming/)**
+**[Wormwood and Mugwort For Lucid Dreaming: Folklore, Rituals & Safety](/wormwood-lucid-dreaming/)**
 
 ---
 
@@ -191,13 +191,13 @@ Wormwood teaches through discomfort, purifies through bitterness, and forces cla
 
 ## Related Posts
 
-- **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](https://wildwitchherbs.com/solstice-dreaming-mugwort-wormwood/)**  
+- **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)**  
   A deeper look at how Artemisia species were paired with liminal nights, ancestral contact, and ritual dreaming.
 
-- **[The Witch’s Herbal Starter Kit: 10 Traditional Power Plants](https://wildwitchherbs.com/herbal-starter-kit/)**  
+- **[The Witch’s Herbal Starter Kit: 10 Traditional Power Plants](/herbal-starter-kit/)**  
   Where Artemisia absinthium, vulgaris, and annua fit within historical witchcraft and folk herbal practice.
 
-- **[How to Start a Real Witch’s Garden: Traditional Plants with Power](https://wildwitchherbs.com/witch-garden/)**  
+- **[How to Start a Real Witch’s Garden: Traditional Plants with Power](/witch-garden/)**  
   Learn how bitter and boundary herbs like wormwood were planted, harvested, and respected in folk tradition.
 
 ---
@@ -219,7 +219,7 @@ No. Though closely related, they serve different roles in folklore. Wormwood (*A
 **Was wormwood used for dreaming or visions?**  
 
 Yes. European folk practice used wormwood—often alongside mugwort—for **prophetic or diagnostic dreaming**, especially around themes of death, fate, and ancestral messages. It was placed under pillows, hung near beds, or used as smoke rather than casually consumed.  
-Related reading: **[Wormwood & Lucid Dreaming](https://wildwitchherbs.com/wormwood-lucid-dreaming/)**.
+Related reading: **[Wormwood & Lucid Dreaming](/wormwood-lucid-dreaming/)**.
 
 **What about Artemisia annua — does it belong in this tradition?**  
 
