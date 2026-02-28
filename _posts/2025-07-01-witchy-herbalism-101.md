@@ -1,10 +1,10 @@
 ---
 layout: single
 title: "Witchy Herbalism 101: Real Plants, Real Magic, No B.S."
-date: 2025-07-01
+
 categories: [herbal-magic, witchcraft-ritual]
 tags: [witchy herbs, herbal magic, witchcraft basics, rituals, artemisia]
-permalink: /witchy-herbalism-101/
+
 excerpt: "Discover the core herbs every modern witch should know. From wormwood and mugwort to sage and calendula, learn real-world uses rooted in folklore, protection, and ritual magic."
 description: "A practical guide to witchy herbalism: real plants, historical uses, protective magic, and ritual work. Learn the herbs that witches actually used and how to start your practice safely."
 author: Wild Witch Herbs
