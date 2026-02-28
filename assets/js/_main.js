@@ -232,3 +232,21 @@ $(document).ready(function () {
       });
   }
 });
+
+
+
+// Greedy navigation (hamburger menu)
+$(document).ready(function () {
+  var $nav = $('#site-nav');
+  var $toggle = $('.greedy-nav__toggle');
+  var $links = $('.visible-links');
+  var $hiddenLinks = $('.hidden-links');
+  
+  if ($toggle.length && $hiddenLinks.length) {
+    $toggle.on('click', function(e) {
+      e.preventDefault();
+      $hiddenLinks.toggleClass('hidden');
+      $(this).toggleClass('close');
+    });
+  }
+});
