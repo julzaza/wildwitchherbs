@@ -473,3 +473,18 @@
 
 
 
+.hero-container {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  position: relative;
+  overflow: hidden;
+  /* Force aspect ratio so container has height even before image loads */
+  aspect-ratio: 1920 / 520;
+  background-color: #3d3d3d; /* Temporary: helps see if container renders */
+}
+
+@media (max-width: 767px) {
+  .hero-container {
+    aspect-ratio: 800 / 400;
+  }
+}
