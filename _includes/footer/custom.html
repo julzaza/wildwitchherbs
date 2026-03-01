@@ -1,3 +1,15 @@
-<!-- start custom footer snippets -->
-
-<!-- end custom footer snippets -->
+<script>
+  // Simple mobile menu toggle - no dependencies, ~300 bytes
+  document.addEventListener('DOMContentLoaded', function() {
+    const toggle = document.querySelector('.mobile-menu-toggle');
+    const menu = document.querySelector('.site-nav__links');
+    
+    if (toggle && menu) {
+      toggle.addEventListener('click', function() {
+        const expanded = this.getAttribute('aria-expanded') === 'true';
+        this.setAttribute('aria-expanded', !expanded);
+        menu.classList.toggle('is-visible');
+      });
+    }
+  });
+</script>
