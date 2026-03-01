@@ -1,15 +1,32 @@
 <script>
-  // Simple mobile menu toggle - no dependencies, ~300 bytes
-  document.addEventListener('DOMContentLoaded', function() {
-    const toggle = document.querySelector('.mobile-menu-toggle');
-    const menu = document.querySelector('.site-nav__links');
-    
-    if (toggle && menu) {
-      toggle.addEventListener('click', function() {
-        const expanded = this.getAttribute('aria-expanded') === 'true';
-        this.setAttribute('aria-expanded', !expanded);
-        menu.classList.toggle('is-visible');
-      });
+// Mobile menu toggle - minimal vanilla JS
+document.addEventListener('DOMContentLoaded', function() {
+  const toggle = document.querySelector('.mobile-menu-toggle');
+  const menu = document.querySelector('.site-nav__links');
+  
+  if (!toggle || !menu) return;
+  
+  toggle.addEventListener('click', function(e) {
+    e.stopPropagation();
+    const isExpanded = this.getAttribute('aria-expanded') === 'true';
+    this.setAttribute('aria-expanded', !isExpanded);
+    menu.classList.toggle('is-visible');
+  });
+  
+  // Close menu when clicking outside
+  document.addEventListener('click', function(e) {
+    if (!toggle.contains(e.target) && !menu.contains(e.target)) {
+      toggle.setAttribute('aria-expanded', 'false');
+      menu.classList.remove('is-visible');
     }
   });
+  
+  // Close menu on window resize to desktop
+  window.addEventListener('resize', function() {
+    if (window.innerWidth >= 768) {
+      toggle.setAttribute('aria-expanded', 'false');
+      menu.classList.remove('is-visible');
+    }
+  });
+});
 </script>
