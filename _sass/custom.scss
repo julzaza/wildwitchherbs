@@ -1,5 +1,16 @@
 /* _sass/custom.scss */
 
+/* Force hamburger visible on mobile */
+@media (max-width: 767px) {
+  .mobile-menu-toggle,
+  button.mobile-menu-toggle,
+  .mobile-menu-toggle.hidden {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+}
+
 /* Hide anchorjs links */
 .page__content .anchorjs-link {
   display: none;
