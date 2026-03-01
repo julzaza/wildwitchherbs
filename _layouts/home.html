@@ -2,103 +2,100 @@
 layout: default
 ---
 
+{% if page.header.overlay_image %}
+  {% include page__hero.html %}
+{% endif %}
 
-<div class="hero-container">
-  <div class="hero-overlay"></div>
+<div id="main" class="home-archive" role="main">
+  {% include sidebar.html %}
 
-  <picture>
-    <source media="(max-width: 767px)" 
-            srcset="/assets/images/800x400px-flat-lay-cup-herbal-tea-with-plants.webp"
-            width="800" height="400">
-    
-    <source media="(min-width: 768px)" 
-            srcset="/assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp"
-            width="1920" height="520">
-
-    <img src="/assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp"
-         width="1920"
-         height="520"
-         alt="Wild Witch Herbs"
-         fetchpriority="high">
-  </picture>
-
-  <div class="hero-text">
-    <h1>Wild Witch Herbs</h1>
-    <p>Plant lore & folk magic</p>
+  <div class="home-intro" style="text-align:center; max-width:700px; margin:2rem auto;">
+    {{ content }}
   </div>
-</div>
 
-{% include sidebar.html %}
-
-<!-- INTRO -->
-<section class="home-intro">
-  <p>
-    A living archive of ancestral plant wisdom, folk magic, and the old ways of working with land and spirit.
-  </p>
-  <div class="intro-divider"></div>
-</section>
-
-<!-- SHOP LINK -->
-<div class="shop-link">
-  <a href="{{ page.shop_link | default: '/shop/' }}">Visit the Shop</a>
-</div>
-
-{% include feature_row %}
-
-<!-- FEATURED POSTS -->
-<section class="cluster-section">
-  <h2>Featured</h2>
-  <div class="entries-grid">
-    {% assign featured_posts = site.posts | sort:'date' | reverse %}
-    {% assign count = 0 %}
-    {% for post in featured_posts %}
-      {% if post.featured %}
-        <article>
-          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-          {% if post.excerpt %}
-            <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
-          {% endif %}
-        </article>
-        {% assign count = count | plus: 1 %}
-        {% if count == 3 %}{% break %}{% endif %}
-      {% endif %}
-    {% endfor %}
+  <div class="shop-link" style="text-align:center; margin-bottom:3rem;">
+    <a href="{{ page.shop_link | default: '/shop/' }}" style="font-weight:bold; text-decoration:none; font-size:1.2rem; border-bottom:1px solid #7a5c3d; color:#4a3c2f; transition:all 0.2s;">→ VISIT THE SHOP</a>
+    {% include feature_row %}
   </div>
-</section>
 
-<!-- HERBALISM & MAGIC -->
-<section class="cluster-section">
-  <h2>Herbalism & Magic</h2>
-  <div class="entries-grid">
-    {% assign herbal_posts = site.posts | sort:'date' | reverse %}
-    {% assign herbal_count = 0 %}
-    {% for post in herbal_posts %}
-      {% if post.categories contains 'herbal-magic' %}
-        <article>
-          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-          {% if post.excerpt %}
-            <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
-          {% endif %}
-        </article>
-        {% assign herbal_count = herbal_count | plus: 1 %}
-        {% if herbal_count == 6 %}{% break %}{% endif %}
-      {% endif %}
-    {% endfor %}
-  </div>
-</section>
+  {% comment %} Featured Guides & Posts {% endcomment %}
+  <section class="cluster-section" style="max-width:1000px; margin:4rem auto; padding:0 1rem;">
+    <h2 style="font-family:Roboto,sans-serif; font-size:1.8rem; border-bottom:2px solid #7a5c2f; padding-bottom:0.3rem; margin-bottom:2rem; color:#4a3c2f;">
+      Featured Guides & Posts
+    </h2>
+    <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:2rem;">
+      {% assign featured_posts = site.posts | sort:'date' | reverse %}
+      {% assign count = 0 %}
+      {% for post in featured_posts %}
+        {% if post.featured %}
+          <article class="archive__item" style="background:rgba(255,255,255,0.9); border-radius:10px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1); transition:transform 0.2s ease;">
+            <div class="archive__item-content" style="padding:0.8rem 1rem;">
+              <h3 class="archive__item-title" style="font-weight:600; font-size:1.3rem; margin:0.3rem 0;">
+                <a href="{{ post.url | relative_url }}" style="color:#4a3c2f; text-decoration:none;">{{ post.title }}</a>
+              </h3>
+              {% if post.excerpt %}
+                <p class="archive__item-excerpt" style="font-weight:400; font-size:0.95rem; line-height:1.5; margin-top:0.5rem;">
+                  {{ post.excerpt | strip_html | truncate: 140 }}
+                </p>
+              {% endif %}
+            </div>
+          </article>
+          {% assign count = count | plus: 1 %}
+          {% if count == 3 %}{% break %}{% endif %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
 
-<!-- ALL STORIES -->
-<section class="cluster-section">
-  <h2>All Stories</h2>
-  <div class="entries-grid">
+  {% comment %} Herbalism & Magic Cluster (limit 6) {% endcomment %}
+  <section class="cluster-section" style="max-width:1000px; margin:4rem auto; padding:0 1rem;">
+    <h2 style="font-family:Roboto,sans-serif; font-size:1.8rem; border-bottom:2px solid #7a5c2f; padding-bottom:0.3rem; margin-bottom:2rem; color:#4a3c2f;">
+      Herbalism & Magic in Practice
+    </h2>
+    <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:2rem;">
+      {% assign herbal_posts = site.posts | sort:'date' | reverse %}
+      {% assign herbal_count = 0 %}
+      {% for post in herbal_posts %}
+        {% if post.categories contains 'herbal-magic' %}
+          <article class="archive__item" style="background:rgba(255,255,255,0.9); border-radius:10px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1); transition:transform 0.2s ease;">
+            <div class="archive__item-content" style="padding:0.8rem 1rem;">
+              <h3 class="archive__item-title" style="font-weight:600; font-size:1.3rem; margin:0.3rem 0;">
+                <a href="{{ post.url | relative_url }}" style="color:#4a3c2f; text-decoration:none;">{{ post.title }}</a>
+              </h3>
+              {% if post.excerpt %}
+                <p class="archive__item-excerpt" style="font-weight:400; font-size:0.95rem; line-height:1.5; margin-top:0.5rem;">
+                  {{ post.excerpt | strip_html | truncate: 140 }}
+                </p>
+              {% endif %}
+            </div>
+          </article>
+          {% assign herbal_count = herbal_count | plus: 1 %}
+          {% if herbal_count == 6 %}{% break %}{% endif %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+
+<section class="cluster-section" style="max-width:1000px; margin:4rem auto; padding:0 1rem;">
+  <h2 style="font-family:Roboto,sans-serif; font-size:1.8rem; border-bottom:2px solid #7a5c2f; padding-bottom:0.3rem; margin-bottom:2rem; color:#4a3c2f;">
+    More Articles & Stories
+  </h2>
+  <div class="entries-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:2rem;">
     {% assign all_posts = site.posts | sort:'date' | reverse %}
     {% for post in all_posts %}
-      <article>
-        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-        {% if post.excerpt %}
-          <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
-        {% endif %}
+      <article class="archive__item" style="background:rgba(255,255,255,0.9); border-radius:10px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1); transition:transform 0.2s ease;">
+        <div class="archive__item-content" style="padding:0.8rem 1rem;">
+          <h3 class="archive__item-title" style="font-weight:600; font-size:1.3rem; margin:0.3rem 0;">
+            <a href="{{ post.url | relative_url }}" style="color:#4a3c2f; text-decoration:none;">{{ post.title }}</a>
+          </h3>
+          {% if post.excerpt %}
+            <p class="archive__item-excerpt" style="font-weight:400; font-size:0.95rem; line-height:1.5; margin-top:0.5rem;">
+              {{ post.excerpt | strip_html | truncate: 140 }}
+            </p>
+          {% endif %}
+        </div>
       </article>
     {% endfor %}
   </div>
 </section>
+
