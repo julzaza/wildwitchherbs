@@ -1,12 +1,26 @@
-{% if site.footer_scripts %}
-  {% for script in site.footer_scripts %}
-    <script src="{{ script | relative_url }}"></script>
-  {% endfor %}
-{% else %}
-<!-- <script src="{{ '/assets/js/main.js' | relative_url }}"></script> -->
-{% endif %}
+{% comment %}
+  Scripts include
+  - Handles normal JS and ES modules
+  - Preserves search scripts and analytics
+{% endcomment %}
 
-{% if site.search == true or page.layout == "search" %}
+{%- if site.footer_scripts -%}
+  {%- for script in site.footer_scripts -%}
+    {%- comment %}
+      If the filename includes ".module." treat as ES module
+    {% endcomment -%}
+    {%- if script contains ".module." -%}
+      <script type="module" src="{{ script | relative_url }}"></script>
+    {%- else -%}
+      <script src="{{ script | relative_url }}"></script>
+    {%- endif -%}
+  {%- endfor -%}
+{%- else -%}
+  <!-- Optional default main.js -->
+  <!-- <script src="{{ '/assets/js/main.js' | relative_url }}"></script> -->
+{%- endif -%}
+
+{%- if site.search == true or page.layout == "search" -%}
   {%- assign search_provider = site.search_provider | default: "lunr" -%}
   {%- case search_provider -%}
     {%- when "lunr" -%}
@@ -16,13 +30,17 @@
     {%- when "algolia" -%}
       {% include_cached search/algolia-search-scripts.html %}
   {%- endcase -%}
-{% endif %}
+{%- endif -%}
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
 
-{% if site.after_footer_scripts %}
-  {% for script in site.after_footer_scripts %}
-    <script src="{{ script | relative_url }}"></script>
-  {% endfor %}
-{% endif %}
+{%- if site.after_footer_scripts -%}
+  {%- for script in site.after_footer_scripts -%}
+    {%- if script contains ".module." -%}
+      <script type="module" src="{{ script | relative_url }}"></script>
+    {%- else -%}
+      <script src="{{ script | relative_url }}"></script>
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
