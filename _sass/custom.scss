@@ -570,3 +570,11 @@ a > *:hover {
     display: none !important;
   }
 }
+
+
+/* Push site title/logo more to the left */
+.site-title {
+  margin-right: auto;
+  margin-left: 1rem; /* Add this - increase value for more space */
+  padding-left: 0.5rem; /* Or use this instead */
+}
