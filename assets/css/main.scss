@@ -81,20 +81,29 @@
   margin-left: calc(-50vw + 50%);
   position: relative;
   overflow: hidden;
-  line-height: 0; /* Remove any extra space */
-}
-
-.hero-container picture {
-  display: block;
-  width: 100%;
   line-height: 0;
+  /* Use padding trick for aspect ratio - better browser support */
+  height: 0;
+  padding-bottom: 27.08%; /* 520/1920 = 27.08% for desktop */
+  background-color: #3d3d3d; /* Temporary diagnostic color */
 }
 
+.hero-container picture,
 .hero-container img {
-  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
   line-height: 0;
+}
+
+/* Mobile aspect ratio */
+@media (max-width: 767px) {
+  .hero-container {
+    padding-bottom: 50%; /* 400/800 = 50% for mobile */
+  }
 }
 
 /* Overlay must cover the image area */
@@ -473,18 +482,4 @@
 
 
 
-.hero-container {
-  width: 100vw;
-  margin-left: calc(-50vw + 50%);
-  position: relative;
-  overflow: hidden;
-  /* Force aspect ratio so container has height even before image loads */
-  aspect-ratio: 1920 / 520;
-  background-color: #3d3d3d; /* Temporary: helps see if container renders */
-}
 
-@media (max-width: 767px) {
-  .hero-container {
-    aspect-ratio: 800 / 400;
-  }
-}
