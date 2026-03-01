@@ -74,13 +74,20 @@
   }
 }
 
+
 /* ===== HERO ===== */
 .hero-container {
   width: 100vw;
   margin-left: calc(-50vw + 50%);
   position: relative;
   overflow: hidden;
-  min-height: 400px; /* Ensure container has height */
+}
+
+.hero-container picture,
+.hero-container img {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .hero-overlay {
@@ -104,6 +111,7 @@
   color: #fff;
   width: 90%;         /* Prevent text from touching edges */
   max-width: 800px;   /* Limit width on large screens */
+  pointer-events: none; /* Let clicks pass through to image if needed */
 }
 
 .hero-text h1 {
@@ -127,10 +135,6 @@
 
 /* Mobile adjustments */
 @media (max-width: 767px) {
-  .hero-container {
-    min-height: 300px;
-  }
-  
   .hero-text h1 {
     font-size: 1.75rem;     /* Smaller on mobile */
     letter-spacing: 0.06em; /* Tighter spacing */
@@ -151,6 +155,8 @@
     letter-spacing: 0.05em;
   }
 }
+
+
 
 /* ===== CLUSTER SECTIONS ===== */
 .cluster-section {
@@ -447,5 +453,6 @@
     display: none !important;
   }
 }
+
 
 
