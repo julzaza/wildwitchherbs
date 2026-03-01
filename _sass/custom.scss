@@ -11,6 +11,65 @@
   }
 }
 
+
+/* ============================================
+   POST HEROES - MOBILE/DESKTOP SWITCHING
+   ============================================ */
+
+/* Mobile hero - hidden by default, shown on mobile */
+.post-hero-mobile,
+.mobile-only-hero {
+  display: none;
+  width: 100%;
+  
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
+
+/* Desktop hero - shown by default, hidden on mobile */
+.post-hero-desktop,
+.desktop-only-hero {
+  display: block;
+  width: 100%;
+  
+  picture,
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
+
+/* Mobile breakpoint */
+@media (max-width: 767px) {
+  .post-hero-mobile,
+  .mobile-only-hero {
+    display: block !important;
+  }
+  
+  .post-hero-desktop,
+  .desktop-only-hero {
+    display: none !important;
+  }
+}
+
+/* Desktop breakpoint */
+@media (min-width: 768px) {
+  .post-hero-mobile,
+  .mobile-only-hero {
+    display: none !important;
+  }
+  
+  .post-hero-desktop,
+  .desktop-only-hero {
+    display: block !important;
+  }
+}
+
+
 /* Hide anchorjs links */
 .page__content .anchorjs-link {
   display: none;
