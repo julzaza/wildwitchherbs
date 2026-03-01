@@ -1,485 +1,70 @@
 ---
 ---
-
-/* ===== THEME IMPORTS ===== */
+/* Theme imports MUST come first */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* ===== MASTHEAD FIX - Even padding on grey background ===== */
+/* Custom CSS starts below */
 
-.masthead {
-  background-color: #f2f2f2; /* Or whatever grey color matches your theme */
-}
-
-.masthead__inner-wrap {
-  padding: 0.5rem 1.5rem; /* Top/bottom 0.5rem, left/right 1.5rem */
-  max-width: 100%;
-  margin: 0 auto;
-}
-
-/* Ensure the nav container fills width properly */
-.greedy-nav {
-  padding: 0;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-/* Site title spacing */
-.site-title {
-  margin-left: 0;
-  padding-left: 0;
-}
-
-/* Mobile adjustments */
-@media (max-width: 767px) {
-  .masthead__inner-wrap {
-    padding: 0.5rem 1rem; /* Slightly less padding on mobile */
-  }
-}
-
-
-/* ===== CUSTOM CSS ===== */
+/* Hide meta + taxonomy */
 .page__meta,
 .page__taxonomy {
-  display: none;
+  display: none !important;
 }
 
+/* Load any custom partials */
 @import "custom";
 
-/* ===== CONTENT & LINKS ===== */
-.page__content a,
-.page__title a,
+/* -------------------------------------------
+   Wild Witch Herbs — Title Link Styling
+   ------------------------------------------- */
+
+/* Single post page titles */
+.page__title a {
+  color: #333333;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+/* Hover effect for single post titles */
+.page__title a:hover {
+  color: #b3b3b3;
+  text-decoration: none;
+}
+
+/* Archive / blog list titles */
 .archive__item-title a {
-  color: #5c4d3d;
+  color: #333333;
   text-decoration: none;
-  font-weight: 600;
+  font-weight: 700;
 }
 
-.page__content a:hover,
-.page__title a:hover,
+/* Hover effect for archive titles */
 .archive__item-title a:hover {
+  color: #b3b3b3;
+  text-decoration: none;
+}
+
+/* Remove underline from links in excerpts */
+.archive__item-excerpt a {
+  text-decoration: none;
+}
+
+.archive__item-excerpt a:hover {
   text-decoration: underline;
-  color: #3d3d3d;
 }
 
-/* ===== CONTENT PADDING ===== */
-#main {
-  padding: 0 1rem;
-}
+/* -------------------------------------------
+   Wild Witch Herbs — Inline link styling
+   ------------------------------------------- */
 
-@media (min-width: 768px) {
-  #main {
-    padding: 0 2rem;
-  }
-}
-
-
-/* ===== HERO ===== */
-.hero-container {
-  width: 100vw;
-  margin-left: calc(-50vw + 50%);
-  position: relative;
-  overflow: hidden;
-  line-height: 0;
-  /* Use padding trick for aspect ratio - better browser support */
-  height: 0;
-  padding-bottom: 27.08%; /* 520/1920 = 27.08% for desktop */
-  background-color: #3d3d3d; /* Temporary diagnostic color */
-}
-
-.hero-container picture,
-.hero-container img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  line-height: 0;
-}
-
-/* Mobile aspect ratio */
-@media (max-width: 767px) {
-  .hero-container {
-    padding-bottom: 50%; /* 400/800 = 50% for mobile */
-  }
-}
-
-/* Overlay must cover the image area */
-.hero-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3));
-  z-index: 1;
-  pointer-events: none;
-}
-
-/* Text positioning - centered on image */
-.hero-text {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  z-index: 2;
-  text-align: center;
-  color: #fff;
-  pointer-events: none;
-}
-
-.hero-text h1 {
-  font-size: 3.5rem;
-  font-weight: 300;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  margin: 0 0 0.5rem 0;
-  line-height: 1.1;
-  white-space: nowrap;
-}
-
-.hero-text p {
-  font-size: 1.4rem;
-  margin: 0.5rem 0 0 0;
-  font-style: italic;
-  opacity: 0.9;
-  line-height: 1.2;
-  letter-spacing: 0.05em;
-}
-
-/* Mobile adjustments */
-@media (max-width: 767px) {
-  .hero-text h1 {
-    font-size: 2rem;
-    letter-spacing: 0.06em;
-    white-space: normal;
-    line-height: 1.2;
-  }
-  
-  .hero-text p {
-    font-size: 1.1rem;
-    margin-top: 0.5rem;
-  }
-}
-
-/* Very small screens */
-@media (max-width: 480px) {
-  .hero-text h1 {
-    font-size: 1.75rem;
-    letter-spacing: 0.05em;
-  }
-  
-  .hero-text p {
-    font-size: 1rem;
-  }
-}
-
-
-
-/* ===== CLUSTER SECTIONS ===== */
-.cluster-section {
-  max-width: 1000px;
-  margin: 2rem auto;
-  padding: 0 1rem;
-}
-
-.cluster-section h2 {
-  font-size: 0.75rem;
+.page__content a {
+  color: #3A5F0B !important;
+  text-decoration: none !important;
   font-weight: 600;
-  letter-spacing: 0.25em;
-  text-transform: uppercase;
-  color: #7a6b5a;
-  text-align: center;
-  margin-bottom: 2rem;
 }
 
-.entries-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px,1fr));
-  gap: 2.5rem;
+.page__content a:hover {
+  color: #3A5F0B !important;
+  text-decoration: underline;
 }
-
-.entries-grid article {
-  background: rgba(255,255,255,0.9);
-  border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  padding: 1.2rem;
-  text-align: center;
-}
-
-.entries-grid article h3 {
-  font-size: 1rem;
-  font-weight: 600;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  line-height: 1.3;
-  margin: 0 0 0.5rem 0;
-}
-
-.entries-grid article p {
-  font-size: 0.9rem;
-  line-height: 1.6;
-  color: #666;
-  margin: 0;
-}
-
-/* ===== HOME INTRO ===== */
-.home-intro {
-  text-align: center;
-  max-width: 600px;
-  margin: 2rem auto;
-  padding: 0 1.5rem;
-}
-
-.intro-divider {
-  width: 60px;
-  height: 1px;
-  background: #7a5c3d;
-  margin: 1.2rem auto 0;
-}
-
-/* ===== SHOP LINK ===== */
-.shop-link {
-  text-align: center;
-  margin-bottom: 1.5rem;
-}
-
-.shop-link a {
-  font-size: 1rem;
-  font-weight: 600;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  text-decoration: none;
-  color: #5c4d3d;
-  border-bottom: 1px solid #7a5c3d;
-  padding-bottom: 2px;
-}
-
-.shop-link a:hover {
-  color: #3d3d3d;
-}
-
-/* ===== OPTIONAL: additional custom tweaks ===== */
-
-/* ===== POST HERO - MOBILE/DESKTOP SEPARATION ===== */
-
-/* Mobile hero - full width */
-.post-hero-mobile {
-  display: block;
-  width: 100vw;
-  margin-left: calc(-50vw + 50%);
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  max-width: 100vw;
-  overflow: hidden;
-}
-
-.post-hero-mobile img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
-/* Desktop hero - full width, hidden by default */
-.post-hero-desktop {
-  display: none;
-  width: 100vw;
-  margin-left: calc(-50vw + 50%);
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  max-width: 100vw;
-  overflow: hidden;
-}
-
-.post-hero-desktop img,
-.post-hero-desktop picture {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
-/* Switch at 768px */
-@media (min-width: 768px) {
-  .post-hero-mobile {
-    display: none !important;
-  }
-  .post-hero-desktop {
-    display: block !important;
-  }
-}
-
-@media (max-width: 767px) {
-  .post-hero-mobile {
-    display: block !important;
-  }
-  .post-hero-desktop {
-    display: none !important;
-  }
-}
-
-
-
-
-/* Remove space from content section */
-.page__content {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-/* Target the first element inside content */
-.page__content > *:first-child {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-/* Or very specific - the section itself */
-#main > div > div > article > div:nth-child(4) > section {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-
-/* ===== MOBILE NAVIGATION FIX ===== */
-
-/* Show hamburger button on mobile */
-.greedy-nav__toggle {
-  display: block;
-  visibility: visible;
-  opacity: 1;
-  padding: 0.5rem;
-  background: transparent;
-  border: none;
-  cursor: pointer;
-}
-
-/* Hide on desktop */
-@media (min-width: 768px) {
-  .greedy-nav__toggle {
-    display: none;
-  }
-}
-
-/* Hamburger icon styling - THINNER & MORE ELEGANT */
-.navicon {
-  position: relative;
-  width: 1.25rem;        /* Slightly smaller */
-  height: 0.125rem;      /* Thinner lines (was 0.25rem) */
-  background: #7a6b5a;
-  margin: 0.5rem auto;
-  transition: all 0.3s ease;
-}
-
-.navicon::before,
-.navicon::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  width: 1.25rem;        /* Match navicon width */
-  height: 0.125rem;      /* Thinner lines */
-  background: #7a6b5a;
-  transition: all 0.3s ease;
-}
-
-.navicon::before {
-  top: -0.375rem;        /* Adjusted spacing */
-}
-
-.navicon::after {
-  bottom: -0.375rem;     /* Adjusted spacing */
-}
-
-/* Optional: Slightly lighter color on hover */
-.greedy-nav__toggle:hover .navicon,
-.greedy-nav__toggle:hover .navicon::before,
-.greedy-nav__toggle:hover .navicon::after {
-  background: #9a8b7a;
-}
-
-/* Hidden links menu - show when not hidden */
-.hidden-links {
-  display: none;
-  position: absolute;
-  top: 100%;
-  right: 0;
-  background: #fff;
-  border: 1px solid #e5e5e5;
-  list-style: none;
-  margin: 0;
-  padding: 0.5rem 0;     /* Slightly more padding top/bottom */
-  min-width: 200px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* Softer shadow */
-  z-index: 100;
-  border-radius: 4px;    /* Slight rounding */
-}
-
-.hidden-links li {
-  border-bottom: none;   /* Remove borders for cleaner look */
-}
-
-.hidden-links li:last-child {
-  border-bottom: none;
-}
-
-.hidden-links a {
-  display: block;
-  padding: 0.6rem 1.25rem;  /* Slightly adjusted padding */
-  color: #5c4d3d;
-  text-decoration: none;
-  font-size: 0.85rem;       /* Slightly smaller */
-  font-weight: 400;         /* NORMAL weight (was 600) */
-  text-transform: uppercase;
-  letter-spacing: 0.12em;   /* Slightly more spacing */
-  transition: all 0.2s ease;
-}
-
-.hidden-links a:hover {
-  background: #f9f7f5;      /* Warmer, softer hover */
-  color: #3d3d3d;
-  padding-left: 1.5rem;     /* Subtle indent on hover */
-}
-
-/* Show menu when active (JS removes 'hidden' class) */
-.hidden-links:not(.hidden) {
-  display: block;
-  animation: fadeIn 0.2s ease; /* Subtle fade in */
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-/* Hide visible links on mobile, show on desktop */
-@media (max-width: 767px) {
-  .visible-links {
-    display: none;
-  }
-}
-
-@media (min-width: 768px) {
-  .visible-links {
-    display: flex;
-  }
-  .hidden-links {
-    display: none !important;
-  }
-}
-
-
-
-
-
