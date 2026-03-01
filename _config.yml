@@ -316,22 +316,3 @@ nav:
   - title: "About"
     url: "/about/"
 
-# ------------------------------
-# Footer Scripts (for modules and main JS)
-# ------------------------------
-footer_scripts:
-  - /assets/js/main.js
-  - /assets/js/webpage_content_reporter.module.js
-
-after_footer_scripts:
-  - /assets/js/extra.js  # optional, any scripts you want last
-
-# ------------------------------
-# Hero Image Preload Optimization
-# ------------------------------
-# Already in includes/head/custom.html:
-# <link rel="preload" as="image"
-#       href="/assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp"
-#       imagesrcset="/assets/images/800x400px-flat-lay-cup-herbal-tea-with-plants.webp 800w,
-#                     /assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp 1920w"
-#       imagesizes="(max-width: 767px) 800px, 1920px">
