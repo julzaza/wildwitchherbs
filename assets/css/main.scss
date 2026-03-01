@@ -81,27 +81,41 @@
   margin-left: calc(-50vw + 50%);
   position: relative;
   overflow: hidden;
+  line-height: 0; /* Remove any extra space */
 }
 
-.hero-container picture,
+.hero-container picture {
+  display: block;
+  width: 100%;
+  line-height: 0;
+}
+
 .hero-container img {
   display: block;
   width: 100%;
   height: auto;
+  line-height: 0;
 }
 
+/* Overlay must cover the image area */
 .hero-overlay {
   position: absolute;
-  inset: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3));
   z-index: 1;
+  pointer-events: none;
 }
 
+/* Text positioning - centered on image */
 .hero-text {
   position: absolute;
-  top: 50%;           /* Center vertically */
-  left: 50%;          /* Center horizontally */
-  transform: translate(-50%, -50%); /* Perfect centering */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -109,50 +123,52 @@
   z-index: 2;
   text-align: center;
   color: #fff;
-  width: 90%;         /* Prevent text from touching edges */
-  max-width: 800px;   /* Limit width on large screens */
-  pointer-events: none; /* Let clicks pass through to image if needed */
+  pointer-events: none;
 }
 
 .hero-text h1 {
-  font-size: 3rem;    /* Slightly smaller */
+  font-size: 3.5rem;
   font-weight: 300;
-  letter-spacing: 0.08em; /* Reduced from 0.15em (less wide) */
+  letter-spacing: 0.08em;
   text-transform: uppercase;
-  margin: 0;
+  margin: 0 0 0.5rem 0;
   line-height: 1.1;
-  white-space: nowrap; /* Keep on one line if possible */
+  white-space: nowrap;
 }
 
 .hero-text p {
-  font-size: 1.3rem;
-  margin-top: 1rem;   /* More space between title and subtitle */
+  font-size: 1.4rem;
+  margin: 0.5rem 0 0 0;
   font-style: italic;
   opacity: 0.9;
   line-height: 1.2;
-  letter-spacing: 0.05em; /* Slight spacing for elegance */
+  letter-spacing: 0.05em;
 }
 
 /* Mobile adjustments */
 @media (max-width: 767px) {
   .hero-text h1 {
-    font-size: 1.75rem;     /* Smaller on mobile */
-    letter-spacing: 0.06em; /* Tighter spacing */
-    white-space: normal;    /* Allow wrapping if needed */
+    font-size: 2rem;
+    letter-spacing: 0.06em;
+    white-space: normal;
     line-height: 1.2;
   }
   
   .hero-text p {
-    font-size: 1rem;
-    margin-top: 0.75rem;
+    font-size: 1.1rem;
+    margin-top: 0.5rem;
   }
 }
 
 /* Very small screens */
 @media (max-width: 480px) {
   .hero-text h1 {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     letter-spacing: 0.05em;
+  }
+  
+  .hero-text p {
+    font-size: 1rem;
   }
 }
 
@@ -453,6 +469,7 @@
     display: none !important;
   }
 }
+
 
 
 
