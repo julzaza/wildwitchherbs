@@ -1,34 +1,50 @@
-<meta charset="utf-8">
+<head>
+  <meta charset="utf-8">
+  <title>Welcome to Wild Witch Herbs</title>
+  <meta name="description" content="Witchy herbal lore, ancestral magic and wisdom.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <!-- Open Graph / Social -->
+  <meta property="og:title" content="Welcome to Wild Witch Herbs">
+  <meta property="og:description" content="Witchy herbal lore, ancestral magic and wisdom.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://wildwitchherbs.com/">
+  <meta property="og:site_name" content="Wild Witch Herbs">
 
-{% if page.url == "/" %}
-<link rel="preload" as="image" href="/assets/images/800x400px-flat-lay-cup-herbal-tea-with-plants.webp">
-{% endif %}
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Welcome to Wild Witch Herbs">
+  <meta name="twitter:description" content="Witchy herbal lore, ancestral magic and wisdom.">
 
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "headline": "Welcome to Wild Witch Herbs",
+    "description": "Witchy herbal lore, ancestral magic and wisdom.",
+    "url": "https://wildwitchherbs.com/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Wild Witch Herbs"
+    }
+  }
+  </script>
 
-{% include seo.html %}
+  <!-- Preload main hero image (used immediately) -->
+  <link rel="preload" as="image" href="/assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp">
 
-{% unless site.atom_feed.hide %}
-  <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
-{% endunless %}
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
 
-{%- comment %} https://docs.google.com/presentation/d/1rmxwWa9P6_xHqonmh5ONXRS-jPc5XKbnv99Rjkhe04s/present {% endcomment -%}
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-  {% if site.enable_copy_code_button -%}
-    window.enable_copy_code_button = true;
-  {%- endif %}
-</script>
-
-<!-- For all browsers -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
-
-{% if site.head_scripts %}
-  {% for script in site.head_scripts %}
-    <script src="{{ script | relative_url }}"></script>
-  {% endfor %}
-{% endif %}
+  <!-- Google Analytics 4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FXPRZC2NZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-7FXPRZC2NZ');
+  </script>
+</head>
