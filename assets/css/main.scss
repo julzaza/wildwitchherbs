@@ -5,6 +5,40 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
+/* ===== MASTHEAD FIX - Even padding on grey background ===== */
+
+.masthead {
+  background-color: #f2f2f2; /* Or whatever grey color matches your theme */
+}
+
+.masthead__inner-wrap {
+  padding: 0.5rem 1.5rem; /* Top/bottom 0.5rem, left/right 1.5rem */
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+/* Ensure the nav container fills width properly */
+.greedy-nav {
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Site title spacing */
+.site-title {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+/* Mobile adjustments */
+@media (max-width: 767px) {
+  .masthead__inner-wrap {
+    padding: 0.5rem 1rem; /* Slightly less padding on mobile */
+  }
+}
+
+
 /* ===== CUSTOM CSS ===== */
 .page__meta,
 .page__taxonomy {
@@ -389,3 +423,4 @@
     display: none !important;
   }
 }
+
