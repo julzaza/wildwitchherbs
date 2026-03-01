@@ -1,6 +1,10 @@
 <meta charset="utf-8">
 
-<link rel="preload" as="image" href="/assets/images/YOUR-HERO.webp">
+
+{% if page.url == "/" %}
+<link rel="preload" as="image" href="/assets/images/800x400px-flat-lay-cup-herbal-tea-with-plants.webp">
+{% endif %}
+
 
 {% include seo.html %}
 
