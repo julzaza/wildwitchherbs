@@ -712,3 +712,16 @@ a > *:hover {
 }
 
 
+
+/* Reduce space between title and content */
+.page__title {
+  margin-bottom: 0.5rem;  /* Reduce from default ~1.5rem */
+}
+
+.page__content {
+  margin-top: 0;  /* Remove any top margin */
+  
+  > p:first-child {
+    margin-top: 0;  /* Remove top margin from first paragraph */
+  }
+}
