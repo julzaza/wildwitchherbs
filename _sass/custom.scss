@@ -725,3 +725,58 @@ a > *:hover {
     margin-top: 0;  /* Remove top margin from first paragraph */
   }
 }
+
+/* ============================================
+   FIX: TIGHT SPACING BETWEEN TITLE & CONTENT
+   ============================================ */
+
+/* Remove top margin from page wrapper */
+.page__inner-wrap {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Tighten up the title spacing */
+.page__title {
+  margin-top: 0 !important;
+  margin-bottom: 0.5rem !important;
+  padding-top: 0 !important;
+  line-height: 1.2;
+}
+
+/* Remove any margin from first content element */
+.page__content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  
+  /* Target first paragraph specifically */
+  > p:first-child {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+  
+  /* Also target any first child */
+  > *:first-child {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+}
+
+/* If hero images are present, reduce their bottom margin too */
+.post-hero-mobile,
+.post-hero-desktop,
+.mobile-only-hero,
+.desktop-only-hero {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+  
+  img, picture {
+    margin-bottom: 0 !important;
+    display: block; /* Removes inline image gaps */
+  }
+}
+
+/* Hero container spacing */
+.hero-container {
+  margin-bottom: 0.5rem !important; /* Minimal space after hero */
+}
