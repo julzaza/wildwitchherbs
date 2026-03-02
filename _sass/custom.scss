@@ -717,8 +717,14 @@ a > *:hover {
    FIX: BALANCED SPACING 
    ============================================ */
 
-/* Space between hero and title */
-.page__title {
+/* Target the page wrapper specifically - more specific selector */
+.page .page__inner-wrap {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Space between hero and title - use more specific selector */
+.page .page__title {
   margin-top: 1.5rem !important;    /* Breathing room after hero */
   margin-bottom: 1rem !important;   /* Space before content starts */
   padding-top: 0 !important;
@@ -726,7 +732,7 @@ a > *:hover {
 }
 
 /* Tight space between title and first content element */
-.page__content {
+.page .page__content {
   margin-top: 0 !important;
   padding-top: 0 !important;
   
@@ -735,12 +741,6 @@ a > *:hover {
     margin-top: 0 !important;
     padding-top: 0 !important;
   }
-}
-
-/* Remove wrapper padding that adds extra space */
-.page__inner-wrap {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
 }
 
 /* Hero images - remove bottom gap */
