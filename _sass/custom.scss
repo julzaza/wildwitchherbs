@@ -719,18 +719,18 @@ a > *:hover {
 
 /* Space between hero and title */
 .page__title {
-  margin-top: 1.5rem !important;    /* Add breathing room after hero */
-  margin-bottom: 0.5rem !important; /* Keep tight to content */
+  margin-top: 1.5rem !important;    /* Breathing room after hero */
+  margin-bottom: 1rem !important;   /* Space before content starts */
   padding-top: 0 !important;
   line-height: 1.2;
 }
 
-/* Tight space between title and first paragraph */
+/* Tight space between title and first content element */
 .page__content {
   margin-top: 0 !important;
   padding-top: 0 !important;
   
-  > p:first-child,
+  /* Target ANY first child (h2, p, whatever) */
   > *:first-child {
     margin-top: 0 !important;
     padding-top: 0 !important;
