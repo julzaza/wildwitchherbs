@@ -759,28 +759,37 @@ a > *:hover {
 
 
 /* ============================================
-   FIX: SITE TITLE POSITIONING
+   FIX: SITE TITLE POSITIONING - SPECIFIC SELECTORS
    ============================================ */
 
-/* Desktop - add slight left padding to not touch edge */
+/* Target the masthead inner wrap specifically */
+.masthead .masthead__inner-wrap {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Target site title with high specificity */
+.masthead .site-title {
+  margin-left: 0.5rem !important;  /* Small gap from left edge */
+  padding-left: 0 !important;
+}
+
+/* Desktop specific */
 @media (min-width: 768px) {
-  .site-title {
-    margin-left: 1rem !important;  /* Adjust this value - try 0.5rem or 1rem */
-    padding-left: 0 !important;
+  .masthead .site-title {
+    margin-left: 1rem !important;  /* More space on desktop */
+  }
+}
+
+/* Mobile specific */
+@media (max-width: 767px) {
+  .masthead .site-title {
+    margin-left: 0.5rem !important;  /* Small gap on mobile */
   }
   
-  /* Remove container padding that's pushing it right */
-  .masthead__inner-wrap,
-  #site-nav {
-    padding-left: 0 !important;
+  /* Ensure hamburger doesn't push title */
+  .masthead .mobile-menu-toggle {
+    margin-left: auto !important;
+    margin-right: 0.5rem !important;
   }
 }
-
-/* Mobile - push it back right slightly so it doesn't touch edge */
-@media (max-width: 767px) {
-  .site-title {
-    margin-left: 0.5rem !important;  /* Small breathing room from left edge */
-    padding-left: 0 !important;
-  }
-}
-
