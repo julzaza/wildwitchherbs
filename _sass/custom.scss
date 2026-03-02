@@ -759,30 +759,28 @@ a > *:hover {
 
 
 /* ============================================
-   FIX: SITE TITLE STICK TO LEFT EDGE
+   FIX: SITE TITLE POSITIONING
    ============================================ */
 
-/* Remove left margin/padding from site title - stick to edge */
-.site-title {
-  margin-left: 0 !important;
-  padding-left: 0 !important;
-  margin-right: auto;
-}
-
-/* Remove padding from masthead container that's pushing everything right */
-.masthead__inner-wrap {
-  padding-left: 0 !important;
-}
-
-/* Also target the inner container if needed */
-#site-nav {
-  padding-left: 0 !important;
-}
-
-/* Mobile specific - ensure hamburger doesn't push title right */
-@media (max-width: 767px) {
+/* Desktop - add slight left padding to not touch edge */
+@media (min-width: 768px) {
   .site-title {
-    margin-left: 0 !important;
+    margin-left: 1rem !important;  /* Adjust this value - try 0.5rem or 1rem */
+    padding-left: 0 !important;
+  }
+  
+  /* Remove container padding that's pushing it right */
+  .masthead__inner-wrap,
+  #site-nav {
     padding-left: 0 !important;
   }
 }
+
+/* Mobile - push it back right slightly so it doesn't touch edge */
+@media (max-width: 767px) {
+  .site-title {
+    margin-left: 0.5rem !important;  /* Small breathing room from left edge */
+    padding-left: 0 !important;
+  }
+}
+
