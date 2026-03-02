@@ -759,47 +759,17 @@ a > *:hover {
 
 
 /* ============================================
-   FIX: SITE TITLE POSITIONING - DESKTOP & MOBILE
+   FIX: SITE TITLE POSITIONING
    ============================================ */
 
-/* Mobile - works already */
 @media (max-width: 767px) {
   .masthead .site-title {
     margin-left: 0.5rem !important;
-    padding-left: 0 !important;
   }
 }
 
-/* Desktop - target greedy-nav specifically */
-@media (min-width: 768px) {
-  /* Remove padding from greedy nav container */
-  .greedy-nav {
-    padding-left: 0 !important;
-  }
-  
-  /* Target site title within greedy nav */
-  .greedy-nav .site-title {
-    margin-left: 1rem !important;  /* Adjust: 0.5rem = closer, 1.5rem = further */
-    padding-left: 0 !important;
-  }
-  
-  /* Also remove any masthead inner wrap padding */
-  .masthead__inner-wrap {
-    padding-left: 0 !important;
-  }
-}
-
-
-
-/* Desktop - maximum specificity */
 @media (min-width: 768px) {
   .masthead .greedy-nav .site-title {
-    margin-left: 1rem !important;
-    padding-left: 0 !important;
-  }
-  
-  /* Or use the ID selector which has highest specificity */
-  #site-nav .site-title {
-    margin-left: 1rem !important;
+    margin-left: 1rem !important;  /* Try 0.5rem for closer, 2rem for more space */
   }
 }
