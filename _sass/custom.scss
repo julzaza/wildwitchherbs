@@ -788,3 +788,18 @@ a > *:hover {
     padding-left: 0 !important;
   }
 }
+
+
+
+/* Desktop - maximum specificity */
+@media (min-width: 768px) {
+  .masthead .greedy-nav .site-title {
+    margin-left: 1rem !important;
+    padding-left: 0 !important;
+  }
+  
+  /* Or use the ID selector which has highest specificity */
+  #site-nav .site-title {
+    margin-left: 1rem !important;
+  }
+}
