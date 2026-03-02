@@ -759,37 +759,32 @@ a > *:hover {
 
 
 /* ============================================
-   FIX: SITE TITLE POSITIONING - SPECIFIC SELECTORS
+   FIX: SITE TITLE POSITIONING - DESKTOP & MOBILE
    ============================================ */
 
-/* Target the masthead inner wrap specifically */
-.masthead .masthead__inner-wrap {
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-
-/* Target site title with high specificity */
-.masthead .site-title {
-  margin-left: 0.5rem !important;  /* Small gap from left edge */
-  padding-left: 0 !important;
-}
-
-/* Desktop specific */
-@media (min-width: 768px) {
-  .masthead .site-title {
-    margin-left: 1rem !important;  /* More space on desktop */
-  }
-}
-
-/* Mobile specific */
+/* Mobile - works already */
 @media (max-width: 767px) {
   .masthead .site-title {
-    margin-left: 0.5rem !important;  /* Small gap on mobile */
+    margin-left: 0.5rem !important;
+    padding-left: 0 !important;
+  }
+}
+
+/* Desktop - target greedy-nav specifically */
+@media (min-width: 768px) {
+  /* Remove padding from greedy nav container */
+  .greedy-nav {
+    padding-left: 0 !important;
   }
   
-  /* Ensure hamburger doesn't push title */
-  .masthead .mobile-menu-toggle {
-    margin-left: auto !important;
-    margin-right: 0.5rem !important;
+  /* Target site title within greedy nav */
+  .greedy-nav .site-title {
+    margin-left: 1rem !important;  /* Adjust: 0.5rem = closer, 1.5rem = further */
+    padding-left: 0 !important;
+  }
+  
+  /* Also remove any masthead inner wrap padding */
+  .masthead__inner-wrap {
+    padding-left: 0 !important;
   }
 }
