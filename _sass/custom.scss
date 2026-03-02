@@ -713,56 +713,37 @@ a > *:hover {
 
 
 
-/* Reduce space between title and content */
-.page__title {
-  margin-bottom: 0.5rem;  /* Reduce from default ~1.5rem */
-}
-
-.page__content {
-  margin-top: 0;  /* Remove any top margin */
-  
-  > p:first-child {
-    margin-top: 0;  /* Remove top margin from first paragraph */
-  }
-}
-
 /* ============================================
-   FIX: TIGHT SPACING BETWEEN TITLE & CONTENT
+   FIX: BALANCED SPACING 
    ============================================ */
 
-/* Remove top margin from page wrapper */
-.page__inner-wrap {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-/* Tighten up the title spacing */
+/* Space between hero and title */
 .page__title {
-  margin-top: 0 !important;
-  margin-bottom: 0.5rem !important;
+  margin-top: 1.5rem !important;    /* Add breathing room after hero */
+  margin-bottom: 0.5rem !important; /* Keep tight to content */
   padding-top: 0 !important;
   line-height: 1.2;
 }
 
-/* Remove any margin from first content element */
+/* Tight space between title and first paragraph */
 .page__content {
   margin-top: 0 !important;
   padding-top: 0 !important;
   
-  /* Target first paragraph specifically */
-  > p:first-child {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-  }
-  
-  /* Also target any first child */
+  > p:first-child,
   > *:first-child {
     margin-top: 0 !important;
     padding-top: 0 !important;
   }
 }
 
-/* If hero images are present, reduce their bottom margin too */
+/* Remove wrapper padding that adds extra space */
+.page__inner-wrap {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Hero images - remove bottom gap */
 .post-hero-mobile,
 .post-hero-desktop,
 .mobile-only-hero,
@@ -772,11 +753,6 @@ a > *:hover {
   
   img, picture {
     margin-bottom: 0 !important;
-    display: block; /* Removes inline image gaps */
+    display: block;
   }
-}
-
-/* Hero container spacing */
-.hero-container {
-  margin-bottom: 0.5rem !important; /* Minimal space after hero */
 }
