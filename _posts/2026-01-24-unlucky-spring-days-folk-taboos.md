@@ -161,20 +161,6 @@ Spring was powerful — and power required restraint.
 
 ---
 
-## Sources & Folklore References
-
-This post draws on documented folklore and ethnographic material, including:
-
-- Vuk Karadžić – *Serbian Folk Beliefs and Customs*
-- Milovan Gavazzi – *Yearly Customs of the South Slavs*
-- Radomir Ristić – *Balkan Traditional Witchcraft*
-- Claude Lecouteux – *The Tradition of Household Spirits*
-- Slavic and Balkan ethnographic collections (19th–20th century)
-
-No modern ritual reconstructions have been added.
-
----
-
 ## FAQ: Folk Questions About Spring Taboos
 
 ### Were these taboos followed everywhere?
@@ -195,3 +181,16 @@ Spring, in folk tradition, was not a celebration.
 It was a negotiation.
 
 And negotiations, when handled poorly, always came at a cost.
+
+---
+
+## Sources & Folklore References
+
+This post draws on documented folklore and ethnographic material, including:
+
+- Vuk Karadžić – *Serbian Folk Beliefs and Customs*
+- Milovan Gavazzi – *Yearly Customs of the South Slavs*
+- Radomir Ristić – *Balkan Traditional Witchcraft*
+- Claude Lecouteux – *The Tradition of Household Spirits*
+- Slavic and Balkan ethnographic collections (19th–20th century)
+
