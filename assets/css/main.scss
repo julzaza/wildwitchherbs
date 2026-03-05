@@ -93,3 +93,24 @@
 .page__taxonomy {
   display: none !important;
 }
+
+/* -------------------------------------------
+   SITE TITLE POSITIONING - DESKTOP ONLY
+   ------------------------------------------- */
+
+@media (min-width: 768px) {
+  #site-nav {
+    padding-left: 0 !important;
+  }
+  
+  #site-nav .site-title {
+    margin-left: 0.5rem !important;  /* Adjust this value */
+    padding-left: 0 !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .site-title {
+    margin-left: 0.5rem !important;
+  }
+}
