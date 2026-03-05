@@ -87,7 +87,7 @@ Snakes were not merely animals — they were **guardians of the land, household 
 
 To harm them or invite them accidentally was considered extremely unlucky.
 
-To understand better the role snakes played as house guardians and spirits, check out **[House Snakes in Balkan Homes](/house-snakes-ancestor-spirits-balkan-folklore/)**. 
+You can explore the specific rituals used to honor these sacred serpents and their roles as ancestral guardians in **[House Snakes in Balkan Homes](/house-snakes-ancestor-spirits-balkan-folklore/)**. 
 
 ---
 
