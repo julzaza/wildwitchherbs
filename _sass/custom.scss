@@ -790,3 +790,16 @@ a > *:hover {
     padding-left: 0 !important;
   }
 }
+
+
+@media (min-width: 768px) {
+  #site-nav {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+  }
+  
+  #site-nav > a.site-title {
+    margin-left: 0.5rem !important;
+    padding-left: 0 !important;
+  }
+}
