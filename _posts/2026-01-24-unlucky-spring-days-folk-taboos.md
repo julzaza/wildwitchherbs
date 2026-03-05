@@ -119,6 +119,8 @@ Folk belief held that:
 
 This taboo appears repeatedly in Balkan and Central European records, especially in March.
 
+Find out why ash, dust and thresholds were dangerous, explore **[Spring Cleaning Rituals and Taboos](/spring-cleaning-folk-magic/)**.
+
 ---
 
 ### Washing Clothes in Rivers
