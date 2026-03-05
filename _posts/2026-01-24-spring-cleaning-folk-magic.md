@@ -159,7 +159,7 @@ Common restrictions included:
 - no ash removal during snake days
 - no washing near rivers before set dates
 
-These rules reflected both **spiritual logic and environmental wisdom**.
+These rules reflected both **spiritual logic and environmental wisdom**. **[Unlucky Spring Days and Folk Taboos](/unlucky-spring-days-folk-taboos/)** dive deeper into these inauspicious dates. 
 
 Many of these restrictions aligned directly with equinox danger periods — when seasonal balance was believed to weaken household and land boundaries alike. 
 
