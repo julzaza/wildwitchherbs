@@ -13,28 +13,16 @@ tags:
   - liminal days
 excerpt: "In traditional European folklore, early spring was not a gentle awakening but a dangerous threshold. This post explores unlucky days, forbidden actions, and ancestral taboos observed between the Spring Equinox and May Day."
 description: "Explore historical folk taboos, unlucky spring days, and ancestral prohibitions observed between the Spring Equinox and May Day across Balkan, Slavic, and European traditions. A deep folklore-based study of what was once considered dangerous in early spring."
-faq_schema:
-  "@context": "https://schema.org"
-  "@type": "FAQPage"
-  mainEntity:
-    - "@type": "Question"
-      name: "Why were certain spring days considered unlucky in folklore?"
-      acceptedAnswer:
-        "@type": "Answer"
-        text: "Traditional European folklore viewed early spring as a liminal and unstable period when ancestral spirits, land forces, and seasonal powers were in transition. Certain days were avoided to prevent illness, crop failure, or spiritual disturbance."
 
-    - "@type": "Question"
-      name: "What activities were forbidden during early spring?"
-      acceptedAnswer:
-        "@type": "Answer"
-        text: "Commonly forbidden actions included ploughing, sweeping after sunset, washing clothes in rivers, disturbing soil, and loud domestic labor on specific days associated with the dead or earth spirits."
+faq:
+  - question: "Why were certain spring days considered unlucky in folklore?"
+    answer: "Early spring was viewed as a liminal, unstable time when ancestral spirits and seasonal forces were shifting. People avoided certain days to prevent illness, poor harvests, or spiritual disruption."
 
-    - "@type": "Question"
-      name: "Were spring taboos linked to agriculture?"
-      acceptedAnswer:
-        "@type": "Answer"
-        text: "Yes. Many spring taboos reflected agricultural timing, soil readiness, frost risk, and the belief that the land had not yet fully settled after winter."
-  
+  - question: "What activities were forbidden during early spring?"
+    answer: "Traditional prohibitions included ploughing, sweeping after sunset, washing clothes in rivers, disturbing soil, and performing loud household tasks on days connected with the dead or earth spirits."
+
+  - question: "Were spring taboos linked to agriculture?"
+    answer: "Yes. Many spring taboos reflected agricultural timing, soil conditions, frost danger, and the belief that the land needed time to settle after winter before being disturbed."
 ---
 
 ## When Spring Was Not Safe
@@ -187,7 +175,7 @@ No modern ritual reconstructions have been added.
 
 ---
 
-## Human FAQ: Folk Questions About Spring Taboos
+## FAQ: Folk Questions About Spring Taboos
 
 ### Were these taboos followed everywhere?
 No. Specific days and prohibitions varied by region, village, and even household. The underlying logic, however, was consistent across much of Europe.
