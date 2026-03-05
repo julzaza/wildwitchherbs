@@ -1,5 +1,5 @@
 ---
-title: "Unlucky Spring Days & Folk Taboos: What Not to Do Between Equinox and May Day"
+title: "Spring Taboos: Unlucky Days from Equinox to May Day"
 layout: single
 category: folklore-ancestral
 tags:
