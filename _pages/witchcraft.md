@@ -1,8 +1,6 @@
 ---
-layout: archive
-title: "Witchcraft & Folk Magic"
+layout: redirect
 permalink: /witchcraft/
-categories: [witchcraft-ritual]
+redirect_to: /rituals/
 ---
 
-Traditional witchcraft, practical spells, lunar rites, protection charms, and the living magic carried by witches, wise women, and cunning folk.
