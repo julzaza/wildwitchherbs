@@ -1,6 +1,7 @@
 ---
 layout: category
 title: "Witchcraft & Ritual Practice"
+canonical_url: https://wildwitchherbs.com/rituals/
 description: "Rituals, spells, moon magic, and practical witchcraft rooted in authentic folk traditions."
 categories: [witchcraft-ritual]
 meta_description: "Explore practical witchcraft, protection spells, moon rituals, charms, and traditional magic drawn from Balkan and global folk practices."
