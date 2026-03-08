@@ -1,5 +1,6 @@
 ---
-layout: category
+layout: redirect
+redirect_to: /herbs/
 title: "Herbal Magic: Materia Magica"
 description: "Magical herbs, plant spirits, Artemisia lore, and traditional materia magica."
 categories: [herbal-magic]
