@@ -1,5 +1,6 @@
 ---
-layout: category
+layout: redirect
+redirect_to: /rituals/
 title: "Witchcraft & Ritual Practice"
 description: "Rituals, spells, moon magic, and practical witchcraft rooted in authentic folk traditions."
 categories: [witchcraft-ritual]
