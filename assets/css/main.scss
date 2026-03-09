@@ -96,10 +96,7 @@
 
 
 
-/* DEBUG - Make title red to confirm CSS is working */
-.site-title {
-  color: red !important;
-}
+
 
 /* If that works, then use: */
 @media (min-width: 64em) {
@@ -108,4 +105,5 @@
     margin-right: 4em !important;
   }
 }
+
 
