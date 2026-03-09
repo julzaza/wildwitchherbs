@@ -94,50 +94,18 @@
   display: none !important;
 }
 
-/* -------------------------------------------
-   SITE TITLE SPACING - DESKTOP ONLY
-   ------------------------------------------- */
 
+
+/* DEBUG - Make title red to confirm CSS is working */
+.site-title {
+  color: red !important;
+}
+
+/* If that works, then use: */
 @media (min-width: 64em) {
-  /* Target the greedy nav container */
-  .masthead .greedy-nav {
-    padding: 0 1em;  // Add horizontal padding to entire nav
-  }
-  
-  /* Push title from left edge */
-  .masthead .site-title {
-    margin-left: 0.5em;
-    margin-right: 2em;  // Space between title and menu
-    white-space: nowrap;
-  }
-  
-  /* Push menu items right */
-  .masthead .visible-links {
-    margin-left: auto;  // This creates the gap
-    padding-left: 2em;  // Additional buffer
-  }
-  
-  /* Or target individual links */
-  .masthead .visible-links li:first-child {
-    margin-left: 2em;
+  .site-title {
+    color: inherit !important;  // Remove debug
+    margin-right: 4em !important;
   }
 }
 
-/* Alternative: use gap on the list itself */
-@media (min-width: 64em) {
-  .masthead .greedy-nav {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;  // Align left, don't space-between
-    gap: 3em;  // This creates space between flex children
-  }
-  
-  .masthead .site-title {
-    flex-shrink: 0;
-    margin-right: 0;  // Reset if using gap
-  }
-  
-  .masthead .visible-links {
-    margin-left: 0;  // Reset
-  }
-}
