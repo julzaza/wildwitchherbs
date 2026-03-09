@@ -5,5 +5,6 @@ permalink: /herbs/
 categories: [herbal-magic, natural-healing]
 ---
 
-Explore the magical and practical uses of herbs. Below, you’ll find plants used in **traditional remedies**, seasonal cures, and **magical practices** from old European and Balkan traditions.
+Step into Herbal Magic: Materia Magica, where the spiritual nature of plants meets centuries of occult tradition.
+Discover magical correspondences, dream herbs, Artemisia rituals, plant spirits, incense blends, protective bundles, and herbal lore from across the world.
 
