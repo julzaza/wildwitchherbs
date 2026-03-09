@@ -95,22 +95,22 @@
 }
 
 /* -------------------------------------------
-   SITE TITLE POSITIONING - DESKTOP ONLY
+   SITE TITLE SPACING - DESKTOP ONLY
    ------------------------------------------- */
 
-@media (min-width: 768px) {
-  #site-nav {
-    padding-left: 0 !important;
+@media (min-width: 64em) {  /* 1024px - Minimal Mistakes breakpoint */
+  .greedy-nav a.site-title {
+    margin-right: 3em;      /* Space between title and menu */
+    margin-left: 0.5em;     /* Small left padding from edge */
   }
   
-  #site-nav .site-title {
-    margin-left: 0.5rem !important;  /* Adjust this value */
-    padding-left: 0 !important;
+  .greedy-nav .visible-links {
+    margin-left: 1em;       /* Extra buffer */
   }
 }
 
-@media (max-width: 767px) {
-  .site-title {
-    margin-left: 0.5rem !important;
+@media (min-width: 80em) {  /* 1280px+ */
+  .greedy-nav a.site-title {
+    margin-right: 4em;      /* More space on large screens */
   }
 }
