@@ -1,5 +1,7 @@
 ---
-layout: category
+layout: redirect
+redirect_to: /folklore/
+sitemap: false
 title: "Folk Traditions, Folklore & Ancestral Magic"
 description: "Balkan folklore, ancestral rituals, sacred springs, vampire herbs, and old-world magic."
 categories: [folklore-ancestral]
