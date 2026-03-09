@@ -1,7 +1,9 @@
 ---
-layout: category
+layout: redirect
+redirect_to: /folk-remedies/
+sitemap: false
 title: "Natural Healing & Folk Herbalism"
-description: "Traditional remedies, seasonal cures, folk teas, and Pelagić-style herbal healing."
+description: "Traditional remedies, seasonal cures, folk teas, and herbal healing."
 categories: [natural-healing]
 meta_description: "Discover traditional herbal remedies, winter immune teas, Pelagić folk medicine, Balkan first-aid herbs, and practical seasonal healing."
 schema_type: "CollectionPage"
@@ -12,7 +14,7 @@ schema_type: "CollectionPage"
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   "name": "Natural Healing & Folk Herbalism",
-  "description": "Traditional herbal remedies, winter cures, Pelagić medicine, Balkan teas, and folk healing techniques.",
+  "description": "Traditional herbal remedies, winter cures, medicine, teas, and folk healing techniques.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Wild Witchy Herbs"
