@@ -107,3 +107,77 @@
 }
 
 
+/* -------------------------------------------
+   MOBILE CENTERING FIX - iOS SAFARI
+   ------------------------------------------- */
+
+/* Fix iPhone notch/safe area issues */
+@supports (padding: max(0px)) {
+  .page__content,
+  .archive,
+  .masthead__inner-wrap,
+  .initial-content {
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-right: max(1rem, env(safe-area-inset-right));
+  }
+}
+
+/* Force center alignment on all archive items */
+.archive__item {
+  width: 100%;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+
+/* Fix iOS flexbox centering */
+.archive {
+  display: flex;
+  flex-direction: column;
+  align-items: center;  /* Center children horizontally */
+  width: 100%;
+}
+
+/* Ensure archive items don't overflow */
+.archive__item-teaser,
+.archive__item-content {
+  width: 100%;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* iPhone specific viewport fix */
+@media screen and (max-width: 64em) {
+  html, body {
+    overflow-x: hidden;  /* Prevent horizontal scroll */
+    width: 100%;
+  }
+  
+  .archive__item {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  /* Fix text alignment */
+  .archive__item-title,
+  .archive__item-excerpt {
+    text-align: left;  /* or center if you prefer */
+    width: 100%;
+  }
+}
+
+/* Extra iPhone X/10/11/12 specific fix */
+@media screen and (max-width: 414px) {
+  .archive {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  
+  .archive__item {
+    margin-left: auto;
+    margin-right: auto;
+    width: calc(100% - 2rem);  /* Force consistent margins */
+  }
+}
