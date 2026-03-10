@@ -283,3 +283,19 @@
     padding-right: 0;
   }
 }
+
+/* DEBUG: Show container boundaries */
+.layout--home .page__content {
+  background: rgba(255,0,0,0.1);
+  border: 2px solid red;
+}
+
+.layout--home .archive__item {
+  background: rgba(0,255,0,0.1);
+  border: 2px solid green;
+}
+
+.layout--home .archive__item-title {
+  background: rgba(0,0,255,0.1);
+  border: 2px solid blue;
+}
