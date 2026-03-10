@@ -233,3 +233,53 @@
     padding-right: 0;
   }
 }
+
+/* -------------------------------------------
+   HOMEPAGE CENTERING FIX
+   ------------------------------------------- */
+
+/* Target homepage specifically */
+.layout--home .archive__item,
+.page__content .archive__item {
+  width: 100%;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  box-sizing: border-box;
+}
+
+/* Fix homepage grid/list container */
+.layout--home .page__content,
+.layout--home .archive {
+  width: 100%;
+  max-width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Ensure featured section doesn't overflow */
+.layout--home .feature__wrapper,
+.layout--home .feature__item {
+  width: 100%;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* iPhone specific: reset any inherited margins */
+@media screen and (max-width: 414px) {
+  .layout--home .archive__item {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: calc(100% - 2rem);
+  }
+  
+  .layout--home .page__inner-wrap {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
