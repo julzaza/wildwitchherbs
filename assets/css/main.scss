@@ -302,8 +302,7 @@
 
 
 
-/* NUCLEAR DEBUG - must show */
-body { border: 5px solid purple !important; }
-.page__content { background: red !important; }
-.archive__item { background: green !important; }
-.archive__item-title { background: blue !important; }
+/* DEBUG - Check these one by one */
+.page__content { background: rgba(255,0,0,0.2) !important; border: 2px solid red !important; }
+.archive__item { background: rgba(0,255,0,0.2) !important; border: 2px solid green !important; }
+.archive__item-title { background: rgba(0,0,255,0.2) !important; border: 2px solid blue !important; }
