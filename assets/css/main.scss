@@ -114,17 +114,25 @@
    ------------------------------------------- */
 
 @media screen and (max-width: 414px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Reset parent container that might have safe-area padding */
+  .layout--home,
+  .layout--home #main,
+  .layout--home .initial-content {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  
   .layout--home .entries-grid {
-    width: calc(100% - 3rem) !important;
-    margin-left: 1.5rem !important;
-    margin-right: 1.5rem !important; /* Equal margins */
+    width: calc(100% - 2.5rem) !important;
+    margin-left: 0.75rem !important;  /* Less left = shifts left */
+    margin-right: 1.75rem !important; /* More right = safe area buffer */
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
   
   .layout--home .entries-grid article {
     padding-left: 0.5rem !important;
-    padding-right: 1rem !important; /* Slight right padding inside */
+    padding-right: 1.5rem !important;
     box-sizing: border-box !important;
   }
 }
