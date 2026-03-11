@@ -108,89 +108,10 @@
 
 
 /* -------------------------------------------
-   MOBILE CENTERING FIX - iOS SAFARI
+   HOMEPAGE CENTERING FIX - iPHONE
    ------------------------------------------- */
 
-/* Fix iPhone notch/safe area issues */
-@supports (padding: max(0px)) {
-  .page__content,
-  .archive,
-  .masthead__inner-wrap,
-  .initial-content {
-    padding-left: max(1rem, env(safe-area-inset-left));
-    padding-right: max(1rem, env(safe-area-inset-right));
-  }
-}
-
-/* Force center alignment on all archive items */
-.archive__item {
-  width: 100%;
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  box-sizing: border-box;
-}
-
-/* Fix iOS flexbox centering */
-.archive {
-  display: flex;
-  flex-direction: column;
-  align-items: center;  /* Center children horizontally */
-  width: 100%;
-}
-
-/* Ensure archive items don't overflow */
-.archive__item-teaser,
-.archive__item-content {
-  width: 100%;
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* iPhone specific viewport fix */
-@media screen and (max-width: 64em) {
-  html, body {
-    overflow-x: hidden;  /* Prevent horizontal scroll */
-    width: 100%;
-  }
-  
-  .archive__item {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-  
-  /* Fix text alignment */
-  .archive__item-title,
-  .archive__item-excerpt {
-    text-align: left;  /* or center if you prefer */
-    width: 100%;
-  }
-}
-
-/* Extra iPhone X/10/11/12 specific fix */
-@media screen and (max-width: 414px) {
-  .archive {
-    padding-left: 0;
-    padding-right: 0;
-  }
-  
-  .archive__item {
-    margin-left: auto;
-    margin-right: auto;
-    width: calc(100% - 2rem);  /* Force consistent margins */
-  }
-}
-
-
-
-/* -------------------------------------------
-   HOMEPAGE CENTERING FIX
-   ------------------------------------------- */
-
-/* Target homepage specifically */
-.layout--home .archive__item,
-.page__content .archive__item {
+.entries-grid {
   width: 100%;
   max-width: 100%;
   margin-left: auto;
@@ -200,109 +121,32 @@
   box-sizing: border-box;
 }
 
-/* Fix homepage grid/list container */
-.layout--home .page__content,
-.layout--home .archive {
-  width: 100%;
-  max-width: 100%;
-  padding-left: 0;
-  padding-right: 0;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* Ensure featured section doesn't overflow */
-.layout--home .feature__wrapper,
-.layout--home .feature__item {
+.cluster-section {
   width: 100%;
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
 
-/* iPhone specific: reset any inherited margins */
-@media screen and (max-width: 414px) {
-  .layout--home .archive__item {
-    margin-left: auto !important;
-    margin-right: auto !important;
-    width: calc(100% - 2rem);
-  }
-  
-  .layout--home .page__inner-wrap {
-    padding-left: 0;
-    padding-right: 0;
-  }
-}
-
-/* -------------------------------------------
-   HOMEPAGE CENTERING FIX
-   ------------------------------------------- */
-
-/* Target homepage specifically */
-.layout--home .archive__item,
-.page__content .archive__item {
+.entries-grid article {
   width: 100%;
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 1rem;
-  padding-right: 1rem;
   box-sizing: border-box;
 }
 
-/* Fix homepage grid/list container */
-.layout--home .page__content,
-.layout--home .archive {
-  width: 100%;
-  max-width: 100%;
-  padding-left: 0;
-  padding-right: 0;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* Ensure featured section doesn't overflow */
-.layout--home .feature__wrapper,
-.layout--home .feature__item {
-  width: 100%;
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* iPhone specific: reset any inherited margins */
-@media screen and (max-width: 414px) {
-  .layout--home .archive__item {
-    margin-left: auto !important;
-    margin-right: auto !important;
-    width: calc(100% - 2rem);
+/* iPhone only */
+@supports (-webkit-touch-callout: none) {
+  .entries-grid {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
   }
   
-  .layout--home .page__inner-wrap {
-    padding-left: 0;
-    padding-right: 0;
+  .entries-grid article {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100% !important;
   }
 }
 
-/* DEBUG: Show container boundaries */
-.layout--home .page__content {
-  background: rgba(255,0,0,0.1);
-  border: 2px solid red;
-}
-
-.layout--home .archive__item {
-  background: rgba(0,255,0,0.1);
-  border: 2px solid green;
-}
-
-.layout--home .archive__item-title {
-  background: rgba(0,0,255,0.1);
-  border: 2px solid blue;
-}
-
-
-
-/* DEBUG - Check these one by one */
-.page__content { background: rgba(255,0,0,0.2) !important; border: 2px solid red !important; }
-.archive__item { background: rgba(0,255,0,0.2) !important; border: 2px solid green !important; }
-.archive__item-title { background: rgba(0,0,255,0.2) !important; border: 2px solid blue !important; }
