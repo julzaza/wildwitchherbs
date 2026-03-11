@@ -154,12 +154,11 @@
     padding-right: 1rem !important;
   }
   
-  .layout--home .entries-grid article {
-    width: 100% !important;
-    padding-left: 0.5rem !important;
-    padding-right: 1.5rem !important; /* More internal right padding */
-    box-sizing: border-box !important;
-  }
+.layout--home .entries-grid {
+  width: 90% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  transform: translateX(-0.5rem) !important; /* Nudge left */
 }
 
 
