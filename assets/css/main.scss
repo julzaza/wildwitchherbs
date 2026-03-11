@@ -139,6 +139,7 @@
 /* -------------------------------------------
    iPHONE ONLY - COMBINED FIX
    ------------------------------------------- */
+
 @media screen and (max-width: 414px) and (-webkit-min-device-pixel-ratio: 2) {
   .layout--home .entries-grid {
     width: calc(100% - 3rem) !important; /* Fixed width calculation */
@@ -148,14 +149,16 @@
     padding-right: 0 !important;
   }
   
-.layout--home .cluster-section {
-  padding-left: 1rem !important;
-  padding-right: 2rem !important; /* Extra right padding */
-}
-
+  /* Alternative: force center with position */
+  .layout--home .cluster-section {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+  
 .layout--home .entries-grid {
-  width: 100% !important;
-  margin: 0 !important;
-  padding: 0 !important;
+  width: 90% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  transform: translateX(-0.5rem) !important; /* Nudge left */
+  }
 }
-
