@@ -139,26 +139,26 @@
 /* -------------------------------------------
    iPHONE ONLY - COMBINED FIX
    ------------------------------------------- */
-/* iPhone specific - no @supports */
 @media screen and (max-width: 414px) and (-webkit-min-device-pixel-ratio: 2) {
   .layout--home .entries-grid {
-    width: 85% !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
+    width: calc(100% - 3rem) !important; /* Fixed width calculation */
+    margin-left: 1rem !important;
+    margin-right: 2rem !important; /* Extra right space for safe area */
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
   
-  .layout--home .entries-grid article {
+  /* Alternative: force center with position */
+  .layout--home .cluster-section {
     padding-left: 1rem !important;
-    padding-right: 2rem !important;
-    box-sizing: border-box !important;
+    padding-right: 1rem !important;
   }
   
-  .layout--home .entries-grid article h3,
-  .layout--home .entries-grid article p {
-    padding-right: 1rem !important;
-    margin-right: 0 !important;
+  .layout--home .entries-grid article {
+    width: 100% !important;
+    padding-left: 0.5rem !important;
+    padding-right: 1.5rem !important; /* More internal right padding */
+    box-sizing: border-box !important;
   }
 }
 
