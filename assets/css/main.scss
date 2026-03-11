@@ -155,15 +155,14 @@
     max-width: 100% !important;
   }
   
-  /* Force entries grid to center - UNEVEN MARGINS TO COMPENSATE FOR iOS SAFE AREA */
-  .layout--home .entries-grid {
-    width: calc(100% - 3rem) !important; /* Narrower to allow more margin */
-    margin-left: 1rem !important;
-    margin-right: 2rem !important; /* EXTRA right margin for safe area */
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-    box-sizing: border-box !important;
-  }
+.layout--home .entries-grid {
+  width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 1.5rem !important;
+  padding-right: 2.5rem !important; /* More right padding */
+  box-sizing: border-box !important;
+}
   
   /* Articles fill grid */
   .layout--home .entries-grid article {
@@ -180,3 +179,4 @@
     --safe-area-inset-right: 0px !important;
   }
 }
+
