@@ -156,9 +156,9 @@
   }
   
 .layout--home .entries-grid {
-  width: calc(100% - 2rem) !important;
-  margin-left: 1rem !important;
-  margin-right: -0.5rem !important; /* Negative to counter safe area */
+  width: 90% !important; /* Narrower */
+  margin-left: auto !important;
+  margin-right: auto !important;
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
@@ -178,6 +178,7 @@
     --safe-area-inset-right: 0px !important;
   }
 }
+
 
 
 
