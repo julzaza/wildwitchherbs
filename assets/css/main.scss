@@ -130,13 +130,10 @@
     padding-right: 0 !important;
   }
   
-.layout--home .entries-grid {
-  width: 90% !important;
-  margin-left: 5% !important;  /* 5% left */
-  margin-right: 5% !important; /* 5% right - should be equal */
-  padding-left: 0 !important;
-  padding-right: 0 !important;
+  .layout--home .entries-grid article {
+    padding-left: 0.5rem !important;
+    padding-right: 1.5rem !important;
+    box-sizing: border-box !important;
+  }
 }
-}
-
 
