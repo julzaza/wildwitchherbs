@@ -139,46 +139,27 @@
 /* -------------------------------------------
    iPHONE ONLY - COMBINED FIX
    ------------------------------------------- */
-
-@supports (-webkit-touch-callout: none) {
-  /* Reset ALL homepage containers */
-  .layout--home,
-  .layout--home #main,
-  .layout--home .initial-content,
-  .layout--home .page__inner-wrap,
-  .layout--home .cluster-section {
+/* iPhone specific - no @supports */
+@media screen and (max-width: 414px) and (-webkit-min-device-pixel-ratio: 2) {
+  .layout--home .entries-grid {
+    width: 85% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
     padding-left: 0 !important;
     padding-right: 0 !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-    width: 100% !important;
-    max-width: 100% !important;
   }
   
-.layout--home .entries-grid {
-  width: 90% !important; /* Narrower */
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-  
-  /* Articles fill grid */
   .layout--home .entries-grid article {
-    width: 100% !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+    padding-left: 1rem !important;
+    padding-right: 2rem !important;
+    box-sizing: border-box !important;
   }
   
-  /* Override safe area insets */
-  .layout--home {
-    --safe-area-inset-left: 0px !important;
-    --safe-area-inset-right: 0px !important;
+  .layout--home .entries-grid article h3,
+  .layout--home .entries-grid article p {
+    padding-right: 1rem !important;
+    margin-right: 0 !important;
   }
 }
-
-
 
 
