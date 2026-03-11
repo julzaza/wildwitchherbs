@@ -157,11 +157,10 @@
   
 .layout--home .entries-grid {
   width: calc(100% - 2rem) !important;
-  margin-left: 1.5rem !important;  /* Push from left */
-  margin-right: 0.5rem !important; /* Less on right */
+  margin-left: 1rem !important;
+  margin-right: -0.5rem !important; /* Negative to counter safe area */
   padding-left: 0 !important;
   padding-right: 0 !important;
-  box-sizing: border-box !important;
 }
   
   /* Articles fill grid */
@@ -179,5 +178,6 @@
     --safe-area-inset-right: 0px !important;
   }
 }
+
 
 
