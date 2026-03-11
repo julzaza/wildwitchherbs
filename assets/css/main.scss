@@ -149,16 +149,15 @@
     padding-right: 0 !important;
   }
   
-  /* Alternative: force center with position */
-  .layout--home .cluster-section {
-    padding-left: 1rem !important;
-    padding-right: 1rem !important;
-  }
-  
-.layout--home .entries-grid {
-  width: 90% !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  transform: translateX(-0.5rem) !important; /* Nudge left */
-  }
+.layout--home .cluster-section {
+  padding-left: 1rem !important;
+  padding-right: 2rem !important; /* Extra right padding */
 }
+
+.layout--home .entries-grid {
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+}
+
