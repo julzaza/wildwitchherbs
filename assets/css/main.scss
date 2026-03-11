@@ -136,28 +136,11 @@
   box-sizing: border-box;
 }
 
-/* iPhone only */
-@supports (-webkit-touch-callout: none) {
-  .entries-grid {
-    padding-left: 1rem !important;
-    padding-right: 1rem !important;
-  }
-  
-  .entries-grid article {
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-    width: 100% !important;
-  }
-}
-
-
 /* -------------------------------------------
-   iPHONE ONLY - NUCLEAR FIX
+   iPHONE ONLY - COMBINED FIX
    ------------------------------------------- */
 
 @supports (-webkit-touch-callout: none) {
-  /* iOS Safari only */
-  
   /* Reset ALL homepage containers */
   .layout--home,
   .layout--home #main,
@@ -172,11 +155,11 @@
     max-width: 100% !important;
   }
   
-  /* Force entries grid to center */
+  /* Force entries grid to center - UNEVEN MARGINS TO COMPENSATE FOR iOS SAFE AREA */
   .layout--home .entries-grid {
-    width: calc(100% - 2rem) !important;
+    width: calc(100% - 3rem) !important; /* Narrower to allow more margin */
     margin-left: 1rem !important;
-    margin-right: 1rem !important;
+    margin-right: 2rem !important; /* EXTRA right margin for safe area */
     padding-left: 0 !important;
     padding-right: 0 !important;
     box-sizing: border-box !important;
@@ -191,7 +174,7 @@
     padding-right: 0 !important;
   }
   
-  /* Override safe area insets that push content right */
+  /* Override safe area insets */
   .layout--home {
     --safe-area-inset-left: 0px !important;
     --safe-area-inset-right: 0px !important;
