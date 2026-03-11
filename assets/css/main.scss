@@ -107,34 +107,7 @@
 }
 
 
-/* -------------------------------------------
-   HOMEPAGE CENTERING FIX - iPHONE
-   ------------------------------------------- */
 
-.entries-grid {
-  width: 100%;
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  box-sizing: border-box;
-}
-
-.cluster-section {
-  width: 100%;
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.entries-grid article {
-  width: 100%;
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  box-sizing: border-box;
-}
 
 /* -------------------------------------------
    iPHONE ONLY - COMBINED FIX
@@ -142,22 +115,17 @@
 
 @media screen and (max-width: 414px) and (-webkit-min-device-pixel-ratio: 2) {
   .layout--home .entries-grid {
-    width: calc(100% - 3rem) !important; /* Fixed width calculation */
-    margin-left: 1rem !important;
-    margin-right: 2rem !important; /* Extra right space for safe area */
+    width: calc(100% - 3rem) !important;
+    margin-left: 1.5rem !important;
+    margin-right: 1.5rem !important; /* Equal margins */
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
   
-.layout--home .cluster-section {
-  padding-left: 1rem !important;
-  padding-right: 2rem !important; /* Extra right padding */
-}
-
-.layout--home .entries-grid {
-  width: 100% !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
+  .layout--home .entries-grid article {
+    padding-left: 0.5rem !important;
+    padding-right: 1rem !important; /* Slight right padding inside */
+    box-sizing: border-box !important;
+  }
 }
 
