@@ -42,7 +42,7 @@ To harvest too soon was to take what had not yet been released.
 
 ## Spring as a Spirit-Owned Season
 
-As explored in **[Unlucky Spring Days & Folk Taboos: What Not to Do Between Equinox and May Day](/unlucky-spring-days-folk-taboos)**, early spring was seen as unstable and liminal.
+As explored in **[Unlucky Spring Days & Folk Taboos](/unlucky-spring-days-folk-taboos)**, some early spring dates between equinox and May Day were seen as unstable and liminal.
 
 The ground had opened, but order had not returned.
 
@@ -96,7 +96,7 @@ Early spring nettle:
 - could weaken rather than strengthen
 - was associated with lingering winter illness
 
-Some traditions delayed nettle harvesting until after specific feast days or the first thunder, echoing the same timing rules described in **[Spring Cleaning in Folk Magic: Why Dust, Ash, and Thresholds Were Dangerous](/spring-cleaning-folk-magic)**.
+Some traditions delayed nettle harvesting until after specific feast days or the first thunder, echoing the same timing rules described in **[Spring Cleaning in Folk Magic](/spring-cleaning-folk-magic)**.
 
 ---
 
