@@ -147,6 +147,10 @@ Seeds placed into “unready earth” were thought to:
 
 This was not superstition alone — it reflected deep environmental knowledge tied to frost cycles and soil warmth.
 
+Some plants were **entirely forbidden to harvest until later in the season**. Folk belief held that taking them too early could bring illness, bad luck, or offend the spirits of the land. 
+
+For a detailed look at these forbidden spring plants and the taboos surrounding them, see **[Plants You Should Never Harvest in Early Spring](/plants-not-to-harvest-early-spring/)**.
+
 ---
 
 ## Why These Taboos Existed
