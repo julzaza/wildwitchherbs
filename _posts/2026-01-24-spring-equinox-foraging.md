@@ -80,7 +80,7 @@ In Europe and the Balkans, the first gathered plants were typically:
 - young dock
 - wild garlic (taken sparingly)
 
-Timing was crucial. Even among these early greens, harvesting too soon — like nettle before its proper moment — could result in weak potency or spiritual imbalance. 
+Timing was crucial. Even among these early greens, harvesting too soon — like nettle before its proper moment — could result in physical or spiritual imbalance. 
 
 Other plants, by contrast, were entirely forbidden until later in the season. 
 
