@@ -75,7 +75,7 @@ In Europe and the Balkans, the first gathered plants were typically:
 - young dock  
 - wild garlic (taken sparingly)  
 
-Some plants were not simply approached cautiously — they were **forbidden to harvest entirely until later in the season**, a belief explored in **[Plants You Should Never Harvest in Early Spring: Folk Warnings and Taboos](/plants-not-to-harvest-early-spring/)**.
+Some plants were not simply approached cautiously — they were **forbidden to harvest entirely until later in the season**, a belief explored in **[Plants Not to Harvest in Early Spring](/plants-not-to-harvest-early-spring/)**.
 
 These greens were boiled, strained, or fermented — rarely eaten raw.
 
@@ -176,6 +176,7 @@ It is a conversation.
 - **[Spring Equinox Across Cultures: Folklore of Light and Life](/spring-equinox-global-folklore/)**
 - **[Household Spring Cleaning: Rituals & Taboos](/spring-cleaning-folk-magic/)**
 - **[Balkan Spring Herbs: Seasonal Power, Fertility & Protection](/balkan-spring-herbal-rites/)**
+- **[Plants You Should Never Harvest in Early Spring: Folk Warnings and Taboos](/plants-not-to-harvest-early-spring/)**
 
 ---
 
