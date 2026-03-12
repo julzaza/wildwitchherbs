@@ -1,5 +1,5 @@
 ---
-title: "Plants Forbidden to Harvest in Early Spring: Folk Taboos & Herbal Warnings"
+title: "Forbidden Spring Plants: Folk Herbal Taboos & Warnings"
 layout: single
 category: herbal-magic
 tags:
