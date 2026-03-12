@@ -195,5 +195,4 @@ This post is based on historical and ethnographic sources, including:
 
 ---
 
-And folk wisdom taught that nothing claimed by the land should be taken  
-before the land itself agreed to let it go.
+And folk wisdom taught that nothing claimed by the land should be taken before the land itself agreed to let it go.
