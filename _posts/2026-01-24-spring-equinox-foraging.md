@@ -67,11 +67,6 @@ Similarly, **[House Spring Cleaning: Rules & Taboos](/spring-cleaning-folk-magic
 
 ## Europe & the Balkans: Bitter Greens and Boundary Herbs
 
-Folklore warned that plants gathered before the soil “settled” could:
-- weaken the body  
-- disturb household luck  
-- sicken livestock
-
 In Europe and the Balkans, the first gathered plants were typically:
 
 - nettle (harvested only when the season allowed)
@@ -84,7 +79,12 @@ Timing was crucial. Even among these early greens, harvesting too soon — like 
 
 Other plants, by contrast, were entirely forbidden until later in the season. 
 
-This distinction is revealed in more detail in **[Plants You Should Never Harvest in Early Spring](/plants-not-to-harvest-early-spring/)**.
+This distinction is revealed in more detail in **[Plants Not to Harvest in Early Spring](/plants-not-to-harvest-early-spring/)**.
+
+Folklore warned that plants gathered before the soil “settled” could:
+- weaken the body  
+- disturb household luck  
+- sicken livestock
 
 The allowed early greens were boiled, strained, or fermented — rarely eaten raw.
 
