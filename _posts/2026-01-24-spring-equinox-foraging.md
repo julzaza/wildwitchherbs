@@ -69,14 +69,19 @@ Similarly, **[House Spring Cleaning: Rules & Taboos](/spring-cleaning-folk-magic
 
 In Europe and the Balkans, the first gathered plants were typically:
 
-- nettle (not too early in the spring)  
-- sorrel  
-- dandelion  
-- young dock  
-- wild garlic (taken sparingly)  
+- nettle (harvested only when the season allowed)
+- sorrel
+- dandelion
+- young dock
+- wild garlic (taken sparingly)
 
+Timing was crucial. Even among these early greens, harvesting too soon — like nettle before its proper moment — could result in weak potency or spiritual imbalance. 
 
-These greens were boiled, strained, or fermented — rarely eaten raw.
+Other plants, by contrast, were entirely forbidden until later in the season. 
+
+This distinction is explored in more detail in **[Plants You Should Never Harvest in Early Spring](/plants-not-to-harvest-early-spring/)**.
+
+The allowed early greens were boiled, strained, or fermented — rarely eaten raw.
 
 Folklore warned that plants gathered before the soil “settled” could:
 - weaken the body  
@@ -84,12 +89,6 @@ Folklore warned that plants gathered before the soil “settled” could:
 - sicken livestock  
 
 In parts of the Balkans, women gathered early greens at dawn, often in silence, returning home without greeting anyone — a sign that the act crossed seasonal boundaries and should not be socially interrupted, as documented in **[Balkan Spring Herbal Rites](/balkan-spring-herbal-rites/)**.
-
-Even among these early greens, timing was crucial. 
-
-Nettle, for example, could be harvested at the Equinox in some regions, but **taking it too early risked weak potency or spiritual imbalance**. 
-
-Other plants, by contrast, were **entirely forbidden to harvest until later in the season**. This distinction is explored in more detail in **[Plants You Should Never Harvest in Early Spring](/plants-not-to-harvest-early-spring/)**.
 
 ---
 
