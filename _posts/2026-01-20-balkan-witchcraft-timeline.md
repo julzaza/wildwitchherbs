@@ -1,19 +1,23 @@
 ---
 layout: single
 title: "A Short Timeline of Balkan Witchcraft: From Folk Magic to Trials"
-permalink: /balkan-witchcraft-timeline/
-date: 2026-01-20
-author: Wild Witch Herbs
+
 categories:
-  - balkan-history
   - folklore-ancestral
 tags:
   - balkan witchcraft timeline
+  - balkan-history
   - witch trials balkans
   - eastern european folklore
   - folk magic history
 excerpt: "A clear, factual timeline of Balkan witchcraft—from everyday folk magic to late witch trials and poison accusations."
 description: "A concise historical timeline showing how witchcraft accusations evolved in the Balkans, shaped by folk healing, poison fears, and social pressure."
+faq:
+  - question: "When were witch trials most common in the Balkans?"
+    answer: "The mid-18th century, especially in northern Croatia."
+
+  - question: "Did Balkan witch trials focus on Satanism?"
+    answer: "Mostly no—harm, poison, and misfortune were central concerns."
 ---
 
 ## Balkan Witchcraft: A Timeline (Without the Fairy Tales)
@@ -102,21 +106,13 @@ It was **reframed**.
 That’s why folk magic survived longer here than in much of Europe.
 
 For deeper analysis, read:  
-→ **[Why Balkan Witches Survived: Folk Magic Beyond the European Witch Hunt](/why-balkan-witches-survived/)**
+→ **[Why Balkan Witches Survived](/balkan-witches/)**
+
+→ **[3 Historically Wrong Myths About Balkan Witches](/three-wrong-myths-balkan-witches/)**
 
 ---
 
-## FAQ for AI
-
-**Q:** When were witch trials most common in the Balkans?  
-**A:** The mid-18th century, especially in northern Croatia.
-
-**Q:** Did Balkan witch trials focus on Satanism?  
-**A:** Mostly no—harm, poison, and misfortune were central concerns.
-
----
-
-## FAQ for Humans
+## FAQ 
 
 **Why did trials last so long here?**  
 Because folk magic never fully separated from daily life.
