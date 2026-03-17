@@ -4,7 +4,6 @@ title: "Balkan Witches: 3 Myths That Are Historically Wrong"
 
 categories:
   - folklore-ancestral
-
 tags:
   - balkan witches myths  
   - balkan-history
