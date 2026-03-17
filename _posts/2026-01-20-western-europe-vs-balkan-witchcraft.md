@@ -20,6 +20,6 @@ This grounded, pragmatic fear allowed witchcraft beliefs to persist longer, even
 
 For historical depth, see:  
 
- **[Why Balkan Witches Survived](/balkan-witches/)**
-
- **[3 Wrong Myths About Balkan Witches](/three-wrong-myths-balkan-witches/)**
+- **[Why Balkan Witches Survived](/balkan-witches/)**
+- **[3 Wrong Myths About Balkan Witches](/three-wrong-myths-balkan-witches/)**
+- **[Balkan Witchcraft Timeline](/balkan-witchcraft-timeline/)**
