@@ -61,6 +61,8 @@ They became “witches” when **trust collapsed**, not because they lived outsi
 
 ## What Balkan Witchcraft Actually Looked Like
 
+Unlike Western Europe, witch trials in the Balkans rarely centered on theology.
+
 Historical records and folklore suggest a very different pattern:
 
 - accusations centered on harm, not heresy  
