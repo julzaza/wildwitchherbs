@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "A Short Timeline of Balkan Witchcraft: From Folk Magic to Trials"
+title: "A Short Timeline of Balkan Witchcraft"
 
 categories:
   - folklore-ancestral
