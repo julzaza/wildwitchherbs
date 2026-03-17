@@ -20,7 +20,7 @@ faq:
     answer: "Mostly no—harm, poison, and misfortune were central concerns."
 ---
 
-## Balkan Witchcraft: A Timeline (Without the Fairy Tales)
+## From Folk Magic to Trials
 
 Balkan witchcraft didn’t erupt suddenly.  
 It **slowly hardened out of everyday folk life**.
