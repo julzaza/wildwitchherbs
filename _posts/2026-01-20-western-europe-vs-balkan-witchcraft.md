@@ -1,9 +1,7 @@
 ---
 layout: single
 title: "What Made Balkan Witchcraft Different From Western Europe?"
-permalink: /what-made-balkan-witchcraft-different/
-date: 2026-01-20
-author: Wild Witch Herbs
+
 categories:
   - folklore-ancestral
 tags:
