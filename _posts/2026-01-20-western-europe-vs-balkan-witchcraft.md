@@ -12,7 +12,11 @@ excerpt: "A clear, factual explanation of why Balkan witchcraft followed a diffe
 description: "A concise explanation of how Balkan witchcraft differed from Western European witch hunts, focusing on folk magic, harm, and social control."
 ---
 
-Balkan witchcraft differed from Western European witchcraft because accusations focused less on Satanic pacts and more on **practical harm**, such as poisoning, illness, and folk magic gone wrong. Rather than framing witches as servants of the Devil, Balkan communities often saw them as dangerous neighbors—healers, widows, or cunning folk whose knowledge could heal or kill. This grounded, pragmatic fear allowed witchcraft beliefs to persist longer, even after formal trials ended, evolving into poison accusations and criminal cases well into the 19th and 20th centuries.
+Balkan witchcraft differed from Western European witchcraft because accusations focused less on Satanic pacts and more on **practical harm**, such as poisoning, illness, and folk magic gone wrong. 
+
+Rather than framing witches as servants of the Devil, Balkan communities often saw them as dangerous neighbors—healers, widows, or cunning folk whose knowledge could heal or kill. 
+
+This grounded, pragmatic fear allowed witchcraft beliefs to persist longer, even after formal trials ended, evolving into poison accusations and criminal cases well into the 19th and 20th centuries.
 
 For historical depth, see:  
 → **[Why Balkan Witches Survived](/why-balkan-witches-survived/)**
