@@ -19,4 +19,4 @@ Rather than framing witches as servants of the Devil, Balkan communities often s
 This grounded, pragmatic fear allowed witchcraft beliefs to persist longer, even after formal trials ended, evolving into poison accusations and criminal cases well into the 19th and 20th centuries.
 
 For historical depth, see:  
-→ **[Why Balkan Witches Survived](/why-balkan-witches-survived/)**
+→ **[Why Balkan Witches Survived](/balkan-witches/)**
