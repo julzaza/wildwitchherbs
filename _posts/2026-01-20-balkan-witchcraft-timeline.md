@@ -106,6 +106,7 @@ It was **reframed**.
 That’s why folk magic survived longer here than in much of Europe.
 
 For deeper analysis, read:  
+
 → **[Why Balkan Witches Survived](/balkan-witches/)**
 
 → **[3 Historically Wrong Myths About Balkan Witches](/three-wrong-myths-balkan-witches/)**
