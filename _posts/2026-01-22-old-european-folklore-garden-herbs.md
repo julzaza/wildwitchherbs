@@ -45,7 +45,7 @@ But the ones that guarded doors, flavored feasts, healed households, and whisper
 Across Europe—from the Balkans to Britain, Greece to the Alpine valleys—gardens were places of **threshold magic**.  
 **Herbs watched over doors, dried above hearths, crowned newborns, protected travelers, and marked the changing seasons.**
 
-This post continues the tradition you may recognize from **[Witchy Plants for Front Doors](/witchy-plants-for-front-door)** and **[How to Start a Witchy Garden](/witch-garden)**.
+This post continues the tradition you may recognize from **[Witchy Plants for Front Doors](/witchy-plants-for-front-door/)** and **[How to Start a Witchy Garden](/witch-garden/)**.
 
 ---
 
@@ -82,7 +82,7 @@ Used across the Alps and Germanic lands for dream rites and solstice fires.
 Hung above beds or doors to invite prophetic dreams.
 
 **Internal link:**  
-For indoor dream magic, see **[Witchy Plants for Bedrooms](/witchy-plants-bedroom)**.
+For indoor dream magic, see **[Witchy Plants for Bedrooms](/witchy-plants-bedroom/)**.
 
 ---
 
@@ -116,14 +116,14 @@ Planted close to the kitchen door.
 These herbs were woven into wreaths thrown onto roofs or burned in solstice fires.
 
 **Internal link:**  
-See **[St. John’s Wort Sun Water](/st-johns-wort-sun-water)** for solstice tradition.
+See **[St. John’s Wort Sun Water](/st-johns-wort-sun-water/)** for solstice tradition.
 
 ---
 
 ### **Midwinter Evergreens Magic**  
 Rosemary, juniper, and pine stood as symbols of surviving the dark.
 
-For deeper evergreen lore: see how witches used **[Evergreen Magic Before Christmas Even Existed](/evergreens-witchcraft)**.
+For deeper evergreen lore: see how witches used **[Evergreen Magic Before Christmas Even Existed](/evergreens-witchcraft/)**.
 
 ---
 
