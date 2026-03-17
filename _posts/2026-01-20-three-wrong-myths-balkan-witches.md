@@ -83,7 +83,7 @@ For deeper context, read:
 
 → **[Why Balkan Witches Survived](/balkan-witches/)**
 
-  **[A Short Timeline: Balkan Witchcraft](/balkan-witchcraft-timeline/)**
+→ **[A Short Timeline: Balkan Witchcraft](/balkan-witchcraft-timeline/)**
 
 The image of the Balkan witch was never fixed.
 
