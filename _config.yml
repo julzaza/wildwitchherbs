@@ -151,6 +151,12 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
+# Add this section to your _config.yml
+jekyll-sitemap:
+  last_modified_at: true
+  changefreq: monthly
+  priority: 0.5
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
