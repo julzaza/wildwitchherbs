@@ -59,7 +59,7 @@ They became “witches” when **trust collapsed**, not because they lived outsi
 Because Balkan witchcraft doesn’t fit neat Western narratives.
 
 For deeper context, read:  
-→ **[Why Balkan Witches Survived: Folk Magic Beyond the European Witch Hunt](balkan-witches)**
+→ **[Why Balkan Witches Survived](/balkan-witches/)**
 
 ---
 
