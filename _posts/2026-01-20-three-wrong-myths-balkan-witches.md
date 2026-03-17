@@ -1,14 +1,13 @@
 ---
 layout: single
 title: "3 Myths About Balkan Witches That Are Historically Wrong"
-permalink: /balkan-witch-myths/
-date: 2026-01-20
-author: Wild Witch Herbs
+
 categories:
   - folklore-ancestral
-  - balkan-history
+
 tags:
-  - balkan witches myths
+  - balkan witches myths  
+  - balkan-history
   - witch trials balkans
   - folk magic history
 excerpt: "Balkan witches were not devil-worshippers, forest hermits, or relics of the Middle Ages. Here’s what the history actually shows."
@@ -60,11 +59,11 @@ They became “witches” when **trust collapsed**, not because they lived outsi
 Because Balkan witchcraft doesn’t fit neat Western narratives.
 
 For deeper context, read:  
-→ **[Why Balkan Witches Survived: Folk Magic Beyond the European Witch Hunt](/why-balkan-witches-survived/)**
+→ **[Why Balkan Witches Survived: Folk Magic Beyond the European Witch Hunt](balkan-witches)**
 
 ---
 
-## FAQ for Humans
+## FAQ
 
 **Were Balkan witches different from Western ones?**  
 Yes — less Satanic framing, more focus on harm and folk power.
