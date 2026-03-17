@@ -1,8 +1,7 @@
 ---
 layout: single
 title: "House Snakes and Ancestor Spirits: Balkan Home Guardians"
-permalink: /house-snakes-ancestor-spirits-balkan-folklore/
-date: 2026-01-21
+
 categories: [folklore-ancestral]
 tags:
   - house snake folklore
