@@ -80,7 +80,10 @@ It was a **social reality shaped by fear, necessity, and local knowledge**.
 Because Balkan witchcraft doesn’t fit neat Western narratives.
 
 For deeper context, read:  
+
 → **[Why Balkan Witches Survived](/balkan-witches/)**
+
+  **[A Short Timeline: Balkan Witchcraft](/balkan-witchcraft-timeline/)**
 
 The image of the Balkan witch was never fixed.
 
