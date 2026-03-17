@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Twelve Nights: Old European Witchcraft Between Christmas and Epiphany"
+title: "The Twelve Nights: Witchcraft Between Christmas and Epiphany"
 excerpt: "A folklore-rich exploration of the Twelve Nights—Old European witchcraft, ancestral rites, omens, house spirits, midwinter spirits, and dangerous liminal magic."
 description: "Discover the folklore, witchcraft, ancestral rites, and winter spirits of the Twelve Nights between Christmas and Epiphany in Old European tradition."
 categories:
