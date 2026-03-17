@@ -129,9 +129,9 @@ Learn more about **[Vlach Magic of Negotin Region, Serbia](/vlach-magic-negotin-
 
 ## Related Posts
 
-- [How To Start Your Own Witchy Garden](/witch-garden/)
-- [Herbs You Should Never Burn in Ritual](/never-burn-herbs/)
-- [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)
+- **[How To Start Your Own Witchy Garden](/witch-garden/)**
+- **[Balkan Witchcraft Timeline](/balkan-witchcraft-timeline/)**
+- **[3 Wrong Myths: Balkan Witchcraft](/three-wrong-myths-balkan-witches/)**
 
 ---
 
