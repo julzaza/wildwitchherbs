@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "3 Myths About Balkan Witches That Are Historically Wrong"
+title: "Balkan Witches: 3 Myths That Are Historically Wrong"
 
 categories:
   - folklore-ancestral
@@ -13,6 +13,11 @@ tags:
 excerpt: "Balkan witches were not devil-worshippers, forest hermits, or relics of the Middle Ages. Here’s what the history actually shows."
 description: "Three common myths about Balkan witches—corrected using historical records, trial patterns, and folk tradition."
 ---
+
+Balkan witches have long been misunderstood. 
+
+Unlike the devil-worshipping figures of Western Europe, historical records from the Balkans reveal a very different reality shaped by folk belief, local conflict, and practical fears of harm.
+
 
 ## Myth 1: Balkan Witches Were Devil-Worshippers
 
@@ -54,12 +59,32 @@ They became “witches” when **trust collapsed**, not because they lived outsi
 
 ---
 
-### Why These Myths Persist
+## What Balkan Witchcraft Actually Looked Like
+
+Historical records and folklore suggest a very different pattern:
+
+- accusations centered on harm, not heresy  
+- magic was tied to everyday life — illness, crops, relationships  
+- practitioners were often known members of the community  
+- belief systems mixed pre-Christian traditions with later influences  
+
+Witchcraft in the Balkans was not an organized religion or secret cult.  
+It was a **social reality shaped by fear, necessity, and local knowledge**.
+
+---
+
+## Why These Myths Persist
 
 Because Balkan witchcraft doesn’t fit neat Western narratives.
 
 For deeper context, read:  
 → **[Why Balkan Witches Survived](/balkan-witches/)**
+
+The image of the Balkan witch was never fixed.
+
+She was not a servant of the devil, nor a figure of fantasy, but a reflection of real tensions — between neighbors, between knowledge and fear, between survival and suspicion.
+
+To understand her is not to romanticize the past, but to see how easily ordinary lives could be reshaped into something feared.
 
 ---
 
