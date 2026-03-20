@@ -62,7 +62,12 @@ This is a guide to witchy herbs used for **emotional healing**, gathered from fo
 Whether you're moving through grief, calming anxiety, or seeking inner restoration, these plants speak to the spirit as well as the body.
 
 For targeted nervous system support and calming herbs, see:
+
 **[Best Herbs for Anxiety & Stress](/herbs-for-anxiety-and-stress/)**
+
+To explore more herbs trusted for centuries to support the body, protect health, and restore strength, see: 
+
+**[Folk Healing Herbs for the Body (Traditional Remedies)](/witchy-herbs-for-healing/)**.
 
 ---
 
