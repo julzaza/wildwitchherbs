@@ -384,7 +384,7 @@ Drink the tea. Burn the bundle. Speak to the leaves. Let yourself feel, and let 
 Across European folk magic and ancestral herbalism, plants like **lemon balm, rose, hawthorn, mugwort, calendula, skullcap, valerian, chamomile, and St. John’s wort** were relied upon to soothe grief, calm fear, and restore emotional balance.
 
 **What herbs are best for calming anxiety and emotional overwhelm?**  
-Gentle nervines such as **lemon balm, skullcap, chamomile, and passionflower** are commonly used to quiet racing thoughts, ease nervous tension, and support emotional regulation.
+Gentle nervines such as **lemon balm, skullcap, chamomile, and passionflower** are commonly used to quiet racing thoughts, ease nervous tension, and support emotional regulation. Also, see: **[Calming Herbs for Anxiety and Stress](/herbs-for-anxiety-and-stress/)**.
 
 **Which herbs are most associated with grief and mourning rituals?**  
 **Rose, hawthorn, calendula, and mugwort** appear again and again in folk traditions connected to loss, remembrance, and ancestral rites. These plants support both emotional release and spiritual connection.
