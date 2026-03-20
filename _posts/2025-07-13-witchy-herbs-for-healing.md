@@ -46,6 +46,9 @@ The herbs below are the foundation of traditional folk medicine—trusted for th
 For emotional and grief-related herbal work, see:
 **[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**
 
+For targeted nervous system support and anxiety relief, see:
+**[Best Herbs for Anxiety & Stress](/herbs-for-anxiety-and-stress/)**
+
 ---
 
 ## What These Herbs Were Used For
