@@ -61,7 +61,7 @@ This is a guide to witchy herbs used for **emotional healing**, gathered from fo
 
 Whether you're moving through grief, calming anxiety, or seeking inner restoration, these plants speak to the spirit as well as the body.
 
-For targeted nervous system support, see:
+For targeted nervous system support and calming herbs, see:
 **[Best Herbs for Anxiety & Stress (That Actually Work)](/herbs-for-anxiety-and-stress/)**
 
 ---
@@ -103,6 +103,9 @@ For overthinking minds and heavy dreams.
 **✧ Magical Uses:** Sleep, quieting mental storms, calming nerves.
 
 **Healing Tip:** Steep the flowers into tea before bed. Excellent for anxious rituals.
+
+For a more structured approach to calming the nervous system using herbs specifically chosen for anxiety and chronic stress, see:
+**[Nervous System Support and Calming Herbs](/herbs-for-anxiety-and-stress/)**
 
 ---
 
