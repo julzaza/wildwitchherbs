@@ -3,7 +3,7 @@ layout: single
 title: "Folk Healing Herbs for the Body (Traditional Remedies)"
 
 excerpt: "Step into the green world of healing witchcraft. Discover traditional herbs like yarrow, calendula, lemon balm, and fennel—used by cunning folk, wise women, and herbal witches to mend wounds of flesh and soul."
-description: "Discover the most powerful healing herbs in witchcraft and folk medicine. Learn how calendula, yarrow, lemon balm, fennel, and other magical plants have been used for centuries to support body, mind, and spirit."
+description: "Discover traditional folk healing herbs used to support the body. Learn how plants like calendula, yarrow, plantain, and comfrey were used for wounds, infections, digestion, and physical recovery."
 
 categories:
   - natural-healing
@@ -48,7 +48,9 @@ For emotional and grief-related herbal work, see:
 
 ---
 
-## ✦ 1. **Calendula (Calendula officinalis)**
+## Core Folk Remedies for Physical Healing
+
+### ✦ 1. **Calendula (Calendula officinalis)**
 
 Golden, generous, and glowing like the sun itself.
 
@@ -60,7 +62,7 @@ Golden, generous, and glowing like the sun itself.
 
 ---
 
-## ✦ 2. **Yarrow (Achillea millefolium)**
+### ✦ 2. **Yarrow (Achillea millefolium)**
 
 A battlefield herb and shield for the soul.
 
@@ -74,7 +76,7 @@ When healing required stronger spiritual boundaries, witches turned to **[Tradit
 
 ---
 
-## ✦ 3. **Lemon Balm (Melissa officinalis)**
+### ✦ 3. **Lemon Balm (Melissa officinalis)**
 
 Gentle balm of bees and broken hearts.
 
@@ -88,7 +90,7 @@ Lemon balm appears again and again in traditions focused on **[Herbs Witches Use
 
 ---
 
-## ✦ 4. **Comfrey (Symphytum officinale)**
+### ✦ 4. **Comfrey (Symphytum officinale)**
 
 The bone-mender and oath-binder.
 
@@ -100,7 +102,7 @@ The bone-mender and oath-binder.
 
 ---
 
-## ✦ 5. **Fennel (Foeniculum vulgare)**
+### ✦ 5. **Fennel (Foeniculum vulgare)**
 
 A witch’s ally for strength and second sight.
 
@@ -112,7 +114,7 @@ A witch’s ally for strength and second sight.
 
 ---
 
-## ✦ 6. **Dandelion (Taraxacum officinale)**
+### ✦ 6. **Dandelion (Taraxacum officinale)**
 
 The wish-maker and soul cleanser.
 
@@ -124,7 +126,7 @@ The wish-maker and soul cleanser.
 
 ---
 
-## ✦ 7. **Feverfew (Tanacetum parthenium)**
+### ✦ 7. **Feverfew (Tanacetum parthenium)**
 
 A humble daisy with protective teeth.
 
@@ -136,7 +138,7 @@ A humble daisy with protective teeth.
 
 ---
 
-## ✦ 8. **Plantain (Plantago major)**
+### ✦ 8. **Plantain (Plantago major)**
 
 Green armor for skin and soul.
 
@@ -150,7 +152,7 @@ Plantain was also a cornerstone of traditional **[Folk Herbal First Aid](/folk-h
 
 ---
 
-## ✦ 9. **Mint (Mentha spp.)**
+### ✦ 9. **Mint (Mentha spp.)**
 
 The sharp scent of clarity and communion.
 
@@ -162,7 +164,7 @@ The sharp scent of clarity and communion.
 
 ---
 
-## ✦ 10. **Thyme (Thymus vulgaris)**
+### ✦ 10. **Thyme (Thymus vulgaris)**
 
 A warrior’s herb and dreamwalker’s guide.
 
@@ -174,7 +176,7 @@ A warrior’s herb and dreamwalker’s guide.
 
 ---
 
-## ✦ 11. **Sage (Salvia officinalis)**
+### ✦ 11. **Sage (Salvia officinalis)**
 
 Wisdom keeper of the garden.
 
@@ -186,7 +188,7 @@ Wisdom keeper of the garden.
 
 ---
 
-## ✦ 12. **Basil (Ocimum basilicum)**
+### ✦ 12. **Basil (Ocimum basilicum)**
 
 Royal herb of body and spell.
 
@@ -198,7 +200,7 @@ Royal herb of body and spell.
 
 ---
 
-## ✦ 13. Elder (Sambucus nigra)
+### ✦ 13. Elder (Sambucus nigra)
 Tree of witches, ward of the wise.
 
 - Folklore: Said to house the Elder Mother spirit—ask permission before harvesting. Branches were hung over doors to protect against sickness and spells.
@@ -211,7 +213,7 @@ Tree of witches, ward of the wise.
 
 ---
 
-## ✦ 14. Lavender (Lavandula spp.)
+### ✦ 14. Lavender (Lavandula spp.)
 A lullaby in bloom.
 
 - Folklore: Witches carried lavender for peace and second sight. In love spells, it soothed sorrows and opened the heart.
@@ -224,7 +226,7 @@ A lullaby in bloom.
 
 ---
 
-## ✦ 15. Mugwort (Artemisia vulgaris)
+### ✦ 15. Mugwort (Artemisia vulgaris)
 The witch’s eye, the crone’s smoke.
 
 - Folklore: Burned to open the third eye, mugwort was used in divination, protection, and womb healing rites across Europe and Asia.
@@ -237,7 +239,7 @@ The witch’s eye, the crone’s smoke.
 
 ---
 
-## ✦ 16. Sweet Wormwood (Artemisia annua)
+### ✦ 16. Sweet Wormwood (Artemisia annua)
 Bitter healer, solar purifier.
 
 - Folklore: Used to dispel fevers and evil alike. In Balkan and Chinese traditions, burned at doors during plague seasons.
@@ -250,7 +252,7 @@ Bitter healer, solar purifier.
 
 ---
 
-## ✦ 17. Chamomile (Matricaria chamomilla)
+### ✦ 17. Chamomile (Matricaria chamomilla)
 Sunlight for the soul.
 
 - Folklore: Known as “ground apple,” chamomile was used in baths, teas, and spells to attract peace, luck, and golden dreams.
