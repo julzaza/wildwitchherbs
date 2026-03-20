@@ -288,9 +288,6 @@ Some of the strongest healing herbs include calendula, yarrow, lemon balm, fenne
 ### How were healing herbs traditionally prepared and used?
 Witches made teas, poultices, oils, baths, incense, and charms. Rituals often included spoken charms, prayer, lunar timing, and ancestral offerings to enhance their effectiveness and connect physical healing to spiritual practice.
 
-### Can these herbs help with emotional or spiritual healing?
-Yes. Many herbs were historically used to relieve grief, anxiety, stress, and spiritual exhaustion. When combined with ritual and intention, they could restore emotional balance, strengthen the spirit, and calm the mind.
-
 ### Are folk healing herbs different from modern herbalism?
 Folk herbalism emphasizes lived experience, oral tradition, ritual, and energetic effects, while modern herbalism often relies on standardized doses and clinical research. Both approaches can complement each other when used carefully.
 
