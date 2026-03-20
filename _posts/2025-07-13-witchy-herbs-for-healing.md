@@ -48,7 +48,7 @@ For emotional and grief-related herbal work, see:
 
 For targeted nervous system support and anxiety relief, see:
 **[Best Herbs for Anxiety & Stress](/herbs-for-anxiety-and-stress/)**
-
+ 
 ---
 
 ## What These Herbs Were Used For
@@ -88,7 +88,7 @@ A battlefield herb and shield for the soul.
 
 **Witch Tip: Place in a charm bag for strength or burn in rituals of severance.**
 
-When healing required stronger spiritual boundaries, witches turned to **[Traditional Protection Herbs Used in Folk Witchcraft](/top-protective-herbs-witchcraft/)** to guard both body and soul.
+When healing required stronger spiritual boundaries, witches turned to **[Traditional Protection Herbs in Folk Witchcraft](/top-protective-herbs-witchcraft/)** to guard both body and soul.
 
 ---
 ### ✦ 3. **Lemon Balm (Melissa officinalis)**
@@ -234,7 +234,10 @@ A cooling and antimicrobial herb widely used in traditional medicine.
 
 - Folklore: Used in bathing rituals and household preparations for cleanliness and protection.
 - Healing Uses: Minor burns, skin irritation, insect bites, antimicrobial cleansing.
-- Magical Properties: Purification, protection, cleansing.
+- Magical Properties: Purification, protection, cleansing & clarity.
+
+For its role in calming the nervous system, see:
+**[Best Herbs for Anxiety & Stress (That Actually Work)](/herbs-for-anxiety-and-stress/)**
 
 **Witch Tip: Infuse in oil for burns and skin salves, or add to baths for physical restoration.**
 
