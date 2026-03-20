@@ -25,9 +25,6 @@ faq:
   - question: "How were healing herbs traditionally used by witches?"
     answer: "Healing herbs were used in teas, poultices, baths, oils, incense, and charms. Rituals often included spoken charms, prayers, lunar timing, and offerings to ancestors, enhancing their effectiveness and connecting physical and spiritual healing."
 
-  - question: "Can witchy herbs heal emotional or spiritual ailments?"
-    answer: "Yes. Many healing herbs historically helped with grief, anxiety, stress, spiritual exhaustion, and nervous tension. Ritual use, intention, and energetic work amplified their effects on emotional and spiritual well-being."
-
   - question: "Are folk healing herbs different from modern herbalism?"
     answer: "Folk healing herbs focus on lived experience, oral tradition, ritual, and energetic context, while modern herbalism emphasizes standardized dosing and clinical research. Combining both approaches with care can be highly effective."
 
@@ -81,7 +78,7 @@ When healing required stronger spiritual boundaries, witches turned to **[Tradit
 Gentle balm of bees and broken hearts.
 
 - *Folklore:* Sacred to Artemis and Diana. Used in monastic gardens to soothe melancholy and nervous disorders.
-- *Healing Uses:* Anxiety, grief, sleep troubles, viral infections.
+- *Healing Uses:* Digestive support, antiviral properties, mild tension-related stomach issues.
 - Magical Properties: Calm, joy, emotional restoration, love.
 
 **Witch Tip: Blend with lavender in tea or anoint the chest with balm during full moon rites.**
