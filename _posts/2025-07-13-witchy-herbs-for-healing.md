@@ -44,7 +44,7 @@ These were not abstract remedies. They were used on wounds, illness, inflammatio
 The herbs below are the foundation of traditional folk medicine—trusted for their ability to support the body, protect health, and restore strength.
 
 For emotional and grief-related herbal work, see:
-[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)
+**[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**
 
 ---
 
@@ -75,18 +75,17 @@ A battlefield herb and shield for the soul.
 When healing required stronger spiritual boundaries, witches turned to **[Traditional Protection Herbs Used in Folk Witchcraft](/top-protective-herbs-witchcraft/)** to guard both body and soul.
 
 ---
-
 ### ✦ 3. **Lemon Balm (Melissa officinalis)**
 
-Gentle balm of bees and broken hearts.
+A gentle herb with long use in digestive and immune support.
 
-- *Folklore:* Sacred to Artemis and Diana. Used in monastic gardens to soothe melancholy and nervous disorders.
+- *Folklore:* Grown in monastery gardens and valued for restoring vitality and supporting overall health.
 - *Healing Uses:* Digestive support, antiviral properties, mild tension-related stomach issues.
-- Magical Properties: Calm, joy, emotional restoration, love.
+- Magical Properties: Renewal, vitality, gentle restoration.
 
-**Witch Tip: Blend with lavender in tea or anoint the chest with balm during full moon rites.**
+**Witch Tip: Brew as a light tea after meals to support digestion and recovery.**
 
-Lemon balm appears again and again in traditions focused on **[Herbs Witches Used for Grief and Emotional Wounds](/witchy-herbs-anxiety-grief-emotional-healing/)**.
+Lemon balm also appears in **[Herbs Witches Used for Grief and Emotional Wounds](/witchy-herbs-anxiety-grief-emotional-healing/)**.
 
 ---
 
@@ -214,15 +213,14 @@ Tree of witches, ward of the wise.
 ---
 
 ### ✦ 14. Lavender (Lavandula spp.)
-A lullaby in bloom.
 
-- Folklore: Witches carried lavender for peace and second sight. In love spells, it soothed sorrows and opened the heart.
+A cooling and antimicrobial herb widely used in traditional medicine.
 
-- Healing Uses: Anxiety, sleep, nervous tension, burns.
+- Folklore: Used in bathing rituals and household preparations for cleanliness and protection.
+- Healing Uses: Minor burns, skin irritation, insect bites, antimicrobial cleansing.
+- Magical Properties: Purification, protection, cleansing.
 
-- Magical Properties: Peace, clarity, dreamwork.
-
-**Witch Tip: Burn in bedtime rituals or add to dream pillows and healing baths.**
+**Witch Tip: Infuse in oil for burns and skin salves, or add to baths for physical restoration.**
 
 ---
 
@@ -253,15 +251,14 @@ Bitter healer, solar purifier.
 ---
 
 ### ✦ 17. Chamomile (Matricaria chamomilla)
-Sunlight for the soul.
 
-- Folklore: Known as “ground apple,” chamomile was used in baths, teas, and spells to attract peace, luck, and golden dreams.
+A gentle herb used widely for digestion and inflammation.
 
-- Healing Uses: Sleep aid, digestive support, stress relief.
+- Folklore: Used in household remedies and cleansing washes to maintain health and prevent illness.
+- Healing Uses: Digestive support, anti-inflammatory, mild infections.
+- Magical Properties: Cleansing, protection, gentle balance.
 
-- Magical Properties: Luck, calm, dreamwork, child protection.
-
-**Witch Tip: Wash floors with chamomile tea to invite peace into the home.**
+**Witch Tip: Drink as tea after meals to support digestion or use cooled tea as a skin wash.**
 
 ---
 
