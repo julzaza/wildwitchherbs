@@ -45,6 +45,9 @@ These were not abstract remedies. They were used on wounds, illness, inflammatio
 
 The herbs below are the foundation of traditional folk medicine—trusted for their ability to support the body, protect health, and restore strength.
 
+For emotional and grief-related herbal work, see:
+[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)
+
 ---
 
 ## ✦ 1. **Calendula (Calendula officinalis)**
