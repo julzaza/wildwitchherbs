@@ -59,6 +59,8 @@ Used historically for nervous tension, digestive anxiety, and low mood.
 **Effect:**
 Calms without sedation. Good for daytime use.
 
+Lemon balm also appears in **[Healing Herbs for the Body](/witchy-herbs-for-healing/)** guide, highlighting its use for digestion, immune support, and general wellness.
+
 ---
 
 ### 2. Chamomile (*Matricaria chamomilla*)
@@ -179,6 +181,10 @@ What doesn’t:
 Traditional systems never relied on herbs alone.
 
 If anxiety is constant or severe, herbs should be **support—not the only solution.**
+
+To explore more herbs for emotional and physical balance:
+- **[Folk Healing Herbs for the Body (Traditional Remedies)](/witchy-herbs-for-healing/)**
+- **[Witchy Herbs for Emotional Healing and Grief](/witchy-herbs-anxiety-grief-emotional-healing/)**
 
 ---
 
