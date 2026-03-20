@@ -48,6 +48,19 @@ For emotional and grief-related herbal work, see:
 
 ---
 
+## What These Herbs Were Used For
+
+In traditional folk medicine, these plants were used to treat:
+
+- Cuts and wounds  
+- Skin infections and burns  
+- Digestive issues  
+- Fevers and inflammation  
+- Respiratory illness  
+- Physical weakness and recovery  
+
+This practical approach is what defined historical herbal healing—treating the body directly and effectively.
+
 ## Core Folk Remedies for Physical Healing
 
 ### ✦ 1. **Calendula (Calendula officinalis)**
