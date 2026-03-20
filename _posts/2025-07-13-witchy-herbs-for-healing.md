@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Witchy Herbs for Healing: Ancient Plant Magic for Body and Spirit"
-permalink: /witchy-herbs-for-healing/
+title: "Folk Healing Herbs for the Body (Traditional Remedies)"
+
 excerpt: "Step into the green world of healing witchcraft. Discover traditional herbs like yarrow, calendula, lemon balm, and fennel—used by cunning folk, wise women, and herbal witches to mend wounds of flesh and soul."
 description: "Discover the most powerful healing herbs in witchcraft and folk medicine. Learn how calendula, yarrow, lemon balm, fennel, and other magical plants have been used for centuries to support body, mind, and spirit."
+
 categories:
-  - herbal-magic
   - natural-healing
 tags:
   - healing herbs
@@ -36,11 +36,17 @@ faq:
 
 ---
 
-## The Healing Witch
+## The Village Healer
 
-The witch was a healer before she was ever feared. **Her hut may have stood at the edge of the woods, but her remedies were at the heart of village life.** She worked with what she had—roots pulled from riverbanks, flowers gathered at dawn, seeds whispered over in the moonlight.
+Before healing became clinical, it was practical.
 
-Below are the plants most beloved by witches, folk healers, and cunning women throughout history— known to mend not just the body, but the spirit, the heart, and sometimes even fate.
+Cuts needed closing. Fevers needed breaking. Infections needed stopping before they spread.
+
+The village healer—often called a witch, wise woman, or cunning practitioner—worked with plants not for symbolism, but for results.
+
+These were not abstract remedies. They were used on wounds, illness, inflammation, and physical weakness.
+
+The herbs below are the foundation of traditional folk medicine—trusted for their ability to support the body, protect health, and restore strength.
 
 ---
 
