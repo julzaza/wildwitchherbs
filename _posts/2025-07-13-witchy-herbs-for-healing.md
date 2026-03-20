@@ -2,7 +2,7 @@
 layout: single
 title: "Folk Healing Herbs for the Body (Traditional Remedies)"
 
-excerpt: "Step into the green world of healing witchcraft. Discover traditional herbs like yarrow, calendula, lemon balm, and fennel—used by cunning folk, wise women, and herbal witches to mend wounds of flesh and soul."
+excerpt: "Step into the green world of folk healing. Discover traditional herbs like yarrow, calendula, lemon balm, and fennel—used by cunning folk and wise women to treat wounds, illness, and physical imbalances."
 description: "Discover traditional folk healing herbs used to support the body. Learn how plants like calendula, yarrow, plantain, and comfrey were used for wounds, infections, digestion, and physical recovery."
 
 categories:
@@ -17,8 +17,8 @@ tags:
   - ancestral herbalism
 
 faq:
-  - question: "What are the most powerful witchy healing herbs?"
-    answer: "The most powerful witchy healing herbs include calendula, yarrow, lemon balm, fennel, comfrey, plantain, thyme, sage, lavender, chamomile, mugwort, and sweet wormwood. These herbs were traditionally used by cunning folk and herbal witches to heal the body, balance emotions, and support spiritual restoration."
+  - question: "What are the most powerful traditional healing herbs for the body?"
+    answer: "Some of the most effective traditional healing herbs include calendula, yarrow, plantain, comfrey, thyme, sage, fennel, and elder. These plants were used in folk medicine to treat wounds, infections, digestion issues, inflammation, and physical weakness."
 
   - question: "How were healing herbs traditionally used by witches?"
     answer: "Healing herbs were used in teas, poultices, baths, oils, incense, and charms. Rituals often included spoken charms, prayers, lunar timing, and offerings to ancestors, enhancing their effectiveness and connecting physical and spiritual healing."
