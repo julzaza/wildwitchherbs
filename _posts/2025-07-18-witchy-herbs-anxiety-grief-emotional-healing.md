@@ -105,7 +105,7 @@ For overthinking minds and heavy dreams.
 **Healing Tip:** Steep the flowers into tea before bed. Excellent for anxious rituals.
 
 For a more structured approach to calming the nervous system using herbs specifically chosen for anxiety and chronic stress, see:
-**[Nervous System Support and Calming Herbs](/herbs-for-anxiety-and-stress/)**
+**[Nervous System Support Herbs](/herbs-for-anxiety-and-stress/)**
 
 ---
 
