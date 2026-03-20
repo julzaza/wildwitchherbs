@@ -86,7 +86,7 @@ Gentle balm of bees and broken hearts.
 
 **Witch Tip: Blend with lavender in tea or anoint the chest with balm during full moon rites.**
 
-Lemon balm appears again and again in traditions focused on **[Herbs Witches Used for Grief, Anxiety, and Emotional Wounds](/witchy-herbs-anxiety-grief-emotional-healing/)**.
+Lemon balm appears again and again in traditions focused on **[Herbs Witches Used for Grief and Emotional Wounds](/witchy-herbs-anxiety-grief-emotional-healing/)**.
 
 ---
 
