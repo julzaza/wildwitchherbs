@@ -155,7 +155,7 @@ Plantain was also a cornerstone of traditional **[Folk Herbal First Aid](/folk-h
 
 The sharp scent of clarity and communion.
 
-- *Folklore:* In ancient Greece, mint was rubbed on altars to call the spirits. In folk magic, used to break curses and cool tempers.
+- *Folklore:* In ancient Greece, mint was rubbed on altars to call the spirits.
 - *Healing Uses:* Digestion, headaches, respiratory ease.
 - Magical Properties: Psychic opening, healing breath, protection.
 
@@ -193,7 +193,7 @@ Royal herb of body and spell.
 
 - *Folklore:* In India, basil was sacred to Lakshmi. In Europe, used to soothe heartbreak and bring wealth.
 - *Healing Uses:* Infections, digestion, inflammation.
-- Magical Properties: Abundance, love, purification.
+- Magical Properties: Protection, vitality, purification.
 
 **Witch Tip: Steep into a tea or tuck fresh basil under your pillow for heart-healing dreams.**
 
