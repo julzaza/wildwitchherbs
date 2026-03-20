@@ -15,9 +15,7 @@ tags:
   - apothecary
   - herbalism
   - ancestral herbalism
-header:
-  image: /assets/images/top-view-assortment-spices-wooden-board.webp
-  overlay_filter: 0.4
+
 faq:
   - question: "What are the most powerful witchy healing herbs?"
     answer: "The most powerful witchy healing herbs include calendula, yarrow, lemon balm, fennel, comfrey, plantain, thyme, sage, lavender, chamomile, mugwort, and sweet wormwood. These herbs were traditionally used by cunning folk and herbal witches to heal the body, balance emotions, and support spiritual restoration."
