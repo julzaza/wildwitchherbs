@@ -81,8 +81,8 @@ Because Balkan witchcraft doesn’t fit neat Western narratives.
 For deeper context, read:  
 
 - **[Why Balkan Witches Survived](/balkan-witches/)**
-
 - **[A Short Timeline: Balkan Witchcraft](/balkan-witchcraft-timeline/)**
+- **[Vlach Magic from Serbia](/vlach-magic-negotin-serbia/)**
 
 The image of the Balkan witch was never fixed.
 
