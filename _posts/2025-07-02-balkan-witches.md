@@ -102,7 +102,7 @@ Even today, ritual remains tied to natural cycles—see **[Full Moon Rituals wit
 
 ### Why They Lived 
 
-These traditions didn’t begin with the Church—they existed long before it, as explored in **[Pre-Christian European Witchcraft](/pre-christian-europe/)**.
+These traditions didn’t begin with the Church—they existed long before it, as explored in **[Pre-Christian European Witchcraft](/pre-christian-europe-magic/)**.
 
 The Church tried — make no mistake.
 
@@ -146,7 +146,7 @@ Learn more about **[Vlach Magic of Negotin Region, Serbia](/vlach-magic-negotin-
 
 - **[How To Start Your Own Witchy Garden](/witch-garden/)**
 - **[Balkan Witchcraft Timeline](/balkan-witchcraft-timeline/)**
-- **[3 Wrong Myths: Balkan Witchcraft](/three-wrong-myths-balkan-witches/)**
+- **[Balkan House Spirits and Guardians](/balkan-house-spirits-folklore/)**
 
 ---
 
