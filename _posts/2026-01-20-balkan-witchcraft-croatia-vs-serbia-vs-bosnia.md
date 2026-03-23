@@ -53,6 +53,8 @@ The **Magda Logomer** case represents the peak of this system.
 
 Once Maria Theresa intervened, formal trials declined sharply.
 
+Read more about the legal persecution in the Balkans here: **[Balkan Witch Trials](/balkan-witch-trials/)**.
+
 ---
 
 ### Serbia: Folk Magic and Poison Fear
@@ -63,8 +65,6 @@ In Serbian regions:
 - criminal courts replaced witch trials
 
 The **Baba Anujka** case shows how folk knowledge became legal danger.
-
-Read more about the legal persecutions in the Balkans here: **[Balkan Witch Trials](/balkan-witch-trials/)**.
 
 For more Serbian witchcraft, check out: **[Serbian Vampire Herbs](/vampire-herbs-vlach-magic/)**.
 
