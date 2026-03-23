@@ -100,9 +100,11 @@ Even today, ritual remains tied to natural cycles—see **[Full Moon Rituals wit
 
 ---
 
-### Why They Lived
+### Why They Lived 
 
-The Church tried — make no mistake. Check out **[Pre-Christian European Witchcraft](/pre-christian-europe/)** to see how things were before church took over. 
+These traditions didn’t begin with the Church—they existed long before it, as explored in **[Pre-Christian European Witchcraft](/pre-christian-europe/)**.
+
+The Church tried — make no mistake.
 
 Some witches in the Balkans were caught, tortured, killed. But the hysteria never quite stuck the way it did in Germany, France, or Britain. 
 
