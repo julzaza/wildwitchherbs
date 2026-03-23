@@ -176,7 +176,7 @@ Curse-breaking, healing, protection, weather magic, dreamwork, divination, lives
 
 **Did the Church persecute Balkan witches?**
 
-There were cases, but wide-scale witch hunts never took root because communities defended their healers.
+There were cases, but wide-scale witch hunts never took root because communities defended their healers. 
 
 **How did Balkan witches perform divination?**
 
