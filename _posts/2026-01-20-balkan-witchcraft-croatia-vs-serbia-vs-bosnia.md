@@ -90,12 +90,14 @@ Balkan witchcraft survived because it adapted:
 
 In short: Croatia prosecuted, Serbia feared, and Bosnia absorbed magic into daily life.
 
+---
+
 For the broader pattern, read:  
 - **[Balkan Folk Healers vs. Witches](/balkan-folk-healers-vs-witches/)**  
 - **[Why Balkan Witches Survived](/balkan-witches/)**  
 - **[3 Historically Wrong Myths About Balkan Witches](/three-wrong-myths-balkan-witches/)**
 
-  --
+---
 
 ## FAQ 
 
