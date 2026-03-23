@@ -25,15 +25,27 @@ faq:
 
   - question: "Who was accused?"
     answer: "Often healers, midwives, and folk practitioners."
+
+  - question: "Were Balkan witch trials the same as Western European witch hunts?"
+    answer: "No, Balkan trials focused more on poisoning, illness, and practical harm, while Western Europe emphasized demonic pacts and religious heresy."
+
+  - question: "Why was poison so important in Balkan witch trials?"
+    answer: "Poison blurred the line between medicine and harm, making herbal knowledge both respected and feared in rural communities."
+
+  - question: "Did witch trials really continue into the 20th century?"
+    answer: "Yes, cases like Baba Anujka in Serbia show that fear of harmful folk knowledge persisted into modern legal systems."
 ---
 
-## What Are Balkan Witch Trials
+## What Were Balkan Witch Trials
 
-**Balkan witch trials were legal persecutions targeting individuals accused of causing real-world harm through folk magic, poison, or ritual knowledge**, rather than through demonic pacts or satanic worship.
+Balkan witch trials were not about the Devil.
 
-**In short:** Balkan witch trials were legal cases focused on **poisoning, illness, and harmful folk practices**, not devil worship or demonic conspiracy.
+They were about something far more feared:  
+**poison, illness, and people who knew how to use both.**
 
-They formed part of the broader European witch hunt phenomenon, but followed **distinct regional logic** shaped by:
+In practice, they were **legal cases against people accused of causing real harm through folk magic, herbal knowledge, or ritual acts**.
+
+They formed part of the broader European witch hunt phenomenon, but followed a **distinct regional logic** shaped by:
 - Folk medicine traditions
 - Local cosmology
 - Fear of poisoning
@@ -74,6 +86,8 @@ Western European witch hunts emphasized:
 - The Devil as a central figure
 
 This distinction is consistently reflected in surviving trial records.
+
+In simple terms: Western Europe feared the Devil—Balkan societies feared the neighbor who knew too much.
 
 ---
 
@@ -148,7 +162,7 @@ Herbs could:
 - Protect
 - Kill quietly
 
-In the Balkans, a healer and a killer could be the same person—depending on who was telling the story.
+In the Balkans, a healer and a killer could be the same person—depending on who survived to tell the story.
 
 This dual nature of plants is still visible in traditional practice—see **[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)** for the surviving “safe” side of this knowledge.
 
@@ -194,6 +208,8 @@ Accusations followed:
 - Community tension
 
 Witchcraft became a **language for fear and blame** when other explanations failed.
+
+Witchcraft accusations often said more about the accuser than the accused.
 
 ---
 
