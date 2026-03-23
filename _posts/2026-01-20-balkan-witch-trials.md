@@ -224,7 +224,7 @@ These misunderstandings are still common today—broken down in **[3 Historicall
 
 ---
 
-## Further Reading Within Balkan Folk Traditions:
+## Continue Reading: Balkan Witchcraft and Folk Magic
 
 - **[Balkan Folk Healers vs. Witches](/balkan-folk-healers-vs-witches/)**
 - **[Balkan House Spirits Folklore](/balkan-house-spirits-folklore/)**
