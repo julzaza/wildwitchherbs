@@ -47,7 +47,9 @@ The witch hunts swept across Europe like wildfire, burning tens of thousands —
 Not because they hid. Not because they were meek.  
 **But because they served**.
 
-Not everywhere was so fortunate—see how persecution unfolded in **[A Brief History of Balkan Witch Trials](/balkan-witch-trials/)**.
+In much of Europe, witchcraft meant heresy. In the Balkans, it meant responsibility.
+
+However, not everywhere was so fortunate—see how persecution unfolded in **[A Brief History of Balkan Witch Trials](/balkan-witch-trials/)**.
 
 ---
 
@@ -79,11 +81,11 @@ Balkan witches worked with what they had:
 
 Simple. Gritty. Real.
 
-And it worked — or people believed it did. **In a world with no doctor, no pharmacy, and no help coming, belief is powerful medicine**.
+And it worked—because people trusted it. **In a world with no doctor, no pharmacy, and no help coming, belief is powerful medicine**.
 
 These weren’t random traditions—many of these plants still form the backbone of Balkan herbal practice. 
 
-See **[Witchy Balkan Herbs](/balkan-witchy-herbs/)** for how this knowledge survives today. 
+See **[Balkan Witchy Herbs and Their Uses](/balkan-witchy-herbs/)** for how this knowledge survives today.
 
 ---
 
