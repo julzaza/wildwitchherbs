@@ -134,13 +134,13 @@ So light your candles. Burn your herbs. But don’t forget the root:
 
 ---
 
-### Want More?
+### Go Deeper Into Balkan Magic
 
-Let’s keep this magic alive.  
+If you want to move beyond theory into real tradition: 
 
 Check out the **[Remedies from Vasa Pelagić’s Narodni Učitelj](/pelagicev-narodni-ucitelj-balkan-remedies/)**, a 19th-century Balkan guide full of practical herbal advice and folk wisdom.
 
-Learn more about **[Vlach Magic of Negotin Region, Serbia](/vlach-magic-negotin-serbia/)** which are legendary in the Balkans. 
+Or learn about **[Vlach Magic of Negotin Region, Serbia](/vlach-magic-negotin-serbia/)**.
 
 ## Related Posts
 
