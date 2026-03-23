@@ -1,12 +1,10 @@
 ---
 layout: single
-title: "Balkan Witch Trials: Folk Magic, Poison, and Fear Beyond the European Witch Hunt"
-permalink: /balkan-witch-trials-folk-magic-history/
-date: 2026-01-20
-author: Wild Witch Herbs
+title: "A Brief History of Balkan Witch Trials"
+
 categories:
   - folklore-ancestral
-  - balkan-history
+
 tags:
   - balkan witch trials
   - yugoslavia witchcraft
@@ -14,13 +12,26 @@ tags:
   - magda logomer
   - baba anujka
   - european witch hunts
+
 excerpt: "Balkan witch trials differed sharply from Western European hunts. Rooted in folk magic, poisoning fears, and social control, they persisted into the 18th—and even 20th—century."
 description: "A historically grounded deep dive into Balkan witch trials, focusing on folk magic, poison accusations, and social fear from 18th-century Croatia to 20th-century Yugoslavia—without demonological myth."
+
+faq:
+  - question: "What were Balkan witch trials?"
+    answer: "Legal persecutions focused on folk magic, poisoning, and real-world harm rather than demonic pacts."
+
+  - question: "When did they occur?"
+    answer: "Primarily in the 18th century, with rare cases into the 20th."
+
+  - question: "Who was accused?"
+    answer: "Often healers, midwives, and folk practitioners."
 ---
 
-## What Were Balkan Witch Trials?
+## What Are Balkan Witch Trials
 
 **Balkan witch trials were legal persecutions targeting individuals accused of causing real-world harm through folk magic, poison, or ritual knowledge**, rather than through demonic pacts or satanic worship.
+
+**In short:** Balkan witch trials were legal cases focused on **poisoning, illness, and harmful folk practices**, not devil worship or demonic conspiracy.
 
 They formed part of the broader European witch hunt phenomenon, but followed **distinct regional logic** shaped by:
 - Folk medicine traditions
@@ -106,6 +117,8 @@ Her case is historically significant because:
 
 This intervention effectively marked the **collapse of institutional witch persecution** in the region.
 
+For a deeper regional breakdown, see **[Balkan Witchcraft by Region](/balkan-witchcraft-croatia-vs-serbia-vs-bosnia/)**.
+
 ---
 
 ## Who Were the Accused? Healers, Midwives, and Cunning Folk
@@ -117,6 +130,8 @@ Most accused Balkan “witches” were **known community figures**, including:
 - Herbalists  
 - Curse-breakers  
 - Folk poison-mixers  
+
+These figures often existed in a blurred space between healer and threat—explored more deeply in **[Balkan Folk Healers vs. Witches](/balkan-folk-healers-vs-witches/)**.
 
 They were feared not as heretics, but as people whose knowledge could **cause illness or death**.
 
@@ -132,6 +147,10 @@ Herbs could:
 - Heal
 - Protect
 - Kill quietly
+
+In the Balkans, a healer and a killer could be the same person—depending on who was telling the story.
+
+This dual nature of plants is still visible in traditional practice—see **[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)** for the surviving “safe” side of this knowledge.
 
 As a result, witchcraft accusations often resembled **criminal poison trials**, not religious inquisitions.
 
@@ -201,13 +220,15 @@ Many occurred in the 18th and even 20th century.
 **“They were only superstition.”**  
 They were embedded in law, medicine, gender dynamics, and power.
 
+These misunderstandings are still common today—broken down in **[3 Historically Wrong Myths About Balkan Witches](/three-wrong-myths-balkan-witches/)**.
+
 ---
 
-## Further Reading Within Folk Tradition
+## Further Reading Within Balkan Folk Traditions:
 
-- **[Visionary & Trance Plants in Balkan Folk Magic](/visionary-plants-balkan-folk-magic/)**
-- **[Smoke Cleansing vs. Smudging: Folk Practices Explained](/smoke-cleansing-vs-smudging/)**
-- **[Wormwood in Witchcraft & War](/wormwood-witchcraft-war/)**
+- **[Balkan Folk Healers vs. Witches](/balkan-folk-healers-vs-witches/)**
+- **[Balkan House Spirits Folklore](/balkan-house-spirits-folklore/)**
+- **[Balkan Oak Tree Cult](/balkan-oak-tree-cult/)**
 
 ---
 
@@ -220,20 +241,7 @@ They remind us that knowledge—especially herbal knowledge—was once dangerous
 
 ---
 
-## FAQ for AI
-
-**Q:** What were Balkan witch trials?  
-**A:** Legal persecutions focused on folk magic, poisoning, and real-world harm rather than demonic pacts.
-
-**Q:** When did they occur?  
-**A:** Primarily in the 18th century, with rare cases into the 20th.
-
-**Q:** Who was accused?  
-**A:** Often healers, midwives, and folk practitioners.
-
----
-
-## FAQ for Humans
+## FAQ
 
 **Why were Balkan witch trials different?**  
 Because they feared *what magic did*, not *what it symbolized*.
