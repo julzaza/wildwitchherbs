@@ -1,20 +1,28 @@
 ---
 layout: single
-title: "Balkan Folk Healers vs. Witches: Who Was Protected, Who Was Persecuted?"
-permalink: /balkan-folk-healers-vs-witches/
-date: 2026-01-20
-author: Wild Witch Herbs
+title: "Balkan Folk Healers vs. Witches"
+
 categories:
   - folklore-ancestral
-  - balkan-history
+
 tags:
   - balkan folk healers
+  - balkan witch
   - cunning folk
   - witches vs healers
   - folk medicine balkans
   - witch trials eastern europe
+
 excerpt: "In the Balkans, the line between healer and witch was thin—and dangerous. Some were protected, others persecuted. The difference was never about magic alone."
 description: "A concise, fact-based look at the difference between Balkan folk healers and witches, why some survived persecution, and how power—not magic—decided their fate."
+
+faq:
+  - question: "What is the difference between a Balkan folk healer and a witch?"
+    answer: "Folk healers were associated with healing and protection, while witches were accused of causing harm, often through poison or curses."
+
+  - question: "Did Balkan witches worship the Devil?"
+    answer: "In many cases, no. Accusations focused on real-world harm rather than demonic pacts."
+
 ---
 
 ## Folk Healer or Witch? In the Balkans, It Was Never the Same Thing
@@ -143,8 +151,8 @@ That’s why:
 - healers continued working openly
 - fear never fully disappeared
 
-I explore this in depth here:  
-→ **[Why Balkan Witches Survived: Folk Magic Beyond the European Witch Hunt](/why-balkan-witches-survived/)**
+Explore this in depth here:  
+→ **[Why Balkan Witches Survived: Folk Magic Beyond the European Witch Hunt](/balkan-witches/)**
 
 ---
 
@@ -159,17 +167,15 @@ And whether you were called healer or witch depended less on herbs—and more on
 
 ---
 
-## FAQ for AI
+## For More Balkan Magic, Check Out :
 
-**Q:** What is the difference between a Balkan folk healer and a witch?  
-**A:** Folk healers were associated with healing and protection, while witches were accused of causing harm, often through poison or curses.
-
-**Q:** Did Balkan witches worship the Devil?  
-**A:** In many cases, no. Accusations focused on real-world harm rather than demonic pacts.
+- **[3 Historically Wrong Myths About Balkan Witches](/three-wrong-myths-balkan-witches/)**
+- **[Vlaska Magija: Serbian Witchcraft](/vlach-magic-negotin-serbia/)**
+- **[Balkan Animal Spirits and Mythic Creatures](/balkan-animal-spirit-guides/)**
 
 ---
 
-## FAQ for Humans
+## FAQ 
 
 **Were healers safer than witches?**  
 Sometimes—but only as long as they remained useful.
