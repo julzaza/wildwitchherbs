@@ -96,6 +96,8 @@ The most infamous case:
 Magic was no longer supernatural.  
 It was *dangerously practical*.
 
+Check out **[Balkan Witch Trials](/balkan-witch-trials/)** for more. 
+
 ---
 
 ## Why This Timeline Matters
