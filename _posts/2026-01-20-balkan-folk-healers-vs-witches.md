@@ -139,6 +139,10 @@ This is why many Balkan witch trials resemble **criminal poisoning cases**, not 
 
 The witch was dangerous because her knowledge *worked*.
 
+Read more about the persecuted here: 
+
+- **[Balkan Witch Trials](/balkan-witch-trials/)**.
+
 ---
 
 ## This Is Why Balkan Witches “Survived”
@@ -152,7 +156,7 @@ That’s why:
 - fear never fully disappeared
 
 Explore this in depth here:  
-→ **[Why Balkan Witches Survived: Folk Magic Beyond the European Witch Hunt](/balkan-witches/)**
+- **[Why Balkan Witches Survived: Folk Magic Beyond the European Witch Hunt](/balkan-witches/)**
 
 ---
 
