@@ -71,6 +71,8 @@ Cases focused on **harm caused**, not cosmic evil.
 The most famous accused:
 → **Magda Logomer**, tortured and tried as a witch before imperial intervention halted the trial.
 
+Check out **[Balkan Witch Trials](/balkan-witch-trials/)** for more.
+
 ---
 
 ## Late 1700s–1800s — Decline, Not Disappearance
@@ -94,9 +96,7 @@ The most infamous case:
 → **Baba Anujka**, tried in the 1920s for poisoning using folk knowledge.
 
 Magic was no longer supernatural.  
-It was *dangerously practical*.
-
-Check out **[Balkan Witch Trials](/balkan-witch-trials/)** for more. 
+It was *dangerously practical*. 
 
 ---
 
