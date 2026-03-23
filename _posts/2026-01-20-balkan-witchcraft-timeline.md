@@ -111,6 +111,8 @@ For deeper analysis, read:
 
 - **[3 Historically Wrong Myths About Balkan Witches](/three-wrong-myths-balkan-witches/)**
 
+- **[Balkan Folk Healers vs. Witches](/balkan-folk-healers-vs-witches/)**
+
 ---
 
 ## FAQ 
