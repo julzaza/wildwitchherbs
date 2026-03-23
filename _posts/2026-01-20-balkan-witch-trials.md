@@ -255,6 +255,8 @@ They were grounded in **real fear, real deaths, and real belief in folk power**.
 
 They remind us that knowledge—especially herbal knowledge—was once dangerous enough to kill.
 
+And once knowledge becomes fear, it rarely disappears—it just changes form.
+
 ---
 
 ## FAQ
