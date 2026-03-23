@@ -64,6 +64,8 @@ In Serbian regions:
 
 The **Baba Anujka** case shows how folk knowledge became legal danger.
 
+Read more about the legal persecutions in the Balkans here: **[Balkan Witch Trials](/balkan-witch-trials/)**.
+
 For more Serbian witchcraft, check out: **[Serbian Vampire Herbs](/vampire-herbs-vlach-magic/)**.
 
 ---
