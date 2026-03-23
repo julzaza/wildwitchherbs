@@ -141,7 +141,7 @@ The witch was dangerous because her knowledge *worked*.
 
 Read more about the persecuted here: 
 
-- **[Balkan Witch Trials](/balkan-witch-trials/)**.
+- **[Balkan Witch Trials](/balkan-witch-trials/)**
 
 ---
 
