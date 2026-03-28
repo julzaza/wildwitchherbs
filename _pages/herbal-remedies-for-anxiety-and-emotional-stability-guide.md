@@ -63,7 +63,7 @@ Each blend is built for a specific pattern:
 - emotional **heaviness and overwhelm**
 - **daytime anxiety** when you still need to function  
 
-Reliable herbs. Used properly. That’s usually enough.
+Reliable herbs. Used properly. That’s usually enough for most cases of anxiety.
 
 ---
 
@@ -131,7 +131,7 @@ Included: a few easy witchy practices you can do while holding the mug.
 
 ## ✦ Get the Full Guide
 
-If you want something structured you can return to, especially in the moments of anxiety, you can get the full guide here:
+If you want something structured you can return to, especially in the moments of anxiety, you can access the full guide here:
 
 <div style="margin: 25px 0;">
   <a href="https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety" 
@@ -143,13 +143,15 @@ If you want something structured you can return to, especially in the moments of
        color: #2f3e2f;
        text-decoration: none;
        border-radius: 6px;">
-    Access the Anxiety Tea Recipe Guide
+    Get the Anxiety Tea Ritual Guide
   </a>
 </div>
 
 ---
 
 ## ✦ A Final Note
+
+Most people only need one or two of these blends, not all of them.
 
 This is not a cure.
 
