@@ -36,7 +36,7 @@ Something you can return to when your system is already overwhelmed.
 Knowing which herbs are calming is one thing.  
 Using them correctly when anxiety is already present is another.
 
-This guide focuses on simple, effective **herbal blends for anxiety**. It is built as practical tea recipes you can return to when your system is overwhelmed.
+This guide focuses on simple, effective **herbal blends for anxiety**, built as practical tea recipes you can return to when your system is overwhelmed.
 
 ---
 
@@ -48,12 +48,12 @@ It’s a set of **working herbal blends for anxiety**, designed for real situati
 
 Inside the guide:
 
-5 targeted tea recipes for **different anxiety states** + 1 bonus remedy
+5 Targeted Tea Recipes for **Different Anxiety States** + 1 Bonus Remedy
 
 - **exact ingredient amounts** and preparation methods  
 - **when to use** each blend (day, night, acute, ongoing)  
 - a **faster-acting method** for sudden overwhelm  
-- bonus recipe: a cold infusion for **long-term nervous system support**
+- bonus recipe: an infusion for **long-term nervous system support**
 
 Each blend is built for a specific pattern:
 
@@ -71,7 +71,7 @@ Reliable herbs. Used properly. That’s usually enough.
 
 Each recipe is built for a specific kind of anxiety—not just “calm” in general.
 
-Inside the guide, you’ll work with:
+You’ll work with:
 
 - **Night Nervous System Tea** 
 - **Tension Release Infusion**  
