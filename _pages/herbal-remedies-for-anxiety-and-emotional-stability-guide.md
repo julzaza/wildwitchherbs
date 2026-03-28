@@ -80,11 +80,11 @@ Inside the guide, you’ll work with:
 - **Clear Mind Day Blend** 
 - **Long-Term Support Infusion** 
 
-Each one is simple. Focused. And designed to do one job well.
+Each one is straightforward. Focused. And designed to do one job well.
 
 You don’t use all of them at once.
 
-You learn which one matches your state—and return to it when it matters.
+You learn which one matches your state and return to it when it matters.
 
 ---
 
