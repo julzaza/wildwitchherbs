@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Anxiety Tea Recipe (A Simple Herbal Blend That Actually Calms You)"
+title: "Anxiety Tea Recipe (Homemade Herbal Blend)"
 
 categories:
   - natural-healing
