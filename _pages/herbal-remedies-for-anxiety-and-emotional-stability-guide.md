@@ -17,6 +17,24 @@ excerpt: "A simple, structured tea ritual for calming anxiety and emotional over
 
 description: "Discover herbal remedies for anxiety, including simple tea recipes and calming herbal blends you can use for stress, overthinking, and nervous system support."
 
+faq:
+  - question: "What are the best herbal remedies for anxiety?"
+    answer: "Lemon balm, chamomile, lavender, tulsi are among the most widely used herbs for calming the nervous system."
+
+  - question: "What is the best herbal tea for anxiety?"
+    answer: "A blend of lemon balm and chamomile is ideal for daily use, while marshmallow root or oatstraw can be added for stronger calming effects."
+
+  - question: "How do you make an anxiety tea recipe?"
+    answer: "Anxiety tea is typically made by combining calming herbs like lemon balm, chamomile, and lavender, then steeping them in hot water for 5–10 minutes."
+
+  - question: "Do herbal blends for anxiety actually work?"
+    answer: "Yes, when used consistently and matched to the type of anxiety, herbal blends can support the nervous system and reduce symptoms."
+
+  - question: "Which herbs help with anxiety and overthinking?"
+    answer: "Holy basil, linden, and lemon balm are especially effective for calming racing thoughts."
+
+  - question: "Can anxiety tea be used daily?"
+    answer: "Yes, gentle herbs like chamomile and lemon balm are traditionally used daily, while stronger herbs are used as needed."
 ---
 
 There are moments when anxiety doesn’t respond to information.
@@ -162,3 +180,16 @@ A slow one.
 
 But one that works with the body instead of against it.
 
+---
+
+**Do herbal blends for anxiety actually work?**  
+Yes, when used consistently and matched to the type of anxiety you’re experiencing. Herbs work by supporting the nervous system, not by instantly suppressing symptoms.
+
+**Can I drink anxiety tea every day?**  
+Gentle herbs like chamomile and lemon balm are traditionally used daily. Stronger herbs are usually used as needed.
+
+**How long does herbal tea take to calm anxiety?**  
+Some herbs work within 15–30 minutes, while others build effect over time with regular use.
+
+**What’s the difference between herbal remedies and tea blends for anxiety?**  
+Herbal remedies is a broad term that includes teas, tinctures, and extracts. Tea blends are one of the simplest and most accessible ways to use herbs for anxiety.
