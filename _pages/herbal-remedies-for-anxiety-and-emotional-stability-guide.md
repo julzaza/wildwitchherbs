@@ -125,6 +125,8 @@ But done with intention, consistently, this becomes something else.
 
 A signal to your nervous system that it is safe to soften.
 
+Included: a few easy witchy practices you can do while holding the mug. 
+
 ---
 
 ## ✦ Get the Full Guide
