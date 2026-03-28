@@ -35,6 +35,28 @@ Something you can return to when your system is already overwhelmed.
 
 ---
 
+## ✦ What You’ll Actually Get
+
+Inside the guide:
+
+- 5 targeted herbal recipes for different types of anxiety  
+- exact ingredient amounts and preparation methods  
+- when and how to use each blend  
+- a faster-acting method for sudden overwhelm  
+- a bonus recipe: cold infusion for long-term nervous system support  
+
+Each recipe is built for a specific state you can recognize:
+
+- restless nights where the body won’t switch off  
+- chest tension and physical anxiety  
+- sudden spikes that need fast calming  
+- emotional heaviness and overwhelm  
+- daytime anxiety when you still need to function  
+
+Simple herbs. Used properly. That’s usually enough.
+
+---
+
 ## ✦ What This Guide Is
 
 This is a simple, repeatable **tea ritual for calming the nervous system**.
