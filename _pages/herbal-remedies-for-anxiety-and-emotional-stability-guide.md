@@ -34,49 +34,36 @@ It’s **structure**.
 Something you can return to when your system is already overwhelmed.
 
 Knowing which herbs are calming is one thing.  
-Knowing how to combine them into **herbal blends for anxiety** that work in real situations is something else entirely.
+Using them correctly when anxiety is already present is another.
 
-This guide focuses on simple, effective **anxiety tea recipes** and blends you can use depending on how anxiety shows up in your body.
+This guide focuses on simple, effective **herbal blends for anxiety**. It is built as practical tea recipes you can return to when your system is overwhelmed.
 
 ---
 
-## ✦ Simple Anxiety Tea Recipes & Herbal Blends
+## ✦ Herbal Remedies for Anxiety: What You’ll Actually Get
+
+This is not a list of herbs.
+
+It’s a set of **working herbal blends for anxiety**, designed for real situations.
 
 Inside the guide:
 
-- 5 targeted herbal recipes for different types of anxiety  
-- exact ingredient amounts and preparation methods  
-- when and how to use each blend  
-- a faster-acting method for sudden overwhelm  
-- a bonus recipe: cold infusion for long-term nervous system support  
+5 targeted tea recipes for **different anxiety states** + 1 bonus remedy
 
-Each recipe is built for a specific state you can recognize:
+- **exact ingredient amounts** and preparation methods  
+- **when to use** each blend (day, night, acute, ongoing)  
+- a **faster-acting method** for sudden overwhelm  
+- bonus recipe: a cold infusion for **long-term nervous system support**
 
-- restless nights where the body won’t switch off  
-- chest tension and physical anxiety  
-- sudden spikes that need fast calming  
-- emotional heaviness and overwhelm  
-- daytime anxiety when you still need to function  
+Each blend is built for a specific pattern:
+
+- **restless nights** where the body won’t switch off  
+- **chest tension** and physical anxiety  
+- sudden **spikes that need fast calming**
+- emotional **heaviness and overwhelm**
+- **daytime anxiety** when you still need to function  
 
 Simple herbs. Used properly. That’s usually enough.
-
----
-
-## ✦ Herbal Remedies for Anxiety (That You Can Actually Use)
-
-This is a simple, repeatable **tea ritual for calming the nervous system**.
-
-Not theory.  
-Not scattered recipes.  
-
-A **clear practice** you can follow when anxiety is already present.
-
-Inside, you’ll find:
-
-- Exact herbal blends (with ratios)
-- When to use each blend (day vs night, mild vs intense anxiety)
-- A grounding ritual to pair with the tea
-- Simple preparation methods (no overwhelm, no complexity)
 
 ---
 
