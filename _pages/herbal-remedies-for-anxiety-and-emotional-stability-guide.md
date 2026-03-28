@@ -165,7 +165,7 @@ If you want something structured you can return to, especially in the moments of
        color: #2f3e2f;
        text-decoration: none;
        border-radius: 6px;">
-   → Get the Anxiety Tea Ritual Guide
+    Get the Anxiety Tea Ritual Guide
   </a>
 </div>
 
