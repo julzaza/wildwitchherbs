@@ -58,7 +58,7 @@ This guide focuses on simple, effective **herbal blends for anxiety**, built as 
 
 ---
 
-## ✦ Herbal Remedies for Anxiety: What You’ll Actually Get
+## Herbal Remedies for Anxiety: What You’ll Actually Get ✦
 
 This is not a list of herbs.
 
