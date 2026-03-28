@@ -88,18 +88,6 @@ You learn which one matches your state and return to it when it matters.
 
 ---
 
-## ✦ The Herbs You’ll Work With
-
-This guide focuses on calming herbs traditionally used in **herbal remedies for anxiety**, combined into simple blends that support the nervous system.
-
-They are chosen based on how anxiety actually shows up in the body:
-- physical tension  
-- overthinking  
-- poor sleep  
-- emotional overwhelm  
-
----
-
 ## ✦ Who This Is For
 
 This is for you if:
