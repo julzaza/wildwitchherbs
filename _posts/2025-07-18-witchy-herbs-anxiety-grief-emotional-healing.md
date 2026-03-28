@@ -379,9 +379,9 @@ Emotional healing in witchcraft is sacred work. It’s slow, rooted, and real. T
 
 If you want something you can return to in the moment—not just read and forget—we’ve gathered a simple, structured tea ritual for calming anxiety and emotional overwhelm.
 
-It includes specific herb combinations, ratios, and a grounding practice you can follow:
+It includes specific herb combinations for specific anxiety types, ratios, and a grounding practice you can follow:
 
-→ [Anxiety Tea Ritual Guide](YOUR_GUMROAD_LINK)](https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety)
+→ [Anxiety Herbal Tea Guide](YOUR_GUMROAD_LINK)](https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety)
 
 
 Drink the tea. Burn the bundle. Speak to the leaves. Let yourself feel, and let the plants do their quiet, ancient work.
