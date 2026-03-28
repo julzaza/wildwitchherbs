@@ -128,7 +128,7 @@ A signal to your nervous system that it is safe to soften.
 
 ## ✦ Get the Full Guide
 
-If you want the full ritual, with exact blends and step-by-step structure, you can get it here:
+If you want something structured you can return to, especially in the moment of feeling anxious, you can access the full guide here:
 
 <div style="margin: 25px 0;">
   <a href="https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety" 
