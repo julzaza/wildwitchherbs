@@ -36,14 +36,11 @@ faq:
   - question: "Can anxiety tea be used daily?"
     answer: "Yes, gentle herbs like chamomile and lemon balm are traditionally used daily, while stronger herbs are used as needed."
 ---
-
-There are moments when anxiety doesn’t respond to information.
+When the body is tight. The breath is shallow. The mind is looping.
 
 You already know what’s happening.  
-You’ve read the herbs.  
 You understand the patterns.
-
-But the body is still tight. The breath still shallow. The mind still looping.
+You’ve read the herbs.  
 
 What’s missing is not knowledge.
 
