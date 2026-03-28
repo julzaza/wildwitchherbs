@@ -140,7 +140,7 @@ If you want the full ritual, with exact blends and step-by-step structure, you c
        color: #2f3e2f;
        text-decoration: none;
        border-radius: 6px;">
-    → Access the Anxiety Tea Ritual Guide
+    Get the Anxiety Tea Blend Recipe Guide
   </a>
 </div>
 
