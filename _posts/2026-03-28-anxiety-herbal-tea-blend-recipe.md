@@ -164,6 +164,8 @@ And stay with what works.
 
 ---
 
+**Important**
+
 This herbal tea is for general wellness support and is not a medical treatment. If you are pregnant, nursing, or on medication, consult a qualified professional before using herbal remedies.
 
 ---
