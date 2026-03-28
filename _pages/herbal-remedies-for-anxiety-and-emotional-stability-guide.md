@@ -85,7 +85,7 @@ Reliable herbs. Used properly. That’s usually enough for most cases of anxiety
 
 ---
 
-## ✦ The Blends Inside
+## The Blends Inside ✦
 
 Each recipe is built for a specific kind of anxiety—not just “calm” in general.
 
@@ -110,7 +110,7 @@ If you already know you want something structured you can follow, the full guide
 
 ---
 
-## ✦ Who This Is For
+## Who This Is For ✦
 
 This is for you if:
 
