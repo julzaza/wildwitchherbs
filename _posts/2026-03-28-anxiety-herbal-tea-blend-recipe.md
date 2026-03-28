@@ -16,6 +16,22 @@ excerpt: "A simple anxiety tea recipe using calming herbs like lemon balm and ch
 
 description: "Learn a simple anxiety tea recipe that actually works. This herbal blend uses calming plants like lemon balm and chamomile to reduce stress, ease tension, and support the nervous system."
 
+faq:
+  - question: "What is the best tea for anxiety?"
+    answer: "A simple blend of lemon balm and chamomile is one of the most effective herbal teas for general anxiety. It supports the nervous system without being overly sedating."
+
+  - question: "How often can I drink anxiety tea?"
+    answer: "This tea can be consumed daily, especially in the evening or during periods of stress. Most people benefit from 1–2 cups per day."
+
+  - question: "Does anxiety tea really work?"
+    answer: "Herbal anxiety teas don’t remove anxiety instantly, but they can gently regulate the nervous system over time, especially when used consistently and combined with calming rituals."
+
+  - question: "Can I drink anxiety tea during the day?"
+    answer: "Yes, this blend is mild enough for daytime use and works well for restlessness, mild stress, or emotional overwhelm."
+
+  - question: "What herbs should I avoid mixing for anxiety tea?"
+    answer: "It’s best to avoid overly complex blends. Too many strong herbs can reduce effectiveness. Simple combinations like lemon balm, chamomile, and lavender tend to work best."
+
 ---
 
 There are moments when anxiety doesn’t need more information.
@@ -145,3 +161,26 @@ Start with one.
 Pay attention to how your body responds.
 
 And stay with what works.
+
+---
+
+This herbal tea is for general wellness support and is not a medical treatment. If you are pregnant, nursing, or on medication, consult a qualified professional before using herbal remedies.
+
+---
+
+## ✦ Frequently Asked Questions:
+
+### What is the best tea for anxiety?
+A simple blend of lemon balm and chamomile is one of the most effective herbal teas for general anxiety. It supports the nervous system without being overly sedating.
+
+### How often can I drink anxiety tea?
+This tea can be consumed daily, especially in the evening or during periods of stress. Most people benefit from 1–2 cups per day.
+
+### Does anxiety tea really work?
+Herbal anxiety teas don’t remove anxiety instantly, but they can gently regulate the nervous system over time, especially when used consistently and combined with calming rituals.
+
+### Can I drink this tea during the day?
+Yes. This blend is mild enough for daytime use and works well for restlessness, mild stress, or emotional overwhelm.
+
+### Why should anxiety tea be kept simple?
+Simple blends are often more effective because the nervous system responds better to consistency. Too many herbs can dilute the effect and make it harder to understand what is actually helping.
