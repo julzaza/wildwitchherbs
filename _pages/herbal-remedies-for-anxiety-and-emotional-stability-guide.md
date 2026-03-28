@@ -58,7 +58,7 @@ This guide focuses on simple, effective **herbal blends for anxiety**, built as 
 
 ---
 
-## Herbal Remedies for Anxiety: What You’ll Actually Get ✦
+## Herbal Remedies for Anxiety: What You’ll Actually Get 
 
 This is not a list of herbs.
 
@@ -85,7 +85,7 @@ Reliable herbs. Used properly. That’s usually enough for most cases of anxiety
 
 ---
 
-## The Blends Inside ✦
+## The Blends Inside 
 
 Each recipe is built for a specific kind of anxiety—not just “calm” in general.
 
@@ -110,7 +110,7 @@ If you already know you want something structured you can follow, the full guide
 
 ---
 
-## Who This Is For ✦
+## Who This Is For 
 
 This is for you if:
 
@@ -121,7 +121,7 @@ This is for you if:
 
 ---
 
-## ✦ Why This Works
+## Why This Works
 
 Most herbal content gives you information without application.
 
@@ -133,7 +133,7 @@ That consistency is what actually calms the nervous system.
 
 ---
 
-## ✦ The Ritual Itself
+## The Ritual Itself
 
 The core of this practice is simple:
 
@@ -151,7 +151,7 @@ Included: a few easy witchy practices you can do while holding the mug.
 
 ---
 
-## ✦ Get the Full Guide
+## Get the Full Guide
 
 If you want something structured you can return to, especially in the moments of anxiety, you can access the full guide here:
 
@@ -171,7 +171,7 @@ If you want something structured you can return to, especially in the moments of
 
 ---
 
-## ✦ A Final Note
+## A Final Note
 
 Most people only need one or two of these blends, not all of them.
 
