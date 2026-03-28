@@ -67,6 +67,27 @@ Simple herbs. Used properly. That’s usually enough.
 
 ---
 
+## ✦ The Blends Inside
+
+Each recipe is built for a specific kind of anxiety—not just “calm” in general.
+
+Inside the guide, you’ll work with:
+
+- **Night Nervous System Tea** 
+- **Tension Release Infusion**  
+- **Emergency Calm Blend** 
+- **Heavy Heart Tea** 
+- **Clear Mind Day Blend** 
+- **Long-Term Support Infusion** 
+
+Each one is simple. Focused. And designed to do one job well.
+
+You don’t use all of them at once.
+
+You learn which one matches your state—and return to it when it matters.
+
+---
+
 ## ✦ The Herbs You’ll Work With
 
 This guide focuses on calming herbs traditionally used in **herbal remedies for anxiety**, combined into simple blends that support the nervous system.
@@ -90,15 +111,15 @@ This is for you if:
 
 ---
 
-## ✦ What Makes This Different
+## ✦ Why This Works
 
-Most herbal guides give you information.
+Most herbal content gives you information without application.
 
-This gives you **a way to use it**.
+This gives you **structure**. A rhythm.  
 
-A rhythm.  
-A structure.  
-Something you can repeat until your body starts to recognize calm again.
+Instead of guessing what to use, you follow a repeatable method your body can recognize over time.
+
+That consistency is what actually calms the nervous system.
 
 ---
 
