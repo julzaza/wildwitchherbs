@@ -171,12 +171,9 @@ If you want something structured you can return to, especially in the moments of
 
 Most people only need one or two of these blends, not all of them.
 
-This is not a cure.
+This is not a cure. It’s a tool.
 
-It’s a tool.
-
-A quiet one.  
-A slow one.  
+A quiet one. A slow one.  
 
 But one that works with the body instead of against it.
 
