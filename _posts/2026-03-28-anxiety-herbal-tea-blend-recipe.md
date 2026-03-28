@@ -27,6 +27,10 @@ A simple action that tells the body: *you can slow down now.*
 
 This is where a basic **anxiety tea recipe** becomes useful—not as a cure, but as a way to interrupt the pattern.
 
+If you want a more structured approach, with specific **herbal blends for anxiety** matched to different states, you can find the full guide here:
+
+**[Herbal Blends for Anxiety & Emotional Stability](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
+
 ---
 
 ## ✦ A Simple Anxiety Tea Recipe
@@ -107,11 +111,9 @@ Sometimes it’s:
 
 One tea won’t cover all of that.
 
----
+Discover customized herbal remedies to target your specific type of anxiety right here:
 
-If you want a more structured approach—with **herbal blends for anxiety matched to specific states**—you can find that here:
-
-**[Herbal Remedies for Anxiety & Tea Blend Guide](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
+**[Herbal Remedies for Anxiety: Tea Blend Guide](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
 
 This guide focuses on a small number of herbs that work reliably together, rather than overwhelming you with too many options.
 
