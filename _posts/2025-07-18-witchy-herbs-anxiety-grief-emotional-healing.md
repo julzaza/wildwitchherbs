@@ -377,6 +377,13 @@ And here is **[How to Make Moon Water for Witchcraft](/moon-water-magic/)** in c
 
 Emotional healing in witchcraft is sacred work. It’s slow, rooted, and real. These herbs don’t promise escape—they offer *companionship* through the pain, *wisdom* for the storm, and a whisper that you are not alone.
 
+If you want something you can return to in the moment—not just read and forget—we’ve gathered a simple, structured tea ritual for calming anxiety and emotional overwhelm.
+
+It includes specific herb combinations, ratios, and a grounding practice you can follow:
+
+→ [Anxiety Tea Ritual Guide](YOUR_GUMROAD_LINK)](https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety)
+
+
 Drink the tea. Burn the bundle. Speak to the leaves. Let yourself feel, and let the plants do their quiet, ancient work.
 
 ---
