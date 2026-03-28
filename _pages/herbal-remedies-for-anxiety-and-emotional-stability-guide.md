@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Herbal Recipes for Anxiety & Nervous System Support"
+permalink: /herbal-remedies-for-anxiety-and-emotional-stability-guide/
 
 categories: [natural-healing, herbal-magic]
 
@@ -107,9 +108,19 @@ A signal to your nervous system that it is safe to soften.
 
 If you want the full ritual, with exact blends and step-by-step structure, you can get it here:
 
-<div style="margin: 20px 0;">
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety">Get the Anxiety Tea Ritual Guide</a>
+<div style="margin: 25px 0;">
+  <a href="https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety" 
+     target="_blank" 
+     style="
+       display: inline-block;
+       padding: 12px 22px;
+       background-color: #2f3e2f;
+       color: #ffffff;
+       text-decoration: none;
+       border-radius: 6px;
+       font-weight: 500;">
+    Get the Anxiety Tea Ritual Guide
+  </a>
 </div>
 
 ---
