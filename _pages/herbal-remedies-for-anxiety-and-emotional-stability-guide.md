@@ -133,7 +133,7 @@ A signal to your nervous system that it is safe to soften.
 
 ## ✦ Get the Full Guide
 
-If you want something structured you can return to, especially in the moments of anxiety, you can access the full guide here:
+If you want something structured you can return to, especially in the moments of anxiety, you can get the full guide here:
 
 <div style="margin: 25px 0;">
   <a href="https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety" 
@@ -145,7 +145,7 @@ If you want something structured you can return to, especially in the moments of
        color: #2f3e2f;
        text-decoration: none;
        border-radius: 6px;">
-    Get the Anxiety Tea Blend Recipe Guide
+    Access the Anxiety Tea Recipe Guide
   </a>
 </div>
 
