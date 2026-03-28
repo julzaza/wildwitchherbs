@@ -62,7 +62,7 @@ Simple herbs. Used properly. That’s usually enough.
 
 ---
 
-## ✦ What This Guide Is
+## ✦ Herbal Remedies for Anxiety (That You Can Actually Use)
 
 This is a simple, repeatable **tea ritual for calming the nervous system**.
 
@@ -82,7 +82,7 @@ Inside, you’ll find:
 
 ## ✦ The Herbs You’ll Work With
 
-This guide focuses on herbs traditionally used to calm the nervous system.
+This guide focuses on calming herbs traditionally used in **herbal remedies for anxiety**, combined into simple blends that support the nervous system.
 
 They are chosen based on how anxiety actually shows up in the body:
 - physical tension  
