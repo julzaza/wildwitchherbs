@@ -111,7 +111,9 @@ One tea won’t cover all of that.
 
 If you want a more structured approach—with **herbal blends for anxiety matched to specific states**—you can find that here:
 
-→ [Herbal Remedies for Anxiety & Tea Blend Guide](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)
+**[Herbal Remedies for Anxiety & Tea Blend Guide](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
+
+This guide focuses on a small number of herbs that work reliably together, rather than overwhelming you with too many options.
 
 ---
 
