@@ -119,7 +119,7 @@ If you want the full ritual, with exact blends and step-by-step structure, you c
        text-decoration: none;
        border-radius: 6px;
        font-weight: 500;">
-    Get the Anxiety Tea Ritual Guide
+    Get the Herbal Remedies for Anxiety Guide
   </a>
 </div>
 
