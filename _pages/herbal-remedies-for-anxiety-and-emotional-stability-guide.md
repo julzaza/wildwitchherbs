@@ -113,13 +113,12 @@ If you want the full ritual, with exact blends and step-by-step structure, you c
      target="_blank" 
      style="
        display: inline-block;
-       padding: 12px 22px;
-       background-color: #2f3e2f;
-       color: #ffffff;
+       padding: 12px 20px;
+       border: 1px solid #2f3e2f;
+       color: #2f3e2f;
        text-decoration: none;
-       border-radius: 6px;
-       font-weight: 500;">
-    Get the Herbal Remedies for Anxiety Guide
+       border-radius: 6px;">
+    → Access the Anxiety Tea Ritual Guide
   </a>
 </div>
 
