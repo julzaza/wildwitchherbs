@@ -40,7 +40,7 @@ This guide focuses on simple, effective **anxiety tea recipes** and blends you c
 
 ---
 
-## ✦ What You’ll Actually Get
+## ✦ Simple Anxiety Tea Recipes & Herbal Blends
 
 Inside the guide:
 
