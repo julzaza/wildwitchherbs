@@ -190,6 +190,10 @@ To explore more herbs for emotional and physical balance:
 - **[Folk Healing Herbs for the Body (Traditional Remedies)](/witchy-herbs-for-healing/)**
 - **[Witchy Herbs for Emotional Healing and Grief](/witchy-herbs-anxiety-grief-emotional-healing/)**
 
+For something more structured you can come back to daily, you can find the full tea ritual here:
+
+→ [Anxiety Herbal Tea Guide: Practical Folk Remedies](https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety)
+
 ---
 
 ## FAQ
