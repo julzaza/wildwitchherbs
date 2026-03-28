@@ -381,7 +381,7 @@ If you want something you can return to in the moment—not just read and forget
 
 It includes specific herb combinations for specific anxiety types, ratios, and a grounding practice you can follow:
 
-→ [Anxiety Herbal Tea Guide](YOUR_GUMROAD_LINK)](https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety)
+→ [Anxiety Herbal Tea Guide](https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety)
 
 
 Drink the tea. Burn the bundle. Speak to the leaves. Let yourself feel, and let the plants do their quiet, ancient work.
