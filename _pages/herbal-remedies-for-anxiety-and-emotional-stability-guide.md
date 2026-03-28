@@ -63,7 +63,7 @@ Each blend is built for a specific pattern:
 - emotional **heaviness and overwhelm**
 - **daytime anxiety** when you still need to function  
 
-Simple herbs. Used properly. That’s usually enough.
+Reliable herbs. Used properly. That’s usually enough.
 
 ---
 
