@@ -96,22 +96,23 @@ You learn which one matches your state and return to it when it matters.
 **Ingredients**
 
 Rose petals – 1 tbsp
-
 Lemon balm – 1 tbsp
-
 St. John’s Wort – 1 tsp
 
 **Preparation**
 Pour boiling water over the herbs. Steep covered, for about 10 minutes.
 
 **When to use**
+
 Best taken in the afternoon or early evening.
 
 **What it does**
+
 This blend softens emotional intensity.
 It creates space around what you’re feeling without numbing it.
 
 **Why this works**
+
 Rose → emotional softening
 
 Lemon balm → stabilizes mood
