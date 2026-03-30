@@ -135,11 +135,11 @@ This is for you if:
 
 ## Why Most Herbal Anxiety Guides Don’t Work
 
-too many herbs
+Too many herbs.
 
-no structure
+No structure.
 
-no consistency
+No consistency.
 
 ---
 
