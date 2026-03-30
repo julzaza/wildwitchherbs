@@ -13,9 +13,9 @@ tags:
   - tea ritual
   - folk herbalism
 
-excerpt: "A simple, structured tea ritual for calming anxiety and emotional overwhelm using traditional herbs and grounded practice."
+excerpt: "A simple, structured, 6 tea blends guide for calming anxiety and emotional overwhelm using traditional herbs and grounded practice."
 
-description: "Discover herbal remedies for anxiety, including simple tea recipes and calming herbal blends you can use for stress, overthinking, and nervous system support."
+description: "Discover 6 herbal blends for anxiety, including simple tea recipes you can use for stress, overthinking, heavy heart and long-term nervous system support."
 
 faq:
   - question: "What are the best herbal remedies for anxiety?"
