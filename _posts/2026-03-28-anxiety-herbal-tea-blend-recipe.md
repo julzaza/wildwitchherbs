@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Anxiety Tea Recipe (Homemade Herbal Blend)"
+title: "Simple Anxiety Tea Blend (Real Effects & How to Use It)"
 
 categories:
   - natural-healing
@@ -34,9 +34,7 @@ faq:
 
 ---
 
-There are moments when anxiety doesn’t need more information.
-
-It needs something physical.  
+There are moments when anxiety needs something physical.  
 Something you can make, hold, and drink.
 
 A simple action that tells the body: *you can slow down now.*
@@ -61,6 +59,11 @@ This is one of the most reliable herbal blends for general anxiety:
 - Pour 250 ml of boiling water over the herbs  
 - Cover and steep for 10–15 minutes  
 - Strain and drink slowly  
+
+✦ Small Details That Change the Effect
+- cover the cup (volatile oils don’t escape)
+- don’t rush steeping
+- drink warm, not hot
 
 That’s it.
 
@@ -93,6 +96,21 @@ This blend works best for:
 
 It’s a good **baseline tea**—something you can return to regularly.
 
+## ✦ Why This Blend Ratio Works
+lemon balm = dominant (nervous system regulator)
+chamomile = physical relaxation
+lavender = modulator, not base
+
+## ✦ When This Tea Starts Working
+immediate: warmth + grounding
+15–30 min: nervous system shift
+after consistent use: baseline anxiety lowers
+
+## ✦ Why Warm Infusions Calm the Body (Folk Perspective)
+
+warmth = signal of safety
+bitter/aromatic herbs = regulate digestion + nerves
+
 ---
 
 ## ✦ Why Most Herbal Anxiety Teas Don’t Work
@@ -110,6 +128,11 @@ Herbal remedies for anxiety work best when they are:
 - simple  
 - consistent  
 - matched to how anxiety actually shows up  
+
+## ✦ Why This Tea Sometimes Doesn’t Work
+too weak (big one)
+inconsistent use
+expecting instant sedation
 
 ---
 
