@@ -168,7 +168,7 @@ Sometimes it’s:
 
 One tea won’t cover all of that.
 
-If your anxiety is tied to something deeper: grief, emotional weight, or lingering tension, this approach may not be enough on its own... See: 
+If your anxiety is tied to something deeper: grief, emotional weight, or lingering tension, this approach may not be enough on its own, see: 
 
 **[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**
 
