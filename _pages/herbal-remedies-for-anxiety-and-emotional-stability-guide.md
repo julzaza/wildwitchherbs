@@ -51,8 +51,6 @@ Something you can return to when your system is already overwhelmed.
 Knowing which herbs are calming is one thing.  
 Using them correctly when anxiety is already present is another.
 
-This guide focuses on simple, effective **herbal blends for anxiety**, built as practical tea recipes you can return to when your system is overwhelmed.
-
 ---
 
 ## Herbal Remedies for Anxiety: What You’ll Actually Get 
