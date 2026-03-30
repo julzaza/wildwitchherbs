@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Simple Anxiety Tea Blend (Real Effects & How to Use It)"
+title: "Simple Anxiety Tea Blend (Core Formula & How to Use It)"
 
 categories:
   - natural-healing
