@@ -91,37 +91,37 @@ You learn which one matches your state and return to it when it matters.
 
 ---
 
-## Sample Recipe for Heavy Heart
+## Sample Recipe for a Heavy Heart
 
 **Ingredients**
 
-Rose petals – 1 tbsp
-Lemon balm – 1 tbsp
-St. John’s Wort – 1 tsp
+- 1 tbsp rose petals  
+- 1 tbsp lemon balm  
+- 1 tsp St. John’s Wort  
 
 **Preparation**
-Pour boiling water over the herbs. Steep covered, for about 10 minutes.
 
-**When to use**
+Pour boiling water over the herbs.  
+Cover and steep for about 10 minutes.  
 
-Best taken in the afternoon or early evening.
+**When to Use**
 
-**What it does**
+Best taken in the afternoon or early evening, especially during periods of emotional heaviness or low mood.
 
-This blend softens emotional intensity.
+**What It Does**
+
+This blend softens emotional intensity.  
 It creates space around what you’re feeling without numbing it.
 
-**Why this works**
+**Why This Works**
 
-Rose → emotional softening
-
-Lemon balm → stabilizes mood
-
-St. John’s Wort → traditional herb for low mood
+- **Rose** → emotional softening and heart support  
+- **Lemon balm** → stabilizes mood and reduces tension  
+- **St. John’s Wort** → traditionally used for low mood and emotional resilience
 
 ---
 
-## Who This Is For 
+## Who This Guide Is For 
 
 This is for you if:
 
