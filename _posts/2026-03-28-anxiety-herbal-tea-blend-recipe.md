@@ -45,6 +45,8 @@ If you want a more structured approach, with specific **herbal blends for anxiet
 
 **[Herbal Blends for Anxiety & Emotional Stability](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
 
+This guide focuses on a small number of herbs that work reliably together, rather than overwhelming you with too many options.
+
 ---
 
 ## ✦ A Simple Anxiety Tea Recipe
@@ -82,6 +84,8 @@ This combination works by gently regulating the nervous system:
 It doesn’t knock you out.
 
 It takes the edge off—so your system can settle naturally.
+
+If you want a deeper understanding of how different herbs affect anxiety and the nervous system, start here: **[Best Herbs for Anxiety and Strees](/herbs-for-anxiety-and-stress/)**.
 
 ---
 
@@ -150,11 +154,9 @@ Sometimes it’s:
 
 One tea won’t cover all of that.
 
-Discover customized herbal remedies to target your specific type of anxiety right here:
+If your anxiety is tied to something deeper: grief, emotional weight, or lingering tension, this approach may not be enough on its own... See: 
 
-**[Herbal Remedies for Anxiety: Tea Blend Guide](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
-
-This guide focuses on a small number of herbs that work reliably together, rather than overwhelming you with too many options.
+**[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**
 
 ---
 
