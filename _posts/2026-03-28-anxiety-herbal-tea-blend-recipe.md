@@ -97,7 +97,9 @@ It doesn’t knock you out.
 
 It takes the edge off—so your system can settle naturally.
 
-If you want a deeper understanding of how different herbs affect anxiety and the nervous system, start here: **[Best Herbs for Anxiety and Strees](/herbs-for-anxiety-and-stress/)**.
+If you want a deeper understanding of how different herbs affect anxiety and the nervous system, start here: 
+
+**[Best Herbs for Anxiety and Strees](/herbs-for-anxiety-and-stress/)**.
 
 ---
 
@@ -201,7 +203,7 @@ And stay with what works.
 
 ---
 
-**Important**
+**Important Note**
 
 This herbal tea is for general wellness support and is not a medical treatment. If you are pregnant, nursing, or on medication, consult a qualified professional before using herbal remedies.
 
