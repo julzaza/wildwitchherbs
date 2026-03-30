@@ -12,7 +12,7 @@ tags:
   - herbal blends for anxiety
   - natural anxiety remedy
 
-excerpt: "A simple anxiety tea recipe using calming herbs like lemon balm and chamomile. A grounded, effective way to ease tension and support the nervous system."
+excerpt: "An anxiety core formula tea recipe using calming herbs like lemon balm and chamomile. A grounded, effective way to ease tension and support the nervous system."
 
 description: "Learn a simple anxiety tea recipe that actually works. This herbal blend uses calming plants like lemon balm and chamomile to reduce stress, ease tension, and support the nervous system."
 
