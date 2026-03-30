@@ -79,6 +79,12 @@ A gentle balm for anxious hearts.
 
 **Healing Tip:** Brew as a daily tea for gentle calm. Infuse into oil for self-anointing during emotional spells.
 
+Lemon balm was rarely used alone, but paired with other herbs to regulate the nervous system more deeply.
+
+If you want a set of these blends already structured and matched to different emotional states (sleepless nights, heavy heart, overwhelmed nervous system), you can find them here:
+
+**[Herbal Remedies for Anxiety & Emotional Balance: Tea Blend Guide](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
+
 ---
 
 ## ✦ 2. **St. John’s Wort (_Hypericum perforatum_)**
@@ -381,7 +387,7 @@ If you want something you can return to in the moment—not just read and forget
 
 It includes specific herb combinations for specific anxiety states, ratios, and a grounding practice you can follow this guide:
 
-→ **[Anxiety & Emotional Balance Herbal Tea Recipes](https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety)**
+→ **[Anxiety & Emotional Balance Herbal Tea Recipes Guide](https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety)**
 
 
 Drink the tea. Burn the bundle. Speak to the leaves. Let yourself feel, and let the plants do their quiet, ancient work.
