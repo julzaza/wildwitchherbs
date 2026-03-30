@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Herbal Remedies for Anxiety: Tea Blend Recipes That Work"
+title: "Herbal Remedies for Anxiety: 5 Tea Blend Recipes That Work"
 permalink: /herbal-remedies-for-anxiety-and-emotional-stability-guide/
 
 categories: [natural-healing, herbal-magic]
@@ -172,7 +172,7 @@ Included: a few easy witchy practices you can do while holding the mug.
 
 ---
 
-## Get the Full Guide
+## Get the full 5 + 1 Bonus Tea Recipes Guide (Digital Download)
 
 If you want the full set of blends, already structured so you don’t have to think in the moment, you can access the full guide here:
 
@@ -186,7 +186,7 @@ If you want the full set of blends, already structured so you don’t have to th
        color: #2f3e2f;
        text-decoration: none;
        border-radius: 6px;">
-    Get the Anxiety Tea Ritual Guide
+    Get the Anxiety Herbal Tea Guide
   </a>
 </div>
 
