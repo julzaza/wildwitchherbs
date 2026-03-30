@@ -90,8 +90,11 @@ You don’t use all of them at once.
 You learn which one matches your state and return to it when it matters.
 
 ## How to Choose the Right Blend
+
 racing thoughts → calming + cooling herbs
+
 physical tension → muscle-relaxing herbs
+
 emotional heaviness → heart-supporting herbs
 
 ---
