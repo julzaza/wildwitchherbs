@@ -89,14 +89,6 @@ You don’t use all of them at once.
 
 You learn which one matches your state and return to it when it matters.
 
-## How to Choose the Right Blend
-
-racing thoughts → calming + cooling herbs
-
-physical tension → muscle-relaxing herbs
-
-emotional heaviness → heart-supporting herbs
-
 ---
 
 ## Who This Is For 
@@ -152,7 +144,7 @@ Included: a few easy witchy practices you can do while holding the mug.
 
 ## Get the Full Guide
 
-If you want something structured you can return to, especially in the moments of anxiety, you can access the full guide here:
+If you want the full set of blends, already structured so you don’t have to think in the moment, you can access the full guide here:
 
 <div style="margin: 25px 0;">
   <a href="https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety" 
@@ -179,6 +171,10 @@ This is not a cure. It’s a tool.
 A quiet one. A slow one.  
 
 But one that works with the body instead of against it.
+
+If you want a simple starting point, you can use this basic anxiety tea recipe: 
+
+**[Simple Herbal Blend for Anxiety](/anxiety-herbal-tea-blend-recipe/)**
 
 ---
 
