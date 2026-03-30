@@ -36,11 +36,30 @@ faq:
   - question: "Can anxiety tea be used daily?"
     answer: "Yes, gentle herbs like chamomile and lemon balm are traditionally used daily, while stronger herbs are used as needed."
 ---
-When the body is tight. The breath is shallow. The mind is looping.
 
-You already know what’s happening.  
-You understand the patterns.
-You’ve read the herbs.  
+
+You already know which herbs are “good for anxiety.”  
+You’ve read the lists.
+
+What’s missing is something you can actually use when your system is already overwhelmed.
+
+Something simple. Repeatable. Grounding.
+
+This is where structured herbal blends start to matter.
+
+Not just which herbs to use —  
+but how to combine them, when to use them,  
+and how to return to the same formula enough times  
+that your body begins to recognize it.
+
+This guide focuses on that.
+
+A small set of herbal tea blends, each designed for a specific kind of anxiety, so you’re not guessing in the moment.
+
+
+
+You already know which herbs are “good for anxiety.
+You’ve read the lists.
 
 What’s missing is not knowledge.
 
@@ -50,6 +69,10 @@ Something you can return to when your system is already overwhelmed.
 
 Knowing which herbs are calming is one thing.  
 Using them correctly when anxiety is already present is another.
+
+This guide focuses on that.
+
+It is a small set of herbal tea blends, each designed for a specific kind of anxiety, so you’re not guessing in the moment.
 
 ---
 
