@@ -99,7 +99,7 @@ It takes the edge off—so your system can settle naturally.
 
 If you want a deeper understanding of how different herbs affect anxiety and the nervous system, start here: 
 
-**[Best Herbs for Anxiety and Strees](/herbs-for-anxiety-and-stress/)**.
+**[Best Herbs for Anxiety and Strees](/herbs-for-anxiety-and-stress/)**
 
 ---
 
