@@ -57,6 +57,18 @@ This is one of the most reliable herbal blends for general anxiety:
 - 1 tablespoon **chamomile**  
 - 1 teaspoon **lavender** (optional)
 
+✦ Daytime version (lighter)
+more lemon balm
+less chamomile
+
+✦ Night version (stronger)
+more chamomile
+add optional valerian or passionflower
+
+✦ Emergency version (fast calming)
+stronger steep
+smaller volume
+
 **How to prepare:**
 - Pour 250 ml of boiling water over the herbs  
 - Cover and steep for 10–15 minutes  
