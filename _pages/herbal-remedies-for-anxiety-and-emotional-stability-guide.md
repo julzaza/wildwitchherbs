@@ -110,6 +110,16 @@ This is for you if:
 
 ---
 
+## Why Most Herbal Anxiety Guides Don’t Work
+
+too many herbs
+
+no structure
+
+no consistency
+
+---
+
 ## Why This Works
 
 Most herbal content gives you information without application.
