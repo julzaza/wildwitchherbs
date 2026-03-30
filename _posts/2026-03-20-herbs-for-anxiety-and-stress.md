@@ -162,7 +162,7 @@ Consistency matters more than mixing many herbs.
 
 If you want a simple way to actually *use* these herbs (without overthinking it), we've put together a short tea ritual with exact blends, timing, and a grounding practice to follow:
 
-**[Anxiety & Emotional Stability Herbal Tea Recipes](https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety)**
+**[Anxiety & Emotional Stability Herbal Tea Recipes](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
 
 ---
 
