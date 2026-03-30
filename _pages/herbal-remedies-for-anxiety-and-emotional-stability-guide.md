@@ -68,16 +68,6 @@ Inside the guide:
 - a **faster-acting method** for sudden overwhelm  
 - bonus recipe: an infusion for **long-term nervous system support**
 
-Each blend is built for a specific pattern:
-
-- **restless nights** where the body won’t switch off  
-- **chest tension** and physical anxiety  
-- sudden **spikes that need fast calming**
-- emotional **heaviness and overwhelm**
-- **daytime anxiety** when you still need to function  
-
-Reliable herbs. Used properly. That’s usually enough for most cases of anxiety.
-
 ---
 
 ## The Blends Inside 
@@ -86,12 +76,12 @@ Each recipe is built for a specific kind of anxiety—not just “calm” in gen
 
 You’ll work with:
 
-- **Night Nervous System Tea** 
-- **Tension Release Infusion**  
-- **Emergency Calm Blend** 
-- **Heavy Heart Tea** 
-- **Clear Mind Day Blend** 
-- **Long-Term Support Infusion** 
+- **Night Nervous System Tea** - **restless nights** where the body won’t switch off  
+- **Tension Release Infusion** - **chest tension** and physical anxiety  
+- **Emergency Calm Blend** - sudden **spikes that need fast calming**
+- **Heavy Heart Tea** - emotional **heaviness and overwhelm**
+- **Clear Mind Day Blend** - **daytime anxiety** when you still need to function  
+- Bonus: **Long-Term Support Infusion** 
 
 Each one is straightforward. Focused. And designed to do one job well.
 
