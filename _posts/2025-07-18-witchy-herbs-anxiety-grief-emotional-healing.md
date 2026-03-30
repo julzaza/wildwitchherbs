@@ -379,7 +379,7 @@ Emotional healing in witchcraft is sacred work. It’s slow, rooted, and real. T
 
 If you want something you can return to in the moment—not just read and forget—we’ve gathered a simple, structured tea ritual for calming anxiety and emotional overwhelm.
 
-It includes specific herb combinations for specific anxiety states, ratios, and a grounding practice you can follow:
+It includes specific herb combinations for specific anxiety states, ratios, and a grounding practice you can follow this guide:
 
 → **[Anxiety & Emotional Balance Herbal Tea Recipes](https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety)**
 
@@ -403,7 +403,7 @@ Gentle nervines such as **lemon balm, skullcap, chamomile, and passionflower** a
 **Hawthorn, motherwort, rose, and blue vervain** are used to steady the heart during emotional shock, relationship loss, and prolonged sorrow, while **mugwort** helps process grief through dreams and inner imagery.
 
 **What are the safest calming herbs for beginners?**  
-For those new to herbal work, **chamomile, lemon balm, and lavender** are widely considered gentle, accessible, and suitable for regular use when taken responsibly.
+For those new to herbal work, **chamomile, lemon balm, and lavender** are widely considered gentle, accessible, and suitable for regular use when taken responsibly. Check out this **[Simple Anxiety Tea Blend Recipe](/anxiety-herbal-tea-blend-recipe/)** to get you started. 
 
 **Which herbs support sleep, dreams, and emotional rest?**  
 **Valerian, mugwort, lavender, and passionflower** have long histories in folk magic and herbalism for easing the mind, encouraging rest, and softening nightmares.
@@ -415,7 +415,7 @@ For those new to herbal work, **chamomile, lemon balm, and lavender** are widely
 Plants such as **rhodiola, holy basil (tulsi), fennel, and thyme** are linked to endurance, courage, and steady emotional recovery during prolonged stress or grief.
 
 **What herbs work well together in emotional healing teas?**  
-A classic blend includes **lemon balm, rose, chamomile, and hawthorn**, with **lavender or mugwort** added when dreamwork or deeper emotional integration is needed.
+A classic blend includes **lemon balm, rose, chamomile, and hawthorn**, with **lavender or mugwort** added when dreamwork or deeper emotional integration is needed. Check out **[5 Herbal Blends for Anxiety and Emotional Stability](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)** for more. 
 
 **Are there herbs that should be avoided with antidepressants or medication?**  
 Yes. **St. John’s wort** is known to interact with many medications, including SSRIs. Always research herb–drug interactions and consult a qualified healthcare professional before combining herbs with prescriptions.
