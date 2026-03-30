@@ -101,10 +101,6 @@ You don’t use all of them at once.
 
 You learn which one matches your state and return to it when it matters.
 
-If you already know you want something structured you can follow, the full guide is here:
-
-→ **[Access the Anxiety Tea Ritual Guide](https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety)**
-
 ---
 
 ## Who This Is For 
