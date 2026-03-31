@@ -40,7 +40,7 @@ This is where **flower essences** belong: not as medicine in the modern sense, b
 
 For those needing more than subtle support — herbs that work directly on the nervous system, sleep, and tension — we’ve put together a more grounded approach here:
 
-**[Simple Herbal Tea Recipes for Anxiety and Emotional Balance](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
+- **[Simple Herbal Tea Recipes for Anxiety and Emotional Balance](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
 
 ---
 
@@ -97,7 +97,7 @@ Each flower addresses a specific trauma response observed repeatedly in people u
 For terror, panic, and freeze responses.  
 Used when fear overwhelms the nervous system.
 
-### Impatiens (*Impatiens glandulifera*)
+### Impatiens (*Impatiens spp.*)
 For agitation, inner tension, and emotional overload.  
 Supports those who feel internally frantic or rushed.
 
