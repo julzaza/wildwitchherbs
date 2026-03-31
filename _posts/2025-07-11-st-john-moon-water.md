@@ -31,6 +31,8 @@ faq:
 
 Though known for its bright, sunny energy, **St. John’s Wort also carries a shadow magic**—a calming balm for the spirit, a boundary between worlds, and a guardian during emotional storms. When steeped in moonlight, this powerful herb helps us **mourn, release, and reconnect**.
 
+In fact, it is one of the 3 herbs in our Heavy Heart Herbal Blend featured in **[5 Ultimate Tea Recipes for Anxiety and Emotional Balance](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**.
+
 In **folk medicine**, St. John's Wort was used not only to lift spirits, but to **protect the soul from wandering or breaking apart** in times of sorrow. It was burned to drive away spirits of madness and grief. Hung over sickbeds or graves, it was believed to safeguard the soul’s journey between the worlds.
 
 ---
@@ -85,12 +87,12 @@ Its yellow flowers were thought to bleed red when crushed—symbolizing **wounds
 
 **Grieving is a process and it takes time. Take your time and use this moon water to light a lantern through sorrow and loss, not to banish it—but to walk with it, gently.**
 
-Check out [Witchy Herbs for Anxiety, Grief and Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/) to learn about more traditional remedies for the soul. 
+Check out **[Witchy Herbs for Anxiety, Grief and Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)** to learn about more traditional remedies for the soul. 
 
 ---
 
 ## Related Posts
 
-- [How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)
-- [St. John's Wort Sun Water for Joy and Light](/st-johns-wort-sun-water/)
-- [Stinging Nettle Moon Water to Cut Ties and Attachments](/stinging-nettle-moon-water/)
+- **[How To Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)**
+- **[St. John's Wort Sun Water for Joy and Light](/st-johns-wort-sun-water/)**
+- **[Stinging Nettle Moon Water to Cut Ties and Attachments](/stinging-nettle-moon-water/)**
