@@ -128,8 +128,7 @@ This is why emotional healing deserves its own space, not an afterthought inside
 
 If you want to explore the plant allies used specifically for emotional balance, see  
 
-- **[Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**
-- **[Guide: 5 Herbal Tea Blends for Anxiety](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
+**[Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**
 
 ---
 
@@ -185,7 +184,8 @@ No. Herbal medicine works through plant chemistry, while flower essences work on
 It is traditionally used for acute emotional distress, shock, and overwhelming situations.
 
 **Q: Did people historically use flowers for emotional healing?**  
-Yes. Flowers were widely used in folk traditions to support grief, shock, and emotional imbalance.
+Yes. Flowers were widely used in folk traditions to support grief, shock, and emotional imbalance. In fact, Rose has long been used in grief and heart-centered remedies across traditions. If you want practical recipes using these kinds of herbs, see:
+**[Simple Herbal Tea Recipes for Anxiety and Emotional Balance](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
 
 **Q: Can flower essences replace therapy or medical care?**  
 No. They are a complementary folk practice, not a substitute for professional care.
