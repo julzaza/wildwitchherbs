@@ -160,7 +160,7 @@ Its essence reflects this: **soothing emotional reactivity and softening tension
 
 Chamomile and Lavender, these gentle nervines were rarely used alone, but **combined into calming blends** for the nervous system. Just like in this core herbal blend for emotional balance:
 
-- **[Simple Anxiety and Stress Tea Blend](/anxiety-herbal-tea-blend-recipe//herbs-for-anxiety-and-stress/)**
+- **[Simple Anxiety and Stress Tea Blend](/herbs-for-anxiety-and-stress/)**
 
 
 ### Yarrow (Achillea millefolium)
