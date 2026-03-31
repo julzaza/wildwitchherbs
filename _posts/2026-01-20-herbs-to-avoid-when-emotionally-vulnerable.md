@@ -1,9 +1,10 @@
 ---
 layout: single
-title: "Herbs to Avoid When Emotionally Vulnerable: Folk Warnings & Witchcraft Lore"
+title: "Herbs to Avoid When Emotionally Vulnerable: Folk Warnings & Lore"
 
 excerpt: "Not all healing herbs are meant for times of grief, shock, or emotional upheaval. In folk magic and traditional herbalism, certain plants were delayed until the spirit had settled."
 description: "A folklore-based guide to herbs traditionally avoided during grief, shock, and emotional vulnerability. Learn why certain plants were delayed in old herbal systems, according to humoral theory, folk magic, and ancestral practice."
+
 categories:
   - folklore-ancestral
   - natural-healing
@@ -22,7 +23,7 @@ In traditional herbalism and folk magic, **healing was not rushed**.
 
 Grief, fright, heartbreak, and emotional collapse were understood as moments when the **soul was unsettled, the heart weakened, and the spirit partially unguarded**. During such times, healers did not always reach for the strongest medicine. Instead, they often **withheld certain herbs** until balance returned.
 
-This was not fear—it was wisdom.
+This was not fear - it was wisdom.
 
 What follows is not a list of forbidden plants, but a record of **plants traditionally delayed** during emotional vulnerability, according to **European folk practice, humoral theory, and witchcraft lore**.
 
@@ -170,10 +171,3 @@ It sought to **accompany it**.
 Avoidance was not rejection—it was timing. The old wisdom teaches that not every medicine is meant for every moment, and that sometimes the deepest healing comes from **waiting until the soul is ready**.
 
 The plants will still be there.
-
----
-
-### Related Reading
-- [Top Protective Herbs in Witchcraft](/top-protective-herbs-witchcraft/)  
-- [How to Make Moon Water for Witchcraft](/moon-water-magic/)  
-- [How to Use Herbs for Smoke Cleansing](/smoke-cleansing-folk-magic/)  
