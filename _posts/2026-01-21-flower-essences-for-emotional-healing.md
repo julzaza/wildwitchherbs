@@ -44,9 +44,20 @@ For those needing more than subtle support — herbs that work directly on the n
 
 ---
 
-## What Flower Essences Actually Are
+## What Flower Essences Are — And What They Are Not
 
-Flower essences are liquid preparations made by placing fresh flowers in water, traditionally in sunlight, to imprint the plant’s energetic pattern into the water.
+Flower essences are **not herbal medicine**.
+
+They contain no measurable dose of plant chemistry. 
+
+Instead, they are prepared by imprinting the energetic pattern of a flower into water, traditionally using sunlight. 
+
+This places them **closer to folk magic and ritual healing than pharmacology**.
+
+In old village logic, this made sense.
+
+When fear overwhelms the body, you do not force it.  
+You remind it how to breathe.
 
 They are used for:
 
@@ -61,25 +72,12 @@ They do not work through:
 
 - Chemistry
 - Nutrients
-- Pharmacological ction
+- Pharmacological action
 
 In European folk practice, flowers were laid on the chest of the grieving, braided into wreaths for the bereaved, steeped lightly for the shaken, or worn close to the skin. They were never meant to overpower — only to steady.
 
 Roots act on the body.  
 Flowers act on the **moment**.
-
----
-
-## What Flower Essences Are — And What They Are Not
-
-Flower essences are **not herbal medicine**.
-
-They contain no measurable dose of plant chemistry. Instead, they are prepared by imprinting the energetic pattern of a flower into water, traditionally using sunlight. This places them closer to folk magic and ritual healing than pharmacology.
-
-In old village logic, this made sense.
-
-When fear overwhelms the body, you do not force it.  
-You remind it how to breathe.
 
 ---
 
