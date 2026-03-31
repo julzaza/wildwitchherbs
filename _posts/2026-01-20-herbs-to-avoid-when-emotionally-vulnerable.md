@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Herbs to Avoid When Emotionally Vulnerable: Folk Warnings & Witchcraft Lore"
-permalink: /herbs-to-avoid-when-emotionally-vulnerable/
+
 excerpt: "Not all healing herbs are meant for times of grief, shock, or emotional upheaval. In folk magic and traditional herbalism, certain plants were delayed until the spirit had settled."
 description: "A folklore-based guide to herbs traditionally avoided during grief, shock, and emotional vulnerability. Learn why certain plants were delayed in old herbal systems, according to humoral theory, folk magic, and ancestral practice."
 categories:
@@ -67,11 +67,13 @@ St. John’s Wort was understood as a **hot, solar herb**, ruled by fire, light,
 
 Yet folk cautions existed.
 
-In humoral systems, it was advised that those already **inflamed, overstimulated, or excessively stirred in spirit** should delay its use. Adding solar heat to an already heated state was believed to **intensify imbalance rather than restore harmony**.
+In humoral systems, it was advised that those already inflamed, overstimulated, or in the **first shock of grief** should delay its use.
 
-This caution was seasonal and situational—not moral or emotional.
+St. John’s Wort was considered an activating herb and in the immediate aftermath of emotional upheaval, this intensity could overwhelm rather than stabilize.
 
-For traditional preparations, see  
+However, **as grief settled into heaviness**, melancholy, or lingering darkness, it was often reintroduced to restore light, warmth, and emotional movement.
+
+For traditional preparations, see:
 **[St. John’s Wort Sun Water for Joy and Light](/st-johns-wort-sun-water/)**  
 and  
 **[St. John’s Wort Moon Water for Grief and Mourning](/st-johns-wort-moon-water/)**.
@@ -87,9 +89,6 @@ Wormwood was known across Europe and the Balkans as a plant that **purges, banis
 Because of this force, folk healers often delayed wormwood during periods of **deep sorrow or nervous collapse**. Bitters were believed to harden boundaries—but grief was seen as a time for **containment, not cutting**.
 
 Wormwood was more commonly introduced **after mourning**, once stagnation needed clearing.
-
-For historical context, see  
-**[Sweet Wormwood: The Bitter Brew of History](/artemisia-annua-tea-benefits/)**.
 
 ---
 
@@ -128,6 +127,7 @@ In folk logic, you do not open doors when the house is already shaking.
 During emotional vulnerability, folk healers favored:
 - Gentle nervines
 - Heart-soothing plants
+- Flower essences
 - Herbs associated with **containment, warmth, and protection**
 
 These included rose, hawthorn, chamomile, lemon balm, calendula, and holy basil—plants that **held the spirit rather than moved it**.
