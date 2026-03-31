@@ -185,7 +185,7 @@ It is traditionally used for acute emotional distress, shock, and overwhelming s
 
 **Q: Did people historically use flowers for emotional healing?**  
 Yes. Flowers were widely used in folk traditions to support grief, shock, and emotional imbalance. In fact, Rose has long been used in grief and heart-centered remedies across traditions. If you want practical recipes using these kinds of herbs, see:
-**[Simple Herbal Tea Recipes for Anxiety and Emotional Balance](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
+**[Herbal Remedies for Anxiety (Tea Recipes & Blends)](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**.
 
 **Q: Can flower essences replace therapy or medical care?**  
 No. They are a complementary folk practice, not a substitute for professional care.
