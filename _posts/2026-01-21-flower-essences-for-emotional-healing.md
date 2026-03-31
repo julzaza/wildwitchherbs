@@ -157,6 +157,12 @@ Traditionally given to children and the easily overwhelmed. Chamomile was used w
 
 Its essence reflects this: **soothing emotional reactivity and softening tension**.
 
+
+Chamomile and Lavender, these gentle nervines were rarely used alone, but **combined into calming blends** for the nervous system. Just like in this core herbal blend for emotional balance:
+
+- **[Simple Anxiety and Stress Tea Blend](/anxiety-herbal-tea-blend-recipe//herbs-for-anxiety-and-stress/)**
+
+
 ### Yarrow (Achillea millefolium)
 
 For energetic protection and emotional boundaries.
@@ -230,7 +236,7 @@ This is why emotional healing deserves its own space, not an afterthought inside
 
 If you want to explore the plant allies used specifically for emotional balance, see  
 
-**[Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**
+- **[Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**
 
 ---
 
@@ -346,8 +352,7 @@ No. Herbal medicine works through plant chemistry, while flower essences work on
 It is traditionally used for acute emotional distress, shock, and overwhelming situations.
 
 **Q: Did people historically use flowers for emotional healing?**  
-Yes. Flowers were widely used in folk traditions to support grief, shock, and emotional imbalance. In fact, Rose has long been used in grief and heart-centered remedies across traditions. If you want practical recipes using these kinds of herbs, see:
-**[Herbal Remedies for Anxiety (Tea Recipes & Blends)](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**.
+Yes. Flowers were widely used in folk traditions to support grief, shock, and emotional imbalance. In fact, Rose has long been used in grief and heart-centered remedies across traditions.
 
 **Q: Can flower essences replace therapy or medical care?**  
 No. They are a complementary folk practice, not a substitute for professional care.
