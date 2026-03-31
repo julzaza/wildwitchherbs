@@ -208,7 +208,7 @@ Valerian and passionflower can work relatively quickly, especially for acute sym
 
 When anxiety comes from shock or emotional overwhelm rather than ongoing stress, gentler approaches like flower essences can sometimes be more appropriate. 
 
-Explore **[Flower Essences for Emotional Healing](/flower-essences-for-emotional-healing/)**.
+Explore: **[Flower Essences for Emotional Healing](/flower-essences-for-emotional-healing/)**
 
 ### Can I drink calming tea every day?
 
