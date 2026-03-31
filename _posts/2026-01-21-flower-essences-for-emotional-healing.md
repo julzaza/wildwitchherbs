@@ -328,6 +328,15 @@ Yes. Flowers were widely used in folk traditions to support grief, shock, and em
 **Q: Can flower essences replace therapy or medical care?**  
 No. They are a complementary folk practice, not a substitute for professional care.
 
+**Is it herbal medicine?**  
+No. It works on emotional and nervous system levels.
+
+**Can children use it?**  
+Traditionally yes, especially in alcohol-free forms.
+
+**Is this witchcraft or medicine?**  
+It predates both labels.
+
 ---
 
 ## Final Thoughts
