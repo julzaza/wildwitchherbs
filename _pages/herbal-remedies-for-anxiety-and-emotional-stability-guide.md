@@ -207,6 +207,10 @@ If you want a simple starting point, you can use this basic anxiety tea recipe:
 
 **[Simple Herbal Blend for Anxiety](/anxiety-herbal-tea-blend-recipe/)**
 
+To learn more about various calming herbs, see
+
+**[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**
+
 ---
 
 **Do herbal blends for anxiety actually work?**  
