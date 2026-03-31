@@ -3,11 +3,8 @@ layout: single
 title: "Flower Essences for Emotional Shock & Healing"
 description: "A folklore-grounded guide to flower essences as emotional first aid. Explore the Five Flower Remedy, ancestral trauma healing, and how flowers were used for shock, fear, and grief in folk traditions."
 excerpt: "Long before modern therapy, healers turned to flowers for emotional shock, grief, fear, and spiritual collapse. This post explores flower essences as emotional first aid — where folk wisdom and modern practice meet."
-permalink: /flower-essences-emotional-healing/
-author: "Wild Witch Herbs"
-read_time: true
-related: true
-categories: [emotional-healing, herbal-lore]
+
+categories: [natural-healing, herbal-magic]
 tags:
   - flower essences
   - emotional healing herbs
@@ -29,26 +26,6 @@ faq:
   - question: "Can flower essences replace medical or psychological care?"
     answer: "No. Flower essences are a supportive folk practice and should not replace professional medical or psychological treatment."
 
-schema:
-  "@context": "https://schema.org"
-  "@type": "Article"
-  headline: "Flower Essences for Emotional Shock & Healing"
-  description: "A folklore-based exploration of flower essences as emotional first aid, including the Five Flower Remedy and ancestral healing traditions."
-  author:
-    "@type": "Person"
-    name: "Julia Molton"
-  publisher:
-    "@type": "Organization"
-    name: "Wild Witch Herbs"
-  mainEntityOfPage:
-    "@type": "WebPage"
-    "@id": "https://wildwitchherbs.com/flower-essences-emotional-healing/"
-  keywords:
-    - flower essences
-    - emotional first aid
-    - five flower remedy
-    - folk healing
-    - witchcraft herbs
 ---
 
 ## Flower Essences as Emotional First Aid
