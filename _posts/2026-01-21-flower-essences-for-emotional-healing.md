@@ -44,16 +44,24 @@ For those needing more than subtle support — herbs that work directly on the n
 
 ---
 
-## Flowers Before Pills: A Forgotten Logic
+## What Flower Essences Actually Are
 
-Long before the language of trauma, people knew its signs:
+Flower essences are liquid preparations made by placing fresh flowers in water, traditionally in sunlight, to imprint the plant’s energetic pattern into the water.
 
-- Sudden silence
-- Trembling
-- Night terrors
-- Dissociation
-- Fainting
+They are used for:
+
+- Emotional shock
 - Inconsolable grief
+- Fear
+- Night terrors
+- Nervous system dysregulation
+- Trembling
+
+They do not work through:
+
+- Chemistry
+- Nutrients
+- Pharmacological ction
 
 In European folk practice, flowers were laid on the chest of the grieving, braided into wreaths for the bereaved, steeped lightly for the shaken, or worn close to the skin. They were never meant to overpower — only to steady.
 
