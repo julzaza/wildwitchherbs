@@ -89,6 +89,12 @@ Its yellow flowers were thought to bleed red when crushed—symbolizing **wounds
 
 Check out **[Witchy Herbs for Anxiety, Grief and Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)** to learn about more traditional remedies for the soul. 
 
+These herbs work on the nervous system over time.
+
+But when the reaction is immediate — panic, shock, emotional overwhelm — traditional healers often reached for something else entirely: flowers.
+
+**[Flower Essences for Emotional Shock & Healing](/flower-essences-for-emotional-healing/)**
+
 ---
 
 ## Related Posts
