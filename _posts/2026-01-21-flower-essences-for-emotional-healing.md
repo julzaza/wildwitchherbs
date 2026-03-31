@@ -213,6 +213,24 @@ They **remind it of balance**.
 
 ---
 
+## Traditional Use vs Modern Use 
+
+Historically: 
+- Flowers were placed on the body
+- Added to baths
+- Kept near the chest or heart
+- Used after accidents, childbirth, or loss
+
+Modern practice preserved this logic through: 
+- Liquid drops
+- Sprays
+- Alcohol-free granules
+- Topical creams combined with soothing plants like calendula
+
+The method changed. The purpose did not.
+
+---
+
 ## Warnings & Grounded Wisdom
 
 - Flower essences are **supportive**, not curative
