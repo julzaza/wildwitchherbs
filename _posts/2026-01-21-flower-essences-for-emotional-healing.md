@@ -77,7 +77,7 @@ They do not work through:
 In European folk practice, flowers were laid on the chest of the grieving, braided into wreaths for the bereaved, steeped lightly for the shaken, or worn close to the skin. They were never meant to overpower — only to steady.
 
 This is **not a daily tonic**.  
-It is **triage**.
+It is **emotional triage**.
 
 Roots act on the body.  
 Flowers act on the **moment**.
@@ -316,6 +316,10 @@ In folk logic:
 
 Flowers hold the moment.  
 Herbs rebuild what comes after.
+
+If you need something more grounding than essences, something that works directly on the body while the emotions settle, you can use structured herbal blends designed for specific states:
+
+- **[Herbal Remedies for Anxiety & Emotional Balance: Tea Blend Guide](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
 
 ---
 
