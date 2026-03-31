@@ -117,6 +117,73 @@ Together, these create **emotional stabilization**, not suppression.
 
 ---
 
+## Other Flowers Used for Emotional Healing in Folk Practice
+
+The Five Flower Remedy is only one formulation.
+
+Long before it was named, many of its core ideas existed in simpler forms: single flowers used for specific emotional states, often applied directly to the body or prepared as light infusions.
+
+Some of these same plants later became part of modern flower essence systems, not by coincidence, but because their emotional associations were already well known.
+
+### Rose (Rosa spp.)
+
+For grief, heartbreak, and emotional softening.
+
+Across Europe and the Middle East, rose was used in mourning rituals, funerary rites, and love magic. Petals were placed on the body, steeped into water, or carried to ease sorrow.
+
+In essence work, rose is still used for heart-centered grief and emotional closure.
+
+### Hawthorn (Crataegus spp.)
+
+For deep grief, loss, and heart trauma.
+
+Sacred in Celtic and European traditions, hawthorn was associated with death, thresholds, and the spirit world. It was believed to guard the heart—both physical and emotional.
+
+Modern essence use reflects this: grief that lingers, loss that reshapes identity.
+
+### Lavender (Lavandula spp.)
+
+For nervous agitation, fear, and disturbed sleep.
+
+Used in European folk medicine for hysteria, fright, and restlessness. Lavender was placed under pillows, burned, or infused into baths to calm the mind.
+
+In essence form, it supports nervous system quieting and emotional overstimulation.
+
+### Chamomile (Matricaria chamomilla)
+
+For irritability, emotional sensitivity, and inner unrest.
+
+Traditionally given to children and the easily overwhelmed. Chamomile was used when emotions ran high but words could not express them.
+
+Its essence reflects this: soothing emotional reactivity and softening tension.
+
+### Yarrow (Achillea millefolium)
+
+For energetic protection and emotional boundaries.
+
+Used widely in European folk medicine for wounds, but also carried as a protective herb. Yarrow was believed to shield against outside influence.
+
+In essence form, it is often used for **empathic overwhelm and emotional permeability**.
+
+### Why These Flowers Became Essences
+
+This isn’t random.
+
+These plants were chosen again and again across regions because they:
+
+- Appeared in grief rituals
+- Were used for fear and nervous disturbance
+- Were associated with the heart or spirit
+- Were gentle enough for vulnerable states
+
+Modern flower essence systems didn’t invent this.
+
+They **organized** it.
+
+Not all plants used in modern flower essence systems come directly from folk emotional healing practices. Some were later categorized and assigned emotional patterns, while others—like rose, hawthorn, and lavender—have deep roots in traditional use.
+
+---
+
 ## How Flower Essences Are Made
 
 Traditional preparation follows a simple but specific process:
