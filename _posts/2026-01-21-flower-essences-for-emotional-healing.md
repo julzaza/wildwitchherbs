@@ -38,6 +38,10 @@ Flowers were chosen when the injury lived in the breath, the heart, or the spiri
 
 This is where **flower essences** belong: not as medicine in the modern sense, but as **emotional first aid** — subtle, quiet, and deeply old.
 
+For those needing more than subtle support — herbs that work directly on the nervous system, sleep, and tension — we’ve put together a more grounded approach here:
+
+**[Simple Herbal Tea Recipes for Anxiety and Emotional Balance](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
+
 ---
 
 ## Flowers Before Pills: A Forgotten Logic
