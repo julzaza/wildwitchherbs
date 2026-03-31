@@ -169,6 +169,16 @@ If you want to explore the plant allies used specifically for emotional balance,
 
 ## When Flower Essences Were Used
 
+In traditional healing, force was used carefully. 
+
+Roots could purge. 
+
+Leaves could stimulate. 
+
+Resins could burn and cleanse. 
+
+But **shock required something else**.
+
 Flower-based remedies were chosen when someone was:
 
 - In shock after an accident
@@ -191,7 +201,14 @@ They fade.
 
 This makes them ideal allies for moments of emotional rupture — when something must pass, not be fought.
 
+Flowers were chosen because they: 
+
+- Do not stimulate
+- Do not sedate
+- Do not overwhelm the system
+
 Flower essences do not dominate the body.  
+They signal safety rather than demand change.
 They **remind it of balance**.
 
 ---
