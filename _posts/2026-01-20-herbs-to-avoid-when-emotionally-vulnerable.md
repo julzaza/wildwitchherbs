@@ -106,7 +106,7 @@ For ethical and cultural clarity, read:
 
 **[Smoke Cleansing vs Smudging: What’s the Difference?](/smoke-cleansing-vs-smudging/)**  
 
-**[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)**.
+**[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)**
 
 ---
 
