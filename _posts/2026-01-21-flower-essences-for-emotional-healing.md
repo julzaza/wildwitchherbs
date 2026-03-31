@@ -123,7 +123,7 @@ In traditional systems, healers did not confuse categories.
 This is why emotional healing deserves its own space, not an afterthought inside physical herbalism.
 
 If you want to explore the plant allies used specifically for emotional balance, see  
-[Herbs for Emotional Healing](/herbs-for-emotional-healing).
+**[Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**.
 
 ---
 
