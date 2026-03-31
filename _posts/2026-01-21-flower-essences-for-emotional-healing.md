@@ -131,7 +131,7 @@ For grief, heartbreak, and emotional softening.
 
 Across Europe and the Middle East, rose was used in mourning rituals, funerary rites, and love magic. Petals were placed on the body, steeped into water, or carried to ease sorrow.
 
-In essence work, rose is still used for heart-centered grief and emotional closure.
+In essence work, rose is still used for **heart-centered grief and emotional closure**.
 
 ### Hawthorn (Crataegus spp.)
 
@@ -139,7 +139,7 @@ For deep grief, loss, and heart trauma.
 
 Sacred in Celtic and European traditions, hawthorn was associated with death, thresholds, and the spirit world. It was believed to guard the heart—both physical and emotional.
 
-Modern essence use reflects this: grief that lingers, loss that reshapes identity.
+Modern essence use reflects this: **grief that lingers, loss** that reshapes identity.
 
 ### Lavender (Lavandula spp.)
 
@@ -147,7 +147,7 @@ For nervous agitation, fear, and disturbed sleep.
 
 Used in European folk medicine for hysteria, fright, and restlessness. Lavender was placed under pillows, burned, or infused into baths to calm the mind.
 
-In essence form, it supports nervous system quieting and emotional overstimulation.
+In essence form, it supports nervous system, **quieting and emotional overstimulation**.
 
 ### Chamomile (Matricaria chamomilla)
 
@@ -155,7 +155,7 @@ For irritability, emotional sensitivity, and inner unrest.
 
 Traditionally given to children and the easily overwhelmed. Chamomile was used when emotions ran high but words could not express them.
 
-Its essence reflects this: soothing emotional reactivity and softening tension.
+Its essence reflects this: **soothing emotional reactivity and softening tension**.
 
 ### Yarrow (Achillea millefolium)
 
@@ -212,7 +212,7 @@ The idea of emotional plant support is not new.
 - Garlanded wreaths for mourners
 - Floral waters for hysteria and fainting
 - Blossoms carried during childbirth or funerals
-- Calendula and crab apple applied to skin after shock
+- Calendula and other soothing flowers applied to skin after shock
 
 These were not symbolic gestures.  
 They were practical responses to emotional injury.
@@ -223,7 +223,7 @@ They were practical responses to emotional injury.
 
 In traditional systems, healers did not confuse categories.
 
-- **Yarrow, plantain, comfrey** — for blood, flesh, and bone  
+- **Plantain, comfrey** — for blood, flesh, and bone  
 - **Flowers** — for fear, grief, and the nervous spirit  
 
 This is why emotional healing deserves its own space, not an afterthought inside physical herbalism.
@@ -235,8 +235,6 @@ If you want to explore the plant allies used specifically for emotional balance,
 ---
 
 ## When Flower Essences Were Used
-
-In traditional healing, force was used carefully. 
 
 Roots could purge. 
 
@@ -268,12 +266,6 @@ They fade.
 
 This makes them ideal allies for moments of emotional rupture — when something must pass, not be fought.
 
-Flowers were chosen because they: 
-
-- Do not stimulate
-- Do not sedate
-- Do not overwhelm the system
-
 Flower essences do not dominate the body.  
 They signal safety rather than demand change.
 They **remind it of balance**.
@@ -296,6 +288,34 @@ Modern practice preserved this logic through:
 
 The method changed.  
 The purpose did not.
+
+---
+
+## When to Choose Flower Essences Instead of Herbs
+
+In traditional practice, the choice was not random.
+
+Herbs were used when the body needed to be changed.  
+Flowers were used when the body needed to be steadied.
+
+Choose flower essences when:
+
+- The reaction is immediate (shock, panic, emotional collapse)
+- The person feels disconnected, numb, or overwhelmed
+- Sleep is disturbed by fear rather than physical imbalance
+- The issue feels emotional or spiritual, not physical
+
+Choose herbal medicine when:
+
+- There is long-term anxiety or chronic stress
+- The body shows physical symptoms (digestion, tension, fatigue)
+- Sleep issues are ongoing, not sudden
+- The nervous system needs rebuilding, not just calming
+
+In folk logic:
+
+Flowers hold the moment.  
+Herbs rebuild what comes after.
 
 ---
 
