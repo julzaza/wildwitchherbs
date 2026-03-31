@@ -93,12 +93,13 @@ These herbs work on the nervous system over time.
 
 But when the reaction is immediate — panic, shock, emotional overwhelm — traditional healers often reached for something else entirely: flowers. See:
 
-**[Flower Essences for Emotional Shock & Healing](/flower-essences-for-emotional-healing/)**.
+**[Flower Essences for Emotional Shock & Healing](/flower-essences-for-emotional-healing/)**
 
 In folk practice, not all herbs were used immediately during grief or emotional upheaval, some were traditionally delayed until the spirit had steadied.
 
 More on this here:
-**[Herbs to Avoid When Emotionally Vulnerable](/herbs-to-avoid-when-emotionally-vulnerable/)**.
+
+**[Herbs to Avoid When Emotionally Vulnerable](/herbs-to-avoid-when-emotionally-vulnerable/)**
 
 ---
 
