@@ -394,7 +394,7 @@ Drink the tea. Burn the bundle. Speak to the leaves. Let yourself feel, and let 
 
 ---
 
-## ✦ FAQ: Witchy Herbs for Emotional Healing
+## ✧ FAQ: Witchy Herbs for Emotional Healing
 
 **Which herbs are traditionally used for emotional healing in witchcraft?**  
 Across European folk magic and ancestral herbalism, plants like **lemon balm, rose, hawthorn, mugwort, calendula, skullcap, valerian, chamomile, and St. John’s wort** were relied upon to soothe grief, calm fear, and restore emotional balance.
