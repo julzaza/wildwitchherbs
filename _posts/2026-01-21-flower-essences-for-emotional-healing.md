@@ -44,7 +44,7 @@ For those needing more than subtle support — herbs that work directly on the n
 
 ---
 
-## What Flower Essences Are — And What They Are Not
+## What Flower Essences Are, And What They Are Not
 
 Flower essences are **not herbal medicine**.
 
