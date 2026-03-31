@@ -73,10 +73,13 @@ St. John’s Wort was considered an activating herb and in the immediate afterma
 
 However, **as grief settled into heaviness**, melancholy, or lingering darkness, it was often reintroduced to restore light, warmth, and emotional movement.
 
-For traditional preparations, see:
+For later stages of grief—when sorrow becomes heavy, stagnant, or difficult to move, see:
+
+**[St. John’s Wort Moon Water for Grief and Mourning](/st-johns-wort-moon-water/)**
+
+and
+
 **[St. John’s Wort Sun Water for Joy and Light](/st-johns-wort-sun-water/)**  
-and  
-**[St. John’s Wort Moon Water for Grief and Mourning](/st-johns-wort-moon-water/)**.
 
 ---
 
@@ -94,7 +97,7 @@ Wormwood was more commonly introduced **after mourning**, once stagnation needed
 
 ## ✦ Aggressive Smoke Cleansing
 
-In many European and Balkan traditions, grief was treated as a **sacred interval**.
+In some European and Balkan traditions, grief was treated as a **sacred interval**.
 
 During mourning, the dead were believed to linger close, and the living soul required grounding rather than dispersal. Excessive or aggressive smoke cleansing was sometimes delayed, as it was thought to **scatter the spirit or disturb the dead before proper separation** had occurred.
 
@@ -119,6 +122,28 @@ This included:
 Not because they were evil—but because the **soul was considered too unanchored** to travel safely.
 
 In folk logic, you do not open doors when the house is already shaking.
+
+---
+
+### Timing Matters More Than the Herb
+
+In traditional herbalism, the question was never just what to use, but when.
+
+The same plant could:
+
+harm in one moment
+heal in another
+
+Shock, grief, and emotional upheaval were seen as stages, not a single state.
+
+In the first moment → gentle, holding remedies
+In the later phase → movement, warmth, restoration
+
+This is why some herbs were delayed - not avoided.
+
+In the earliest stages of shock, flowers, not herbs, were often chosen. Flower essences sit at the edge of herbalism and ritual. 
+
+If grief feels too raw for herbal medicine, **[Flower Essences](/flower-essences-for-emotional-healing/)** were traditionally used instead.
 
 ---
 
