@@ -169,7 +169,6 @@ If you’re drawn to working with flowers on an emotional and energetic level, e
 
 **[5 Flower Essences for Emotional Shock & Healing](/flower-essences-for-emotional-healing/)**
 
-
 ---
 
 ## ✦ 8. **Calendula (_Calendula officinalis_)**
