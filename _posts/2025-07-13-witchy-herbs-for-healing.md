@@ -47,7 +47,7 @@ For emotional and grief-related herbal work, see:
 **[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**
 
 For targeted nervous system support and anxiety relief, see:
-**[Best Herbs for Anxiety & Stress](/herbs-for-anxiety-and-stress/)**
+**[Guide: 5 Herbal Remedies for Specific States of Anxiety](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
  
 ---
 
@@ -101,7 +101,7 @@ A gentle herb with long use in digestive and immune support.
 
 **Witch Tip: Brew as a light tea after meals to support digestion and recovery.**
 
-Lemon balm also appears in **[Herbs Witches Used for Grief and Emotional Wounds](/witchy-herbs-anxiety-grief-emotional-healing/)**.
+Lemon balm also appears in **[Herbal Remedies for Anxiety: 5 Tea Blend Recipes That Work](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**, as the base herb for emotional balance. 
 
 ---
 
@@ -279,6 +279,8 @@ A gentle herb used widely for digestion and inflammation.
 
 **Witch Tip: Drink as tea after meals to support digestion or use cooled tea as a skin wash.**
 
+Chamomile is also very calming for the nervous system. It is part of the **[Core Herbal Tea Blend for Anxiety](/anxiety-herbal-tea-blend-recipe/)** and is widely used to manage emotional stress. 
+
 ---
 
 ## ✦ Final Thoughts
@@ -295,7 +297,6 @@ Many of these plants grew in monastery plots and village gardens, forming what w
 
 - Explore **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**
 - Learn how to **[Grow Witchy Herbs Indoors](/witchy-plants-to-grow-indoors/)**
-- Use the **[Ultimate Winter Folk Remedies](/winter-herbal-remedies-cold-prevention/)** for cold prevention
 
 ---
 
