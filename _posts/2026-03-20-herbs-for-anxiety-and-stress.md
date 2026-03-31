@@ -59,7 +59,7 @@ Used historically for nervous tension, digestive anxiety, and low mood.
 **Effect:**
 Calms without sedation. Good for daytime use.
 
-It is actually a base herb in many **[Simple Herbal Tea Blends for Anxiety and Emotional Support](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)** due to its effectiveness in restoring emotional balance. 
+It is actually a base herb in many **[Simple Herbal Tea Blends for Anxiety and Nervous System Support](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)** due to its effectiveness in restoring emotional balance. 
 
 Lemon balm also appears in **[Healing Herbs for the Body](/witchy-herbs-for-healing/)** guide, highlighting its use for digestion, immune support, and general wellness.
 
