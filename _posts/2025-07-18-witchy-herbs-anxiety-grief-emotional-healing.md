@@ -163,6 +163,13 @@ Grief’s oldest companion.
 
 **Healing Tip:** Add dried petals to salt baths or steep into honey for heart-healing teas.
 
+Rose works gently but deeply — not only through teas and baths, but through more subtle forms of plant healing.
+
+If you’re drawn to working with flowers on an emotional and energetic level, explore:
+
+**[5 Flower Essences for Emotional Shock & Healing](/flower-essences-for-emotional-healing/)**
+
+
 ---
 
 ## ✦ 8. **Calendula (_Calendula officinalis_)**
