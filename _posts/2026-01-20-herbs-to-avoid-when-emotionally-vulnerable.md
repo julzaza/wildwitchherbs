@@ -54,8 +54,8 @@ Mugwort was believed to thin the veil. When the mourner had not yet regained ste
 
 It was often reintroduced later—once the spirit had settled.
 
-Learn more about its traditional dream use in  
-**[Mugwort and Dreaming in Folk Magic](/solstice-dreaming-mugwort-wormwood/)**.
+Learn more about its traditional dream use in:
+**[Mugwort and Dreaming in Folk Magic](/solstice-dreaming-mugwort-wormwood/)**
 
 ---
 
@@ -76,8 +76,6 @@ However, **as grief settled into heaviness**, melancholy, or lingering darkness,
 For later stages of grief—when sorrow becomes heavy, stagnant, or difficult to move, see:
 
 **[St. John’s Wort Moon Water for Grief and Mourning](/st-johns-wort-moon-water/)**
-
-and
 
 **[St. John’s Wort Sun Water for Joy and Light](/st-johns-wort-sun-water/)**  
 
@@ -103,9 +101,10 @@ During mourning, the dead were believed to linger close, and the living soul req
 
 Instead, gentler practices were used—washing, prayer, quiet herbs, and time.
 
-For ethical and cultural clarity, read  
+For ethical and cultural clarity, read:
+
 **[Smoke Cleansing vs Smudging: What’s the Difference?](/smoke-cleansing-vs-smudging/)**  
-and  
+
 **[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)**.
 
 ---
@@ -157,8 +156,8 @@ During emotional vulnerability, folk healers favored:
 
 These included rose, hawthorn, chamomile, lemon balm, calendula, and holy basil—plants that **held the spirit rather than moved it**.
 
-Many of these are explored in  
-**[Witchy Herbs for Emotional Healing: Anxiety & Grief](/witchy-herbs-anxiety-grief-emotional-healing/)**.
+Many of these are explored in:
+**[Witchy Herbs for Emotional Healing: Anxiety & Grief](/witchy-herbs-anxiety-grief-emotional-healing/)**
 
 ---
 
