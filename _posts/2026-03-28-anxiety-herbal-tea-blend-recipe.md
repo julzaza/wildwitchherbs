@@ -174,6 +174,10 @@ If your anxiety is tied to something deeper: grief, emotional weight, or lingeri
 
 **[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**
 
+When anxiety comes from emotional shock, gentler approaches like flower essences can sometimes be more appropriate:
+
+**[Flower Essences for Emotional Healing](/flower-essences-for-emotional-healing/)**
+
 ---
 
 ## ✦ A Small Ritual That Makes It Work Better
