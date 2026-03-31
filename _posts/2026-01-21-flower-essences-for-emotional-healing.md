@@ -76,6 +76,9 @@ They do not work through:
 
 In European folk practice, flowers were laid on the chest of the grieving, braided into wreaths for the bereaved, steeped lightly for the shaken, or worn close to the skin. They were never meant to overpower — only to steady.
 
+This is **not a daily tonic**.  
+It is **triage**.
+
 Roots act on the body.  
 Flowers act on the **moment**.
 
@@ -85,26 +88,54 @@ Flowers act on the **moment**.
 
 One of the most well-known modern flower essence blends is the **Five Flower Remedy**, sometimes called emotional first aid for moments of crisis.
 
-Though systematized in the 20th century by Dr. Edward Bach, its logic mirrors far older folk instincts.
+In the early 20th century, physician Edward Bach systematized what became known as the Five Flower Remedy.
+But the logic behind it — using flowers for shock, grief, and emotional disturbance — is far older, rooted in European folk practice.
 
-### The Five Flowers and Their Emotional Roles
+## The Five Flowers and Their Roles
 
-**Rock Rose**  
-For terror, panic, and acute fear — the kind that freezes the blood.
+Each flower addresses a specific trauma response observed repeatedly in people under distress.
 
-**Impatiens**  
-For agitation, inner tension, and nervous irritability.
+### Rock Rose (*Helianthemum nummularium*)
+For terror, panic, and freeze responses.  
+Used when fear overwhelms the nervous system.
 
-**Cherry Plum**  
-For fear of losing control, emotional overwhelm, or mental collapse.
+### Impatiens (*Impatiens glandulifera*)
+For agitation, inner tension, and emotional overload.  
+Supports those who feel internally frantic or rushed.
 
-**Clematis**  
-For dissociation, faintness, and feeling disconnected from the body.
+### Cherry Plum (*Prunus cerasifera*)
+For fear of losing control.  
+Traditionally used when emotions feel explosive or uncontainable.
 
-**Star of Bethlehem**  
-For shock, grief, and trauma that lodges in the chest.
+### Clematis (*Clematis vitalba*)
+For dissociation, faintness, and detachment.  
+Chosen when someone feels “not fully present.”
 
-Together, these flowers address the *moment after impact* — when the soul hasn’t fully returned.
+### Star of Bethlehem (*Ornithogalum umbellatum*)
+For shock, grief, and emotional injury.  
+This flower anchors trauma so it can be processed rather than buried.
+
+Together, these create **emotional stabilization**, not suppression.
+
+---
+
+## How Flower Essences Are Made
+
+Traditional preparation follows a simple but specific process:
+
+- Fresh, undamaged flowers are picked at peak bloom
+- They are placed in a bowl of clean water
+- The bowl is left in direct sunlight for several hours
+- The water is then preserved (traditionally with alcohol)
+
+This creates what is called the mother essence, which is later diluted for use.
+
+In folk terms, this was never about extraction.
+
+It was about imprinting.
+
+The flower was not taken into the body.
+Its pattern was invited into the water.
 
 ---
 
