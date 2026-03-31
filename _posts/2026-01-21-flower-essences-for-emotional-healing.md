@@ -91,8 +91,6 @@ One of the most well-known modern flower essence blends is the **Five Flower Rem
 In the early 20th century, physician Edward Bach systematized what became known as the Five Flower Remedy.
 But the logic behind it — using flowers for shock, grief, and emotional disturbance — is far older, rooted in European folk practice.
 
-## The Five Flowers and Their Roles
-
 Each flower addresses a specific trauma response observed repeatedly in people under distress.
 
 ### Rock Rose (*Helianthemum nummularium*)
@@ -128,11 +126,11 @@ Traditional preparation follows a simple but specific process:
 - The bowl is left in direct sunlight for several hours
 - The water is then preserved (traditionally with alcohol)
 
-This creates what is called the mother essence, which is later diluted for use.
+This creates what is called the **mother essence**, which is later diluted for use.
 
 In folk terms, this was never about extraction.
 
-It was about imprinting.
+It was about **imprinting**.
 
 The flower was not taken into the body.
 Its pattern was invited into the water.
