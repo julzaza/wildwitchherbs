@@ -167,7 +167,7 @@ Rose works gently but deeply — not only through teas and baths, but through mo
 
 If you’re drawn to working with flowers on an emotional and energetic level, explore:
 
-**[5 Flower Essences for Emotional Shock & Healing](/flower-essences-for-emotional-healing/)**
+**[Flower Essences for Emotional Shock & Healing](/flower-essences-for-emotional-healing/)**
 
 ---
 
