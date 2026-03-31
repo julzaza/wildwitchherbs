@@ -161,7 +161,7 @@ If you want to explore herbs beneficial for the mind and spirit, see **[Herbs Fo
 
 If you’re dealing with immediate emotional overwhelm — shock, panic, or grief — herbal teas are not always the first line of support.
 
-In traditional practice, flowers were often used as subtle emotional first aid: **[Flower Essences for Emotional Shock & Healing](/flower-essences-emotional-healing/)**.
+In traditional practice, flowers were often used as subtle emotional first aid: **[Flower Essences for Emotional Shock & Healing](/flower-essences-for-emotional-healing/)**.
 
 ---
 
