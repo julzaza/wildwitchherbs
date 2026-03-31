@@ -204,7 +204,11 @@ Lemon balm is one of the most reliable and beginner-friendly herbs for anxiety.
 
 ### What works fast for anxiety?
 
-Valerian and passionflower can work relatively quickly, especially for acute symptoms. When anxiety comes from shock or emotional overwhelm rather than ongoing stress, gentler approaches like flower essences can sometimes be more appropriate. Explore **[Flower Essences for Emotional Healing](/flower-essences-for-emotional-healing/)**.
+Valerian and passionflower can work relatively quickly, especially for acute symptoms. 
+
+When anxiety comes from shock or emotional overwhelm rather than ongoing stress, gentler approaches like flower essences can sometimes be more appropriate. 
+
+Explore **[Flower Essences for Emotional Healing](/flower-essences-for-emotional-healing/)**.
 
 ### Can I drink calming tea every day?
 
