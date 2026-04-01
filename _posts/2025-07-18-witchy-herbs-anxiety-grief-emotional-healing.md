@@ -250,6 +250,11 @@ The dream witch’s herb, for guiding grief into transformation.
 
 **Healing Tip:** Burn small bundles before journaling, or drink as tea before dream rituals. Learn more about **[Mugwort and Dreaming](/solstice-dreaming-mugwort-wormwood/)**.
 
+Mugwort is powerful, but not always gentle. In some traditions, it was set aside during the earliest stages of grief, when the spirit was still unsteady and easily overwhelmed.
+
+You can read more about this timing in:
+**[Herbs to Avoid When Emotionally Vulnerable](/herbs-to-avoid-when-emotionally-vulnerable/)**.
+
 ---
 
 ## ✦ 15. **Fennel (_Foeniculum vulgare_)**
