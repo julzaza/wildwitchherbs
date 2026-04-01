@@ -27,13 +27,25 @@ faq:
     answer: "It protects the soul from wandering or harm, assists in grief work, ancestral connection, and guards against negative spirits or energetic intrusion."
 ---
 
-## Moon Water with St. John's Wort: Gentle Light in Times of Sorrow
+## Gentle Light in Times of Sorrow
 
 Though known for its bright, sunny energy, **St. John’s Wort also carries a shadow magic**—a calming balm for the spirit, a boundary between worlds, and a guardian during emotional storms. When steeped in moonlight, this powerful herb helps us **mourn, release, and reconnect**.
 
 In fact, it is one of the 3 herbs in our Heavy Heart Herbal Blend featured in **[5 Ultimate Tea Recipes for Anxiety and Emotional Balance](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**.
 
 In **folk medicine**, St. John's Wort was used not only to lift spirits, but to **protect the soul from wandering or breaking apart** in times of sorrow. It was burned to drive away spirits of madness and grief. Hung over sickbeds or graves, it was believed to safeguard the soul’s journey between the worlds.
+
+--
+
+## When to Use St. John's Wort Moon Water
+
+However, in folk practice, not all herbs were used immediately during grief or emotional upheaval, some were traditionally delayed until the spirit had steadied, including St. John's Wort. 
+
+It is generally too stimulating for raw grief, when the emotional shock is still fresh. This herb is generally used when sorrow has settled into heaviness or turned into lingering darkness.
+
+More on this here:
+
+**[Herbs to Avoid When Emotionally Vulnerable](/herbs-to-avoid-when-emotionally-vulnerable/)**
 
 ---
 
@@ -91,15 +103,9 @@ Check out **[Witchy Herbs for Anxiety, Grief and Emotional Healing](/witchy-herb
 
 These herbs work on the nervous system over time.
 
-But when the reaction is immediate — panic, shock, emotional overwhelm — traditional healers often reached for something else entirely: flowers. See:
+But when the reaction is immediate — panic, shock, emotional overwhelm - traditional healers often reached for something else entirely: flowers. See:
 
 **[Flower Essences for Emotional Shock & Healing](/flower-essences-for-emotional-healing/)**
-
-In folk practice, not all herbs were used immediately during grief or emotional upheaval, some were traditionally delayed until the spirit had steadied.
-
-More on this here:
-
-**[Herbs to Avoid When Emotionally Vulnerable](/herbs-to-avoid-when-emotionally-vulnerable/)**
 
 ---
 
