@@ -35,7 +35,7 @@ In fact, it is one of the 3 herbs in our Heavy Heart Herbal Blend featured in **
 
 In **folk medicine**, St. John's Wort was used not only to lift spirits, but to **protect the soul from wandering or breaking apart** in times of sorrow. It was burned to drive away spirits of madness and grief. Hung over sickbeds or graves, it was believed to safeguard the soul’s journey between the worlds.
 
---
+---
 
 ## When to Use St. John's Wort Moon Water
 
