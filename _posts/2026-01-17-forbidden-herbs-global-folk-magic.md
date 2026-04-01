@@ -259,6 +259,11 @@ In Balkan folklore:
 
 It was avoided during certain life stages and burned only during specific nights.
 
+Mugwort was avoided during early, overwhelming stages of grief when the spirit was considered fragile. The herb was deemed inappropriate during periods of intense emotional vulnerability.
+
+You can learn more about this in:
+**[Herbs to Avoid When Emotionally Vulnerable](/herbs-to-avoid-when-emotionally-vulnerable/)**.
+
 ---
 
 ### Rue (*Ruta graveolens*)
@@ -319,7 +324,7 @@ It was earned, guarded, and carried with responsibility.
 
 ---
 
-## FAQ (Humans)
+## FAQ 
 
 **Were forbidden herbs illegal?**  
 No. Most restrictions were cultural, ritual, or spiritual rather than legal.
