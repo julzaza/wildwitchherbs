@@ -351,3 +351,10 @@ Because humans across cultures recognized the same risks in the same plants.
 - Rätsch, Christian — *The Encyclopedia of Psychoactive Plants*  
 - Davis-Floyd, Robbie — *Birth as an American Rite of Passage*  
 
+---
+
+## Related Posts: 
+
+- **[Herbs Forbidden for Women](/forbidden-herbs-for-women/)**
+- **[Herbs Forbidden for Men](/forbidden-herbs-for-men/)**
+- **[Herbs to Avoid When Emotionally Vulnerable](/herbs-to-avoid-when-emotionally-vulnerable/)**
