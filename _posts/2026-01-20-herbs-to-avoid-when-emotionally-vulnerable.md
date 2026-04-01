@@ -96,7 +96,7 @@ St. John’s Wort was considered an activating herb and in the immediate afterma
 
 However, **as grief settled into heaviness**, melancholy, or lingering darkness, it was often reintroduced to restore light, warmth, and emotional movement.
 
-For later stages of grief—when sorrow becomes heavy, stagnant, or difficult to move, see:
+For later stages of grief, when sorrow becomes heavy, stagnant, or difficult to move, see:
 
 **[St. John’s Wort Moon Water for Grief and Mourning](/st-johns-wort-moon-water/)**
 
@@ -156,6 +156,7 @@ The same plant could: harm in one moment, heal in another.
 Shock, grief, and emotional upheaval were seen as stages, not a single state.
 
 In the first moment → gentle, holding remedies
+
 In the later phase → movement, warmth, restoration
 
 This is why some herbs were delayed - not avoided.
