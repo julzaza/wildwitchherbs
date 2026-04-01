@@ -156,7 +156,6 @@ The same plant could: harm in one moment, heal in another.
 Shock, grief, and emotional upheaval were seen as stages, not a single state.
 
 In the first moment → gentle, holding remedies
-
 In the later phase → movement, warmth, restoration
 
 This is why some herbs were delayed - not avoided.
