@@ -38,6 +38,8 @@ The secret of wormwood lies in its **volatile oils**, particularly **thujone**, 
 
 Historical grimoires repeatedly warn: *wormwood must be used with reverence and restraint*. Traditional practitioners only employed it on **new moons, crossroads nights, or during guided rituals**—never as a daily tonic.
 
+Strong herbs aren’t always the right choice when the spirit is unsettled. Folk practices warn about using wormwood in times of **emotional vulnerability**, so it is not recommended during early stages of grief or emotional shock. Find out more here: **[Herbs to Avoid When Emotionally Vulnerable](/herbs-to-avoid-when-emotionally-vulnerable/)**.
+
 ---
 
 ## Safe Dream Use
