@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Herbs to Avoid When Emotionally Vulnerable: Folk Warnings & Lore"
+title: "Herbs to Avoid When Emotionally Vulnerable: Folk Warnings"
 
 excerpt: "Not all healing herbs are meant for times of grief, shock, or emotional upheaval. In folk magic and traditional herbalism, certain plants were delayed until the spirit had settled."
 description: "A folklore-based guide to herbs traditionally avoided during grief, shock, and emotional vulnerability. Learn why certain plants were delayed in old herbal systems, according to humoral theory, folk magic, and ancestral practice."
