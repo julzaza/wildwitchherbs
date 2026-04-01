@@ -153,12 +153,11 @@ In traditional herbalism, the question was never just what to use, but when.
 
 The same plant could: harm in one moment, heal in another.
 
-Shock, grief, and emotional upheaval were seen as stages, not a single state.
+Shock, grief, and **emotional upheaval were seen as stages, not a single state**.
 
-In the first moment → gentle, holding remedies
-In the later phase → movement, warmth, restoration
+In the first moment → gentle, holding remedies. In the later phase → movement, warmth, restoration.
 
-This is why some herbs were delayed - not avoided.
+This is why some herbs were **delayed - not avoided**.
 
 In the earliest stages of shock, flowers, not herbs, were often chosen. Flower essences sit at the edge of herbalism and ritual. 
 
