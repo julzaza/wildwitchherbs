@@ -300,6 +300,13 @@ A banishing herb for lingering heaviness and psychic protection.
 
 Get to know **[Sweet Wormwood - The Bitter Brew](/artemisia-annua-tea-benefits/)** and why it was praised throughout history. 
 
+Sweet wormwood belongs to the wider Artemisia family: plants known for their power to open, cleanse, and shift the unseen. But in traditional practice, that same strength meant they were not always used in moments of raw grief or emotional shock.
+
+Some of its close relatives, like wormwood (_Artemisia absinthium_), were often **delayed until the spirit had steadied**, rather than used in the first wave of sorrow.
+
+If you want to understand why certain powerful herbs were traditionally paused during emotional vulnerability, read:
+**[Herbs to Avoid When Emotionally Vulnerable: Folk Warnings & Lore](/herbs-to-avoid-when-emotionally-vulnerable/)**.
+
 ---
 
 ## ✦ 19. **Comfrey (_Symphytum officinale_)**
