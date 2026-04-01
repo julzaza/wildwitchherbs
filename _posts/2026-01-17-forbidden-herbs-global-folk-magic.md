@@ -60,7 +60,7 @@ Across cultures, certain plants were:
 
 These herbs were believed to **open doors that could not always be closed**.
 
-“Harvesting and preparing herbs at precise lunar phases was critical to maximize their magical effect — this principle is explored in detail in **[Full Moon Rituals And Magic Herbs](/full-moon-rituals/)**.
+Harvesting and preparing herbs at precise lunar phases was critical to maximize their magical effect — this principle is explored in detail in **[Full Moon Rituals And Magic Herbs](/full-moon-rituals/)**.
 
 ---
 
