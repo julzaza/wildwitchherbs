@@ -145,6 +145,12 @@ Not because they were evil—but because the **soul was considered too unanchore
 
 In folk logic, you do not open doors when the house is already shaking.
 
+
+Many of the herbs delayed during emotional vulnerability, like wormwood and other bitter or trance-inducing plants, were also historically classified as powerful, feared, or even “devil’s herbs.”
+
+To understand how these labels emerged in folk tradition, see:
+**[Queen of Herbs, Devil’s Plants & Sacred Powers in Witchcraft](/most-powerful-herbs-witchcraft/)**.
+
 ---
 
 ### Timing Matters More Than the Herb
