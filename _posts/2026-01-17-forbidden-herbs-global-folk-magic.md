@@ -308,7 +308,7 @@ Folk magic understood something modern culture forgets:
 Some plants were protected not to control people —  
 but to protect them.
 
-Some plants soothe, but others were feared, crowned, or avoided entirely depending on their power. Learn more in **[Queen of Herbs, Devil’s Plants & Sacred Powers in Witchcraft](/most-powerful-herbs-witchcraft/)**. 
+Some plants were feared, crowned, or avoided entirely depending on their power. Learn more in **[Queen of Herbs, Devil’s Plants & Sacred Powers in Witchcraft](/most-powerful-herbs-witchcraft/)**. 
 
 ---
 
