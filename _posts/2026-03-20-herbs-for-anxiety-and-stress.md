@@ -180,6 +180,11 @@ What doesn’t:
 - Switching herbs constantly  
 - Expecting instant long-term results  
 
+It’s worth remembering that in traditional herbalism, not every plant was used at every stage of emotional healing. Some herbs were intentionally delayed until the body and spirit were ready.
+
+If you're in a fragile state, this matters more than most guides will tell you:
+**[Herbs to Avoid When Emotionally Vulnerable](/herbs-to-avoid-when-emotionally-vulnerable/)**.
+
 ---
 
 ## When Herbs Are Not Enough
