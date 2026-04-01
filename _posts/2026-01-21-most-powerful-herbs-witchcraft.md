@@ -13,6 +13,34 @@ tags:
   - healing herbs
   - folk magic
   - plant folklore
+
+faq:
+  - question: "What is the queen of all herbs in witchcraft?"
+    answer: "There is no single queen of all herbs globally. In European folk magic, mugwort was often considered the queen, while rue and holy basil held similar status in other traditions based on their protective and spiritual roles."
+
+  - question: "What is considered the most spiritual herb?"
+    answer: "Spiritual herbs are those used to bridge worlds, such as mugwort, frankincense, copal, and cedar. These plants were traditionally used in rituals, prayer, and spirit communication."
+
+  - question: "What is the most powerful healing herb in folklore?"
+    answer: "In folk tradition, powerful healing herbs included yarrow, plantain, calendula, and garlic—plants known for stopping bleeding, preventing infection, and supporting survival."
+
+  - question: "What is the devil’s herb?"
+    answer: "The term 'devil’s herb' comes from Christian influence and was applied to plants like mandrake, belladonna, henbane, and wormwood due to their psychoactive or ritual uses."
+
+  - question: "Which herbs were considered dangerous or negative?"
+    answer: "Plants such as datura, henbane, belladonna, and wormwood were considered dangerous due to their strong effects on the mind and body, especially when used without proper knowledge."
+
+  - question: "Are dangerous herbs evil in witchcraft?"
+    answer: "No. In traditional practice, these herbs were seen as powerful rather than evil. They required knowledge, respect, and correct timing to be used safely."
+
+  - question: "What makes an herb sacred in folklore?"
+    answer: "Sacred herbs were those used across generations in healing, protection, and ritual, often associated with spiritual forces, ancestors, or religious practices."
+
+  - question: "What are the Nine Sacred Herbs?"
+    answer: "The Nine Herbs come from an Old English charm used for protection and healing. Variations exist, but they typically include a mix of medicinal and protective plants used with spoken incantations."
+
+  - question: "Why were some herbs feared in traditional cultures?"
+    answer: "Herbs were feared when they caused strong physical or spiritual effects, such as visions, trance, or toxicity. Fear reflected respect for their power, not superstition alone."
 ---
 
 ## Plants of Power, Fear, and Healing
@@ -111,6 +139,11 @@ These herbs were often planted near graveyards or forbidden spaces, not homes.
 
 They were dangerous not because they were malicious — but because they **opened doors**.
 
+Many of these so-called “dangerous” plants were not forbidden, but **timed carefully**. In traditional herbalism, strong or boundary-opening herbs were often delayed during grief, shock, or emotional instability.
+
+If you want to understand this forgotten layer of plant wisdom, read:
+**[Herbs to Avoid When Emotionally Vulnerable: Folk Warnings & Lore](/herbs-to-avoid-when-emotionally-vulnerable/)**.
+
 ---
 
 ## What Is the Devil’s Herb?
@@ -174,7 +207,7 @@ And no crown is given lightly.
 
 ---
 
-## Herbal Power & Folklore: FAQ (Human)
+## Herbal Power & Folklore: FAQ
 
 **Is there one true queen of all herbs?**  
 No. Each culture crowned its own queen based on survival needs and spiritual belief.
@@ -192,52 +225,3 @@ Its role in ritual, trance, protection, and ancestor work — not modern popular
 No, but many cultures preserved similar multi-herb charms for protection and healing.
 
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the queen of all herbs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "There is no single queen of all herbs. Different cultures crowned different plants such as mugwort, rue, or holy basil based on protection, healing power, and spiritual significance."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the most spiritual herb?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most spiritual herbs are those used for prayer, trance, and spirit contact, such as frankincense, mugwort, cedar, and copal, depending on cultural tradition."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the most powerful healing herb?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In folk medicine, the most powerful healing herbs were practical ones like yarrow, plantain, garlic, and calendula, valued for stopping bleeding, preventing infection, and healing wounds."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Which plants bring negative energy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Plants considered to bring negative energy were usually powerful or disruptive herbs like henbane or belladonna, associated with trance, death, or improper use rather than inherent evil."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the devil's herb?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The devil's herb is a historical label given to plants like wormwood or mandrake by religious authorities because of their association with witchcraft, visions, and folk healing."
-      }
-    }
-  ]
-}
-</script>
