@@ -239,7 +239,7 @@ Remember: just because an herb is sacred to the dead doesn’t mean it should fi
 
 Not all herbs used in ritual were considered equal: some were sacred, others feared, and a few were believed to cross dangerous spiritual thresholds.
 
-Learn how these distinctions were made in:
+Learn how these distinctions were made, see:
 **[Queen of Herbs, Devil’s Plants & Sacred Powers in Witchcraft](/most-powerful-herbs-witchcraft/)**.
 
 ---
