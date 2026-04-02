@@ -201,7 +201,10 @@ Yew, willow, asphodel — and **rosemary when grown for the dead, not the living
 Rosemary itself was not avoided — but its **placement defined its role**.  
 At the front door, it guarded the living.  
 On graves, it belonged to memory and the dead.
-See: **[Why Witches Plant Rosemary by the Door](/why-witches-plant-rosemary-front-door/)**
+
+This dual nature is why rosemary appears both as a protective threshold plant and a funerary herb in folklore.
+
+**[Why Witches Plant Rosemary by the Front Door](/why-witches-plant-rosemary-front-door/)** explores this protective role in depth.
 
 ### 2. Fairy Plants Are Not to Be Owned
 Foxglove, primrose, hawthorn, elder.
