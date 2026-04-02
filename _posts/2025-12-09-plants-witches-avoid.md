@@ -46,7 +46,11 @@ But in Scottish and Northern English lore, planting it on the **wrong side of th
 Rowan belonged to the **front gate, the bright side, the open road**.  
 Anywhere else, it became a beacon for wandering dead.
 
-Many witches avoided planting rowan unless they had studied its directional lore fully. See:
+Many witches avoided planting rowan unless they had studied its directional lore fully. 
+
+In most traditions, rowan was protective — but like all threshold plants, its power depended on correct placement.
+
+See:
 
 **[Rowan Trees by the Front Door](/rowan-trees-front-door-old-world-folklore/)**
 
