@@ -53,9 +53,9 @@ faq:
 
 Some herbs were grown behind monasteries. Some in courtyards with bones. Some tucked behind wooden huts where midwives practiced quietly under church scrutiny. **A witch’s garden is a living piece of culture, resistance, medicine, and magic.**
 
-This post isn’t for collecting “aesthetic” plants. It’s for those who want to grow herbs with memory — plants that held ground through war, exile, colonization, and silence.
+This post isn’t for collecting “aesthetic” plants. It’s for those who want to grow herbs with memory: plants that held ground through war, exile, colonization, and silence.
 
-Some plants were grown specifically for descent into the deeper layers of the self, protection, and working with the darker layers of experience — a tradition explored further in **[Herbs for a Shadow Work Garden](/herbs-shadow-work-garden/)**.
+Some plants were grown specifically for descent into the deeper layers of the self, protection, and working with the darker layers of experience, a tradition explored further in **[Herbs for a Shadow Work Garden](/herbs-shadow-work-garden/)**.
 
 ---
 
@@ -282,6 +282,8 @@ These plants are not random. Folk cultures believed the land offered what was ne
 A real witch’s garden begins with **listening**, not planting.
 
 And our post on **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)** will guide you in planting protection right at your threshold.
+
+For every protective herb, there were others considered too volatile to bring near the home: **[Plants Witches Avoid in the Garden and Threshold](/plants-witches-avoid-folklore/)**.
 
 ---
 
