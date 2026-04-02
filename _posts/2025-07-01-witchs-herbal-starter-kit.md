@@ -78,7 +78,7 @@ Nettle wakes you up. Stings, bleeds, protects. Boiled in Beltane rituals. Used i
 
 > Nettle teaches boundaries. She doesn’t ask — she tells.
 
-Learn **[How To Make Nettle Moon Water For Courage And Cutting Ties](/stinging-nettle-moon-water/)**.
+See: **[How To Make Nettle Moon Water For Courage And Cutting Ties](/stinging-nettle-moon-water/)**.
 
 ---
 
@@ -139,10 +139,10 @@ Burned in temples, steeped in mourning tea, poured into floor washes. In Balkan 
 ## Common Modern Misreadings
 
 - These herbs are not all “safe for everyone” — some are toxic.  
-- Folk practice did not treat all herbs as recreational — most were ceremonial or protective.  
+- Folk practice did not treat all herbs as recreational, most were ceremonial or protective.  
 - Traditional witchcraft often included subtle dreamwork and protective magic, not always overt hallucinogens.
 
-In many traditions, plant gathering followed strict ritual timing — especially around the equinox, when the first plants were treated as threshold medicines rather than common herbs.
+In many traditions, plant gathering followed strict ritual timing, especially around the equinox, when the first plants were treated as threshold medicines rather than common herbs.
 
 Explore **[Spring Equinox Foraging: Folklore of Early Plants](/spring-equinox-foraging-folklore/)** to learn more about seasonal restrictions. 
 
@@ -155,7 +155,11 @@ They’re not decorations. They’re **tools of power** — and **witnesses** to
 
 Start with the ones that call to you. Grow them if you can. Burn their leaves. Drink their roots. Speak their names.
 
-And always — always — show respect.
+And always show respect.
+
+Not all herbs were considered safe for everyday use or domestic spaces. To learn more, see:
+
+**[Plants Witches Avoid in Folk Magic](/plants-witches-avoid-folklore/)**
 
 ---
 
