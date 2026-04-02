@@ -21,11 +21,6 @@ schema:
       
 ---
 
-# TL;DR  
-Witches avoided certain plants not because of physical danger, but because folklore warned they attracted spirits, carried the dead’s breath, marked liminal places, or broke the balance of a home. These taboos reveal how Old European witches understood thresholds, seasons, and the land’s shifting spirits.
-
----
-
 # Plants Witches Avoid: Old European Folklore & Taboos
 
 Not every plant belonged in a witch’s garden.
@@ -39,7 +34,7 @@ This post explores **folkloric plant taboos** found across Old Europe: the plant
 If you want a guide to *what witches do grow*, explore  
 **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**  
 and  
-**[How to Start Your Own Witchy Garden](/how-to-start-your-own-witchy-garden/)**.
+**[How to Start Your Own Witchy Garden](/witch-garden/)**.
 
 ---
 
@@ -50,9 +45,8 @@ But in Scottish and Northern English lore, planting it on the **wrong side of th
 Rowan belonged to the **front gate, the bright side, the open road**.  
 Anywhere else, it became a beacon for wandering dead.
 
-Many witches avoided planting rowan unless they had studied its directional lore fully.
+Many witches avoided planting rowan unless they had studied its directional lore fully. See:
 
-*Related reading:*  
 **[Rowan Trees by the Front Door](/rowan-trees-front-door-old-world-folklore/)**
 
 ---
@@ -200,10 +194,10 @@ A witch who understood the land honored these rules.
 # Folkloric Rules for Avoiding Plants  
 These general rules appear across Old Europe:
 
-### **1. Plants of the Dead Stay With the Dead**  
+### 1. Plants of the Dead Stay With the Dead
 Yew, rosemary grown on graves, willow, asphodel.
 
-### **2. Fairy Plants Are Not to Be Owned**  
+### 2. Fairy Plants Are Not to Be Owned
 Foxglove, primrose, hawthorn, elder.
 
 ### **3. Thorn Plants Belong to Boundaries**  
@@ -245,4 +239,5 @@ A witch’s garden was a conversation with the land.
 And some plants, the old ones, the sharp spirits, the guardians of thresholds and graves, were better left in their own places.
 
 ---
+Witches avoided certain plants not because of physical danger, but because folklore warned they attracted spirits, carried the dead’s breath, marked liminal places, or broke the balance of a home. These taboos reveal how Old European witches understood thresholds, seasons, and the land’s shifting spirits.
 
