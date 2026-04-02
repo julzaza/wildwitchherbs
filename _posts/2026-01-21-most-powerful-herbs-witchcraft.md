@@ -149,11 +149,6 @@ Many of these so-called “dangerous” plants were not forbidden, but **timed c
 If you want to understand this forgotten layer of plant wisdom, read:
 **[Herbs to Avoid When Emotionally Vulnerable: Folk Warnings & Lore](/herbs-to-avoid-when-emotionally-vulnerable/)**.
 
-Some of these plants were **restricted entirely**, used only by specialists or within strict ritual conditions.
-
-For a deeper look at herbs that were considered too dangerous to use casually, see:
-**[Forbidden Herbs in Folklore: Plants Too Dangerous to Use Lightly](/forbidden-herbs-global-folk-magic/)**.
-
 ---
 
 ## What Is the Devil’s Herb?
@@ -175,6 +170,10 @@ In folklore, these herbs were never evil.
 They were **feared because they worked**.
 
 These were not everyday remedies - they belonged to the edges of practice, not the center.
+
+Some plants were not forbidden entirely, but were never welcomed into the home or garden. For more, see:
+
+**[Plants Witches Avoid: Old European Folklore & Taboos](/plants-witches-avoid-folklore/)**
 
 ---
 
@@ -205,6 +204,11 @@ Understanding them helps modern witches:
 - Avoid flattening plant lore
 - Respect dangerous allies
 - Reclaim ancestral knowledge without fantasy
+
+Some of these plants were **restricted entirely**, used only by specialists or within strict ritual conditions.
+
+For a deeper look at herbs that were considered too dangerous to use casually, see:
+**[Forbidden Herbs in Folklore: Plants Too Dangerous to Use Lightly](/forbidden-herbs-global-folk-magic/)**.
 
 ---
 
@@ -271,5 +275,6 @@ And no crown is given lightly.
 - **[Forbidden Herbs in Folklore: Plants Too Dangerous to Use Lightly](/forbidden-herbs-global-folk-magic/)**
 - **[Herbs Forbidden for Women](/forbidden-herbs-for-women/)**
 - **[Herbs Forbidden for Men](/forbidden-herbs-for-men/)**
+- **[Plants Witches Avoid: Old European Folklore & Taboos](/plants-witches-avoid-folklore/)**
 
 
