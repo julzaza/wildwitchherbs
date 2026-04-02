@@ -60,7 +60,9 @@ Across cultures, certain plants were:
 
 These herbs were believed to **open doors that could not always be closed**.
 
-Harvesting and preparing herbs at precise lunar phases was critical to maximize their magical effect — this principle is explored in detail in **[Full Moon Rituals And Magic Herbs](/full-moon-rituals/)**.
+This is not a list of “the most powerful herbs,” but a record of plants that were **restricted, feared, or ritually controlled**—often for reasons that go beyond simple strength.
+
+Harvesting and preparing herbs at precise lunar phases was critical to maximize their magical effect. This principle is explored in detail in **[Full Moon Rituals And Magic Herbs](/full-moon-rituals/)**.
 
 ---
 
