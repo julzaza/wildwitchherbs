@@ -34,7 +34,7 @@ This post explores **folkloric plant taboos** found across Old Europe: the plant
 If you want to know *what witches do grow*, explore:
 
 **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**  
-**[How to Start Your Own Witchy Garden](/witch-garden/)**.
+**[How to Start Your Own Witchy Garden](/witch-garden/)**
 
 ---
 
