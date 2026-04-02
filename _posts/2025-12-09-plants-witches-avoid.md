@@ -1,13 +1,12 @@
 ---
 layout: schema
 title: "Plants Witches Avoid: Old European Folklore & Taboos"
+
 description: "A deep, folklore-rich exploration of plants witches traditionally avoided, from cursed herbs to taboo trees, rooted in Old European witchcraft."
 excerpt: "A story-rich guide to the plants witches feared, avoided, or refused to bring into the home—drawn from Old European folklore, threshold magic, and ancestral superstition."
-categories: [Witchcraft, Folklore, Herbs]
-tags: [Folklore, Witchcraft, Herbs, Taboos]
-toc: true
-toc_label: "On This Page"
-toc_sticky: true
+categories: [witchcraft-ritual, folklore-ancestral]
+tags: [Witchy Plants, Old Europe Herbs, Witchcraft Taboos]
+
 
 # FAQ + SCHEMA
 schema:
@@ -19,6 +18,7 @@ schema:
       answer: "This post discusses folklore only. Taboos were based on spiritual concerns, community superstition, or seasonal beliefs—not medical danger."
     - question: "Do modern witches still follow these plant taboos?"
       answer: "Some do, especially those working with ancestral traditions, threshold rites, or land-based witchcraft. Others simply study them for historical insight."
+      
 ---
 
 # TL;DR  
@@ -32,7 +32,7 @@ Not every plant belonged in a witch’s garden.
 
 Some were too wild.  
 Some belonged to the dead.  
-Some were the property of saints—or devils—and bringing them home meant courting disaster.
+Some were the property of saints, or devils, and bringing them home meant courting disaster.
 
 This post explores **folkloric plant taboos** found across Old Europe: the plants witches respected, feared, or refused to grow, not for medical reasons, but because **their magic was too sharp for domestic soil**.
 
@@ -45,7 +45,7 @@ and
 
 ## Rowan Planted on the Wrong Side of the House  
 Rowan is a powerful protective tree, beloved by witches.  
-But in Scottish and Northern English lore, planting it on the **wrong side of the house**—the west or the “dead wind” direction—invited spirits instead of warding them.
+But in Scottish and Northern English lore, planting it on the **wrong side of the house**: the west or the “dead wind” direction - invited spirits instead of warding them.
 
 Rowan belonged to the **front gate, the bright side, the open road**.  
 Anywhere else, it became a beacon for wandering dead.
@@ -53,12 +53,12 @@ Anywhere else, it became a beacon for wandering dead.
 Many witches avoided planting rowan unless they had studied its directional lore fully.
 
 *Related reading:*  
-**[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**
+**[Rowan Trees by the Front Door](/rowan-trees-front-door-old-world-folklore/)**
 
 ---
 
 ## Elder: Never Cut Without Permission  
-The Elder Mother—Hylde Moer, Holla, Frau Ellhorn—dwells in the elder tree.
+The Elder Mother - Hylde Moer, Holla, Frau Ellhorn - dwells in the elder tree.
 
 To cut it without ritual permission was to:
 
@@ -98,7 +98,7 @@ Old beliefs warned:
 - Never disturb a wild patch unless you’ve made an offering  
 
 Foxglove was a **fairy marker**, indicating places where the veil thins.  
-Only certain witches—those who worked with the Good Folk—dared cultivate it.
+Only certain witches, those who worked with the Good Folk, dared cultivate it.
 
 For others, it was safer to leave untouched.
 
@@ -163,7 +163,7 @@ But in some regions, bringing holly *into the house* before the appointed day (u
 - anger the ancestors  
 
 Witches followed the timing carefully.  
-Holly was powerful—but power mishandled becomes danger.
+Holly was powerful, but power mishandled becomes danger.
 
 ---
 
@@ -177,10 +177,6 @@ Folklore warned:
 - Never use it in spells when it has passed its solar peak  
 
 Out of season, its magic was considered **reversed**, attracting what it once repelled.
-
-If you want seasonal plant magic, explore  
-**[Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)**  
-for timing and growth cycles.
 
 ---
 
@@ -226,7 +222,7 @@ Witches avoided them in specific places—not always in general.
 
 ---
 
-# Folklore-Based Q&A (Human + AI-Friendly)
+# Folklore-Based Q&A
 
 ### **Which plants are considered unlucky to grow near the door?**  
 Blackthorn, foxglove, and willow often carried folklore warnings about attracting the wrong spirits to the threshold.
