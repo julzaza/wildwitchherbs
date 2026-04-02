@@ -33,6 +33,10 @@ If you want to know *what witches do grow*, explore:
 **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**  
 **[How to Start Your Own Witchy Garden](/witch-garden/)**
 
+Witches avoided certain plants not because of physical danger, but because folklore warned they attracted spirits, carried the dead’s breath, marked liminal places, or broke the balance of a home. 
+
+These taboos reveal how Old European witches understood thresholds, seasons, and the land’s shifting spirits.
+
 ---
 
 ## Rowan Planted on the Wrong Side of the House  
@@ -197,16 +201,16 @@ Yew, rosemary grown on graves, willow, asphodel.
 ### 2. Fairy Plants Are Not to Be Owned
 Foxglove, primrose, hawthorn, elder.
 
-### **3. Thorn Plants Belong to Boundaries**  
+### 3. Thorn Plants Belong to Boundaries**  
 Blackthorn, whitethorn, bramble.
 
-### **4. Solar Plants Cannot Be Used Out of Season**  
+### 4. Solar Plants Cannot Be Used Out of Season
 St. John’s wort, mugwort, vervain.
 
-### **5. Water Plants Bring Melancholy Indoors**  
+### 5. Water Plants Bring Melancholy Indoors
 Willow, sedge, bog herbs.
 
-### **6. Trees With Resident Spirits Require Offerings**  
+### 6. Trees With Resident Spirits Require Offerings 
 Elder, rowan, oak.
 
 Witches avoided them in specific places—not always in general.
@@ -215,16 +219,16 @@ Witches avoided them in specific places—not always in general.
 
 # Folklore-Based Q&A
 
-### **Which plants are considered unlucky to grow near the door?**  
+### Which plants are considered unlucky to grow near the door?
 Blackthorn, foxglove, and willow often carried folklore warnings about attracting the wrong spirits to the threshold.
 
-### **Which plants should never be brought indoors?**  
+### Which plants should never be brought indoors?
 Foxglove, holly before the appointed day, and certain funereal yews.
 
-### **Why do witches avoid planting fairy plants?**  
+### Why do witches avoid planting fairy plants?
 Fairy plants were considered “claimed”—to cultivate without permission risked offending the Good Folk.
 
-### **Is this about toxicity?**  
+### Is this about toxicity?
 No. These are **folkloric taboos**, not medical risks.
 
 ---
@@ -236,5 +240,3 @@ A witch’s garden was a conversation with the land.
 And some plants, the old ones, the sharp spirits, the guardians of thresholds and graves, were better left in their own places.
 
 ---
-Witches avoided certain plants not because of physical danger, but because folklore warned they attracted spirits, carried the dead’s breath, marked liminal places, or broke the balance of a home. These taboos reveal how Old European witches understood thresholds, seasons, and the land’s shifting spirits.
-
