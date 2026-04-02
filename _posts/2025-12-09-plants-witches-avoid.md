@@ -31,9 +31,9 @@ Some were the property of saints, or devils, and bringing them home meant courti
 
 This post explores **folkloric plant taboos** found across Old Europe: the plants witches respected, feared, or refused to grow, not for medical reasons, but because **their magic was too sharp for domestic soil**.
 
-If you want a guide to *what witches do grow*, explore  
+If you want to know *what witches do grow*, explore:
+
 **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**  
-and  
 **[How to Start Your Own Witchy Garden](/witch-garden/)**.
 
 ---
