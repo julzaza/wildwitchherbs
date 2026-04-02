@@ -186,7 +186,7 @@ These collections were not recipes, they were **ritual alliances**.
 
 By crushing the leaves, seeds, and roots into a singular compound, the individual spirits of each plant were bound together, creating a unified protective force. 
 
-See **[Nine Herbs Charm](/nine-herbs-charm-anglo-saxon/)** to learn which plants were traditionally used to make it. 
+**[Nine Herbs Charm](/nine-herbs-charm-anglo-saxon/)** explains in detail which plants were traditionally used to make it and it's origins. 
 
 ---
 
