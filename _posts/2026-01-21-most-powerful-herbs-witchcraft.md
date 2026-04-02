@@ -184,7 +184,9 @@ While versions vary, sacred herb groupings across cultures share a pattern:
 
 These collections were not recipes, they were **ritual alliances**.
 
-If you already work with the Nine Herbs Charm, this post serves as its **conceptual companion**, not a replacement.
+By crushing the leaves, seeds, and roots into a singular compound, the individual spirits of each plant were bound together, creating a unified protective force. 
+
+See **[Nine Herbs Charm](/nine-herbs-charm-anglo-saxon/)** to learn which plants were traditionally used to make it. 
 
 ---
 
