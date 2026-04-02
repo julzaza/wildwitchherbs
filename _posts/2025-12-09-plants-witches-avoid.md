@@ -1,5 +1,5 @@
 ---
-layout: schema
+layout: single
 title: "Plants Witches Avoid: Old European Folklore & Taboos"
 
 description: "A deep, folklore-rich exploration of plants witches traditionally avoided, from cursed herbs to taboo trees, rooted in Old European witchcraft."
