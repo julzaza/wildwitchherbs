@@ -260,3 +260,8 @@ A witch’s garden was a conversation with the land.
 And some plants, the old ones, the sharp spirits, the guardians of thresholds and graves, were better left in their own places.
 
 ---
+
+If you want to explore the full spectrum — from protective plants to dangerous ones — these guides expand on the deeper folklore:
+
+- **[Queen of Herbs, Devil’s Plants & Sacred Powers in Witchcraft](/most-powerful-herbs-witchcraft/)**
+- **[Forbidden Herbs in Folklore: Plants Too Dangerous to Use Lightly](/forbidden-herbs-global-folk-magic/)**
