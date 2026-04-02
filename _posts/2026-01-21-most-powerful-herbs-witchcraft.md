@@ -118,7 +118,10 @@ These plants were not gentle luxuries — they were survival medicine.
 
 Healing power was practical, immediate, and often lifesaving.
 
-These listed herbs are included in **[Traditional Folk Healing Herbs for the Body](/witchy-herbs-for-healing/)**.
+Many of these “powerful” plants were valued not for symbolism, but for their reliability in real healing situations.
+
+See how these herbs were used in practical folk medicine:
+**[Traditional Folk Healing Herbs for the Body](/witchy-herbs-for-healing/)**.
 
 ---
 
@@ -171,6 +174,8 @@ Historically accused plants include:
 In folklore, these herbs were never evil.  
 They were **feared because they worked**.
 
+These were not everyday remedies - they belonged to the edges of practice, not the center.
+
 ---
 
 ## The Nine Sacred Herbs in Folk Tradition
@@ -184,7 +189,7 @@ While versions vary, sacred herb groupings across cultures share a pattern:
 
 These collections were not recipes, they were **ritual alliances**.
 
-By crushing the leaves, seeds, and roots into a singular compound, the individual spirits of each plant were bound together, creating a unified protective force. 
+By combining leaves, seeds, and roots into a single preparation, the individual spirits of each plant were bound together, creating a unified protective force. 
 
 **[Nine Herbs Charm](/nine-herbs-charm-anglo-saxon/)** explains in detail which plants were traditionally used to make it, and its origins. 
 
