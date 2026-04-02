@@ -54,9 +54,7 @@ Many witches avoided planting rowan unless they had studied its directional lore
 
 In most traditions, rowan was protective — but like all threshold plants, its power depended on correct placement.
 
-See:
-
-**[Rowan Trees by the Front Door](/rowan-trees-front-door-old-world-folklore/)**
+See: **[Rowan Trees by the Front Door](/rowan-trees-front-door-old-world-folklore/)**.
 
 ---
 
@@ -71,7 +69,7 @@ To cut it without ritual permission was to:
 
 Many witches refused to **plant elder near their doorway**, believing the Elder Mother disliked being used as a threshold guard. Elder belonged in **wild corners**, not civilized paths.
 
-Elder was rarely removed — but often worked with through offerings and spoken permission.
+Elder was rarely removed, but often worked with through offerings and spoken permission.
 
 Witches used it, but never casually.
 
@@ -208,9 +206,9 @@ A witch who understood the land honored these rules.
 These general rules appear across Old Europe:
 
 ### 1. Plants of the Dead Stay With the Dead
-Yew, willow, asphodel — and **rosemary when grown for the dead, not the living**.
+Yew, willow, asphodel, and **rosemary when grown for the dead, not the living**.
 
-Rosemary itself was not avoided — but its **placement defined its role**.  
+Rosemary itself was not avoided, but its **placement defined its role**.  
 At the front door, it guarded the living.  
 On graves, it belonged to memory and the dead.
 
@@ -254,14 +252,14 @@ No. These are **folkloric taboos**, not medical risks.
 ---
 
 # Final Thoughts  
-Avoiding certain plants was not fear—it was respect.
+Avoiding certain plants was not fear, it was respect.
 
 A witch’s garden was a conversation with the land.  
 And some plants, the old ones, the sharp spirits, the guardians of thresholds and graves, were better left in their own places.
 
 ---
 
-If you want to explore the full spectrum — from protective plants to dangerous ones — these guides expand on the deeper folklore:
+If you want to explore the full spectrum, from protective plants to dangerous ones, these guides expand on the deeper folklore:
 
 - **[Queen of Herbs, Devil’s Plants & Sacred Powers in Witchcraft](/most-powerful-herbs-witchcraft/)**
 - **[Forbidden Herbs in Folklore: Plants Too Dangerous to Use Lightly](/forbidden-herbs-global-folk-magic/)**
