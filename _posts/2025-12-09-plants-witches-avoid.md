@@ -20,9 +20,6 @@ schema:
       answer: "Some do, especially those working with ancestral traditions, threshold rites, or land-based witchcraft. Others simply study them for historical insight."
       
 ---
-
-# Plants Witches Avoid: Old European Folklore & Taboos
-
 Not every plant belonged in a witch’s garden.
 
 Some were too wild.  
