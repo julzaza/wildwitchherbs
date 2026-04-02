@@ -52,7 +52,7 @@ Some were crowned queens.
 Some were whispered about as cursed or devil-touched.  
 Others healed not only flesh, but shock, grief, and spiritual fracture.
 
-These titles were never symbolic fluff. They came from lived experience — battlefield wounds, childbirth, famine, plague, trance, and prayer.
+These titles were never symbolic fluff. They came from lived experience: battlefield wounds, childbirth, famine, plague, trance, and prayer.
 
 This guide gathers the most searched questions about powerful herbs and answers them **through documented folklore, historical usage, and traditional belief**, not modern invention.
 
@@ -60,13 +60,13 @@ This guide gathers the most searched questions about powerful herbs and answers 
 
 ## What Is the Queen of All Herbs?
 
-There is no single global answer — and that is the point.
+There is no single global answer and that is the point.
 
 Across traditions, the “queen” was not the prettiest plant, but the one that **endured**, **protected**, and **worked across realms**.
 
-In European folk magic, **mugwort** was most often crowned queen — a protector of travelers, dreamers, and women, used at thresholds, roadsides, and graves.
+In European folk magic, **mugwort** was most often crowned queen: a protector of travelers, dreamers, and women, used at thresholds, roadsides, and graves.
 
-In Mediterranean traditions, **rue** held royal status — guarding homes, breaking hexes, and strengthening the spirit.
+In Mediterranean traditions, **rue** held royal status: guarding homes, breaking hexes, and strengthening the spirit.
 
 In parts of Asia, **holy basil (tulsi)** was revered as sovereign among plants — a living altar grown at the home’s heart.
 
@@ -75,7 +75,7 @@ A queen herb is defined by:
 - Use in both healing and magic
 - Presence at life’s thresholds (birth, death, journey, initiation)
 
-There is no universal crown — only **regional sovereignty**.
+There is no universal crown, only **regional sovereignty**.
 
 ---
 
@@ -94,7 +94,7 @@ Examples found across cultures:
 - **Copal** (Mesoamerica): ancestor offerings, purification  
 - **Cedar** (North America): cleansing, protection, spirit calling  
 
-A “spiritual herb” was not calming — it was **orienting**, aligning the human soul with forces beyond the body.
+A “spiritual herb” was not calming, it was **orienting**, aligning the human soul with forces beyond the body.
 
 ---
 
@@ -139,7 +139,7 @@ Common examples across cultures:
 
 These herbs were often planted near graveyards or forbidden spaces, not homes.
 
-They were dangerous not because they were malicious — but because they **opened doors**.
+They were dangerous not because they were malicious, but because they **opened doors**.
 
 Many of these so-called “dangerous” plants were not forbidden, but **timed carefully**. In traditional herbalism, strong or boundary-opening herbs were often delayed during grief, shock, or emotional instability.
 
@@ -182,7 +182,7 @@ While versions vary, sacred herb groupings across cultures share a pattern:
 - Spoken charms or ritual preparation
 - Use against both physical and unseen harm
 
-These collections were not recipes — they were **ritual alliances**.
+These collections were not recipes, they were **ritual alliances**.
 
 If you already work with the Nine Herbs Charm, this post serves as its **conceptual companion**, not a replacement.
 
@@ -190,7 +190,7 @@ If you already work with the Nine Herbs Charm, this post serves as its **concept
 
 ## Why These Questions Matter
 
-These titles — queen, devil, sacred, spiritual — were not poetic decoration.
+These titles: queen, devil, sacred, spiritual, were not poetic decoration.
 
 They were **warnings, honors, and instructions** passed down orally for survival.
 
