@@ -71,6 +71,11 @@ Balkan witches slept with mugwort under pillows to confront fears and receive an
 It guides. It clarifies.  
 Plant it near paths or behind the garden bench—where its presence is felt but not dominating.
 
+Mugwort was not just a dream herb: it was often considered one of the most powerful plants in folk tradition, sometimes even crowned among the “queen herbs.”
+
+Explore its place among the most revered and feared plants here:
+**[Queen of Herbs, Devil’s Plants & Sacred Powers in Witchcraft](/most-powerful-herbs-witchcraft/)**.
+
 ---
 
 ### **Wormwood — The Herb of Bitter Clarity**  
