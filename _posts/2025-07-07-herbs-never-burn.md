@@ -237,6 +237,11 @@ Many witches assume that if a plant is “used in magic,” it’s safe to burn.
 
 Remember: just because an herb is sacred to the dead doesn’t mean it should fill your lungs.
 
+Not all herbs used in ritual were considered equal: some were sacred, others feared, and a few were believed to cross dangerous spiritual thresholds.
+
+Learn how these distinctions were made in:
+**[Queen of Herbs, Devil’s Plants & Sacred Powers in Witchcraft](/most-powerful-herbs-witchcraft/)**.
+
 ---
 
 ## What Cultures Did Instead of Burning
