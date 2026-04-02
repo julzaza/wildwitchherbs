@@ -3,7 +3,7 @@ layout: single
 title: "Plants Witches Avoid: Old European Folklore & Taboos"
 
 description: "A deep, folklore-rich exploration of plants witches traditionally avoided, from cursed herbs to taboo trees, rooted in Old European witchcraft."
-excerpt: "A story-rich guide to the plants witches feared, avoided, or refused to bring into the home—drawn from Old European folklore, threshold magic, and ancestral superstition."
+excerpt: "A story-rich guide to the plants witches feared, avoided, or refused to bring into the home drawn from Old European folklore, threshold magic, and ancestral superstition."
 categories: [witchcraft-ritual, folklore-ancestral]
 tags: [Witchy Plants, Old Europe Herbs, Witchcraft Taboos]
 
