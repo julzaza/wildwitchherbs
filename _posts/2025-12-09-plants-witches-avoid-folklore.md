@@ -28,6 +28,10 @@ Some were the property of saints, or devils, and bringing them home meant courti
 
 This post explores **folkloric plant taboos** found across Old Europe: the plants witches respected, feared, or refused to grow, not for medical reasons, but because **their magic was too sharp for domestic soil**.
 
+Some plants were feared, some crowned, and others carefully avoided depending on their power.
+
+**[Queen of Herbs, Devil’s Plants & Sacred Powers in Witchcraft](/most-powerful-herbs-witchcraft/)** explores how these roles were defined across cultures.
+
 If you want to know *what witches do grow*, explore:
 
 **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**  
@@ -94,7 +98,7 @@ Foxglove is a plant of the **Good Folk**, and witches avoided interfering with i
 Old beliefs warned:
 
 - Never pick foxglove on a windy day  
-- Never bring it indoors  
+- Never bring it indoors (practices varied depending on local fairy traditions)
 - Never plant it directly at your threshold  
 - Never disturb a wild patch unless you’ve made an offering  
 
@@ -178,6 +182,8 @@ Folklore warned:
 - Never use it in spells when it has passed its solar peak  
 
 Out of season, its magic was considered **reversed**, attracting what it once repelled.
+
+In some traditions, St. John’s wort was still used after Midsummer, but believed to lose or shift its protective strength.
 
 ---
 
