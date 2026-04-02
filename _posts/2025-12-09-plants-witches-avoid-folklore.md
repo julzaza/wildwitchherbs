@@ -67,6 +67,8 @@ To cut it without ritual permission was to:
 
 Many witches refused to **plant elder near their doorway**, believing the Elder Mother disliked being used as a threshold guard. Elder belonged in **wild corners**, not civilized paths.
 
+Elder was rarely removed — but often worked with through offerings and spoken permission.
+
 Witches used it, but never casually.
 
 ---
