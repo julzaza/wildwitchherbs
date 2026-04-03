@@ -234,16 +234,11 @@ Charms like these were often prepared specifically for equinox thresholds, when 
 
 If you want to build your own protection apothecary, consider starting with foundational witches’ plants like those in **[The Witch’s Herbal Starter Kit: 10 Powerful Plants](/herbal-starter-kit/)** — it includes many protectors and teachable allies.
 
-Protective herbs were never used in isolation—many also worked as healers, grief-soothers, and shock remedies, which is why they often appear alongside **[Ancient Plant Magic for Body and Spirit](/witchy-herbs-for-healing/)**, a folklore-rich guide to plants that mend both flesh and feeling.
+Protective herbs were never used in isolation: many also worked as healers, grief-soothers, and shock remedies, which is why they often appear alongside:
 
----
-
-## For More Witchy Herbal Know How:
-
-- learn which **[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)**
-- and how to perform **[Full Moon Rituals With Sacred Herbs ](/full-moon-rituals/)**
-- or dive deeper into **[Protection Magic: Global Witchcraft](/world-magic-for-protection/)**
-
+- **[Ancient Plant Magic for Physical Vitality](/witchy-herbs-for-healing/)**, a folklore-rich guide to plants that aid the body
+- **[Whitchy Herbs for Emotional Health](/witchy-herbs-anxiety-grief-emotional-healing/)**, your guide to plants that support the nervous system
+  
 ---
 
 ## Frequently Asked Questions About Protective Herbs
