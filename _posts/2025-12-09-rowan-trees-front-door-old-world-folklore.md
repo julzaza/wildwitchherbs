@@ -129,13 +129,13 @@ The tree grew into its role, year after year, becoming a living boundary — roo
 
 **When rowan thrived, the household thrived with it.**
 
-Just as rowan guarded the household threshold, larger sacred trees — especially oaks — protected villages and communal land, a role documented in **[The Balkan Oak Tree Cult](/balkan-oak-tree-cult/)**.
+Just as rowan guarded the household threshold, larger sacred trees, especially oaks, protected villages and communal land, a role documented in **[The Balkan Oak Tree Cult](/balkan-oak-tree-cult/)**.
 
 ---
 
 ## The Many Names of Rowan: Quickbeam, Witchwood & Witchwand
 
-Rowan’s protective reputation runs so deep in European folklore that the tree gathered many names — each reflecting a different facet of its power.
+Rowan’s protective reputation runs so deep in European folklore that the tree gathered many names, each reflecting a different facet of its power.
 
 These were not poetic inventions, but living folk titles shaped by dialect, land use, and magical belief.
 
@@ -155,7 +155,7 @@ The name reflects enduring folk observations:
 - It roots in rocky, liminal ground  
 - It appears where other trees fail  
 
-Because of this resilience, rowan became a symbol of concentrated vitality — life held fiercely within wood and root.
+Because of this resilience, rowan became a symbol of concentrated vitality, life held fiercely within wood and root.
 
 In protective folklore, vitality itself was a defense.
 
@@ -167,7 +167,7 @@ This belief appears repeatedly in Highland and Norse planting traditions.
 
 ### Witch Wiggin Tree / Wicken Tree / Witch Wood
 
-Across the British Isles — especially Scotland, Wales, and Northern England — rowan was widely called the **Witch Tree** or **Wicken Tree**.
+Across the British Isles, especially Scotland, Wales, and Northern England — rowan was widely called the **Witch Tree** or **Wicken Tree**.
 
 The terms *wiggin* and *wicken* likely evolved through linguistic blending between:
 
@@ -207,14 +207,14 @@ Red thread bindings and rowan crosses were especially common in Scottish cattle 
 
 Rowan’s protective power extended beyond planting.
 
-Its wood was shaped into ritual tools — especially wands and rods used for:
+Its wood was shaped into ritual tools, especially wands and rods used for:
 
 - Divination  
 - Dowsing for metals or water  
 - Protective circle casting  
 - Healing rites  
 
-Because rowan repelled enchantment, tools made from it were considered magically “clean” — resistant to corruption or hostile influence.
+Because rowan repelled enchantment, tools made from it were considered magically “clean”, resistant to corruption or hostile influence.
 
 In Celtic tradition, rowan was sometimes called the **Wizard’s Tree** (*fid na ndruad* — “wood of the druids”), reinforcing its role as a conduit between practitioner and unseen forces.
 
@@ -224,17 +224,20 @@ Rowan rods appear in both Irish and Scandinavian cunning-craft practices.
 
 ### A Tree That Guards Both Ways
 
-These names reveal not contradiction — but dual function.
+These names reveal not contradiction, but dual function.
 
 Rowan guarded against harmful magic while empowering rightful magic.
 
-It did not reject witchcraft itself.
-
-It rejected malice, intrusion, and imbalance.
+It did not reject witchcraft itself: it rejected malice, intrusion, and imbalance.
 
 It was never merely a barrier.
 
-It was a mediator between worlds — alive, watchful, and fiercely loyal to the land it rooted in.
+It was a sentinel, rooted in the liminal earth, watching the boundary between the household and whatever moved in the dark beyond the gate. 
+
+But rowan did not stand alone. Across Europe and beyond, households developed an entire system of green protection: plants placed not for beauty or harvest, but for the older purpose of holding the line. For more on this, see:
+
+- **[Protective Plants & Boundary Spirits](/protective-plants-boundary-spirits/)**
+- **[Top 11 Protective Herbs in Witchcraft](/top-protective-herbs-witchcraft/)**
 
 ---
 
