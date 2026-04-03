@@ -45,7 +45,10 @@ This post explores **folkloric plant taboos** found across Old Europe: the plant
 
 Some plants were feared, some crowned, and others carefully avoided depending on their power.
 
-**[Queen of Herbs, Devil’s Plants & Sacred Powers in Witchcraft](/most-powerful-herbs-witchcraft/)** explores how these roles were defined across cultures.
+**[Queen of Herbs, Devil’s Plants & Sacred Powers in Witchcraft](/most-powerful-herbs-witchcraft/)** explores how herbs were classified as sacred, dangerous, or spiritually powerful across traditions.
+
+Some plants were not just avoided, but considered too dangerous to handle casually.  
+**[Forbidden Herbs in Folklore: Plants Too Dangerous to Use Lightly](/forbidden-herbs-global-folk-magic/)** explores these high-risk plants across global traditions.
 
 If you want to know *what witches do grow*, explore:
 
