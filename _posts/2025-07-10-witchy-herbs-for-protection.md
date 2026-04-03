@@ -54,6 +54,8 @@ Let's explore how different witchcraft traditions used plants for protection—w
 
 Rather than ranking herbs, this article explores how protection worked across cultures: what people burned, wore, buried, and trusted at the edges of life. For a practical list of the most widely used protective plants, see **[Top 11 Protective Herbs in Witchcraft](/top-protective-herbs-witchcraft/)**.
 
+Many of these traditions were rooted in a deeper belief: that plants didn’t just heal, they guarded thresholds. Explore that idea in **[Protective Boundary Plants & Spirits](/protective-plants-boundary-spirits/)**.
+
 ---
 
 ## 🜂 Slavic Witchcraft
