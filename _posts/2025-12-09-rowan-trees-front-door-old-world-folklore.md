@@ -224,15 +224,13 @@ Rowan rods appear in both Irish and Scandinavian cunning-craft practices.
 
 ### A Tree That Guards Both Ways
 
-These names reveal not contradiction, but dual function.
-
 Rowan guarded against harmful magic while empowering rightful magic.
 
 It did not reject witchcraft itself: it rejected malice, intrusion, and imbalance.
 
 It was never merely a barrier.
 
-It was a sentinel, rooted in the liminal earth, watching the boundary between the household and whatever moved in the dark beyond the gate. 
+It was a sentinel, rooted in the liminal earth, **watching the boundary between the household and whatever moved in the dark** beyond the gate. 
 
 But rowan did not stand alone. Across Europe and beyond, households developed an entire system of green protection: plants placed not for beauty or harvest, but for the older purpose of holding the line. For more on this, see:
 
@@ -243,13 +241,13 @@ But rowan did not stand alone. Across Europe and beyond, households developed an
 
 ## FAQ
 
-### **Is rowan always protective?**
+### Is rowan always protective?**
 Yes—but only in the proper place and season. Direction and intent mattered.
 
-### **Was rowan connected to saints or Christianity?**
+### Was rowan connected to saints or Christianity?
 Yes. Often through syncretism rather than origin. St. Brigid, St. Helen, and St. Michael sometimes absorbed older rowan lore, making it both magical and “holy.”
 
-### **Should modern witches plant rowan by the door?**
+### Should modern witches plant rowan by the door?
 If it suits your land and climate, absolutely. Also, see why **[Witches Use Rosemary to Guard the Front Door](/why-witches-plant-rosemary-front-door/)**, for an alternative threshold protection strategy.
 
 ---
