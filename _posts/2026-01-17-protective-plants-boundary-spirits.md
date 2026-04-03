@@ -301,10 +301,10 @@ Some protective plants can overwhelm sensitive states. See which **[Herbs to Avo
 ## What Modern Wellness Gets Wrong
 
 Modern herbalism often asks:  
-> “What does this herb *do*?”
+“What does this herb *do*?”
 
 Traditional systems asked:  
-> “What does this herb *guard*?”
+“What does this herb *guard*?”
 
 This difference explains why modern hormone advice, fertility panic, and constant stimulation contradict folk logic.
 
