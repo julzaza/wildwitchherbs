@@ -241,7 +241,7 @@ But rowan did not stand alone. Across Europe and beyond, households developed an
 
 ## FAQ
 
-### Is rowan always protective?**
+### Is rowan always protective?
 Yes—but only in the proper place and season. Direction and intent mattered.
 
 ### Was rowan connected to saints or Christianity?
