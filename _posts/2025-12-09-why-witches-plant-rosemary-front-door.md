@@ -106,6 +106,8 @@ These actions were meant to declare:
 
 **“This house stands clean, protected, and awake.”**
 
+See other powerful plant allies: **[Top Protective Herbs in Witchcraft](/top-protective-herbs-witchcraft/)**
+
 ---
 
 # FAQ
