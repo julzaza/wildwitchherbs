@@ -7,18 +7,33 @@ excerpt: "A story-rich guide to the plants witches feared, avoided, or refused t
 categories: [witchcraft-ritual, folklore-ancestral]
 tags: [Witchy Plants, Old Europe Herbs, Witchcraft Taboos]
 
+faq:
+  - question: "Why did witches avoid certain plants?"
+    answer: "In Old European folklore, witches avoided certain plants due to their spiritual associations, not physical danger. Some plants were believed to attract spirits, belong to the dead, disrupt household harmony, or require strict ritual handling."
 
-# FAQ + SCHEMA
-schema:
-  type: Article
-  faq:
-    - question: "Did witches avoid certain plants because they were cursed?"
-      answer: "In Old European folklore, some plants were believed to carry misfortune or attract unwanted spirits, leading witches to avoid them in gardens or homes."
-    - question: "Are taboo plants dangerous?"
-      answer: "This post discusses folklore only. Taboos were based on spiritual concerns, community superstition, or seasonal beliefs—not medical danger."
-    - question: "Do modern witches still follow these plant taboos?"
-      answer: "Some do, especially those working with ancestral traditions, threshold rites, or land-based witchcraft. Others simply study them for historical insight."
-      
+  - question: "Which plants were considered taboo in witchcraft?"
+    answer: "Commonly avoided or restricted plants included yew, blackthorn, foxglove, elder, and willow. These were associated with death, spirits, fairy realms, or powerful boundary magic."
+
+  - question: "Were these plants considered evil?"
+    answer: "No. In traditional folklore, these plants were not evil but powerful. Avoidance reflected respect, timing, and proper placement rather than fear or moral judgment."
+
+  - question: "Can taboo plants be grown safely today?"
+    answer: "Yes, but historically they were placed carefully. Many were grown at boundaries, wild edges, or away from the home rather than avoided entirely."
+
+  - question: "Why is placement important in plant folklore?"
+    answer: "Placement determined how a plant’s energy interacted with the home. A protective plant at the threshold could become disruptive if planted in the wrong location."
+
+  - question: "Are these taboos based on toxicity?"
+    answer: "Not primarily. While some plants are toxic, most taboos were based on spiritual beliefs, seasonal timing, and relationships with unseen forces."
+
+  - question: "Why were fairy plants avoided?"
+    answer: "Plants like foxglove and hawthorn were believed to belong to the Fair Folk. Interfering with them without permission risked misfortune or spiritual disturbance."
+
+  - question: "Is rosemary a forbidden plant in folklore?"
+    answer: "No. Rosemary was widely used as a protective and sacred herb. However, when planted on graves or used in funerary rites, it was associated with the dead rather than the living."
+
+  - question: "Do these plant taboos still matter today?"
+    answer: "Many modern practitioners study these taboos as part of ancestral and land-based traditions, using them as guidance for plant placement and ritual awareness."
 ---
 Not every plant belonged in a witch’s garden.
 
