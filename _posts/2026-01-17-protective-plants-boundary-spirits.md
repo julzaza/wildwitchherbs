@@ -31,11 +31,11 @@ faq:
       
 ---
 
-## The Old Idea Modern Wellness Forgot
+## What Are Protective Boundary Plants?
 
 Before herbs were categorized as *medicinal*, *culinary*, or *magical*, they were understood as **boundary beings**.
 
-Across the world, traditional cultures believed that illness, misfortune, madness, infertility, exhaustion, and even social collapse often entered **through breaches**—not only of the body, but of **space, time, and role**.
+Across the world, traditional cultures believed that illness, misfortune, madness, infertility, exhaustion, and even social collapse often entered **through breaches**, not only of the body, but of **space, time, and role**.
 
 Plants were placed where humans were most vulnerable:
 - at **doorways**
@@ -101,6 +101,8 @@ Plants placed here were never random.
 **Boundary:** Body, doorway, postpartum  
 
 Rue appears across Mediterranean and Balkan traditions as a plant that **offended malignant forces**. It was believed to be too bitter, too sharp, too authoritative for spirits that fed on softness or weakness.
+
+In parts of the Balkans, rue was not described as “protective,” but as a plant that “drives away what should not sit with the living.”
 
 Used as:
 - small bundles worn briefly after childbirth  
@@ -329,6 +331,10 @@ They predate modern categories of witchcraft.
 
 **Were these plants universal?**  
 No—but the logic behind them was.
+
+**Why are many protective herbs bitter or strong-smelling?**
+Because in traditional systems, intensity signaled authority. 
+Bitter, pungent, or thorny plants were believed to repel intrusion and reinforce boundaries rather than nourish or soothe.
 
 ---
 
