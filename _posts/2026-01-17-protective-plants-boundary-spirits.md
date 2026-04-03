@@ -4,6 +4,7 @@ title: "Protective Plants & Boundary Spirits: Folk Herbal Guardians"
 
 excerpt: "Across cultures, certain plants were not medicine, food, or spellcraft—but guardians. From graveyards and doorways to wombs and village borders, these ancestral plants were used to hold the line between worlds."
 description: "A global, folklore-grounded exploration of ancestral plants used to guard boundaries—physical, spiritual, social, and bodily—across European, Balkan, African, Asian, Indigenous American, and Middle Eastern traditions. Focused on real ethnographic belief systems, spirits, and ritual plant use."
+
 categories:
   - herbal-magic
   - witchcraft-ritual
