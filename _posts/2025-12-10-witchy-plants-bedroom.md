@@ -27,9 +27,9 @@ faq:
 *Old European & Mediterranean Night Traditions*
 
 Night was always a threshold hour.  
-Folklore across Europe and the Mediterranean held a quiet terror: that during sleep, the **breathing soul** wandered from the body. The dreamer was open—vulnerable to spirits, envy, nightmares, or wandering dead.
+Folklore across Europe and the Mediterranean held a quiet terror: that during sleep, the **breathing soul** wandered from the body. The dreamer was open, vulnerable to spirits, envy, nightmares, or wandering dead.
 
-And so households developed a second kind of nighttime garden—**the plants kept close to the sleeper**, guarding the mind’s doorway.
+And so households developed a second kind of nighttime garden: **the plants kept close to the sleeper**, guarding the mind’s doorway.
 
 What follows is a **historically accurate**, folklore-based guide to the dream plants witches, midwives, and everyday households relied on.
 
@@ -136,6 +136,15 @@ If you want a structured set of these blends, matched to different emotional sta
 
 ---
 
+## Final Thoughts: The Bedroom as Threshold
+
+The plants we keep near our beds are doing more than scenting the air or calming the mind. In the old understanding, they are standing guard at the most intimate threshold of all: the place where the soul leaves the body each night.
+
+The same logic that placed mugwort above the sleeper also planted rowan at the property line, hung rue over the cradle, and set thorned branches at the grave's edge. These were not separate traditions. They were part of a single, continuous practice: using plants to hold the line between worlds.
+
+Explore this topic deeper, read: **[Protective Plants & Boundary Spirits: Herbal Guardians](/protective-plants-boundary-spirits/)**.
+
+---
 ## Frequently Asked Questions 
 
 ### **Were mugwort and bay actually used for dreamwork in historical folklore?**  
