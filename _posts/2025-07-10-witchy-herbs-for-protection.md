@@ -211,6 +211,10 @@ Want to try something simple and traditional?
 Repeat:
 **“No evil may cross, no harm may stay. Herb and salt guard night and day.”**
 
+These kinds of simple combinations were rarely random.
+
+Traditional protection work followed patterns - specific herbs, timing, and placement depending on the situation.
+
 ---
 
 ## Closing Thoughts
