@@ -138,9 +138,11 @@ If you want a structured set of these blends, matched to different emotional sta
 
 ## Final Thoughts: The Bedroom as Threshold
 
-The plants we keep near our beds are doing more than scenting the air or calming the mind. In the old understanding, they are standing guard at the most intimate threshold of all: the place where the soul leaves the body each night.
+The plants we keep near our beds are doing more than scenting the air or calming the mind. In the old understanding, they are **standing guard** at the most intimate threshold of all: the place where the soul leaves the body each night.
 
-The same logic that placed mugwort above the sleeper also planted rowan at the property line, hung rue over the cradle, and set thorned branches at the grave's edge. These were not separate traditions. They were part of a single, continuous practice: using plants to hold the line between worlds.
+The same logic that placed mugwort above the sleeper, also **[Planted Rowan at the Door](/rowan-trees-front-door-old-world-folklore/)**, hung rue over the cradle, and set thorned branches at the grave's edge. 
+
+These were not separate traditions. They were part of a single, continuous practice: **using plants to hold the line between worlds**.
 
 Explore this topic deeper, read: **[Protective Plants & Boundary Spirits: Herbal Guardians](/protective-plants-boundary-spirits/)**.
 
@@ -154,7 +156,7 @@ Yes. Mugwort appears repeatedly in European folk records as a dream-guard and vi
 No. Most dream-protection plants were used at the household level by mothers, shepherds, midwives, and monks. Witchcraft emerged later as a label applied to older domestic traditions.
 
 ### **Why were dreams considered dangerous or important in old European belief?**  
-Many traditions believed the soul wandered during sleep. This made the dreamer vulnerable to spirits, envy, or intrusion — which is why protection mattered as much as vision.
+Many traditions believed the soul wandered during sleep. This made the dreamer vulnerable to spirits, envy, or intrusion, which is why protection mattered as much as vision.
 
 ### **Were juniper and other evergreens really burned indoors?**  
 Yes, especially in cold regions. Small-scale smoke cleansing with juniper or pine was common after nightmares, illness, or fearful dreams, particularly in winter.
