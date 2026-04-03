@@ -55,7 +55,9 @@ If you want to know *what witches do grow*, explore:
 **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**  
 **[How to Start Your Own Witchy Garden](/witch-garden/)**
 
-Witches avoided certain plants not because of physical danger, but because folklore warned they attracted spirits, carried the dead’s breath, marked liminal places, or broke the balance of a home. 
+Witches avoided certain plants not because of physical danger, but because folklore warned they attracted spirits, carried the dead’s breath, marked liminal places, or disrupted the balance of a home.
+
+These taboos reveal a deeper system of plant knowledge based on placement, timing, and spiritual relationship with the land.
 
 These taboos reveal how Old European witches understood thresholds, seasons, and the land’s shifting spirits.
 
