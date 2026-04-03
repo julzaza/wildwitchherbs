@@ -23,6 +23,8 @@ This custom survived into witchcraft, cunning work, and folk magical traditions 
 
 For more doorway plants, see **[Threshold Plants to Protect Your Home](/witchy-plants-for-front-door/)**.
 
+If you are interested in exploring the broader boundary plant concept, read **[Protective Plants & Boundary Spirits](/protective-plants-boundary-spirits/)**.
+
 ---
 
 ## Rosemary as the Scented Sentinel  
