@@ -223,7 +223,9 @@ Farther north, the **[Rowan Tree by the Door](/rowan-trees-front-door-old-world-
 
 ## Welcome Threshold Protection Into Your Life
 
-The door you walk through each day can become **a gate of magic**, a veil stitched with root and leaf, bloom and thorn. Let it **speak on your behalf**: *“This home is watched, protected, and blessed.”*
+The door you walk through each day can become **a gate of magic**, a veil stitched with root and leaf, bloom and thorn. Let it **speak on your behalf**: *“This home is watched, protected, and blessed.”* 
+
+See: **[Protective Plants & Boundary Spirits: Folk Herbal Guardians](/protective-plants-boundary-spirits/)** for a deeper look at these powerful allies. 
 
 Want to guard your inner space as well? 
 
