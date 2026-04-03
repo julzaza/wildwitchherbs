@@ -50,6 +50,8 @@ They **held the line**.
 
 In traditional herbalism and folk magic, these were known as **protective boundary plants**, used not for healing symptoms, but for guarding thresholds against spiritual and social disruption.
 
+If you’re looking for specific herbs and how they’re used in protection, see **[Top 11 Protective Herbs in Witchcraft](/top-protective-herbs-witchcraft/)**.
+
 ---
 
 ## What Is a Boundary Spirit?
