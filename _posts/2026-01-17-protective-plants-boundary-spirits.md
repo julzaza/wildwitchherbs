@@ -292,6 +292,8 @@ refusal
 
 This is why many traditional protective herbs feel harsh, drying, or overstimulating to modern users seeking emotional softness.
 
+Some protective plants can overwhelm sensitive states. See which **[Herbs to Avoid When Emotionally Vulnerable](/herbs-to-avoid-when-emotionally-vulnerable/)**.
+
 ---
 
 ## What Modern Wellness Gets Wrong
