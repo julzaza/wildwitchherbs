@@ -306,6 +306,8 @@ Traditional systems asked:
 
 This difference explains why modern hormone advice, fertility panic, and constant stimulation contradict folk logic.
 
+Herbs that soothe rather than guard are used to manage emotional balance, see: **[Witchy Herbs for Grief and Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**. 
+
 ---
 
 ## Why These Plants Still Matter
