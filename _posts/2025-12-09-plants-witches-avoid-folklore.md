@@ -218,6 +218,9 @@ Plants had:
 
 A witch who understood the land honored these rules.
 
+In many traditions, certain plants were also avoided during grief, illness, or emotional instability.  
+**[Herbs to Avoid When Emotionally Vulnerable](/herbs-to-avoid-when-emotionally-vulnerable/)** explores this often-overlooked layer of plant lore.
+
 ---
 
 # Folkloric Rules for Avoiding Plants  
