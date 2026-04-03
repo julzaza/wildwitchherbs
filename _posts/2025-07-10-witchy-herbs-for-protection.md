@@ -81,7 +81,7 @@ Learn more about **[Witchy Herbs Used by Vlach Wise Women of the Balkans](/herbs
 
 **Rituals**: “Throwing herbs on coals” was a common household practice for driving out the evil eye or banishing sorrow.
 
-Seasonal cleansing of the home formed another layer of protection — especially during early spring purifications explored in **[Spring Cleaning: Folk Magic](/spring-cleaning-folk-magic/)**. 
+Seasonal cleansing of the home formed another layer of protection, especially during early spring purifications explored in **[Spring Cleaning: Folk Magic](/spring-cleaning-folk-magic/)**. 
 
 ---
 
@@ -95,7 +95,7 @@ Druidic and folk traditions across Ireland, Scotland, and Wales treated protecti
 
 **Rituals**: Crosses made of rowan and red thread were placed above doors and cradles.
 
-Mugwort’s sacred status is also recorded in early Anglo-Saxon charm tradition, most notably in the **[Nine Herbs Charm: Healing Magic](/nine-herbs-charm-anglo-saxon/)** — a ritual text invoking nine protective plants through chant and preparation.
+Mugwort’s sacred status is also recorded in early Anglo-Saxon charm tradition, most notably in the **[Nine Herbs Charm: Healing Magic](/nine-herbs-charm-anglo-saxon/)**, a ritual text invoking nine protective plants through chant and preparation.
  
 ---
 
@@ -213,13 +213,13 @@ Repeat:
 
 ## Closing Thoughts
 
-Protection isn’t paranoia—it’s preparation. These herbs connect us to ancestors who knew how to listen to plants, read the signs, and keep harm at bay. 
+Protection isn’t paranoia - it’s preparation. These herbs connect us to ancestors who knew how to listen to plants, read the signs, and keep harm at bay. 
 
-Seasonal turning points were considered especially vulnerable — particularly the spring equinox, when protective plant rites intensified across cultures, as explored in **[Spring Equinox Protective Rituals](/spring-equinox-global-folklore/)**.
+Seasonal turning points were considered especially vulnerable, particularly the spring equinox, when protective plant rites intensified across cultures, as explored in **[Spring Equinox Protective Rituals](/spring-equinox-global-folklore/)**.
 
 Whether you walk barefoot in the woods or light a candle in a city apartment, these traditions are yours to adapt and carry on.
 
-Let the plants protect you—boldly, softly, completely.
+Let the plants protect you: boldly, softly, completely.
 
 **[Top Witchy Herbs for Healing](/witchy-herbs-for-healing/)** will guide you through plants witches and healers used to cure body, mind and soul. 
 
