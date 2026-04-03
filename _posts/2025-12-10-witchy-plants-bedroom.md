@@ -130,7 +130,7 @@ Lemon balm was rarely used alone.
 
 It was most often combined with other herbs to regulate the nervous system more deeply, a practice still used in herbal blends for emotional balance.
 
-If you want a structured set of these blends, matched to different emotional states (restless nights, heavy heart, nervous system support and more), you can find them here:
+If you want a structured set of **these blends, matched to different emotional states** (restless nights, heavy heart, nervous system support and more), you can find them here:
 
 **[Herbal Remedies for Anxiety: Tea Blend Guide](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
 
