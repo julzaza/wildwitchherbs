@@ -265,6 +265,8 @@ These qualities marked them as **authoritative**, not nurturing.
 
 They did not soothe the system, **they challenged intrusion**.
 
+Some plants were never brought into the home. Find out why **[Witches Avoid Certain Plants](/plants-witches-avoid-folklore/)**.
+
 ---
 
 ## Women, Boundaries, and Invisible Labor
