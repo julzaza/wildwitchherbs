@@ -17,7 +17,7 @@ faq:
 ---
 
 In the warm, wind-swept regions of the Mediterranean, rosemary grew as naturally as superstition.  
-Villagers planted it near doors, gates, and paths for hundreds of years—not just for cooking, but to **guard the home**, **bless the family**, and **test visitors’ intentions**.
+Villagers planted it near doors, gates, and paths for hundreds of years, not just for cooking, but to **guard the home**, **bless the family**, and **test visitors’ intentions**.
 
 This custom survived into witchcraft, cunning work, and folk magical traditions from Italy to the Balkans, Spain to Greece, and into the British Isles through Mediterranean influence.
 
@@ -48,7 +48,7 @@ In both classical and medieval tradition, rosemary is tied to **memory**:
 - remembering one’s purpose  
 - remembering the ancestors  
 
-Doorways were spiritually dangerous places because the dead were believed to wander through them at night. Rosemary helped the living remember themselves—and kept the dead from following them inside.
+Doorways were spiritually dangerous places because the dead were believed to wander through them at night. Rosemary helped the living remember themselves and kept the dead from following them inside.
 
 Its evergreen nature symbolized:
 
@@ -71,7 +71,7 @@ Families planted it:
 
 So that **any ill intention, envy, or malocchio** was broken before entering the house.
 
-Sometimes sprigs were tucked into door wreaths during major festivals—especially the **[Twelve Nights](/twelve-nights-witchcraft/)** and midsummer.
+Sometimes sprigs were tucked into door wreaths during major festivals, especially the **[Twelve Nights](/twelve-nights-witchcraft/)** and midsummer.
 
 ---
 
