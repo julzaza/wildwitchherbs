@@ -126,9 +126,9 @@ Folklore uses:
 
 It appears in monastic manuscripts as a nighttime herb to “settle the minds of novices.”
 
-Lemon balm was rarely used alone.
+**Lemon balm was rarely used alone.**
 
-It was most often combined with other herbs to regulate the nervous system more deeply, a practice still used in herbal blends for emotional balance.
+It was most often **combined with other herbs to regulate the nervous system more deeply**, a practice still used in herbal blends for emotional balance.
 
 If you want a structured set of **these blends, matched to different emotional states** (restless nights, heavy heart, nervous system support and more), you can find them here:
 
