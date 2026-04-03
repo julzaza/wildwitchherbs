@@ -173,7 +173,7 @@ In Jewish, Berber, and Arabic traditions, protection is tied to both prayer and 
 
 ##  Key Protective Herbs Across Traditions
 
-These herbs show up across continents, often with remarkably similar uses:
+Certain plants appear again and again across cultures, not because they were “the strongest,” but because they were trusted.
 
                              
  **Rue:**       Warding off the evil eye, cleansing spaces    
@@ -185,7 +185,7 @@ These herbs show up across continents, often with remarkably similar uses:
  **Angelica:**  Barrier against sickness and ill intent       
  **Anamu:**     Banishing, removing hexes, protection spells  
 
-These herbs appear repeatedly across cultures, often fulfilling similar protective roles.
+These herbs appear repeatedly across continents, often fulfilling similar protective roles.
 
 Learn which **[Herbs Should Never Be Burned in Ritual](/never-burn-herbs/)** to avoid making dangerous mistakes. 
 
