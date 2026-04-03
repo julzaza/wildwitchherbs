@@ -336,7 +336,7 @@ No. They redirected, offended, or blocked.
 They predate modern categories of witchcraft.
 
 **Were these plants universal?**  
-No—but the logic behind them was.
+No, but the logic behind them was.
 
 **Why are many protective herbs bitter or strong-smelling?**
 Because in traditional systems, intensity signaled authority. 
