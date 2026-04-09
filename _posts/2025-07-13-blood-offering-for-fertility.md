@@ -95,12 +95,15 @@ The key is **intention**, not timing. The blood carries meaning because *you giv
 ### Notes on Storing Blood for Rituals
 
 • **Short-term** (1–2 days max):
+
 Keep it in a clean, sealed glass container in the fridge. This slows bacterial growth, but it’s still not something to store for long.
 
 • **Longer-term** (better method):
+
 Let a small amount **dry completely** on clean natural material (like cotton cloth or paper). Once fully dried, it’s much safer and has been used traditionally in things like charm bags, petitions, or burned in ritual.
 
 • **Another traditional workaround**:
+
 Instead of storing the blood itself, you can **link the working to your cycle**. For example, collect it during your period and use that time for intention-setting, then perform the fertility ritual during the appropriate moon phase using a symbolic link (like a written petition, thread, or stone you dedicated during your bleed).
 
 That last method is actually much closer to how older folk practices worked: less about preserving the physical substance, more about carrying the intention forward.
