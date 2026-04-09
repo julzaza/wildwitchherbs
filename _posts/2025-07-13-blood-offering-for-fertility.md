@@ -42,11 +42,11 @@ Fertility magic is one of the oldest forms of witchcraft, pulsing with ancestral
 
 Long before modern medicine or pharmaceutical interventions, women turned to herbs, moon cycles, and blood rites to encourage conception, honor the womb, and commune with the spirit of life itself.
 
-One of the most potent, sacred rituals in this tradition is the act of **offering menstrual blood to the Earth**—a practice observed in cultures across the globe, from ancient Slavs to indigenous tribes and modern-day witches reclaiming body sovereignty.
+One of the most potent, sacred rituals in this tradition is the act of **offering menstrual blood to the Earth**, a practice observed in cultures across the globe, from ancient Slavs to indigenous tribes and modern-day witches reclaiming body sovereignty.
 
 ## ✧ Menstrual Blood as Fertile Offering
 
-In folk magic, menstrual blood is more than just physical—it is **life-force made visible**, a blend of death and potential, rich with symbolic and literal fertility. It has been used:
+In folk magic, menstrual blood is more than just physical, it is **life-force made visible**, a blend of death and potential, rich with symbolic and literal fertility. It has been used:
 
 - To anoint seeds before planting
 - To bless trees and sacred stones
@@ -83,14 +83,27 @@ Learn a full step-by-step guide for returning menstrual blood to the Earth in **
 
 No need to wait.
 
-If your cycle doesn’t align with the New Moon—or if you no longer bleed—you can still perform the ritual meaningfully by:
+If your cycle doesn’t align with the New Moon or if you no longer bleed, you can still perform the ritual meaningfully by:
 
-- **Collecting your blood** during your cycle and storing it until the New Moon
+- **Collecting your blood** during your cycle and storing it until the New Moon (see instructions below)
 - **Using symbolic offerings** like red wine, beet juice, or sacred herbs (e.g., mugwort, yarrow)
 - **Performing an energetic ritual** through visualization, prayer, or song
 - Honoring your **energetic womb space**, even if it no longer bleeds
 
 The key is **intention**, not timing. The blood carries meaning because *you give it meaning*.
+
+### Notes on Storing Blood for Rituals
+
+• Short-term (1–2 days max):
+Keep it in a clean, sealed glass container in the fridge. This slows bacterial growth, but it’s still not something to store for long.
+
+• Longer-term (better method):
+Let a small amount dry completely on clean natural material (like cotton cloth or paper). Once fully dried, it’s much safer and has been used traditionally in things like charm bags, petitions, or burned in ritual.
+
+• Another traditional workaround:
+Instead of storing the blood itself, you can link the working to your cycle. For example, collect it during your period and use that time for intention-setting, then perform the fertility ritual during the appropriate moon phase using a symbolic link (like a written petition, thread, or stone you dedicated during your bleed).
+
+That last method is actually much closer to how older folk practices worked: less about preserving the physical substance, more about carrying the intention forward.
 
 ## ✧ A Simple Blood Offering Fertility Ritual
 
@@ -116,7 +129,7 @@ You’ll need:
 
 ## ✧ Final Thoughts
 
-The ritual of offering menstrual blood to the Earth is not a relic—it’s a remembered way of living in **intimate rhythm with nature**. It speaks to the **sacred ecology** of body and soil, womb and seed.
+The ritual of offering menstrual blood to the Earth is not a relic, it’s a remembered way of living in **intimate rhythm with nature**. It speaks to the **sacred ecology** of body and soil, womb and seed.
 
 Whether your desire is for a child, a creative harvest, or deeper spiritual connection, this practice honors the womb’s wisdom and the ancient magic in your blood.
 
