@@ -183,11 +183,11 @@ Most commercial Palo Santo is illegally logged from living trees, stripped befor
 
 ### A Modern Question: Can You Smoke Ginger?
 
-Ginger (Zingiber officinale) — Global culinary and medicinal root
+**Ginger** *(Zingiber officinale)* — Global culinary and medicinal root
 
 This question comes up more often than you’d think, especially online.
 
-Short answer: **no, you should not smoke ginger**.
+**Short answer: no, you should not smoke ginger.**
 
 Ginger is widely used in traditional medicine across China, India, the Middle East, and Europe, but always as:
 
@@ -201,9 +201,9 @@ There is no historical tradition of smoking ginger in any established herbal or 
 
 When ginger is burned or inhaled as smoke:
 
-- It releases irritant compounds that can inflame the throat and lungs
+- It **releases irritant compounds** that can inflame the throat and lungs
 - The active components (like gingerols) break down under high heat, losing their medicinal value
-- Smoke inhalation may cause coughing, burning sensation, or airway irritation
+- Smoke inhalation **may cause coughing, burning sensation, or airway irritation**
 
 Unlike herbs such as mullein or mugwort, which have documented (though still cautious) use in smoke, ginger is not suited for inhalation in any form.
 
@@ -221,9 +221,9 @@ In fact, most traditional systems treat the lungs as something to protect from s
 
 Across cultures, ginger is considered:
 
-Warming and activating in Traditional Chinese Medicine
-A digestive fire-starter in Ayurveda
-A circulatory stimulant in European folk herbalism
+- Warming and activating in Traditional Chinese Medicine
+- A digestive fire-starter in Ayurveda
+- A circulatory stimulant in European folk herbalism
 
 But importantly:
 its power is activated through ingestion or infusion, not burning.
@@ -239,7 +239,7 @@ Use it in ways that align with both tradition and safety:
 
 These methods preserve its properties instead of destroying them through combustion.
 
-Ginger is powerful — but not in smoke.
+**Ginger is powerful — but not in smoke.**
 
 Burning it doesn’t enhance its magic.
 It strips it, irritates the body, and replaces tradition with guesswork.
