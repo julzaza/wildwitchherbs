@@ -202,22 +202,18 @@ There is no historical tradition of smoking ginger in any established herbal or 
 When ginger is burned or inhaled as smoke:
 
 - It **releases irritant compounds** that can inflame the throat and lungs
-- The active components (like gingerols) break down under high heat, losing their medicinal value
+- The active components (like gingerols) break down under high heat, **losing their medicinal value**
 - Smoke inhalation **may cause coughing, burning sensation, or airway irritation**
 
 Unlike herbs such as mullein or mugwort, which have documented (though still cautious) use in smoke, ginger is not suited for inhalation in any form.
 
 Why the Confusion?
 
-Modern internet trends sometimes promote smoking unusual herbs for:
+Modern internet trends sometimes promote smoking unusual herbs for: “detox”, “lung cleansing” or as tobacco alternatives.
 
-“detox”
-“lung cleansing”
-or as tobacco alternatives
+These claims are **not supported by traditional herbalism** or medical evidence.
 
-These claims are not supported by traditional herbalism or medical evidence.
-
-In fact, most traditional systems treat the lungs as something to protect from smoke, not expose to unnecessary plant combustion.
+In fact, most traditional systems **treat the lungs as something to protect from smoke**, not expose to unnecessary plant combustion.
 
 Across cultures, ginger is considered:
 
