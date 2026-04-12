@@ -183,7 +183,7 @@ Most commercial Palo Santo is illegally logged from living trees, stripped befor
 
 ### A Modern Question: Can You Smoke Ginger?
 
-**Ginger** *(Zingiber officinale)* — Global culinary and medicinal root
+**Ginger** *(Zingiber officinale)* - Global culinary and medicinal root
 
 This question comes up more often than you’d think, especially online.
 
