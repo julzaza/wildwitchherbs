@@ -126,7 +126,7 @@ Rue is a powerful protector, especially in Mediterranean and Balkan traditions. 
 
 ### 4. Oleander *(Nerium oleander)* — Middle East, Mediterranean
 
-Fatal even in dried form. Historically used in poisonings and war — not rituals. Smoke is **lethally toxic**.
+Fatal even in dried form. Historically used in poisonings and war, not rituals. Its smoke is **lethally toxic**.
 
 **Instead:** If you seek fierce warding, use **hawthorn** or **nettle**. Both sting, both protect, neither kill.
 
@@ -207,7 +207,7 @@ When ginger is burned or inhaled as smoke:
 
 Unlike herbs such as mullein or mugwort, which have documented (though still cautious) use in smoke, ginger is not suited for inhalation in any form.
 
-Why the Confusion?
+**Why the Confusion?**
 
 Modern internet trends sometimes promote smoking unusual herbs for: “detox”, “lung cleansing” or as tobacco alternatives.
 
@@ -221,8 +221,7 @@ Across cultures, ginger is considered:
 - A digestive fire-starter in Ayurveda
 - A circulatory stimulant in European folk herbalism
 
-But importantly:
-its power is activated through ingestion or infusion, not burning.
+But importantly: its power is activated through ingestion or infusion, not burning.
 
 #### If You Want Ginger in Ritual Work
 
@@ -235,7 +234,7 @@ Use it in ways that align with both tradition and safety:
 
 These methods preserve its properties instead of destroying them through combustion.
 
-**Ginger is powerful — but not in smoke.**
+**Ginger is powerful, but not in smoke.**
 
 Burning it doesn’t enhance its magic.
 It strips it, irritates the body, and replaces tradition with guesswork.
