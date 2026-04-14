@@ -42,7 +42,7 @@ To harvest too soon was to take what had not yet been released.
 
 ## Spring as a Spirit-Owned Season
 
-As explored in **[Unlucky Spring Days & Folk Taboos](/unlucky-spring-days-folk-taboos)**, some early spring dates between equinox and May Day were seen as unstable and liminal.
+As explored in **[Unlucky Spring Days & Folk Taboos](/unlucky-spring-days-folk-taboos/)**, some early spring dates between equinox and May Day were seen as unstable and liminal.
 
 The ground had opened, but order had not returned.
 
