@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The Bitter Brew: Discovering Artemisia Annua Tea"
-permalink: /artemisia-annua-tea-benefits/
+
 categories: [natural-healing, herbal-magic]
 tags:
   - herbs
