@@ -71,7 +71,7 @@ They were **protective limits** — sometimes cautious, sometimes fear-based, al
 
 These restrictions shifted depending on age, fertility status, and transitional moments — a structure explored in **[Women’s Herbal Life Stages In Folk Medicine](/womens-herbs-life-stages-folk-medicine/)**.
 
-Herbal restriction was not exclusive to women; similar role-based prohibitions applied elsewhere, including documented cases of **[Herbs Forbidden For Men](/forbidden-herbs-for-men)**.
+Herbal restriction was not exclusive to women; similar role-based prohibitions applied elsewhere, including documented cases of **[Herbs Forbidden For Men](/forbidden-herbs-for-men/)**.
 
 ---
 
