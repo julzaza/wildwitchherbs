@@ -130,7 +130,7 @@ These actions weren’t decorative. They were the center of the work.
 - **Mandrake** — ritual potency and danger; appears in Jewish, Greek, and medieval European lore
 
 
-Learn more about using these herbs in ritual practice in our guide to **[Full Moon Rituals with Sacred Herbs](/full-moon-rituals)**, where we explore **how to harness their power for protection, divination, and dream work under the lunar light**.
+Learn more about using these herbs in ritual practice in our guide to **[Full Moon Rituals with Sacred Herbs](/full-moon-rituals/)**, where we explore **how to harness their power for protection, divination, and dream work under the lunar light**.
 
 ---
 
@@ -153,7 +153,7 @@ What matters is timing, not acreage.
 Our Artemisia annua is grown with moon phases in mind — planted during a waxing moon, harvested near the full, and dried slowly in shade.
 
 Explore moon-tended herbs here:  
-**[Artemisia Annua Tea, Tincture, and Seeds](/shop)**
+**[Artemisia Annua Tea, Tincture, and Seeds](/shop/)**
 
 ---
 
@@ -180,7 +180,7 @@ Trying to follow every rule perfectly. Folk practice was flexible; rhythm matter
 Yes. European, North African, and Middle Eastern lore holds that herbs gathered under a bright moon — especially **Artemisia, vervain, yarrow, and rue** — were considered more potent.
 
 ### Can I practice lunar gardening indoors?  
-Yes. Pots, bowls, or borrowed ground suffice. See **[Indoor Witchy Plants](/witchy-plants-to-grow-indoors/)**. And check out **[Plants Witches Keep in Bedrooms](/witchy-plants-bedroom)** to make the best choice for you.
+Yes. Pots, bowls, or borrowed ground suffice. See **[Indoor Witchy Plants](/witchy-plants-to-grow-indoors/)**. And check out **[Plants Witches Keep in Bedrooms](/witchy-plants-bedroom/)** to make the best choice for you.
 
 ### Do different cultures follow different moon rules?  
 Yes. Slavic traditions favored waning moons for protection herbs; Mediterranean witches planted dream herbs in waxing crescent; some African and Middle Eastern traditions used star–moon relationships.
