@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Why Laundry Was Forbidden During Yule"
-permalink: /yule-laundry-folklore/
+
 date: 2025-12-08
 categories:
   - folklore-ancestral
@@ -35,7 +35,7 @@ faq:
 
 **[Yule](/oldest-yule-rituals/)** was never a tidy holiday.
 
-In much of Europe, **washing clothes during the [Twelve Nights](/twelve-nights-witchcraft/)—the liminal days of Yule— was forbidden**, sometimes violently so.
+In much of Europe, **washing clothes during the **[Twelve Nights](/twelve-nights-witchcraft/)** - the liminal days of Yule— was forbidden**, sometimes violently so.
 
 Sheets left outside could summon death.  
 Wet linen could invite spirits.  
