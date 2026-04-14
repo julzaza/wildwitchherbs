@@ -236,11 +236,11 @@ Christianity overlaid that world with new names, new rules, and new fears. But t
 - **[The Dying Sun: Pegan Winter Kings](/dying-sun-winter-kings/)**
 - **[Why Laundry Prohibited on Yule](/yule-laundry-folklore/)**
 - **[The Witch’s Midwinter Kitchen: Folk Food Magic for the Twelve Nights](/midwinter-kitchen-witchcraft/)**
-- **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt)**  
-- **[The Twelve Nights](/twelve-nights-witchcraft)**  
-- **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood)**
+- **[Solstice Spirits and the Wild Hunt](/solstice-spirits-wild-hunt/)**  
+- **[The Twelve Nights](/twelve-nights-witchcraft/)**  
+- **[Solstice Dreaming](/solstice-dreaming-mugwort-wormwood/)**
 - **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**
-- **[Pre-Christian Evergreens Magic](/evergreens-witchcraft)**
+- **[Pre-Christian Evergreens Magic](/evergreens-witchcraft/)**
 
 ---
 
