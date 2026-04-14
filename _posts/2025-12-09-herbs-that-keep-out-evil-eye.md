@@ -52,7 +52,7 @@ Historic uses:
 
 Italian folk tradition considered rue strong enough to “split” the force of envy. It is one of the most reliable herbs for this theme.
 
-Rue is actually one of the **[Witchy Plants for the Doorways](/witchy-plants-for-front-door)**.
+Rue is actually one of the **[Witchy Plants for the Doorways](/witchy-plants-for-front-door/)**.
 
 ---
 
@@ -66,7 +66,7 @@ Basil has two roles in evil-eye tradition:
 Greek island households kept a basil pot at the front door “to sweeten the eyes” of anyone entering.  
 In Bulgaria and Serbia, basil water was sprinkled around rooms after a difficult visit.
 
-And, by the way, growing basil is very easy. Maybe this post will even inspire you to **[Start Your Own Witchy Garden](/witch-garden)**.
+And, by the way, growing basil is very easy. Maybe this post will even inspire you to **[Start Your Own Witchy Garden](/witch-garden/)**.
 
 ---
 
@@ -114,7 +114,7 @@ Its smoke was believed to:
 
 Baltic families hung juniper branches over windows “so the eye cannot settle.”
 
-See how witches used **[Evergreens Magic- Before Christams Even Existed](/evergreens-witchcraft)**.
+See how witches used **[Evergreens Magic- Before Christams Even Existed](/evergreens-witchcraft/)**.
 
 ---
 
@@ -147,5 +147,5 @@ Often both—threshold plants, doorway bundles, window amulets, and smoke ritual
 Yes, in many rural parts of Greece, Italy, the Balkans, and Cyprus.
 
 ### **Is this religious?**  
-These traditions exist across pagan, Christian, Jewish, and Muslim communities. See **[What Witchcraft Looked Like in Pre-Christian Europe](/pre-christian-europe-magic)**.
+These traditions exist across pagan, Christian, Jewish, and Muslim communities. See **[What Witchcraft Looked Like in Pre-Christian Europe](/pre-christian-europe-magic/)**.
 
