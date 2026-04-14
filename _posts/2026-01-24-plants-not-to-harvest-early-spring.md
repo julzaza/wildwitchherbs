@@ -96,7 +96,7 @@ Early spring nettle:
 - could weaken rather than strengthen
 - was associated with lingering winter illness
 
-Some traditions delayed nettle harvesting until after specific feast days or the first thunder, echoing the same timing rules described in **[Spring Cleaning in Folk Magic](/spring-cleaning-folk-magic)**.
+Some traditions delayed nettle harvesting until after specific feast days or the first thunder, echoing the same timing rules described in **[Spring Cleaning in Folk Magic](/spring-cleaning-folk-magic/)**.
 
 ---
 
