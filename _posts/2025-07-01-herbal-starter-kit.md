@@ -8,8 +8,6 @@ excerpt: "Discover 10 powerful herbs for the modern witch, from ancestral folklo
 categories: [herbal-magic, folklore-ancestral]
 tags: [herbs, witchcraft, rituals, artemisia, folklore, protection, healing, beginners]
 
-author: Wild Witch Herbs
-permalink: /herbal-starter-kit/
 header:
   image: /assets/images/anise-small-sieve-with-various-dried-herbs-flat-lay-white-surface.webp
   overlay_filter: 0.4
