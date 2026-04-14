@@ -186,7 +186,7 @@ These were often **secondary plants**, supporting larger rites.
 Spring herbs were intertwined with fertility preparation and socially approved courtship practices:
 
 - Herbs like basil, wild rose, and violet prepared young women for visibility and attraction  
-- Some were part of rituals documented in **[Balkan Courtship & Love Rites](/balkan-courtship-love-rites)**  
+- Some were part of rituals documented in **[Balkan Courtship & Love Rites](/balkan-courtship-love-rites/)**  
 - Practices were **low-risk**, socially sanctioned, and culturally meaningful
 
 Spring rites focused on:
