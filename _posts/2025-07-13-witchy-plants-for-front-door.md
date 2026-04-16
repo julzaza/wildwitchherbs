@@ -247,7 +247,9 @@ Threshold plants are herbs, shrubs, and flowering plants historically placed nea
 Traditional protective threshold plants include southernwood, basil, yarrow, boxwood, hellebore, woodruff, hawthorn, nettles, angelica, thyme, rue, hyssop, vervain, wormwood, lavender, and rosemary. Each has unique protective, healing, or warding properties.
 
 ### How do I use these plants for magical protection?
-Plant near doors or windows, sprinkle salt around them, whisper your intentions, tie red threads or iron nails, or use dried bundles indoors. Rituals performed during moon phases, solstices, or full moons can enhance their magical effect.
+Plant near doors or windows, sprinkle salt around them, whisper your intentions, tie red threads or iron nails, or use dried bundles indoors. 
+
+But in traditional practice, this was only one part of the work: threshold planting, clearing, and boundary-setting were used together. See how these methods were actually combined in this **[Herbal Home Protection System in Folk Practice](/home-protection-herbal-rituals-guide/)**.
 
 ### Can I grow threshold plants indoors?
 Yes. Herbs like basil, rosemary, lavender, and thyme adapt well to pots indoors. Place them near windows or entryways to maintain protective and magical qualities.
