@@ -28,7 +28,7 @@ faq:
     
 ---
 
-Protection, in older traditions, was not something you “felt into,” nor something done once and forgotten. 
+In older traditions, protection was not intuitive, and it was never a one-time act.
 
 It was built into the structure of the home itself: into the doorway, the floor, the threshold, the places where something could cross.
 
@@ -137,7 +137,7 @@ Clarity is stronger.
 
 ## A Practical System of Herbal Protection
 
-If you want to work with this properly, you need more than general ideas.
+If you want this to work in practice, general advice is not enough.
 
 You need:
 - specific methods  
@@ -165,9 +165,9 @@ Each one is placed where it belongs: entry, clearing, holding, or maintenance; s
 
 ## Access the Full Guide
 
-If you want the full set of methods, with exact instructions and applications, you can find it here:
+The full set of methods, written with exact instructions and correct use, can be found here:
 
-[Protective Home Herbs & Rituals: Full Guide](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)
+**[Protective Home Herbs & Rituals: Full Guide](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)**
 
 ---
 
