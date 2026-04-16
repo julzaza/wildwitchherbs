@@ -94,6 +94,10 @@ Across continents, the same thresholds appear again and again:
 
 Plants placed here were never random.
 
+Boundary plants marked the edge—but ritual is what sealed it.
+
+Learn how to turn these plants into active protection for your home here: **[Herbal Home Protection: a Witchcraft & Folk Ritual Guide](/home-protection-herbal-rituals-guide/)**. 
+
 ---
 
 ## Europe & the Balkans: Plants That Offended the Unwelcome
