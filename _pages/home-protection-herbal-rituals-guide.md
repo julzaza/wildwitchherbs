@@ -4,7 +4,7 @@ title: "Herbal Protection for the Home: Thresholds, Boundaries, and Folk Rituals
 categories: [folklore-ancestral, herbal-magic]
 tags: [herbal protection, folk magic, home protection, threshold magic, protective herbs, banishing rituals]
 
-permalink: /home-protection-herbal-rituals-guide.md/ 
+permalink: /home-protection-herbal-rituals-guide/ 
 
 description: "A folklore-rich guide to herbal protection for the home, rooted in traditional practices of thresholds, boundary-setting, and plant-based rituals. Learn how protection was actually done—and how to apply it in real spaces."
 
