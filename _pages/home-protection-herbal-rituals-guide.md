@@ -28,11 +28,11 @@ faq:
     
 ---
 
-In older traditions, protection was not intuitive, and it was never a one-time act.
+In older traditions, protection was not intuitive, and it **was never a one-time act**.
 
 It was built into the structure of the home itself: into the doorway, the floor, the threshold, the places where something could cross.
 
-And more importantly, it followed a logic.
+And more importantly, **it followed a logic**.
 
 Not all protection is the same. Not all situations call for the same action.
 
@@ -46,7 +46,7 @@ Anything else is incomplete.
 
 ## The Structure of Real Protection Work
 
-In folk practice, protection was not a single ritual, but a sequence of actions, repeated as needed and adapted to the state of the home.
+In folk practice, protection was not a single ritual, but a **sequence of actions**, repeated as needed and adapted to the state of the home.
 
 It can be understood in four parts:
 
@@ -62,8 +62,6 @@ In traditional homes, doorways were treated deliberately:
 - marked with bitter or protective substances  
 - bound, knotted, or crossed  
 - reinforced with iron, thorn, or plant matter  
-
-These were not symbolic, **boundary statements**.
 
 When properly set, a threshold does not “filter.”  
 It refuses.
@@ -112,9 +110,6 @@ They were watered, tended, and kept alive.
 
 Protection, in this form, becomes part of the environment itself.
 
-Not something you do.  
-Something that remains.
-
 ---
 
 ## Where Most Protection Advice Falls Apart
@@ -123,7 +118,7 @@ Modern approaches tend to collapse all of this into one idea:
 
 “Cleanse the space.”
 
-But cleansing alone does not secure entry.  
+But **cleansing alone does not secure entry**.  
 It does not establish a boundary.  
 And it does not prevent return.
 
@@ -150,7 +145,7 @@ That is exactly what this guide is built for.
 
 ## The Guide
 
-It is a structured collection of 14 herbal protection workings, based on this exact framework.
+It is a structured collection of 14 herbal home protection workings, based on this exact framework.
 
 It includes:
 
@@ -159,7 +154,7 @@ It includes:
 - boundary-setting rituals like **The Three-Night Watch** and **Buried Guard Jar**  
 - and long-term practices like **The Planted Threshold Seal**
 
-Each one is placed where it belongs: entry, clearing, holding, or maintenance; so you’re not guessing what to use or when.
+Each one is placed where it belongs: entry, clearing, holding, or maintenance; so you’re **not guessing what to use or when**.
 
 ---
 
