@@ -54,7 +54,7 @@ Once you plant your threshold herbs (we got a nice bunch to choose from below), 
 - Tie red string or iron nails into the pot or root space for **added warding**.
 
 These practices strengthen the plants, but they are only one part of a larger household defense system.  
-For full threshold work, clearing methods, and boundary-setting, see the **[Complete Herbal Home Protection Rituals Guide](/home-protection-herbal-rituals-guide/)**.
+For full threshold work, clearing methods, and boundary-setting, see the **[Herbal Home Protection System Based on Traditional Practice](/home-protection-herbal-rituals-guide/)**.
 
 ---
 
