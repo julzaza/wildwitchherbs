@@ -94,7 +94,7 @@ Across continents, the same thresholds appear again and again:
 
 Plants placed here were never random.
 
-Boundary plants marked the edge—but ritual is what sealed it.
+Boundary plants marked the edge, but ritual is what sealed it.
 
 Learn how to turn these plants into active protection for your home here: **[Herbal Home Protection: a Witchcraft & Folk Ritual Guide](/home-protection-herbal-rituals-guide/)**. 
 
@@ -158,7 +158,7 @@ Placed:
 - near burial mounds  
 - never brought indoors casually  
 
-Hawthorn did not protect by force—but by **territorial law**.
+Hawthorn did not protect by force, but by **territorial law**.
 
 ---
 
@@ -218,7 +218,7 @@ Tulsi governs the moral and spiritual hygiene of the household.
 **Role:** Purifier & enforcer  
 **Boundary:** Disease, spirits, corruption  
 
-Neem leaves were hung during epidemics and used in postpartum care. Neem’s bitterness marked it as hostile to decay—physical and spiritual.
+Neem leaves were hung during epidemics and used in postpartum care. Neem’s bitterness marked it as hostile to decay, physical and spiritual.
 
 ---
 
@@ -236,7 +236,7 @@ Used in specific tribal contexts, sage smoke was not about “cleansing vibes”
 **Role:** Invitation with limits  
 **Boundary:** Ceremony, ancestors  
 
-Sweetgrass did not banish—it **defined who was welcome**.
+Sweetgrass did not banish, it **defined who was welcome**.
 
 ---
 
@@ -327,6 +327,8 @@ Even without literal belief, boundary plants encode:
 - respect for transition  
 
 They remind us that **not everything is meant to be open**.
+
+To see how these plants were actually worked at the threshold, in smoke, placement, and ritual defense:**[Herbal Home Protection Rituals](/home-protection-herbal-rituals-guide/)**. 
 
 ---
 
