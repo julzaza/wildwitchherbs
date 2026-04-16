@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Herbal Protection for the Home: Thresholds, Boundaries, and Folk Rituals That Hold"
+title: "Herbal Protection for the Home: Thresholds Folk Rituals"
 categories: [folklore-ancestral, herbal-magic]
 tags: [herbal protection, folk magic, home protection, threshold magic, protective herbs, banishing rituals]
 
@@ -10,9 +10,9 @@ description: "A folklore-rich guide to herbal protection for the home, rooted in
 
 ---
 
-Protection, in older traditions, was never vague.
+Protection, in older traditions, was not something you “felt into,” nor something done once and forgotten. 
 
-It was not something you “felt into,” nor something done once and forgotten. It was built into the structure of the home itself—into the doorway, the floor, the threshold, the places where something could cross.
+It was built into the structure of the home itself: into the doorway, the floor, the threshold, the places where something could cross.
 
 And more importantly, it followed a logic.
 
@@ -54,13 +54,13 @@ It refuses.
 
 ### Clearing the Space (When Something Has Settled)
 
-If the space already feels altered—heavy, unsettled, or wrong—then the work shifts.
+If the space already feels altered: heavy, unsettled, or wrong, then the work shifts.
 
 This is no longer about prevention.
 
 It is about removal.
 
-Floor sweeps, smoke work, and bitter washes were used not to “freshen” a space, but to **drive something out**. Ash, salt, and strong herbs were applied with intent and direction—often outward, toward doors or windows.
+Floor sweeps, smoke work, and bitter washes were used not to “freshen” a space, but to **drive something out**. Ash, salt, and strong herbs were applied with intent and direction, often outward, toward doors or windows.
 
 The difference matters.
 
@@ -88,7 +88,7 @@ Without this step, protection breaks down quietly.
 
 Some protection was not performed, but maintained.
 
-Plants placed near entrances, thresholds, and windows acted as quiet, ongoing boundaries. Not dramatic, not forceful—but stable.
+Plants placed near entrances, thresholds, and windows acted as quiet, ongoing boundaries. Not dramatic, not forceful, but stable.
 
 They were watered, tended, and kept alive.
 
@@ -132,7 +132,7 @@ That is exactly what this guide is built for.
 
 ## The Guide
 
-I’ve put together a structured collection of herbal protection workings, based on this exact framework.
+It is a structured collection of 14 herbal protection workings, based on this exact framework.
 
 It includes:
 
@@ -141,11 +141,7 @@ It includes:
 - boundary-setting rituals like **The Three-Night Watch** and **Buried Guard Jar**  
 - and long-term practices like **The Planted Threshold Seal**
 
-Each one is placed where it belongs—entry, clearing, holding, or maintenance—so you’re not guessing what to use or when.
-
-This is not a list of ideas.
-
-It is a **working structure**.
+Each one is placed where it belongs: entry, clearing, holding, or maintenance; so you’re not guessing what to use or when.
 
 ---
 
@@ -161,4 +157,4 @@ Protection is not about doing more.
 
 It is about doing the right thing, in the right place, at the right time.
 
-Once that is understood, the work becomes simpler—and far more effective.
+Once that is understood, the work becomes simpler, and far more effective.
