@@ -8,6 +8,24 @@ permalink: /home-protection-herbal-rituals-guide/
 
 description: "A folklore-rich guide to herbal protection for the home, rooted in traditional practices of thresholds, boundary-setting, and plant-based rituals. Learn how protection was actually done—and how to apply it in real spaces."
 
+excerpt: "Learn how to protect your home using traditional herbal rituals rooted in real folk practice. This guide breaks down threshold magic, space clearing, and boundary-setting methods that actually hold."
+
+faq:
+  - question: "What are the most effective herbs for home protection?"
+    answer: "In traditional folk practice, bitter and protective herbs such as wormwood, juniper, bay, garlic, and rue were commonly used. Their role depended on placement—some were used at thresholds, others for clearing or maintaining boundaries."
+
+  - question: "How do you protect a doorway spiritually?"
+    answer: "Doorways were treated as active boundaries. They were marked, washed with bitter infusions, or reinforced with knots, iron, or protective plants. The goal was not symbolism, but to prevent unwanted crossing."
+
+  - question: "What is the difference between cleansing and protection?"
+    answer: "Cleansing removes what is already present, while protection prevents entry and return. In traditional systems, both were required, along with a third step—holding the boundary over time."
+
+  - question: "How often should you perform protection rituals?"
+    answer: "It depends on the method. Some protections are one-time threshold settings, while others—like boundary reinforcement—are repeated over several nights or maintained continuously through plants or objects."
+
+  - question: "Can plants really protect a home?"
+    answer: "In folk traditions, certain plants were used as living boundaries when placed at entrances or windows. Their role was not dramatic but steady, forming part of the home’s ongoing protection."
+    
 ---
 
 Protection, in older traditions, was not something you “felt into,” nor something done once and forgotten. 
@@ -158,3 +176,24 @@ Protection is not about doing more.
 It is about doing the right thing, in the right place, at the right time.
 
 Once that is understood, the work becomes simpler, and far more effective.
+
+---
+
+---
+
+## People Also Ask
+
+### What herbs were traditionally used to protect the home?
+Protective herbs varied by region, but bitter, thorned, or strongly aromatic plants were most common. Wormwood, juniper, rue, bay, garlic, and nettle appear repeatedly in European and Balkan folk practices, especially at thresholds and entry points.
+
+### Is smoke cleansing enough to protect a house?
+No. Smoke can remove what is already present, but it does not secure entry or prevent return. In traditional practice, clearing was only one part of a larger system that included boundary-setting and reinforcement.
+
+### Where should protection be placed in a home?
+Protection was focused on points of entry: doors, windows, thresholds, and sometimes hearths. These were considered the places where crossing occurred, and where action was most effective.
+
+### What is threshold magic in folk traditions?
+Threshold magic refers to practices performed at doorways and entrances to control what can enter a space. This included markings, washes, knots, buried objects, and plant placements.
+
+### Why do protection rituals stop working?
+Most often because only one step is used—usually cleansing. Without securing entry and holding the boundary, the condition resets and the same issues return.
