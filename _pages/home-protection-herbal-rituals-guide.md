@@ -88,7 +88,7 @@ Clearing is not passive. It is corrective.
 
 This is where most modern approaches fail.
 
-Something is cleared, but nothing is done to prevent its return.
+Something is cleared, but nothing is done to **prevent its return**.
 
 In traditional practice, this stage was essential.
 
@@ -109,6 +109,8 @@ Plants placed near entrances, thresholds, and windows acted as quiet, ongoing bo
 They were watered, tended, and kept alive.
 
 Protection, in this form, becomes part of the environment itself.
+
+Learn which plants witches trust to hold the boundary here: **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**.
 
 ---
 
