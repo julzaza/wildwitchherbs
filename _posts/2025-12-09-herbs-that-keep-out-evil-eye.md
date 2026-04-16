@@ -25,10 +25,10 @@ faq:
 In every village, someone had “bad eyes.”  
 Sometimes it was a neighbor whose praise came too quickly. Sometimes an elder whose glance lingered too long on livestock. Sometimes simply the person everyone avoided in the street.
 
-Across Europe and the Mediterranean, the evil eye wasn’t abstract—it was practical, lived experience.  
+Across Europe and the Mediterranean, the evil eye wasn’t abstract, it was practical, lived experience.  
 And the protections households used were equally practical: **herbs grown by the threshold, hung above the door, burned after visits, or brewed into cleansing water.**
 
-Below are the historically attested plants used to keep out the evil eye—no modern inventions, only real cultural lore.
+Below are the historically attested plants used to keep out the evil eye: no modern inventions, only real cultural lore.
 
 - **Rue** — breaks the evil eye  
 - **Basil** — blocks gossip and malice  
