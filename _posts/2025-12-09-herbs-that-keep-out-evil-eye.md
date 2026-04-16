@@ -37,6 +37,9 @@ Below are the historically attested plants used to keep out the evil eye—no mo
 - **Juniper** — smoke to scatter envy  
 - **Black cumin** — binds harmful intention
 
+These were not isolated remedies, but part of a wider system of household protection: threshold, clearing, and boundary work combined.  
+See the full structure here: **[Herbal Home Protection Methods in Folk Practice](/home-protection-herbal-rituals-guide/)**.
+
 ---
 
 ## **1. Rue (Ruta graveolens) — The Breaker of Envy**  
