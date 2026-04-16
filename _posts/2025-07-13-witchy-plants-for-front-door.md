@@ -230,6 +230,8 @@ The door you walk through each day can become **a gate of magic**, a veil stitch
 
 See: **[Protective Plants & Boundary Spirits: Folk Herbal Guardians](/protective-plants-boundary-spirits/)** for a deeper look at these powerful allies. 
 
+If you want to go beyond plants and actually build protection that holds, start here: **[Herbal Rituals for Protecting Your Home](/home-protection-herbal-rituals-guide/)**.
+
 Want to guard your inner space as well? 
 
 Explore: **[Top Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)**.
