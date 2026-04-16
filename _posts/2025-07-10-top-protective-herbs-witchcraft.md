@@ -42,7 +42,11 @@ Rooted in ritual and folklore, each one has **earned its place in the witch’s 
 
 Across folk traditions, protective herbs were believed to guard the body, mind, home, and soul, forming the backbone of traditional witchcraft and herbal magic worldwide.
 
-This guide focuses on individual herbs and their protective roles. For a deeper look at how different cultures used plants for protection, see **[Ancient Shields: Witchy Protection Herbs](/world-magic-for-protection/)**.
+This guide focuses on individual herbs and their protective roles. 
+But in traditional practice, herbs were not used in isolation: they were applied through specific methods depending on the situation.  
+See how protection was actually structured in the home in this **[Herbal Home Protection Guide](/home-protection-herbal-rituals-guide/)**.
+
+For a deeper look at how different cultures used plants for protection, see **[Ancient Shields: Witchy Protection Herbs](/world-magic-for-protection/)**.
 
 Let’s meet the eleven most enduring protective herbs in witchcraft, from Appalachian hills to Slavic meadows and Caribbean shores.
 
