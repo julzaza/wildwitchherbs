@@ -109,7 +109,7 @@ They were believed to:
 - belong to chthonic forces
 - attract sickness if mishandled
 
-These plants were used sparingly and only by experienced folk healers — never gathered casually.
+These plants were used sparingly and only by experienced folk healers, never gathered casually.
 
 ---
 
