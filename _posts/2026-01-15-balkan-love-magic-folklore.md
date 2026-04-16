@@ -1,8 +1,7 @@
 --- 
 layout: single
 title: "Balkan Love Magic: What Was Done and Why It Was Feared"
-date: 2026-01-15
-permalink: /balkan-love-magic-folklore/
+
 categories:
   - folklore-ancestral
   - witchcraft-ritual
@@ -15,6 +14,7 @@ tags:
   - slavic witchcraft
 excerpt: "Balkan love magic was not romantic. It was feared, bodily, and often dangerous—rooted in obsession, binding, and survival."
 description: "A factual exploration of Balkan love magic across Serbia, Romania, Bulgaria, and Macedonia—documenting real practices, fears, and consequences."
+
 faq:
   - question: "Was Balkan love magic actually dangerous?"
     answer: "Yes. In Balkan folklore, love magic was feared for causing obsession, physical decline, madness, and spiritual contamination. It was not viewed as symbolic or harmless."
@@ -49,7 +49,7 @@ It was about:
 
 And everyone feared it.
 
-Check out **[Balkan Courtship And Love Rites](/balkan-courtship-love-rites)** for more socially acceptable rituals if these forbidden practices are not your cup of witchy tea. 
+Check out **[Balkan Courtship And Love Rites](/balkan-courtship-love-rites/)** for more socially acceptable rituals if these forbidden practices are not your cup of witchy tea. 
 
 ---
 
