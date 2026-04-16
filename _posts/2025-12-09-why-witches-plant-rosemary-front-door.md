@@ -112,10 +112,6 @@ If you want the full method, step by step, see:
 
 **[Herbal Home Protection Rituals & Boundary Practices](/home-protection-herbal-rituals-guide/)**
 
-See other powerful plant allies: 
-
-**[Top Protective Herbs in Witchcraft](/top-protective-herbs-witchcraft/)**
-
 ---
 
 # FAQ
