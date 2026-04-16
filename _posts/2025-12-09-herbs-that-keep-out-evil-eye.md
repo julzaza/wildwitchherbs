@@ -144,7 +144,7 @@ Rue in Mediterranean regions; juniper in northern regions; garlic everywhere.
 It was seen as a force that could affect health, luck, livestock, and infants.
 
 ### **Did people plant these or hang them?**  
-Often both—threshold plants, doorway bundles, window amulets, and smoke rituals. Learn how to use these herbs in rituals here: **[Herbs for Protection](/world-magic-for-protection/)**.
+Often both and more: used as living threshold plants, doorway bundles, window amulets, and in smoke rituals. Learn how to use these herbs here: **[Witchy Herbal Home Protection Ritual Guide](/home-protection-herbal-rituals-guide/)**.
 
 ### **Are these traditions still practiced?**  
 Yes, in many rural parts of Greece, Italy, the Balkans, and Cyprus.
