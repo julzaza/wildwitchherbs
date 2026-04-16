@@ -208,11 +208,13 @@ Understanding them helps modern witches:
 These names were never just titles. They shaped how plants were actually used in the home, especially at the threshold, where protection mattered most.
 
 If you want to see how these herbs were worked in real household practice, read: 
+
 **[Herbal Home Protection Rituals & Threshold Work](/home-protection-herbal-rituals-guide/)**.
 
 Some of these plants were **restricted entirely**, used only by specialists or within strict ritual conditions.
 
 For a deeper look at herbs that were considered too dangerous to use casually, see:
+
 **[Forbidden Herbs in Folklore: Plants Too Dangerous to Use Lightly](/forbidden-herbs-global-folk-magic/)**.
 
 ---
@@ -280,6 +282,3 @@ And no crown is given lightly.
 - **[Forbidden Herbs in Folklore: Plants Too Dangerous to Use Lightly](/forbidden-herbs-global-folk-magic/)**
 - **[Herbs Forbidden for Women](/forbidden-herbs-for-women/)**
 - **[Herbs Forbidden for Men](/forbidden-herbs-for-men/)**
-- **[Plants Witches Avoid: Old European Folklore & Taboos](/plants-witches-avoid-folklore/)**
-
-
