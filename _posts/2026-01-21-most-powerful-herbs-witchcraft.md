@@ -127,7 +127,7 @@ See how these herbs were used in practical folk medicine:
 
 ## Which Plants Were Said to Bring Negative Energy?
 
-In folk belief, “negative” plants were not evil — they were **disruptive**.
+In folk belief, “negative” plants were not evil, they were **disruptive**.
 
 Plants earned this reputation when they:
 - Induced trance or delirium
@@ -205,6 +205,11 @@ Understanding them helps modern witches:
 - Respect dangerous allies
 - Reclaim ancestral knowledge without fantasy
 
+These names were never just titles. They shaped how plants were actually used in the home, especially at the threshold, where protection mattered most.
+
+If you want to see how these herbs were worked in real household practice, read: 
+**[Herbal Home Protection Rituals & Threshold Work](/home-protection-herbal-rituals-guide/)**.
+
 Some of these plants were **restricted entirely**, used only by specialists or within strict ritual conditions.
 
 For a deeper look at herbs that were considered too dangerous to use casually, see:
@@ -238,7 +243,7 @@ Because they were. Plants like belladonna, henbane, and datura can alter conscio
 
 ### Can powerful or dangerous herbs still be used?
 
-Yes—but traditionally only with knowledge, preparation, and timing. These were not beginner plants, and they were rarely used in emotionally unstable states.
+Yes, but traditionally only with knowledge, preparation, and timing. These were not beginner plants, and they were rarely used in emotionally unstable states.
 
 
 ### What makes an herb sacred?
