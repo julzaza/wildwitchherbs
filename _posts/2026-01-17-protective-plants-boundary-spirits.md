@@ -328,7 +328,7 @@ Even without literal belief, boundary plants encode:
 
 They remind us that **not everything is meant to be open**.
 
-To see how these plants were actually worked at the threshold, in smoke, placement, and ritual defense:**[Herbal Home Protection Rituals](/home-protection-herbal-rituals-guide/)**. 
+To see how these plants were actually worked at the threshold, in smoke, placement, and ritual defense: **[Herbal Home Protection Rituals](/home-protection-herbal-rituals-guide/)**. 
 
 ---
 
