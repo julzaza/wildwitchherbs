@@ -217,6 +217,9 @@ These kinds of simple combinations were rarely random.
 
 Traditional protection work followed patterns - specific herbs, timing, and placement depending on the situation.
 
+Simple spells like this were part of a larger pattern. Specific actions were taken depending on what needed to be blocked, removed, or held in place.  
+This is explained in detail in the **[Herbal Protection and Boundary-Setting for the Home](/home-protection-herbal-rituals-guide/)**.
+
 ---
 
 ## Closing Thoughts
