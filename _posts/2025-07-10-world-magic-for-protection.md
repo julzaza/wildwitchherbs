@@ -49,7 +49,10 @@ faq:
 
 Witches have always understood the unseen. Illness, envy, spirits, and strangers all posed risks. Herbs became allies, grown or gathered not just for healing but to **protect the body, the home, the soul**.
 
-Let's explore how different witchcraft traditions used plants for protection—what they burned, bathed in, buried, hung over doors, or stitched into pouches. Each culture offers a glimpse into a world where nature and magic meet.
+Let's explore how different witchcraft traditions used plants for protection: what they burned, bathed in, buried, hung over doors, or stitched into pouches. Each culture offers a glimpse into a world where nature and magic meet.
+
+While these traditions vary, they follow a shared logic: protection was applied through placement, timing, and method, not just the herb itself.  
+See how this translates into practical household work here: **[Herbal Home Protection: Folk Practices](/home-protection-herbal-rituals-guide/)**.
 
 Rather than ranking herbs, this article explores how protection worked across cultures: what people burned, wore, buried, and trusted at the edges of life. For a practical list of the most widely used protective plants, see **[Top 11 Protective Herbs in Witchcraft](/top-protective-herbs-witchcraft/)**.
 
