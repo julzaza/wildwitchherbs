@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Witchy Plants for the Front Door"
-permalink: /witchy-plants-for-front-door/
+
 description: "Discover 16 powerful threshold plants used by witches and folk healers to protect and bless homes. From southernwood and basil to lavender and rosemary, learn how these herbs and shrubs guard doors, invite blessings, and work ancestral magic."
 excerpt: "Guard your threshold with sacred plants used by witches and folk healers through the ages. Discover the potent magic of protective herbs, shrubs, and charms planted by doorways to bless and defend the home."
 categories:
@@ -39,7 +39,7 @@ faq:
 
 ---
 
-The front door is no ordinary place. It is a **threshold —a liminal line between worlds, sacred in nearly every magical tradition.** Spirits are said to pause there. Blessings gather or scatter at the doorstep. Witchcraft, especially of the folk kind, treats the entryway as a spell in itself.
+The front door is no ordinary place. It is a **threshold, a liminal line between worlds, sacred in nearly every magical tradition.** Spirits are said to pause there. Blessings gather or scatter at the doorstep. Witchcraft, especially of the folk kind, treats the entryway as a spell in itself.
 
 Planting at the front door isn’t merely decorative. It is **ancestral magic**. Protective plants, sweet-smelling herbs, and creeping tendrils once whispered to witches, “Here is the ward. Here is the welcome.” What follows are some of the most potent plants ever set to guard a home.
 
@@ -50,8 +50,11 @@ Planting at the front door isn’t merely decorative. It is **ancestral magic**.
 Once you plant your threshold herbs (we got a nice bunch to choose from below), strengthen them with ritual:
 
 - Sprinkle salt in a circle around the plant on **New or Full Moon nights**.
-- Whisper your intention as you water them—*"Guard this place. Let only good cross."*
+- Whisper your intention as you water them: *"Guard this place. Let only good cross."*
 - Tie red string or iron nails into the pot or root space for **added warding**.
+
+These practices strengthen the plants, but they are only one part of a larger household defense system.  
+For full threshold work, clearing methods, and boundary-setting, see the **[Complete Herbal Home Protection Rituals Guide](/home-protection-herbal-rituals-guide/)**.
 
 ---
 
@@ -67,7 +70,7 @@ Once called **“lad’s love”**, this silvery herb was grown by front gates i
 
 ## ✦ 2. Basil (Ocimum basilicum)
 
-In Eastern Europe and India alike, basil was not only culinary—it was sacred. In Greek Orthodox homes, holy water was sprinkled with basil branches. In folk magic, it was grown by doors to **invite love and prosperity, and drive away the devil**.
+In Eastern Europe and India alike, basil was not only culinary, it was sacred. In Greek Orthodox homes, holy water was sprinkled with basil branches. In folk magic, it was grown by doors to **invite love and prosperity, and drive away the devil**.
 
 - *Folklore:* A pot of basil at the threshold ensured the home would never be poor or loveless.
 - *Magical Properties:* Love, wealth, purification.
@@ -131,7 +134,7 @@ A plant of fire and fury, nettle was used to **whip out spirits**, **protect chi
 
 - *Folklore:* In Romania and Italy, nettles were laid across thresholds to prevent the devil from entering.
 - *Magical Properties:* Defense, strength, blood magic.
-- Growing Tip: Let them grow wild by the gate—or dry and place in protective jars near the door.
+- Growing Tip: Let them grow wild by the gate, or dry and place in protective jars near the door.
 
 ---
 
