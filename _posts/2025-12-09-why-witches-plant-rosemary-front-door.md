@@ -106,7 +106,15 @@ These actions were meant to declare:
 
 **“This house stands clean, protected, and awake.”**
 
-See other powerful plant allies: **[Top Protective Herbs in Witchcraft](/top-protective-herbs-witchcraft/)**
+Rosemary rarely stood alone. In most traditions, it was part of a wider system of protection, combined with smoke, placement, and spoken charms at the threshold.
+
+If you want the full method, step by step, see:
+
+**[Herbal Home Protection Rituals & Boundary Practices](/home-protection-herbal-rituals-guide/)**
+
+See other powerful plant allies: 
+
+**[Top Protective Herbs in Witchcraft](/top-protective-herbs-witchcraft/)**
 
 ---
 
