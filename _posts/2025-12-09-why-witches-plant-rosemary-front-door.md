@@ -106,15 +106,14 @@ These actions were meant to declare:
 
 **“This house stands clean, protected, and awake.”**
 
-Rosemary rarely stood alone. In most traditions, it was part of a wider system of protection, combined with smoke, placement, and spoken charms at the threshold.
+This was not symbolic. It was part of a wider system of household protection, where specific herbs were placed, burned, or buried to control what crossed the threshold.
 
-If you want the full method, step by step, see:
-
-**[Herbal Home Protection Rituals & Boundary Practices](/home-protection-herbal-rituals-guide/)**
+If you want the full structure of how homes were guarded in folk practice, including doorway rites, floor washes, and boundary herbs, see:
+**[Home Protection Herbs and Folk Rituals Guide](/home-protection-herbal-rituals-guide/)**.
 
 ---
 
-# FAQ
+## Frequently Asked Questions: 
 
 ### **Is rosemary always protective?**  
 Yes. Rosemary’s role as a purification herb is consistent across Greek, Roman, Jewish, Italian, Spanish, and Balkan traditions.
