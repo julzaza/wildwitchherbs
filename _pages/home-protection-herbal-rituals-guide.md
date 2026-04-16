@@ -38,14 +38,14 @@ It can be understood in four parts:
 
 Everything begins at the threshold.
 
-This is where crossings happen—where something moves from outside to inside. If this point is left open, no amount of cleansing will hold for long.
+This is where crossings happen, where something moves from outside to inside. If this point is left open, no amount of cleansing will hold for long.
 
 In traditional homes, doorways were treated deliberately:
 - marked with bitter or protective substances  
 - bound, knotted, or crossed  
 - reinforced with iron, thorn, or plant matter  
 
-These were not symbolic gestures. They were **boundary statements**.
+These were not symbolic, **boundary statements**.
 
 When properly set, a threshold does not “filter.”  
 It refuses.
@@ -72,11 +72,11 @@ Clearing is not passive. It is corrective.
 
 This is where most modern approaches fail.
 
-Something is cleared—but nothing is done to prevent its return.
+Something is cleared, but nothing is done to prevent its return.
 
 In traditional practice, this stage was essential.
 
-Objects were buried, boundaries reinforced, and repeated workings performed over consecutive nights. Not to add force—but to **set a condition**:
+Objects were buried, boundaries reinforced, and repeated workings performed over consecutive nights. Not to add force, but to **set a condition**:
 
 That what has been removed does not come back.
 
