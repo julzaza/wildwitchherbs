@@ -23,7 +23,6 @@ comments: true
 share: true
 related: true
 layout: single
-permalink: /world-magic-for-protection/
 
 faq:
   - question: "How did different cultures use herbs for protection?"
