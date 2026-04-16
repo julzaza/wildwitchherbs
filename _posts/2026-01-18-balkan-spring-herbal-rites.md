@@ -97,7 +97,7 @@ Spring wormwood was dangerous and respected. It was used to guard doorways, bodi
 
 Unlike later summer harvests, **spring pelin** was believed to hold sharper bitterness — symbolic of control and restraint.
 
-**[Pelin & War](/wormwood-witchcraft-war)** post explores this special plant and witchcraft deeply.
+**[Pelin & War](/wormwood-witchcraft-war/)** post explores this special plant and witchcraft deeply.
 
 ---
 
@@ -209,7 +209,7 @@ Spring herbs were gathered:
 - Without metal tools  
 - Sometimes barefoot  
 - Often in silence  
-- Often by women only (see why men were kept out: **[Forbidden Herbalism For Men](/forbidden-herbs-for-men/)**)
+- Often by women only (see why men were kept out: **[Forbidden Herbalism For Men](/forbidden-herbs-for-men/)**
 
 Breaking rules was believed to **reverse effects**.
 
