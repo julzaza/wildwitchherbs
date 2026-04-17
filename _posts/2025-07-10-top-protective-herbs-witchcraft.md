@@ -36,7 +36,7 @@ faq:
 
 ## Witches Rely on The Plant Kingdom for Protection 
 
-Across centuries and continents, witches, cunning folk, and healers have turned to the green world for protection. These aren’t just healing herbs—they are sentinels, spirit allies, and guardians between worlds. 
+Across centuries and continents, witches, cunning folk, and healers have turned to the green world for protection. These aren’t just healing herbs, they are sentinels, spirit allies, and guardians between worlds. 
 
 Rooted in ritual and folklore, each one has **earned its place in the witch’s apothecary through centuries of practical magic**.
 
@@ -110,7 +110,7 @@ From Celtic seers to Slavic midwives and Japanese shamans, mugwort has long guar
 
 Shamans, midwives, witches—have always trusted mugwort as their companion when traveling between worlds.
 
-Mugwort also appears in lunar and dreamwork lore — see **[Dreamwork & Night Magic](/witchy-plants-bedroom/)** for how herbs like mugwort and juniper guide spirit travel.
+Mugwort also appears in lunar and dreamwork lore. See **[Dreamwork & Night Magic](/witchy-plants-bedroom/)** for how herbs like mugwort and juniper guide spirit travel.
 
 The Germanic name for mugwort means “midge-plant,” referencing its power to ward off not just pests, but parasitic spirits.
 
@@ -234,9 +234,9 @@ Pass it through incense smoke or over a candle’s flame, and bury it near your 
 
 Let your herb guardians stand sentry.
 
-Charms like these were often prepared specifically for equinox thresholds, when protective work was considered most urgent — a seasonal logic detailed in **[Spring Equinox: Global Folklore and Protective Rituals](/spring-equinox-global-folklore/)**.
+Charms like these were often prepared specifically for equinox thresholds, when protective work was considered most urgent. Explore seasonal logic detailed in **[Spring Equinox: Global Folklore and Protective Rituals](/spring-equinox-global-folklore/)**.
 
-If you want to build your own protection apothecary, consider starting with foundational witches’ plants like those in **[The Witch’s Herbal Starter Kit: 10 Powerful Plants](/herbal-starter-kit/)** — it includes many protectors and teachable allies.
+If you want to build your own protection apothecary, consider starting with foundational witches’ plants like those in **[The Witch’s Herbal Starter Kit: 10 Powerful Plants](/herbal-starter-kit/)**. It includes many protectors and teachable allies.
 
 Protective herbs were never used in isolation: many also worked as healers, grief-soothers, and shock remedies, which is why they often appear alongside:
 
@@ -289,7 +289,7 @@ A: Absolutely. Herbs like mugwort, yarrow, and angelica were often paired with e
 ### Practical Application
 
 **Q: How do I make a simple protective charm with herbs?**  
-A: Choose a few protective herbs such as juniper, mugwort, rue, or basil. Wrap them in red cloth, tie with black or red thread, and speak your intent. Hang the charm above a door or bury it near a threshold.
+A: Choose a few protective herbs such as juniper, mugwort, rue, or basil. Wrap them in red cloth, tie with black or red thread, and speak your intent. Hang the charm above a door or bury it near a threshold. More protective charms and instructions on how to use them correctly can be found here: **[Herbal Folk Rituals for House Protection and Boundary Work](/home-protection-herbal-rituals-guide/)**. 
 
 **Q: Which protective herbs are traditionally used against curses or the evil eye?**  
 A: Garlic, rue, wormwood, blackthorn, and juniper are commonly cited in European, Slavic, and Balkan folk magic as defenses against curses, envy, and malicious spirits. Check out **[Herbs That Keep the Evil Eye Out](/herbs-that-keep-out-evil-eye/)** for more. 
