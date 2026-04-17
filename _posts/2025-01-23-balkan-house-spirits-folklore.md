@@ -229,7 +229,7 @@ And no one asked why.
 
 It is important to understand that not all unwanted presence was treated the same way in folk practice.
 
-Some things were believed to enter the home temporarily: illness, wandering influence, the evil eye, or restless forces that had crossed a threshold. These could be driven out, smoked away, or pushed back through ritual action.
+Some things were believed to enter the home temporarily: **illness, wandering influence, the evil eye, or restless forces that had crossed a threshold**. These could be driven out, smoked away, or pushed back through ritual action.
 
 But **house spirits were not intruders**.
 
