@@ -130,7 +130,7 @@ Common offenses included:
 - Loud arguments near the hearth
 - Disrespecting ancestral objects
 
-These domestic taboos align closely with **[Old European Yule Rituals](/oldest-yule-rituals)**, where household behavior became ritual law.
+These domestic taboos align closely with **[Old European Yule Rituals](/oldest-yule-rituals/)**, where household behavior became ritual law.
 
 ---
 
@@ -224,6 +224,22 @@ Some were feared.
 Some were left to rot.
 
 And no one asked why.
+
+### Not All Presence Was Treated the Same
+
+It is important to understand that not all unwanted presence was treated the same way in folk practice.
+
+Some things were believed to enter the home temporarily: illness, wandering influence, the evil eye, or restless forces that had crossed a threshold. These could be driven out, smoked away, or pushed back through ritual action.
+
+But **house spirits were not intruders**.
+
+They were tied to the place itself.
+
+What could be expelled was never the same as what already belonged.
+
+If you want to understand how households protected themselves against what could enter, without disturbing what already belonged, see:
+
+**[Home Protection Herbs and Folk Rituals Guide](/home-protection-herbal-rituals-guide/)**.
 
 ---
 
