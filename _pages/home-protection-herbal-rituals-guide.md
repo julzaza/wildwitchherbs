@@ -165,7 +165,7 @@ Each one is placed where it belongs: entry, clearing, holding, or maintenance; s
 The full set of methods, written with exact instructions and correct use, can be found here:
 
 <div style="margin: 25px 0;">
-  <a href="[https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)" 
+  <a href="https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home" 
      target="_blank" 
      style="
        display: inline-block;
