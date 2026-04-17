@@ -234,7 +234,7 @@ Pass it through incense smoke or over a candle’s flame, and bury it near your 
 
 Let your herb guardians stand sentry.
 
-Charms like these were often prepared specifically for equinox thresholds, when protective work was considered most urgent. Explore seasonal logic detailed in **[Spring Equinox: Global Folklore and Protective Rituals](/spring-equinox-global-folklore/)**.
+More protective charms like these, with detailed instructions on how to use them correctly, can be found here: **[Herbal Folk Rituals for House Protection and Boundary Work](/home-protection-herbal-rituals-guide/)**. 
 
 If you want to build your own protection apothecary, consider starting with foundational witches’ plants like those in **[The Witch’s Herbal Starter Kit: 10 Powerful Plants](/herbal-starter-kit/)**. It includes many protectors and teachable allies.
 
@@ -289,7 +289,7 @@ A: Absolutely. Herbs like mugwort, yarrow, and angelica were often paired with e
 ### Practical Application
 
 **Q: How do I make a simple protective charm with herbs?**  
-A: Choose a few protective herbs such as juniper, mugwort, rue, or basil. Wrap them in red cloth, tie with black or red thread, and speak your intent. Hang the charm above a door or bury it near a threshold. More protective charms and instructions on how to use them correctly can be found here: **[Herbal Folk Rituals for House Protection and Boundary Work](/home-protection-herbal-rituals-guide/)**. 
+A: Choose a few protective herbs such as juniper, mugwort, rue, or basil. Wrap them in red cloth, tie with black or red thread, and speak your intent. Hang the charm above a door or bury it near a threshold.
 
 **Q: Which protective herbs are traditionally used against curses or the evil eye?**  
 A: Garlic, rue, wormwood, blackthorn, and juniper are commonly cited in European, Slavic, and Balkan folk magic as defenses against curses, envy, and malicious spirits. Check out **[Herbs That Keep the Evil Eye Out](/herbs-that-keep-out-evil-eye/)** for more. 
