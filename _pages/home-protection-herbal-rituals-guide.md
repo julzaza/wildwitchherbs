@@ -164,8 +164,19 @@ Each one is placed where it belongs: entry, clearing, holding, or maintenance; s
 
 The full set of methods, written with exact instructions and correct use, can be found here:
 
-**[Protective Home Herbs & Rituals: Full Guide](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)**
-
+<div style="margin: 25px 0;">
+  <a href="[https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)" 
+     target="_blank" 
+     style="
+       display: inline-block;
+       padding: 12px 20px;
+       border: 1px solid #2f3e2f;
+       color: #2f3e2f;
+       text-decoration: none;
+       border-radius: 6px;">
+    Get the Protective Home Herbs & Rituals: Full Guide
+  </a>
+</div>
 ---
 
 Protection is not about doing more.
