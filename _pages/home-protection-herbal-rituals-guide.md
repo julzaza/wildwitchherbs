@@ -164,7 +164,7 @@ Each one is placed where it belongs: entry, clearing, holding, or maintenance; s
 
 The full set of methods, written with exact instructions and correct use, can be found here:
 
-<div style="margin: 25px 0;">
+→ <div style="margin: 25px 0;">
   <a href="https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home" 
      target="_blank" 
      style="
@@ -174,7 +174,7 @@ The full set of methods, written with exact instructions and correct use, can be
        color: #2f3e2f;
        text-decoration: none;
        border-radius: 6px;">
-  →  Get the Protective Home Herbs & Rituals: Full Guide
+   Get the Protective Home Herbs & Rituals: Full Guide
   </a>
 </div>
 ---
