@@ -239,7 +239,7 @@ What could be expelled was never the same as what already belonged.
 
 If you want to understand how households protected themselves against what could enter, without disturbing what already belonged, see:
 
-**[Home Protection Herbs and Folk Rituals Guide](/home-protection-herbal-rituals-guide/)**.
+**[The Art of Household Defense: Folk Rituals Guide](/home-protection-herbal-rituals-guide/)**.
 
 ---
 
