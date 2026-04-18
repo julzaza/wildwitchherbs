@@ -30,10 +30,6 @@ image_desktop_1280: /assets/images/heroes/smoke-cleansing-folk-magic/1280x400px-
 image_desktop_1920: /assets/images/heroes/smoke-cleansing-folk-magic/1920x400px-bursera-graveolens-spanish-holy-tree-plant-leaves.webp
 image_alt: "ritual sticks and herbs for burning on plates"
 
-
-permalink: /smoke-cleansing-folk-magic/
-date: 2025-07-07
-
 faq:
   - question: "What is smoke cleansing in folk magic?"
     answer: "Smoke cleansing is a ritual practice using burning herbs or resins to cleanse, protect, banish, or summon spiritual forces across many folk traditions."
@@ -52,7 +48,7 @@ Before incense came in neat little packages, it was a fistful of bitter leaves, 
 
 **Smoke cleansing in folk magic** is the ritual burning of herbs or resins to cleanse space, banish harmful energy, carry prayers to spirits, or mark life transitions. 
 
-Traditional smoke work used local plants — juniper in the Balkans, mugwort in Slavic rites, frankincense in North African temples — chosen by purpose, not trend.
+Traditional smoke work used local plants: juniper in the Balkans, mugwort in Slavic rites, frankincense in North African temples. And it was chosen by purpose, not by trend.
 
 Smoke has always been more than perfume. **It was language. Offering. Defense. Invitation.**
 
@@ -209,7 +205,7 @@ Don’t let modern aesthetics rob your rituals of their teeth. Pick herbs that *
 
 **If you work with smoke, keep notes — which herbs respond, which resist, and which remember you.**
 
-And always ask — who’s watching, and what are you clearing space for?
+And always ask: who’s watching and what are you clearing space for?
 
 ---
 
@@ -228,7 +224,7 @@ Check out:
 Yes, if done carefully. Always ventilate, use fire-safe containers, and avoid toxic or resin-heavy herbs in enclosed spaces. Never burn toxic plants (oleander, henbane) or essential oils on charcoal indoors. See **[Herbs Not Meant for Burning](/never-burn-herbs/)**.
 
 **Can I mix different herbs together?**  
-Traditionally, yes — but with intention. Combining herbs layers effects, but conflicting purposes (summoning + banishing) should be avoided.
+Traditionally yes, but with intention. Combining herbs layers effects, but conflicting purposes (summoning + banishing) should be avoided.
 
 **How often should smoke cleansing be done?**  
 Only when needed. In folk traditions, smoke was used for thresholds, illness, conflict, or spiritual disturbance — not daily routine.
