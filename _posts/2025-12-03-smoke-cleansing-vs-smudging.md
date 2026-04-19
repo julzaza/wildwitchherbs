@@ -181,7 +181,7 @@ If you want to build a smoke practice rooted in safety, ancestry, and the land b
 ## Frequently Asked Questions
 
 ### Can I do smoke cleansing if I’m not Indigenous?
-Yes. Smoke cleansing is global and local—choose herbs from your land and follow safe, intentional practices. It is distinct from smudging, which is a sacred Indigenous ceremony.
+Yes. Smoke cleansing is global and local: choose herbs from your land and follow safe, intentional practices. It is distinct from smudging, which is a sacred Indigenous ceremony.
 
 ### What’s the difference between smoke cleansing and smudging?
 Smudging has lineage, prayer, and cultural protocols. Smoke cleansing is a worldwide tradition using herbs for purification, blessing, and protection, without appropriating Indigenous ceremonies.
