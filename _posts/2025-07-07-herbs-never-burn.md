@@ -71,13 +71,13 @@ A witch in Oregon **ended up in the ER after burning henbane** for a full moon r
 
 In the old world, smoke was sacred. It fed the gods, carried prayers, veiled thresholds. But not every herb was offered to flame.
 
-**Some were too poisonous.** Others, too holy to be desecrated by burning. And a few — if ignited — were said to open doors that were better left shut.
+**Some were too poisonous.** Others, too holy to be desecrated by burning. And a few, if ignited, were said to open doors that were better left shut.
 
-Let’s walk through a **global witch’s list** of herbs you should *not* burn in ritual — and what to do instead when you need their power without courting danger.
+Let’s walk through a **global witch’s list** of herbs you should *not* burn in ritual and what to do instead when you need their power without courting danger.
 
 Don't know what to burn instead? 
 
-Here's a complete guide to **[Safe Herbs For Ritual Smoke Clensing](/smoke-cleansing-folk-magic/#ritual-smoke-herbs-from-around-the-world)** — no ER visits required.
+Here's a complete guide to **[Safe Herbs For Ritual Smoke Clensing](/smoke-cleansing-folk-magic/#ritual-smoke-herbs-from-around-the-world)**, no ER visits required.
 
 ---
 
@@ -271,6 +271,12 @@ It meant **situationally restricted**:
 
 Burning was often the **most dangerous method**.
 
+Most traditional protection work did not begin with burning herbs, it began at the threshold.
+
+Doorways were washed, protective herbs were hidden in walls, bitter plants were hung above entrances, and the hearth was guarded like a living boundary between the family and the outside world.
+
+If you want the deeper folk methods people actually used to guard a house, not just what they burned, start with **[Home Protection Herbs and Folk Rituals Guide](/home-protection-herbal-rituals-guide/)**.
+
 ---
 
 ## At-a-Glance: Why These Herbs Were Never Burned
@@ -316,7 +322,7 @@ Learn how these distinctions were made, see:
 
 ## Safer Sacred Smoke Alternatives
 
-These herbs hold power — and don’t poison the air:
+These herbs hold power and don’t poison the air:
 
 - **Frankincense (Boswellia sacra)** — Ritual elevation, divine contact, East African and Arabic roots.  
 - **Juniper** — Used in Alpine, Mongolian, and Sámi traditions for clearing and protection.  
@@ -346,7 +352,7 @@ Some herbs should never meet flame. Not because they aren’t magical — but be
 Not all cleansing rituals are the same, and not all herbs are culturally or ethically appropriate. 
 
 Burning the wrong plant is not "edgy magic."  
-It is ignorance — or worse, complicity in harm.
+It is ignorance or worse: complicity in harm.
 
 Before choosing plants to burn, you may want to read **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)** — a guide to understanding the difference between global smoke traditions and Indigenous smudging, so your practice remains safe and respectful on all levels.
 
@@ -360,7 +366,7 @@ Before choosing plants to burn, you may want to read **[Smoke Cleansing vs. Smud
 
 ---
 
-## FAQ — Real Questions Witches Actually Ask
+## FAQ: Real Questions Witches Actually Ask
 
 **Can I burn a tiny amount just once?**  
 Sometimes the dose isn’t the danger — the *method* is. Smoke changes plant chemistry. Even small amounts can be harmful.
