@@ -196,7 +196,3 @@ Smoke that touches the body is not symbolic.
 It changes breath.  
 It changes perception.  
 Sometimes, it changes more than intended.
-
-These plants were part of that reality. Not decoration. Not trend.
-
-And not everything that was done in the past is meant to be repeated in the present.
