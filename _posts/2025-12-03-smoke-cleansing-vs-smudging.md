@@ -79,9 +79,15 @@ Across the world, people burned herbs for:
 - newborn purification  
 - preparing ritual spaces  
 
-The method is global, but the herbs change with the land.
+Smoke was rarely used for “good vibes.” In old households, it was practical protection: clearing sickness after illness, guarding thresholds after conflict, blessing a newborn, or keeping unwanted forces from settling in the home.
 
-Below is a worldwide view of smoke cleansing traditions.
+Much of this work centered on the threshold itself: the doorway, the hearth, the gate, the places where illness, envy, and unwanted presence were believed to enter. These were not symbolic spaces, but defended ones.
+
+That older household practice is explored more deeply in **[Home Protection Herbs and Folk Rituals Guide](/home-protection-herbal-rituals-guide/)**.
+
+The smoke cleansing method is global, but the herbs change with the land.
+
+Below is a worldwide view of these traditions.
 
 ---
 
@@ -129,7 +135,11 @@ White sage (**Salvia apiana**) is sacred to several Indigenous nations, and comm
 You never need white sage.  
 You have powerful herbs wherever you live.
 
-That also means knowing which plants can be dangerous to burn — check our comprehensive guide to **[Herbs Never to Burn in Ritual](/never-burn-herbs/)** for safety and clarity.
+It also helps to understand that not all ritual smoke was meant for cleansing a room. Some herbs were burned for the body itself, used carefully in trance work, grief rites, divination, or spirit contact through inhalation rather than fumigation.
+
+That practice belongs to a very different tradition than household smoke cleansing. For that deeper distinction, read **[Sacred Smoke: Herbs Used for Inhalation in Folk Magic](/herbs-for-inhalation-folk-magic/)**. 
+
+That also means knowing which plants can be dangerous to burn. Explore our comprehensive guide to **[Herbs Never to Burn in Ritual](/never-burn-herbs/)** for safety and clarity.
 
 ---
 
