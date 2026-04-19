@@ -52,10 +52,11 @@ Traditional smoke work used local plants: juniper in the Balkans, mugwort in Sla
 
 Smoke has always been more than perfume. **It was language. Offering. Defense. Invitation.**
 
-If you’re unsure whether your ritual counts as smoke cleansing or something else entirely, read **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)**. It explains the 
-cultural differences with clarity and respect, so your practice stays rooted in your own lineage and land.
+If you’re unsure whether your ritual counts as smoke cleansing or something else entirely, read **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)**. It explains the cultural differences with clarity and respect, so your practice stays rooted in your own lineage and land.
 
 Avoid dangerous and sometimes deadly mistakes when working with smoke: make sure you read **[Herbs You Should Never Burn in Ritual](/never-burn-herbs/)**.
+
+If protecting your home from negative forces is a priority, see **[Household Defense Folk Rituals Guide](/home-protection-herbal-rituals-guide/)** to know exactly what to do and what course of action is the most relevant for your situation. 
 
 ---
 
@@ -203,7 +204,7 @@ Your ancestors used it to speak across thresholds. Witches used it to mask their
 
 Don’t let modern aesthetics rob your rituals of their teeth. Pick herbs that **meant something**. Burn them like you mean it.
 
-**If you work with smoke, keep notes — which herbs respond, which resist, and which remember you.**
+**If you work with smoke, keep notes: which herbs respond, which resist, and which remember you.**
 
 And always ask: who’s watching and what are you clearing space for?
 
@@ -214,7 +215,7 @@ And always ask: who’s watching and what are you clearing space for?
 Check out: 
 
 - **[Herbs To Grow For Home Protection Magic](/witchy-plants-to-grow-indoors/)**
-- **[Ancient Herbal Healing Magic](/witchy-herbs-anxiety-grief-emotional-healing/)**
+- **[Inhalation Herbs Used in Witchcraft](/herbs-for-inhalation-folk-magic/)**
 
 ---
 
@@ -227,7 +228,7 @@ Yes, if done carefully. Always ventilate, use fire-safe containers, and avoid to
 Traditionally yes, but with intention. Combining herbs layers effects, but conflicting purposes (summoning + banishing) should be avoided.
 
 **How often should smoke cleansing be done?**  
-Only when needed. In folk traditions, smoke was used for thresholds, illness, conflict, or spiritual disturbance — not daily routine.
+Only when needed. In folk traditions, smoke was used for thresholds, illness, conflict, or spiritual disturbance, not daily routine. To learn how to perform household cleansing properly, see **[Household Protection Herbal Rituals Guide](/home-protection-herbal-rituals-guide/)**. 
 
 **What's the difference between smoke cleansing and smudging?**  
 Smoke cleansing is a global practice using various herbs. Smudging specifically refers to Indigenous North American ceremonies using White Sage, cedar, or sweetgrass in traditional ways.
