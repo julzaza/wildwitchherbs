@@ -3,7 +3,7 @@ layout: single
 title: "Sacred Smoke and Breath: Herbs Used for Inhalation in Folk Magic"
 
 description: "A folklore-based exploration of herbs historically burned, inhaled, or smoked in ritual practice. Learn how plants like mugwort, mullein, and damiana were used in trance, spirit work, and altered states, with clear safety context."
-excerpt: "Before tobacco, certain herbs were inhaled in ritual to enter trance, speak with spirits, or cross thresholds. This guide explores historically used plants, their roles, and the risks often ignored today."
+excerpt: "Before tobacco, certain herbs were inhaled in ritual to enter trance, speak with spirits, or cross thresholds. This guide explores historically smokeable plants, their roles, and the risks often ignored today."
 categories: [herbal-magic, witchcraft-ritual]
 tags: [ritual smoke, trance herbs, mugwort, mullein, folk magic, spirit communication, herbal smoke]
 
@@ -89,6 +89,8 @@ Mugwort was not a comfort herb. It sharpened perception. In excess, it could ove
 Historically, it belongs to those who knew how to work with it. Not to experimentation.
 
 ---
+
+## Smokable Herbs
 
 ## Mullein (Verbascum thapsus)
 
