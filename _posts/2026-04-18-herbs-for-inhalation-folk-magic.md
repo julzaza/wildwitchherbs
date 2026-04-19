@@ -34,11 +34,9 @@ And not every plant belongs in the lungs.
 
 In older traditions, herbs that were burned for space and herbs that were drawn into the body were not treated the same. One cleared a room. The other changed a person.
 
-This article is not encouragement. It is record.
+This article is based on real recorded folk practices.
 
 What follows comes from documented use, scattered across regions and time. Some of these plants were used carefully. Some were used rarely. Some were used at a cost.
-
-Modern curiosity tends to flatten all of that into “herbal smoking blends.” That is not what this is.
 
 ---
 
@@ -73,6 +71,8 @@ Some calmed the body.
 Some carried the practitioner across a line they would not cross sober.
 
 These plants were not interchangeable. Each had a reputation, and that reputation mattered.
+
+Some herbs were meant to be drawn into the body, but many more were burned only for the space itself: to clear a sick room, protect a threshold, or mark the dead passing through. If your work is with the house rather than the lungs, see what **[Herbal Rituals Used for Household Defense](/home-protection-herbal-rituals-guide/)**.
 
 ---
 
