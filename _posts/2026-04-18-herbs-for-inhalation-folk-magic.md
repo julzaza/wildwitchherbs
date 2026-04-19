@@ -62,7 +62,7 @@ This was not everyday practice. It sat at the edges.
 
 ---
 
-## Before Tobacco, There Were Other Plants
+## Before Tobacco, Smoke Already Had a Purpose
 
 Long before tobacco spread globally, different regions used their own plants in smoke or inhalation practices. Not for habit, but for effect.
 
@@ -141,26 +141,6 @@ It could induce strong physical reactions. Nausea, dizziness, and more severe ef
 Lobelia was used deliberately, often in very small amounts, and often under guidance.
 
 It is not a general use herb. It is a plant that makes it clear that some forms of inhalation were never meant for casual hands.
-
----
-
-## What These Plants Were Actually For
-
-If you strip away modern reinterpretation, a pattern appears.
-
-These herbs were not used to relax at the end of the day.
-
-They were used when something had to shift.
-
-- Before trance
-- Before speaking to the dead
-- Before divination
-- During grief when the boundary between living and dead felt thin
-- At moments where ordinary awareness was not enough  
-
-Inhalation was one of several ways to cross that line. Not the most common, and not the safest.
-
-But it existed.
 
 ---
 
