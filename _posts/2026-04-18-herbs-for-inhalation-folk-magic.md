@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Sacred Smoke and Breath: Herbs Used for Inhalation in Folk Magic"
+title: "Sacred Smoke: Herbs Used for Inhalation in Folk Magic"
 
 description: "A folklore-based exploration of herbs historically burned, inhaled, or smoked in ritual practice. Learn how plants like mugwort, mullein, and damiana were used in trance, spirit work, and altered states, with clear safety context."
 excerpt: "Before tobacco, certain herbs were inhaled in ritual to enter trance, speak with spirits, or cross thresholds. This guide explores historically smokeable plants, their roles, and the risks often ignored today."
@@ -26,17 +26,13 @@ faq:
 
 ## This Is Not Harmless
 
-Before anything else, this needs to be said plainly.
-
-Smoke is not neutral.  
-Inhalation is not gentle.  
-And not every plant belongs in the lungs.
+Before anything else, this needs to be said plainly: not every plant belongs in the lungs.
 
 In older traditions, herbs that were burned for space and herbs that were drawn into the body were not treated the same. One cleared a room. The other changed a person.
 
 This article is based on real recorded folk practices.
 
-What follows comes from documented use, scattered across regions and time. Some of these plants were used carefully. Some were used rarely. Some were used at a cost.
+What follows comes from documented use, scattered across regions and time. Some of these plants were used carefully, some were used rarely, and some were used at a cost.
 
 ---
 
@@ -58,7 +54,7 @@ When smoke enters the lungs, it is no longer symbolic. It becomes physical, imme
 - crossing ritual thresholds
 - divination under altered awareness  
 
-This was not everyday practice. It sat at the edges.
+This was not everyday practice. 
 
 ---
 
