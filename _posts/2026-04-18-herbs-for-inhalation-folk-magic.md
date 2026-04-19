@@ -52,11 +52,11 @@ This mattered.
 
 When smoke enters the lungs, it is no longer symbolic. It becomes physical, immediate, and often unpredictable. Because of that, inhaled herbs were usually tied to specific acts:
 
-entering trance  
-preparing for spirit contact  
-moving through grief  
-crossing ritual thresholds  
-divination under altered awareness  
+- entering trance
+- preparing for spirit contact
+- moving through grief
+- crossing ritual thresholds
+- divination under altered awareness  
 
 This was not everyday practice. It sat at the edges.
 
