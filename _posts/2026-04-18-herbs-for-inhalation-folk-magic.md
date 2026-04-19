@@ -179,6 +179,10 @@ Folk practitioners were not reckless. Knowledge was the difference between use a
 
 Modern curiosity often removes that boundary. That is where problems begin.
 
+Some ritual herbs are powerful in smoke but dangerous when burned carelessly, especially indoors or in enclosed spaces. 
+
+Others **should never be burned at all**. For a deeper guide to what should never go on the fire, read **[Herbs That Should Never be Burned in Ritual](/never-burn-herbs/)**.
+
 ---
 
 ## Final Notes
