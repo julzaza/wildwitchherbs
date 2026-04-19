@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "7 Herbs You Should Never Burn in Ritual, What to Use Instead"
-excerpt: "A global guide to herbs you should never burn in ritual — whether toxic, sacred, or spiritually volatile — and powerful alternatives rooted in traditional witchcraft and folklore."
-description: "A folklore-based guide to herbs that should never be burned due to toxicity, cultural boundaries, or ritual danger — with safer traditional alternatives."
+excerpt: "A global guide to herbs you should never burn in ritual, whether toxic, sacred, or spiritually volatile; and powerful alternatives rooted in traditional witchcraft and folklore."
+description: "A folklore-based guide to herbs that should never be burned due to toxicity, cultural boundaries, or ritual danger with safer traditional alternatives."
 meta_description: "Discover 7 toxic herbs you should never burn in ritual, from henbane to belladonna, and learn safe alternatives like mugwort and juniper for smoke cleansing."
 featured: true
 author: "Wild Witch Herbs"
@@ -29,9 +29,6 @@ keywords:
   - toxic herbs smoke
   - ritual safety herbs
   - global witchcraft herbs
-
-permalink: /never-burn-herbs/
-date: 2025-07-07
 
 faq:
   - question: "What herbs are dangerous to burn?"
@@ -105,6 +102,12 @@ Here's a complete guide to **[Safe Herbs For Ritual Smoke Clensing](/smoke-clean
 Used by ancient Greek oracles, Norse seid-workers, and Slavic witches to commune with spirits. But **never by smoke**. Burning henbane can cause delirium, convulsions, or death.
 
 **Instead:** Hang dried henbane at a threshold for protection. In dreamwork or necromancy, use **mugwort** or **damiana**, both safely smoked in small amounts.
+
+Replace with stronger version:
+
+Instead: Hang dried henbane at a threshold for protection. In dreamwork or necromancy, practitioners more often turned to plants like **mugwort** or **damiana**, both safely smoked in small amounts.
+
+For a deeper look at those older inhalation practices, read **[Sacred Breath: Herbs Used for Inhalation in Folk Magic](/herbs-for-inhalation-folk-magic/)**.
 
 ---
 
