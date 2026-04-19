@@ -1,12 +1,10 @@
 ---
 layout: single
 title: "Smoke Cleansing vs. Smudging"
-permalink: /smoke-cleansing-vs-smudging/
+
 excerpt: "A global guide to smoke cleansing traditions, how they differ from Indigenous smudging, and which herbs are safe to burn."
 description: "Learn the difference between smoke cleansing and smudging. Explore global traditional cleansing practices and herbs from Europe, Asia, Africa, and beyond."
 author: Wild Witch Herbs
-date: 2025-07-07
-
 
 image_mobile: /assets/images/heroes/smoke-cleansing-vs-smudging/800x1000pxdried-autumn-flowers-representing-indian-sanchi-stupa-art.webp
 image_desktop_1280: 
@@ -81,7 +79,7 @@ Across the world, people burned herbs for:
 - newborn purification  
 - preparing ritual spaces  
 
-The method is global — but the herbs change with the land.
+The method is global, but the herbs change with the land.
 
 Below is a worldwide view of smoke cleansing traditions.
 
