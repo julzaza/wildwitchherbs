@@ -125,7 +125,7 @@ Below is a worldwide view of these traditions.
 - **Tea tree leaves** (cleansing, antimicrobial)  
 - **Eucalyptus** (banishing sickness, clearing heaviness)
 
-Smoke cleansing is universal — but always rooted in local land and local spirits.
+Smoke cleansing is universal, but it is always rooted in local land and local spirits.
 
 ---
 
