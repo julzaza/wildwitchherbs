@@ -152,11 +152,11 @@ These herbs were not used to relax at the end of the day.
 
 They were used when something had to shift.
 
-Before trance  
-Before speaking to the dead  
-Before divination  
-During grief when the boundary between living and dead felt thin  
-At moments where ordinary awareness was not enough  
+- Before trance
+- Before speaking to the dead
+- Before divination
+- During grief when the boundary between living and dead felt thin
+- At moments where ordinary awareness was not enough  
 
 Inhalation was one of several ways to cross that line. Not the most common, and not the safest.
 
@@ -196,3 +196,7 @@ Smoke that touches the body is not symbolic.
 It changes breath.  
 It changes perception.  
 Sometimes, it changes more than intended.
+
+Many people still confuse ritual inhalation with smoke cleansing, and both are often wrongly collapsed into the word “smudging.” They are not the same practice. 
+
+If you want to understand the difference between folk fumigation, household cleansing, and Indigenous smudging traditions, read **[Smoke Cleansing vs. Smudging: What Folk Traditions Actually Did](/smoke-cleansing-vs-smudging/)**.
