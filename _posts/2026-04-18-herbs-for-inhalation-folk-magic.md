@@ -75,8 +75,9 @@ These plants were not interchangeable. Each had a reputation, and that reputatio
 Some herbs were meant to be drawn into the body, but many more were burned only for the space itself: to clear a sick room, protect a threshold, or mark the dead passing through. If your work is with the house rather than the lungs, see what **[Herbal Rituals Used for Household Defense](/home-protection-herbal-rituals-guide/)**.
 
 ---
+## Smokable Herbs
 
-## Mugwort (Artemisia vulgaris)
+### Mugwort (Artemisia vulgaris)
 
 Mugwort appears again and again in European and Asian traditions as a plant of altered sight.
 
@@ -90,9 +91,7 @@ Historically, it belongs to those who knew how to work with it. Not to experimen
 
 ---
 
-## Smokable Herbs
-
-## Mullein (Verbascum thapsus)
+### Mullein (Verbascum thapsus)
 
 Mullein stands apart for a different reason.
 
@@ -106,7 +105,7 @@ Even so, historical use does not equal safety. The idea that something “helps 
 
 ---
 
-## Coltsfoot (Tussilago farfara)
+### Coltsfoot (Tussilago farfara)
 
 Coltsfoot was once commonly smoked in Europe for coughs and chest illness.
 
@@ -120,7 +119,7 @@ Today, it stands as a warning. Not everything carried forward should be repeated
 
 ---
 
-## Damiana (Turnera diffusa)
+### Damiana (Turnera diffusa)
 
 Damiana comes from Central and South American traditions, where it was used as a tonic, an aphrodisiac, and at times in smoking mixtures.
 
@@ -132,7 +131,7 @@ Even so, inhalation was not casual. It was part of preparation, not distraction.
 
 ---
 
-## Lobelia (Lobelia inflata)
+### Lobelia (Lobelia inflata)
 
 Lobelia is where the line becomes very clear.
 
@@ -146,7 +145,7 @@ It is not a general use herb. It is a plant that makes it clear that some forms 
 
 ---
 
-## Herbs That Should Never Be Inhaled
+### Herbs That Should Never Be Inhaled
 
 This matters just as much as what was used.
 
