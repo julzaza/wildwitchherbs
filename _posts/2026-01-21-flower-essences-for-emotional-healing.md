@@ -2,7 +2,7 @@
 layout: single
 title: "Flower Essences for Emotional Shock & Healing"
 description: "A folklore-grounded guide to flower essences as emotional first aid. Explore the Five Flower Remedy, ancestral trauma healing, and how flowers were used for shock, fear, and grief in folk traditions."
-excerpt: "Long before modern therapy, healers turned to flowers for emotional shock, grief, fear, and spiritual collapse. This post explores flower essences as emotional first aid — where folk wisdom and modern practice meet."
+excerpt: "Long before modern therapy, healers turned to flowers for emotional shock, grief, fear, and spiritual collapse. This post explores flower essences as emotional first aid, where folk wisdom and modern practice meet."
 
 categories: [natural-healing, herbal-magic]
 tags: [flower essences, emotional healing herbs, folk healing, trauma herbs, five flower remedy, bach flower remedies, witchcraft healing]
@@ -29,9 +29,9 @@ In folk healing traditions, shock, terror, grief, and sudden fear were understoo
 
 Flowers were chosen when the injury lived in the breath, the heart, or the spirit.
 
-This is where **flower essences** belong: not as medicine in the modern sense, but as **emotional first aid** — subtle, quiet, and deeply old.
+This is where **flower essences** belong: not as medicine in the modern sense, but as **emotional first aid**: subtle, quiet, and deeply old.
 
-For those needing more than subtle support — herbs that work directly on the nervous system, sleep, and tension — we’ve put together a more grounded approach here:
+For those needing more than subtle support, herbs that work directly on the nervous system, sleep, and tension, explore a more grounded approach here:
 
 - **[Simple Herbal Tea Recipes for Anxiety and Emotional Balance](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
 
@@ -67,7 +67,7 @@ They do not work through:
 - Nutrients
 - Pharmacological action
 
-In European folk practice, flowers were laid on the chest of the grieving, braided into wreaths for the bereaved, steeped lightly for the shaken, or worn close to the skin. They were never meant to overpower — only to steady.
+In European folk practice, flowers were laid on the chest of the grieving, braided into wreaths for the bereaved, steeped lightly for the shaken, or worn close to the skin. They were never meant to overpower, only to steady.
 
 This is **not a daily tonic**.  
 It is **emotional triage**.
@@ -82,7 +82,7 @@ Flowers act on the **moment**.
 One of the most well-known modern flower essence blends is the **Five Flower Remedy**, sometimes called emotional first aid for moments of crisis.
 
 In the early 20th century, physician Edward Bach systematized what became known as the Five Flower Remedy.
-But the logic behind it — using flowers for shock, grief, and emotional disturbance — is far older, rooted in European folk practice.
+But the logic behind it: using flowers for shock, grief, and emotional disturbance, is far older, rooted in European folk practice.
 
 Each flower addresses a specific trauma response observed repeatedly in people under distress.
 
@@ -251,7 +251,7 @@ Flower-based remedies were chosen when someone was:
 - Emotionally numb
 - Spiritually unsettled
 
-They were often paired with rest, warmth, gentle food, and silence — never force.
+They were often paired with rest, warmth, gentle food, and silence - never force.
 
 ---
 
@@ -263,7 +263,7 @@ They exist briefly.
 They open fully.  
 They fade.
 
-This makes them ideal allies for moments of emotional rupture — when something must pass, not be fought.
+This makes them ideal allies for moments of emotional rupture, when something must pass, not be fought.
 
 Flower essences do not dominate the body.  
 They signal safety rather than demand change.
@@ -366,7 +366,7 @@ Some remedies steady the breath.
 Some call the spirit home.  
 Some simply sit with you until the shaking stops.
 
-Flower essences belong to this quieter lineage of care — one our ancestors understood well.
+Flower essences belong to this quieter lineage of care, which our ancestors understood well.
 
 If you tend wounds of the body, learn your roots.  
 If you tend wounds of the heart, listen to the flowers.
