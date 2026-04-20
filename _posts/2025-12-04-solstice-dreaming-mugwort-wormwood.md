@@ -6,13 +6,9 @@ author: Wild Witch Herbs
 description: "A folklore-rich guide to solstice dreaming with mugwort and wormwood, exploring Old European prophetic rites, dream magic, and winter vision practices."
 excerpt: "How Old European witches used mugwort and wormwood on the winter solstice to call prophetic dreams, travel the night-road, and read omens for the year ahead."
 
-categories:
-  - witchcraft-ritual
-  - herbal-magic
+categories: [herbal-magic, witchcraft-ritual]
 
-tags:
-  - solstice dreaming
-  - dream magic
+tags: [vision practices, lucid dreaming, folk magic, spirit communication, dream work, prophetic dreams]
 
 faq:
   - question: "When is the best night to practice solstice dreaming?"
