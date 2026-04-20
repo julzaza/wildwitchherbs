@@ -126,6 +126,10 @@ In Vodou, it’s used to calm disturbed spirits and open ritual space.
 
 In Japanese *omamori*, mugwort is sometimes used in amulets for protection. In the Balkans, young women bathed in mugwort-infused water before Slava or solstice rituals.
 
+Mugwort’s strongest dream traditions appear around the solstices, especially Midsummer and the Twelve Nights, when prophetic dreams were believed to carry unusual power.
+
+For the full folklore of mugwort dream rites, read **[Solstice Dreaming: Mugwort, the Twelve Nights & Prophetic Sleep](/solstice-dreaming-mugwort/)**.
+
 ---
 
 ### **Dittany of Crete (*Origanum dictamnus*)**  
@@ -169,19 +173,19 @@ In some Slavic traditions, the mandrake was kept wrapped in silk, fed milk, and 
 **Use:** Strength, stamina, grounding  
 **Folklore:** Used in Ayurvedic medicine for thousands of years. 
 
-Root powder is given to those recovering from illness or spiritual depletion. Also considered a protective plant for the “householder” stage of life — keeping evil away from family and hearth.
+Root powder is given to those recovering from illness or spiritual depletion. Also considered a protective plant for the “householder” stage of life, keeping evil away from family and hearth.
 
 ---
 
 ## Trees That Hold the Garden’s Spine
 
-Herbs form the living skin of a witch’s garden — fragrant, shifting, seasonal.
+Herbs form the living skin of a witch’s garden: fragrant, shifting, seasonal.
 
 But trees hold its bones.
 
 In many European traditions, protective planting did not end at beds or borders. A rowan (mountain ash tree) near the entrance guarded the threshold from wandering forces. 
 
-Deeper in the land, oak trees anchored the spiritual authority of the space itself — witnessing rites, boundary oaths, and seasonal offerings.
+Deeper in the land, oak trees anchored the spiritual authority of the space itself, witnessing rites, boundary oaths, and seasonal offerings.
 
 **Where rowan watched who approached, oak governed what was sworn beneath its branches.**
 
@@ -221,7 +225,7 @@ You don’t need to copy rituals, but know where they come from — and respect 
 - Windowsill with sun? Absolutely.  
 - Rented space where nothing’s yours? Make the soil yours with intention.
 
-All you need is life — a place to let roots dig in.
+All you need is a place to let roots dig in.
 
 In fact, **[Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)** will show you how to turn even the smallest corner into a living altar.
 
@@ -235,7 +239,7 @@ Certain herbs appear again and again in traditional gardens because they address
 
 The table below maps specific plants to their regions and roles.
 
-Placement also mattered — certain herbs guarded thresholds, others anchored ritual space, while **some were deliberately hidden due to their potency**.
+Placement also mattered: certain herbs guarded thresholds, others anchored ritual space, while **some were deliberately hidden due to their potency**.
 
 
 | Plant                             | Traditional Region                    | Folklore Role                                       | Garden Placement / Function                                |
@@ -262,19 +266,21 @@ Real witchcraft is about tending something real, rooted, and remembered.
 
 But before buying seeds or planning beds, take a walk.
 
-Look at **what already grows where you live** — along roadsides, in cracks, at field edges, behind fences. In traditional folk practice, the most powerful plants were often the ones that **volunteered themselves**.
+Look at **what already grows where you live**: along roadsides, in cracks, at field edges, behind fences. In traditional folk practice, the most powerful plants were often the ones that **volunteered themselves**.
 
 Wormwood where the land has been disturbed.  
 Mugwort near paths and thresholds.  
 Yarrow in grazed fields.  
 
-These plants are not random. Folk cultures believed the land offered what was needed — for healing, protection, or endurance — long before humans named it.
+These plants are not random. Folk cultures believed the land offered what was needed for healing, protection, or endurance - long before humans named it.
 
 A real witch’s garden begins with **listening**, not planting.
 
 And our post on **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)** will guide you in planting protection right at your threshold.
 
 For every protective herb, there were others considered too volatile to bring near the home: **[Plants Witches Avoid in the Garden and Threshold](/plants-witches-avoid-folklore/)**.
+
+
 
 ---
 
