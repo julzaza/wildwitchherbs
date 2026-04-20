@@ -84,7 +84,7 @@ A powerful plant of **thresholds and unions**, yarrow was once laid across brida
 
 - *Folklore:* In the Scottish Highlands, it was called *milfoil* and burned at thresholds during Samhain.
 - *Magical Properties:* Protection, courage, divination, healing.
-- Growing Tip: Drought-resistant and tough—perfect for door borders.
+- Growing Tip: Drought-resistant and tough: perfect for door borders.
 
 ---
 
@@ -216,11 +216,11 @@ Check out **[Why Witches Chose Rosemary to Guard the Front Door](/why-witches-pl
 
 While herbs and shrubs guard the threshold, some traditions looked higher. 
 
-In the Balkans, the oak tree stood as the ultimate living ward—not planted at the door, but marking the village boundary itself. Unlike the tender herbs in your pots, these trees witnessed oaths, absorbed lightning, and outlasted generations. 
+In the Balkans, the oak tree stood as the ultimate living ward. It was not planted at the door, but marked the village boundary itself. Unlike the tender herbs in your pots, these trees witnessed oaths, absorbed lightning, and outlasted generations. 
 
 The **[Balkan Oak Tree Cult](/balkan-oak-tree-cult/)** treated these giants as shrines that anchored memory long before churches claimed the land. 
 
-Farther north, the **[Rowan Tree by the Door](/rowan-trees-front-door-old-world-folklore/)** served as the household's personal sentinel— warding off witches and unwanted spirits from Scotland to Scandinavia.
+Farther north, the **[Rowan Tree by the Door](/rowan-trees-front-door-old-world-folklore/)** served as the household's personal sentinel, warding off witches and unwanted spirits from Scotland to Scandinavia.
 
 ---
 
