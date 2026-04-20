@@ -39,6 +39,10 @@ Not all witches have acres of wild forest or sprawling gardens and that's perfec
 
 A well-tended **windowsill**, **shelf**, or **sunny corner** can become a sacred indoor garden, rich with spellwork, folklore, and life. The right houseplants do more than cleanse the air: they protect, bless, banish, attract, and guide.
 
+Not all indoor witchy plants are meant only for altars or dreamwork. Many were traditionally placed at doors, windows, hearths, and thresholds to guard the entire household.
+
+If you want to move beyond bedside protection and learn how herbs were used to defend the home itself, get the full **[Herbal Home Defense Rituals Guide](/home-protection-herbal-rituals-guide/)**.
+
 Here are the top **witchy plants that grow well indoors**, chosen for both **their magical properties** and their **actual ability to thrive in pots**.
 
 ---
@@ -71,7 +75,7 @@ Here are the top **witchy plants that grow well indoors**, chosen for both **the
 
 **Magic:** Banishing, protection, breaking hexes  
 **Folklore:** Called the “Herb of Grace”; carried in Balkan and Italian traditions to ward off the Evil Eye. Used by witches and priests alike.  
-**Why indoors:** Likes bright light and dry soil. Rue is **potent**—handle with care, and avoid if pregnant.
+**Why indoors:** Likes bright light and dry soil. Rue is **potent**, handle with care, and avoid if pregnant.
 
 ---
 
@@ -95,7 +99,7 @@ Here are the top **witchy plants that grow well indoors**, chosen for both **the
 
 **Magic:** Protection, boundary-setting, energetic shielding  
 **Folklore:** Known as “Mother-in-Law’s Tongue,” but in folk witchcraft it’s respected for keeping out **spiritual intruders** and bad vibes.  
-**Why indoors:** Practically unkillable. Thrives in low light and asks little—ideal for beginners.
+**Why indoors:** Practically unkillable. Thrives in low light and asks little, ideal for beginners.
 
 ---
 
@@ -103,7 +107,7 @@ Here are the top **witchy plants that grow well indoors**, chosen for both **the
 
 **Magic:** Healing, beauty, house blessing  
 **Folklore:** Hung above doors in African diasporic traditions to protect from harm; used in Egyptian and Mediterranean healing rites.  
-**Why indoors:** Needs a sunny spot and well-draining soil. Break a leaf to soothe burns—or to anoint the skin before rituals.
+**Why indoors:** Needs a sunny spot and well-draining soil. Break a leaf to soothe burns or to anoint the skin before rituals.
 
 ---
 
