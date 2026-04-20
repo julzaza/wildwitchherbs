@@ -56,7 +56,7 @@ Historic uses included:
 - burned in small amounts on midsummer nights for prophetic visions  
 - woven into sleeping charms during the Twelve Nights  
 
-In the Balkans, mugwort was tied with red thread and hung where the sleeper could see it upon waking—anchoring the soul back into the body.
+In the Balkans, mugwort was tied with red thread and hung where the sleeper could see it upon waking, anchoring the soul back into the body.
 
 ---
 
