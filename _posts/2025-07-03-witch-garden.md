@@ -57,7 +57,7 @@ The answer depends on *who you ask*. That’s the first truth. What’s sacred i
 - They heal **and** harm, depending on the dose.
 - They have long-standing use in **folk medicine** or **ritual**.
 - They’re often overlooked or feared by outsiders.
-- And they demand respect. Not just admiration — *relationship*.
+- And they demand respect. Not just admiration, but a *relationship*.
 
 ---
 
@@ -72,7 +72,7 @@ These herbs carry long cultural memory. Their use stretches back centuries.
 **Use:** Spiritual purity, protection, healing  
 **Folklore:** Considered the earthly embodiment of Lakshmi. 
 
-Almost every traditional Hindu home grows it in a central altar pot. Watered daily while chanting mantras — not for decoration, but for divine connection.
+Almost every traditional Hindu home grows it in a central altar pot. Watered daily while chanting mantras for divine connection, not just decoration.
 
 ---
 
@@ -94,7 +94,7 @@ In the Balkans, wild Artemisia is still used to “smoke out” sickness or stuc
 
 #### Seeds With a Story
 
-We recently sourced a small batch of heirloom Artemisia annua tea and seeds from traditional growers in the southern Balkans — wild-grown and strong.
+We recently sourced a small batch of heirloom Artemisia annua tea and seeds from traditional growers in the southern Balkans: wild-grown and strong.
 
 If you’re called to cultivate this plant yourself, you can find them here:
 
@@ -281,8 +281,6 @@ A real witch’s garden begins with **listening**, not planting.
 And our post on **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)** will guide you in planting protection right at your threshold.
 
 For every protective herb, there were others considered too volatile to bring near the home: **[Plants Witches Avoid in the Garden and Threshold](/plants-witches-avoid-folklore/)**.
-
-
 
 ---
 
