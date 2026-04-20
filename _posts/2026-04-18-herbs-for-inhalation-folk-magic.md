@@ -77,7 +77,7 @@ Mugwort appears again and again in European and Asian traditions as a **plant of
 
 It was burned, carried, placed under pillows, and in some cases inhaled in small amounts before sleep or ritual. Its association is consistent: dreams, second sight, and movement between worlds.
 
-In parts of Europe, it was tied to **midsummer rites** and worn or used when **crossing roads at night or approaching burial places**.
+In parts of Europe, it was tied to **midsummer rites**, winter solstice magic, and worn or used when **crossing roads at night or approaching burial places**. This is explored in detail in **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)**.
 
 Mugwort was not a comfort herb: it sharpened perception. In excess, it could overwhelm.
 
