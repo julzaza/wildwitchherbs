@@ -2,8 +2,9 @@
 layout: single
 title: "Visionary & Trance Plants in Balkan Folk Magic"
 
-excerpt: "A deep dive into the use of trance and visionary plants in Balkan folk magic—documented ethnography, protective herbs, and ritual practices from the mountains to the Adriatic coast."
+excerpt: "A deep dive into the use of trance and visionary plants in Balkan folk magic; documented ethnography, protective herbs, and ritual practices from the mountains to the Adriatic coast."
 description: "Explore historically documented visionary and trance plants in Balkan folk magic. Rooted in ethnography, folklore, and ritual tradition, this guide emphasizes ethical, ceremonial, and protective uses in the Balkans."
+
 author: Wild Witch Herbs
 categories: [herbal-magic, folklore-ancestral]
 tags: [Balkan folk magic, trance plants, visionary herbs, ethnobotany, ritual herbs, traditional magic]
