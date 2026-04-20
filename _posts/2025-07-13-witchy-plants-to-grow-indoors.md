@@ -155,7 +155,7 @@ Yes. Indoor plants can amplify intention, attract blessings, protect the home, a
 Most are safe, but some like rue can irritate skin, and mugwort may affect sensitive individuals. Always handle toxic plants with care, keep away from children and pets, and avoid ingestion unless properly researched.
 
 **Can indoor plants protect the home from negative energy?**  
-Yes. Herbs like rosemary, rue, and snake plant were traditionally placed indoors to ward off negative energy, strengthen boundaries, and maintain a sacred space.
+Yes. Herbs like rosemary, rue, and snake plant were traditionally placed indoors to ward off negative energy, strengthen boundaries, and maintain a sacred space. If you think your home has too much heavy energy or needs an energetic reset, see the **[Full Guide to Household Protection Plants and Rituals](/home-protection-herbal-rituals-guide/)**, which includes precise instructions on working with living guardian herbs as well as other potent magik workings. 
 
 **Do I need to perform rituals for indoor plants to work magically?**  
 Rituals amplify the plants’ energy, but even simple care, attention, and placement in your space contribute to their protective and magical properties. Intent and consistency are key.
