@@ -32,57 +32,94 @@ faq:
 
 ---
 
-# The Night of Prophecy
+# The Nights of Prophecy
 
-The winter solstice is not merely the longest night of the year—  
-it is **the oldest dreaming night** in the Old European witch’s calendar.
+Across Old European folk traditions, both the **summer solstice (Midsummer / St. John’s Eve)** and the **winter solstice (the Twelve Nights)** were treated as thresholds when dreams carried unusual authority.
 
-Before Christian calendars and later divination systems, people believed that on this single night:
+At midsummer, the **sun stood at its height**.  
+At midwinter, it **paused at its lowest point**.
 
-- the **sun paused**,  
+Both were liminal doors.
+
+People believed that on these nights:
+
+- the sun changed its course,  
 - the **walls between worlds thinned**,  
-- and the **soul could travel farther** than on any other night.
+- and the **soul could travel farther** than usual.
 
-Dreams on the solstice were treated as **direct messages**—ancestral counsel, warnings, or instructions for the coming year. Witches did not wait for dreams to happen; they prepared for them with herbs, rites, and careful intention. Two plants stand out across the sources: **mugwort** and **wormwood**—the opener and the revealer of visions.
+Dreams during these turning points were treated as direct messages—warnings, ancestral counsel, marriage omens, harvest signs, and signs for the coming year.
 
-For wider context on how these rituals fit into Old European practice, see **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**.
+Witches did not wait for dreams to happen. They prepared for them with herbs, rites, and careful intention.
+
+The strongest dream herb across these traditions was **mugwort**.
+
+**Wormwood** stood beside it, not as the dream herb itself, but as the bitter guardian of thresholds and protection.
 
 ---
 
-## Why the Solstice Was the Night of Prophecy
+## Summer Solstice and Winter Solstice Dreaming
 
-Old European cosmologies pictured the sun as a living presence whose ebb and return structured fate. At the solstice its decline was deepest; its rebirth uncertain. That precarious hinge created a liminal corridor where ancestry, fate, and prophecy pressed closest to the living.
+Historically, **mugwort is more strongly tied to summer solstice than winter solstice**.
 
-In this corridor, dreams acquired authority:  
-they foretold births, harvests, sickness, travel, and the tone the year would take. Solstice dreaming was less entertainment and more civic intelligence—shared, recorded, and acted upon.
+On Midsummer or St. John’s Eve, mugwort was:
+
+- gathered when its power was believed strongest,  
+- worn in belts or garlands around bonfires,  
+- placed beneath pillows for prophetic dreams,  
+- used by unmarried women seeking dreams of future spouses.
+
+The herb was often harvested in summer and kept for later use during winter divination.
+
+Winter solstice dreaming belonged more to the long dark season of prophecy, the Twelve Nights, when dreams were read for the coming year, household fortune, illness, travel, and ancestral messages.
+
+Summer charged the herb.  
+Winter asked the question.
 
 ---
 
 ## Mugwort — The Dream-Mother
 
-Mugwort (Artemisia) is the continental dream herb. Ethnographies from Britain to the Balkans show consistent uses:
+Mugwort (*Artemisia vulgaris*) is the true continental dream herb.
 
-- stuffed in pillows for prophetic dreams,  
-- burned as a bedside incense to steady vision,  
-- woven into winter wreaths to protect while allowing divination.
+Ethnographies from Britain to the Balkans show remarkably consistent uses:
 
-Mugwort opens sight gently and protects the dreamer from hostile spirit intrusion. In many traditions the plant is **charged in summer** and deployed in winter when its visionary quality is believed strongest.
+- stuffed into pillows for prophetic dreams,  
+- burned lightly near the bedside before sleep,  
+- carried for protection during night travel,  
+- woven into midsummer wreaths and protective garlands.
+
+Mugwort opens sight gently.
+
+It was believed to steady the dreamer, protect against hostile spirit intrusion, and allow clearer symbolic vision without forcing it.
+
+In many traditions, it was gathered at summer solstice and used later during winter dream work, when divination for the coming year became most important.
+
+It is the herb of dreaming, not domination.
 
 ---
 
-## Wormwood — The Bitter Revealer
+## Wormwood — The Bitter Threshold Herb
 
-Wormwood (Artemisia absinthium) carries an older, sharper tone. Across Balkan and Central European lore it is described as a plant of the grave-wind—bitter and direct.
+Wormwood (*Artemisia absinthium*) carries a harsher reputation.
 
-Uses recorded in folk collections include:
+Across Balkan and Central European folklore, it was associated with bitterness, grave-winds, protection against harmful forces, and boundary work.
 
-- placed beneath the bed to reveal curses or secret enemies,  
-- burned to open deeper layers of the dream-road,  
-- used in small, carefully controlled fumigations to force truthful visions.
+Its stronger traditional uses include:
 
-Wormwood does not “soft-open” the dreamscape; it cleaves. That is why witches used it sparingly and with clear intent.
+- hung near doors or stables for protection,  
+- placed near the bed to guard against troubling influences,  
+- burned in small fumigations to clear heavy atmospheres,  
+- used in bitter charms against curses and hostile spirits.
 
-For advanced practices, link to **[Wormwood & Lucid Dreaming](/wormwood-lucid-dreaming/)**.
+Unlike mugwort, wormwood was not primarily the dream herb.
+
+It was the guard at the threshold.
+
+Where mugwort opened the road, wormwood stood watch over who crossed it.
+
+That is why it was used sparingly and with clear purpose.
+
+For deeper work with this plant, see **[Wormwood & Lucid Dreaming](/wormwood-lucid-dreaming/)**.
 
 ---
 
@@ -104,7 +141,18 @@ For advanced practices, link to **[Wormwood & Lucid Dreaming](/wormwood-lucid-dr
 4. Set intention aloud: *“Let my dreams speak truth. Let clarity come.”*  
 5. Sleep without interruption; record everything on waking.
 
-For traditional dream-keeping practices and how witches read images, consult **[The Twelve Nights](/twelve-nights-witchcraft/)**.
+Dreams on the winter solstice were treated as **direct messages** - ancestral counsel, warnings, or instructions for the coming year. 
+
+Old European cosmologies pictured the sun as a living presence whose ebb and return structured fate. At the solstice its decline was deepest; its rebirth uncertain. That precarious hinge created a **liminal corridor** where ancestry, fate, and prophecy pressed closest to the living.
+
+In this corridor, dreams acquired authority:  
+they foretold births, harvests, sickness, travel, and the tone the year would take. Solstice dreaming was less entertainment and more civic intelligence; shared, recorded, and acted upon.
+
+Witches did not wait for dreams to happen; they prepared for them with herbs, rites, and careful intention.
+
+For wider context on how these rituals fit into Old European practice, see **[Winter Solstice Witchcraft: Old European Magic & Rituals](/winter-solstice-witchcraft/)**.
+
+For traditional dream interpretation and yearly omen-reading, see **[The Twelve Nights](/twelve-nights-witchcraft/)**.
 
 ---
 
@@ -130,11 +178,9 @@ Record literal details first; the old readers then located symbolic corresponden
 
 ## Make Your Own Winter Witch Bottle for Protection:
 
-Wormwood kept the spirits off the animals, St. John’s Wort held the memory of the summer sun, juniper guarded the thresholds. 
+Wormwood kept the spirits off the animals, **[St. John’s Wort Held the Memory of the Summer Sun](/st-johns-wort-sun-water/)**, juniper guarded the thresholds. 
 
-These same herbs were layered into the Winter Witch Bottle, a solstice charm crafted when the nights were longest and the world felt thinnest.
-
-Explore the full traditional recipe: **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**.
+These same herbs were layered into **[The Witch’s Winter Bottle: Solstice Protection Magic](/witchy-winter-solstice-bottle/)**, a solstice charm crafted when the nights were longest and the world felt thinnest.
 
 ---
 
