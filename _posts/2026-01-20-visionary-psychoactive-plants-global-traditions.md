@@ -2,8 +2,8 @@
 layout: single
 title: "Visionary & Psychoactive Plants in Global Traditional Magic"
 
-excerpt: "A historically grounded exploration of visionary and psychoactive plants used in ritual magic across cultures—from peyote and ayahuasca to mandrake and Syrian rue—rooted in ethnography, folklore, and lived tradition."
-description: "Explore documented visionary and psychoactive plants used in traditional magic worldwide. This folklore-rich guide draws on ethnography, historical sources, and ritual context—without modern myths or unsafe claims."
+excerpt: "A historically grounded exploration of visionary and psychoactive plants used in ritual magic across cultures: from peyote and ayahuasca to mandrake and Syrian rue—rooted in ethnography, folklore, and lived tradition."
+description: "Explore documented visionary and psychoactive plants used in traditional magic worldwide. This folklore-rich guide draws on ethnography, historical sources, and ritual context, without modern myths or unsafe claims."
 author: Wild Witch Herbs
 categories: [herbal-magic, folklore-ancestral]
 tags: [visionary plants, psychoactive herbs folklore, ritual magic plants, ethnobotany, traditional magic, sacred plants]
