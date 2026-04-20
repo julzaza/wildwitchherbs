@@ -4,17 +4,10 @@ title: "Witchy Plants for the Front Door"
 
 description: "Discover 16 powerful threshold plants used by witches and folk healers to protect and bless homes. From southernwood and basil to lavender and rosemary, learn how these herbs and shrubs guard doors, invite blessings, and work ancestral magic."
 excerpt: "Guard your threshold with sacred plants used by witches and folk healers through the ages. Discover the potent magic of protective herbs, shrubs, and charms planted by doorways to bless and defend the home."
-categories:
-  - herbal-magic
-  - witchcraft-ritual
-tags:
-  - protection
-  - magical plants
-  - folklore
-  - witchcraft
-  - garden magic
-  - folk magic
-  - threshold
+
+categories: [herbal-magic, witchcraft-ritual]
+tags: [protection, magical plants, folklore, witchcraft, garden magic, folk magic, threshold]
+
 faq:
   - question: "What are threshold plants and why are they used at the front door?"
     answer: "Threshold plants are herbs, shrubs, and flowering plants historically placed near doorways to protect the home, invite blessings, and honor ancestral magic. They serve as living wards, combining practical, spiritual, and symbolic functions."
