@@ -4,16 +4,9 @@ title: "Witchy Plants to Grow Indoors"
 
 excerpt: "Create an indoor witch’s garden with powerful plants like rosemary, mugwort, lavender, and rue. Learn which herbs and houseplants are both magical and practical for your sacred space."
 description: "Step into the world of indoor witchy gardening. Learn which herbs and houseplants like rosemary, mugwort, lavender, and rue—support magic, protection, and spellwork in your home."
-categories:
-  - herbal-magic
-  - witchcraft-ritual
-tags:
-  - witchy herbs
-  - indoor plants
-  - magical gardening
-  - houseplants
-  - witchcraft
-  - spellwork
+categories: [herbal-magic, witchcraft-ritual]
+tags: [witchy herbs, indoor plants, magical gardening, houseplants, witchcraft, spellwork]
+
 faq:
   - question: "Which indoor plants are best for witchcraft and magic?"
     answer: "Top indoor witchy plants include rosemary, mugwort, lavender, rue, bay laurel, peppermint, snake plant, aloe vera, and pothos. Each offers protective, magical, or healing properties and can be used in rituals, charms, or spellwork."
