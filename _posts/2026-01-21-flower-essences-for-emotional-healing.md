@@ -5,14 +5,7 @@ description: "A folklore-grounded guide to flower essences as emotional first ai
 excerpt: "Long before modern therapy, healers turned to flowers for emotional shock, grief, fear, and spiritual collapse. This post explores flower essences as emotional first aid — where folk wisdom and modern practice meet."
 
 categories: [natural-healing, herbal-magic]
-tags:
-  - flower essences
-  - emotional healing herbs
-  - folk healing
-  - trauma herbs
-  - five flower remedy
-  - bach flower remedies
-  - witchcraft healing
+tags: [flower essences, emotional healing herbs, folk healing, trauma herbs, five flower remedy, bach flower remedies, witchcraft healing]
 
 faq:
   - question: "What are flower essences used for?"
