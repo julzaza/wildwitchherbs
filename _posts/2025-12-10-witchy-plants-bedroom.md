@@ -148,7 +148,7 @@ These were not separate traditions. They were part of a single, continuous pract
 
 Explore which other plants are used as **[Protective Plants & Boundary Spirits: Herbal Guardians](/protective-plants-boundary-spirits/)**.
 
-For protecting your home specifically, see the **[Herbal Home Defense Rituals Guide](/home-protection-herbal-rituals-guide/)**.
+For protecting your home specifically, see the **[Herbal Household Defense Rituals Guide](/home-protection-herbal-rituals-guide/)**.
 
 ---
 
