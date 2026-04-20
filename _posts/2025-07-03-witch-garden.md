@@ -128,7 +128,7 @@ In Japanese *omamori*, mugwort is sometimes used in amulets for protection. In t
 
 Mugwort’s strongest dream traditions appear around the solstices, especially Midsummer and the Twelve Nights, when prophetic dreams were believed to carry unusual power.
 
-For the full folklore of mugwort dream rites, read **[Solstice Dreaming: Mugwort & Prophetic Sleep](/solstice-dreaming-mugwort/)**.
+For the full folklore of mugwort dream rites, read **[Solstice Dreaming: Mugwort & Prophetic Sleep](/solstice-dreaming-mugwort-wormwood/)**.
 
 ---
 
