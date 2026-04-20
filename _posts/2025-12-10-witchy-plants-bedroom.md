@@ -144,10 +144,13 @@ The same logic that placed mugwort above the sleeper, also **[Planted Rowan at t
 
 These were not separate traditions. They were part of a single, continuous practice: **using plants to hold the line between worlds**.
 
-Explore this topic deeper, read: **[Protective Plants & Boundary Spirits: Herbal Guardians](/protective-plants-boundary-spirits/)**.
+Explore which other plants are used as **[Protective Plants & Boundary Spirits: Herbal Guardians](/protective-plants-boundary-spirits/)**.
+
+For protecting your home specifically, see the **[Herbal Home Defense Rituals Guide](/home-protection-herbal-rituals-guide/)**.
 
 ---
-## Frequently Asked Questions 
+
+## Frequently Asked Questions About Witchy Bedroom Plants 
 
 ### **Were mugwort and bay actually used for dreamwork in historical folklore?**  
 Yes. Mugwort appears repeatedly in European folk records as a dream-guard and vision herb, while bay laurel is deeply rooted in Mediterranean prophetic dream traditions, especially in Greek and Roman sources.
