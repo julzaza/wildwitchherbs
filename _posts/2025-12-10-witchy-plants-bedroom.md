@@ -94,7 +94,7 @@ Folklore attributes:
 - anchoring the sleeper’s wandering soul  
 - preventing malicious spirits from “perching” on the chest  
 
-Some Alpine households placed rosemary in a corner opposite the bed—“where shadows gather.”
+Some Alpine households placed rosemary in a corner opposite the bed, “where shadows gather.”
 
 See also: **[Why Witches Plant Rosemary by the Doorways](/why-witches-plant-rosemary-front-door/)**.
 
