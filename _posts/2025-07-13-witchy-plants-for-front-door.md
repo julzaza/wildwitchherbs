@@ -161,7 +161,7 @@ Called the Herb of Grace, rue was planted by the door to repel envy, curses, and
 
 - Folklore: In Balkan villages, rue was woven into wedding crowns and hung above doorways for family protection.
 - Magical Properties: Banishing, protection, healing.
-- Growing Tip: Hardy but avoid touching with wet hands—can irritate skin. Loves sun and dry soil.
+- Growing Tip: Hardy but avoid touching with wet hands, as it can irritate skin. Loves sun and dry soil.
 
 ---
 
