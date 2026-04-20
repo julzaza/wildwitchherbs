@@ -155,7 +155,7 @@ In European folk medicine, it was packed into wounds. In Slavic lore, yarrow was
 **Use:** Disinfectant, curse breaker  
 **Folklore:** Hung above doors to block malevolent spirits. Bathing with neem was said to remove “black energy” or disease caused by spiritual imbalance. 
 
-Also used as a toothbrush twig in Indian villages — a magical ritual masked as hygiene.
+Also used as a toothbrush twig in Indian villages, a magical ritual masked as hygiene.
 
 ---
 
@@ -199,15 +199,15 @@ If you want your garden to echo older land-based traditions rather than modern a
 ## Real Planting Rituals From Real Traditions
 
 ###  Soaking and Imbuing  
-- **Balkan midwives** soaked wormwood in warm water to wash newborns — cleansing and protective.
+- **Balkan midwives** soaked wormwood in warm water to wash newborns; cleansing and protective.
 - **Andean farmers** spit on seeds before planting, adding personal life force to ensure growth.  
 - **Jewish traditions** sometimes included *hafrashat challah* blessings over seed storage areas, dedicating food to sacred use.
 
 ### Moon Cycles Matter  
 - **In biodynamic farming** (popular in Europe), moon phases affect root and leaf strength. Root crops on waning moons.  
-- **Old Ukrainian calendars** marked best planting days with religious feasts and lunar signs — folk Catholicism intertwined with pagan rhythms.
+- **Old Ukrainian calendars** marked best planting days with religious feasts and lunar signs; folk Catholicism intertwined with pagan rhythms.
 
-Traditional witches did not choose plants in isolation — they timed planting, harvesting, and pruning according to lunar cycles, a practice explored in depth in **[Lunar Gardening: How Real Witches Plant with the Moon](/lunar-gardening-folklore/)**.
+Traditional witches did not choose plants in isolation: they timed planting, harvesting, and pruning according to lunar cycles, a practice explored in depth in **[Lunar Gardening: How Real Witches Plant with the Moon](/lunar-gardening-folklore/)**.
 
 ### Offering Before Digging  
 - In **West African Vodun**, spirits of the land are greeted with offerings before breaking soil.  
@@ -215,7 +215,9 @@ Traditional witches did not choose plants in isolation — they timed planting, 
 
 Many of these practices are preserved in ethnographic agricultural records and oral folk calendars.
 
-You don’t need to copy rituals, but know where they come from — and respect their depth. Your own practice will come if you start from truth, not trend.
+You don’t need to copy rituals, but know where they come from and respect their depth. Your own practice will come if you start from truth.
+
+For specialized home protection witchcraft, refer to the **[Folk Ritual Guide: Herbal Home Defense](/home-protection-herbal-rituals-guide/)**. This guide provides detailed instructions on clearing negativity, maintaining a protected space, and choosing the right herbs and rituals for your needs.
 
 ---
 
