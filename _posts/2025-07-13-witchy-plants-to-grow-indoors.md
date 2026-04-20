@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Witchy Plants to Grow Indoors"
-permalink: /witchy-plants-to-grow-indoors/
+
 excerpt: "Create an indoor witch’s garden with powerful plants like rosemary, mugwort, lavender, and rue. Learn which herbs and houseplants are both magical and practical for your sacred space."
 description: "Step into the world of indoor witchy gardening. Learn which herbs and houseplants—like rosemary, mugwort, lavender, and rue—support magic, protection, and spellwork in your home."
 categories:
@@ -37,9 +37,9 @@ faq:
 
 Not all witches have acres of wild forest or sprawling gardens and that's perfectly fine. 
 
-A well-tended **windowsill**, **shelf**, or **sunny corner** can become a sacred indoor garden, rich with spellwork, folklore, and life. The right houseplants do more than cleanse the air—they protect, bless, banish, attract, and guide.
+A well-tended **windowsill**, **shelf**, or **sunny corner** can become a sacred indoor garden, rich with spellwork, folklore, and life. The right houseplants do more than cleanse the air: they protect, bless, banish, attract, and guide.
 
-Here are the top **witchy plants that grow well indoors**—chosen for both **their magical properties** and their **actual ability to thrive in pots**.
+Here are the top **witchy plants that grow well indoors**, chosen for both **their magical properties** and their **actual ability to thrive in pots**.
 
 ---
 
@@ -55,7 +55,7 @@ Here are the top **witchy plants that grow well indoors**—chosen for both **th
 
 **Magic:** Dreams, divination, travel between worlds  
 **Folklore:** Believed to protect travelers and shamans; burned in Slavic and Celtic dream rites.  
-**Why indoors:** Hardy, forgiving, and happy in a sunny window. Trim often—it grows fast and loves being harvested. Mugwort is the witch’s **gateway herb** for dreamwork.
+**Why indoors:** Hardy, forgiving, and happy in a sunny window. Trim often, it grows fast and loves being harvested. Mugwort is the witch’s **gateway herb** for dreamwork.
 
 ---
 
