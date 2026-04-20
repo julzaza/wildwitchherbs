@@ -134,7 +134,7 @@ For deeper work with this plant, see **[Wormwood & Lucid Dreaming](/wormwood-luc
 
 **The working**
 
-1. Prepare the room—tidy the bedside; dim the lights.  
+1. Prepare the room: tidy the bedside; dim the lights.  
 2. Light the candle and hold the herbs. Say:  
    *“Night of pause and passage, open the path of vision.”*  
 3. Place mugwort in or near the pillow; place wormwood at the foot or under the bed (not under the head).  
@@ -170,7 +170,7 @@ Record literal details first; the old readers then located symbolic corresponden
 ## Safety, Ethics, and Respect
 
 - Use **small amounts** of wormwood; never ingest without expertise.  
-- Mugwort can be allergenic—test lightly.  
+- Mugwort can be allergenic, so test lightly.  
 - Never force visions with sleep deprivation; solstice work asks for **depth, not duress**.  
 - Do not accept offerings from dream-figures; decline anything given by a visitor of the otherworld.
 
@@ -202,7 +202,7 @@ These same herbs were layered into **[The Witch’s Winter Bottle: Solstice Prot
 A: The solstice night itself (around local midnight) is primary; nights in the Twelve-Night season remain potent.
 
 **Q: Can I mix mugwort and wormwood?**  
-A: Yes—mugwort opens while wormwood clarifies; use wormwood sparingly and respectfully.
+A: Yes, mugwort opens while wormwood clarifies; use wormwood sparingly and respectfully.
 
 **Q: Do I need to be a witch or initiated?**  
 A: Dream-work benefits from guidance and care; start with basic practices and build skill before advanced dream-travel.
