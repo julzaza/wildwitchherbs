@@ -3,7 +3,7 @@ layout: single
 title: "Witchy Plants to Grow Indoors"
 
 excerpt: "Create an indoor witch’s garden with powerful plants like rosemary, mugwort, lavender, and rue. Learn which herbs and houseplants are both magical and practical for your sacred space."
-description: "Step into the world of indoor witchy gardening. Learn which herbs and houseplants—like rosemary, mugwort, lavender, and rue—support magic, protection, and spellwork in your home."
+description: "Step into the world of indoor witchy gardening. Learn which herbs and houseplants like rosemary, mugwort, lavender, and rue—support magic, protection, and spellwork in your home."
 categories:
   - herbal-magic
   - witchcraft-ritual
