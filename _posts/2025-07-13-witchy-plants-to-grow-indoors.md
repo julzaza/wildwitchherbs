@@ -115,7 +115,7 @@ Here are the top **witchy plants that grow well indoors**, chosen for both **the
 
 **Magic:** Prosperity, growth, resilience  
 **Folklore:** While not in old grimoires, modern witches love pothos for its **tenacity** and ability to absorb stagnant energy.  
-**Why indoors:** Fast-growing, trailing, tolerant of neglect—ideal for altars, shelves, and airy corners.
+**Why indoors:** Fast-growing, trailing, tolerant of neglect - ideal for altars, shelves, and airy corners.
 
 ---
 
