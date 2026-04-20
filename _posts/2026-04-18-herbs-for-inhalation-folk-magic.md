@@ -24,13 +24,13 @@ faq:
     answer: "They existed, but were often limited, controlled, and tied to specific roles such as healers, midwives, or ritual specialists."
 ---
 
-## This Is Not Harmless
+## This Is Not Totally Harmless
 
 Before anything else, this needs to be said plainly: not every plant belongs in the lungs.
 
 In older traditions, herbs that were burned for space and herbs that were drawn into the body were not treated the same. One cleared a room. The other changed a person.
 
-This article is based on real recorded folk practices.
+This article is **based on real recorded folk practices**.
 
 What follows comes from documented use, scattered across regions and time. Some of these plants were used carefully, some were used rarely, and some were used at a cost.
 
@@ -38,7 +38,7 @@ What follows comes from documented use, scattered across regions and time. Some 
 
 ## Burning Is Not the Same as Inhaling
 
-Most people collapse these into one idea. They are not the same.
+Most people collapse these into one idea, but they are not the same.
 
 Burning for cleansing, fumigation, or ritual smoke was external. The smoke moved through space, through thresholds, through rooms and doorways. It marked boundaries and shifted atmosphere.
 
@@ -46,9 +46,7 @@ If your work is with the house rather than the lungs, see what **[Herbal Rituals
 
 Inhalation was internal. It crossed into the body itself.
 
-This mattered.
-
-When smoke enters the lungs, it is no longer symbolic. It becomes physical, immediate, and often unpredictable. Because of that, inhaled herbs were usually tied to specific acts:
+When smoke enters the lungs, it is **no longer symbolic**. It becomes physical, immediate, and often unpredictable. Because of that, inhaled herbs were usually tied to specific acts:
 
 - entering trance
 - preparing for spirit contact
@@ -68,22 +66,22 @@ Some opened perception.
 Some calmed the body.  
 Some carried the practitioner across a line they would not cross sober.
 
-These plants were not interchangeable. Each had a reputation, and that reputation mattered.
+These plants were not interchangeable. Each had a reputation and that reputation mattered.
 
 ---
 ## Smokable Herbs
 
 ### Mugwort (Artemisia vulgaris)
 
-Mugwort appears again and again in European and Asian traditions as a plant of altered sight.
+Mugwort appears again and again in European and Asian traditions as a **plant of altered sight**.
 
 It was burned, carried, placed under pillows, and in some cases inhaled in small amounts before sleep or ritual. Its association is consistent: dreams, second sight, and movement between worlds.
 
-In parts of Europe, it was tied to midsummer rites and worn or used when crossing roads at night or approaching burial places.
+In parts of Europe, it was tied to **midsummer rites** and worn or used when **crossing roads at night or approaching burial places**.
 
-Mugwort was not a comfort herb. It sharpened perception. In excess, it could overwhelm.
+Mugwort was not a comfort herb: it sharpened perception. In excess, it could overwhelm.
 
-Historically, it belongs to those who knew how to work with it.
+Historically, it belongs to those who knew how to work with it. 
 
 ---
 
