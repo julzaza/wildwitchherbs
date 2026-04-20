@@ -299,7 +299,7 @@ Historically, planting was often accompanied by offerings, lunar timing, or spok
 It depends on intention and education. Learning the history, naming the tradition, and respecting origins matters more than rigid boundaries.
 
 **Why are so many witch plants bitter or medicinal?**  
-Because survival mattered more than comfort. Bitter herbs are believed to strengthen the body, clarify the mind, and resist decay — physically and spiritually.
+Because survival mattered more than comfort. Bitter herbs are believed to strengthen the body, clarify the mind, and resist decay, physically and spiritually.
 
 **Is this about magic or medicine?**  
 Historically, there was no separation. Healing, protection, and ritual were part of the same practice.
