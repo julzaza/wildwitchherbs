@@ -43,7 +43,7 @@ People believed that on these nights:
 - the **walls between worlds thinned**,  
 - and the **soul could travel farther** than usual.
 
-Dreams during these turning points were treated as direct messages—warnings, ancestral counsel, marriage omens, harvest signs, and signs for the coming year.
+Dreams during these turning points were treated as direct messages: warnings, ancestral counsel, marriage omens, harvest signs, and signs for the coming year.
 
 Witches did not wait for dreams to happen. They prepared for them with herbs, rites, and careful intention.
 
