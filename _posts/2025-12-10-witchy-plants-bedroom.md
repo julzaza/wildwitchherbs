@@ -31,6 +31,8 @@ Folklore across Europe and the Mediterranean held a quiet terror: that during sl
 
 And so households developed a second kind of nighttime garden: **the plants kept close to the sleeper**, guarding the mind’s doorway.
 
+If you want to protect not just the sleeper, but the entire house, see the **[Full Guide to Herbal Home Defense Rituals](/home-protection-herbal-rituals-guide/)**.
+
 What follows is a **historically accurate**, folklore-based guide to the dream plants witches, midwives, and everyday households relied on.
 
 - **Mugwort** for dream protection  
