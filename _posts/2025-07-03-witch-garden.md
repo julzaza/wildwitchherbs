@@ -1,20 +1,11 @@
 ---
 layout: single
 title: "How to Start a Real Witch’s Garden: Powerful Traditional Plants"
-excerpt: "A witch’s garden is not aesthetic — it is ancestral. From Balkan Artemisia to Caribbean lemongrass, this guide explores how traditional herbs were planted for protection, healing, and survival."
+excerpt: "A witch’s garden is not aesthetic, it is ancestral. From Balkan Artemisia to Caribbean lemongrass, this guide explores how traditional herbs were planted for protection, healing, and survival."
 description: "Learn how to start a real witch’s garden using traditional herbs rooted in folklore, ritual, and ancestral medicine. Explore Artemisia, mugwort, rue, yarrow, and other culturally grounded plants used across Europe, Asia, Africa, and the Caribbean."
-categories:
-  - folklore-ancestral
-  - herbal-magic
-tags:
-  - witch garden folklore
-  - traditional witchcraft plants
-  - ancestral herbalism
-  - artemisia folklore
-  - folk magic gardening
-  - ritual planting
-  - herbal witchcraft
-  - old world herbs
+categories: [herbal-magic, folklore-ancestral]
+tags: [witch garden folklore, traditional witchcraft plants, ancestral herbalism, artemisia folklore, folk magic gardening, ritual planting, herbal witchcraft, old world herbs]
+
 redirect_from:
   - /witchs-garden-plants-of-power/
 
