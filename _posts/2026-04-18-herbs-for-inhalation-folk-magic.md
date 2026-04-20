@@ -42,6 +42,8 @@ Most people collapse these into one idea. They are not the same.
 
 Burning for cleansing, fumigation, or ritual smoke was external. The smoke moved through space, through thresholds, through rooms and doorways. It marked boundaries and shifted atmosphere.
 
+If your work is with the house rather than the lungs, see what **[Herbal Rituals Used for Household Defense](/home-protection-herbal-rituals-guide/)**.
+
 Inhalation was internal. It crossed into the body itself.
 
 This mattered.
@@ -68,8 +70,6 @@ Some carried the practitioner across a line they would not cross sober.
 
 These plants were not interchangeable. Each had a reputation, and that reputation mattered.
 
-Some herbs were meant to be drawn into the body, but many more were burned only for the space itself: to clear a sick room, protect a threshold, or mark the dead passing through. If your work is with the house rather than the lungs, see what **[Herbal Rituals Used for Household Defense](/home-protection-herbal-rituals-guide/)**.
-
 ---
 ## Smokable Herbs
 
@@ -83,7 +83,7 @@ In parts of Europe, it was tied to midsummer rites and worn or used when crossin
 
 Mugwort was not a comfort herb. It sharpened perception. In excess, it could overwhelm.
 
-Historically, it belongs to those who knew how to work with it. Not to experimentation.
+Historically, it belongs to those who knew how to work with it.
 
 ---
 
@@ -111,8 +111,6 @@ Modern research has raised concerns about compounds in the plant that may harm t
 
 In older contexts, it sat in the same category as mullein, something used when breath itself was compromised.
 
-Today, it stands as a warning. Not everything carried forward should be repeated.
-
 ---
 
 ### Damiana (Turnera diffusa)
@@ -123,7 +121,7 @@ Its reputation is tied to mood, warmth, and a subtle shift in awareness rather t
 
 Compared to other plants in this list, it is less associated with spirit crossing and more with bodily state and emotional openness.
 
-Even so, inhalation was not casual. It was part of preparation, not distraction.
+Even so, inhalation was not casual.
 
 ---
 
