@@ -232,9 +232,7 @@ See: **[Protective Plants & Boundary Spirits: Folk Herbal Guardians](/protective
 
 If you want to go beyond plants and actually build protection that holds, start here: **[Herbal Rituals for Protecting Your Home](/home-protection-herbal-rituals-guide/)**.
 
-Want to guard your inner space as well? 
-
-Explore: **[Top Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)**.
+Explore **[Top Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)** if you want to know which living plants can hold the line in your household. 
 
 ---
 
