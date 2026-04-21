@@ -8,6 +8,23 @@ author: Wild Witch Herbs
 categories: [herbal-magic, folklore-ancestral]
 tags: [visionary plants, psychoactive herbs folklore, ritual magic plants, ethnobotany, traditional magic, sacred plants]
 
+```yaml
+faq:
+  - question: "Were visionary plants traditionally used for recreation?"
+    answer: "No. Across cultures, these plants were usually approached as sacred, moral, or ceremonial tools—not casual intoxicants. Their use was often restricted by ritual, fasting, prayer, and lineage knowledge."
+
+  - question: "What is the difference between visionary and psychoactive plants?"
+    answer: "Visionary plants were often understood as opening perception, dreams, or spirit communication, while psychoactive plants may alter consciousness more broadly. Traditional cultures did not separate these categories in modern scientific terms."
+
+  - question: "Why are European herbs like mugwort and wormwood included if they are not strong hallucinogens?"
+    answer: "Because many European traditions worked through dreams, trance, sleep, and ritual repetition rather than intense psychedelic visions. Subtle threshold herbs were central to folk magic."
+
+  - question: "Why is Syrian rue considered important in traditional magic?"
+    answer: "Syrian rue was widely used for cleansing, protection, and sealing spiritual boundaries. Its importance came from apotropaic ritual use rather than strong visionary effects."
+
+  - question: "Were plants like mandrake and henbane commonly used?"
+    answer: "They were known and feared, but rarely casual. Historical accounts emphasize taboo, ritual caution, and specialist handling because of their dangerous effects and strong folkloric associations."
+
 ---
 
 ## Plants That Opened the Threshold
@@ -224,6 +241,37 @@ To approach them without context is to miss their meaning entirely.
 
 ---
 
+## Frequently Asked Questions: Cross-Cultural Visionary Plants
+
+### Were visionary plants traditionally used for recreation?
+
+No. Across cultures, these plants were usually approached as sacred, moral, or ceremonial tools—not casual intoxicants. Their use was often restricted by ritual, fasting, prayer, and lineage knowledge.
+
+---
+
+### What is the difference between visionary and psychoactive plants?
+
+Visionary plants were often understood as opening perception, dreams, or spirit communication, while psychoactive plants may alter consciousness more broadly. Traditional cultures did not separate these categories in modern scientific terms.
+
+---
+
+### Why are European herbs like mugwort and wormwood included if they are not strong hallucinogens?
+
+Because many European traditions worked through dreams, trance, sleep, and ritual repetition rather than intense psychedelic visions. Subtle threshold herbs were central to folk magic.
+
+---
+
+### Why is Syrian rue considered important in traditional magic?
+
+Syrian rue was widely used for cleansing, protection, and sealing spiritual boundaries. Its importance came from apotropaic ritual use rather than strong visionary effects.
+
+---
+
+### Were plants like mandrake and henbane commonly used?
+
+They were known and feared, but rarely casual. Historical accounts emphasize taboo, ritual caution, and specialist handling because of their dangerous effects and strong folkloric associations.
+
+```
 
 
 
