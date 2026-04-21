@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Common Protection Ritual Mistakes: Folk Magic Warnings"
+title: "11 Common Protection Ritual Mistakes: Folk Magic Warnings"
 excerpt: "Many protection rituals fail not because the herbs are weak, but because the method is careless. Learn the common mistakes traditional folk magic warns against."
 description: "Discover the most common protection ritual mistakes in folk magic and witchcraft. Learn what traditional practices from European and Balkan folklore teach about boundaries, cleansing, herbs, and household protection."
-author: Your Name
+
 categories:
   - witchcraft-ritual
 tags:
@@ -74,7 +74,11 @@ Protection starts at the edge.
 
 Not every herb belongs in every ritual.
 
-People often burn whatever sounds mystical without understanding its traditional use. Some herbs are for blessing. Some are for banishing. Some are too harsh for indoor smoke. And some **[Herbs Should Never Be Burned At All](/never-burn-herbs/)**.
+People often burn whatever sounds mystical without understanding its traditional use.  
+Some herbs are for blessing.  
+Some are for banishing.  
+Some are too harsh for indoor smoke.  
+And some **[Herbs Should Never Be Burned At All](/never-burn-herbs/)**.
 
 Folk practice was practical, not aesthetic.
 
