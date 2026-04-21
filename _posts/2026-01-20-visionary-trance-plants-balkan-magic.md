@@ -29,9 +29,7 @@ faq:
 
 ## On Sources, Silence, and Folk Knowledge
 
-Balkan folk practice is rich, but much was oral, local, and intentionally secret.  
-
-Absence of early written record does not imply absence of use.  
+Balkan folk practice is rich, but much was oral, local, and intentionally secret. Absence of early written record does not imply absence of use.  
 
 This post draws on **documented ethnographies, regional folklore collections, and historical accounts**, not modern speculation.
 
@@ -114,17 +112,20 @@ Early 20th-century ethnographers document ritual smoking or poultices applied by
 
 ## Additional Visionary & Psychoactive Flora of the Balkan Region
 
-The ethnobotanical record of the Balkans — especially the area of the former Yugoslavia — includes several plants and fungi historically associated with trance, hallucinogenic, or spirit‑related states. These species were often understood through *folk logic, ritual use, and symbolic association*, not casual recreational use. Many appear in regional oral traditions, herb lore, postage stamps, and ethnobotanical discussion, suggesting deep cultural familiarity with their presence and effects.
+The ethnobotanical record of the Balkans, especially the area of the former Yugoslavia, includes several plants and fungi historically associated with trance, hallucinogenic, or spirit‑related states. 
+
+These species were often understood through *folk logic, ritual use, and symbolic association*, not casual recreational use. Many appear in regional oral traditions, herb lore, postage stamps, and ethnobotanical discussion, suggesting deep cultural familiarity with their presence and effects.
 
 ### **Amanita muscaria (Fly Agaric Mushroom)**
 
-A striking red-capped mushroom found in temperate forests across the Balkans and wider Eurasia, *Amanita muscaria* appears more strongly in symbolic folklore than in clearly documented village ritual use.
+A **striking red-capped mushroom** found in temperate forests across the Balkans and wider Eurasia, *Amanita muscaria* appears more strongly in symbolic folklore than in clearly documented village ritual use.
 
 **Ethnobotanical context:**  
-Its psychoactive properties were widely recognized, and its presence in Slavic woodland folklore connected it to spirits, winter rites, and liminal spaces. In Balkan regions, it appears more as a known threshold organism than as a commonly recorded household ritual herb.
+Its psychoactive properties were widely recognized, and its presence in Slavic woodland folklore connected it to spirits, winter rites, and liminal spaces.  
+In Balkan regions, it appears more as a known threshold organism than as a commonly recorded household ritual herb.
 
 **Folk context:**  
-Rather than a daily ritual plant like mugwort or rue, fly agaric belonged to the edges—forest crossings, shepherd lore, and seasonal imagination. It marked danger, altered perception, and the boundary between the human and spirit world.
+Rather than a daily ritual plant like mugwort or rue, fly agaric belonged to the edges: forest crossings, shepherd lore, and seasonal imagination. It marked danger, altered perception, and the boundary between the human and spirit world.
 
 *Comparative framing:* Unlike peyote or ayahuasca, Amanita in Balkan tradition survives more through symbolic and seasonal folklore than through strong continuous ceremonial documentation.
 
@@ -132,7 +133,9 @@ Rather than a daily ritual plant like mugwort or rue, fly agaric belonged to the
 
 ### **Psilocybe serbica (Native Psilocybin Mushroom)**
 
-This native psilocybin‑containing mushroom species has been documented growing in the region of the former Yugoslavia and adjacent Balkan areas. It contains serotonergic compounds associated with classic psychedelic effects. Historical evidence of ritual use within Balkan folk culture is **not well documented**, but its presence in ethnobotanical flora suggests cultural awareness of its psychoactive potential.
+This native psilocybin‑containing mushroom species has been documented growing in the region of the former Yugoslavia and adjacent Balkan areas. It contains serotonergic compounds associated with classic psychedelic effects. 
+
+Historical evidence of ritual use within Balkan folk culture is **not well documented**, but its presence in ethnobotanical flora suggests cultural awareness of its psychoactive potential.
 
 > **Folk context:** While routine use is not recorded, its botanical distribution and symbolic representation (e.g., stamps) imply longstanding local familiarity.
 
@@ -140,7 +143,9 @@ This native psilocybin‑containing mushroom species has been documented growing
 
 ### **Datura stramonium (Jimsonweed, Thorn Apple)**
 
-A nightshade family plant long associated with powerful psychoactive effects and magical uses across Europe and the Balkans. Ethnobotanical sources link *Datura* to fevered visions, delirium, and spirit contact. In Balkan folk lore, it was sometimes incorporated into divination rites or regarded as a dangerous presence in charm lore. Its alkaloids produce anticholinergic delirium rather than classic psychedelic imagery.
+A nightshade family plant long associated with powerful psychoactive effects and magical uses across Europe and the Balkans. Ethnobotanical sources link *Datura* to fevered visions, delirium, and spirit contact. 
+
+In Balkan folk lore, it was sometimes incorporated into divination rites or regarded as a dangerous presence in charm lore. Its alkaloids produce anticholinergic delirium rather than classic psychedelic imagery.
 
 **Folk context:** Considered both potent and dangerous; historical usage was ritual, cautionary, and highly controlled rather than commonplace.
 
@@ -148,7 +153,11 @@ A nightshade family plant long associated with powerful psychoactive effects and
 
 ### **Hyoscyamus niger (Black Henbane)**
 
-Henbane has a long history in Slavic and Balkan traditions, intertwined with witchcraft lore and trance narratives. Known locally as *Bunika*, it was associated with altered states, delirium, and prophetic trance. Its name in Slavic languages (e.g., Croatian *bunika*, related to “delirium”) encodes this cultural memory. Deliriant effects stem from tropane alkaloids such as hyoscyamine and scopolamine, which also made it a dangerous medicine and ritual plant in the Balkans and wider Europe.
+Henbane has a long history in Slavic and Balkan traditions, intertwined with witchcraft lore and trance narratives. 
+
+Known locally as *Bunika*, it was associated with altered states, delirium, and prophetic trance. Its name in Slavic languages (e.g., Croatian *bunika*, related to “delirium”) encodes this cultural memory. 
+
+Deliriant effects stem from tropane alkaloids such as hyoscyamine and scopolamine, which also made it a dangerous medicine and ritual plant in the Balkans and wider Europe.
 
 **Folk context:** Used by elders or ritual specialists, often in controlled contexts, with overlapping symbolic associations with forgetting, spirit travel, or prophecy.
 
@@ -156,7 +165,9 @@ Henbane has a long history in Slavic and Balkan traditions, intertwined with wit
 
 ### **Scopolia carniolica (European Scopolia)**
 
-A relative of henbane and belladonna, *Scopolia carniolica* grows in Southeastern European forests, including Slovenia and parts of former Yugoslav territories. While less prominent in folklore than henbane, historical herbals and Solanaceae lore suggest its use in **olfactory or amulet** contexts and its toxic, trance‑associated properties as part of the broader nightshade tradition in the region.
+A relative of henbane and belladonna, *Scopolia carniolica* grows in Southeastern European forests, including Slovenia and parts of former Yugoslav territories. 
+
+While less prominent in folklore than henbane, historical herbals and Solanaceae lore suggest its use in **olfactory or amulet** contexts and its toxic, trance‑associated properties as part of the broader nightshade tradition in the region.
 
 **Folk context:** A lesser‑documented but botanically present entheogenic relative traditionally understood within the Solanaceae family’s magical associations.
 
