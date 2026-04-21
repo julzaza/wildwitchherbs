@@ -131,13 +131,12 @@ Rather than inducing strong visions, white water lily was linked to calm states,
 
 Primarily an **apotropaic plant**: burned to cleanse, protect, and seal boundaries.  
 
-**Balkan folk logic:**  
-Rue smoke was used after illness, childbirth, or death — not for vision, but **spiritual protection**.
+**Folk logic:**  
+Rue smoke was used after illness, childbirth, or death; not for vision, but **spiritual protection**.
 
-See similar protective logic in  
-**[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)**.
+*Comparative framing:* Unlike hallucinogens in the Americas, rue use emphasized **containment and safeguarding**, not visionary experience.
 
-*Comparative framing:* Unlike hallucinogens in the Americas, Balkan rue use emphasized **containment and safeguarding**, not visionary experience.
+It is one of the main hearbs featured in **[Folk Guide to Household Defense Rituals](/home-protection-herbal-rituals-guide/)**.
 
 ---
 
