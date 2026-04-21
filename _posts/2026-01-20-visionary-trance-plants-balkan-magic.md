@@ -120,7 +120,7 @@ These species were often understood through *folk logic, ritual use, and symboli
 
 A **striking red-capped mushroom** found in temperate forests across the Balkans and wider Eurasia, *Amanita muscaria* appears more strongly in symbolic folklore than in clearly documented village ritual use.
 
-**Ethnobotanical context:**  
+*Ethnography:*  
 Its psychoactive properties were widely recognized, and its presence in Slavic woodland folklore connected it to spirits, winter rites, and liminal spaces.  
 In Balkan regions, it appears more as a known threshold organism than as a commonly recorded household ritual herb.
 
@@ -135,9 +135,11 @@ Rather than a daily ritual plant like mugwort or rue, fly agaric belonged to the
 
 This native psilocybin‑containing mushroom species has been documented growing in the region of the former Yugoslavia and adjacent Balkan areas. It contains serotonergic compounds associated with classic psychedelic effects. 
 
+*Ethnography:*  
 Historical evidence of ritual use within Balkan folk culture is **not well documented**, but its presence in ethnobotanical flora suggests cultural awareness of its psychoactive potential.
 
-> **Folk context:** While routine use is not recorded, its botanical distribution and symbolic representation (e.g., stamps) imply longstanding local familiarity.
+**Folk context:**
+While routine use is not recorded, its botanical distribution and symbolic representation (e.g., stamps) imply longstanding local familiarity.
 
 ---
 
@@ -147,7 +149,8 @@ A nightshade family plant long associated with powerful psychoactive effects and
 
 In Balkan folk lore, it was sometimes incorporated into divination rites or regarded as a dangerous presence in charm lore. Its alkaloids produce anticholinergic delirium rather than classic psychedelic imagery.
 
-**Folk context:** Considered both potent and dangerous; historical usage was ritual, cautionary, and highly controlled rather than commonplace.
+**Folk context:** 
+Considered both potent and dangerous; historical usage was ritual, cautionary, and highly controlled rather than commonplace.
 
 ---
 
@@ -159,7 +162,8 @@ Known locally as *Bunika*, it was associated with altered states, delirium, and 
 
 Deliriant effects stem from tropane alkaloids such as hyoscyamine and scopolamine, which also made it a dangerous medicine and ritual plant in the Balkans and wider Europe.
 
-**Folk context:** Used by elders or ritual specialists, often in controlled contexts, with overlapping symbolic associations with forgetting, spirit travel, or prophecy.
+**Folk context:** 
+Used by elders or ritual specialists, often in controlled contexts, with overlapping symbolic associations with forgetting, spirit travel, or prophecy.
 
 ---
 
@@ -167,9 +171,11 @@ Deliriant effects stem from tropane alkaloids such as hyoscyamine and scopolamin
 
 A relative of henbane and belladonna, *Scopolia carniolica* grows in Southeastern European forests, including Slovenia and parts of former Yugoslav territories. 
 
+*Ethnography:*  
 While less prominent in folklore than henbane, historical herbals and Solanaceae lore suggest its use in **olfactory or amulet** contexts and its toxic, trance‑associated properties as part of the broader nightshade tradition in the region.
 
-**Folk context:** A lesser‑documented but botanically present entheogenic relative traditionally understood within the Solanaceae family’s magical associations.
+**Folk context:** 
+A lesser‑documented but botanically present entheogenic relative traditionally understood within the Solanaceae family’s magical associations.
 
 ---
 
@@ -195,6 +201,11 @@ It is crucial to frame this flora in **ethnobotanical and cultural context**:
 
 For global context and comparative plant traditions, see: 
 **[Visionary & Psychoactive Plants in Traditional Magic](/visionary-psychoactive-plants-global-traditions/)**
+
+For more Balkan Witchcraft, see: 
+**[Balkan Animal Spirits and Mythic Creatures](/balkan-animal-spirit-guides/)**
+**[Vlach Magic](/vlach-magic-negotin-serbia/)**
+**[Learn to Communicate with Nature: Silent Nemušti Language Guide](/silent-language-animals-nemusti-jezik/)**
 
 ---
 
