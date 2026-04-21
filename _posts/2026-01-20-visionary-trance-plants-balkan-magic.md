@@ -101,7 +101,7 @@ The ethnobotanical record of the Balkans — especially the area of the former Y
 
 ### **Amanita muscaria (Fly Agaric Mushroom)**
 
-A striking, red‑capped mushroom found in temperate woodlands across the Balkans and beyond. In pre‑Slavic and early Slavic folklore, *Amanita muscaria* was considered a plant linked to the spirit realm and seasonal rites, particularly around solstices. While written records are limited, ethnobotanical reviews note its symbolic presence and hallucinogenic properties caused by ibotenic acid and muscimol — making it part of historic trance lore in Eurasian traditions:contentReference.
+A striking, red‑capped mushroom found in temperate woodlands across the Balkans and beyond. In pre‑Slavic and early Slavic folklore, *Amanita muscaria* was considered a plant linked to the spirit realm and seasonal rites, particularly around solstices. While written records are limited, ethnobotanical reviews note its symbolic presence and hallucinogenic properties caused by ibotenic acid and muscimol, making it part of historic trance lore in Eurasian traditions.
 
 > **Folk context:** Believed to open the way to spirits or ancestral guidance in threshold moments, such as seasonal transitions. Not widely used recreationally, but recognized in folk symbolism and ritual imagination.
 
