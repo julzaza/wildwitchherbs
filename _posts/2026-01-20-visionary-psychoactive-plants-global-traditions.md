@@ -10,21 +10,17 @@ tags: [visionary plants, psychoactive herbs folklore, ritual magic plants, ethno
 
 ---
 
-## On Sources, Silence, and Folk Knowledge
+## Plants That Opened the Threshold
 
-Not all ritual use was written down, nor did absence of records mean absence of practice.  
-Folk traditions often encoded their knowledge through metaphor, ritual form, and embodied practice.  
-This article **prioritizes documented patterns from ethnography, historical accounts, and folklore**, rather than speculation or modern reinterpretation.  
+Across cultures, certain plants were never treated as ordinary herbs.
 
----
+They belonged to ritual specialists, healers, initiates, diviners, and **those trusted to stand at the edge between worlds**. Some were used for dreams, some for trance, some for healing, and some for direct confrontation with spirits, ancestors, or divine forces.
 
-## A Note Before We Begin
+What modern language calls “psychoactive” was often understood very differently.
 
-Not all plants that alter perception were understood as *medicine*, nor were they used casually.  
-In traditional cultures, such plants were treated as **gatekeepers**, approached with fasting, prayer, lineage knowledge, and restraint.  
+**These were not recreational substances.** They were moral, spiritual, and ceremonial tools—used with preparation, taboo, and consequence.
 
-This is **not a guide to experimentation**.  
-It is a **record of how humans historically encountered the unseen through plants**.
+This article compares those traditions across cultures, focusing on documented ethnography rather than modern myth.
 
 ---
 
@@ -196,7 +192,8 @@ For regional context, see:
 #### **Amanita muscaria (Fly Agaric)**
 
 Found across Eurasia, *Amanita muscaria* appears in folklore associated with seasonal rites and trance lore. It was often treated as a plant of the **threshold between worlds**, invoked in stories about winter solstice ceremonies or ancestral communion.  
-⚠️ This species contains compounds that can cause delirium and disorientation; historical references emphasize ritual containment and respect.
+
+**CAUTION:** This species contains compounds that can cause delirium and disorientation; historical references emphasize ritual containment and respect.
 
 ---
 
@@ -212,14 +209,10 @@ Though native to Oaxaca and not the Balkans or Europe, *Salvia divinorum* carrie
 
 ---
 
-*(For more on trance and spiritual smoke practices, see **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)** and our regional post **[Visionary & Trance Plants in Balkan Folk Magic](/visionary-plants-balkan-folk-magic/)**.)*
-
-
-
 ## Related Deep Dive
 
 For regional authority, especially Balkan trance plants, see:  
-→ **[Visionary & Trance Plants in Balkan Folk Magic](/visionary-trance-plants-balkan-magic/)**
+**[Visionary & Trance Plants in Balkan Folk Magic](/visionary-trance-plants-balkan-magic/)**
 
 ---
 
@@ -232,16 +225,6 @@ To approach them without context is to miss their meaning entirely.
 
 ---
 
-## FAQ 
-
-**Q:** Can I experiment with these plants?  
-**A:** No. These records are educational and ritual-ethnographic, not prescriptive.  
-
-**Q:** Why are European plants included if they are not hallucinogenic?  
-**A:** They demonstrate how cultures worked with subtle visions and liminal states, a key part of traditional magical epistemology.  
-
-**Q:** Where can I explore Balkan traditions specifically?  
-**A:** See **[Visionary & Trance Plants in Balkan Folk Magic](/visionary-plants-balkan-folk-magic/)** for a regional deep dive.
 
 
 
