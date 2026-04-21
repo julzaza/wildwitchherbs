@@ -166,7 +166,7 @@ Ancient Egyptian, Greek, and Roman sources record its medicinal and ceremonial u
 **Folk logic:**  
 Poppy belonged to the borderlands of sleep and death. It was used to quiet pain, induce rest, and soften the passage between waking and dreaming.
 
-*Comparative framing:* Unlike blue lotus, which symbolized sensual ritual intoxication, poppy carried a heavier symbolism—sleep, grief, and the stillness that approaches death.
+*Comparative framing:* Unlike blue lotus, which symbolized sensual ritual intoxication, poppy carried a heavier symbolism: sleep, grief, and the stillness that approaches death.
 
 ---
 
