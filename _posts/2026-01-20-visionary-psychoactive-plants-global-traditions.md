@@ -30,11 +30,11 @@ faq:
 
 Across cultures, certain plants were never treated as ordinary herbs.
 
-They belonged to ritual specialists, healers, initiates, diviners, and **those trusted to stand at the edge between worlds**. Some were used for dreams, some for trance, some for healing, and some for direct confrontation with spirits, ancestors, or divine forces.
+They belonged to ritual specialists, healers, initiates, diviners, and **those trusted to stand at the edge between worlds**. Some of them were used for dreams, some for trance, some for healing, and some for direct confrontation with spirits, ancestors, or divine forces.
 
 What modern language calls “psychoactive” was often understood very differently.
 
-**These were not recreational substances.** They were moral, spiritual, and ceremonial tools, which were used with preparation, taboo, and consequence.
+**These were not recreational substances.** They were **moral, spiritual, and ceremonial tools**, which were used with preparation, taboo, and consequence.
 
 This article compares those traditions across cultures, focusing on documented ethnography rather than modern myth.
 
@@ -139,7 +139,7 @@ Across European and Mediterranean traditions, water lilies were associated with 
 **Folk logic:**  
 Rather than inducing strong visions, white water lily was linked to calm states, dreamwork, and ceremonial quiet. Its value was in emotional stillness and symbolic passage, not dramatic intoxication.
 
-*Comparative framing:* Unlike blue lotus, which appears in explicit ritual intoxication imagery, white water lily functioned more as a funerary and dream-threshold symbol—less a visionary herb, more a flower of silence and transition.
+*Comparative framing:* Unlike blue lotus, which appears in explicit ritual intoxication imagery, white water lily functioned more as a funerary and dream-threshold symbol. It is more a flower of silence and transition, rather than a visionary herb. 
 
 ---
 
@@ -178,8 +178,7 @@ Europe relied more on **dream herbs, trance plants, and boundary-walkers** than 
 
 Herbs like mugwort and wormwood worked through **sleep, liminality, and ritual repetition**, not overwhelming visions.
 
-See also:  
-**[Mugwort and Dreaming in Folk Magic](/solstice-dreaming-mugwort-wormwood/)**
+See how to use these dream herbs here: **[Mugwort, Wormwood and Dreaming in Folk Magic](/solstice-dreaming-mugwort-wormwood/)**.
 
 ### European Nightshades 
 
@@ -270,4 +269,3 @@ Syrian rue was widely used for cleansing, protection, and sealing spiritual boun
 
 They were known and feared, but rarely casual. Historical accounts emphasize taboo, ritual caution, and specialist handling because of their dangerous effects and strong folkloric associations.
 
-```
