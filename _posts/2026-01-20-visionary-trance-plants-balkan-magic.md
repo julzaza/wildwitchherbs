@@ -68,8 +68,7 @@ Bulgarian and Macedonian ethnographers report ritualized burning for newborn pro
 
 *Comparative framing:* Balkan rue smoke differs from ayahuasca visions; it is **preventative and protective**, not visionary.
 
-See related practice in  
-**[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)**
+To learn how exactly to use rue to defend your space from unwanted forces, see **[Guide: Home Protection Herbal Rituals](/home-protection-herbal-rituals-guide/)**. 
 
 ---
 
