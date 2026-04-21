@@ -138,7 +138,7 @@ This native psilocybin‑containing mushroom species has been documented growing
 *Ethnography:*  
 Historical evidence of ritual use within Balkan folk culture is **not well documented**, but its presence in ethnobotanical flora suggests cultural awareness of its psychoactive potential.
 
-**Folk context:**
+**Folk context:**  
 While routine use is not recorded, its botanical distribution and symbolic representation (e.g., stamps) imply longstanding local familiarity.
 
 ---
@@ -149,7 +149,7 @@ A nightshade family plant long associated with powerful psychoactive effects and
 
 In Balkan folk lore, it was sometimes incorporated into divination rites or regarded as a dangerous presence in charm lore. Its alkaloids produce anticholinergic delirium rather than classic psychedelic imagery.
 
-**Folk context:** 
+**Folk context:**  
 Considered both potent and dangerous; historical usage was ritual, cautionary, and highly controlled rather than commonplace.
 
 ---
@@ -162,7 +162,7 @@ Known locally as *Bunika*, it was associated with altered states, delirium, and 
 
 Deliriant effects stem from tropane alkaloids such as hyoscyamine and scopolamine, which also made it a dangerous medicine and ritual plant in the Balkans and wider Europe.
 
-**Folk context:** 
+**Folk context:**   
 Used by elders or ritual specialists, often in controlled contexts, with overlapping symbolic associations with forgetting, spirit travel, or prophecy.
 
 ---
@@ -174,7 +174,7 @@ A relative of henbane and belladonna, *Scopolia carniolica* grows in Southeaster
 *Ethnography:*  
 While less prominent in folklore than henbane, historical herbals and Solanaceae lore suggest its use in **olfactory or amulet** contexts and its toxic, trance‑associated properties as part of the broader nightshade tradition in the region.
 
-**Folk context:** 
+**Folk context:**  
 A lesser‑documented but botanically present entheogenic relative traditionally understood within the Solanaceae family’s magical associations.
 
 ---
