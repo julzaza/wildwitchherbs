@@ -136,7 +136,7 @@ Rue smoke was used after illness, childbirth, or death; not for vision, but **sp
 
 *Comparative framing:* Unlike hallucinogens in the Americas, rue use emphasized **containment and safeguarding**, not visionary experience.
 
-It is one of the main hearbs featured in **[Folk Guide to Household Defense Rituals](/home-protection-herbal-rituals-guide/)**.
+For traditional protective smoke methods using rue, wormwood, and threshold herbs, see **[Folk Guide to Household Defense Rituals](/home-protection-herbal-rituals-guide/)**.
 
 ---
 
