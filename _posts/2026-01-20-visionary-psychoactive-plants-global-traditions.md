@@ -8,7 +8,6 @@ author: Wild Witch Herbs
 categories: [herbal-magic, folklore-ancestral]
 tags: [visionary plants, psychoactive herbs folklore, ritual magic plants, ethnobotany, traditional magic, sacred plants]
 
-```yaml
 faq:
   - question: "Were visionary plants traditionally used for recreation?"
     answer: "No. Across cultures, these plants were usually approached as sacred, moral, or ceremonial tools—not casual intoxicants. Their use was often restricted by ritual, fasting, prayer, and lineage knowledge."
