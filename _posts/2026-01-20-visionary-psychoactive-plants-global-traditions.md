@@ -192,7 +192,7 @@ For regional context, see:
 
 Found across Eurasia, *Amanita muscaria* appears in folklore associated with seasonal rites and trance lore. It was often treated as a plant of the **threshold between worlds**, invoked in stories about winter solstice ceremonies or ancestral communion.  
 
-**CAUTION:** This species contains compounds that can cause delirium and disorientation; historical references emphasize ritual containment and respect.
+**CAUTION:** Historical accounts consistently frame this mushroom with caution, emphasizing ritual containment rather than casual use, as it contains compounds that can cause delirium and disorientation. 
 
 ---
 
