@@ -30,7 +30,9 @@ faq:
 ## On Sources, Silence, and Folk Knowledge
 
 Balkan folk practice is rich, but much was oral, local, and intentionally secret.  
+
 Absence of early written record does not imply absence of use.  
+
 This post draws on **documented ethnographies, regional folklore collections, and historical accounts**, not modern speculation.
 
 ---
