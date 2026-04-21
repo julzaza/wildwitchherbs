@@ -271,6 +271,3 @@ Syrian rue was widely used for cleansing, protection, and sealing spiritual boun
 They were known and feared, but rarely casual. Historical accounts emphasize taboo, ritual caution, and specialist handling because of their dangerous effects and strong folkloric associations.
 
 ```
-
-
-
