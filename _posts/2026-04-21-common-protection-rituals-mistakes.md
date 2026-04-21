@@ -174,6 +174,7 @@ Protection often depends on completion, not speed.
 
 Half-finished work is often treated as no work at all.
 
+---
 
 ## 11. Copying Rituals Without Understanding Local Context
 
@@ -187,6 +188,7 @@ Copying without understanding often turns ritual into costume.
 
 Adaptation is fine. Blind imitation is not.
 
+---
 
 ## Final Thoughts
 
@@ -243,8 +245,6 @@ Yes.
 Repeated cleansing done from panic rather than purpose can turn protection work into obsession. Folk traditions valued steadiness and maintenance, not constant spiritual emergency.
 
 Protection should bring peace, not paranoia.
-
----
 
 ### Why were protective charms often kept private?
 
