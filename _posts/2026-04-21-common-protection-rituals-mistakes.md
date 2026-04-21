@@ -54,7 +54,7 @@ Smoke the house, yes. Wash the floors with protective herbs, yes. But then prote
 
 An empty house is still an open house.
 
-If you want to understand which protection ritual actually fits your situation: whether you need to secure the threshold, clear something already settled, hold the boundary after removal, or choose long-term living protections, see the **[Household Protection: Witchcraft & Folk Ritual Guide](/home-protection-ritual-guide/)** where each ritual is placed by purpose, so you know exactly what to use and when.
+If you want to understand which protection ritual actually fits your situation: whether you need to secure the threshold, clear something already settled, hold the boundary after removal, or choose long-term living protections, see the **[Household Protection: Witchcraft & Folk Ritual Guide](/home-protection-herbal-rituals-guide/)**.
 
 ---
 
