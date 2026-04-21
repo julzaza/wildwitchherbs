@@ -61,8 +61,7 @@ Croatian, Serbian, and Montenegrin sources note its use in summer dream rituals 
 
 *Comparative framing:* Unlike Amazonian hallucinogens, mugwort worked subtly through **sleep and ritual repetition**, not intense visions.
 
-See also:  
-**[Mugwort and Dreaming in Folk Magic](/solstice-dreaming-mugwort-wormwood/)**
+**[Mugwort and Prophetic Dreaming in Folk Magic](/solstice-dreaming-mugwort-wormwood/)** explores this topic deeper. 
 
 ---
 
