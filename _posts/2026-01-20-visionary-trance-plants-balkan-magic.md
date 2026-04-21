@@ -9,6 +9,22 @@ author: Wild Witch Herbs
 categories: [herbal-magic, folklore-ancestral]
 tags: [Balkan folk magic, trance plants, visionary herbs, ethnobotany, ritual herbs, traditional magic]
 
+faq:
+  - question: "Were visionary plants in Balkan folk magic used recreationally?"
+    answer: "No. Historical records describe them as ritual tools used for protection, dreamwork, divination, ancestral communication, and healing—usually under restriction and ceremonial control."
+
+  - question: "Which plants were most common in Balkan trance traditions?"
+    answer: "Mugwort, wormwood, Syrian rue, henbane, and mandrake appear most consistently in folklore and ethnographic records, with amanita and regional mushrooms appearing more in symbolic or limited ritual contexts."
+
+  - question: "Why is Syrian rue included if it is not strongly hallucinogenic?"
+    answer: "Because Balkan folk magic often focused on protection and boundary work rather than intense visions. Syrian rue was valued for cleansing, sealing thresholds, and spiritual safeguarding."
+
+  - question: "Was Amanita muscaria widely used in Balkan ritual practice?"
+    answer: "Evidence is limited. It appears more strongly in woodland folklore, seasonal symbolism, and threshold imagery than in clearly documented household ritual use."
+
+  - question: "How is Balkan visionary plant use different from Amazonian or Mesoamerican traditions?"
+    answer: "Balkan traditions usually emphasized dreamwork, protection, and ritual containment rather than strong communal psychedelic ceremonies like peyote or ayahuasca traditions."
+
 ---
 
 ## On Sources, Silence, and Folk Knowledge
@@ -187,16 +203,35 @@ They were never for casual curiosity, they **served the community, marked transi
 
 ---
 
-## FAQ 
+## Frequently Asked Questions: Balkan Visionary Plants
 
-**Q:** Can I use these plants today for ritual?  
-**A:** This guide is educational and historical. Many are toxic and require ceremonial knowledge.  
+### Were visionary plants in Balkan folk magic used recreationally?
 
-**Q:** Why link to the global visionary plant post?  
-**A:** To understand cross-cultural patterns, comparative ritual logic, and responsible ethnobotanical context.  
+No. Historical records describe them as ritual tools used for protection, dreamwork, divination, ancestral communication, and healing—usually under restriction and ceremonial control.
 
-**Q:** Where can I learn about protective smoke rituals?  
-**A:** See **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)** and **[Mugwort and Dreaming](/solstice-dreaming-mugwort-wormwood/)** for guidance.
+---
+
+### Which plants were most common in Balkan trance traditions?
+
+Mugwort, wormwood, Syrian rue, henbane, and mandrake appear most consistently in folklore and ethnographic records, with amanita and regional mushrooms appearing more in symbolic or limited ritual contexts.
+
+---
+
+### Why is Syrian rue included if it is not strongly hallucinogenic?
+
+Because Balkan folk magic often focused on protection and boundary work rather than intense visions. Syrian rue was valued for cleansing, sealing thresholds, and spiritual safeguarding.
+
+---
+
+### Was Amanita muscaria widely used in Balkan ritual practice?
+
+Evidence is limited. It appears more strongly in woodland folklore, seasonal symbolism, and threshold imagery than in clearly documented household ritual use.
+
+---
+
+### How is Balkan visionary plant use different from Amazonian or Mesoamerican traditions?
+
+Balkan traditions usually emphasized dreamwork, protection, and ritual containment rather than strong communal psychedelic ceremonies like peyote or ayahuasca traditions.
 
 ---
 
