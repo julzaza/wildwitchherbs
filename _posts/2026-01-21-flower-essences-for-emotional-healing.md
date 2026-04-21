@@ -150,7 +150,6 @@ Traditionally given to children and the easily overwhelmed. Chamomile was used w
 
 Its essence reflects this: **soothing emotional reactivity and softening tension**.
 
-
 Chamomile and Lavender, these gentle nervines were rarely used alone, but **combined into calming blends** for the nervous system. Just like in this core herbal blend for emotional balance:
 
 - **[Simple Anxiety and Stress Tea Blend](/herbs-for-anxiety-and-stress/)**
@@ -268,6 +267,8 @@ This makes them ideal allies for moments of emotional rupture, when something mu
 Flower essences do not dominate the body.  
 They signal safety rather than demand change.
 They **remind it of balance**.
+
+Across cultures, healers made a clear distinction between flowers that steadied the heart and stronger visionary plants used for trance, divination, or spirit work. For that wider ethnobotanical context, see **[Visionary & Psychoactive Plants in Global Traditional Magic](/visionary-psychoactive-plants-global-traditions/)**.
 
 ---
 
