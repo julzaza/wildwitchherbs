@@ -106,7 +106,7 @@ If livestock were sick, people checked the animals before blaming the evil eye. 
 
 Protection rituals were used alongside practical action, not instead of it.
 
-Not every heavy feeling is a curse. Sometimes it is exhaustion. Sometimes it is grief. Sometimes the window just needs to be opened.
+Not every heavy feeling is a curse. Sometimes it is exhaustion, grief, emotional overwhelm or something else completely. 
 
 Good folk practitioners knew the difference.
 
