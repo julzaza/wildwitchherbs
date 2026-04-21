@@ -184,9 +184,11 @@ A lesser‑documented but botanically present entheogenic relative traditionally
 
 It is crucial to frame this flora in **ethnobotanical and cultural context**:
 
-- These plants and fungi were typically understood as **threshold or boundary plants** — associated with transitions, divination, illness, or spirit communication, rather than entertainment or leisure.  
+- These plants and fungi were typically understood as **threshold or boundary plants**; associated with transitions, divination, illness, or spirit communication, rather than entertainment or leisure.  
 - Their use was often **embedded within ritual forms** (seasonal rites, songs, incantations, protective smoke) and typically guided by specialists rather than laypeople.  
 - Written documentation is sparse; much knowledge resides in **oral tradition, symbolic representation, and regional herb lore collections**.
+
+Not every spiritual disturbance called for stronger trance plants. In many Balkan households, grief, fear, and emotional shock were treated with gentler floral remedies instead; especially after illness, death, or frightening encounters. You can explore that quieter side of folk healing in **[Flower Essences for Emotional Shock & Healing](/flower-essences-for-emotional-healing/)**. 
 
 ---
 
