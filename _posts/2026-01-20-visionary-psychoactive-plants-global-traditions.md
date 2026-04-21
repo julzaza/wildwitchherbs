@@ -182,7 +182,9 @@ See how to use these dream herbs here: **[Mugwort, Wormwood and Dreaming in Folk
 
 ### European Nightshades 
 
-Stronger visionary traditions often centered around the dangerous Solanaceae: mandrake, henbane, and datura. These plants are strongly associated with witches, trance, prophecy, and strict ritual caution. Their use was rarely communal and almost always surrounded by fear, taboo, and protective ritual.
+Stronger visionary traditions often centered around the dangerous Solanaceae: mandrake, henbane, and datura. 
+
+These plants are strongly associated with witches, trance, prophecy, and strict ritual caution. Their use was rarely communal and almost always surrounded by fear, taboo, and protective ritual.
 
 ### **Psilocybe serbica and Regional Psilocybin Mushrooms**
 
