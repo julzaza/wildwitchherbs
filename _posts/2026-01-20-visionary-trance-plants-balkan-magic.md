@@ -24,9 +24,9 @@ This post draws on **documented ethnographies, regional folklore collections, an
 Visionary and trance plants in the Balkans were rarely used for intoxication.  
 
 They were approached as **threshold tools**: for protection, ancestral communication, divination, or ritual healing:  
-- ften restricted to initiates, healers, and ritual specialists
+- often restricted to initiates, healers, and ritual specialists
 - never recreational.
-- 
+  
 This post is educational and ritual-historical, **not a guide for ingestion or experimentation**.
 
 ---
