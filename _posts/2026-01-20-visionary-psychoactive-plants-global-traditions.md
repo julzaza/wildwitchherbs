@@ -141,6 +141,8 @@ Rather than inducing strong visions, white water lily was linked to calm states,
 
 *Comparative framing:* Unlike blue lotus, which appears in explicit ritual intoxication imagery, white water lily functioned more as a funerary and dream-threshold symbol. It is more a flower of silence and transition, rather than a visionary herb. 
 
+Across many traditions, flowers have historically been trusted to treat emotional states like grief, shock, and fear. **[The Flower Essences for Emotional Shock & Healing](/flower-essences-for-emotional-healing/)** explores how flowers served as a form of emotional first aid. 
+
 ---
 
 ## Syrian Rue (_Peganum harmala_) — Middle East & Eastern Europe
