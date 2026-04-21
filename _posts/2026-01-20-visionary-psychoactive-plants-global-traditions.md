@@ -18,7 +18,7 @@ They belonged to ritual specialists, healers, initiates, diviners, and **those t
 
 What modern language calls “psychoactive” was often understood very differently.
 
-**These were not recreational substances.** They were moral, spiritual, and ceremonial tools—used with preparation, taboo, and consequence.
+**These were not recreational substances.** They were moral, spiritual, and ceremonial tools, which were used with preparation, taboo, and consequence.
 
 This article compares those traditions across cultures, focusing on documented ethnography rather than modern myth.
 
@@ -107,9 +107,9 @@ Blue lotus appears repeatedly in ancient Egyptian temple art, funerary scenes, a
 Scholars note its strong symbolic association with rebirth, altered awareness, sensuality, and ritual intoxication. The flower was commonly steeped in wine or infused rather than directly smoked, especially in ceremonial and elite settings.
 
 **Folk logic:**  
-Blue lotus was treated as a threshold flower—used where ordinary awareness gave way to ritual space, mourning, celebration, or divination. Its fragrance and mild sedative reputation made it part of preparation rather than forceful trance.
+Blue lotus was treated as a threshold flower, used where ordinary awareness gave way to ritual space, mourning, celebration, or divination. Its fragrance and mild sedative reputation made it part of preparation rather than forceful trance.
 
-*Comparative framing:* Unlike stronger visionary plants such as peyote or iboga, blue lotus occupied a softer role—less confrontation, more descent into stillness, beauty, and symbolic transition.
+*Comparative framing:* Unlike stronger visionary plants such as peyote or iboga, blue lotus occupied a softer role: less confrontation, more descent into stillness, beauty, and symbolic transition.
 
 ---
 
