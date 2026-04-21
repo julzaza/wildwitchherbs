@@ -83,7 +83,8 @@ Bulgarian and Macedonian ethnographers report ritualized burning for newborn pro
 
 *Comparative framing:* Balkan rue smoke differs from ayahuasca visions; it is **preventative and protective**, not visionary.
 
-To learn how exactly to use rue to defend your space from unwanted forces, see **[Guide: Home Protection Herbal Rituals](/home-protection-herbal-rituals-guide/)**. 
+To learn how exactly to use rue to defend your space from unwanted forces, see:  
+**[Guide: Home Protection Herbal Rituals](/home-protection-herbal-rituals-guide/)**. 
 
 ---
 
@@ -230,7 +231,7 @@ They were never for casual curiosity, they **served the community, marked transi
 
 ### Were visionary plants in Balkan folk magic used recreationally?
 
-No. Historical records describe them as ritual tools used for protection, dreamwork, divination, ancestral communication, and healing—usually under restriction and ceremonial control.
+No. Historical records describe them as ritual tools used for protection, dreamwork, divination, ancestral communication, and healing; usually under restriction and ceremonial control.
 
 ---
 
