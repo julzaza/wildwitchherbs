@@ -61,7 +61,7 @@ Known as **_teonanácatl_**, “flesh of the gods,” in early colonial Aztec ac
 Mazatec curanderas, including María Sabina, preserved ceremonial use into the 20th century for divination and healing.
 
 **Folk logic:**  
-Spirit speech, diagnosis, and vision — never casual intoxication.
+Spirit speech, diagnosis, and vision; never casual intoxication.
 
 *Comparative framing:* Different from North American peyote, these mushrooms were closely tied to **individual healing and diagnostic ritual**.
 
@@ -182,7 +182,7 @@ For regional context, see:
 
 - **“All visionary plants induce hallucinations.”** Many worked subtly via dreams or trance.  
 - **“These herbs were recreational.”** Historical use was strictly ceremonial, ethical, or medicinal.  
-- **“European magic lacked hallucinogens.”** They had different modalities — dream herbs, protective visions, and liminal practices.
+- **“European magic lacked hallucinogens.”** They had different modalities: dream herbs, protective visions, and liminal practices.
 
 ---
 
