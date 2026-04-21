@@ -200,12 +200,12 @@ It is crucial to frame this flora in **ethnobotanical and cultural context**:
 ## Related Deep Dive
 
 For global context and comparative plant traditions, see: 
-**[Visionary & Psychoactive Plants in Traditional Magic](/visionary-psychoactive-plants-global-traditions/)**
+- **[Visionary & Psychoactive Plants in Traditional Magic](/visionary-psychoactive-plants-global-traditions/)**
 
 For more Balkan Witchcraft, see: 
-**[Balkan Animal Spirits and Mythic Creatures](/balkan-animal-spirit-guides/)**
-**[Vlach Magic](/vlach-magic-negotin-serbia/)**
-**[Learn to Communicate with Nature: Silent Nemušti Language Guide](/silent-language-animals-nemusti-jezik/)**
+- **[Balkan Animal Spirits and Mythic Creatures](/balkan-animal-spirit-guides/)**
+- **[Vlach Magic](/vlach-magic-negotin-serbia/)**
+- **[Learn to Communicate with Nature: Silent Nemušti Language Guide](/silent-language-animals-nemusti-jezik/)**
 
 ---
 
