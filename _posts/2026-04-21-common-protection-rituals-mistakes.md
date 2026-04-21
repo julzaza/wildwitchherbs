@@ -196,6 +196,8 @@ Protection magic is not about paranoia. It is about boundaries.
 
 Protect the entrance. Keep the house clean. Use the right herbs. Know when to act and when to leave things alone.
 
+For readers who want the actual practical workings behind threshold protection, floor washes, smoke cleansing, and old household boundary rituals, the **[Household Protection Ritual Guide](/home-protection-herbal-rituals-guide/)** goes deeper into the traditional methods used to protect the home properly.
+
 Most importantly, do not confuse performance with practice.
 
 A powerful protection ritual does not need to look impressive.
@@ -215,6 +217,8 @@ The most common mistake is confusing cleansing with protection.
 Cleansing removes stagnant energy, but it does not stop anything from returning. Traditional folk practice almost always followed cleansing with boundary work such as protecting thresholds, doors, and windows.
 
 An empty house is still an open house.
+
+
 
 ---
 
