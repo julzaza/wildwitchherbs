@@ -374,7 +374,7 @@ Before choosing plants to burn, you may want to read **[Smoke Cleansing vs. Smud
 ## FAQ: Real Questions Witches Actually Ask
 
 **Can I burn a tiny amount just once?**  
-Sometimes the dose isn’t the danger — the *method* is. Smoke changes plant chemistry. Even small amounts can be harmful.
+Sometimes the dose isn’t the danger, but the *method* itself is. Smoke changes plant chemistry. Even small amounts can be harmful.
 
 **What if I’ve already burned one of these herbs?**  
 One accidental burn doesn’t mean spiritual doom. Open windows, ground yourself, and don’t repeat it.
