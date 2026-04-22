@@ -314,7 +314,9 @@ Traditional systems asked:
 
 This difference explains why modern hormone advice, fertility panic, and constant stimulation contradict folk logic.
 
-Herbs that soothe rather than guard are used to manage emotional balance, see: **[Witchy Herbs for Grief and Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**. 
+Protection fails when people confuse comfort with boundaries. Read **[Witchy Herbs for Grief and Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)** to know the difference.
+
+Using the wrong herb, repeating harsh rituals too often, or working without clear intention can weaken the very protection they’re trying to build. See how to avoid the most common mistakes here: **[12 Protection Ritual Mistakes That People Often Make](/common-protection-rituals-mistakes/)**. 
 
 ---
 
