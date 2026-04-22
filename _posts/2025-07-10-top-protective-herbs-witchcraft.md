@@ -244,7 +244,7 @@ In folk practice, the herb itself was only part of the work. Placement, timing, 
 
 Many protection rituals fail not because the herb is weak, but because the method is wrong or performed incorrectly.
 
-If you have the right herbs but the protection still feels ineffective, read **[12 Frequently-Made Protection Ritual Mistakes](/common-protection-ritual-mistakes/)** to understand where traditional practice says most people go wrong.
+If you have the right herbs but the protection still feels ineffective, read **[12 Frequently-Made Protection Ritual Mistakes](/common-protection-rituals-mistakes/)** to understand where traditional practice says most people go wrong.
   
 ---
 
