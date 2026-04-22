@@ -1,18 +1,13 @@
 ---
 layout: single
 title: "11 Balkan Witchy Plants: Herbs, Legends & Folk Rituals"
+
 excerpt: "A folklore-rich compendium of Balkan witchy herbs, drawn from documented village practices, ethnobotany, and traditional folk magic across Serbia, Romania, Bulgaria, and neighboring regions."
 description: "An in-depth guide to Balkan witchy herbs rooted in ethnographic sources, folk ritual, and regional plant lore. Real traditions, real plants, no modern inventions."
-categories:
-  - herbal-magic
-  - witchcraft-ritual
-tags:
-  - Balkan witchcraft
-  - Balkan herbs
-  - folk magic plants
-  - ethnobotany Balkans
-  - witchy herbs
-  - Slavic folklore
+
+categories: [herbal-magic, witchcraft-ritual]
+tags: [Balkan witchcraft, Balkan herbs, folk magic plants, ethnobotany Balkans, witchy herbs, Slavic folklore]
+
 faq:
   - question: "What herbs were traditionally used in Balkan folk magic?"
     answer: "Balkan folk magic used herbs such as wormwood, mugwort, rue, garlic, basil, elder, yarrow, St. John’s wort, nettle, thyme and sacred trees like oak, each tied to specific regions, seasons, and ritual purposes."
@@ -109,7 +104,7 @@ Mugwort is one of the oldest doorway herbs for altered states. For the deeper fo
 
 ### 3. Rue — *Ruta / Svača trava*
 
-Rue is a boundary plant — protective, but dangerous if misused.
+Rue is a boundary plant. It is exceptionally protective, but dangerous if misused.
 
 Used for:
 - Evil eye removal  
@@ -118,6 +113,8 @@ Used for:
 - Unbinding and cleansing rituals  
 
 In many villages, rue was believed to “burn” if carried too long or too close to the body, a warning repeated across Balkan folk medicine.
+
+To learn how to use rue properly to protect your home, get the **[Folk Guide to Household Boundary Defense](/visionary-trance-plants-balkan-magic/)**. 
 
 ---
 
@@ -294,13 +291,13 @@ It is **practical, restrained, and deeply rooted**.
 ## Frequently Asked Questions
 
 ### Were these herbs used for spells or everyday life?
-Both. In Balkan folk tradition, herbs were part of daily survival — treating illness, protecting homes, supporting childbirth — while also being used in ritual contexts. The distinction between “magic” and “medicine” did not exist.
+Both. In Balkan folk tradition, herbs were part of daily survival: treating illness, protecting homes, supporting childbirth and other ritual contexts. The distinction between “magic” and “medicine” did not exist.
 
 ### Did people call this witchcraft?
 Rarely. Most practitioners did not identify as witches. These practices were understood as tradition, household knowledge, or women’s work, even when they involved ritual or spiritual elements.
 
 ### Why are plants like wormwood and rue considered dangerous?
-Because they were powerful. These herbs were believed to act on boundaries — between health and illness, life and death, human and spirit — and required strict rules around harvesting, timing, and use.
+Because they were powerful. These herbs were believed to act on boundaries: between health and illness, life and death, human and spirit. It required strict rules around harvesting, timing, and use.
 
 ### Are these herbs still used today?
 Yes, especially in rural areas. Many practices survive under the name of “custom” or “tradition,” even when their original magical meanings are no longer spoken aloud.
