@@ -154,7 +154,7 @@ Burn raw, clean **Boswellia sacra** (real frankincense resin) over charcoal, or 
 
 ### 7. Essential Oils on Charcoal — Modern Western
 
-Pouring essential oils on charcoal is **not** ancient practice — it’s dangerous. Oils combust, producing harmful chemicals and sometimes igniting with flash fire.
+Pouring essential oils on charcoal is **not** ancient practice - it’s dangerous. Oils combust, producing harmful chemicals and sometimes igniting with flash fire.
 
 **Instead:** Simmer oils in water for ambient ritual steam, or anoint unscented candles instead of burning directly.
 
@@ -247,7 +247,7 @@ It strips it, irritates the body, and replaces tradition with guesswork.
 ## Not All Herbs Are Meant for Fire
 
 In traditional cultures, **fire was not neutral**.  
-Smoke carried offerings, prayers, warnings — and sometimes illness or death.
+Smoke carried offerings, prayers, warnings; and sometimes illness or death.
 
 Folk traditions across Europe, Asia, the Americas, and the Middle East recognized **four reasons** an herb should never be burned:
 
@@ -258,7 +258,7 @@ Folk traditions across Europe, Asia, the Americas, and the Middle East recognize
 
 Today, **environmental exploitation** has become urgent. White sage populations are collapsing. Palo Santo forests are illegally stripped. 
 
-Burning these plants without understanding their ecological cost isn't spiritual — it's consumerism wearing a mask of tradition.
+Burning these plants without understanding their ecological cost isn't spiritual - **it's consumerism wearing a mask of tradition**.
 
 ---
 
@@ -316,10 +316,10 @@ Learn how these distinctions were made, see:
 ## What Cultures Did Instead of Burning
 
 - **Chinese Daoists** used **tea, tinctures, and paper charms**, rarely burning plants inside temples.
-- **Irish folk magic** favored hanging herbs in bundles — yarrow, elder, nettle — over the hearth.
+- **Irish folk magic** favored hanging herbs in bundles: yarrow, elder, nettle, over the hearth.
 - **Australian Aboriginal peoples** used **smoking ceremonies** only with specific trees like **Eucalyptus** or **Emu bush**, and never with non-native plants.
 - **Middle Eastern healers** used **steaming bowls**, scented oils, or resins like **myrrh**, not leafy smokes.
-- **Amazonian shamans** snuffed powders or drank infusions — smoke was rare and precise.
+- **Amazonian shamans** snuffed powders or drank infusions; smoke was rare and precise.
 
 ---
 
@@ -350,14 +350,14 @@ Here is a detailed guide on **[How To Use Herbs for Smoke Cleansing](/smoke-clea
 
 ## Final Words: When Fire Opens More Than It Burns
 
-Some herbs should never meet flame. Not because they aren’t magical — but because their magic isn’t meant for smoke.
+Some herbs should never meet flame. Not because they aren’t magical, but because their magic isn’t meant for smoke.
 
 Not all cleansing rituals are the same, and not all herbs are culturally or ethically appropriate. 
 
 Burning the wrong plant is not "edgy magic."  
 It is ignorance or worse: complicity in harm.
 
-Before choosing plants to burn, you may want to read **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)** — a guide to understanding the difference between global smoke traditions and Indigenous smudging, so your practice remains safe and respectful on all levels.
+Before choosing plants to burn, you may want to read **[Smoke Cleansing vs. Smudging](/smoke-cleansing-vs-smudging/)** - a guide to understanding the difference between global smoke traditions and Indigenous smudging, so your practice remains safe and respectful on all levels.
 
 ---
 
@@ -378,10 +378,10 @@ Sometimes the dose isn’t the danger — the *method* is. Smoke changes plant c
 One accidental burn doesn’t mean spiritual doom. Open windows, ground yourself, and don’t repeat it.
 
 **Are these rules universal?**  
-No. Folk magic is regional, situational, and contextual. What’s forbidden in one tradition may be neutral in another — but ignorance was never respected.
+No. Folk magic is regional, situational, and contextual. What’s forbidden in one tradition may be neutral in another, but ignorance was never respected.
 
 **Why do modern witch books ignore this?**  
-Because danger doesn’t sell as well as aesthetics. Older systems assumed practitioners understood plants deeply — modern publishing assumes they don’t.
+Because danger doesn’t sell as well as aesthetics. Older systems assumed practitioners understood plants deeply; modern publishing assumes they don’t.
 
 **Isn’t fear-based magic limiting?**  
 This isn’t fear. It’s literacy. Fire was treated with respect because people knew it could heal or kill.
