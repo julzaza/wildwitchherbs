@@ -216,7 +216,7 @@ In traditional systems, not all plants were meant for constant use. Some were fo
 
 This is also why many protection rituals fail. People cleanse without sealing, protect the center of the home but ignore the threshold, or repeat rituals without understanding what the work is actually meant to do.
 
-If protection work feels ineffective, start with **[12 Common Protection Ritual Mistakes: Folk Magic Warnings](/common-protection-ritual-mistakes/)** to understand where things usually go wrong.
+If protection work feels ineffective, start with **[12 Common Protection Ritual Mistakes: Folk Magic Warnings](/common-protection-rituals-mistakes/)** to understand where things usually go wrong.
 
 ---
 
