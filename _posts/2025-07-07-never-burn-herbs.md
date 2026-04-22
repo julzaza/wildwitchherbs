@@ -117,6 +117,9 @@ For a deeper look at those older inhalation practices, read **[Sacred Breath: He
 
 **Instead:** For baneful magic or protection, burn **blackthorn bark**, **onion skins**, or **dragon’s blood resin**.
 
+Plants like henbane and belladonna were feared not because they were useless, but because they belonged to older visionary traditions where trance and danger lived side by side.  
+For the wider global history of these ritual plants, see **[Visionary and Psychoactive Plants in Global Traditional Magic](/visionary-psychoactive-plants-global-traditions/)**.
+
 ---
 
 ### 3. Rue *(Ruta graveolens)* — Mediterranean, Balkan, Middle Eastern
