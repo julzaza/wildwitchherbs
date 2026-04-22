@@ -236,12 +236,15 @@ Let your herb guardians stand sentry.
 
 More protective charms like these, with detailed instructions on how to use them correctly, can be found here: **[Herbal Folk Rituals for House Protection and Boundary Work](/home-protection-herbal-rituals-guide/)**. 
 
-If you want to build your own protection apothecary, consider starting with foundational witches’ plants like those in **[The Witch’s Herbal Starter Kit: 10 Powerful Plants](/herbal-starter-kit/)**. It includes many protectors and teachable allies.
+---
 
-Protective herbs were never used in isolation: many also worked as healers, grief-soothers, and shock remedies, which is why they often appear alongside:
+## Common Mistakes Protection Rituals
 
-- **[Ancient Plant Magic for Physical Vitality](/witchy-herbs-for-healing/)**, a folklore-rich guide to plants that aid the body
-- **[Whitchy Herbs for Emotional Health](/witchy-herbs-anxiety-grief-emotional-healing/)**, your guide to plants that support the nervous system
+In folk practice, the herb itself was only part of the work. Placement, timing, thresholds, and knowing whether something needed cleansing, removal, or boundary-setting mattered just as much.
+
+Many protection rituals fail not because the herb is weak, but because the method is wrong or performed incorrectly.
+
+If you have the right herbs but the protection still feels ineffective, read **[12 Frequently-Made Protection Ritual Mistakes](/common-protection-ritual-mistakes/)** to understand where traditional practice says most people go wrong.
   
 ---
 
