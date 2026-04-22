@@ -258,7 +258,7 @@ Folk traditions across Europe, Asia, the Americas, and the Middle East recognize
 
 Today, **environmental exploitation** has become urgent. White sage populations are collapsing. Palo Santo forests are illegally stripped. 
 
-Burning these plants without understanding their ecological cost isn't spiritual - **it's consumerism wearing a mask of tradition**.
+Burning these plants without understanding their ecological cost isn't spiritual: **it's consumerism wearing a mask of tradition**.
 
 ---
 
@@ -306,7 +306,8 @@ Many witches assume that if a plant is “used in magic,” it’s safe to burn.
 
 Remember: just because an herb is sacred to the dead doesn’t mean it should fill your lungs.
 
-Many protection rituals fail for the same reason: people focus on the herb and ignore the method. Wrong timing, unclear intention, repeating harsh rituals too often, or using cleansing where boundary work is needed can weaken protection instead of strengthening it.  
+Many protection rituals fail for the same reason: people focus on the herb and ignore the method.  
+Wrong timing, unclear intention, repeating harsh rituals too often, or using cleansing where boundary work is needed can weaken protection instead of strengthening it.  
 Learn the most common mistakes here: **[12 Most Common Mistakes: Protection Ritual Witchcraft](/common-protection-rituals-mistakes/)**.
 
 Not all herbs used in ritual were considered equal: some were sacred, others feared, and a few were believed to cross dangerous spiritual thresholds.
