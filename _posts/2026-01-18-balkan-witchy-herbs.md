@@ -38,7 +38,7 @@ faq:
 In the Balkans, witchcraft was never a formal system.  
 It had no fixed pantheon, no universal spells, no polished doctrine.
 
-It lived instead in **plants**, in **seasons**, and in **women who knew when to act — and when not to**.
+It lived instead in **plants**, in **seasons**, and in **women who knew when to act, and when not to**.
 
 Herbs were not symbolic. They were functional, feared, respected, and deeply embedded in daily survival. Their power came not from intention alone, but from **place, timing, and restraint**.
 
@@ -169,7 +169,7 @@ While elder governed the household edge and spirit appeasement, the oak belonged
 
 ### 7. Oak — *Hrast* (Quercus spp.)
 
-Across Serbia, Romania, and Bulgaria, certain oaks — known as zapis — were consecrated as communal guardians. 
+Across Serbia, Romania, and Bulgaria, certain oaks, known as zapis, were consecrated as communal guardians. 
 
 Crosses were carved into their bark, rites were held beneath their branches, and village boundaries were ritually tied to their roots.
 
@@ -188,7 +188,7 @@ You can step into this older, land-bound layer of Balkan tradition in **[The Bal
 
 ### 8. Yarrow — *Hajdučka trava*
 
-Named after the hajduci — outlaw warriors — yarrow carries associations of blood, fate, and endurance.
+Named after the hajduci (outlaw warriors), yarrow carries associations of blood, fate, and endurance.
 
 Used for:
 - Stopping bleeding  
@@ -318,5 +318,5 @@ They can be studied and respected, but historically they required local knowledg
 Balkan witchy herbs were not tools of spectacle.  
 They were instruments of endurance.
 
-They survived because they worked — and because they remained quiet.
+They survived because they worked and because they remained quiet.
 
