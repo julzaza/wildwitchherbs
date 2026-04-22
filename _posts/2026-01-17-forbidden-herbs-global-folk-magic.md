@@ -142,22 +142,19 @@ Stories warn of:
 
 ---
 
-### Peyote (*Lophophora williamsii*)
-
-Region: Indigenous North America (Mexico, Southwestern United States)
+### Peyote (*Lophophora williamsii*)  
+**Region:** Indigenous North America (Mexico, Southwestern United States)
 
 Peyote was never a casual vision plant.
 
-For Huichol (Wixárika), Rarámuri, and many Native ceremonial traditions, peyote was approached as:
-
+For Huichol (Wixárika), Rarámuri, and many Native ceremonial traditions, peyote was approached as:  
 - a teacher
 - a spirit mediator
 - a sacred medicine of vision and endurance
 
 It was gathered through pilgrimage, prayer, fasting, and permission, but never as entertainment.
 
-Improper use was believed to:
-
+Improper use was believed to:  
 - invite spiritual imbalance
 - bring visions without guidance
 - sever the relationship between person, land, and ancestor
@@ -169,6 +166,36 @@ To take peyote without ritual structure was understood as entering sacred territ
 Like datura, peyote belonged to ceremony, not curiosity.
 
 For a deeper look at visionary plants used across Indigenous traditions, see **[Visionary Psychoactive Plants in Global Traditions](/visionary-psychoactive-plants-global-traditions/)**.
+
+---
+
+### Ayahuasca (*Banisteriopsis caapi*)  
+**Region:** Amazon Basin (Peru, Brazil, Ecuador, Colombia)
+
+Ayahuasca was never treated as a simple herbal drink.
+
+Across Amazonian traditions, the vine was approached as a teacher, a judge, and sometimes a force that could strip a person bare. It belonged to healers, shamans, and ritual specialists who understood how to prepare it, when to serve it, and who should be allowed near it.
+
+It was tied to:  
+- spirit communication
+- ancestral knowledge
+- healing ceremonies
+- protection against harmful forces
+- diagnosis of illness believed to have spiritual roots
+
+People did not approach ayahuasca casually. Preparation often involved dietary restrictions, sexual abstinence, prayer, and long periods of physical and spiritual discipline. Entering ceremony without respect was believed to invite confusion rather than wisdom.
+
+Folklore warned that the vine could reveal truths a person was not ready to face. Visions without guidance were feared as much as they were desired.
+
+Improper use was believed to:  
+- disturb the mind and spirit
+- attract harmful entities
+- leave a person spiritually unprotected
+- break the balance between the living and the unseen world
+
+The danger was not only in the plant itself, but in approaching sacred medicine with greed, arrogance, or spectacle.
+
+Like peyote and datura, ayahuasca belonged to ceremony, not curiosity.
 
 ---
 
@@ -198,6 +225,7 @@ Forbidden outside:
 - trained ritual leadership
 
 Improper use was believed to **fracture the soul**.
+
 ---
 
 ## Asia: Plants That Disturbed Balance
