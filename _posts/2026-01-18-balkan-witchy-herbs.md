@@ -103,6 +103,8 @@ Mugwort was used for:
 
 Girls placed it under pillows to dream of future husbands. Travelers carried it sewn into clothing. Its connection to solstice rites appears in **[Solstice Dreaming with Mugwort & Wormwood](/solstice-dreaming-mugwort-wormwood/)**.
 
+Mugwort is one of the oldest doorway herbs for altered states. For the deeper folklore of trance plants, divination herbs, and visionary work across Balkan village magic, see **[Visionary and Trance Plants in Balkan Folk Magic](/visionary-trance-plants-balkan-magic/)**.
+
 ---
 
 ### 3. Rue — *Ruta / Svača trava*
