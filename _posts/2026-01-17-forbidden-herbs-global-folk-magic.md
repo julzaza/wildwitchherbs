@@ -142,6 +142,36 @@ Stories warn of:
 
 ---
 
+### Peyote (*Lophophora williamsii*)
+
+Region: Indigenous North America (Mexico, Southwestern United States)
+
+Peyote was never a casual vision plant.
+
+For Huichol (Wixárika), Rarámuri, and many Native ceremonial traditions, peyote was approached as:
+
+- a teacher
+- a spirit mediator
+- a sacred medicine of vision and endurance
+
+It was gathered through pilgrimage, prayer, fasting, and permission, but never as entertainment.
+
+Improper use was believed to:
+
+- invite spiritual imbalance
+- bring visions without guidance
+- sever the relationship between person, land, and ancestor
+
+The danger was not only physical, but relational.
+
+To take peyote without ritual structure was understood as entering sacred territory without being invited.
+
+Like datura, peyote belonged to ceremony, not curiosity.
+
+For a deeper look at visionary plants used across Indigenous traditions, see **[Visionary Psychoactive Plants in Global Traditions](/visionary-psychoactive-plants-global-traditions/)**.
+
+---
+
 ### Tobacco (*Nicotiana rustica*)
 **Region:** Indigenous Americas  
 
