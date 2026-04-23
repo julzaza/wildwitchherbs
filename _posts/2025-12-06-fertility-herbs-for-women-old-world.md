@@ -215,6 +215,14 @@ If you want more raw, ancestral side of this work, step into the exploration of 
 - If you are interested in learning about the folklore-rich conception rites, see **[Folk Magic for Conceiving](/folk-fertility-rituals/)**.  
 - To explore deeper the concept of fertility as a force of its own, see **[Old Europe Fertility Witchcraft](/old-world-fertility-magic/)**.   
 
+Fertility work did not end with conception. In many traditions, the next concern was guarding the pregnancy itself, protecting mother and child from envy, evil eye, and household imbalance. You can explore:  
+
+- **[How Old Folk Traditions Protected Pregnancy After Conception](/pregnancy-protection-old-world-magic/)**
+
+Pregnancy protection was rarely separate from household protection and threshold rituals, because if the doorway was left open, the womb was believed to remain spiritually exposed. To learn how to defend your household from evil eye, negative forces and more, see:  
+
+- **[Home Protection Folk Guide](/home-protection-herbal-rituals-guide/)**
+
 ---
 
 ## FAQ
