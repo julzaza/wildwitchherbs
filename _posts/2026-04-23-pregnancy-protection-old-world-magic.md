@@ -170,20 +170,16 @@ There is a difference.
 
 Iron appears in pregnancy folklore almost everywhere.
 
-A key under the pillow.
-Scissors beneath the mattress.
-A knife near the cradle.
-A nail hidden at the threshold.
+- A key under the pillow.
+- Scissors beneath the mattress.
+- A knife near the cradle.
+- A nail hidden at the threshold.
 
-Not for violence.
-
-For defense.
+Not for violence, but for defense.
 
 Iron was believed to repel wandering spirits and disruptive forces, especially those that preyed on women in childbirth or newborn children.
 
-Midwives knew this.
-
-Old women knew this.
+Midwives knew this. Old women knew this.
 
 The object was often hidden, because protection did not need performance.
 
@@ -227,21 +223,19 @@ It was also about what not to do.
 
 Many traditions warned against:
 
-borrowing needles  
-walking alone at crossroads  
-stepping over ropes or chains  
-sleeping with mirrors facing the bed  
-letting strangers bless the belly  
-bringing funeral flowers into the house  
-speaking the baby’s name too early
+- borrowing needles  
+- walking alone at crossroads  
+- stepping over ropes or chains  
+- sleeping with mirrors facing the bed  
+- letting strangers bless the belly  
+- bringing funeral flowers into the house  
+- speaking the baby’s name too early
 
-Some of this sounds strange now.
-
-Some of it still makes emotional sense.
+Some of this sounds strange now. Some of it still makes emotional sense.
 
 Old people often encode wisdom inside superstition because people remember stories better than lectures.
 
-Pregnancy was treated with caution because beginnings deserve caution.
+Pregnancy was treated with caution **because beginnings deserve caution**.
 
 ---
 
@@ -273,13 +267,11 @@ Let what harms turn away.
 Let this house hold peace.
 Let this child come safely.”
 
-No spectacle.
-
-No altar for social media.
+No spectacle. No altar for social media.
 
 Just intention and boundary.
 
-That is how much real folk magic worked.
+That is how much real folk magic works.
 
 ---
 
@@ -306,11 +298,7 @@ Guard the mother.
 Guard the threshold.
 Guard the child before the child arrives.
 
-This was not softness.
-
-It was survival.
-
-And survival has always been the oldest spell.
+It was survival magic and it has always been the oldest spell.
 
 ---
 
