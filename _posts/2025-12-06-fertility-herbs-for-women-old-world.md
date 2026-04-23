@@ -210,7 +210,7 @@ If you are interested in learning about the folklore-rich conception rites, see:
 
 - **[Folk Magic for Conceiving](/folk-fertility-rituals/)**
 
-If you want more raw, ancestral side of this work, step into the exploration of:
+If you want more raw, ancestral side of this work, step into the exploration of menstrual offering, here:
 
 - **[Blood-to-Soil Offerings in Old World Witchcraft](/menstrual-blood-earth-ritual/)**
 
