@@ -42,7 +42,9 @@ That made pregnancy sacred, but it also made it vulnerable.
 
 Across the Balkans, the Slavic lands, Mediterranean villages, rural Britain, and much of old Europe, **pregnancy was treated as a state that required guarding**. Not because the woman was weak, but because she was open, carrying life in a form believed to **attract both blessing and danger**.
 
-**People feared envy because envy was thought to travel farther than words.** They feared wandering spirits, careless praise, unkind visitors, and the kind of misfortune that enters quietly and settles into a household before anyone recognizes its name. They feared the evil eye, not always as a dramatic curse, but as the ordinary bitterness that can cling to admiration when desire and resentment sit too close together.
+**People feared envy because envy was thought to travel farther than words.**
+
+They feared wandering spirits, careless praise, unkind visitors, and the kind of misfortune that enters quietly and settles into a household before anyone recognizes its name. They feared the evil eye, not always as a dramatic curse, but as the **ordinary bitterness that can cling** to admiration when desire and resentment sit too close together.
 
 For this reason, **pregnancy was protected in the same way people protected the hearth, the doorway, and the dead**. It was not romantic superstition. It was household responsibility.
 
