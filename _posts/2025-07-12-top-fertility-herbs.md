@@ -102,15 +102,27 @@ Not to be confused with yams from the grocery store, wild yam supports progester
 
 ---
 
+## Fertility Work Did Not End with Conception
+
+Once conception was confirmed, fertility work did not simply end. 
+
+In many traditions, attention shifted from inviting life to guarding it, protecting the mother from envy, household imbalance, and the evil eye. 
+
+You can explore how old folk traditions protected pregnancy through red thread, rosemary, threshold rituals, and ancestral protection customs, here:
+
+- **[Pregnancy Protection in Old Folk Magik](/pregnancy-protection-old-world-magic/)**
+
+---
+
 ## Final Thoughts
 
-Fertility is not just about the body—it’s about **cycles, timing, soul, and spirit**. These herbs work not only through their physical effects, but through their stories, symbolism, and the quiet rituals they invite us into. 
+Fertility is not just about the body: it’s about **cycles, timing, soul, and spirit**. These herbs work not only through their physical effects, but through their stories, symbolism, and the quiet rituals they invite us into. 
 
 Whether you are trying to conceive, reconnecting with your womb, or honoring the sacred power of creation, these plants stand ready as allies.
 
 For herbs that work to invite love into your life, see **[Love Magic Herbs: Attract the Right Partner](/love-magic-herbs-to-attract-the-right-partner/)**.
 
-Within the cunning craft, fertility work often went beyond conception, intertwining it with blood, cycle timing, and ritual preparation — explored in **[Menstrual Blood Fertility Rites](/fertility-rituals-menstrual-magic/)** tied to White and Red Moon cycles.
+Within the cunning craft, fertility work often went beyond conception, intertwining it with blood, cycle timing, and ritual preparation, explored in **[Menstrual Blood Fertility Rites](/fertility-rituals-menstrual-magic/)** tied to White and Red Moon cycles.
 
 In certain traditions, fertility work blurred into desire and control. This darker boundary explored in **[Fear-Based Love Binding Magic](/balkan-love-magic-folklore/)** where conception, obsession, and survival overlapped.
 
