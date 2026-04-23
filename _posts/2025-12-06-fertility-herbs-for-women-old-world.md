@@ -204,16 +204,20 @@ This is a ritual of blessing, not guarantee. It is about calling vitality, not f
 
 ---
 
-## Blood Offerings: Magic of Creation
+## Deep Dive: Fertility Folklore and Magic of Creation
 
-If you want more raw, ancestral side of this work, step into the exploration of **[Blood-to-Soil Offerings in Old World Witchcraft](/menstrual-blood-earth-ritual/)**.
+If you are interested in learning about the folklore-rich conception rites, see:
 
----
+- **[Folk Magic for Conceiving](/folk-fertility-rituals/)**
 
-## More on Fertility Folklore
+If you want more raw, ancestral side of this work, step into the exploration of:
 
-- If you are interested in learning about the folklore-rich conception rites, see **[Folk Magic for Conceiving](/folk-fertility-rituals/)**.  
-- To explore deeper the concept of fertility as a force of its own, see **[Old Europe Fertility Witchcraft](/old-world-fertility-magic/)**.   
+- **[Blood-to-Soil Offerings in Old World Witchcraft](/menstrual-blood-earth-ritual/)**
+
+
+To explore deeper the concept of fertility as a force of its own, read:
+
+- **[Old Europe Fertility Witchcraft](/old-world-fertility-magic/)** 
 
 Fertility work did not end with conception. In many traditions, the next concern was guarding the pregnancy itself, protecting mother and child from envy, evil eye, and household imbalance. You can explore:  
 
