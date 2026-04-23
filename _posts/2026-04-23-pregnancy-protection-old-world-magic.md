@@ -30,7 +30,7 @@ faq:
 
 Pregnancy was never treated lightly, and in older folk belief it was rarely understood as a simple matter of the body. 
 
-It was a crossing, a threshold between what had been and what was still trying to arrive.
+It was a crossing, a threshold between **what had been and what was still trying to arrive**.
 
 A woman carrying a child stood in a strange and powerful place, somewhere between blood and birth, between the living and the not-yet-born, between the old family line and the future pressing quietly toward it. 
 
@@ -114,19 +114,13 @@ The color mattered.
 
 A red thread tied around the waist was believed to protect the womb. Around the wrist, it guarded against the evil eye. Near the cradle, it defended the child before baptism or naming.
 
-It was not decoration.
+It was not decoration, it was a boundary.
 
-It was a boundary.
-
-In some traditions, the thread was tied by an older woman—mother, grandmother, midwife—because protection carried more strength when passed through female lineage.
+In some traditions, the thread was tied by an older woman: mother, grandmother, midwife. Protection carried more strength when passed through female lineage.
 
 The knot mattered too.
 
-Knots hold.
-
-Knots refuse.
-
-Knots say: this stays.
+Knots hold. Knots refuse.
 
 ---
 
@@ -155,9 +149,7 @@ Because if the house is unsettled, the body rarely rests.
 
 ## Rue Against Envy
 
-Rue is sharper.
-
-More defensive.
+Rue is sharper, more defensive.
 
 Across Balkan and Southern European traditions, rue was one of the strongest herbs against jealousy, curses, and the evil eye.
 
@@ -165,15 +157,7 @@ Pregnant women might carry a small sprig hidden in clothing or place it near the
 
 Some used rue water for doorway cleansing, especially if visitors had been strange, intrusive, or heavy with unspoken resentment.
 
-Rue was not soft magic.
-
-It was refusal.
-
-It did not invite blessing.
-
-It blocked harm.
-
-There is a difference.
+Rue was not soft magic. It did not invite blessing. Rue blocked harm.
 
 ---
 
@@ -190,13 +174,13 @@ Not for violence, but for defense.
 
 Iron was believed to repel wandering spirits and disruptive forces, especially those that preyed on women in childbirth or newborn children.
 
-Midwives knew this. Old women knew this.
+Midwives and old women knew this.
 
 The object was often hidden, because protection did not need performance.
 
 Quiet protection is still protection.
 
-Some of the oldest magic in the world looks like ordinary household behavior.
+Some of the **oldest magic in the world looks like ordinary household behavior**.
 
 That is why it survived.
 
@@ -206,9 +190,7 @@ That is why it survived.
 
 The front door mattered more than people think.
 
-Pregnancy protection often began there.
-
-Because the threshold decides what enters.
+Pregnancy protection often began there, because the threshold decides what enters.
 
 Many households practiced some version of this:
 
@@ -222,7 +204,7 @@ A pregnant woman was not supposed to be spiritually available to everyone.
 
 Boundaries were part of care.
 
-This logic still belongs in your Home Protection work because house magic and womb protection were never separate.
+This logic still belongs in your **[Home Protection Work](/home-protection-herbal-rituals-guide/)** because house magic and womb protection were never separate.
 
 ---
 
@@ -254,8 +236,6 @@ Pregnancy was treated with caution **because beginnings deserve caution**.
 
 This is quiet house magic.
 
-Not performance.
-
 You need:
 
 - rosemary
@@ -282,7 +262,7 @@ No spectacle. No altar for social media.
 
 Just intention and boundary.
 
-That is how much real folk magic works.
+That is how real folk magic works.
 
 ---
 
