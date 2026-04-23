@@ -40,7 +40,7 @@ This is folklore, ancestral knowledge, and the craft of roots, leaves, and story
 ---
 
 ## The Womb in Old European Magic  
-In Old Europe, the womb was more than an organ. It was a **cauldron**, a **well**, a **dark moon**, a **house of spirits**. The Slavs called it _matka_—the mother, the source. The Norse saw it as a vessel tied to the Norns, where fate was woven. In the Balkans, women would tie red thread around their waists to “warm the womb” and appeal to the household spirits for fertility.  
+In Old Europe, the womb was more than an organ. It was a **cauldron**, a **well**, a **dark moon**, a **house of spirits**. The Slavs called it _matka_: the mother, the source. The Norse saw it as a vessel tied to the Norns, where fate was woven. In the Balkans, women would tie red thread around their waists to “warm the womb” and appeal to the household spirits for fertility.  
 
 Across cultures, fertility magic almost always included three elements:  
 1. **Heat** — warming herbs, bone broth, steam, fire, blood.  
@@ -55,7 +55,7 @@ The herbs below all existed within this triad of old magic.
 
 ## Mugwort (Artemisia vulgaris)  
 ### The Womb-Keeper  
-Few herbs were tied to the female body as deeply as mugwort. In medieval folk medicine, it “warmed the matrix” and stirred stagnant blood. But in witchcraft, mugwort was a **spirit herb**—one that cleared crossroads within the body, including the womb.  
+Few herbs were tied to the female body as deeply as mugwort. In medieval folk medicine, it “warmed the matrix” and stirred stagnant blood. But in witchcraft, mugwort was a **spirit herb**, the one that cleared crossroads within the body, including the womb.  
 
 **Folklore & Magical Use:**  
 - Worn as a girdle on Midsummer for “strength of life.”  
@@ -66,7 +66,7 @@ Few herbs were tied to the female body as deeply as mugwort. In medieval folk me
 - Warm teas before menstruation to support uterine circulation.  
 - Added to baths with rosemary for fertility blessings.  
 
-Use with respect. Mugwort is a threshold herb—powerful, liminal, and not for casual use.
+Use with respect. Mugwort is a threshold herb: powerful, liminal, and not for casual use.
 
 ---
 
