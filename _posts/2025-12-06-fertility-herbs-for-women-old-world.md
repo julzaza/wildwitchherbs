@@ -26,11 +26,13 @@ faq:
 
 ---
 
-Fertility magic has always lived in the oldest layers of European witchcraft. Long before midwives wrote recipes or monasteries collected herbals, women carried these secrets in their hands, their hearths, and their bodies. Fertility was not just about conception. It was vitality, blood, creative force, the spark of life rising from the dark soil of the womb.  
+Fertility magic has always lived in the oldest layers of European witchcraft. Long before midwives wrote recipes or monasteries collected herbals, **women carried these secrets in their hands, their hearths, and their bodies**. 
+
+Fertility was not just about conception. It was vitality, blood, creative force, the spark of life rising from the dark soil of the womb.  
 
 This post explores the plants that were once whispered over cradles, planted at thresholds, and brewed in the cups of women seeking not only children, but renewal, strength, and power over their own bodies.  
 
-This is not medical advice. This is folklore, ancestral knowledge, and the craft of roots, leaves, and story.
+This is folklore, ancestral knowledge, and the craft of roots, leaves, and story. *This is not medical advice.*
 
 - To explore fertility for men, see **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**.
 - Learn about what plants to stay away from: **[Herbs to Avoid if Trying to Conceive](/herbs-to-avoid-when-getting-pregnant/)**.
