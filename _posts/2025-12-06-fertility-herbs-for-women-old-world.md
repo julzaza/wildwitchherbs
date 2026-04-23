@@ -141,7 +141,7 @@ Its dual nature made it a witch’s favorite for balancing and restoring the wom
 
 ## Angelica (Angelica archangelica)  
 ### The Breath of Life  
-Angelica is a holy herb in Europe—warm, expansive, and protective. It is one of the best herbs for cold, stagnant wombs in traditional folk systems.  
+Angelica is a holy herb in Europe. It is warm, expansive, and protective. Angelica is one of the best herbs for cold, stagnant wombs in traditional folk systems.  
 
 **Folklore & Magical Use:**  
 - Scandinavian midwives burned angelica root to sanctify birthing rooms.  
