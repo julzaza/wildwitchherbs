@@ -57,6 +57,8 @@ Italian folk tradition considered rue strong enough to “split” the force of 
 
 Rue is actually one of the **[Witchy Plants for the Doorways](/witchy-plants-for-front-door/)**.
 
+Threshold defence magic mattered even more during pregnancy, when envy was believed to travel quickly and settle heavily. Many households used this same plant specifically for **[Protecting Pregnancy From the Evil Eye](/pregnancy-protection-old-world-magic/)**.
+
 ---
 
 ## **2. Basil — The Guardian of Hospitality**  
