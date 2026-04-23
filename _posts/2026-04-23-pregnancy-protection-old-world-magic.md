@@ -52,11 +52,18 @@ When life is fragile, people do not trust luck.
 
 They guard it.
 
-Because of this, pregnant women were often advised to avoid crossroads at sunset, funerals in certain regions, wells after dark, and unnecessary strangers entering the home. Some were told not to speak too early of the pregnancy, not to accept gifts from jealous hands, and not to allow too many people to touch the belly.
+Because of this, many traditions believed pregnant women should avoid:  
+- crossroads at sunset
+- funerals in some regions
+- wells after dark
+- unnecessary strangers entering the home
+- speaking too early about pregnancy
+- accepting certain gifts from jealous people
+- letting too many hands touch the belly
 
 Not all of this was fear of spirits in the dramatic sense.
 
-Much of it was social wisdom dressed in sacred language.
+Much of it was **social wisdom dressed in sacred language**.
 
 Not everyone who smiles wishes you well, and old folk traditions understood that long before modern people learned to call it boundaries.
 
@@ -72,7 +79,7 @@ Women were often told not to announce pregnancy too early.
 
 Not because of secrecy for its own sake.
 
-Because naming something too soon was believed to expose it.
+**Because naming something too soon was believed to expose it.**
 
 In Balkan and Mediterranean traditions, protection often included:
 
