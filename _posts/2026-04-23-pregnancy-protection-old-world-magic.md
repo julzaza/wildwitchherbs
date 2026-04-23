@@ -38,6 +38,8 @@ A woman carrying a child stood in a strange and powerful place, somewhere betwee
 
 That made pregnancy sacred, but it also made it vulnerable.
 
+## Why Pregnancy Was Treated as Spiritually Dangerous
+
 Across the Balkans, the Slavic lands, Mediterranean villages, rural Britain, and much of old Europe, **pregnancy was treated as a state that required guarding**. Not because the woman was weak, but because she was open, carrying life in a form believed to **attract both blessing and danger**.
 
 **People feared envy because envy was thought to travel farther than words.** They feared wandering spirits, careless praise, unkind visitors, and the kind of misfortune that enters quietly and settles into a household before anyone recognizes its name. They feared the evil eye, not always as a dramatic curse, but as the ordinary bitterness that can cling to admiration when desire and resentment sit too close together.
