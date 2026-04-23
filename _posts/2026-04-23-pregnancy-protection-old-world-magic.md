@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Pregnancy Protection in Old Folk Magic: Thresholds, Herbs, and the Fear of the Unseen"
+title: "Pregnancy Protection in Old Folk Magic: Herbs & Rituals"
 excerpt: "Pregnancy was once treated as a liminal and vulnerable crossing. Explore old folk protections for pregnancy, from doorway rituals and red thread to rosemary, rue, iron, and ancestral household magic."
 description: "Discover pregnancy protection in old folk magic through historical folklore, protective herbs, threshold rituals, evil eye defenses, red thread customs, and ancestral practices used to guard mother and child."
 categories:
