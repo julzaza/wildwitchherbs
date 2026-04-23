@@ -33,7 +33,7 @@ faq:
 
 ---
 
-Fertility has always been a sacred mystery—one woven with the threads of moon cycles, soil magic, and the whispering spirits of plants. **For centuries, witches, midwives, and herbalists turned to nature to guide life into being**. These herbs are omens, offerings, and allies in the ancient rites of creation.
+Fertility has always been a sacred mystery, one woven with the threads of moon cycles, soil magic, and the whispering spirits of plants. **For centuries, witches, midwives, and herbalists turned to nature to guide life into being**. These herbs are omens, offerings, and allies in the ancient rites of creation.
 
 For a deep dive into sex specific human fertility, see:  
 - **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**  
@@ -52,7 +52,7 @@ Often called “the woman’s herb,” raspberry leaf is cherished for toning th
 
 ## 2. Chasteberry (*Vitex agnus-castus*)
 
-Linked to both chastity and fertility—depending on intention—chasteberry was sacred to the Vestal Virgins and later to nuns in medieval Europe. Herbalists used it to balance hormones, especially in those with irregular cycles or luteal phase issues. In folk spells, it was sometimes placed under pillows to invite dreams of one's future child.
+Linked to both chastity and fertility, depending on intention, chasteberry was sacred to the Vestal Virgins and later to nuns in medieval Europe. Herbalists used it to balance hormones, especially in those with irregular cycles or luteal phase issues. In folk spells, it was sometimes placed under pillows to invite dreams of one's future child.
 
 **USE: Hormonal balance, fertility dreams, spiritual conception.**
 
@@ -70,7 +70,7 @@ Yes, the sting hides power. Nettle strengthens the blood and nourishes the body 
 
 ## 5. Mugwort (*Artemisia vulgaris*)
 
-The dream herb of witches, mugwort has long been used to regulate cycles and promote fertility—especially in cases tied to stress or spiritual stagnation. In folk rituals, it was burned as incense during fertility rites or stuffed into sachets worn at the waist.
+The dream herb of witches, mugwort has long been used to regulate cycles and promote fertility, especially in cases tied to stress or spiritual stagnation. In folk rituals, it was burned as incense during fertility rites or stuffed into sachets worn at the waist.
 
 **USE: Lunar fertility, cycle regulation, visionary conception.**
 
@@ -112,7 +112,7 @@ For herbs that work to invite love into your life, see **[Love Magic Herbs: Attr
 
 Within the cunning craft, fertility work often went beyond conception, intertwining it with blood, cycle timing, and ritual preparation — explored in **[Menstrual Blood Fertility Rites](/fertility-rituals-menstrual-magic/)** tied to White and Red Moon cycles.
 
-In certain traditions, fertility work blurred into desire and control — a darker boundary explored in **[Fear-Based Love Binding Magic](/balkan-love-magic-folklore/)** where conception, obsession, and survival overlapped.
+In certain traditions, fertility work blurred into desire and control. This darker boundary explored in **[Fear-Based Love Binding Magic](/balkan-love-magic-folklore/)** where conception, obsession, and survival overlapped.
 
 *Always consult a qualified herbalist or health practitioner before using herbs medicinally, especially if you’re pregnant or taking medication.*
 
@@ -131,7 +131,7 @@ In certain traditions, fertility work blurred into desire and control — a dark
 No. In traditional cultures, fertility herbs were used alongside midwives, community knowledge, and lived observation. Modern readers should treat this information as educational and consult qualified practitioners before medicinal use.
 
 ### Can these herbs help if I’m not trying to conceive?
-Yes. Historically, fertility herbs were also used to regulate cycles, restore strength after illness or loss, support hormonal balance, and reconnect women to their reproductive rhythms — not only for pregnancy.
+Yes. Historically, fertility herbs were also used to regulate cycles, restore strength after illness or loss, support hormonal balance, and reconnect women to their reproductive rhythms, not only for pregnancy.
 
 ### Why are some fertility herbs restricted to women?
 In many folk traditions, certain plants were associated with womb power, menstrual blood, and lineage magic. These herbs were sometimes restricted or ritually forbidden to men due to their perceived energetic and physiological effects.
