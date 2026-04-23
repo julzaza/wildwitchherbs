@@ -313,5 +313,6 @@ Iron was believed to repel harmful spirits and protect vulnerable states like pr
 
 ## Were pregnancy protections always magical?
 
-Not always. Many customs also served emotional and social purposes—privacy, boundaries, rest, and protection from unwanted interference. Folk magic often carried practical wisdom inside symbolic action.
-```
+Not always. Many customs also served emotional and social purposes: privacy, boundaries, rest, and protection from unwanted interference. Folk magic often carried practical wisdom inside symbolic action.
+
+---
