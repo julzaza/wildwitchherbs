@@ -120,7 +120,7 @@ In some traditions, the thread was tied by an older woman: mother, grandmother, 
 
 The knot mattered too.
 
-Knots hold. Knots refuse.
+Knots hold and knots refuse.
 
 ---
 
