@@ -25,8 +25,6 @@ keywords:
   - folk attraction rituals
   - witchcraft love herbs
 
-permalink: /love-magic-herbs-to-attract-the-right-partner/
-date: 2026-02-01
 faq:
   - question: "What is global love magic?"
     answer: "Global love magic uses plants, ritual, and symbolic actions to attract partners aligned by fate, mutual consent, and emotional compatibility across African, Asian, Indigenous American, and Pacific traditions."
@@ -164,6 +162,11 @@ While this post explores global traditions, you can deepen your understanding wi
 ## Love Still Answers Old Languages
 
 Across continents, people turned to leaves, roots, flowers, and scent to guide timing, soften hearts, and reveal what was already moving toward them.
+
+In older traditions, love work did not end with attraction. Fertility and pregnancy were treated as household magic, requiring protection, boundaries, and ancestral care long after partnership began. For more on this topic, explore next:
+
+- **[Pregnancy Protection in Old Folk Magic](/pregnancy-protection-old-world-magic/)**
+- **[Home Protection Guide: Folk Rituals and Herbs](/home-protection-herbal-rituals-guide/)**
 
 ---
 
