@@ -38,6 +38,10 @@ A woman carrying a child stood in a strange and powerful place, somewhere betwee
 
 That made pregnancy sacred, but it also made it vulnerable.
 
+In many traditions, the same women who guarded pregnancy also worked first with fertility herbs, womb blessings, and conception rites to prepare the body and the house for new life. If you want to explore that earlier stage, see Fertility **[Herbs for Women: Womb Magic & Old European Folklore](/fertility-herbs-for-women-old-world/)**.
+
+---
+
 ## Why Pregnancy Was Treated as Spiritually Dangerous
 
 Across the Balkans, the Slavic lands, Mediterranean villages, rural Britain, and much of old Europe, **pregnancy was treated as a state that required guarding**. Not because the woman was weak, but because she was open, carrying life in a form believed to **attract both blessing and danger**.
@@ -89,13 +93,9 @@ In Balkan and Mediterranean traditions, protection often included:
 - protective prayers said at the doorway
 - silver or iron worn close to the body
 
-Sometimes the strongest protection was simply silence.
+Sometimes the strongest protection was simply silence: let it root first, then speak.
 
-Keep it close.
-
-Let it root first.
-
-Then speak.
+In many households, the first defense against envy was not only ritual performance but living protective plants placed at the doorway. You can explore the strongest traditional choices in **[Herbs to Keep Out the Evil Eye Next Door](/herbs-that-keep-out-evil-eye/)**. 
 
 ---
 
@@ -263,6 +263,8 @@ No spectacle. No altar for social media.
 Just intention and boundary.
 
 That is how real folk magic works.
+
+Simple protection often works better than dramatic ritual, especially when people avoid the **[Common Protection Ritual Mistakes That Weaken the Work](/common-protection-rituals-mistakes/)**.
 
 ---
 
