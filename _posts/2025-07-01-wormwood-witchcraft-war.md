@@ -43,11 +43,11 @@ faq:
 
 ---
 
-Mentioned in the Bible, feared by medieval priests, and planted on Balkan graves long before borders or countries existed, *Artemisia* carries an ancient power. Bitterness isn’t just its flavor — it’s its weapon.
+Mentioned in the Bible, feared by medieval priests, and planted on Balkan graves long before borders or countries existed, *Artemisia* carries an ancient power. Bitterness isn’t just its flavor, but its weapon.
 
-Across Europe, Western Asia, and parts of North Africa, **Artemisia species appear wherever land has been disturbed**—by roads, plows, graves, camps, and armies. Long before botanists named this genus, folk cultures noticed the pattern: *where humans break the land through violence or hardship, Artemisia follows*.
+Across Europe, Western Asia, and parts of North Africa, **Artemisia species appear wherever land has been disturbed**; by roads, plows, graves, camps, and armies. Long before botanists named this genus, folk cultures noticed the pattern: *where humans break the land through violence or hardship, Artemisia follows*.
 
-This association shaped its reputation. Wormwood became a plant of **war, bitterness, survival, and memory**—not because it caused these things, but because it endured alongside them.
+This association shaped its reputation. Wormwood became a plant of **war, bitterness, survival, and memory**, not because it caused these things, but because it endured alongside them.
 
 ---
 
@@ -77,7 +77,7 @@ Historical folk medicine across Europe records wormwood being used to:
 - Repel insects and lice
 - Mask the taste of poor water or food
 
-Soldiers and long-distance travelers often carried wormwood not as luxury, but as **maintenance for a body under stress**. In folk logic, bitterness strengthened the will and sharpened awareness—qualities valued in dangerous conditions.
+Soldiers and long-distance travelers often carried wormwood not as luxury, but as **maintenance for a body under stress**. In folk logic, bitterness strengthened the will and sharpened awareness, qualities valued in dangerous conditions.
 
 This practical use reinforced its symbolic role: wormwood was the plant of **endurance without softness**.
 
@@ -177,7 +177,7 @@ The earliest written records of wormwood go back to *Babylon*. Known to the Sume
 
 It’s no accident that bitterness was linked to purification: *the more bitter the herb, the more potent its spirit-cleansing power*.
 
-Even then, it wasn’t just about healing — it was about power. **Rituals involving wormwood were often hidden, secretive, and not meant for common use**. This plant wasn’t for the weak. 
+Even then, it wasn’t just about healing, it was about power. **Rituals involving wormwood were often hidden, secretive, and not meant for common use**. This plant wasn’t for the weak. 
 
 ---
 
@@ -206,11 +206,11 @@ Wormwood teaches through discomfort, purifies through bitterness, and forces cla
 
 **Was wormwood actually used by soldiers or in wartime?**  
 
-Yes. In European folk history, *Artemisia absinthium* was carried by soldiers and travelers as a **bitter digestive**, **parasite deterrent**, and **preservative herb**. Because it thrives on disturbed ground—roadsides, camps, mass graves—it became symbolically tied to warfare, decay, and death.
+Yes. In European folk history, *Artemisia absinthium* was carried by soldiers and travelers as a **bitter digestive**, **parasite deterrent**, and **preservative herb**. Because it thrives on disturbed ground: roadsides, camps, mass graves, it became symbolically tied to warfare, decay, and death.
 
 **Why is wormwood associated with death and bitterness in folklore?**  
 
-Wormwood’s extreme bitterness made it a symbol of **harsh truth, mourning, and unavoidable fate**. In Biblical, Balkan, and wider European traditions, bitterness marked grief, exile, and the cost of war—both physical and spiritual.
+Wormwood’s extreme bitterness made it a symbol of **harsh truth, mourning, and unavoidable fate**. In Biblical, Balkan, and wider European traditions, bitterness marked grief, exile, and the cost of war, both physical and spiritual.
 
 **Is wormwood the same as mugwort?**  
 
@@ -218,7 +218,7 @@ No. Though closely related, they serve different roles in folklore. Wormwood (*A
 
 **Was wormwood used for dreaming or visions?**  
 
-Yes. European folk practice used wormwood—often alongside mugwort—for **prophetic or diagnostic dreaming**, especially around themes of death, fate, and ancestral messages. It was placed under pillows, hung near beds, or used as smoke rather than casually consumed.  
+Yes. European folk practice used wormwood, often alongside mugwort, for **prophetic or diagnostic dreaming**, especially around themes of death, fate, and ancestral messages. It was placed under pillows, hung near beds, or used as smoke rather than casually consumed.  
 Related reading: **[Wormwood & Lucid Dreaming](/wormwood-lucid-dreaming/)**.
 
 **What about Artemisia annua — does it belong in this tradition?**  
