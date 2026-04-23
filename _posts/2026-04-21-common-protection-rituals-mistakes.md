@@ -76,6 +76,8 @@ Many modern rituals focus only on the center of the home and forget the border.
 
 Protection starts at the edge.
 
+This becomes even clearer in pregnancy folklore, where thresholds were treated as the first line of defense for mother and child. You can read why pregnancy protection focused so heavily on thresholds here: **[Pregnancy Protection in Old Folk Magic: Herbs & Rituals](/pregnancy-protection-old-world-magic/)**. 
+
 ---
 
 ## 3. Using Herbs Without Knowing Their Nature
