@@ -296,19 +296,7 @@ This is a ritual of blessing, not guarantee. It is about calling vitality, not f
 
 In many Balkan households, women tied red thread around the waist, wrist, or underclothing when trying to conceive. Red was the color of blood, life, protection, and visible resistance against envy.
 
-This was not decoration. It was believed to warm the womb, guard against the evil eye, and keep outside interference from disturbing conception. The same red thread often returned later during pregnancy protection rituals.
-
-The womb was treated as a threshold. Red marked that threshold and warned against intrusion.
-
----
-
-### Evil Eye During Conception  
-
-Conception itself was often kept secret in village life. Too much praise, too much envy, or too much attention was believed to “cool the womb” or disturb early pregnancy before it could settle.
-
-Women avoided announcing fertility hopes openly. Older women warned against discussing conception near jealous relatives or strangers. Protection often came through silence, modesty, and small household rituals rather than public celebration.
-
-This belief survives strongly across Balkan folk systems: what is growing should not be exposed too early.
+It was believed to warm the womb, guard against the evil eye, and keep outside interference from disturbing conception. The same red thread often returned later during **[Pregnancy Protection Rituals](/pregnancy-protection-old-world-magic/)**.
 
 ---
 
@@ -342,15 +330,11 @@ To enter a house correctly was to enter life correctly.
 
 ---
 
-### Basil and Rosemary Protection  
+### Evil Eye During Conception  
 
-Basil and rosemary were often kept near doors, windows, and sleeping spaces where fertility or pregnancy was being protected.
+Conception itself was often kept secret in village life. Too much praise, too much envy, or too much attention was believed to “cool the womb” or disturb early pregnancy before it could settle.
 
-Rosemary especially carried strong associations with remembrance, female protection, and household cleansing. Basil was tied to blessing, peace, and protection from hostile attention.
-
-These were not exotic magical tools. They were ordinary plants trusted because they stood close to daily life.
-
-In old folk practice, the safest magic was often the one growing beside the door.
+This belief survives strongly across Balkan folk systems: what is growing should not be exposed too early.
 
 ---
 
@@ -412,4 +396,3 @@ After conception, attention shifted toward pregnancy protection: guarding the mo
 For those traditions, see **[Pregnancy Protection in Old Folk Magic](/pregnancy-protection-old-world-magic/)**.
 
 ---
-
