@@ -45,6 +45,13 @@ The full moon has long been linked to fertility, menstruation, and conception. W
 
   **Spell whisper**: *“Moon above, womb below, let your silver waters flow.”*
 
+Some traditions also involved lifting a bowl of milk or spring water toward the waxing moon.
+
+The whispered call varied, but one version survived in Alpine lore:
+
+> “Moon that swells, swell me.  
+> Moon that moves tides, move me.”
+
 ## 2. Beltane Bonfire Rites
 
 Beltane (May 1st) was one of the high fertility festivals of the Celtic calendar. Couples would jump over fires to bless their union. Women might leap the flames alone, seeking to “leap into life.” In Balkan spring festivals, ash from sacred fires was rubbed on the belly or scattered in the fields to bless fertility.
@@ -53,9 +60,23 @@ Beltane (May 1st) was one of the high fertility festivals of the Celtic calendar
 
 ## 3. Herb Bundles and Womb Charms
 
-In Slavic and Alpine traditions, herbalists would create bundles of **red clover**, **lady’s mantle**, and **nettle** tied with red thread and worn at the waist or hidden under the bed. These bundles weren’t just medicine—they were spirit helpers.
+In Slavic, Balkan, and Alpine folk traditions, women sometimes carried small bundles of fertility herbs tied with red thread and worn near the waist, tucked beneath clothing, or hidden beneath the bed.
 
-  Tie the charm at dawn and whisper your wish into it. Bury it in the earth when the wish comes true.
+Common herbs included:  
+- lady’s mantle
+- red clover
+- nettle
+- vervain
+- wild rose petals
+- apple blossom
+
+Red thread was used for warmth, blood, protection, and resistance against the evil eye. The bundle was believed to guard the womb, encourage conception, and protect what was trying to grow.
+
+Some women tied the charm at dawn during the waxing moon, whispering their wish over the herbs before knotting the thread closed.
+
+When conception came or when the season of trying had passed, the bundle was buried in the earth, returning the prayer to the land.
+  
+These bundles were considered living amulets - small spirits who walked with the woman.
 
 For a full guide to the plants of Old Europe traditionally used in fertility magic, see 
 - **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**  
@@ -70,7 +91,10 @@ In many folk cultures, fertility was tied to ancestral blessings. Women would po
 
 ##  5. Womb Candle Spell
 
-Carve your desire into a red or pink candle—names, dates, symbols of life. Anoint with a blend of **mugwort**, **chasteberry tincture**, or rose oil. Burn the candle over seven nights during the waxing moon, meditating on the spark of life kindling within.
+Candles carved with symbols of spirals, seeds, or animals were burned over seven waxing nights.  
+The flame was believed to pull spirit into matter—life into flesh.
+
+Carve your desire into a red or pink candle: names, dates, symbols of life. Anoint with a blend of **mugwort**, **chasteberry tincture**, or rose oil. Burn the candle over seven nights during the waxing moon, meditating on the spark of life kindling within.
 
   Place the candle between your hands and say: *“As fire catches wick, so may life catch in me.”*
 
