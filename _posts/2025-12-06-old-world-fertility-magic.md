@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Old World Fertility Magic: Charms, Rites & Witchcraft"
-description: "A deep folklore-based exploration of Old European fertility magic—rituals of land, lineage, livestock, and life—and how witches worked with plants, spirits, and cycles to call creation into the world."
-excerpt: "An atmospheric dive into Old European fertility magic—where land, lineage, animals, and human life were intertwined in one great spell of creation."
+title: "Old World Fertility Magic: Land, Animals & Ancestral Life-Force"
+description: "A deep folklore-based exploration of Old European fertility magic: rituals of land, lineage, livestock, and life, and how witches worked with plants, spirits, and cycles to call creation into the world."
+excerpt: "An atmospheric dive into Old European fertility magic, where land, lineage, animals, and human life were intertwined in one great spell of creation."
 categories: [witchcraft-ritual, folklore-ancestral]
 tags: [fertility rituals, old european magic, folklore, witchcraft traditions]
 
@@ -26,15 +26,15 @@ faq:
 
 Fertility in the Old World was never a single subject.  
 It was not only about human bodies, wombs, or conception.  
-It was a **cosmic current**—a pulse moving through soil, seeds, livestock, ancestors, seasons, the hearth, and the hidden world of spirits.
+It was a **cosmic current**, a pulse moving through soil, seeds, livestock, ancestors, seasons, the hearth, and the hidden world of spirits.
 
-A barren field, a sterile cow, a failing lineage, a woman unable to conceive—these were not separate problems.  
+A barren field, a sterile cow, a failing lineage, a woman unable to conceive. These were not separate problems.  
 They were different faces of the same imbalance in the world’s life-force.  
 
 This post explores the older, deeper worldview:  
 **fertility as a force of the land itself**, and the ritual ways witches and wise folk invited it back into balance.
 
-If you’re looking for human-centered charms, womb rites, and conception spells, see Folk Fertility Rituals – Magic of Creation - **[Fertility Rituals for Creation](/folk-fertility-rituals/)**  
+If you’re looking for human-centered charms, womb rites, and conception spells, see **[Folk Fertility Rituals for Creation](/folk-fertility-rituals/)**  
 
 ---
 
