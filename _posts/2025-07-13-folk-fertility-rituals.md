@@ -37,7 +37,7 @@ Fertility was never just about making babies. **In folk magic and witchcraft, it
 
 Here are some of the most time-honored fertility rituals drawn from European, Slavic, and folk traditions, woven from soil, moonlight, and plant magic.
 
-For a deeper look into how land, livestock, and lineage were bound into one cycle of creation, explore **[Fertility Rituals & Charms of the Old World](/old-world-fertility-magic/)**. It is a broader ancestral map of how magic moved through soil, hearth, and body.
+For a deeper look into how land, livestock, and lineage were bound into one cycle of creation, explore **[Old World Fertility Magic: Land, Animals & Ancestral Life-Force](/old-world-fertility-magic/)**. It is a broader ancestral map of how magic moved through soil, hearth, and body.
 
 ## 1. Moon Bathing for Womb Awakening
 
