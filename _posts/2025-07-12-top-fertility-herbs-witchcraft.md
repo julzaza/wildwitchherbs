@@ -122,18 +122,6 @@ Folklore from the Americas and Appalachia tied wild yam to the changing seasons 
 
 ---
 
-## Fertility Work Did Not End with Conception
-
-Once conception was confirmed, fertility work did not simply end. 
-
-In many traditions, attention shifted from inviting life to guarding it, protecting the mother from envy, household imbalance, and the evil eye. 
-
-You can explore how old folk traditions protected pregnancy through red thread, rosemary, threshold rituals, and ancestral protection customs, here:
-
-- **[Pregnancy Protection in Old Folk Magik](/pregnancy-protection-old-world-magic/)**
-
----
-
 ## Final Thoughts
 
 Fertility is not just about the body: it’s about **cycles, timing, soul, and spirit**. These herbs work not only through their physical effects, but through their stories, symbolism, and the quiet rituals they invite us into. 
