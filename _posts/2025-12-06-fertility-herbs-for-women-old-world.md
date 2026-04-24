@@ -55,10 +55,10 @@ The herbs below all existed within this triad of old magic.
 
 ---
 
-# Key Fertility Herbs for Women in Old European Witchcraft  
+## Key Fertility Herbs for Women in Old European Witchcraft  
 
-## Mugwort (Artemisia vulgaris)  
-### The Womb-Keeper  
+### Mugwort (Artemisia vulgaris)  
+#### The Womb-Keeper  
 Few herbs were tied to the female body as deeply as mugwort. In medieval folk medicine, it “warmed the matrix” and stirred stagnant blood. But in witchcraft, mugwort was a **spirit herb**, the one that cleared crossroads within the body, including the womb.  
 
 **Folklore & Magical Use:**  
@@ -74,8 +74,8 @@ Use with respect. Mugwort is a threshold herb: powerful, liminal, and not for ca
 
 ---
 
-## Motherwort (*Leonurus cardiaca*)  
-### The Mother’s Guardian  
+### Motherwort (*Leonurus cardiaca*)  
+#### The Mother’s Guardian  
 
 Few herbs carry their purpose so clearly in their very name. Motherwort was long trusted across Europe for women’s health, especially where the heart and womb were believed to mirror one another. In old herbals, fear, grief, delayed bleeding, and emotional heaviness were often seen as conditions that could “close the womb,” and motherwort was used where sorrow and fertility became tangled together.
 
@@ -90,8 +90,8 @@ Motherwort belongs to the old understanding that fertility begins with safety. A
 
 ---
 
-## Rose (*Rosa spp.*)  
-### The Blood of Venus  
+### Rose (*Rosa spp.*)  
+#### The Blood of Venus  
 
 Rose was never only a love flower. In older European folk practice, it belonged equally to blood, fertility, beauty, and the opening of the female body to joy rather than fear.
 
@@ -106,8 +106,8 @@ Rose reminds us that fertility was never treated as purely physical. Desire, ten
 
 ---
 
-## Vervain (*Verbena officinalis*)  
-### The Sacred Threshold Herb  
+### Vervain (*Verbena officinalis*)  
+#### The Sacred Threshold Herb  
 
 Vervain was one of Europe’s old ritual plants, used by healers, cunning folk, and church herb gatherers alike. It carried a reputation for blessing difficult crossings—birth, marriage, healing, and conception.
 
@@ -122,8 +122,8 @@ Vervain was not seen as forcing fertility, but removing what stood in its way.
 
 ---
 
-## Linden (*Tilia spp.*)  
-### The Hearth Tree of Women  
+### Linden (*Tilia spp.*)  
+#### The Hearth Tree of Women  
 
 Across Slavic lands, linden was not merely a tree, it was a protector of the household. Villages gathered beneath old lindens for weddings, blessings, and women’s rites. Its flowers were associated with softness, peace, and maternal protection.
 
@@ -138,8 +138,8 @@ Linden teaches a quieter kind of fertility magic: calm, shelter, and the safety 
 
 ---
 
-## Calendula (*Calendula officinalis*)  
-### The Sun of the Womb  
+### Calendula (*Calendula officinalis*)  
+#### The Sun of the Womb  
 
 Calendula belongs to the old solar herbs, bright, warming, and tied to blood movement. Folk healers used it where the body felt cold, delayed, or stagnant. In women’s traditions, it appeared in menstrual support, post-birth recovery, and fertility blessings.
 
@@ -154,8 +154,8 @@ Calendula was less about conception itself and more about preparing the body to 
 
 ---
 
-## Raspberry Leaf (Rubus idaeus)  
-### The Red Thread of Womanhood  
+### Raspberry Leaf (Rubus idaeus)  
+#### The Red Thread of Womanhood  
 Raspberry leaf is one of the most universal European fertility herbs, used by midwives to tone and strengthen the womb.  
 
 **Folklore & Magical Use:**  
@@ -168,8 +168,8 @@ A strong daily infusion (steeped long, not short) forms the core of many old rec
 
 ---
 
-## Lady’s Mantle (Alchemilla vulgaris)  
-### The Alchemist’s Herb  
+### Lady’s Mantle (Alchemilla vulgaris)  
+#### The Alchemist’s Herb  
 The morning dew collected on lady’s mantle was prized by medieval alchemists, believed to contain the “purest water.” Women used the plant for fertility, womb toning, and healing after miscarriage.  
 
 **Folklore & Magical Use:**  
@@ -182,8 +182,8 @@ Make a slow infusion or add the herb to daily womb-toning teas.
 
 ---
 
-## Nettle (Urtica dioica)  
-### Blood Builder, Life Riser  
+### Nettle (Urtica dioica)  
+#### Blood Builder, Life Riser  
 Nettle is pure vitality. Strong, mineral-rich, and deeply nourishing, it was used to strengthen women after long illness or blood depletion.  
 
 **Folklore & Magical Use:**  
@@ -196,8 +196,8 @@ Daily or near-daily nettle infusions in the months before conception.
 
 ---
 
-## Red Clover (Trifolium pratense)  
-### The Bloom of Renewal  
+### Red Clover (Trifolium pratense)  
+#### The Bloom of Renewal  
 Red clover is one of the great **blood purifiers** of European herbalism, associated with feminine renewal, youth, and the ability to “open the pathways” within the body.  
 
 **Folklore & Magical Use:**  
@@ -210,8 +210,8 @@ Common in fertility tea blends and long infusions for circulatory vitality.
 
 ---
 
-## Yarrow (Achillea millefolium)  
-### The Wound-Closener, the Gate-Opener  
+### Yarrow (Achillea millefolium)  
+#### The Wound-Closener, the Gate-Opener  
 Yarrow’s relationship with the womb is paradoxical. It stops blood when needed, but also warms and moves blood that won’t flow.  
 
 **Folklore & Magical Use:**  
@@ -223,8 +223,8 @@ Its dual nature made it a witch’s favorite for balancing and restoring the wom
 
 ---
 
-## Angelica (Angelica archangelica)  
-### The Breath of Life  
+### Angelica (Angelica archangelica)  
+#### The Breath of Life  
 Angelica is a holy herb in Europe. It is warm, expansive, and protective. Angelica is one of the best herbs for cold, stagnant wombs in traditional folk systems.  
 
 **Folklore & Magical Use:**  
@@ -237,8 +237,8 @@ Small amounts in warming teas, often paired with ginger or cinnamon.
 
 ---
 
-## Hawthorn (Crataegus spp.)  
-### Heart of the Mother  
+### Hawthorn (Crataegus spp.)  
+#### Heart of the Mother  
 Hawthorn is not usually seen as a “fertility herb,” but in Old Europe, its magic was deeply tied to desire, vitality, and the fire of the heart. Fertility requires circulation; hawthorn is circulation made plant.  
 
 **Folklore & Magical Use:**  
@@ -250,7 +250,11 @@ Hawthorn supports the emotional and energetic roots of fertility: heart-fire, ho
 
 ---
 
-# A Traditional Fertility Tea Blend 
+These are some of the strongest fertility herbs found in Old European women’s traditions, but they are only part of a much wider body of plant folklore. For a broader guide covering fertility herbs used across witchcraft traditions worldwide, read **[Top 9 Fertility Herbs in Witchcraft](/top-fertility-herbs-witchcraft/)**.
+
+---
+
+## A Traditional Fertility Tea Blend 
 This is a historical-style folk blend, not medical guidance.
 
 **Equal parts:**  
@@ -267,7 +271,7 @@ Steep long (at least 30 minutes). Drink during the waxing moon or use only as a 
 
 ---
 
-# A Womb Blessing Ritual for Fertility (Old European Style)  
+## A Womb Blessing Ritual for Fertility (Old European Style)  
 Performed between the new moon and the first crescent.  
 
 **You will need:**  
