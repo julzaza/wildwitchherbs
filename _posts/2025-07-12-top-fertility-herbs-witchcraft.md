@@ -40,25 +40,28 @@ For a deep dive into sex specific human fertility, see:
 - **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
 
 Also, learn about plants you should keep away from when trying to conceive:
-- **[Herbs to Avoid if Trying to Conceive](/herbs-to-avoid-when-getting-pregnant)**.
+- **[Herbs to Avoid if Trying to Conceive](/herbs-to-avoid-when-getting-pregnant)**
 
 Here are nine of the most potent fertility herbs in witchcraft and folklore, passed down through stories, spells, and the hands of wise women.
 
 ## 1. Raspberry Leaf (*Rubus idaeus*)
 
-Often called “the woman’s herb,” raspberry leaf is cherished for toning the uterus and supporting menstrual health. Folk midwives brewed it in strong teas to prepare the womb for pregnancy and strengthen it during early stages. In old Slavic traditions, young women would drink raspberry tea before handfasting ceremonies, tying their fertility to the rhythms of the land.
+Often called “the woman’s herb,” raspberry leaf is cherished for toning the uterus and supporting menstrual health.  
+Folk midwives brewed it in strong teas to prepare the womb for pregnancy and strengthen it during early stages. In old Slavic traditions, young women would drink raspberry tea before handfasting ceremonies, tying their fertility to the rhythms of the land.
 
 **USE: Womb protection, preparation for birth, feminine strength.**
 
 ## 2. Chasteberry (*Vitex agnus-castus*)
 
-Linked to both chastity and fertility, depending on intention, chasteberry was sacred to the Vestal Virgins and later to nuns in medieval Europe. Herbalists used it to balance hormones, especially in those with irregular cycles or luteal phase issues. In folk spells, it was sometimes placed under pillows to invite dreams of one's future child.
+Linked to both chastity and fertility, depending on intention, chasteberry was sacred to the Vestal Virgins and later to nuns in medieval Europe.  
+Herbalists used it to balance hormones, especially in those with irregular cycles or luteal phase issues. In folk spells, it was sometimes placed under pillows to invite dreams of one's future child.
 
 **USE: Hormonal balance, fertility dreams, spiritual conception.**
 
 ## 3. Red Clover (*Trifolium pratense*)
 
-This sweet wildflower is more than just a meadow dweller. Red clover is rich in phytoestrogens and used to cleanse the blood and nourish the reproductive system. In Celtic folklore, it was seen as a gift from the Earth Mother, especially for those trying to conceive after long waits or losses.
+This sweet wildflower is more than just a meadow dweller. Red clover is rich in phytoestrogens and used to cleanse the blood and nourish the reproductive system.   
+In Celtic folklore, it was seen as a gift from the Earth Mother, especially for those trying to conceive after long waits or losses.
 
 **USE: Renewed fertility, womb healing, second chances.**
 
