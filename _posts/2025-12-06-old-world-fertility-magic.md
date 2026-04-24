@@ -109,60 +109,9 @@ A protection for animals, yes—but also for the women of the house.
 
 ---
 
-## Human Fertility: Rites, Charms & Midnight Practices
-
-Only now, after land and animals, do we turn to human bodies—because that is the order the old world observed.
-
-Human fertility rituals were intimate, often secret, and deeply symbolic.
-
-### **Moon-Calling**
-Women stood under the waxing moon, lifting a bowl of water or milk toward the sky.
-
-The whispered call varied, but one version survived in Alpine lore:
-
-> “Moon that swells, swell me.  
-> Moon that moves tides, move me.”
-
-### **Herbal Womb Bundles**
-Bundles of:
-- lady’s mantle  
-- vervain  
-- rose  
-- nettle  
-- apple blossom  
-- red clover  
-
-were tied with **red thread** and worn near the womb.  
-These bundles were considered living amulets—small spirits who walked with the woman.
-
-Explore **[Herbs Used in Conception Rites](/top-fertility-herbs-witchcraft/)** to get to know your plant allies. 
-
-### **Fire-Jumping for Conception**
-Jumping the Beltane fire was not symbolic—it was literal sympathetic magic.  
-Couples jumped together, hoping to “ignite life.”  
-Women sometimes leapt alone to “clear the cold” from the womb.
-
-### **Ancestor Offerings**
-Bread and honey were given to ancestors to “open the roads” for a child to come.  
-Infertility was often traced to ancestral imbalance, not physical biology.
-
-### Menstrual Blood Magic
-
-Offering menstrual blood to the earth is one of the oldest acts of witchcraft—an intimate pact between your body and the land. Whether you’re seeking to encourage conception or simply honor the raw creative force that flows through you, work in rhythm with the moon. Learn how to do the ritual here: **[Menstrual Blood Offering](/fertility-rituals-menstrual-magic/)**.
-
-### **The Womb-Candle Practice**
-Candles carved with symbols of spirals, seeds, or animals were burned over seven waxing nights.  
-The flame was believed to pull spirit into matter—life into flesh.
-
-For a deep dive into plant allies for human fertility, see:  
-- **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**  
-- **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)** 
-
----
-
 ## The Unbroken Thread: Creation as a Shared Fate
 
-What stands out in all these rites—land, animal, human—is the shared worldview:
+What stands out in all these rites, is the shared worldview:
 
 **Fertility was not a personal matter.  
 It was a household fate, a village destiny, a cosmic rhythm.**
