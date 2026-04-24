@@ -241,6 +241,8 @@ Historically, raspberry leaf, red clover, nettle, and lady’s mantle form the c
 ### **Can fertility herbs help with conception?**  
 Traditional European herbalism used these herbs to support vitality, circulation, and womb health, but results vary and depend on many factors.
 
+For a broader overview of fertility herbs across traditions, see **[Top 9 Fertility Herbs in Witchcraft](/top-fertility-herbs-witchcraft/)**.
+
 ### **How long should I take fertility herbs?**  
 Folk traditions recommend using tonic herbs (nettle, raspberry leaf, red clover) for several moon cycles before seeking conception.
 
