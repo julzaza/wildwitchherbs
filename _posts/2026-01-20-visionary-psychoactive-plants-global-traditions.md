@@ -215,9 +215,21 @@ Found across Eurasia, *Amanita muscaria* appears in folklore associated with sea
 
 ---
 
-#### **Morning Glory Species and Ololiuqui (Mesoamerica)**
+#### **Ololiuqui and Morning Glory Seeds (Turbina corymbosa & Ipomoea spp.) — Mesoamerica**
 
-In Mesoamerican ritual contexts, **morning glories (_Ipomoea_)** and **ololiuqui (_Turbina corymbosa_)** were used in ceremonial divination long before European contact. Their effects were integrated into healing and vision practices; these are included here to illustrate **traditional ceremonial diversity**.
+In Mesoamerican ritual contexts, **morning glories** and **ololiuqui** were used in ceremonial divination long before European contact. Their effects were integrated into healing and vision practices.
+
+The Nahua and Zapotec peoples knew ololiuqui, most often identified as Turbina corymbosa, as a ritual plant of vision, diagnosis, and spirit consultation. Related Ipomoea species, including certain morning glory vines, also appear in ethnobotanical records for ceremonial use.
+
+**Historical record:**
+Colonial chroniclers such as Hernández and Sahagún documented the use of the seeds by healers and diviners. They were consumed carefully within ritual settings to diagnose illness, reveal hidden causes of suffering, and seek divine instruction.
+
+**Folk logic:**
+The seeds were approached with seriousness and often fear, because they were believed to open access to truth that could not be reached through ordinary speech.
+
+The flower itself carried symbolic beauty, but the real ritual power was understood to live in the seed.
+
+*Comparative framing*: Unlike blue lotus, which softened the threshold through beauty and sedation, ololiuqui worked through revelation: less comfort, more confrontation.
 
 ---
 
