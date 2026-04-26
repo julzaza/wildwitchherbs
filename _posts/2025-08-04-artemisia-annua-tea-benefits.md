@@ -49,7 +49,7 @@ faq:
 
 ## Why Drink Artemisia Annua Tea?
 
-Traditionally used across Asia, Africa, and Europe, *Artemisia annua*, also known as **sweet wormwood or qinghao**, has been valued for centuries for its effects on the body’s natural balance and resilience.
+Traditionally used across Asia, Africa, and Europe, *Artemisia annua*, also known as **sweet wormwood, sweet Annie, sweet mugwort or qinghao**, has been valued for centuries for its effects on the body’s natural balance and resilience.
 
 While we can’t make medical claims, herbalists and traditional practitioners have long used it for:
 
@@ -82,12 +82,21 @@ Here are a few ways witches and folk healers use *Artemisia annua*:
 
 ## How to Brew
 
-### How To prepare Hot Infusion:
+### Prepare Warm Infusion (Most Common for Tea):
 
-1. Use 1 teaspoon per cup  
-2. Steep 5–10 minutes with a **closed lid** to retain volatile oils  
-3. Strain and sip mindfully: she’s bitter, but that’s the medicine  
+A strong rolling boil is usually not preferred for sweet wormwood. Excessive heat can damage delicate aromatic compounds and creates a harsher, more aggressive bitterness.
 
+For everyday traditional tea use:
+
+1. Use 1–2 teaspoons of dried herb per cup  
+2. Heat water until hot, but not violently boiling, ideally around 60–80°C  
+3. Pour over the herb and cover immediately  
+4. Steep for 5–10 minutes  
+5. Strain and drink slowly  
+
+Some old folk herbalists also used warm full-fat milk instead of water for a softer, less bitter preparation, especially when the herb was considered too sharp for the stomach.
+
+This method keeps more aroma and creates a cleaner, less burnt bitterness than pouring aggressively boiling water directly onto the herb.
 Sweeten lightly with honey if desired, but we recommend trying her bare first. Let the taste teach you something.
 
 
