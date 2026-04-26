@@ -92,7 +92,7 @@ In many folk cultures, fertility was tied to ancestral blessings. Women would po
 ##  5. Womb Candle Spell
 
 Candles carved with symbols of spirals, seeds, or animals were burned over seven waxing nights.  
-The flame was believed to pull spirit into matter—life into flesh.
+The flame was believed to pull spirit into matter: life into flesh.
 
 Carve your desire into a red or pink candle: names, dates, symbols of life. Anoint with a blend of **mugwort**, **chasteberry tincture**, or rose oil. Burn the candle over seven nights during the waxing moon, meditating on the spark of life kindling within.
 
@@ -124,7 +124,7 @@ Through these rituals, the threads of ancestry, desire, and creation intertwine,
 
 ## Slow Down to Create
 
-Fertility is magic made flesh. **These rituals remind us that creation is sacred—whether it results in a child, a spell, a new chapter, or a life reclaimed.**
+Fertility is magic made flesh. **These rituals remind us that creation is sacred, whether it results in a child, a spell, a new chapter, or a life reclaimed.**
 
 No ritual guarantees results. But the act of slowing down, speaking with the moon and soil, and honoring your body and spirit. That alone is healing, **that alone opens the door to miracles.**
 
