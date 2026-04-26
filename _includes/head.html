@@ -21,6 +21,12 @@
   }
   </script>
 
+  
+  {% if page.url == "/" and page.image_desktop %}
+  <link rel="preload" as="image" href="{{ page.image_desktop | relative_url }}">
+{% endif %}
+
+  
 
   <!-- Stylesheets -->
   <link rel="stylesheet" href="/assets/css/main.css">
