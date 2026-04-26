@@ -191,25 +191,25 @@ Harvested by hand. Crafted with care. Limited batches only.
 ## FAQ: Artemisia Annua Tea 
 
 **Is Artemisia annua tea safe to drink?**  
-Traditionally, yes — when used respectfully and in small amounts. Bitter herbs are strong allies, not daily comfort teas. Start slow and listen to your body.
+Traditionally, yes, when used respectfully and in small amounts. Bitter herbs are strong allies, not daily comfort teas. Start slow and listen to your body.
 
 **Who should not drink Artemisia annua tea?**  
 Avoid during pregnancy or breastfeeding. If you have a medical condition or take medication, consult a qualified practitioner before use.
 
 **How often should I drink it?**  
-Historically, this was used seasonally or ritualistically — not daily. A few cups over a short period is more aligned with folk use than constant consumption.
+Historically, this was used seasonally or ritualistically, not daily. A few cups over a short period is more aligned with folk use than constant consumption.
 
 **Why does bitterness matter so much in folk traditions?**  
 Bitterness was seen as a teacher. It sharpens awareness, strengthens boundaries, and signals potency. In ancestral medicine, bitter meant effective.
 
 **Can I sweeten Artemisia tea?**  
-Yes, lightly — honey was traditionally used. Still, many herbalists recommend tasting it plain at least once to understand the plant’s nature.
+Yes, lightly: honey was traditionally used. Still, many herbalists recommend tasting it plain at least once to understand the plant’s nature.
 
 **Is this tea meant more for ritual or physical support?**  
 Both. Artemisia annua sits at the crossroads of body, spirit, and threshold magic. How you use it depends on your intention.
 
 **Can beginners work with Artemisia?**  
-Yes — cautiously. This is not a “gentle” herb, but it is a wise one. Respect, moderation, and intention matter more than experience level.
+Yes, buy cautiously. This is not a “gentle” herb, but it is a wise one. Respect, moderation, and intention matter more than experience level.
 
 **Why is Artemisia associated with protection?**  
 Across Europe and the Balkans, it was believed to repel illness, harmful forces, and spiritual intrusion — especially when used near doors, windows, or thresholds.
