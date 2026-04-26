@@ -128,11 +128,11 @@ Some herbalists prefer the hot infusion for ritual use and the cold soak for sea
 
 Some herbs carry stories that feel almost too strange to be accidental. *Artemisia annua* is one of them.
 
-In China, this plant is called **qinghao**. It became famous around the world through the work of the scientist whose research helped isolate artemisinin, the compound that changed the treatment of malaria and saved countless lives.
+In China, this plant is called **qinghao**. It became famous around the world through the work of the **scientist whose research helped isolate artemisinin**, the compound that changed the treatment of malaria and saved countless lives.
 
 But the story begins much earlier, long before the laboratory.
 
-Her father gave her the name **Youyou (呦呦)** from a line in the ancient *Book of Odes* (*Shijing*), one of the oldest collections of Chinese poetry. The line speaks of deer calling softly while feeding in the fields:
+Her father gave her the name **Youyou (呦呦)** from a line in the ancient *Book of Odes* (*Shijing*), one of the oldest collections of Chinese poetry. The line speaks of **deer calling softly while feeding in the fields**:
 
 > “Deer cry softly, youyou, while eating the wild qinghao.”
 
@@ -140,21 +140,15 @@ Imagine that for a moment. Deer standing in the grass, feeding on Artemisia, whi
 
 Years later, while searching for an answer to malaria, Tu turned not to modern medicine first, but to old herbal texts. She read through ancient formulas and one detail stood out.
 
-A fourth-century medical text did not recommend boiling qinghao harshly. Instead, it suggested soaking the fresh herb in cold water and gently pressing out the juice.
+A fourth-century medical text did not recommend boiling qinghao harshly. Instead, **it suggested soaking the fresh herb in cold water** and gently pressing out the juice.
 
-That small instruction changed everything.
-
-Too much heat damaged the plant’s most powerful compounds. The old method preserved what many modern attempts had accidentally destroyed.
+That small instruction changed everything. The old method preserved what many modern attempts had accidentally destroyed.
 
 Tu later spoke about the strange coincidence that the same plant connected to her childhood name became the center of her life’s work. As if the poem had quietly followed her all along.
-
-For herbalists and folk practitioners, this feels familiar.
 
 Sometimes a plant enters your life long before you understand why.
 
 Sometimes the bitter herb is already waiting at the door.
-
-That may be why Artemisia species has always carried more than medicinal value. It has long been seen as a plant of memory, protection, and fate itself.
 
 ---
 
