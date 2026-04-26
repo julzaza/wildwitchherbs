@@ -1,13 +1,15 @@
 <picture class="page__hero-full-bleed">
 
   {% if page.image_mobile %}
-    <source media="(max-width: 767px)"
-            srcset="{{ page.image_mobile | relative_url }}">
+    <source 
+      media="(max-width: 767px)"
+      srcset="{{ page.image_mobile | relative_url }}">
   {% endif %}
 
   {% if page.image_desktop %}
-    <source media="(min-width: 768px)"
-            srcset="{{ page.image_desktop | relative_url }}">
+    <source 
+      media="(min-width: 768px)"
+      srcset="{{ page.image_desktop | relative_url }}">
   {% endif %}
 
   <img 
@@ -16,5 +18,6 @@
     width="1920"
     height="520"
     fetchpriority="high"
-    decoding="async">
+    decoding="async"
+    loading="eager">
 </picture>
