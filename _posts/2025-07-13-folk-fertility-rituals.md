@@ -100,9 +100,9 @@ Carve your desire into a red or pink candle: names, dates, symbols of life. Anoi
 
 ## 6. Earth Fertility Rite
 
-Some witches plant seeds—literally. Take a handful of **wheat**, **beans**, or **moonflowers**. Name each one for what you wish to grow: a child, an idea, a rebirth. Bury them in fertile soil, tend them, and speak to them daily. As they grow, so may your own creation unfold.
+Some witches plant seeds, literally. Take a handful of **wheat**, **beans**, or **moonflowers**. Name each one for what you wish to grow: a child, an idea, a rebirth. Bury them in fertile soil, tend them, and speak to them daily. As they grow, so may your own creation unfold.
 
-  **This ritual works** even if you're not seeking physical fertility—it's about birthing *anything*.
+  **This ritual works** even if you're not seeking physical fertility, it's about birthing *anything*.
 
 ## 7. Wildflower Bed Blessing
 
@@ -126,7 +126,7 @@ Through these rituals, the threads of ancestry, desire, and creation intertwine,
 
 Fertility is magic made flesh. **These rituals remind us that creation is sacred—whether it results in a child, a spell, a new chapter, or a life reclaimed.**
 
-No ritual guarantees results. But the act of slowing down, speaking with the moon and soil, and honoring your body and spirit—that alone is healing. **That alone opens the door to miracles.**
+No ritual guarantees results. But the act of slowing down, speaking with the moon and soil, and honoring your body and spirit. That alone is healing, **that alone opens the door to miracles.**
 
 ---
 
