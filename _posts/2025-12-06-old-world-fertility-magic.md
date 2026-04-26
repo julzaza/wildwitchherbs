@@ -23,8 +23,8 @@ faq:
     answer: "Because Old World people saw land, animals, and humans as bound by one life-force. If one weakened, all weakened."
         
 ---
+This is the Old World understanding of fertility as a force moving through land, animals, and ancestral cycles — not human ritual practice.
 
-Fertility in the Old World was never a single subject.  
 It was not only about human bodies, wombs, or conception.  
 It was a **cosmic current**, a pulse moving through soil, seeds, livestock, ancestors, seasons, the hearth, and the hidden world of spirits.
 
