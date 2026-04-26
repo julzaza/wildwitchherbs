@@ -34,7 +34,7 @@ They were different faces of the same imbalance in the world’s life-force.
 This post explores the older, deeper worldview:  
 **fertility as a force of the land itself**, and the ritual ways witches and wise folk invited it back into balance.
 
-If you’re looking for human-centered charms, womb rites, and conception spells, see **[Folk Fertility Rituals for Creation](/folk-fertility-rituals/)**  
+If you’re looking for human-centered charms, womb rites, and conception spells, see **[Folk Fertility Rituals for Conception](/folk-fertility-rituals/)**  
 
 ---
 
@@ -105,7 +105,7 @@ The logic was simple:
 
 ### **The Milk-Thread Charm**
 A strand of red wool was dipped in the first milk of spring and hung over the doorway.  
-A protection for animals, yes—but also for the women of the house.
+A protection for animals, but also for the women of the house.
 
 ---
 
@@ -121,7 +121,7 @@ To work fertility magic was to align oneself with the great generative force tha
 
 ---
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 ### **Were fertility rituals only for conception?**  
 No. In folk tradition, fertility also meant creativity, new beginnings, agricultural success, and the renewal of life-force. You can also explore how witches once fed the land with their blood in the **[Old Magic of Menstrual Earth Offerings](/menstrual-blood-earth-ritual/)**.
@@ -136,3 +136,10 @@ Not in the old worldview. They were part prayer, part spell, part negotiation wi
 Because Old World people saw land, animals, and humans as bound by one life-force. If one weakened, all weakened.
 
 ---
+
+## Explore the Fertility Magic 
+
+Plant Allies: **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)** 
+              **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
+Human Rituals: Folk Fertility Rituals: **[Magic of Conception](/folk-fertility-rituals/)**
+Pregnancy Protection: **[Folk Magic Pregnancy Protection Rituals](/pregnancy-protection-old-world-magic/)**
