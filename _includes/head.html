@@ -22,14 +22,11 @@
   </script>
 
 
-  {% if page.url == "/" %}
+{% if page.url == "/" %}
   {% if page.image_desktop %}
     <link rel="preload" as="image" href="{{ page.image_desktop | relative_url }}">
-  {% else %}
-    <link rel="preload" as="image" href="/assets/images/default-hero.webp">
   {% endif %}
 {% endif %}
-  
   
 
   <!-- Stylesheets -->
