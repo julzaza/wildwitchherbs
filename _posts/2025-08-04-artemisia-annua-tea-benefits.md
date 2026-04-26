@@ -49,7 +49,7 @@ faq:
 
 ## Why Drink Artemisia Annua Tea?
 
-Traditionally used across Asia, Africa, and Europe, *Artemisia annua* — also known as **sweet wormwood or qinghao** — has been valued for centuries for its effects on the body’s natural balance and resilience.
+Traditionally used across Asia, Africa, and Europe, *Artemisia annua*, also known as **sweet wormwood or qinghao**, has been valued for centuries for its effects on the body’s natural balance and resilience.
 
 While we can’t make medical claims, herbalists and traditional practitioners have long used it for:
 
@@ -67,7 +67,7 @@ In the Balkans, **where we source our tea, women once gathered Artemisia with th
 
 ## Magical Uses & Rituals
 
-Artemisia isn’t just medicine. She’s a witch’s herb — full of magic, mystery, and protection.
+Artemisia isn’t just medicine. She’s a witch’s herb: full of magic, mystery, and protection.
 
 Across cultures, she’s been **burned to cleanse spaces, worn to ward off illness, and brewed in teas to sharpen dreams or deepen trance states**. In Balkan folk traditions, she’s gathered in the waxing moon, hung above doors, or steeped in moonwater for midsummer rituals.
 
@@ -82,7 +82,7 @@ Here are a few ways witches and folk healers use *Artemisia annua*:
 
 ## What Makes Our Tea Different
 
-Our *Artemisia annua* is wildcrafted in the sunny southern Balkans — where the **climate, mineral-rich soils, and traditional growing rhythms produce plants of striking potency**.
+Our *Artemisia annua* is wildcrafted in the sunny southern Balkans, where the **climate, mineral-rich soils, and traditional growing rhythms produce plants of striking potency**.
 
 - Hand-harvested at peak vitality  
 - Dried slowly in the shade to preserve aromatic compounds  
@@ -93,15 +93,82 @@ Our *Artemisia annua* is wildcrafted in the sunny southern Balkans — where the
 
 ## How to Brew
 
-To prepare:
+### How To prepare Hot Infusion:
 
 1. Use 1 teaspoon per cup  
 2. Steep 5–10 minutes with a **closed lid** to retain volatile oils  
-3. Strain and sip mindfully — she’s bitter, but that’s the medicine  
+3. Strain and sip mindfully: she’s bitter, but that’s the medicine  
 
 Sweeten lightly with honey if desired, but we recommend trying her bare first. Let the taste teach you something.
 
+
+## Cold Infusion: The Older Method
+
+However, one of the most important historical notes about *Artemisia annua* does not involve a strong boiling tea at all.
+
+In a fourth-century Chinese medical text by Ge Hong, *The Handbook of Prescriptions for Emergencies* (*Zhouhou Beiji Fang*), the instruction for qinghao was surprisingly gentle:
+
+> “Take a handful of qinghao, soak in two liters of water, wring out the juice, and drink it in its entirety.”
+
+This mattered because later researchers discovered that excessive heat could damage some of the plant’s most important active compounds. The old method was not a long hard decoction, but a cool extraction using fresh herb and water.
+
+### Traditional Cold Infusion Method
+
+For a gentler cold preparation:
+
+1. Use a small handful of fresh *Artemisia annua* or 1–2 teaspoons of dried herb per cup  
+2. Pour cool or room-temperature water over the herb  
+3. Cover and let it steep for 8–12 hours, or overnight  
+4. Strain well before drinking  
+
+This creates a greener, softer infusion with less sharp bitterness than hot tea, though the taste is still unmistakably herbal.
+
+### A Few Practical Notes
+
+- Fresh herb was traditionally preferred for this method  
+- Avoid boiling if your goal is a lighter, traditional-style extraction  
+- Use glass or ceramic rather than reactive metal containers  
+- Drink in moderation, not as an everyday comfort tea  
+- Because Artemisia is strong and bitter, many people begin with a smaller amount first
+
+Some herbalists prefer the hot infusion for ritual use and the cold soak for seasonal cleansing traditions. Both methods have deep roots, but the cold preparation reminds us that sometimes the oldest instructions are the wisest.
+
 ---
+
+## The Poem, the Deer, and the Bitter Secret
+
+Some herbs carry stories that feel almost too strange to be accidental. *Artemisia annua* is one of them.
+
+In China, this plant is called **qinghao**. It became famous around the world through the work of the scientist whose research helped isolate artemisinin, the compound that changed the treatment of malaria and saved countless lives.
+
+But the story begins much earlier, long before the laboratory.
+
+Her father gave her the name **Youyou (呦呦)** from a line in the ancient *Book of Odes* (*Shijing*), one of the oldest collections of Chinese poetry. The line speaks of deer calling softly while feeding in the fields:
+
+> “Deer cry softly, youyou, while eating the wild qinghao.”
+
+Imagine that for a moment. Deer standing in the grass, feeding on Artemisia, while the plant itself is written into poetry more than two thousand years old.
+
+Years later, while searching for an answer to malaria, Tu turned not to modern medicine first, but to old herbal texts. She read through ancient formulas and one detail stood out.
+
+A fourth-century medical text did not recommend boiling qinghao harshly. Instead, it suggested soaking the fresh herb in cold water and gently pressing out the juice.
+
+That small instruction changed everything.
+
+Too much heat damaged the plant’s most powerful compounds. The old method preserved what many modern attempts had accidentally destroyed.
+
+Tu later spoke about the strange coincidence that the same plant connected to her childhood name became the center of her life’s work. As if the poem had quietly followed her all along.
+
+For herbalists and folk practitioners, this feels familiar.
+
+Sometimes a plant enters your life long before you understand why.
+
+Sometimes the bitter herb is already waiting at the door.
+
+That may be why Artemisia species has always carried more than medicinal value. It has long been seen as a plant of memory, protection, and fate itself.
+
+---
+
 
 ## Orders Yours Today
 
