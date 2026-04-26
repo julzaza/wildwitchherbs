@@ -123,7 +123,7 @@ Its action is more about **energy, stamina, vitality**, indirectly supporting fe
 Sometimes called “Brazilian ginseng,” European folk healers in the 19th and early 20th centuries embraced it for male vitality tonics.
 
 **Folklore & Magical Use:**  
-- Linked to the bull and ox—the symbolism of strength.  
+- Linked to the bull and ox, the symbolism of strength.  
 - Used in potions meant to “strengthen the loins.”  
 - Associated with earth spirits who guard masculine vitality.  
 
