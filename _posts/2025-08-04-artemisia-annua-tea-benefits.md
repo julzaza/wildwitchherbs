@@ -136,7 +136,7 @@ Her father gave her the name **Youyou (呦呦)** from a line in the ancient *Boo
 
 > “Deer cry softly, youyou, while eating the wild qinghao.”
 
-Imagine that for a moment. Deer standing in the grass, feeding on Artemisia, while the plant itself is written into poetry more than two thousand years old.
+Imagine that for a moment: **deer standing in the grass, feeding on Artemisia**, while the plant itself is **written into poetry more than two thousand years old**.
 
 Years later, while searching for an answer to malaria, Tu turned not to modern medicine first, but to old herbal texts. She read through ancient formulas and one detail stood out.
 
@@ -212,6 +212,6 @@ Both. Artemisia annua sits at the crossroads of body, spirit, and threshold magi
 Yes, buy cautiously. This is not a “gentle” herb, but it is a wise one. Respect, moderation, and intention matter more than experience level.
 
 **Why is Artemisia associated with protection?**  
-Across Europe and the Balkans, it was believed to repel illness, harmful forces, and spiritual intrusion — especially when used near doors, windows, or thresholds.
+Across Europe and the Balkans, it was believed to repel illness, harmful forces, and spiritual intrusion, especially when used near doors, windows, or thresholds.
 
 ---
