@@ -33,7 +33,7 @@ Where women’s fertility is tied to the womb, cycles, and moon rhythms, **men�
 
 This post steps into that older world: the rituals plowmen whispered over their fields, the herbs warriors drank before battle or bed, the charms pinned to belts, the roots buried with the dead to ensure their line continued.
 
-This is folklore, historical custom, and witchcraft—not medical instruction.
+This is folklore, historical custom, and witchcraft, not medical instruction.
 
 - To learn about women’s fertility allies, see **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**.
 - Check out **[Herbs to Avoid if Trying to Conceive](/herbs-to-avoid-when-getting-pregnant/)**.
@@ -167,7 +167,7 @@ You used nettle leaf for women. Nettle **root** has a completely different profi
 - Used to “open the flow” and clear stagnation.  
 - Favored by plowmen for stamina.  
 
-Old herbalists used nettle root for urinary and lower-body vitality—essential foundations for male fertility.
+Old herbalists used nettle root for urinary and lower-body vitality, an essential foundations for male fertility.
 
 ---
 
@@ -223,7 +223,7 @@ This rite is for renewal, not force.
 ## Frequently Asked Questions About Fertility Herbs for Men
 
 ### **What herbs increase male fertility naturally?**  
-Traditional herbs include Tribulus, ginseng, fenugreek, nettle root, pine pollen, and horny goat weed—used historically to support vitality, circulation, drive, and stamina.
+Traditional herbs include Tribulus, ginseng, fenugreek, nettle root, pine pollen, and horny goat weed, which were used historically to support vitality, circulation, drive, and stamina.
 
 ### **Do fertility herbs really help men?**  
 Old European herbalism used these herbs to enhance vigor, libido, blood flow, and energy—factors believed to support male reproductive health.
