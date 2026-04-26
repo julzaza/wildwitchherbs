@@ -132,9 +132,9 @@ In China, this plant is called **qinghao**. It became famous around the world th
 
 But the story begins much earlier, long before the laboratory.
 
-Her father gave her the name **Youyou (呦呦)** from a line in the ancient *Book of Odes* (*Shijing*), one of the oldest collections of Chinese poetry. The line speaks of **deer calling softly while feeding in the fields**:
+Her father gave her the name **Youyou (呦呦)** from a line in the ancient *Book of Odes* (*Shijing*), one of the oldest collections of Chinese poetry. The line speaks of **deer calling softly while feeding in the fields**: 
 
-> “Deer cry softly, youyou, while eating the wild qinghao.”
+> “Deer bleat 'youyou' softly, while eating the wild qinghao.”
 
 Imagine that for a moment: **deer standing in the grass, feeding on Artemisia**, while the plant itself is **written into poetry more than two thousand years old**.
 
