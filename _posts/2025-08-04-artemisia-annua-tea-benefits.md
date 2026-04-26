@@ -80,17 +80,6 @@ Here are a few ways witches and folk healers use *Artemisia annua*:
 
 ---
 
-## What Makes Our Tea Different
-
-Our *Artemisia annua* is wildcrafted in the sunny southern Balkans, where the **climate, mineral-rich soils, and traditional growing rhythms produce plants of striking potency**.
-
-- Hand-harvested at peak vitality  
-- Dried slowly in the shade to preserve aromatic compounds  
-- No fillers. No processing. Just the herb in her raw, intact form  
-- 50g per pack — enough for weeks of tea or ritual use  
-
----
-
 ## How to Brew
 
 ### How To prepare Hot Infusion:
@@ -169,6 +158,16 @@ That may be why Artemisia species has always carried more than medicinal value. 
 
 ---
 
+## What Makes Our Tea Different
+
+Our *Artemisia annua* is wildcrafted in the sunny southern Balkans, where the **climate, mineral-rich soils, and traditional growing rhythms produce plants of striking potency**.
+
+- Hand-harvested at peak vitality  
+- Dried slowly in the shade to preserve aromatic compounds  
+- No fillers. No processing. Just the herb in her raw, intact form  
+- 50g per pack is enough for weeks of tea or ritual use  
+
+---
 
 ## Orders Yours Today
 
