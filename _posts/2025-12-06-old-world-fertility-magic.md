@@ -51,7 +51,7 @@ Witches and cunning folk believed fertility flowed through:
 - **The hearth fire** (life power)  
 - **The breath and blessing of ancestors** (spirit power)  
 
-To restore fertility anywhere—land, herd, or body—you had to court these forces like one courts an old friend or an unpredictable deity.
+To restore fertility anywhere, land, herd, or body, you had to court these forces like one courts an old friend or an unpredictable deity.
 
 This is why fertility rites almost always combine **earth + fire + water + spirit** in some way.
 
@@ -63,7 +63,7 @@ Agricultural magic was foundational.
 Every village had its rites, and many were shockingly witchcraft-like.
 
 ### **Walking the Fields at Dawn**
-Women—often chosen for their strong life-force—walked the field boundaries barefoot at the spring equinox. Their footsteps “woke the soil.”  
+Women, often chosen for their strong life-force, walked the field boundaries barefoot at the spring equinox. Their footsteps “woke the soil.”  
 Some whispered charms, others simply breathed into the soil.
 
 ### **Seed-Blessing Bowls**
@@ -79,7 +79,7 @@ The plowman cut the first furrow in silence while a woman filled the groove with
 It was an offering to the land-spirits who controlled growth.
 
 ### **Apple-Tree Awakening**
-Farmers “threshed” apple trees with sticks in February—not to harm them, but to wake them.  
+Farmers “threshed” apple trees with sticks in February. Not to harm them, but to wake them.  
 A silent orchard meant a silent womb of the land.
 
 ---
@@ -141,5 +141,7 @@ Because Old World people saw land, animals, and humans as bound by one life-forc
 
 Plant Allies: **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)** 
               **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
+              
 Human Rituals: Folk Fertility Rituals: **[Magic of Conception](/folk-fertility-rituals/)**
+
 Pregnancy Protection: **[Folk Magic Pregnancy Protection Rituals](/pregnancy-protection-old-world-magic/)**
