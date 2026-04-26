@@ -2,7 +2,7 @@
 layout: single
 title: "Folk Fertility Rituals: Magic of Conception"
 
-excerpt: "Old European fertility rituals for body, spirit, and womb: moon rites, bonfires, ancestral offerings, womb charms, and earth magic."
+excerpt: Traditional Old European fertility rituals for conception, womb blessing, moon rites, Beltane fire magic, ancestor offerings, and herbal womb charms.
 description: "A raw, folklore-rich guide to Old European fertility rituals: moon bathing, womb charms, Beltane rites, ancestor offerings, wildflower blessings, and earth-based magic for creation and renewal."
 categories:
   - witchcraft-ritual
