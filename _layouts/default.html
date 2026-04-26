@@ -7,23 +7,17 @@ layout: null
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-
     {% unless page.seo == false %}{% seo %}{% endunless %}
   </head>
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+  <body class="layout--{{ page.layout | default: layout.layout }}">
+
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
 
-    <div id="main" role="main">
-  <div class="initial-content">
-    <div class="page__inner-wrap">
+    <main id="main" role="main">
       {{ content }}
-      {% include after-content.html %}
-    </div>
-  </div>
-</div>
-
+    </main>
 
     <div id="footer" class="page__footer">
       <footer>
