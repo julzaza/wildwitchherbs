@@ -1,43 +1,20 @@
-{% comment %}
-  Hero include
-  Usage: {% include hero.html %}
-  Requires front matter:
-    image_mobile
-    image_desktop
-    image_alt
-{% endcomment %}
+<picture class="page__hero-full-bleed">
 
-{% if page.image_mobile or page.image_desktop %}
-<div class="hero-container">
-  <div class="hero-overlay"></div>
+  {% if page.image_mobile %}
+    <source media="(max-width: 767px)"
+            srcset="{{ page.image_mobile | relative_url }}">
+  {% endif %}
 
-  <picture class="page__hero-full-bleed">
+  {% if page.image_desktop %}
+    <source media="(min-width: 768px)"
+            srcset="{{ page.image_desktop | relative_url }}">
+  {% endif %}
 
-    {% if page.image_mobile %}
-      <source media="(max-width: 767px)"
-              srcset="{{ page.image_mobile }}"
-              width="800"
-              height="400">
-    {% endif %}
-
-    {% if page.image_desktop %}
-      <source media="(min-width: 768px)"
-              srcset="{{ page.image_desktop }}"
-              width="1920"
-              height="520">
-    {% endif %}
-
-    <img src="{{ page.image_desktop }}"
-         alt="{{ page.image_alt | default: page.title }}"
-         width="1920"
-         height="520"
-         fetchpriority="high"
-         style="width:100%;height:auto;display:block;">
-  </picture>
-
-  <div class="hero-text">
-    <h1>{{ page.title }}</h1>
-    <p>{{ page.subtitle | default: 'Plant lore & folk magic' }}</p>
-  </div>
-</div>
-{% endif %}
+  <img 
+    src="{{ page.image_desktop | relative_url }}"
+    alt="{{ page.image_alt | default: page.title }}"
+    width="1920"
+    height="520"
+    fetchpriority="high"
+    decoding="async">
+</picture>
