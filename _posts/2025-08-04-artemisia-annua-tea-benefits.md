@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Bitter Brew: Discovering Artemisia Annua Tea"
+title: "The Bitter Brew: Discover Artemisia Annua (Sweet Wormwood) Tea"
 
 categories: [natural-healing, herbal-magic]
 tags:
