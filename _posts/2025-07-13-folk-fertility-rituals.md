@@ -76,7 +76,7 @@ Some women tied the charm at dawn during the waxing moon, whispering their wish 
 
 When conception came or when the season of trying had passed, the bundle was buried in the earth, returning the prayer to the land.
   
-These bundles were considered living amulets - small spirits who walked with the woman.
+These bundles were considered living amulets, small spirits who walked with the woman.
 
 For a full guide to the plants of Old Europe traditionally used in fertility magic, see 
 - **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**  
