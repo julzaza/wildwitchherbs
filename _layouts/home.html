@@ -2,31 +2,35 @@
 layout: default
 ---
 
-<picture class="page__hero-full-bleed">
+<div class="hero-container">
+  <div class="hero-overlay"></div>
 
-  <source
-    media="(max-width: 767px)"
-    srcset="/assets/images/800x400px-flat-lay-cup-herbal-tea-with-plants.webp">
+  <picture>
+    <source media="(max-width: 767px)" 
+            srcset="/assets/images/800x400px-flat-lay-cup-herbal-tea-with-plants.webp"
+            width="800"
+            height="400">
 
-  <source
-    media="(min-width: 768px)"
-    srcset="/assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp">
+    <source media="(min-width: 768px)" 
+            srcset="/assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp"
+            width="1920"
+            height="520">
 
-  <img
-    src="/assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp"
-    width="1920"
-    height="520"
-    alt="Wild Witch Herbs"
-    fetchpriority="high"
-    loading="eager"
-    decoding="async">
-</picture>
+    <img
+      src="/assets/images/1920-520px-flat-lay-cup-herbal-tea-with-plants.webp"
+      width="1920"
+      height="520"
+      alt="Wild Witch Herbs"
+      fetchpriority="high"
+      loading="eager"
+      decoding="async">
+  </picture>
 
-<section class="hero-text">
-  <h1>Wild Witch Herbs</h1>
-  <p>Plant lore & folk magic</p>
-</section>
-
+  <div class="hero-text">
+    <h1>Wild Witch Herbs</h1>
+    <p>Plant lore & folk magic</p>
+  </div>
+</div>
 
 
 <!-- INTRO -->
