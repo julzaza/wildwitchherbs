@@ -15,9 +15,13 @@ layout: null
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
 
-    <main id="main" role="main">
-      {{ content }}
-    </main>
+<main id="main" role="main">
+
+  {% include hero.html %}
+
+  {{ content }}
+
+</main>
 
     <div id="footer" class="page__footer">
       <footer>
