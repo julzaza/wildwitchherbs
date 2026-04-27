@@ -93,14 +93,7 @@ social:
   links:
     - https://instagram.com/wildwitchherbs
 
- 
 
-# Analytics
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-7FXPRZC2NZ"
-    anonymize_ip: false
 
 
 author:
