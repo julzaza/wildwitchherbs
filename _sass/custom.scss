@@ -245,38 +245,25 @@ body {
   margin: 0 auto;
   padding: 0 1rem;
 }
-  
-  article {
-    background: rgba(255, 255, 255, 0.8);
-    padding: 1.5rem;
-    border-radius: 0.5rem;
-    text-align: center;
-    
-    h3 {
-      margin: 0 0 0.75rem 0;
-      font-size: 0.9rem;
-      line-height: 1.4;
-      
-      a {
-        color: #000 !important;
-        text-decoration: none;
-        text-transform: uppercase;
-        letter-spacing: 0.08em;
-        font-weight: 500;
-        
-        &:hover {
-          color: #333 !important;
-        }
-      }
-    }
-    
-    p {
-      margin: 0;
-      font-size: 0.9rem;
-      color: #666;
-      line-height: 1.5;
-    }
-  }
+
+.entries-grid article {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  text-align: center;
+}
+
+.entries-grid article h3 {
+  margin: 0 0 0.75rem 0;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.entries-grid article p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #666;
+  line-height: 1.5;
 }
 
 
