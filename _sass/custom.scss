@@ -275,6 +275,22 @@ body {
   padding: 0 1rem;
 }
 
+
+.entries-grid {
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+
+@media (max-width: 767px) {
+  .entries-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
 .entries-grid article {
   background: rgba(255, 255, 255, 0.8);
   padding: 1.5rem;
