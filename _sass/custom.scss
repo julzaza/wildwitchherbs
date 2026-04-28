@@ -655,3 +655,19 @@ h3 a:hover {
     box-sizing: border-box !important;
   }
 }
+
+
+
+
+.entries-grid article {
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.entries-grid article:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
