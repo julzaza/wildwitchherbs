@@ -15,7 +15,6 @@
    POST HEROES - MOBILE/DESKTOP SWITCHING
    ============================================ */
 
-/* Base hero styles - full width edge to edge */
 .mobile-only-hero,
 .post-hero-mobile,
 .desktop-only-hero,
@@ -23,18 +22,9 @@
   width: 100%;
   margin: 0;
   position: relative;
-}
 
-.mobile-only-hero img,
-.post-hero-mobile img,
-.desktop-only-hero img,
-.post-hero-desktop img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-  
-  img, picture {
+  img,
+  picture {
     width: 100%;
     height: auto;
     display: block;
