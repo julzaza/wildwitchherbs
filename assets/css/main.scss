@@ -34,25 +34,3 @@
 
 
 
-@media screen and (max-width: 414px) and (-webkit-min-device-pixel-ratio: 2) {
-  .layout--home,
-  .layout--home #main,
-  .layout--home .initial-content {
-    padding-left: env(safe-area-inset-left, 0) !important;
-    padding-right: env(safe-area-inset-right, 0) !important;
-  }
-
-  .layout--home .entries-grid {
-    width: calc(100% - 2rem) !important;
-    margin: 0 auto !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-    box-sizing: border-box !important;
-  }
-
-  .layout--home .entries-grid article {
-    padding-left: 1rem !important;
-    padding-right: 1rem !important;
-    box-sizing: border-box !important;
-  }
-}
