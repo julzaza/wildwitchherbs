@@ -74,10 +74,12 @@
 
 /* Body background */
 body {
-  background: url("/assets/images/background-plantain-herb.webp") no-repeat center center fixed;
+  background: url("/assets/images/background-plantain-herb.webp") no-repeat center center;
   background-size: cover;
+  background-attachment: scroll;
   background-color: rgba(255, 255, 255, 0.8);
   background-blend-mode: overlay;
+}
 }
 
 /* Page content box */
