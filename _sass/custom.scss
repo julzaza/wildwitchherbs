@@ -239,10 +239,12 @@ body {
 
 .entries-grid {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 2rem;
   max-width: 1200px;
   margin: 0 auto;
+  padding: 0 1rem;
+}
   
   article {
     background: rgba(255, 255, 255, 0.8);
@@ -636,23 +638,20 @@ h3 a:hover {
 
 
 @media (max-width: 767px) {
-  .layout--home .cluster-section {
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+  .cluster-section {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
   }
 
-  .layout--home .entries-grid {
+  .entries-grid {
+    grid-template-columns: 1fr;
+    padding: 0 1rem;
+  }
+
+  .entries-grid article {
     width: 100% !important;
-    margin: 0 auto !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-  }
-
-  .layout--home .entries-grid article {
-    margin: 0 auto !important;
-    width: calc(100% - 2rem) !important;
-    max-width: 100% !important;
-    box-sizing: border-box !important;
+    margin: 0 !important;
+    box-sizing: border-box;
   }
 }
 
