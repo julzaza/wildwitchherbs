@@ -89,8 +89,10 @@ body {
   margin: 0 auto;
 }
 
-.page__content {
-  width: 100%;
+.page__content,
+.page__inner-wrap {
+  max-width: 1200px;
+  margin: 0 auto;
 }
   padding-left: 1rem;
   padding-right: 1rem;
