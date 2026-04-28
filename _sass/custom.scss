@@ -87,14 +87,16 @@ body {
 
 
 .entries-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
   max-width: 1200px;
   margin: 0 auto;
-  width: 100%;
-  box-sizing: border-box;
   padding: 0 1rem;
+}
+
+@media (max-width: 767px) {
+  .entries-grid {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
 }
 
 .entries-grid article {
