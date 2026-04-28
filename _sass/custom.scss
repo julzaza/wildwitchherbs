@@ -20,12 +20,19 @@
 .post-hero-mobile,
 .desktop-only-hero,
 .post-hero-desktop {
-  width: 100vw;
+  width: 100%;
+  margin: 0;
   position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
+}
+
+.mobile-only-hero img,
+.post-hero-mobile img,
+.desktop-only-hero img,
+.post-hero-desktop img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
   
   img, picture {
     width: 100%;
@@ -99,6 +106,10 @@ body {
   background-color: rgba(255, 255, 255, 0.6);
   padding: 1rem;
   border-radius: 1rem;
+}
+
+.entries-grid {
+  padding: 0 1rem;
 }
 
 /* ============================================
