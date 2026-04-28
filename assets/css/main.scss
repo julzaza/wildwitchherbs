@@ -10,59 +10,7 @@
 /* Load custom partials - MUST come after theme imports */
 @import "custom";
 
-/* -------------------------------------------
-   Wild Witch Herbs — Title Link Styling
-   ------------------------------------------- */
 
-/* Single post page titles */
-.page__title a {
-  color: #333333;
-  text-decoration: none;
-  font-weight: 700;
-}
-
-/* Hover effect for single post titles */
-.page__title a:hover {
-  color: #b3b3b3;
-  text-decoration: none;
-}
-
-/* Archive / blog list titles */
-.archive__item-title a {
-  color: #333333;
-  text-decoration: none;
-  font-weight: 700;
-}
-
-/* Hover effect for archive titles */
-.archive__item-title a:hover {
-  color: #b3b3b3;
-  text-decoration: none;
-}
-
-/* Remove underline from links in excerpts */
-.archive__item-excerpt a {
-  text-decoration: none;
-}
-
-.archive__item-excerpt a:hover {
-  text-decoration: underline;
-}
-
-/* -------------------------------------------
-   Wild Witch Herbs — Inline link styling
-   ------------------------------------------- */
-
-.page__content a {
-  color: #3A5F0B !important;
-  text-decoration: none !important;
-  font-weight: 600;
-}
-
-.page__content a:hover {
-  color: #3A5F0B !important;
-  text-decoration: underline;
-}
 
 /* -------------------------------------------
    SPACING FIX: Title to Content
