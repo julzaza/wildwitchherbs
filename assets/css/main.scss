@@ -12,29 +12,7 @@
 
 
 
-/* -------------------------------------------
-   SPACING FIX: Title to Content
-   ------------------------------------------- */
 
-/* Space between hero and title */
-.page__title {
-  margin-top: 1.5rem !important;
-  margin-bottom: 1rem !important;
-  padding-top: 0 !important;
-  line-height: 1.2;
-}
-
-/* Remove top margin from first content element */
-.page__content > *:first-child {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-/* Remove wrapper top spacing */
-.page__inner-wrap {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
 
 /* Hide meta + taxonomy */
 .page__meta,
