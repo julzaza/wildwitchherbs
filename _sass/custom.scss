@@ -632,3 +632,26 @@ h3 a:hover {
     display: block;
   }
 }
+
+
+
+@media (max-width: 767px) {
+  .layout--home .cluster-section {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .layout--home .entries-grid {
+    width: 100% !important;
+    margin: 0 auto !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .layout--home .entries-grid article {
+    margin: 0 auto !important;
+    width: calc(100% - 2rem) !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+}
