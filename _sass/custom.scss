@@ -87,9 +87,14 @@ body {
 
 
 .entries-grid {
-  justify-items: center;
-  padding-left: 0;
-  padding-right: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 1rem;
 }
 
 .entries-grid article {
@@ -275,28 +280,7 @@ body {
   }
 }
 
-.entries-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 1rem;
-}
 
-
-.entries-grid {
-  width: 100%;
-  margin: 0 auto;
-  justify-content: center;
-}
-
-
-@media (max-width: 767px) {
-  .entries-grid {
-    grid-template-columns: 1fr;
-  }
-}
 
 
 
