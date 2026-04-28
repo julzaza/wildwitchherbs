@@ -4,6 +4,27 @@ layout: default
 
 <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
 
+  <!-- HERO IMAGE -->
+  {% if page.image_mobile or page.image_desktop_1280 %}
+
+  <div class="hero-container">
+
+    <picture>
+
+      <source
+        media="(max-width: 767px)"
+        srcset="{{ page.image_mobile }}">
+
+      <img
+        src="{{ page.image_desktop_1280 }}"
+        alt="{{ page.image_alt | default: page.title }}">
+
+    </picture>
+
+  </div>
+
+  {% endif %}
+
   <!-- TITLE -->
   {% if page.title %}
     <header>
@@ -11,30 +32,9 @@ layout: default
     </header>
   {% endif %}
 
-  <!-- POST CONTENT -->
+  <!-- CONTENT -->
   <section class="page__content" itemprop="text">
     {{ content }}
   </section>
 
 </article>
-
-{% if page.faq %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {% for item in page.faq %}
-    {
-      "@type": "Question",
-      "name": {{ item.question | jsonify }},
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": {{ item.answer | jsonify }}
-      }
-    }{% unless forloop.last %},{% endunless %}
-    {% endfor %}
-  ]
-}
-</script>
-{% endif %}
