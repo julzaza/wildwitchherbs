@@ -12,17 +12,17 @@
   name: "Herbal Remedies for Anxiety – Tea Blend Guide PDF"
   price: 4.95
   currency: EUR
-  url: "/shop/#herbal-remedies-for-anxiety-tea-blend-guide"
+  url: "/shop/#anxiety-tea-blend-guide"
   image: "/assets/images/herbal-remedies-anxiety-guide.webp"
   sku: "PDF-ANXIETY-GUIDE"
   availability: "InStock"
   condition: "NewCondition"
 
-  - id: tea
+- id: tea
   name: "Artemisia annua Tea – 50g"
   price: 14.00
   currency: EUR
-  url: "/shop/#dried-artemisia-annua-tea--14"
+  url: "/shop/#dried-artemisia-annua-tea"
   image: "/assets/images/artemisia-annua-sweet-wormwood-tea-closeup.webp"
   sku: "AA-TEA-50G"
   availability: "InStock"
@@ -32,8 +32,8 @@
   name: "Artemisia annua Tincture – 100ml"
   price: 29.00
   currency: EUR
-  url: "/shop/#artemisia-tincture--29"
-  image: 
+  url: "/shop/#artemisia-tincture"
+  image: "/assets/images/artemisia-annua-tincture-100ml.webp"
   sku: "AA-TINCTURE-100ML"
   availability: "InStock"
   condition: "NewCondition"
@@ -42,8 +42,8 @@
   name: "Artemisia annua Seeds – 0.02g packet"
   price: 5.00
   currency: EUR
-  url: "/shop/#artemisia-annua-seeds--5"
-  image: 
+  url: "/shop/#artemisia-annua-seeds"
+  image: "/assets/images/artemisia-annua-seeds-packet.webp"
   sku: "AA-SEEDS-002G"
   availability: "InStock"
   condition: "NewCondition"
