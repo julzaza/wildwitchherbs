@@ -1,4 +1,24 @@
-- id: tea
+- id: protective-guide
+  name: "Protective Herbal Home Rituals Guide – PDF"
+  price: 5.95
+  currency: EUR
+  url: "/shop/#protective-herbal-home-rituals-guide"
+  image: "/assets/images/protective-herbal-home-rituals-guide.webp"
+  sku: "PDF-PROTECTION-GUIDE"
+  availability: "InStock"
+  condition: "NewCondition"
+
+- id: anxiety-guide
+  name: "Herbal Remedies for Anxiety – Tea Blend Guide PDF"
+  price: 4.95
+  currency: EUR
+  url: "/shop/#herbal-remedies-for-anxiety-tea-blend-guide"
+  image: "/assets/images/herbal-remedies-anxiety-guide.webp"
+  sku: "PDF-ANXIETY-GUIDE"
+  availability: "InStock"
+  condition: "NewCondition"
+
+  - id: tea
   name: "Artemisia annua Tea – 50g"
   price: 14.00
   currency: EUR
