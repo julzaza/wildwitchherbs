@@ -1,5 +1,14 @@
 /* _sass/custom.scss */
 
+html {
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+}
+
+
 /* Force hamburger visible on mobile */
 @media (max-width: 767px) {
   .mobile-menu-toggle,
