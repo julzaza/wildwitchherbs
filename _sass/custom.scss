@@ -1,11 +1,3 @@
-/* Prevent horizontal scroll issues */
-html, body {
-  margin: 0;
-  padding: 0;
-  overflow-x: hidden;
-}
-
-/* LCP HERO - clean and stable */
 .lcp-hero {
   width: 100%;
 }
@@ -14,14 +6,12 @@ html, body {
   width: 100%;
   height: auto;
   display: block;
-
-  /* helps LCP stability */
-  position: relative;
 }
 
-/* Optional: ensure no layout shift from images globally */
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
+html {
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
 }
