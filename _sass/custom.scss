@@ -17,6 +17,15 @@
 
 
 
+.hero-container {
+  position: relative;
+  width: 100vw;
+  max-width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  overflow: hidden;
+  max-height: 520px;
+
   picture,
   img {
     width: 100%;
