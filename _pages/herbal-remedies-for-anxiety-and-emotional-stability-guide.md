@@ -3,6 +3,11 @@ layout: single
 title: "Herbal Remedies for Anxiety: 5 Tea Blend Recipes That Work"
 permalink: /herbal-remedies-for-anxiety-and-emotional-stability-guide/
 
+image_mobile: assets/images/heroes/herbal-remedies-for-anxiety-and-emotional-stability-guide/800x1000pxchamomile-tea-brewing.webp
+image_desktop_1280: assets/images/heroes/herbal-remedies-for-anxiety-and-emotional-stability-guide/1280x400pxchamomile-tea-brewing.webp
+image_alt: "Chamomile herbal tea"
+hero_overlay_opacity: 0
+
 categories: [natural-healing, herbal-magic]
 
 tags:
