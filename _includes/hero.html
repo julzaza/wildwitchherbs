@@ -1,23 +1,13 @@
-<picture class="page__hero-full-bleed">
+<div class="hero-container">
 
-  {% if page.image_mobile %}
-    <source 
-      media="(max-width: 767px)"
-      srcset="{{ page.image_mobile | relative_url }}">
-  {% endif %}
-
-  {% if page.image_desktop %}
-    <source 
-      media="(min-width: 768px)"
-      srcset="{{ page.image_desktop | relative_url }}">
-  {% endif %}
-
-  <img 
+  <img
     src="{{ page.image_desktop | relative_url }}"
     alt="{{ page.image_alt | default: page.title }}"
     width="1920"
     height="520"
-    fetchpriority="high"
     decoding="async"
-    loading="eager">
-</picture>
+    fetchpriority="high"
+    loading="eager"
+  >
+
+</div>
