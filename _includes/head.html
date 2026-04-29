@@ -1,37 +1,64 @@
+<meta charset="utf-8">
 
-  <meta charset="utf-8">
-  <title>Welcome to Wild Witch Herbs</title>
-  <meta name="description" content="Witchy herbal lore, ancestral magic and wisdom.">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-
-
-
-  <!-- JSON-LD Structured Data -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "headline": "Welcome to Wild Witch Herbs",
-    "description": "Witchy herbal lore, ancestral magic and wisdom.",
-    "url": "https://wildwitchherbs.com/",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Wild Witch Herbs"
-    }
-  }
-  </script>
-
-
-{% if page.url == "/" %}
-  {% if page.image_desktop %}
-    <link rel="preload" as="image" href="{{ page.image_desktop | relative_url }}">
+<title>
+  {% if page.title %}
+    {{ page.title }} | Wild Witch Herbs
+  {% else %}
+    Wild Witch Herbs
   {% endif %}
+</title>
+
+<meta name="description" content="{{ page.description | default: 'Witchy herbal lore, ancestral magic and wisdom.' }}">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+
+<!-- =========================
+     LCP IMAGE PRELOAD (IMPORTANT)
+     ========================= -->
+
+{% if page.image_desktop %}
+  <link rel="preload"
+        as="image"
+        href="{{ page.image_desktop | relative_url }}"
+        fetchpriority="high">
 {% endif %}
-  
-
-  <!-- Stylesheets -->
-  <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
 
 
+<!-- =========================
+     CSS (OPTIONAL SPEED IMPROVEMENT)
+     ========================= -->
+
+<link rel="preload" href="/assets/css/main.css" as="style">
+<link rel="stylesheet" href="/assets/css/main.css">
+
+
+<!-- FontAwesome (non-blocking) -->
+<link rel="preload"
+      href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"
+      as="style"
+      onload="this.onload=null;this.rel='stylesheet'">
+
+<noscript>
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css">
+</noscript>
+
+
+<!-- =========================
+     JSON-LD STRUCTURED DATA
+     ========================= -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "headline": "{{ page.title | default: 'Wild Witch Herbs' }}",
+  "description": "{{ page.description | default: 'Witchy herbal lore, ancestral magic and wisdom.' }}",
+  "url": "https://wildwitchherbs.com/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Wild Witch Herbs"
+  }
+}
+</script>
