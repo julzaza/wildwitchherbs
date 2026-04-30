@@ -17,6 +17,11 @@ tags:
   - ancestral rituals
   - dark herbal lore
 
+image_mobile: /assets/images/heroes/plants-to-break-love-bonds-folk-magic/800x1000px-top-view-fresh-stinging-nettle-leaves-bowl-gray-table.webp
+image_desktop_1280: /assets/images/heroes/plants-to-break-love-bonds-folk-magic/1280x400px-top-view-fresh-stinging-nettle-leaves-bowl-gray-table.webp
+image_alt: "stinging nettle in a bowl with a pair of scissors laying next to it"
+
+
 meta_description: "Explore global folklore herbs used to break love, sever bonds, and end unwanted ties in traditional witchcraft and ancestral ritual."
 keywords:
   - herbs to break love
