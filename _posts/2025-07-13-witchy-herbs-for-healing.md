@@ -5,6 +5,10 @@ title: "Folk Healing Herbs for the Body (Traditional Remedies)"
 excerpt: "Step into the green world of folk healing. Discover traditional herbs like yarrow, calendula, lemon balm, and fennel—used by cunning folk and wise women to treat wounds, illness, and physical imbalances."
 description: "Discover traditional folk healing herbs used to support the body. Learn how plants like calendula, yarrow, plantain, and comfrey were used for wounds, infections, digestion, and physical recovery."
 
+image_mobile: /assets/images/heroes/home-protection-herbal-rituals-guide/800x1000px-plate-with-incense-plant-with-leaves.webp
+image_desktop_1280: /assets/images/heroes/home-protection-herbal-rituals-guide/1280x400px-plate-with-incense-plant-with-leaves.webp
+image_alt: "rosemary and wood incense sticks on metal plate"
+
 categories:
   - natural-healing
 tags:
@@ -66,7 +70,7 @@ This practical approach is what defined historical herbal healing—treating the
 
 ## Core Folk Remedies for Physical Healing
 
-### ✦ 1. **Calendula (Calendula officinalis)**
+### ✦ 1. Calendula (Calendula officinalis)
 
 Golden, generous, and glowing like the sun itself.
 
@@ -78,7 +82,7 @@ Golden, generous, and glowing like the sun itself.
 
 ---
 
-### ✦ 2. **Yarrow (Achillea millefolium)**
+### ✦ 2. Yarrow (Achillea millefolium)
 
 A battlefield herb and shield for the soul.
 
@@ -91,7 +95,7 @@ A battlefield herb and shield for the soul.
 When healing required stronger spiritual boundaries, witches turned to **[Traditional Protection Herbs in Folk Witchcraft](/top-protective-herbs-witchcraft/)** to guard both body and soul.
 
 ---
-### ✦ 3. **Lemon Balm (Melissa officinalis)**
+### ✦ 3. Lemon Balm (Melissa officinalis)
 
 A gentle herb with long use in digestive and immune support.
 
@@ -105,7 +109,7 @@ Lemon balm also appears in **[Herbal Remedies for Anxiety: 5 Tea Blend Recipes T
 
 ---
 
-### ✦ 4. **Comfrey (Symphytum officinale)**
+### ✦ 4. Comfrey (Symphytum officinale)
 
 The bone-mender and oath-binder.
 
@@ -117,7 +121,7 @@ The bone-mender and oath-binder.
 
 ---
 
-### ✦ 5. **Fennel (Foeniculum vulgare)**
+### ✦ 5. Fennel (Foeniculum vulgare)
 
 A witch’s ally for strength and second sight.
 
@@ -129,7 +133,7 @@ A witch’s ally for strength and second sight.
 
 ---
 
-### ✦ 6. **Dandelion (Taraxacum officinale)**
+### ✦ 6. Dandelion (Taraxacum officinale)
 
 The wish-maker and soul cleanser.
 
@@ -141,7 +145,7 @@ The wish-maker and soul cleanser.
 
 ---
 
-### ✦ 7. **Feverfew (Tanacetum parthenium)**
+### ✦ 7. Feverfew (Tanacetum parthenium)
 
 A humble daisy with protective teeth.
 
@@ -153,7 +157,7 @@ A humble daisy with protective teeth.
 
 ---
 
-### ✦ 8. **Plantain (Plantago major)**
+### ✦ 8. Plantain (Plantago major)
 
 Green armor for skin and soul.
 
@@ -167,7 +171,7 @@ Plantain was also a cornerstone of traditional **[Folk Herbal First Aid](/folk-h
 
 ---
 
-### ✦ 9. **Mint (Mentha spp.)**
+### ✦ 9. Mint (Mentha spp.)
 
 The sharp scent of clarity and communion.
 
@@ -179,7 +183,7 @@ The sharp scent of clarity and communion.
 
 ---
 
-### ✦ 10. **Thyme (Thymus vulgaris)**
+### ✦ 10. Thyme (Thymus vulgaris)
 
 A warrior’s herb and dreamwalker’s guide.
 
@@ -191,7 +195,7 @@ A warrior’s herb and dreamwalker’s guide.
 
 ---
 
-### ✦ 11. **Sage (Salvia officinalis)**
+### ✦ 11. Sage (Salvia officinalis)
 
 Wisdom keeper of the garden.
 
@@ -203,7 +207,7 @@ Wisdom keeper of the garden.
 
 ---
 
-### ✦ 12. **Basil (Ocimum basilicum)**
+### ✦ 12. Basil (Ocimum basilicum)
 
 Royal herb of body and spell.
 
