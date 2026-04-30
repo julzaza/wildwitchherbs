@@ -6,6 +6,10 @@ tags: [herbal protection, folk magic, home protection, threshold magic, protecti
 
 permalink: /home-protection-herbal-rituals-guide/ 
 
+image_mobile: /assets/images/heroes/home-protection-herbal-rituals-guide/800x1000px-plate-with-incense-plant-with-leaves.webp
+image_desktop_1280: /assets/images/heroes/home-protection-herbal-rituals-guide/1280x400px-plate-with-incense-plant-with-leaves.webp
+image_alt: "rosemary and wood incense sticks on metal plate"
+
 description: "A folklore-rich guide to herbal protection for the home, rooted in traditional practices of thresholds, boundary-setting, and plant-based rituals. Learn how protection was actually done—and how to apply it in real spaces."
 
 excerpt: "Learn how to protect your home using traditional herbal rituals rooted in real folk practice. This guide breaks down threshold magic, space clearing, and boundary-setting methods that actually hold."
