@@ -5,9 +5,9 @@ title: "Folk Healing Herbs for the Body (Traditional Remedies)"
 excerpt: "Step into the green world of folk healing. Discover traditional herbs like yarrow, calendula, lemon balm, and fennel—used by cunning folk and wise women to treat wounds, illness, and physical imbalances."
 description: "Discover traditional folk healing herbs used to support the body. Learn how plants like calendula, yarrow, plantain, and comfrey were used for wounds, infections, digestion, and physical recovery."
 
-image_mobile: /assets/images/heroes/home-protection-herbal-rituals-guide/800x1000px-plate-with-incense-plant-with-leaves.webp
-image_desktop_1280: /assets/images/heroes/home-protection-herbal-rituals-guide/1280x400px-plate-with-incense-plant-with-leaves.webp
-image_alt: "rosemary and wood incense sticks on metal plate"
+image_mobile: /assets/images/heroes/witchy-herbs-for-healing/800x1000px-top-view-dried-seasonings-different-colored-inside-bowls-brown-background-green-mint-dry.webp
+image_desktop_1280: /assets/images/heroes/witchy-herbs-for-healing/1280x400px-top-view-dried-seasonings-different-colored-inside-bowls-brown-background-green-mint-dry.webp
+image_alt: "dried herbs in bowls"
 
 categories:
   - natural-healing
