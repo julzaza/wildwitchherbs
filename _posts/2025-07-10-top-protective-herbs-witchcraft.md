@@ -6,9 +6,10 @@ description: "Discover the top 11 protective herbs in witchcraft, their folklore
 excerpt: "Explore the top 11 protective herbs in witchcraft: garlic, rue, mugwort, and more; through folklore, traditional uses, and ancestral protection practices across cultures."
 categories: [herbal-magic, witchcraft-ritual]
 tags: [protection, herbs, witchcraft, folklore, rituals, spellcraft]
-header:
-  image: /assets/images/top-view-natural-medicinal-spices-herbs.webp
-  overlay_filter: 0.4
+
+image_mobile: /assets/images/heroes/top-protective-herbs-witchcraft/800x1000px-white-yarrow-flowers-blooming-sunny-field.webp
+image_desktop_1280: /assets/images/heroes/top-protective-herbs-witchcraft/1280x400px-white-yarrow-flowers-blooming-sunny-field.webp
+image_alt: "white yarrow flower in the field"
 
 faq:
   - question: "What are protective herbs in witchcraft?"
