@@ -8,6 +8,11 @@ tags:
   - stress relief herbs
   - nervous system herbs
   - natural anxiety remedies
+
+image_mobile: /assets/images/heroes/herbs-for-anxiety-and-stress/800x1000pxtop-view-assortment-spices-with-lavender-turmeric.webp
+image_desktop_1280: /assets/images/heroes/herbs-for-anxiety-and-stress/1280x400px-top-view-assortment-spices-with-lavender-turmeric.webp
+image_alt: "lavender and other herbs in wooden bowls"
+
 excerpt: "These are the most effective herbs for anxiety and stress, used in traditional herbal medicine to calm the nervous system, reduce tension, and support emotional balance."
 description: "Discover the best herbs for anxiety and stress that actually work. Learn how traditional remedies support the nervous system and reduce anxiety naturally."
 
