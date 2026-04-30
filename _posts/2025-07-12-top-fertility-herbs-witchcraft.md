@@ -15,6 +15,11 @@ tags:
   - conception herbs
   - women’s herbal medicine
   - ancestral herbalism
+
+image_mobile: /assets/images/heroes/top-fertility-herbs-witchcraft/800x1000pxportrait-woman-red-berries.webp
+image_desktop_1280: /assets/images/heroes/top-fertility-herbs-witchcraft/1280x400px-portrait-woman-red-berries.webp
+image_alt: "woman with closed eyes and orange berries plant"
+
 faq:
   - question: "What are the most powerful fertility herbs in witchcraft?"
     answer: "Traditional fertility herbs in witchcraft include raspberry leaf, chasteberry, red clover, nettle, mugwort, lady’s mantle, dong quai, black cohosh, and wild yam. They were used in folk medicine and ritual to prepare the womb, regulate cycles, and support conception."
