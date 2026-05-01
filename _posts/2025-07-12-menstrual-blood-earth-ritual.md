@@ -5,6 +5,11 @@ permalink: /menstrual-blood-earth-ritual/
 author: Wild Witch Herbs
 excerpt: "Discover the ancient practice of offering menstrual blood to the Earth. Rooted in fertility rites, moon cycles, and folk traditions, this ritual honors the sacred bond between womb and soil."
 description: "A folklore and ritual guide to returning menstrual blood to the Earth for fertility, healing, protection, and ancestral connection. Learn traditional methods, chants, and safe practices."
+
+image_mobile: /assets/images/heroes/menstrual-blood-earth-ritual/800x1000px-top-view-teapot-with-cup-leaves.jpg
+image_desktop_1280: /assets/images/heroes/menstrual-blood-earth-ritual/1280x400px-top-view-teapot-with-cup-leaves.jpg
+image_alt: "top view cup with red tea and red flower petals on white background"
+
 categories:
   - witchcraft-ritual
   - folklore-ancestral
