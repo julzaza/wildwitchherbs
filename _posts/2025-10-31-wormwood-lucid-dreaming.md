@@ -8,6 +8,10 @@ categories: [herbal-magic, folklore-ancestral]
 tags: [wormwood, lucid dreaming]
 search: false
 
+image_mobile: /assets/images/heroes/wormwood-lucid-dreaming/800x1000px-wormwood-plant.webp
+image_desktop_1280: /assets/images/heroes/wormwood-lucid-dreaming/1280x400px-wormwood-plant.webp
+image_alt: "close up of wormwood plant"
+
 audience: "Herbalists, witches, dream workers, folklore enthusiasts"
 language: "en"
 difficulty: "Beginner to Intermediate"
