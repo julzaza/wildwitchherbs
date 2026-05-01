@@ -6,6 +6,10 @@ excerpt: "Explore the Old European belief that rosemary planted by the front doo
 categories: [herbal-magic, witchcraft-ritual]
 tags: [rosemary, threshold magic, household protection, european folklore, doorway guardians]
 
+image_mobile: /assets/images/heroes/why-witches-plant-rosemary-front-door/800x1000px-closeup-shot-rosemary-plant.webp
+image_desktop_1280: /assets/images/heroes/why-witches-plant-rosemary-front-door/1280x400px-closeup-shot-rosemary-plant.webp
+image_alt: "rosemary plant close up"
+
 faq:
   - question: "Why do witches plant rosemary by the door?"
     answer: "Rosemary protects the home, sharpens the senses, repels ill intent, and blesses those who pass through the threshold."
