@@ -4,6 +4,11 @@ title: "Love Magic Herbs to Attract the Right Partner"
 excerpt: "Across cultures, love magic relied on plants that aligned fate rather than forced desire. These global herbs were used to call in the right partner — not just any lover."
 description: "Explore global love magic herbs used in African, Asian, Indigenous American, and Pacific folk traditions to attract an aligned partner through ethical, ancestral practice."
 author: "Wild Witch Herbs"
+
+image_mobile: /assets/images/heroes/love-magic-herbs-to-attract-the-right-partner/800x1000px-jasmine-flowers.webp
+image_desktop_1280: /assets/images/heroes/love-magic-herbs-to-attract-the-right-partner/1280x400px-jasmine-flowers.webp
+image_alt: "jasmine plant with flowers"
+
 featured: true
 categories:
   - witchcraft-ritual
