@@ -6,6 +6,10 @@ excerpt: "Rue tucked behind doorframes, basil pots on Greek thresholds, and juni
 categories: [witchcraft-ritual, herbal-magic]
 tags: [evil eye, protection, household magic, Mediterranean folklore, European herbs]
 
+image_mobile: /assets/images/heroes/herbs-that-keep-out-evil-eye/800x1000px-bunches-rosemary-garlic-dark-wooden-table-side-view (1).webp
+image_desktop_1280: /assets/images/heroes/herbs-that-keep-out-evil-eye/1280x400px-bunches-rosemary-garlic-dark-wooden-table-side-view (1).webp
+image_alt: "rosemary and garlic on wooden table"
+
 faq:
   - question: "What herbs were traditionally used to protect against the evil eye?"
     answer: "Rue, basil, garlic, rosemary, juniper, and black cumin appear widely in European and Mediterranean folklore against the evil eye."
