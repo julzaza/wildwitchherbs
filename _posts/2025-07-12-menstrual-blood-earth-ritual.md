@@ -46,17 +46,17 @@ faq:
 
 ---
 
-Long before shame was stitched to the hem of a woman’s skirt, menstrual blood was seen as sacred—**a gift, not a curse**. Across time and cultures, women bled in rhythm with the moon, and their blood was recognized not as waste, but as **life-force**—capable of nourishing both land and lineage.
+Long before shame was stitched to the hem of a woman’s skirt, menstrual blood was seen as sacred: it is **a gift, not a curse**. Across time and cultures, women bled in rhythm with the moon, and their blood was recognized not as waste, but as a **life-force** capable of nourishing both land and lineage.
 
 In the old ways, it was said that **to give your blood to the soil was to speak directly to the Earth**.
 
 ### A Ritual Older Than Religion
 
-Among **pre-Christian Slavs**, the act of returning menstrual blood to the ground was both **an offering and a bond**. A woman might squat in a garden’s corner, whispering her hopes for children, a good harvest, or healing. Her blood, rich with iron and intent, would soak into the roots. **No need for words—the soil understood.**
+Among **pre-Christian Slavs**, the act of returning menstrual blood to the ground was both **an offering and a bond**. A woman might squat in a garden’s corner, whispering her hopes for children, a good harvest, or healing. Her blood, rich with iron and intent, would soak into the roots. **No need for words, the soil understood.**
 
-In **Irish and Scottish folk belief**, a woman bleeding in sync with the moon was said to possess "silver sight"—**a second sight**—and her blood, when placed at the base of sacred trees or stone circles, was believed to **call forth ancestors or fae**.
+In **Irish and Scottish folk belief**, a woman bleeding in sync with the moon was said to possess "silver sight", **a second sight**. Her blood, when placed at the base of sacred trees or stone circles, was believed to **call forth ancestors or fae**.
 
-Some **Balkan mountain villages** held quiet traditions where women would anoint the edges of fields with blood-stained linen—**a charm to awaken the Earth’s fertility** before planting seeds.
+Some **Balkan mountain villages** held quiet traditions where women would anoint the edges of fields with blood-stained linen. It is **a charm to awaken the Earth’s fertility** before planting seeds.
 
 In parts of **West Africa**, menstrual blood was mixed with red clay to mark shrines and fertility symbols, connecting womb and world in visible prayer.
 
@@ -74,7 +74,7 @@ Modern witchcraft has reclaimed this ritual as **remembrance**. Returning blood 
 - **Protection** and energetic grounding  
 - **Ancestral communication**, especially with women of your bloodline
 
-It’s also scientifically sound—**menstrual blood is rich in nitrogen, phosphorus, and cells with regenerative potential**.
+It’s also scientifically sound: **menstrual blood is rich in nitrogen, phosphorus, and cells with regenerative potential**.
 
 Some witches feed their roses or mugwort with it. What once was taboo now becomes **communion.**
 
