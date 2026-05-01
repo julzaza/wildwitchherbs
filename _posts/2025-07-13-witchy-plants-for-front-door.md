@@ -8,8 +8,8 @@ excerpt: "Guard your threshold with sacred plants used by witches and folk heale
 categories: [herbal-magic, witchcraft-ritual]
 tags: [protection, magical plants, folklore, witchcraft, garden magic, folk magic, threshold]
 
-image_mobile: /assets/images/heroes/witchy-herbs-front-door/1280x400px-front-door-with-many-potted-plants.webp
-image_desktop_1280: /assets/images/heroes/witchy-herbs-front-door/800x1000px-front-door-with-many-potted-plants-94KB.webp
+image_mobile: /assets/images/heroes/witchy-herbs-front-door/800x1000px-front-door-with-many-potted-plants-94KB.webp
+image_desktop_1280: /assets/images/heroes/witchy-herbs-front-door/1280x400px-front-door-with-many-potted-plants.webp
 image_alt: "a blue door with potted plants on both sides"
 
 faq:
