@@ -9,7 +9,7 @@ categories: [herbal-magic, witchcraft-ritual]
 tags: [protection, magical plants, folklore, witchcraft, garden magic, folk magic, threshold]
 
 image_mobile: /assets/images/heroes/witchy-herbs-front-door/800x1000px-cozy-courtyards-amsterdam-benches-bicycles-flowers-tubs.webp
-image_desktop_1280: /assets/images/heroes/witchy-herbs-front-door/1280x400px-cozy-courtyards-amsterdam-benches-bicycles-flowers-tubs.webp
+image_desktop_1280: /assets/images/heroes/witchy-herbs-front-door/800x1000px-front-door-with-many-potted-plants -94KB.webp
 image_alt: "a blue door with potted plants on both sides"
 
 faq:
