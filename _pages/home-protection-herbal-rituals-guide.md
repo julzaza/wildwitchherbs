@@ -6,9 +6,9 @@ tags: [herbal protection, folk magic, home protection, threshold magic, protecti
 
 permalink: /home-protection-herbal-rituals-guide/ 
 
-image_mobile: /assets/images/heroes/home-protection-herbal-rituals-guide/800x1000px-top-view-arrangement-leaves-wooden-sticks.webp
-image_desktop_1280: /assets/images/heroes/home-protection-herbal-rituals-guide/1280x400px-top-view-arrangement-leaves-wooden-sticks.webp
-image_alt: "rosemary and wood incense sticks on metal plate"
+image_mobile: /assets/images/heroes/home-protection-herbal-rituals-guide/800x1000px-criss-crossed-spoons-with-herbs.webp
+image_desktop_1280: /assets/images/heroes/home-protection-herbal-rituals-guide/1280x400px-criss-crossed-spoons-with-herbs.webp
+image_alt: "criss-crossed spoons with dried herbs"
 
 description: "A folklore-rich guide to herbal protection for the home, rooted in traditional practices of thresholds, boundary-setting, and plant-based rituals. Learn how protection was actually done—and how to apply it in real spaces."
 
