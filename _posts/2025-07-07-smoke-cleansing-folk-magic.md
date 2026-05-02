@@ -30,6 +30,7 @@ image_desktop_1280: /assets/images/heroes/smoke-cleansing-folk-magic/1280x400px-
 image_desktop_1920: /assets/images/heroes/smoke-cleansing-folk-magic/1920x400px-bursera-graveolens-spanish-holy-tree-plant-leaves.webp
 image_alt: "ritual sticks and herbs for burning on plates"
 teaser: /assets/images/heroes/800x1000px-smoke-cleansing-folk-magic.webp
+featured: true
 
 faq:
   - question: "What is smoke cleansing in folk magic?"
