@@ -712,3 +712,58 @@ h3 a:hover {
 html, body {
   overflow-x: hidden;
 }
+
+/* ============================================
+   NEW CARD SYSTEM (IMAGE + FALLBACK)
+   ============================================ */
+
+.entries-grid article.card {
+  padding: 0; /* override old padding */
+  overflow: hidden;
+}
+
+/* clickable card */
+.card a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+/* IMAGE CARD */
+.card-image img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  display: block;
+}
+
+/* FALLBACK CARD (no image) */
+.card-fallback {
+  aspect-ratio: 4 / 5;
+  background: #1e1e1e;
+  color: #c2b280;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+/* TEXT */
+.card-content {
+  padding: 1rem;
+  text-align: center;
+}
+
+.card-content h3 {
+  font-size: 0.9rem;
+  margin: 0 0 0.4rem 0;
+  line-height: 1.4;
+}
+
+.card-content p {
+  font-size: 0.8rem;
+  color: #666;
+  margin: 0;
+}
