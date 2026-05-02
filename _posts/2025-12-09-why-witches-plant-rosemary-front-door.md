@@ -9,6 +9,7 @@ tags: [rosemary, threshold magic, household protection, european folklore, doorw
 image_mobile: /assets/images/heroes/why-witches-plant-rosemary-front-door/800x1000px-closeup-shot-rosemary-plant.webp
 image_desktop_1280: /assets/images/heroes/why-witches-plant-rosemary-front-door/1280x400px-closeup-shot-rosemary-plant.webp
 image_alt: "rosemary plant close up"
+teaser: /assets/images/heroes/why-witches-plant-rosemary-front-door/800x1000px-closeup-shot-rosemary-plant.webp
 
 faq:
   - question: "Why do witches plant rosemary by the door?"
