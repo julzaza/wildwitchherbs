@@ -8,8 +8,9 @@ tags: [fertility herbs, women’s magic, womb magic, folklore, witchcraft, herba
 
 image_mobile: /assets/images/heroes/fertility-herbs-for-women-old-world/800x1000px-woman-posing-while-holding-bouquet-lavender.webp
 image_desktop_1280: /assets/images/heroes/fertility-herbs-for-women-old-world/1280x450px-woman-posing-while-holding-bouquet-lavender.webp
-image_desktop_1920: /assets/images/heroes/fertility-herbs-for-women-old-world/1920x640px-woman-posing-while-holding-bouquet-lavender.webp
+teaser: /assets/images/heroes/fertility-herbs-for-women-old-world/800x1000px-woman-posing-while-holding-bouquet-lavender.webp
 image_alt: "young woman with red hair holding lavender herbal bouquet, light purple background"
+featured: true
 
 
 faq:
