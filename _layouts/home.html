@@ -75,12 +75,28 @@ layout: default
     {% assign herbal_count = 0 %}
     {% for post in herbal_posts %}
       {% if post.categories contains 'herbal-magic' %}
-        <article>
-          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-          {% if post.excerpt %}
-            <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
-          {% endif %}
-        </article>
+ <article class="card">
+  <a href="{{ post.url | relative_url }}">
+    
+    {% if post.teaser %}
+      <div class="card-image">
+        <img src="{{ post.teaser }}" alt="{{ post.title }}">
+      </div>
+    {% else %}
+      <div class="card-fallback">
+        <span>{{ post.categories[0] | upcase }}</span>
+      </div>
+    {% endif %}
+
+    <div class="card-content">
+      <h3>{{ post.title }}</h3>
+      {% if post.excerpt %}
+        <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
+      {% endif %}
+    </div>
+
+  </a>
+</article>
         {% assign herbal_count = herbal_count | plus: 1 %}
         {% if herbal_count == 6 %}{% break %}{% endif %}
       {% endif %}
