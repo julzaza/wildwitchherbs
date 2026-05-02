@@ -10,6 +10,7 @@ image_mobile: /assets/images/heroes/herbs-that-keep-out-evil-eye/800x1000px-bunc
 image_desktop_1280: /assets/images/heroes/herbs-that-keep-out-evil-eye/1280x400px-bunches-rosemary-garlic-dark-wooden-table.webp
 image_alt: "rosemary and garlic on wooden table"
 teaser: /assets/images/heroes/herbs-that-keep-out-evil-eye/800x1000px-bunches-rosemary-garlic-dark-wooden-table.webp
+featured: true
 
 faq:
   - question: "What herbs were traditionally used to protect against the evil eye?"
