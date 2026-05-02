@@ -8,8 +8,9 @@ author: Wild Witch Herbs
 
 image_mobile: /assets/images/heroes/smoke-cleansing-vs-smudging/800x1000pxdried-autumn-flowers-representing-indian-sanchi-stupa-art.webp
 image_desktop_1280: 
-image_desktop_1920: 
 image_alt: "herbs and flower bundle"
+teaser: /assets/images/heroes/smoke-cleansing-vs-smudging/800x1000pxdried-autumn-flowers-representing-indian-sanchi-stupa-art.webp
+featured: true
 
 categories:
   - witchcraft-ritual
