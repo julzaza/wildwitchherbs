@@ -8,6 +8,7 @@ description: "A raw, folklore-rich guide to Old European fertility rituals: moon
 image_mobile: /assets/images/heroes/folk-fertility-rituals/800x1000px-back-view-woman-walking-field.webp
 image_desktop_1280: /assets/images/heroes/folk-fertility-rituals/1280x400px-back-view-woman-walking-field.webp
 image_alt: "back view woman standing in the green field"
+teaser: /assets/images/heroes/folk-fertility-rituals/800x1000px-back-view-woman-walking-field.webp
 
 categories:
   - witchcraft-ritual
