@@ -28,7 +28,6 @@ layout: default
   </div>
 </div>
 
-
 <!-- INTRO -->
 <section class="home-intro">
   <p>
@@ -43,7 +42,6 @@ layout: default
 
 {% include feature_row %}
 
-
 <!-- FEATURED POSTS -->
 <section class="cluster-section">
   <h2>Featured</h2>
@@ -53,20 +51,13 @@ layout: default
     {% assign count = 0 %}
 
     {% for post in featured_posts %}
-      {% if post.featured %}
+      {% if post.featured and post.teaser %}
 
         <article class="card">
           <a href="{{ post.url | relative_url }}">
-
-            {% if post.teaser %}
-              <div class="card-image">
-                <img src="{{ post.teaser }}" alt="{{ post.title }}">
-              </div>
-            {% else %}
-              <div class="card-fallback">
-                <span>FEATURED</span>
-              </div>
-            {% endif %}
+            <div class="card-image">
+              <img src="{{ post.teaser }}" alt="{{ post.title }}">
+            </div>
 
             <div class="card-content">
               <h3>{{ post.title }}</h3>
@@ -74,7 +65,6 @@ layout: default
                 <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
               {% endif %}
             </div>
-
           </a>
         </article>
 
@@ -97,20 +87,13 @@ layout: default
     {% assign herbal_count = 0 %}
 
     {% for post in herbal_posts %}
-      {% if post.categories contains 'herbal-magic' %}
+      {% if post.categories contains 'herbal-magic' and post.teaser %}
 
         <article class="card">
           <a href="{{ post.url | relative_url }}">
-
-            {% if post.teaser %}
-              <div class="card-image">
-                <img src="{{ post.teaser }}" alt="{{ post.title }}">
-              </div>
-            {% else %}
-              <div class="card-fallback">
-                <span>HERBAL</span>
-              </div>
-            {% endif %}
+            <div class="card-image">
+              <img src="{{ post.teaser }}" alt="{{ post.title }}">
+            </div>
 
             <div class="card-content">
               <h3>{{ post.title }}</h3>
@@ -118,12 +101,11 @@ layout: default
                 <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
               {% endif %}
             </div>
-
           </a>
         </article>
 
         {% assign herbal_count = herbal_count | plus: 1 %}
-        {% if herbal_count == 6 %}{% break %}{% endif %}
+        {% if herbal_count == 3 %}{% break %}{% endif %}
 
       {% endif %}
     {% endfor %}
@@ -141,20 +123,13 @@ layout: default
     {% assign ritual_count = 0 %}
 
     {% for post in ritual_posts %}
-      {% if post.categories contains 'witchcraft-ritual' %}
+      {% if post.categories contains 'witchcraft-ritual' and post.teaser %}
 
         <article class="card">
           <a href="{{ post.url | relative_url }}">
-
-            {% if post.teaser %}
-              <div class="card-image">
-                <img src="{{ post.teaser }}" alt="{{ post.title }}">
-              </div>
-            {% else %}
-              <div class="card-fallback">
-                <span>RITUAL</span>
-              </div>
-            {% endif %}
+            <div class="card-image">
+              <img src="{{ post.teaser }}" alt="{{ post.title }}">
+            </div>
 
             <div class="card-content">
               <h3>{{ post.title }}</h3>
@@ -162,12 +137,11 @@ layout: default
                 <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
               {% endif %}
             </div>
-
           </a>
         </article>
 
         {% assign ritual_count = ritual_count | plus: 1 %}
-        {% if ritual_count == 6 %}{% break %}{% endif %}
+        {% if ritual_count == 3 %}{% break %}{% endif %}
 
       {% endif %}
     {% endfor %}
