@@ -12,6 +12,7 @@ image_desktop_1280: /assets/images/heroes/never-burn-herbs/1280x400px-wellness-p
 image_desktop_1920: /assets/images/heroes/never-burn-herbs/1920x400px-wellness-practices-self-care-world-health-day(1).webp
 image_alt: "Herbs burning ritual performed by two women"
 hero_overlay_opacity: 0
+teaser: /assets/images/heroes/never-burn-herbs/800x1000px-herbs-never-burn-48KB.webp
 
 categories:
   - witchcraft-ritual
