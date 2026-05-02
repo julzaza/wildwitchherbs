@@ -770,3 +770,21 @@ html, body {
 
 
 
+
+
+.newsletter-box {
+  max-width: 700px;
+  margin: 3rem auto;
+  padding: 2rem 1.5rem;
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 1rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  .newsletter-box {
+    margin: 2rem 1rem;
+    padding: 1.5rem 1rem;
+  }
+}
