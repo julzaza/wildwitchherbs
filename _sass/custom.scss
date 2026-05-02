@@ -831,3 +831,76 @@ html, body {
 .card-overlay:hover img {
   transform: scale(1.05);
 }
+
+
+/* ================================
+   FIX: GUIDES OVERLAY OVERRIDE
+   ================================ */
+
+.guides-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2rem;
+  width: 100%;
+}
+
+/* IMPORTANT: override theme card rules */
+.guides-grid .card-overlay {
+  position: relative;
+  overflow: hidden;
+  border-radius: 1rem;
+}
+
+/* kill inherited card styles */
+.guides-grid .card-overlay,
+.guides-grid .card-overlay * {
+  box-sizing: border-box;
+}
+
+/* image fills card */
+.guides-grid .card-overlay img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  aspect-ratio: 3 / 4;
+  transition: transform 0.4s ease;
+}
+
+/* gradient overlay */
+.guides-grid .card-overlay::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to top,
+    rgba(0,0,0,0.7),
+    rgba(0,0,0,0.1)
+  );
+  z-index: 1;
+}
+
+/* text OVER image (this is the key fix) */
+.guides-grid .overlay-text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1rem;
+  z-index: 2;
+  text-align: center;
+}
+
+.guides-grid .overlay-text h3 {
+  margin: 0;
+  color: #fff !important;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.7);
+}
+
+/* hover effect */
+.guides-grid .card-overlay:hover img {
+  transform: scale(1.05);
+}
