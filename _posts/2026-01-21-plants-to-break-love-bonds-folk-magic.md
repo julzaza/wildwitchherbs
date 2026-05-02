@@ -4,7 +4,7 @@ title: "Plants Used to Break Love or Sever Bonds in Folk Magic"
 excerpt: "Across cultures, certain plants were used not to attract love—but to end it. These herbs appear in rites of separation, forgetting, banishment, and severed ties."
 description: "A global folklore-based guide to plants historically used in love-breaking, separation, and bond-severing rituals across Balkan, Middle Eastern, African, Asian, and Indigenous traditions."
 author: "Wild Witch Herbs"
-featured: true
+
 categories:
   - witchcraft-ritual
   - herbal-magic
@@ -20,7 +20,8 @@ tags:
 image_mobile: /assets/images/heroes/plants-to-break-love-bonds-folk-magic/800x1000px-top-view-fresh-stinging-nettle-leaves-bowl-gray-table.webp
 image_desktop_1280: /assets/images/heroes/plants-to-break-love-bonds-folk-magic/1280x400px-top-view-fresh-stinging-nettle-leaves-bowl-gray-table.webp
 image_alt: "stinging nettle in a bowl with a pair of scissors laying next to it"
-
+teaser: /assets/images/heroes/plants-to-break-love-bonds-folk-magic/800x1000px-top-view-fresh-stinging-nettle-leaves-bowl-gray-table.webp
+featured: true
 
 meta_description: "Explore global folklore herbs used to break love, sever bonds, and end unwanted ties in traditional witchcraft and ancestral ritual."
 keywords:
