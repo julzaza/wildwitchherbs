@@ -20,6 +20,7 @@ image_mobile: /assets/images/heroes/top-fertility-herbs-witchcraft/800x1000pxpor
 image_desktop_1280: /assets/images/heroes/top-fertility-herbs-witchcraft/1280x400px-portrait-woman-red-berries.webp
 image_alt: "woman with closed eyes and orange berries plant"
 teaser: /assets/images/heroes/top-fertility-herbs-witchcraft/800x1000pxportrait-woman-red-berries.webp
+featured: true
 
 faq:
   - question: "What are the most powerful fertility herbs in witchcraft?"
