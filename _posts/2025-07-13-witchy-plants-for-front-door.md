@@ -11,6 +11,7 @@ tags: [protection, magical plants, folklore, witchcraft, garden magic, folk magi
 image_mobile: /assets/images/heroes/witchy-herbs-front-door/800x1000px-front-door-with-many-potted-plants-94KB.webp
 image_desktop_1280: /assets/images/heroes/witchy-herbs-front-door/1280x400px-front-door-with-many-potted-plants.webp
 image_alt: "a blue door with potted plants on both sides"
+teaser: /assets/images/heroes/witchy-herbs-front-door/800x1000px-front-door-with-many-potted-plants-94KB.webp
 
 faq:
   - question: "What are threshold plants and why are they used at the front door?"
