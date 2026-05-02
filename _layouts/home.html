@@ -69,7 +69,7 @@ layout: default
         </article>
 
         {% assign count = count | plus: 1 %}
-        {% if count == 3 %}{% break %}{% endif %}
+        {% if count == 12 %}{% break %}{% endif %}
 
       {% endif %}
     {% endfor %}
@@ -78,108 +78,4 @@ layout: default
 </section>
 
 
-<!-- HERBAL MAGIC -->
-<section class="cluster-section">
-  <h2>Herbal Magic & Materia Magica</h2>
-  <div class="entries-grid">
 
-    {% assign herbal_posts = site.posts | sort:'date' | reverse %}
-    {% assign herbal_count = 0 %}
-
-    {% for post in herbal_posts %}
-      {% if post.categories contains 'herbal-magic' and post.teaser %}
-
-        <article class="card">
-          <a href="{{ post.url | relative_url }}">
-            <div class="card-image">
-              <img src="{{ post.teaser }}" alt="{{ post.title }}">
-            </div>
-
-            <div class="card-content">
-              <h3>{{ post.title }}</h3>
-              {% if post.excerpt %}
-                <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
-              {% endif %}
-            </div>
-          </a>
-        </article>
-
-        {% assign herbal_count = herbal_count | plus: 1 %}
-        {% if herbal_count == 6 %}{% break %}{% endif %}
-
-      {% endif %}
-    {% endfor %}
-
-  </div>
-</section>
-
-
-<!-- WITCHCRAFT & RITUAL -->
-<section class="cluster-section">
-  <h2>Witchcraft & Ritual Practice</h2>
-  <div class="entries-grid">
-
-    {% assign ritual_posts = site.posts | sort:'date' | reverse %}
-    {% assign ritual_count = 0 %}
-
-    {% for post in ritual_posts %}
-      {% if post.categories contains 'witchcraft-ritual' and post.teaser %}
-
-        <article class="card">
-          <a href="{{ post.url | relative_url }}">
-            <div class="card-image">
-              <img src="{{ post.teaser }}" alt="{{ post.title }}">
-            </div>
-
-            <div class="card-content">
-              <h3>{{ post.title }}</h3>
-              {% if post.excerpt %}
-                <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
-              {% endif %}
-            </div>
-          </a>
-        </article>
-
-        {% assign ritual_count = ritual_count | plus: 1 %}
-        {% if ritual_count == 6 %}{% break %}{% endif %}
-
-      {% endif %}
-    {% endfor %}
-
-  </div>
-</section>
-
-<!-- FOLKLORE & ANCESTRAL MAGIC -->
-<section class="cluster-section">
-  <h2>Folk Traditions & Ancestral Magic</h2>
-  <div class="entries-grid">
-
-    {% assign folklore_posts = site.posts | sort:'date' | reverse %}
-    {% assign folklore_count = 0 %}
-
-    {% for post in folklore_posts %}
-      {% if post.categories contains 'folklore-ancestral' and post.teaser %}
-
-        <article class="card">
-          <a href="{{ post.url | relative_url }}">
-            <div class="card-image">
-              <img src="{{ post.teaser }}" alt="{{ post.title }}">
-            </div>
-
-            <div class="card-content">
-              <h3>{{ post.title }}</h3>
-              {% if post.excerpt %}
-                <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
-              {% endif %}
-            </div>
-          </a>
-        </article>
-
-        {% assign folklore_count = folklore_count | plus: 1 %}
-        {% if folklore_count == 6 %}{% break %}{% endif %}
-
-      {% endif %}
-    {% endfor %}
-
-  </div>
-</section>
