@@ -19,7 +19,7 @@ image_mobile: /assets/images/heroes/witchy-herbs-anxiety-grief-emotional-healing
 image_desktop_1280: /assets/images/heroes/witchy-herbs-anxiety-grief-emotional-healing/1280x450pxyoung-brunette-smelling-flowers.webp
 image_desktop_1920: /assets/images/heroes/witchy-herbs-anxiety-grief-emotional-healing/1920x640pxyoung-brunette-smelling-flowers.webp
 image_alt: "woman with dark hair holding some small white flowers with green petals in her hands"
-
+featured: true
 
 faq:
   - question: "Which herbs are best for emotional healing in witchcraft?"
