@@ -9,6 +9,7 @@ image_mobile: /assets/images/heroes/folk-fertility-rituals/800x1000px-back-view-
 image_desktop_1280: /assets/images/heroes/folk-fertility-rituals/1280x400px-back-view-woman-walking-field.webp
 image_alt: "back view woman standing in the green field"
 teaser: /assets/images/heroes/folk-fertility-rituals/800x1000px-back-view-woman-walking-field.webp
+featured: true
 
 categories:
   - witchcraft-ritual
