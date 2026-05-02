@@ -9,6 +9,7 @@ description: "A folklore and ritual guide to returning menstrual blood to the Ea
 image_mobile: /assets/images/heroes/menstrual-blood-earth-ritual/800x1000px-top-view-teapot-with-cup-leaves.jpg
 image_desktop_1280: /assets/images/heroes/menstrual-blood-earth-ritual/1280x400px-top-view-teapot-with-cup-leaves.jpg
 image_alt: "top view cup with red tea and red flower petals on white background"
+teaser: /assets/images/heroes/menstrual-blood-earth-ritual/800x1000px-top-view-teapot-with-cup-leaves.jpg
 
 categories:
   - witchcraft-ritual
