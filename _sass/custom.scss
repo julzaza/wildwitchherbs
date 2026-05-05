@@ -788,3 +788,36 @@ html, body {
     padding: 1.5rem 1rem;
   }
 }
+
+
+
+/* FORCE KIT FORM CONTAINER */
+form[data-uid],
+.formkit-form,
+.newsletter-box form {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* MOBILE SPACING FIX */
+@media (max-width: 767px) {
+  .newsletter-box {
+    margin: 2rem 1rem !important;
+    padding: 1.2rem !important;
+  }
+}
+
+/* INPUT FIX */
+form[data-uid] input,
+.formkit-form input {
+  width: 100% !important;
+  box-sizing: border-box !important;
+  border-radius: 8px !important;
+}
+
+/* BUTTON FIX */
+form[data-uid] button,
+.formkit-form button {
+  width: 100% !important;
+  border-radius: 8px !important;
+}
