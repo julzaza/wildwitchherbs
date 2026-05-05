@@ -773,11 +773,17 @@ html, body {
 
 
 
-
 /* ================================
-   NEWSLETTER - EDGE-TO-EDGE MOBILE FIX
+   KIT FULL WIDTH OVERRIDE FIX
    ================================ */
 
+.newsletter-full {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+}
+
+/* keep your card centered but allow full width breathing room */
 .newsletter-box {
   max-width: 900px;
   margin: 3rem auto;
@@ -787,67 +793,17 @@ html, body {
   box-shadow: 0 8px 24px rgba(0,0,0,0.08);
 }
 
-/* IMAGE WRAPPER FIX (IMPORTANT) */
-.newsletter-image {
-  width: 100%;
-  line-height: 0;
-}
-
-/* IMAGE */
-.newsletter-image img {
-  width: 100%;
-  display: block;
-  object-fit: cover;
-  aspect-ratio: 16 / 9;
-}
-
-/* CONTENT */
-.newsletter-content {
-  padding: 1.5rem;
-  text-align: center;
-}
-
-.newsletter-content h3 {
-  margin: 0 0 0.5rem 0;
-  font-size: 1rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-}
-
-.newsletter-content p {
-  font-size: 0.9rem;
-  color: #555;
-  margin-bottom: 1rem;
-}
-
-/* FORM */
-.newsletter-form input,
-.newsletter-form button {
+/* FORCE KIT EMBED TO USE FULL WIDTH */
+.newsletter-form form,
+.newsletter-form iframe,
+.newsletter-form div {
   width: 100% !important;
-  border-radius: 8px !important;
+  max-width: 100% !important;
 }
 
-/* REMOVE KIT BRANDING */
-.formkit-powered-by,
-[data-element="powered-by"],
-[class*="powered"],
-a[href*="kit.com"] {
-  display: none !important;
-}
-
-/* ================================
-   MOBILE FULL-WIDTH FIX
-   ================================ */
-
+/* MOBILE FIX */
 @media (max-width: 767px) {
   .newsletter-box {
-    width: calc(100vw - 2rem);   /* key fix */
-    max-width: none;
-    margin: 2rem auto;
-    border-radius: 1rem;
-  }
-
-  .newsletter-image img {
-    aspect-ratio: 4 / 3; /* slightly taller for mobile */
+    margin: 2rem 1rem;
   }
 }
