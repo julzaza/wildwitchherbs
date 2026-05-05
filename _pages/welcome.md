@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The First Threshold"
+title: "The First Threshold Has Been Crossed"
 permalink: /welcome/
 ---
 
