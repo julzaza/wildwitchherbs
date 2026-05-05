@@ -5,6 +5,12 @@ title: "11 Balkan Witchy Plants: Herbs, Legends & Folk Rituals"
 excerpt: "A folklore-rich compendium of Balkan witchy herbs, drawn from documented village practices, ethnobotany, and traditional folk magic across Serbia, Romania, Bulgaria, and neighboring regions."
 description: "An in-depth guide to Balkan witchy herbs rooted in ethnographic sources, folk ritual, and regional plant lore. Real traditions, real plants, no modern inventions."
 
+image_mobile: /assets/images/heroes/balkan-witchy-herbs/800x1000px-elder-tree-flowers.webp
+image_desktop_1280: /assets/images/heroes/balkan-witchy-herbs/1280x400px-elder-tree-flowers.webp
+image_alt: "elder tree flower close-up"
+teaser: /assets/images/heroes/balkan-witchy-herbs/800x1000px-elder-tree-flowers.webp
+
+
 categories: [herbal-magic, witchcraft-ritual]
 tags: [Balkan witchcraft, Balkan herbs, folk magic plants, ethnobotany Balkans, witchy herbs, Slavic folklore]
 
