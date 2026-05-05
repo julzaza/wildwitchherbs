@@ -840,21 +840,22 @@ a[href*="kit.com"] {
 
 
 /* ================================
-   FIX CARD IMAGE RATIO + CROPPING
+   HARD OVERRIDE - CARD IMAGES
    ================================ */
 
-/* Desktop */
 .card-image img {
   width: 100% !important;
-  height: 260px !important;          /* controls card height */
+  height: 260px !important;
+
+  aspect-ratio: auto !important;   /* 🔥 THIS is the key fix */
   object-fit: cover !important;
-  object-position: center top !important; /* stops cutting important top */
+  object-position: center top !important;
 }
 
 /* Mobile */
 @media (max-width: 767px) {
   .card-image img {
-    height: 220px !important;        /* shorter = less skinny */
+    height: 220px !important;
     object-position: center center !important;
   }
 }
