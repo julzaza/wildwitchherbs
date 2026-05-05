@@ -807,3 +807,13 @@ html, body {
     margin: 2rem 1rem;
   }
 }
+
+
+
+/* REMOVE KIT BRANDING */
+.formkit-powered-by,
+[data-element="powered-by"],
+[class*="powered"],
+a[href*="kit.com"] {
+  display: none !important;
+}
