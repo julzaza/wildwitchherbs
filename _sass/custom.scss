@@ -858,3 +858,77 @@ a[href*="kit.com"] {
   max-height: none !important;
   overflow: visible !important;
 }
+
+
+
+
+/* ================================
+   NEWSLETTER - CLEAN CUSTOM LAYOUT
+   ================================ */
+
+.newsletter-box {
+  max-width: 900px;
+  margin: 3rem auto;
+  background: rgba(255,255,255,0.9);
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+}
+
+/* IMAGE */
+.newsletter-image img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  display: block;
+}
+
+/* CONTENT */
+.newsletter-content {
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.newsletter-content h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.newsletter-content p {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+/* FORM */
+.newsletter-form {
+  width: 100%;
+}
+
+/* INPUT + BUTTON FIX */
+.newsletter-form input,
+.newsletter-form button {
+  width: 100% !important;
+  border-radius: 8px !important;
+}
+
+/* REMOVE KIT BRANDING */
+.formkit-powered-by,
+[data-element="powered-by"],
+[class*="powered"],
+a[href*="kit.com"] {
+  display: none !important;
+}
+
+/* MOBILE */
+@media (max-width: 767px) {
+  .newsletter-box {
+    margin: 2rem 1rem;
+  }
+
+  .newsletter-image img {
+    height: 180px;
+  }
+}
