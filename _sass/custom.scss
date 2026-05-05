@@ -814,9 +814,13 @@ html, body {
   margin-bottom: 1rem;
 }
 
-/* FORM */
-.newsletter-form {
+/* IMAGE - FIXED RATIO (DESKTOP + MOBILE) */
+.newsletter-image img {
   width: 100%;
+  aspect-ratio: 4 / 3;   /* 🔥 key fix */
+  object-fit: cover;
+  object-position: center;
+  display: block;
 }
 
 /* INPUT + BUTTON FIX */
