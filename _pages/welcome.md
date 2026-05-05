@@ -18,7 +18,7 @@ permalink: /welcome/
   <h3>What you will receive</h3>
 
   <ul>
-    <li>Old World plant lore (not modern summaries)</li>
+    <li>Old World plant lore</li>
     <li>Ritual-based herbal practice</li>
     <li>Folk remedies and ancestral memory</li>
     <li>Occasional field notes from the wild apothecary</li>
