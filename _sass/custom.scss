@@ -813,14 +813,10 @@ html, body {
     width: 100% !important;
   }
 
-  .newsletter-image img {
-    width: 100% !important;
-    height: auto !important;   /* KEY CHANGE */
-    object-fit: cover !important;
-    object-position: center center !important;
-    aspect-ratio: 16 / 9 !important;
-    display: block !important;
-  }
+.newsletter-image img {
+  height: 220px !important;
+  object-fit: cover !important;
+  object-position: center !important;
 }
 
 
