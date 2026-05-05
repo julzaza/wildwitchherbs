@@ -783,9 +783,9 @@ html, body {
 
 .newsletter-image img {
   width: 100%;
-  height: 100%;              /* gives stable crop area */
+  height: 100%;
   object-fit: cover;
-  object-position: center center;  /* fixes “shifted left / top cut” */
+  object-position: center center;
   display: block;
 }
 
@@ -806,19 +806,20 @@ html, body {
     max-width: 100% !important;
     width: 100% !important;
     margin: 0 !important;
-    border-radius: 0 !important; /* removes “boxed” feel on mobile */
+    border-radius: 0 !important;
   }
 
   .newsletter-image {
     width: 100% !important;
   }
 
-.newsletter-image img {
-  height: 220px !important;
-  object-fit: cover !important;
-  object-position: center !important;
-}
+  .newsletter-image img {
+    height: 220px !important;
+    object-fit: cover !important;
+    object-position: center !important;
+  }
 
+}
 
 /* REMOVE KIT BRANDING */
 .formkit-powered-by,
