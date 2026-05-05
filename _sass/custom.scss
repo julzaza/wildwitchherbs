@@ -790,7 +790,38 @@ html, body {
 }
 
 
+/* ================================
+   NEWSLETTER MOBILE EDGE FIX (FINAL OVERRIDE)
+   ================================ */
 
+@media (max-width: 767px) {
+
+  .newsletter-full {
+    width: 100vw !important;
+    margin-left: calc(-50vw + 50%) !important;
+    margin-right: calc(-50vw + 50%) !important;
+  }
+
+  .newsletter-box {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    border-radius: 0 !important; /* removes “boxed” feel on mobile */
+  }
+
+  .newsletter-image {
+    width: 100% !important;
+  }
+
+  .newsletter-image img {
+    width: 100% !important;
+    height: auto !important;   /* KEY CHANGE */
+    object-fit: cover !important;
+    object-position: center center !important;
+    aspect-ratio: 16 / 9 !important;
+    display: block !important;
+  }
+}
 
 
 /* REMOVE KIT BRANDING */
