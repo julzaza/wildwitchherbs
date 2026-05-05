@@ -770,9 +770,9 @@ html, body {
 
 
 
-
 .newsletter-box {
-  max-width: 600px;
+  max-width: 700px;
+  width: 100%;
   margin: 3rem auto;
   padding: 2rem 1.5rem;
   background: rgba(255, 255, 255, 0.9);
@@ -784,7 +784,8 @@ html, body {
 /* MOBILE */
 @media (max-width: 767px) {
   .newsletter-box {
-    margin: 2rem 1rem !important;
+    width: calc(100% - 2rem);
+    margin: 2rem auto !important;
     padding: 1.3rem 1rem !important;
   }
 }
@@ -838,24 +839,22 @@ a[href*="kit.com"] {
   height: 0 !important;
 }
 
-
 /* ================================
-   HARD OVERRIDE - CARD IMAGES
+   FIX NEWSLETTER IMAGE ONLY
    ================================ */
 
-.card-image img {
+.newsletter-box img {
   width: 100% !important;
-  height: 260px !important;
+  height: auto !important;
+  max-height: none !important;
 
-  aspect-ratio: auto !important;   /* 🔥 THIS is the key fix */
-  object-fit: cover !important;
-  object-position: center top !important;
+  object-fit: contain !important;   /* 🔥 no cropping */
+  object-position: center !important;
+  display: block;
 }
 
-/* Mobile */
-@media (max-width: 767px) {
-  .card-image img {
-    height: 220px !important;
-    object-position: center center !important;
-  }
+/* prevent Kit containers from cropping */
+.newsletter-box * {
+  max-height: none !important;
+  overflow: visible !important;
 }
