@@ -783,7 +783,7 @@ html, body {
 
 .newsletter-image img {
   width: 100%;
-  height: 320px;              /* gives stable crop area */
+  height: 100%;              /* gives stable crop area */
   object-fit: cover;
   object-position: center center;  /* fixes “shifted left / top cut” */
   display: block;
