@@ -6,16 +6,10 @@ permalink: /thank-you/
 
 <div class="ritual-thank-you">
 
-  <h1>You Have Entered the Circle</h1>
-
-  <p class="subline">
-    The threshold has been crossed. The plants have heard you.
-  </p>
-
-  <div class="ritual-divider">✶ ✶ ✶</div>
+  <h1>The threshold has been crossed.</h1>
 
   <p>
-    You are now part of the Wild Witch Herbs tribe — a living archive of folk memory, plant lore, and ancestral practice.
+    You are now part of the Wild Witch Herbs tribe.
   </p>
 
   <p>
