@@ -834,10 +834,11 @@ a[href*="kit.com"] {
 
 @media (max-width: 767px) {
   .newsletter-box {
-    width: 100vw;
-    max-width: 100vw;
-    margin-left: calc(-50vw + 50%);
-    margin-right: calc(-50vw + 50%);
-    border-radius: 0; /* optional: remove rounded edges */
+    width: calc(100% - 1rem);
+    margin: 2rem auto;
+  }
+
+  .newsletter-image img {
+    aspect-ratio: 16 / 9;  /* 🔥 wider cinematic look */
   }
 }
