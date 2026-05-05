@@ -13,7 +13,7 @@ permalink: /thank-you/
   </p>
 
   <p>
-    **Check your inbox & confirm your subscription.**  
+    Check your inbox & confirm your subscription.
     The first message is already on its way.  
     If you do not see it, it may have gone into shadow (spam).
   </p>
