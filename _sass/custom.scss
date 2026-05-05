@@ -793,7 +793,7 @@ html, body {
 @media (max-width: 767px) {
   .newsletter-image img {
     height: 240px;             /* slightly shorter but stable */
-    object-position: center 30%; /* pushes focus slightly down */
+object-position: 50% 40%;
   }
 }
 
