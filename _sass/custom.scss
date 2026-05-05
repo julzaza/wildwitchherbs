@@ -775,24 +775,30 @@ html, body {
 
 
 /* ================================
-   NEWSLETTER - CLEAN CUSTOM LAYOUT
+   NEWSLETTER - EDGE-TO-EDGE MOBILE FIX
    ================================ */
 
 .newsletter-box {
   max-width: 900px;
   margin: 3rem auto;
-  background: rgba(255,255,255,0.9);
+  background: rgba(255,255,255,0.92);
   border-radius: 1rem;
   overflow: hidden;
   box-shadow: 0 8px 24px rgba(0,0,0,0.08);
 }
 
+/* IMAGE WRAPPER FIX (IMPORTANT) */
+.newsletter-image {
+  width: 100%;
+  line-height: 0;
+}
+
 /* IMAGE */
 .newsletter-image img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
   display: block;
+  object-fit: cover;
+  aspect-ratio: 16 / 9;
 }
 
 /* CONTENT */
@@ -814,9 +820,7 @@ html, body {
   margin-bottom: 1rem;
 }
 
-
-
-/* INPUT + BUTTON FIX */
+/* FORM */
 .newsletter-form input,
 .newsletter-form button {
   width: 100% !important;
@@ -831,14 +835,19 @@ a[href*="kit.com"] {
   display: none !important;
 }
 
+/* ================================
+   MOBILE FULL-WIDTH FIX
+   ================================ */
 
 @media (max-width: 767px) {
   .newsletter-box {
-    width: calc(100% - 1rem);
+    width: calc(100vw - 2rem);   /* key fix */
+    max-width: none;
     margin: 2rem auto;
+    border-radius: 1rem;
   }
 
   .newsletter-image img {
-    aspect-ratio: 16 / 9;  /* 🔥 wider cinematic look */
+    aspect-ratio: 4 / 3; /* slightly taller for mobile */
   }
 }
