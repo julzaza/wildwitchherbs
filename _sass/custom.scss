@@ -772,39 +772,38 @@ html, body {
 
 
 
-
 /* ================================
-   KIT FULL WIDTH OVERRIDE FIX
+   HARD OVERRIDE KIT MOBILE WIDTH
    ================================ */
 
-.newsletter-full {
-  width: 100vw;
-  margin-left: calc(-50vw + 50%);
-  margin-right: calc(-50vw + 50%);
-}
-
-/* keep your card centered but allow full width breathing room */
-.newsletter-box {
-  max-width: 900px;
-  margin: 3rem auto;
-  background: rgba(255,255,255,0.92);
-  border-radius: 1rem;
-  overflow: hidden;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
-}
-
-/* FORCE KIT EMBED TO USE FULL WIDTH */
-.newsletter-form form,
-.newsletter-form iframe,
-.newsletter-form div {
-  width: 100% !important;
-  max-width: 100% !important;
-}
-
-/* MOBILE FIX */
 @media (max-width: 767px) {
+
+  /* force everything inside kit embed to stretch */
+  .newsletter-form *,
+  .newsletter-form form,
+  .newsletter-form iframe,
+  .formkit-form {
+    width: 100% !important;
+    max-width: 100vw !important;
+    min-width: 0 !important;
+  }
+
+  /* override Kit internal centering container */
+  .formkit-form,
+  [data-formkit],
+  [data-formkit] > div {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  /* fix mobile “skinny column” effect */
   .newsletter-box {
-    margin: 2rem 1rem;
+    width: 100vw !important;
+    margin-left: calc(-50vw + 50%) !important;
+    margin-right: calc(-50vw + 50%) !important;
+    border-radius: 0 !important; /* optional but makes true edge-to-edge feel */
   }
 }
 
