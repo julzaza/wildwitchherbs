@@ -837,3 +837,24 @@ a[href*="kit.com"] {
   opacity: 0 !important;
   height: 0 !important;
 }
+
+
+/* ================================
+   FIX CARD IMAGE RATIO + CROPPING
+   ================================ */
+
+/* Desktop */
+.card-image img {
+  width: 100% !important;
+  height: 260px !important;          /* controls card height */
+  object-fit: cover !important;
+  object-position: center top !important; /* stops cutting important top */
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+  .card-image img {
+    height: 220px !important;        /* shorter = less skinny */
+    object-position: center center !important;
+  }
+}
