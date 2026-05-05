@@ -6,8 +6,6 @@ permalink: /thank-you/
 
 <div class="ritual-thank-you">
 
-  <h1>The threshold has been crossed.</h1>
-
   <p>
     You are now part of the Wild Witch Herbs tribe.
   </p>
