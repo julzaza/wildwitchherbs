@@ -789,13 +789,7 @@ html, body {
   display: block;
 }
 
-/* MOBILE */
-@media (max-width: 767px) {
-  .newsletter-image img {
-    height: 240px;             /* slightly shorter but stable */
-object-position: 50% 40%;
-  }
-}
+
 
 
 
