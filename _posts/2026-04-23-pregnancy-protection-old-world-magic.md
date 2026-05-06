@@ -14,6 +14,12 @@ tags:
   - fertility folklore
   - rosemary folklore
   - ancestral witchcraft
+
+image_mobile: /assets/images/heroes/pregnancy-protection-old-world-magic/800x1000px-pregnant-woman-in-the-field.webp
+image_desktop_1280: /assets/images/heroes/pregnancy-protection-old-world-magic/1280x400px-pregnant-woman-in-the-field.webp
+image_alt: "elder tree flower close-up"
+teaser: /assets/images/heroes/pregnancy-protection-old-world-magic/800x1000px-pregnant-woman-in-the-field.webp
+
 faq:
   - question: "Why was pregnancy considered spiritually vulnerable in folklore?"
     answer: "Pregnancy was seen as a liminal state between worlds. A woman carrying new life was believed to be more exposed to envy, evil eye, wandering spirits, and household imbalance, so protection rituals were common across many cultures."
