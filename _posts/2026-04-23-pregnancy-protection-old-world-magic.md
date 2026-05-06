@@ -17,7 +17,7 @@ tags:
 
 image_mobile: /assets/images/heroes/pregnancy-protection-old-world-magic/800x1000px-pregnant-woman-in-the-field.webp
 image_desktop_1280: /assets/images/heroes/pregnancy-protection-old-world-magic/1280x400px-pregnant-woman-in-the-field.webp
-image_alt: "elder tree flower close-up"
+image_alt: "pregnant woman in white top standing in the field of wheat"
 teaser: /assets/images/heroes/pregnancy-protection-old-world-magic/800x1000px-pregnant-woman-in-the-field.webp
 
 faq:
