@@ -16,6 +16,7 @@ image_mobile: /assets/images/heroes/anxiety-herbal-tea-blend-recipe/800x1000px-l
 image_desktop_1280: /assets/images/heroes/anxiety-herbal-tea-blend-recipe/1280x400px-loose-dried-tea-leaves-tea-strainers-against-colored-background.webp
 image_alt: "loose dried herbal tea leaves and a tea strainer on blue background"
 teaser: /assets/images/heroes/anxiety-herbal-tea-blend-recipe/800x1000px-loose-dried-tea-leaves-tea-strainers-against-colored-background.webp
+featured: true
 
 excerpt: "An anxiety core formula tea recipe using calming herbs like lemon balm and chamomile. A grounded, effective way to ease tension and support the nervous system."
 
