@@ -14,7 +14,7 @@ tags:
   - badnjak tradition
 
 image_mobile: /assets/images/heroes/balkan-oak-tree-cult/800x1000px-oak-tree-leaves.webp
-image_desktop_1280: /assets/images/heroes/balkan-oak-tree-cult/1280x400px-oak-tree-leaves-close-up.webp
+image_desktop_1280: /assets/images/heroes/balkan-oak-tree-cult/1280x400px-oak-tree-leaves-blue-sky.webp
 image_alt: "oak tree leaves close-up"
 teaser: /assets/images/heroes/balkan-oak-tree-cult/800x1000px-oak-tree-leaves.webp
 
