@@ -10,6 +10,12 @@ share: true
 related: true
 layout: single
 
+image_mobile: /assets/images/heroes/world-magic-for-protection/800x1000px-sage-and-thyme-herbs.webp
+image_desktop_1280: /assets/images/heroes/world-magic-for-protection/1280x400px-sage-and-thyme-herbs.webp
+image_alt: "sage and thyme herbs"
+teaser: /assets/images/heroes/world-magic-for-protection/800x1000px-sage-and-thyme-herbs.webp
+featured: true
+
 faq:
   - question: "How did different cultures use herbs for protection?"
     answer: "Across cultures, herbs were used to guard against illness, spiritual intrusion, envy, and misfortune. Practices included burning herbs for smoke cleansing, hanging plants over doorways, bathing in herbal infusions, burying roots at thresholds, and carrying charms, with each tradition following its own ancestral logic."
