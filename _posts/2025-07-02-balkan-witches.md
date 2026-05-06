@@ -5,6 +5,12 @@ title: "Why Balkan Witches Survived: Magic Rooted in the People"
 categories: [folklore-ancestral]
 tags: [balkan witches, folk magic, artemisia, survival, rituals, history]
 
+image_mobile: /assets/images/heroes/balkan-witches/800x1000px-young-balkan-woman-in-the-field-in-sunlight-close-up.webp
+image_desktop_1280: /assets/images/heroes/balkan-witches/1280x400px-young-balkan-woman-in-the-field-in-sunlight.webp
+image_alt: "balkan young woman in a scarf"
+teaser: /assets/images/heroes/balkan-witches/800x1000px-young-balkan-woman-in-the-field-in-sunlight-close-up.webp
+featured: true
+
 description: "Why the witch hunts never fully took hold in the Balkans: a folklore-rich exploration of community magic, ancestral trust, and the everyday rituals that helped Balkan witches survive when others across Europe burned."
 excerpt: "Across Europe witches burned — but in the Balkans, they survived. This post explores the deep folklore, community service, and ancestral magic that protected Balkan witches from persecution."
 faq:
