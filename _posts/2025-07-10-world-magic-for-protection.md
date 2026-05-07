@@ -107,8 +107,6 @@ During Beltane, cattle were driven between ritual fires for blessing and defense
 
 Mugwort’s sacred status is also recorded in early Anglo-Saxon charm tradition, most notably in the **[Nine Herbs Charm: Healing Magic](/nine-herbs-charm-anglo-saxon/)**, a ritual text invoking nine protective plants through chant and preparation.
 
-Some protective plants were considered so dangerous or spiritually charged that they functioned more as living boundaries than usable herbs, especially around graves, thresholds, and forbidden places. This darker tradition survives in stories surrounding **[Toxic Boundary Plants and Poison Warding](/poison-as-protection/)**.
-
 ---
 
 ## 🜂 Nordic and Norse Witchcraft
@@ -187,7 +185,7 @@ Certain plants appear again and again across cultures, not because they were “
 
 These herbs appear repeatedly across continents, often fulfilling similar protective roles.
 
-Learn which **[Herbs Should Never Be Burned in Ritual](/never-burn-herbs/)** to avoid making dangerous mistakes. 
+Not all protective plants were carried or burned. Some were feared specifically because they remained rooted, toxic, and untouched at the edge of human spaces. Explore this tradition in **[Poison as Protection](/poison-as-protection/)**.
 
 ---
 
