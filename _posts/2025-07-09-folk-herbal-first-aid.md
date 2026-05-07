@@ -60,7 +60,7 @@ Called ‘soldier’s herb,’ it stopped bleeding in European battlefields and 
 That “weed” underfoot? Plantain pulls out dirt, venom, and infection. Chew it into a poultice or mash with a bit of water and press onto wounds. 
 Bonus: it soothes pain almost instantly.
 
-**Witch Tip:** Add a pinch of salt to plantain poultices for stronger drawing power — especially for splinters or infected cuts.
+**Witch Tip:** Add a pinch of salt to plantain poultices for stronger drawing power, especially for splinters or infected cuts.
 
 ---
 
