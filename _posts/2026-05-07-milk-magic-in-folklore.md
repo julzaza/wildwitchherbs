@@ -43,7 +43,7 @@ A goat that miscarried could ruin a household.
 
 And because survival depended on milk, people everywhere developed rituals around protecting it.
 
-Milk was treated almost like a living thing:
+**Milk was treated almost like a living thing:**
 fragile, blessed, vulnerable to envy, and deeply connected to fate.
 
 Across Europe, the Balkans, Central Asia, Africa, and parts of India, dairy traditions became woven into folk magic, household rites, and spiritual protection.
