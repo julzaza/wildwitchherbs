@@ -6,7 +6,7 @@ excerpt: "Long before sterile wipes and pharmacy shelves, healers, witches, and 
 permalink: /folk-herbal-first-aid/
 
 image_mobile: /assets/images/heroes/folk-herbal-first-aid/800x1000px-plantain-herb-flowers.webp
-image_desktop_1280: /assets/images/heroes/top-protective-herbs-witchcraft/1280x400px-flowering-basil-pastel-purples.webp
+image_desktop_1280: /assets/images/heroes/folk-herbal-first-aid/1280x400px-plantain-herb-flowers.webp
 image_alt: "plantain herb blooming"
 teaser: /assets/images/heroes/folk-herbal-first-aid/800x1000px-plantain-herb-flowers.webp
 
