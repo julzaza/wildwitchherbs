@@ -39,15 +39,15 @@ faq:
 
 ---
 
-Long before antiseptic wipes and factory-sealed pills, people turned to what they had: leaves, roots, resins, and instinct. **The original first responders were witches, midwives, and grandmothers** — women who knew what to rub on a sting, steep for a fever, or smear on a burn. 
+Long before antiseptic wipes and factory-sealed pills, people turned to what they had: leaves, roots, resins, and instinct. **The original first responders were witches, midwives, and grandmothers**. These women knew what to rub on a sting, steep for a fever, or smear on a burn. 
 
-Call it folk herbalism, witchcraft, or old country know-how — **these remedies were meant to work**. 
+Call it folk herbalism, witchcraft, or old country know-how, but **these remedies were meant to work**. 
 
 It was the kind of healing that smells, stains your fingers, and works better than you'd expect.
 
 **These treatments passed from grandmother to granddaughter.** Others came in dreams.
 
-This is your **folk herbal first aid guide** — time to take notes from witches and generational healers. 
+This is your **folk herbal first aid guide**, time to take notes from witches and generational healers. 
 
 ---
 
@@ -67,10 +67,10 @@ Bonus: it soothes pain almost instantly.
 ## For Bruises and Swelling
 
 ### Arnica (Arnica montana)  
-Used externally (never internally!), arnica reduces bruising, swelling, and sprains. Infuse it into oil and apply sparingly — it’s powerful.
+Used externally (never internally!), arnica reduces bruising, swelling, and sprains. Infuse it into oil and apply sparingly, it’s powerful.
 
 ### Comfrey (Symphytum officinale)  
-Known as “bone-knit,” comfrey accelerates healing for bruises and even broken bones — but don’t use on deep wounds. It seals skin fast and can trap infection.
+Known as “bone-knit,” comfrey accelerates healing for bruises and even broken bones, but don’t use on deep wounds. It seals skin fast and can trap infection.
 
 **Witch Tip:** Wrap comfrey poultices in flannel and chant the old rhyme: *“Comfrey bind, comfrey heal, bone and bruise to quickly seal.”*
 
@@ -79,7 +79,7 @@ Known as “bone-knit,” comfrey accelerates healing for bruises and even broke
 ## For Fevers
 
 ### Elderflower (Sambucus nigra)  
-Cooling, diaphoretic, and antiviral — elderflower helps “sweat out” a fever gently. Steep as a tea with peppermint or yarrow for stronger effect.
+Cooling, diaphoretic, and antiviral. Elderflower helps “sweat out” a fever gently. Steep as a tea with peppermint or yarrow for stronger effect.
 
 ### Linden (Tilia spp.)  
 Linden flower is calming, soothing, and safe for children. It lowers fever while relaxing the nerves and helping sleep.
@@ -107,7 +107,7 @@ A rare essential oil safe to apply directly (in tiny amounts). Soothes wasp stin
 
 ### Plantain (*Plantago major*) 
 
-Major star of this Folk First Aid Kit, plantain leaves are a classic folk remedy for burns. Crushed fresh and applied directly, they draw out heat and reduce swelling. This was often done on the spot — chewed into a poultice and slapped onto the skin. 
+Major star of this Folk First Aid Kit, plantain leaves are a classic folk remedy for burns. Crushed fresh and applied directly, they draw out heat and reduce swelling. This was often done on the spot: chewed into a poultice and slapped onto the skin. 
 
 If you're foraging or growing your own, this is one to always have on hand.
 
@@ -161,11 +161,11 @@ Check out **[How to Start a Real Witch’s Garden](/witch-garden/)** for plantin
 
 ## Herbal Allies For Emotional Support
 
-Physical wounds were rarely treated alone in folk traditions — many healers believed emotional shock, grief, and fear slowed recovery, which is why plants were also chosen for the heart and nerves, not just the skin. 
+Physical wounds were rarely treated alone in folk traditions. Many healers believed emotional shock, grief, and fear slowed recovery, which is why plants were also chosen for the heart and nerves, not just the skin. 
 
 If you want to explore herbs beneficial for the mind and spirit, see **[Herbs For Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**.
 
-If you’re dealing with immediate emotional overwhelm — shock, panic, or grief — herbal teas are not always the first line of support.
+If you’re dealing with immediate emotional overwhelm: shock, panic, or grief, herbal teas are not always the first line of support.
 
 In traditional practice, flowers were often used as subtle emotional first aid: **[Flower Essences for Emotional Shock & Healing](/flower-essences-for-emotional-healing/)**.
 
@@ -173,11 +173,11 @@ In traditional practice, flowers were often used as subtle emotional first aid: 
 
 ## Final Thoughts
 
-This is not a replacement for emergency care. It’s a revival of **what our ancestors did when there was no other option** — and what many still do today.
+This is not a replacement for emergency care. It’s a revival of **what our ancestors did when there was no other option**, and what many still do today.
 
 You don’t need white coats or clinic lights to start healing. You need dirt under your nails, a jar of dried yarrow, and a will to learn.
 
-Build your apothecary. Learn your plants. And remember — you come from a long line of witches who knew how to heal.
+Build your apothecary. Learn your plants. And remember: you come from a long line of witches who knew how to heal.
 
 **If these ancestral remedies speak to you, consider sharing them with fellow witches or bookmarking this guide for your own first aid apothecary.**
 
