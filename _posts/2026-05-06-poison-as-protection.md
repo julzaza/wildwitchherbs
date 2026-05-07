@@ -7,10 +7,10 @@ author: Wild Witch Herbs
 categories: [herbal-magic, folklore-ancestral]
 tags: [poison plant folklore, toxic plant magic, poisonous boundary plants, belladonna folklore, aconite folklore, foxglove folklore, yew symbolism, dark herbal folklore]
 
-image_mobile: /assets/images/heroes/top-protective-herbs-witchcraft/800x1000px-flowering-basil-pastel-purples.webp
-image_desktop_1280: /assets/images/heroes/top-protective-herbs-witchcraft/1280x400px-flowering-basil-pastel-purples.webp
-image_alt: "basil herb blooms on pastel background"
-teaser: /assets/images/heroes/top-protective-herbs-witchcraft/800x1000px-flowering-basil-pastel-purples.webp
+image_mobile: /assets/images/heroes/poison-as-protection/800x1000px-lilly-of-the-valley-plant.webp
+image_desktop_1280: /assets/images/heroes/poison-as-protection/1280x400px-lilly-of-the-valley-plant.webp
+image_alt: "lilly of the valley plants"
+teaser: /assets/images/heroes/poison-as-protection/800x1000px-lilly-of-the-valley-plant.webp
 
 faq:
   - question: "Were poisonous plants traditionally used in witchcraft protection?"
