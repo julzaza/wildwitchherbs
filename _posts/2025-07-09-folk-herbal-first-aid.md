@@ -4,6 +4,12 @@ title: "Folk Herbal First Aid: Remedies for Cuts, Fevers & Bruises"
 description: "A folklore-rich guide to traditional European herbal first aid. Learn old-world remedies for cuts, fevers, bruises, burns, and stings — based on historical practices used by healers, midwives, and country witches."
 excerpt: "Long before sterile wipes and pharmacy shelves, healers, witches, and grandmothers relied on yarrow, plantain, elderflower, arnica, and other folk plants for cuts, fevers, bruises, burns, and stings. This is your old-world first aid kit."
 permalink: /folk-herbal-first-aid/
+
+image_mobile: /assets/images/heroes/folk-herbal-first-aid/800x1000px-plantain-herb-flowers.webp
+image_desktop_1280: /assets/images/heroes/top-protective-herbs-witchcraft/1280x400px-flowering-basil-pastel-purples.webp
+image_alt: "plantain herb blooming"
+teaser: /assets/images/heroes/folk-herbal-first-aid/800x1000px-plantain-herb-flowers.webp
+
 author: "Wild Witch Herbs"
 related: true
 categories: [natural-healing]
