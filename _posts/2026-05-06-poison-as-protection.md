@@ -216,9 +216,9 @@ Because it was believed to:
 - prevent spirits from wandering  
 - create a boundary between worlds  
 
-Yew is not a charm.
+Yew is not a charm. It is a **gatekeeper**.
 
-It is a **gatekeeper**.
+In parts of Britain and Ireland, ancient yews were understood almost as territorial markers: places where ordinary behavior changed, voices lowered, and the boundary between human land and older forces became thin.
 
 ---
 
@@ -240,9 +240,9 @@ In Mediterranean folk practice, plants like spurge were:
 - avoided by livestock  
 - respected as natural deterrents  
 
-It was not symbolic.
+In some rural Mediterranean traditions, children were warned that the plant “punished wandering hands,” reinforcing its reputation as a living guardian rather than an ordinary weed.
 
-It was practical.
+It was not symbolic, but practical.
 
 A plant that harms on contact becomes a **living barrier**.
 
@@ -273,6 +273,8 @@ Their power was strongest when:
 Folk traditions understood something simple:
 
 *Some protections weaken when handled.*
+
+This differs sharply from traditional cleansing and carried protections, where herbs were actively burned, worn, prayed over, or buried as part of ritual work. See **[Herbal Protection and Boundary-Setting for the Home](/home-protection-herbal-rituals-guide/)**.
 
 These plants worked best when they remained:
 
@@ -366,6 +368,6 @@ From bitterness.
 From warning.  
 From the quiet understanding that not everything beautiful is safe to touch.
 
-And sometimes, the strongest boundary is not the one you build—
+And sometimes, the strongest boundary is not the one you build,
 
-but the one no one dares to cross.
+but the one the old world already marked long before you arrived..
