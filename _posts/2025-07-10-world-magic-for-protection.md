@@ -52,6 +52,18 @@ Many of these traditions were rooted in a deeper belief: that plants didn’t ju
 
 ---
 
+## 🜂 Appalachian Folk Magic
+
+Rootworkers and “granny witches” of the Appalachians blended Christian faith with deep plant knowledge.
+
+- **Sage and Salt**: Used in purification rituals.
+- **Angelica**: Grown near homes to ward off harm.
+- **Devil’s Shoe String (Viburnum)**: Carried for protection from lawmen and evil spirits.
+
+**Rituals**: Psalms were read aloud while preparing herbal baths for protection or reversal work.
+
+---
+
 ## 🜂 Slavic Witchcraft
 
 In Slavic folk magic, herbs were powerful tools to fight **"zli dukh" (evil spirits)** and **"urok" (the evil eye)**.
@@ -118,18 +130,6 @@ Romani magic is rich with herbal knowledge, passed orally through generations.
 - **Laurel Leaves**: Carried in pockets or sewn into clothes for good luck and defense.
 
 **Rituals**: Protective charms called “drabarné” often combined herbs, thread, and metal for layered shielding.
-
----
-
-## 🜂 Appalachian Folk Magic
-
-Rootworkers and “granny witches” of the Appalachians blended Christian faith with deep plant knowledge.
-
-- **Sage and Salt**: Used in purification rituals.
-- **Angelica**: Grown near homes to ward off harm.
-- **Devil’s Shoe String (Viburnum)**: Carried for protection from lawmen and evil spirits.
-
-**Rituals**: Psalms were read aloud while preparing herbal baths for protection or reversal work.
 
 ---
 
