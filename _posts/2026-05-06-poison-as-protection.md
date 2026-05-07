@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Poison as Protection: The Darker Side of Herbal Warding"
-excerpt: "Not all protection is gentle. Across folklore, certain poisonous plants were left at thresholds, planted near homes, or feared into obedience—warding through danger, toxicity, and the threat of crossing a line."
+excerpt: "Not all protection is gentle. Across folklore, certain poisonous plants were left at thresholds, planted near homes, or feared into obedience, warding through danger, toxicity, and the threat of crossing a line."
 description: "A folklore-rich exploration of toxic plants associated with boundaries, taboo landscapes, spiritual danger, and passive warding in folklore. From belladonna and monkshood to foxglove and lily of the valley, this guide examines how toxicity, fear, and taboo shaped herbal warding traditions."
 author: Wild Witch Herbs
 categories: [herbal-magic, folklore-ancestral]
@@ -52,7 +52,7 @@ At the edge of the garden.
 Near the gate.  
 Beside the grave.  
 
-Not to be used—but to be **felt**.
+Not to be used, but to be **felt**.
 
 Their power came from a simple, dangerous truth:
 
@@ -132,7 +132,7 @@ In some European traditions, monkshood was:
 - associated with protection against werewolves and shapeshifters  
 - believed to repel what was “not fully human”  
 
-In Himalayan and Chinese traditions, heavily processed aconite appeared in medicine—but raw, it was feared as a plant that could:
+In Himalayan and Chinese traditions, heavily processed aconite appeared in medicine. But raw, it was feared as a plant that could:
 
 - stop the heart  
 - disrupt the spirit  
