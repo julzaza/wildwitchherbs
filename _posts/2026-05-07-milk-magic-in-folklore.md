@@ -5,7 +5,7 @@ title: "Milk Magic in Folklore: Protection, Fertility, Spirits & the Sacred Whit
 excerpt: "Across Europe, the Balkans, Africa, and Asia, milk was never just food. It fed spirits, sealed blessings, protected livestock, nourished the dead, and carried the fragile boundary between abundance and misfortune."
 description: "A folklore-rich exploration of milk magic across traditional cultures: protection rituals, fairy offerings, fertility customs, witchcraft fears, livestock blessings, and sacred dairy traditions from Europe, the Balkans, and beyond."
 author: Wild Witch Herbs
-categories: [folklore-ancestral, herbal-magic]
+categories: [folklore-ancestral]
 tags: [milk magic, folklore milk rituals, dairy folklore, witchcraft milk traditions, fairy offerings, livestock protection folklore, sacred food traditions, folk magic milk]
 
 faq:
