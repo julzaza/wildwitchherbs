@@ -83,7 +83,7 @@ This charm was traditionally spoken while rubbing garlic on doors, thresholds, o
 
 **The witch’s cross, the herb of grace.**
 
-Rue is a plant of contradictions—sacred yet dangerous, healing yet sharp. 
+Rue is a plant of contradictions: sacred yet dangerous, healing yet sharp. 
 
 Known as the herb of grace in Italian *Stregheria* and Balkan village magic, **rue is burned to clear curses and worn to deflect envy and psychic attacks**. 
 
@@ -140,14 +140,14 @@ Eastern European witches and healers treat it with reverence, using it to sever 
 
 Unlike mugwort’s gentle guidance, sweet wormwood cuts deep—cleansing, sealing, and purging harmful energies. 
 
-Balkan midwives once burned it during birth and burial rites, times when the veil between worlds thins. This herb does not simply protect—it purges and renews.
+Balkan midwives once burned it during birth and burial rites, times when the veil between worlds thins. This herb does not simply protect, it purges and renews.
 
 ---
 
 ### Hyssop (*Hyssopus officinalis*)  
 **Herb of sanctification and soul-purging.**
 
-“Purge me with hyssop, and I shall be clean,” says the Psalm—and witches agree. Used from ancient Israel to New Orleans Hoodoo, hyssop is the **sacred herb of spiritual purification**.
+“Purge me with hyssop, and I shall be clean,” says the Psalm, and witches agree. Used from ancient Israel to New Orleans Hoodoo, hyssop is the **sacred herb of spiritual purification**.
 
 In the Levant and parts of Eastern Europe, hyssop is gathered on holy days, burned or added to sacred oils, and used to drive off malevolent forces. 
 
@@ -272,7 +272,7 @@ A: Not always. Many herbs were traditionally hung, carried, planted, or placed w
 ### Safety, Use, and Combining Herbs
 
 **Q: Are protective herbs safe to use today?**  
-A: Most are safe when used traditionally—hung in the home, carried as charms, or burned carefully. Some herbs are toxic if ingested or dangerous when burned improperly and should always be researched before use.
+A: Most are safe when used traditionally: hung in the home, carried as charms, or burned carefully. Some herbs are toxic if ingested or dangerous when burned improperly and should always be researched before use. Some traditions even viewed poisonous plants themselves as territorial guardians rather than usable herbs. Explore this darker folklore in **[Poison as Protection: Toxic Boundary Plants](/poison-as-protection/)**.
 
 **Q: Are there herbs that should never be burned or ingested?**  
 A: Yes. Certain plants are physically toxic, culturally restricted, or ritually volatile when burned or consumed. These should be avoided or used only through non-fire methods, following traditional practices. See: **[Avoid Burning These Herbs in Ritual](/never-burn-herbs/)** to find out why certain plants should never touch the flame. 
