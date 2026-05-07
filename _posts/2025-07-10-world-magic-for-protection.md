@@ -89,10 +89,12 @@ Druidic and folk traditions across Ireland, Scotland, and Wales treated protecti
 - **Rowan Tree (Mountain Ash)**: Its red berries and five-pointed leaves considered protective against fae and witchcraft.
 - **Elder Tree**: Said to house spirits; branches were never cut without permission, and offerings were made for protection.
 
-**Rituals**: Crosses made of rowan and red thread were placed above doors and cradles.
+**Rituals**: Crosses made of rowan and red thread were placed above doors and cradles, especially during Samhain and Beltane, when the veil between worlds was believed to thin. In Irish and Highland traditions, iron, red thread, and protective greenery were placed near infants to prevent interference from the Good Folk or wandering spirits.
+
+During Beltane, cattle were driven between ritual fires for blessing and defense against illness and harmful forces, while homes were decorated with protective plants gathered at midsummer to reinforce the household against misfortune.
 
 Mugwort’s sacred status is also recorded in early Anglo-Saxon charm tradition, most notably in the **[Nine Herbs Charm: Healing Magic](/nine-herbs-charm-anglo-saxon/)**, a ritual text invoking nine protective plants through chant and preparation.
- 
+
 ---
 
 ## 🜂 Nordic and Norse Witchcraft
