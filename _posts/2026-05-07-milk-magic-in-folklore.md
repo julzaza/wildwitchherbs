@@ -8,6 +8,12 @@ author: Wild Witch Herbs
 categories: [folklore-ancestral]
 tags: [milk magic, folklore milk rituals, dairy folklore, witchcraft milk traditions, fairy offerings, livestock protection folklore, sacred food traditions, folk magic milk]
 
+image_mobile: /assets/images/heroes/milk-magic-in-folklore/800x1000px-glass-of-milk-with-yarrow-flower.webp
+image_desktop_1280: /assets/images/heroes/milk-magic-in-folklore/1280x400px-glass-of-milk-with-yarrow-flower.webp
+image_alt: "top view glass with milk with floating yarrow flower"
+teaser: /assets/images/heroes/milk-magic-in-folklore/800x1000px-glass-of-milk-with-yarrow-flower.webp
+featured: true
+
 faq:
   - question: "Why was milk considered magical in folklore?"
     answer: "Milk represented life, fertility, nourishment, wealth, motherhood, and survival. Because it spoiled easily and depended on healthy animals, many cultures treated it as spiritually vulnerable and ritually important."
