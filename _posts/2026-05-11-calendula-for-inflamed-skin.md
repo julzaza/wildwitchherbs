@@ -97,7 +97,7 @@ In traditional herbal systems, inflamed skin was often associated with:
 
 Calendula became associated with restoring movement and healthy recovery to damaged skin rather than aggressively stripping or drying it.
 
-Unlike cooler spring herbs such as [violet leaf](/violet-leaf-for-cooling-lymph-and-skin/), calendula was traditionally viewed as slightly warming while still soothing irritated tissues.
+Unlike cooler spring herbs such as **[violet leaf](/violet-leaf-for-cooling-lymph-and-skin/)**, calendula was traditionally viewed as slightly warming while still soothing irritated tissues.
 
 That balanced reputation helped calendula remain one of the most widely kept household herbs in folk traditions across Europe.
 
