@@ -157,7 +157,7 @@ A very classic “clear skin trio” in traditional folk herbalism, where each d
 People also historically added supporting herbs depending on the type of skin irritation involved:
 - **[Calendula](/calendula-for-inflamed-skin/)** for red inflamed skin
 - **[Dandelion Root](/dandelion-root-for-breakouts/)** for sluggish digestion and oily congestion
-- **[Violet Leaf](/violet-leaf-cooling-lymph-and-skin/)** for hot irritated skin and swollen lymph
+- **[Violet Leaf](/violet-leaf-for-cooling-lymph-and-skin/)** for hot irritated skin and swollen lymph
 - **[Chickweed](/chickweed-water-for-healthy-skin/)** as a gentle cooling spring herb
 
 One thing old herbalists noticed: fresh spring herbs often work better for skin than dried ones, especially cleavers, chickweed, violet, and nettle. 
