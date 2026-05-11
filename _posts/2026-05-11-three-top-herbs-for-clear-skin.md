@@ -155,11 +155,11 @@ A very classic “clear skin trio” in traditional folk herbalism, where each d
 - Nettle → nourishment + inflammation
 - Burdock → deeper detox/metabolic skin support
 
-People also historically added:
-- Calendula for inflamed skin
-- Dandelion Root for liver-related breakouts
-- Violet Leaf for hot irritated acne and swollen lymph
-- Chickweed as another cooling spring skin herb
+People also historically added supporting herbs depending on the type of skin irritation involved:
+- **[Calendula](/calendula-for-inflamed-skin/)** for red inflamed skin
+- **[Dandelion Root](/dandelion-root-for-breakouts/)** for sluggish digestion and oily congestion
+- **[Violet Leaf](/violet-leaf-cooling-lymph-and-skin/)** for hot irritated skin and swollen lymph
+- **[Chickweed](/chickweed-water-for-healthy-skin/)** as a gentle cooling spring herb
 
 One thing old herbalists noticed: fresh spring herbs often work better for skin than dried ones, especially cleavers, chickweed, violet, and nettle. 
 
