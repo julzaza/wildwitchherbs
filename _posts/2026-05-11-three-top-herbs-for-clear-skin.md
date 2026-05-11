@@ -40,9 +40,9 @@ There are certain herbs that show up again and again in old folk herbalism whene
 
 Across European herbal traditions, village remedies, and older “blood-cleansing” systems of herbal medicine, three plants became especially respected for skin support:
 
-Cleavers *(Galium aparine)*
-Nettle *(Urtica dioica)*
-Burdock Root *(Arctium lappa)*
+- **Cleavers** *(Galium aparine)*
+- **Nettle** *(Urtica dioica)*
+- **Burdock Root** *(Arctium lappa)*
 
 Each works differently. One cools and drains. One nourishes and rebuilds. One works slowly and deeply over time.
 
