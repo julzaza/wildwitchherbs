@@ -35,9 +35,9 @@ faq:
 
 Some herbs earned their reputation quietly through kitchens, gardens, and household remedies rather than through dramatic medicine.
 
-Calendula was one of them.
+Bright orange and gold flowers appeared again and again in old village herbal traditions, especially where skin was damaged, inflamed, raw, or slow to heal. 
 
-Bright orange and gold flowers appeared again and again in old village herbal traditions, especially where skin was damaged, inflamed, raw, or slow to heal. In many households, calendula became one of the first herbs reached for when skin looked angry or distressed.
+In many households, calendula became one of the first herbs reached for when skin looked angry or distressed.
 
 ## Calendula (Calendula officinalis)
 
@@ -50,7 +50,9 @@ Why people used it:
 
 Unlike harsher cleansing herbs, calendula developed a reputation for supporting recovery gently over time.
 
-In some European folk traditions, calendula flowers were also hung near doors or scattered around homes for protection, health, and good fortune. Their bright color became symbolically associated with warmth, vitality, and the return of sunlight after winter.
+In some European folk traditions, calendula flowers were also hung near doors or scattered around homes for protection, health, and good fortune. 
+
+Their bright color became symbolically associated with warmth, vitality, and the return of sunlight after winter.
 
 ---
 
@@ -94,6 +96,8 @@ In traditional herbal systems, inflamed skin was often associated with:
 - trapped heat in tissues
 
 Calendula became associated with restoring movement and healthy recovery to damaged skin rather than aggressively stripping or drying it.
+
+Unlike cooler spring herbs such as [violet leaf](/violet-leaf-for-cooling-lymph-and-skin/), calendula was traditionally viewed as slightly warming while still soothing irritated tissues.
 
 That balanced reputation helped calendula remain one of the most widely kept household herbs in folk traditions across Europe.
 
