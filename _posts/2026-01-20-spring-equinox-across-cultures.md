@@ -93,7 +93,7 @@ Ethnographic records describe:
 
 The land was believed to be **listening**. Premature joy or demand risked withdrawing its cooperation for the entire growing season.
 
-This connects to broader Balkan traditions where trees, stones, and household spirits governed seasonal safety—practices explored in **[Balkan Spring Herbal Rites](/balkan-spring-herbal-rites/)**.
+This connects to broader Balkan traditions where trees, stones, and household spirits governed seasonal safety. These practices are explored in **[Balkan Spring Herbal Rites](/balkan-spring-herbal-rites/)**.
 
 ---
 
@@ -107,7 +107,7 @@ Traditional practices include:
 - fire and water honored as purifying forces
 - ancestral graves visited before any festivity
 
-The equinox here represents **cosmic reset**—human order realigning with universal balance through deliberate, structured action.
+The equinox here represents **cosmic reset**: human order realigning with universal balance through deliberate, structured action.
 
 ---
 
@@ -118,7 +118,7 @@ In Japan, **Shunbun no Hi** became a time to:
 - restore household harmony
 - avoid exposure to "spring wind" believed to carry illness
 
-Chinese tradition aligned agricultural timing with cosmic balance rather than celebration—planting only when calendrical permission allowed, not when weather seemed ready.
+Chinese tradition aligned agricultural timing with cosmic balance rather than celebration: planting only when calendrical permission allowed, not when weather seemed ready.
 
 ---
 
@@ -131,7 +131,7 @@ Practices included:
 - soil appeasement with grain, milk, or blood
 - fertility offerings to earth spirits
 
-Rather than marking light/dark balance, these traditions focused on **negotiation**—ensuring the land's cooperation before breaking ground.
+Rather than marking light/dark balance, these traditions focused on **negotiation**, ensuring the land's cooperation before breaking ground.
 
 ---
 
@@ -211,9 +211,9 @@ No reconstruction required. Simple actions align with ancestral logic:
 
 1. **Clean** your space physically—remove winter debris, dust, stagnation
 2. **Offer** something to land or ancestors—bread, water, silence
-3. **Set intention for balance**, not abundance—what needs stabilizing?
+3. **Set intention for balance**, not abundance, but what needs stabilizing
 4. **Move slowly** into growth—what can wait?
-5. **Protect thresholds**—doors, windows, boundaries between inside and out
+5. **Protect thresholds**: doors, windows, boundaries between inside and out
 
 No invocation. No spectacle. Just recognition that balance is temporary and requires attention.
 
