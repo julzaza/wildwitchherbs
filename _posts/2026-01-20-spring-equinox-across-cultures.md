@@ -32,7 +32,7 @@ faq:
     answer: "Clean your space, make a simple offering to land or ancestors, set an intention for balance rather than abundance, and move slowly into growth."
 
   - question: "Were there rules for gathering plants at the equinox?"
-    answer: "Yes. Early spring plants were considered potent and unstable. Foraging required ritual awareness, offerings, and careful preparation. See Spring Equinox Foraging: Folklore of Early Plants."
+    answer: "Yes. Early spring plants were considered potent and unstable. Foraging required ritual awareness, offerings, and careful preparation."
 ---
 
 ## The Dangerous Balance
@@ -242,4 +242,7 @@ Yes, but forms varied: architecture in Mesoamerica, water rites in Celtic lands,
 Ostara as named festival is modern. Traditional rites prioritized land safety and communal survival over personal growth or fertility symbolism.
 
 **Can I adapt these practices?**
-Yes—with restraint, locality, and respect for the underlying logic of protection-before-celebration.
+Yes, with restraint. Locality and respect for the underlying logic of protection-before-celebration.
+
+**Were there rules for gathering plants at the equinox?**  
+Yes, early spring plants were historically viewed as both potent and unpredictable. Foraging them required respectful rituals, offerings, and careful preparation. For more details, see **[Spring Equinox Foraging of Early Plants](/spring-equinox-foraging-folklore/)**.
