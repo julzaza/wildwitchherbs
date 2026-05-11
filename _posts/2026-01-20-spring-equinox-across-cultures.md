@@ -39,7 +39,7 @@ faq:
 
 The Spring Equinox has always been misunderstood.
 
-Across cultures, it was **not** a festival of joy, fertility, or personal growth. It was a moment of **unstable equilibrium**—when light and dark stood equal, and neither could be trusted to hold.
+Across cultures, it was **not** a festival of joy, fertility, or personal growth. It was a moment of **unstable equilibrium**, when light and dark stood equal, and neither could be trusted to hold.
 
 In folk belief, balance was not a blessing. It was a **threshold condition** requiring management. When day equaled night, boundaries weakened:
 - spirits moved more freely
@@ -49,7 +49,7 @@ In folk belief, balance was not a blessing. It was a **threshold condition** req
 
 People did not welcome spring. They **secured it**.
 
-This global pattern—protection before celebration, restraint before abundance—appears from Persia to the Balkans, from Japan to Mesoamerica. Not coincidence. Agricultural reality meeting spiritual interpretation.
+This global pattern—protection before celebration, restraint before abundance appears from Persia to the Balkans, from Japan to Mesoamerica. Not coincidence. Agricultural reality meeting spiritual interpretation.
 
 ---
 
@@ -124,7 +124,7 @@ Chinese tradition aligned agricultural timing with cosmic balance rather than ce
 
 ### Africa and North Africa: Agricultural Thresholds
 
-In North and Sub-Saharan Africa, equinox rites marked **permission**—the land allowing cultivation to begin.
+In North and Sub-Saharan Africa, equinox rites marked **permission**, the time when the land allowed cultivation to begin.
 
 Practices included:
 - rain invocation through offering
@@ -139,7 +139,7 @@ Rather than marking light/dark balance, these traditions focused on **negotiatio
 
 Mesoamerican cultures marked equinoxes through **architectural alignment**, not festival.
 
-At Chichén Itzá, light and shadow created serpent imagery on temple steps—**calendrical commands** signaling agricultural readiness and divine order.
+At Chichén Itzá, light and shadow created serpent imagery on temple steps: **calendrical commands** signaling agricultural readiness and divine order.
 
 These were not spectacles. They were **functional tools** for timing survival activities.
 
