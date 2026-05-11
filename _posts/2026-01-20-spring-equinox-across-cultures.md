@@ -49,7 +49,7 @@ In folk belief, balance was not a blessing. It was a **threshold condition** req
 
 People did not welcome spring. They **secured it**.
 
-This global pattern—protection before celebration, restraint before abundance appears from Persia to the Balkans, from Japan to Mesoamerica. Not coincidence. Agricultural reality meeting spiritual interpretation.
+This global pattern: protection before celebration, restraint before abundance appears from Persia to the Balkans, from Japan to Mesoamerica. Not coincidence. Agricultural reality meeting spiritual interpretation.
 
 ---
 
