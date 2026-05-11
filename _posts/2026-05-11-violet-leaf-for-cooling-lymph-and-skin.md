@@ -15,7 +15,7 @@ tags:
   - herbalism
 
 image_mobile: /assets/images/heroes/violet-leaf-for-cooling-lymph-and-skin/800x1000px-violet-flowers-top-view.webp
-image_desktop_1280: /assets/images/heroes/violet-leaf-for-cooling-lymph-and-skin/1280x400px-violet-flowers-top-view.webp
+image_desktop_1280: /assets/images/heroes/violet-leaf-for-cooling-lymph-and-skin/1280x400px-violet-flowers.webp
 image_alt: "violet flowers and leaves top view"
 teaser: /assets/images/heroes/violet-leaf-for-cooling-lymph-and-skin/800x1000px-violet-flowers-top-view.webp
 
