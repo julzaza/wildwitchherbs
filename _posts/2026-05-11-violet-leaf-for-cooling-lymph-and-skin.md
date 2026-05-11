@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Violet Leaf in Folk Herbalism: Cooling the Heat of Skin & Lymph"
+title: "Violet Leaf: Cooling the Heat of Skin & Lymph"
 
 excerpt: "Violet leaf was traditionally used in folk herbalism for hot, inflamed skin, swollen lymph, and internal heat associated with spring stagnation."
 description: "A concise folklore-rich guide to violet leaf in traditional herbalism, including skin uses, lymphatic folklore, cooling preparations, and historical folk remedies."
