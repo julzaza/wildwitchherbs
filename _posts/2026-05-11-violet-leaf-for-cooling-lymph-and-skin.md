@@ -44,10 +44,10 @@ Why people used it:
 Unlike stronger bitter herbs, violet leaf was considered gentle.
 
 In old folk herbalism, it was commonly paired with:
-- cleavers
-- chickweed
+- **[cleavers](/three-top-herbs-for-clear-skin/)**
+- **[chickweed](/chickweed-water-for-healthy-skin/)**
 - nettle
-- calendula
+- **[calendula](/calendula-for-inflamed-skin/)**
 
 ---
 
