@@ -16,8 +16,8 @@ tags:
   - folk religion
   - ancestral witchcraft
   - land blessings
-excerpt: "The Spring Equinox was never a celebration. Across cultures, it marked dangerous balance—when day equaled night, boundaries thinned, and survival required ritual protection, not joy."
-description: "A global exploration of Spring Equinox folklore and protective rituals across Europe, the Balkans, Asia, Africa, and the Americas—rooted in ancestral land practices and agricultural necessity."
+excerpt: "The Spring Equinox was never a celebration. Across cultures, it marked dangerous balance: when day equaled night, boundaries thinned, and survival required ritual protection, not joy."
+description: "A global exploration of Spring Equinox folklore and protective rituals across Europe, the Balkans, Asia, Africa, and the Americas rooted in ancestral land practices and agricultural necessity."
 faq:
   - question: "Was the Spring Equinox historically a celebration?"
     answer: "Rarely. Most cultures approached it cautiously, performing protective rites to secure balance before any celebration of growth."
@@ -177,12 +177,12 @@ Household-specific rituals are explored deeper in **[House Spring Cleaning: Rule
 
 Early spring plants required the same protective logic.
 
-Nettle, sorrel, dandelion, young dock—these were **not** gathered freely. They were approached as threshold beings: half-winter, half-alive, carrying medicine and risk together.
+Nettle, sorrel, dandelion, young dock were **not** gathered freely. They were approached as threshold beings: half-winter, half-alive, carrying medicine and risk together.
 
 Traditional rules included:
 - gathering at dawn, often in silence
 - leaving offerings of water, cornmeal, or tobacco
-- boiling or fermenting—rarely eating raw
+- boiling or fermenting, rarely eating raw
 - taking less than wanted, preparing gently
 
 This practical restraint mirrored the broader equinox attitude: **the land is awake, but not yet generous**.
@@ -242,7 +242,7 @@ Yes, but forms varied: architecture in Mesoamerica, water rites in Celtic lands,
 Ostara as named festival is modern. Traditional rites prioritized land safety and communal survival over personal growth or fertility symbolism.
 
 **Can I adapt these practices?**
-Yes, with restraint. Locality and respect for the underlying logic of protection-before-celebration.
+Yes, with restraint. Locality and respect for the underlying logic of protection before celebration.
 
 **Were there rules for gathering plants at the equinox?**  
 Yes, early spring plants were historically viewed as both potent and unpredictable. Foraging them required respectful rituals, offerings, and careful preparation. For more details, see **[Spring Equinox Foraging of Early Plants](/spring-equinox-foraging-folklore/)**.
