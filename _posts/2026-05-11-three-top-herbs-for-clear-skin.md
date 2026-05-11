@@ -215,4 +215,4 @@ Many traditional herbalists believed fresh spring herbs like cleavers, chickweed
 
 The old folk herbalists rarely searched for a single miracle cure. More often, they worked slowly with nourishing spring plants, bitter roots, cooling greens, and daily habits repeated over weeks rather than days.
 
-Cleavers, nettle, and burdock root became classics not because they worked overnight, but because generations kept returning to them.
+Cleavers, nettle, and burdock root became classics because generations kept returning to them over and over.
