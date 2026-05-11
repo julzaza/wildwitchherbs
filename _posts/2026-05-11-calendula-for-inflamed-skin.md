@@ -116,6 +116,8 @@ People used it in:
 
 Its popularity came partly from effectiveness and partly from availability. Calendula grows easily, flowers heavily, and stores well when dried.
 
+Calendula was often included as a supporting herb in broader household skin remedies involving **[cooling cleavers, burdock root, and nourishing nettle](/three-top-herbs-for-clear-skin/)**.
+
 ---
 
 ## FAQ
@@ -138,6 +140,6 @@ Traditional herbalists generally viewed calendula as gently warming yet soothing
 
 ---
 
-Calendula never belonged only to professional herbalists. It belonged to gardens, windowsills, village healers, and households where simple remedies were used again and again across generations.
+Calendula never belonged only to professional herbalists, but gardens, windowsills, village healers, and households, where simple remedies were used again and again across generations.
 
 That long domestic history is part of why the flower still survives in modern herbalism today.
