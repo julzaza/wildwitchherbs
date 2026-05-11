@@ -19,6 +19,7 @@ image_mobile: /assets/images/heroes/three-top-herbs-for-clear-skin/800x1000px-cl
 image_desktop_1280: /assets/images/heroes/three-top-herbs-for-clear-skin/1280x400px-cleavers-herb-against-stone-wall.webp
 image_alt: "Cleavers herb agains grey stone wall"
 teaser: /assets/images/heroes/three-top-herbs-for-clear-skin/800x1000px-cleavers-herb-against-stone-wall.webp
+featured: true
 
 faq:
   - question: "What are the best herbs for clear skin?"
