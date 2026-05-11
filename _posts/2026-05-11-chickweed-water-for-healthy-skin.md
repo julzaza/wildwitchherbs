@@ -97,6 +97,8 @@ It was often viewed as a gentle balancing herb rather than an aggressive cleansi
 
 Because chickweed appears during cool wet months, it became symbolically linked with renewal, softness, and relief after the heaviness of winter.
 
+Chickweed later became one of several classic supporting herbs used alongside broader traditional skin remedies involving **[cleavers, nettle, and burdock root](/three-top-herbs-for-clear-skin/)**.
+
 ---
 
 ## Traditional External Uses
