@@ -10,6 +10,8 @@ tags: [witchy herbs, indoor plants, magical gardening, houseplants, witchcraft, 
 image_mobile: /assets/images/heroes/witchy-plants-to-grow-indoors/800x1000px-plants-in-pots.webp
 image_desktop_1280: /assets/images/heroes/witchy-plants-to-grow-indoors/1280x400px-plants-in-pots.webp
 image_alt: "house plants in colorful pots"
+teaser: /assets/images/heroes/witchy-plants-to-grow-indoors/800x1000px-plants-in-pots.webp
+featured: true
 
 faq:
   - question: "Which indoor plants are best for witchcraft and magic?"
