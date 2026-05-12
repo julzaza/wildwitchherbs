@@ -50,7 +50,7 @@ Why people used it:
 - Considered cooling, moistening, and soothing
 - Often used when skin felt red, reactive, or overheated
 
-In old herbalism, folks commonly paired it with for stronger cleansing spring mixtures:
+In old herbalism, for stronger cleansing spring mixtures, folks commonly paired it with:
 - **[cleavers & nettle](/three-top-herbs-for-clear-skin/)**
 - **[chickweed](/chickweed-water-for-healthy-skin/)**
 - **[calendula](/calendula-for-inflamed-skin/)**
