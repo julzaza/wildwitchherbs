@@ -33,8 +33,6 @@ faq:
     answer: "Traditional herbalists generally viewed calendula as gently warming yet soothing, especially for stagnant or irritated skin conditions."
 ---
 
-Some herbs earned their reputation quietly through kitchens, gardens, and household remedies rather than through dramatic medicine.
-
 Bright orange and gold flowers appeared again and again in old village herbal traditions, especially where skin was damaged, inflamed, raw, or slow to heal. 
 
 In many households, calendula became one of the first herbs reached for when skin looked angry or distressed.
