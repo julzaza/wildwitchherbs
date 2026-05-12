@@ -50,8 +50,6 @@ Why people used it:
 - Considered cooling, moistening, and soothing
 - Often used when skin felt red, reactive, or overheated
 
-Unlike stronger bitter herbs, violet leaf was considered gentle.
-
 In old folk herbalism, it was commonly paired with:
 - **[cleavers & nettle](/three-top-herbs-for-clear-skin/)**
 - **[chickweed](/chickweed-water-for-healthy-skin/)**
