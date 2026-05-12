@@ -18,7 +18,7 @@ image_mobile: /assets/images/heroes/violet-leaf-for-cooling-lymph-and-skin/800x1
 image_desktop_1280: /assets/images/heroes/violet-leaf-for-cooling-lymph-and-skin/1280x400px-violet-flowers.webp
 image_alt: "violet flowers and leaves top view"
 teaser: /assets/images/heroes/violet-leaf-for-cooling-lymph-and-skin/800x1000px-violet-flowers-top-view.webp
-hero_overlay_opacity: 0.3
+hero_overlay_opacity: 0.5
 
 faq:
   - question: "What was violet leaf traditionally used for?"
