@@ -50,7 +50,7 @@ Why people used it:
 - Considered cooling, moistening, and soothing
 - Often used when skin felt red, reactive, or overheated
 
-In old folk herbalism, it was commonly paired with:
+In old herbalism, folks commonly paired it with for stronger cleansing spring mixtures:
 - **[cleavers & nettle](/three-top-herbs-for-clear-skin/)**
 - **[chickweed](/chickweed-water-for-healthy-skin/)**
 - **[calendula](/calendula-for-inflamed-skin/)**
@@ -68,13 +68,11 @@ Traditional methods included:
 - poultices
 - cooling skin washes
 
-Best methods:
+### Best methods:
 
 - Cold-infuse fresh leaves overnight in cool water
-- Blend fresh leaves with water and strain
+- Or blend fresh leaves with water and strain
 - Apply cooled infusion externally as a skin wash
-
-Many people mixed violet leaf with cleavers or chickweed for stronger cleansing spring mixtures.
 
 ---
 
