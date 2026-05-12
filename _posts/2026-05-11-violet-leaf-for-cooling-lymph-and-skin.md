@@ -14,10 +14,10 @@ tags:
   - cooling-herbs
   - herbalism
 
-image_mobile: /assets/images/heroes/violet-leaf-for-cooling-lymph-and-skin/800x1000px-violets.webp
-image_desktop_1280: /assets/images/heroes/violet-leaf-for-cooling-lymph-and-skin/1280x400px-violets.webp
-image_alt: "violet flowers and leaves top view"
-teaser: /assets/images/heroes/violet-leaf-for-cooling-lymph-and-skin/800x1000px-violets.webp
+image_mobile: /assets/images/heroes/violet-leaf-for-cooling-lymph-and-skin/800x1000px-violet-flowers-in-the-woods.webp
+image_desktop_1280: /assets/images/heroes/violet-leaf-for-cooling-lymph-and-skin/1280x400px-violet-flowers-in-the-woods.webp
+image_alt: "violet flowers in the woods"
+teaser: /assets/images/heroes/violet-leaf-for-cooling-lymph-and-skin/800x1000px-violet-flowers-in-the-woods.webp
 
 faq:
   - question: "What was violet leaf traditionally used for?"
