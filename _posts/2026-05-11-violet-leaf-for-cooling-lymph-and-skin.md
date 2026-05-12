@@ -33,11 +33,11 @@ faq:
     answer: "Traditional herbalists often paired violet leaf with other cooling spring herbs like cleavers and chickweed."
 ---
 
-Violet was never considered a dramatic herb. In old folk herbalism, it belonged to the quieter remedies. 
-
-It was **gathered in spring** for overheated skin, swollen glands, irritation, and the **heavy stagnant feeling that winter left behind**.
+Violet was never considered a dramatic herb. In old folk herbalism, **it belonged to the quieter remedies**. 
 
 While stronger herbs were used to purge or stimulate, violet leaf was associated with cooling, softening, and gentle movement.
+
+It was **gathered in spring** for overheated skin, swollen glands, irritation, and the **heavy stagnant feeling that winter left behind**.
 
 ---
 
