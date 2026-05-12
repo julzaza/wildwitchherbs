@@ -33,13 +33,13 @@ faq:
     answer: "Yes. Dandelion became strongly associated with spring cleansing traditions after long winters of heavy food and limited fresh greens."
 ---
 
-Long before dandelions became lawn weeds, they were gathered as spring food and household medicine across much of Europe.
+Long before dandelions became lawn weeds, they were **gathered as spring food and household medicine across much of Europe**.
 
 In folk herbalism, dandelion root became especially associated with heaviness, sluggish digestion, and skin troubles believed to come from internal stagnation.
 
 ## Why People Used Dandelion Root (Taraxacum officinale):
 
-In many traditional herbal systems, skin eruptions were not viewed as isolated problems.
+In many traditional herbal systems, **skin eruptions were not viewed as isolated problems**.
 
 Instead, people often associated chronic breakouts with:
 - sluggish digestion
