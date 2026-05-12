@@ -48,7 +48,7 @@ Each works differently. One cools and drains. One nourishes and rebuilds. One wo
 
 ## Cleavers
 
-Most commonly known as sticky willy, goosegrass, catchweed, and bedstraw due to their Velcro-like hooked hairs and mat-forming growth.
+Most commonly **known as sticky willy**, goosegrass, catchweed, and bedstraw due to their Velcro-like hooked hairs.
 
 One of the classic spring “cooling” herbs in European folk herbalism, especially associated with skin eruptions connected to internal heat and congestion.
 
@@ -73,7 +73,7 @@ Best methods:
 - Or cold-infuse fresh herb overnight in fridge
 
 Why:
-Heat damages some of the fresh green constituents and the cooling “spring tonic” quality people value it for.
+Heat damages some of the fresh green constituents and the cooling “spring tonic” quality folks value it for.
 
 A traditional ratio:
 
@@ -81,7 +81,7 @@ A traditional ratio:
 - 300–500 ml water
 - blend and strain
 
-Many people mix with mint, lemon balm, or cucumber because plain cleavers water tastes very “green.”
+Some people mix with mint, lemon balm, or cucumber because plain cleavers water tastes very “green.”
 
 ---
 
@@ -94,7 +94,7 @@ Why people used it:
 - Supports kidneys and elimination
 - Often considered “blood-building” rather than just cleansing
 
-Nettle is usually BETTER as a long hot infusion, not blender water.
+Nettle is usually **better as a long hot infusion**, not blender water.
 
 Why:
 The minerals and many beneficial compounds extract better with heat and time.
