@@ -35,7 +35,7 @@ faq:
 
 Violet was never considered a dramatic herb. In old folk herbalism, it belonged to the quieter remedies. 
 
-It was **gathered in spring for overheated skin, swollen glands, irritation, and the heavy stagnant feeling that winter left behind**.
+It was **gathered in spring** for overheated skin, swollen glands, irritation, and the **heavy stagnant feeling that winter left behind**.
 
 While stronger herbs were used to purge or stimulate, violet leaf was associated with cooling, softening, and gentle movement.
 
@@ -132,4 +132,4 @@ Traditional herbalists often paired violet leaf with other cooling spring herbs 
 
 Violet still carries the reputation it once held in village herbal traditions:
 
-a cooling herb for overheated skin, swollen tissues, and bodies struggling to emerge from the heaviness of winter.
+a cooling herb for overheated skin and bodies struggling to emerge from the heaviness of winter.
