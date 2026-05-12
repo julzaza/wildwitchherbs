@@ -35,20 +35,22 @@ faq:
 
 Long before dandelions became lawn weeds, they were gathered as spring food and household medicine across much of Europe.
 
-In folk herbalism, dandelion root became especially associated with heaviness, sluggish digestion, and skin troubles believed to come from internal stagnation after winter.
+In folk herbalism, dandelion root became especially associated with heaviness, sluggish digestion, and skin troubles believed to come from internal stagnation.
 
-## Dandelion Root (Taraxacum officinale)
+## Why People Used Dandelion Root (Taraxacum officinale):
 
-Why people used it:
+In many traditional herbal systems, skin eruptions were not viewed as isolated problems.
 
-- Traditionally used for sluggish digestion
-- Associated with bitter spring tonics
-- Often used for oily or congested skin
-- Connected with heaviness and internal stagnation
+Instead, people often associated chronic breakouts with:
+- sluggish digestion
+- rich winter diets
+- lack of bitter foods
+- internal heaviness
+- poor elimination
 
-Unlike softer green spring herbs, dandelion root developed a reputation as a stronger bitter remedy.
+Dandelion root became one of the classic spring bitters used when skin felt oily, congested, or persistently troubled.
 
-In older village traditions, bitter herbs were often consumed during spring after months of preserved foods, animal fats, and limited fresh plants. Dandelion became one of the most common seasonal herbs gathered for this purpose.
+Rather than cooling irritation directly, the herb was more often associated with improving internal movement and digestion over time.
 
 ---
 
@@ -72,24 +74,7 @@ The taste is deeply bitter, which partly explains its traditional reputation for
 
 Another historical method:
 - roasting the roots to make a dark herbal beverage similar to coffee
-
----
-
-## Why Folk Herbalists Used Dandelion Root for Skin
-
-In many traditional herbal systems, skin eruptions were not viewed as isolated problems.
-
-Instead, people often associated chronic breakouts with:
-- sluggish digestion
-- rich winter diets
-- lack of bitter foods
-- internal heaviness
-- poor elimination
-
-Dandelion root became one of the classic spring bitters used when skin felt oily, congested, or persistently troubled.
-
-Rather than cooling irritation directly, the herb was more often associated with improving internal movement and digestion over time.
-
+  
 ---
 
 ## Traditional Spring Use
@@ -128,6 +113,6 @@ Yes. Dandelion became strongly associated with spring cleansing traditions after
 
 ---
 
-Dandelion root survived in folk herbalism partly because it was everywhere. It pushed through fields, roadsides, gardens, and cracks in stone walls whether people welcomed it or not.
+Dandelion root survived in folk herbalism partly because it was highly effective and partly because it was everywhere. It pushed through fields, roadsides, gardens, and cracks in stone walls whether people welcomed it or not.
 
 That stubbornness became part of the plant’s reputation: persistent, bitter, cleansing, and difficult to remove once established.
