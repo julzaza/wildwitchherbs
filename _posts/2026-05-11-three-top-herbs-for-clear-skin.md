@@ -173,14 +173,11 @@ Fresh plant juices were traditionally considered far stronger for “heat and co
 
 A very old-school skin routine would be something like:
 
-Morning:
-- fresh cleavers drink
+**Morning**: fresh cleavers drink
 
-Day:
-- strong nettle infusion
+**Day**: strong nettle infusion
 
-Evening:
-- burdock root decoction
+**Evening**: burdock root decoction
 
 That combination targets:
 - lymph stagnation
