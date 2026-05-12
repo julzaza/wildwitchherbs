@@ -132,6 +132,6 @@ Traditional herbalists often paired violet leaf with other cooling spring herbs 
 
 ---
 
-Violet leaf was never considered the strongest herb in the apothecary. Its reputation came from gentleness, cooling moisture, and steady use over time.
+Violet still carries the reputation it once held in village herbal traditions:
 
-That quiet reputation kept it alive in folk herbal traditions long after many harsher remedies disappeared.
+a cooling herb for overheated skin, swollen tissues, and bodies struggling to emerge from the heaviness of winter.
