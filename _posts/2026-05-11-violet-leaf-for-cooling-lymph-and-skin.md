@@ -76,21 +76,6 @@ Traditional methods included:
 
 ---
 
-## Why Folk Herbalists Used Violet for Skin
-
-In traditional herbal systems, skin problems were often associated with:
-- internal heat
-- sluggish fluids
-- spring congestion
-- swollen lymph
-- irritation trapped beneath the skin
-
-Violet leaf became associated with cooling and softening these conditions rather than aggressively “purging” them.
-
-That gentle reputation is one reason violet remained popular in village herbal traditions for generations.
-
----
-
 ## Traditional Spring Skin Combination
 
 A traditional cooling blend might include:
