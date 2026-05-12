@@ -832,3 +832,41 @@ html, body {
 a[href*="kit.com"] {
   display: none !important;
 }
+
+
+
+/* =========================
+   TYPOGRAPHY UPGRADE
+   ========================= */
+
+/* BODY stays clean and fast */
+body {
+  font-family: Georgia, serif;
+}
+
+/* Elegant headings only */
+h1,
+h2,
+h3,
+.page__title,
+.archive__item-title,
+.site-title {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  text-transform: none; /* IMPORTANT: removes cheap uppercase feel */
+}
+
+/* Hero text override */
+.hero-text h1 {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+}
+
+/* Quotes feel more ritual / literary */
+.about-closing p,
+blockquote {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-style: italic;
+}
