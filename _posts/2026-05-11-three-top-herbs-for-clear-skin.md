@@ -48,6 +48,8 @@ Each works differently. One cools and drains. One nourishes and rebuilds. One wo
 
 ## Cleavers
 
+Most commonly known as sticky willy, goosegrass, catchweed, and bedstraw due to their Velcro-like hooked hairs and mat-forming growth.
+
 One of the classic spring “cooling” herbs in European folk herbalism, especially associated with skin eruptions connected to internal heat and congestion.
 
 Why people used it:
