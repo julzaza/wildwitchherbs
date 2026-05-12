@@ -39,8 +39,6 @@ It crept low across garden beds, fences, wet pathways, and forgotten corners of 
 
 In folk herbal traditions across Europe, chickweed became associated with the first damp weeks of spring and the body’s slow return from winter heaviness. People gathered it for irritated skin, feelings of internal heat, dryness, itching, and the sluggishness believed to build during the colder months.
 
-Unlike harsher cleansing herbs, chickweed carried a gentler reputation. It was used more to soothe and restore than to force the body into extremes.
-
 ---
 
 ## Chickweed (Stellaria media)
@@ -52,7 +50,7 @@ Why people used it:
 - Considered cooling and moistening
 - Often used during spring cleansing traditions
 
-Unlike stronger bitter herbs, chickweed was considered mild and soothing.
+Unlike stronger bitter herbs, chickweed carried a gentler reputation. It was used more to soothe and restore than to force the body into extremes.
 
 In village herbal traditions, it was commonly eaten fresh, blended into herbal drinks, or applied directly to irritated skin.
 
