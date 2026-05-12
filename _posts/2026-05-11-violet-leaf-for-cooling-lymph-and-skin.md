@@ -37,7 +37,7 @@ There are certain herbs in folk herbalism that were associated less with force a
 
 Across European folk traditions, violet leaf was commonly connected with heat, swelling, irritation, and congested lymph, especially during spring when the body was thought to be clearing winter stagnation.
 
-## Violet Leaf (Viola odorata)
+## Violet Leaf (*Viola odorata*)
 
 Why people used it:
 
