@@ -71,7 +71,7 @@ The charm uniquely invokes **Woden**, making it one of only **two mentions of th
 
 The nine twigs may have been **marked with runes** representing each of the **nine sacred herbs**, linking divine authority to plant power. The repeated use of **three and nine** reflects the **sacred Germanic numerology**, amplifying ritual potency.
 
-Protective plant power was not limited to spoken charms. In wider European folklore, living guardians such as rowan trees were planted at thresholds to repel harm, functioning as physical counterparts to spoken herbal defenses — a tradition explored in **[Rowan Trees by the Door](/rowan-trees-front-door-old-world-folklore/)**.
+Protective plant power was not limited to spoken charms. In wider European folklore, living guardians such as rowan trees were planted at thresholds to repel harm, functioning as physical counterparts to spoken herbal defenses, a tradition explored in **[Rowan Trees by the Door](/rowan-trees-front-door-old-world-folklore/)**.
 
 ---
 
@@ -101,7 +101,7 @@ In traditional practice, the nine sacred herbs were not merely gathered but ritu
 
 The Old English text in the Lacnunga instructs that the **mixture be combined with apple pulp and ash bark**, substances associated with purification and resilience. The mash could then be prepared as a healing salve for wounds, infections, or venom, or steeped into a potent herbal drink for internal protection.
 
-During the grinding, the practitioner **recited the charm aloud, invoking divine authority—often calling upon Woden** — while rhythmically working the herbs. 
+During the grinding, the practitioner **recited the charm aloud, invoking divine authority, often calling upon Woden**, while rhythmically working the herbs. 
 
 Breath, voice, and motion fused intention into the medicine. In this way, remedy and spell became inseparable: plant power awakened through word, ritual action, and sacred preparation.
 
