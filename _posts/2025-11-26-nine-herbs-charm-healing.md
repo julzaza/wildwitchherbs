@@ -63,11 +63,11 @@ It is one of the **few surviving examples of Old English pagan herbal magic**, b
 
 The charm uniquely invokes **Woden**, making it one of only **two mentions of this god in Old English poetry**. Robert K. Gordon translates:
 
-> “A snake came crawling, it bit a man.  
-> Then Woden took **nine glory-twigs**,  
-> Smote the serpent so that it flew into nine parts.  
-> There apple brought this pass against poison,  
-> That she nevermore would enter her house.”
+ “A snake came crawling, it bit a man.  
+ Then Woden took **nine glory-twigs**,  
+ Smote the serpent so that it flew into nine parts.  
+ There apple brought this pass against poison,  
+ That she nevermore would enter her house.”
 
 The nine twigs may have been **marked with runes** representing each of the **nine sacred herbs**, linking divine authority to plant power. The repeated use of **three and nine** reflects the **sacred Germanic numerology**, amplifying ritual potency.
 
