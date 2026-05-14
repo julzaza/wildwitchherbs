@@ -47,9 +47,8 @@ Across folk traditions, protective herbs were believed to guard the body, mind, 
 
 This guide focuses on individual herbs and their protective roles. 
 But in traditional practice, herbs were not used in isolation: they were applied through specific methods depending on the situation.  
-See how protection was actually structured in the home: **[Herbal Home Protection Guide](/home-protection-herbal-rituals-guide/)**.
 
-For a deeper look at how different cultures used plants for protection, see **[Ancient Shields: Witchy Protection Herbs](/world-magic-for-protection/)**.
+See how protection rituals were actually structured in the households: **[Herbal Home Protection Guide](/home-protection-herbal-rituals-guide/)**.
 
 Let’s meet the eleven most enduring protective herbs in witchcraft, from Appalachian hills to Slavic meadows and Caribbean shores.
 
@@ -238,6 +237,8 @@ Pass it through incense smoke or over a candle’s flame, and bury it near your 
 Let your herb guardians stand sentry.
 
 More protective charms like these, with detailed instructions on how to use them correctly, can be found here: **[Herbal Folk Rituals for House Protection and Boundary Work](/home-protection-herbal-rituals-guide/)**. 
+
+For a deeper look at how different cultures used plants for protection, see **[Ancient Shields: Witchy Protection Herbs](/world-magic-for-protection/)**.
 
 ---
 
