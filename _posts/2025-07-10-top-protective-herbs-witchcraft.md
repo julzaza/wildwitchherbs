@@ -51,7 +51,7 @@ This guide is about those plants.
 
 ---
 
-## The Plants
+## What Are Protective Herbs and How Were They Used?
 
 ### Garlic (*Allium sativum*) 
 
