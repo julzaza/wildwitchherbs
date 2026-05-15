@@ -62,9 +62,9 @@ Now, let’s meet the eleven most enduring protective herbs in witchcraft, from 
 
 Few herbs have inspired as much reverence and fear as garlic. 
 
-In Slavic and Balkan folk traditions, strings of garlic are hung in windows and above doors to repel the evil eye, witches, vampires, and malicious spirits. Old women still slip a clove **beneath a child's pillow to keep night terrors and ghostly visitors at bay**.
+In Slavic and Balkan folk traditions, strings of garlic are hung in windows and above doors to repel the evil eye, witches, vampires, and malicious spirits. Old women still **slip a clove beneath a child's pillow to keep night terrors and ghostly visitors at bay**.
 
-In Mediterranean folk magic, garlic is rubbed on doorframes to keep misfortune out. In Hoodoo and African American rootwork, it's used in protective floor washes and personal mojo bags.
+In Mediterranean folk magic, garlic is rubbed on doorframes to keep misfortune out. In Hoodoo and African American rootwork, it's used in **protective floor washes and personal mojo bags**.
 
 Garlic is also one of the offerings made to Hecate, the liminal goddess of the moon, magic and witchcraft. 
 
@@ -86,10 +86,9 @@ Rue is a plant of contradictions: sacred yet dangerous, healing yet sharp.
 
 Known as the herb of grace in Italian *Stregheria* and Balkan village magic, **rue is burned to clear curses and worn to deflect envy and psychic attacks**. 
 
-In Latin American *curanderismo*, it plays a central role in *limpias*, spiritual cleansings meant to remove harmful attachments.
+In Latin American *curanderismo*, it plays a central role in *limpias*, spiritual cleansings meant to **remove harmful attachments**.
 
-In Middle Eastern and Slavic traditions, rue is planted near homes or worn by women to shield them from envy and misfortune. The plant is bitter—so is its strength.
-
+In Middle Eastern and Slavic traditions, **rue is planted near homes** or worn by women to shield them from envy and misfortune. The plant is bitter, so is its strength.
 
 #### Italian Folk Magic: malocchio cure with Rue 
 
@@ -114,7 +113,7 @@ Shamans, midwives, witches—have always trusted mugwort as their companion when
 
 Mugwort also appears in lunar and dreamwork lore. See **[Dreamwork & Night Magic](/witchy-plants-bedroom/)** for how herbs like mugwort and juniper guide spirit travel.
 
-The Germanic name for mugwort means “midge-plant,” referencing its power to ward off not just pests, but parasitic spirits.
+The Germanic name for mugwort means “midge-plant,” referencing its power to ward off not just pests, but **parasitic spirits**.
 
 #### Old English Healing Charm for Mugwort
 
@@ -135,11 +134,11 @@ Mugwort’s prominence in early charm work is perhaps most famously preserved in
 
 Burned in Chinese folk rituals to banish “hot demons” of fever and spirit affliction, *Artemisia annua* has **long been revered for its cleansing fire**. 
 
-Eastern European witches and healers treat it with reverence, using it to sever disease and dark curses alike.
+Eastern European witches and healers treat it with reverence, using it to **sever disease and dark curses alike**.
 
-Unlike mugwort’s gentle guidance, sweet wormwood cuts deep—cleansing, sealing, and purging harmful energies. 
+Unlike mugwort’s gentle guidance, sweet wormwood cuts deep. It is cleansing, sealing, and purging harmful energies. 
 
-Balkan midwives once burned it during birth and burial rites, times when the veil between worlds thins. This herb does not simply protect, it purges and renews.
+Balkan midwives once burned it during birth and burial rites, times when the veil between worlds thins. This herb does not simply protect, **it purges and renews**.
 
 ---
 
