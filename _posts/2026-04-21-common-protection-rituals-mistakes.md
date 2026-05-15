@@ -46,21 +46,13 @@ Here are some of the most common mistakes.
 
 This is probably the biggest mistake.
 
-People cleanse a space and assume the work is finished. But cleansing only removes what is already there. It does not stop anything from returning.
+People cleanse a space and assume the work is finished. But cleansing only removes what is already there. It does **not stop anything from returning**.
 
 In many folk traditions, cleansing was always followed by sealing.
 
 Smoke the house, yes. Wash the floors with protective herbs, yes. But then protect the thresholds. Mark the doors. Guard the windows. Secure the places where things enter.
 
-An empty house is still an open house.
-
-If you want to understand which protection ritual actually fits your situation, whether you need: 
-- to secure the threshold
-- clear something already settled
-- hold the boundary after removal
-- choose long-term living protections
-  
-See the **[Household Protection: Witchcraft & Folk Ritual Guide](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)** to know exactly what to use and when. 
+**An empty house is still an open house.**
 
 ---
 
@@ -110,9 +102,13 @@ A threshold blessing is not the same as banishing. A floor wash is not the same 
 
 Protection works best when the purpose is named clearly.
 
-Old practitioners did not ask for general safety.
+Old practitioners **did not ask for general safety**.
 
-They identified the breach and worked from there.
+They **identified the breach** and worked from there.
+
+You want to understand **which protection ritual actually fits your situation**, whether you need to secure the threshold, clear something already settled, or hold the boundary after removal.
+  
+See the **[Household Protection: Witchcraft & Folk Ritual Guide](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)** to know exactly what to use and when. 
 
 ---
 
@@ -229,6 +225,8 @@ Protect the entrance. Keep the house clean. Use the right herbs. Know when to ac
 For readers who want the actual practical workings behind threshold protection, floor washes, smoke cleansing, and old household boundary rituals, the **[Household Protection Ritual Guide](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)** goes deeper into these traditional methods. 
 
 It contains 12 folk workings specific to the situation + 1 ritual to tie a living plant to your threshold. 
+
+PDF format, instant download, your to keep for $5.95.
 
 The guide also helps you choose the right methods for your state of witchy affairs.
 
