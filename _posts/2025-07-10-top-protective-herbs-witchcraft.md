@@ -45,16 +45,11 @@ I grew up around some of these traditions without fully understanding them. Garl
 
 It took years to understand that **this wasn't superstition**. It was a **system**. A set of agreements between people and plants, built over generations, that said: you guard this threshold. I'll keep you alive.
 
-Across centuries and continents, witches, cunning folk, and healers have turned to the green world for protection. These aren’t just herbs, but sentinels, spirit allies, and guardians between worlds. Across folk traditions, protective herbs were believed to guard the body, mind, home, and soul, forming the backbone of traditional witchcraft and herbal magic worldwide.
+Across centuries and continents, witches, cunning folk, and healers have turned to the green world for protection. These aren’t just herbs, but sentinels, spirit allies, and guardians between worlds.
 
-What I kept noticing, across Slavic traditions, Balkan village practice, Appalachian folk magic, Mediterranean doorways: the same plants appearing again and again. Not because people were copying each other. Because something about these plants worked, and communities remembered what worked.
+What I kept noticing, across Slavic traditions, Balkan village practice, Appalachian folk magic, Mediterranean doorways: the **same plants appearing again and again**. Not because people were copying each other. Because something about these plants worked, and communities remembered what worked.
 
 This guide is about those plants.
-
-This guide focuses on individual herbs and their protective roles. 
-But in traditional practice, herbs were not used in isolation: they were applied through specific methods depending on the situation.  
-
-See how protection rituals were structured to defend the households specifically: **[Herbal Home Protection Guide](/home-protection-herbal-rituals-guide/)**.
 
 Now, let’s meet the eleven most enduring protective herbs in witchcraft, from Appalachian hills to Slavic meadows and Caribbean shores.
 
@@ -262,8 +257,6 @@ That structure is exactly what the home protection guide is built around. It is 
 
 If this post gave you the plants, the guide gives you the practice.
 → **[Herbal Folk Rituals for House Protection and Boundary Work](/home-protection-herbal-rituals-guide/)**. 
-
-For a deeper look at how different cultures used plants for protection, see **[Ancient Shields: Witchy Protection Herbs](/world-magic-for-protection/)**.
 
 ---
 
