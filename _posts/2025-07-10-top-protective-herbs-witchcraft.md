@@ -39,7 +39,7 @@ faq:
 
 ## Witches Rely on The Plant Kingdom for Protection 
 
-Across centuries and continents, witches, cunning folk, and healers have turned to the green world for protection. These aren’t just healing herbs, they are sentinels, spirit allies, and guardians between worlds. 
+Across centuries and continents, witches, cunning folk, and healers have turned to the green world for protection. These aren’t just herbs, but sentinels, spirit allies, and guardians between worlds. 
 
 Rooted in ritual and folklore, each one has **earned its place in the witch’s apothecary through centuries of practical magic**.
 
@@ -48,9 +48,9 @@ Across folk traditions, protective herbs were believed to guard the body, mind, 
 This guide focuses on individual herbs and their protective roles. 
 But in traditional practice, herbs were not used in isolation: they were applied through specific methods depending on the situation.  
 
-See how protection rituals were actually structured in the households: **[Herbal Home Protection Guide](/home-protection-herbal-rituals-guide/)**.
+See how protection rituals were structured to defend the households specifically: **[Herbal Home Protection Guide](/home-protection-herbal-rituals-guide/)**.
 
-Let’s meet the eleven most enduring protective herbs in witchcraft, from Appalachian hills to Slavic meadows and Caribbean shores.
+Now, let’s meet the eleven most enduring protective herbs in witchcraft, from Appalachian hills to Slavic meadows and Caribbean shores.
 
 ---
 
