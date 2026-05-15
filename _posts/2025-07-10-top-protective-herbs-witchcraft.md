@@ -109,7 +109,7 @@ From Celtic seers to Slavic midwives and Japanese shamans, mugwort has long guar
 
 **Burned before rituals, tucked into clothing, or brewed into tea before divination, this herb protects against nightmares, unwanted spirits, and even travelers on the astral plane**.
 
-Shamans, midwives, witches—have always trusted mugwort as their companion when traveling between worlds.
+Shamans, midwives, witches have always trusted mugwort as their companion when traveling between worlds.
 
 Mugwort also appears in lunar and dreamwork lore. See **[Dreamwork & Night Magic](/witchy-plants-bedroom/)** for how herbs like mugwort and juniper guide spirit travel.
 
