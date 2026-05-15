@@ -230,7 +230,7 @@ For readers who want the actual practical workings behind threshold protection, 
 
 It contains 12 folk workings specific to the situation + 1 ritual to tie a living plant to your threshold. 
 
-The guide also helps you choose the method that is right for your problem.
+The guide also helps you choose the right methods for your state of witchy affairs.
 
 Most importantly, do not confuse performance with practice.
 
