@@ -208,7 +208,7 @@ Not just for inside! Bundles of lavender were hung by front doors to calm househ
 
 ## ✦ The Missing Guardians: Sacred Trees
 
-While herbs and shrubs guard the threshold, some traditions looked higher. 
+While herbs and shrubs guard the threshold, some traditions understood that real protection began further out.
 
 In the Balkans, the oak tree stood as the ultimate living ward. It was not planted at the door, but marked the village boundary itself. Unlike the tender herbs in your pots, these trees witnessed oaths, absorbed lightning, and outlasted generations. 
 
@@ -230,7 +230,7 @@ These practices strengthen the plants. But in traditional protection work, plant
 
 ---
 
-## Welcome Threshold Protection Into Your Life
+## If You Want Protection That Holds
 
 The door you walk through each day can become **a gate of magic**, a veil stitched with root and leaf, bloom and thorn. Let it **speak on your behalf**: *“This home is watched, protected, and blessed.”* 
 
@@ -257,7 +257,7 @@ Traditional protective threshold plants include southernwood, basil, yarrow, box
 ### How do I use these plants for magical protection?
 Plant near doors or windows, sprinkle salt around them, whisper your intentions, tie red threads or iron nails, or use dried bundles indoors. 
 
-But in traditional practice, this was only one part of the work: threshold planting, clearing, and boundary-setting were used together. See how these methods were actually combined in this **[Herbal Home Protection System in Folk Practice](/home-protection-herbal-rituals-guide/)**.
+But in traditional practice, this was only one part of the work: threshold planting, clearing, and boundary-setting were used together. See how these methods were actually combined in this **[Herbal Home Protection System in Folk Practice](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)**.
 
 ### Can I grow threshold plants indoors?
 Yes. Herbs like basil, rosemary, lavender, and thyme adapt well to pots indoors. Place them near windows or entryways to maintain protective and magical qualities.
