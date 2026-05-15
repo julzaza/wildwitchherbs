@@ -235,13 +235,7 @@ The plant itself is not enough.
 
 Garlic above the wrong door. Mugwort burned at the wrong moment. Wormwood used before the space was cleared. In folk practice, these weren't just ineffective, they were considered signs that the practitioner didn't understand what they were actually doing.
 
-Most failed protection work was not blamed on weak herbs, but on wrong timing, bad placement, broken thresholds, or skipped cleansing.
-
-If your protection rituals never seem to “hold,” read: **[12 Frequently-Made Protection Ritual Mistakes](/common-protection-rituals-mistakes/)**.
-
 **Protection in traditional herbalism was a sequence.** Entry first. Then clearing. Then holding the boundary. Then maintenance. Each herb belongs somewhere specific in that sequence.
-
-That structure is exactly what the home protection guide is built around. It is not a collection of rituals to browse, but a working system of fourteen methods, placed in the order they were traditionally used, so you know not just what to do but when and why.
 
 If this post gave you the plants, the guide gives you the practice.  
 
@@ -252,6 +246,10 @@ If this post gave you the plants, the guide gives you the practice.
 Structured in sequence.  
 Available as a digital guide.  
 Price: $5.95
+
+Most failed protection work was not blamed on weak herbs, but on wrong timing, bad placement, broken thresholds, or skipped cleansing.
+
+If your current protection rituals never seem to “hold,” read: **[12 Frequently-Made Protection Ritual Mistakes](/common-protection-rituals-mistakes/)**.
 
 ---
 
