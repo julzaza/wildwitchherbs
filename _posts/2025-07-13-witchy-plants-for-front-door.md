@@ -204,8 +204,6 @@ Not just for inside! Bundles of lavender were hung by front doors to calm househ
 - Magic: Memory, love, purification.
 - Growing Tip: Drought-tolerant, loves the sun, protect from frost.
 
-Check out **[Why Witches Chose Rosemary to Guard the Front Door](/why-witches-plant-rosemary-front-door/)** for more.
-
 ---
 
 ## ✦ The Missing Guardians: Sacred Trees
@@ -222,7 +220,7 @@ Farther north, the **[Rowan Tree by the Door](/rowan-trees-front-door-old-world-
 
 ## ✦ Blessing the Doorway
 
-Once you plant your threshold herbs (we got a nice bunch to choose from below), strengthen them with ritual:
+Once you plant your threshold herbs, strengthen them with ritual:
 
 - Sprinkle salt in a circle around the plant on **New or Full Moon nights**.
 - Whisper your intention as you water them: *"Guard this place. Let only good cross."*
@@ -268,6 +266,6 @@ Yes. Herbs like basil, rosemary, lavender, and thyme adapt well to pots indoors.
 They still offer symbolic and energetic protection, but ritual, intention, and repeated care amplify their efficacy. Magic is both in the plant and in the hands and mind of the practitioner.
 
 ### Can these plants attract positive energy and blessings?
-Yes. Many threshold herbs, like vervain, rosemary, and lavender, were used to invite peace, love, prosperity, and harmonious energy into the home, in addition to warding off harm.
+Yes. Many threshold herbs, like vervain, rosemary, and lavender, were used to invite peace, love, prosperity, and harmonious energy into the home, in addition to warding off harm. Check out **[Why Witches Chose Rosemary to Guard the Front Door](/why-witches-plant-rosemary-front-door/)** for more.
 
 ---
