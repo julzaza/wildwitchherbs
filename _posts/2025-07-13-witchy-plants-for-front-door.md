@@ -38,22 +38,19 @@ faq:
 
 ---
 
-The front door is no ordinary place. It is a **threshold, a liminal line between worlds, sacred in nearly every magical tradition.** Spirits are said to pause there. Blessings gather or scatter at the doorstep. Witchcraft, especially of the folk kind, treats the entryway as a spell in itself.
+The first thing I noticed about older homes in the Balkans wasn't the architecture.
+It was what grew by the doors.
 
-Planting at the front door isn’t merely decorative. It is **ancestral magic**. Protective plants, sweet-smelling herbs, and creeping tendrils once whispered to witches, “Here is the ward. Here is the welcome.” What follows are some of the most potent plants ever set to guard a home.
+Certain plants appeared again and again, in village after village. Not randomly, not decoratively, but deliberately. 
 
---- 
+The same choices, made by people who didn't know each other, separated by mountains and generations, all arriving at the same answer.
+Something about the doorway demanded to be tended.
 
-## ✦ Blessing the Doorway
+Because the front door is no ordinary place. It is a **threshold, a liminal line between worlds, sacred in nearly every magical tradition.** Spirits are said to pause there. Blessings gather or scatter at the doorstep. Witchcraft, especially of the folk kind, treats the entryway as a spell in itself.
 
-Once you plant your threshold herbs (we got a nice bunch to choose from below), strengthen them with ritual:
+Planting at the front door is **ancestral magic**. Protective plants, sweet-smelling herbs, and creeping tendrils once whispered to witches, “Here is the ward. Here is the welcome.” What follows are some of the most potent plants ever set to guard a home.
 
-- Sprinkle salt in a circle around the plant on **New or Full Moon nights**.
-- Whisper your intention as you water them: *"Guard this place. Let only good cross."*
-- Tie red string or iron nails into the pot or root space for **added warding**.
-
-These practices strengthen the plants, but they are only one part of a larger household defense system.  
-For full threshold work, clearing methods, and boundary-setting, see the **[Herbal Home Protection System Based on Traditional Practice](/home-protection-herbal-rituals-guide/)**.
+This post is about those plants: what they were, why they were chosen, and what the traditions behind them actually understood about the line between inside and outside.
 
 ---
 
@@ -220,6 +217,18 @@ In the Balkans, the oak tree stood as the ultimate living ward. It was not plant
 The **[Balkan Oak Tree Cult](/balkan-oak-tree-cult/)** treated these giants as shrines that anchored memory long before churches claimed the land. 
 
 Farther north, the **[Rowan Tree by the Door](/rowan-trees-front-door-old-world-folklore/)** served as the household's personal sentinel, warding off witches and unwanted spirits from Scotland to Scandinavia.
+
+---
+
+## ✦ Blessing the Doorway
+
+Once you plant your threshold herbs (we got a nice bunch to choose from below), strengthen them with ritual:
+
+- Sprinkle salt in a circle around the plant on **New or Full Moon nights**.
+- Whisper your intention as you water them: *"Guard this place. Let only good cross."*
+- Tie red string or iron nails into the pot or root space for **added warding**.
+
+These practices strengthen the plants. But in traditional protection work, planting was only the first layer. Threshold marking, clearing, and boundary-setting each had their place in the sequence. The full system is what makes it hold.
 
 ---
 
