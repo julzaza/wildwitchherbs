@@ -117,7 +117,9 @@ From Celtic seers to Slavic midwives and Japanese shamans, mugwort has long guar
 
 Shamans, midwives, witches have always trusted mugwort as their companion when traveling between worlds.
 
-Mugwort also appears in lunar and dreamwork lore. See **[Dreamwork & Night Magic](/witchy-plants-bedroom/)** for how herbs like mugwort and juniper guide spirit travel.
+Mugwort is the herb people are most eager to use and most likely to misuse. It opens things. But that's not always what you need.
+
+It also appears in lunar and dreamwork lore. See **[Dreamwork & Night Magic](/witchy-plants-bedroom/)** for how herbs like mugwort and juniper guide spirit travel.
 
 The Germanic name for mugwort means “midge-plant,” referencing its power to ward off not just pests, but **parasitic spirits**.
 
