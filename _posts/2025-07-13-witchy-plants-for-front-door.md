@@ -227,11 +227,15 @@ Farther north, the **[Rowan Tree by the Door](/rowan-trees-front-door-old-world-
 
 The door you walk through each day can become **a gate of magic**, a veil stitched with root and leaf, bloom and thorn. Let it **speak on your behalf**: *“This home is watched, protected, and blessed.”* 
 
-See: **[Protective Plants & Boundary Spirits: Folk Herbal Guardians](/protective-plants-boundary-spirits/)** for a deeper look at these powerful allies. 
+If you want to go beyond plants and actually build protection that holds, start here:  
 
-If you want to go beyond plants and actually build protection that holds, start here: **[Herbal Rituals for Protecting Your Home](/home-protection-herbal-rituals-guide/)**.
+→ **[Herbal Rituals for Protecting Your Home](/home-protection-herbal-rituals-guide/)**
 
-Explore **[Top Witchy Plants to Grow Indoors](/witchy-plants-to-grow-indoors/)** if you want to know which living plants can hold the line in your household. 
+12 specific workings + 1 spell to bind a living plant to your threshold 
+
+Structured in sequence.  
+Available as a digital guide (PDF, instant download), yours to keep.  
+Price: $5.95
 
 ---
 
