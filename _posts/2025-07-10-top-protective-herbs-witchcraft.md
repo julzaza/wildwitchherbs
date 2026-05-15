@@ -163,6 +163,8 @@ Its feathery leaves were sewn into sachets and **tucked into beds to prevent spi
 
 Some witches say that if yarrow grows near your door, your home is already blessed.
 
+If protecting your household threshold is a priority (and it should be), check out: **[Witchy Herbs for the Front Door](/witchy-plants-for-front-door/)**, to pick the plant defense that is right for you. 
+
 ---
 
 ### Wormwood (Artemisia absinthium)
@@ -221,7 +223,7 @@ Dark, thorny, and fierce, blackthorn grows at the edge of wild places.
 
 In Celtic folklore, it is the tree of spiritual battle. Its wood is carved into protective wands and staves, used to break curses or cast circles in times of magical war.
 
-Hung above the hearth or worn as an amulet, **it keeps out intruders: both human and otherwise**.
+Hung above the hearth or worn as an amulet, **it keeps out intruders, both human and otherwise**.
 
 ---
 
