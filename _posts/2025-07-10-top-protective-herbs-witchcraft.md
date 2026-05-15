@@ -259,6 +259,10 @@ If this post gave you the plants, the guide gives you the practice.
 
 → **[Herbal Folk Rituals for House Protection and Boundary Work](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)**. 
 
+12 specific workings + 1 spell to bind a living plant to your threshold 
+Structured in sequence. Available as a digital guide. 
+Price: $5.95
+
 ---
 
 ## Frequently Asked Questions About Protective Herbs
