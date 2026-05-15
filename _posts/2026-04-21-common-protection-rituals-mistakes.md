@@ -14,6 +14,12 @@ tags:
   - protective herbs
   - traditional witchcraft
 
+image_mobile: /assets/images/heroes/common-protection-rituals-mistakes/800x1000px-female-hands-holding-rosemary-herb.webp
+image_desktop_1280: /assets/images/heroes/common-protection-rituals-mistakes/1280x400px-female-hands-holding-rosemary-herb.webp
+image_alt: "a blue door with potted plants on both sides"
+teaser: /assets/images/heroes/common-protection-rituals-mistakes/800x1000px-female-hands-holding-rosemary-herb.webp
+featured: true
+
 faq:
   - question: "What is the biggest mistake in protection rituals?"
     answer: "The most common mistake is confusing cleansing with protection. Cleansing removes stagnant or unwanted energy, but protection creates boundaries that stop it from returning."
