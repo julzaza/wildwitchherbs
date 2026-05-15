@@ -60,7 +60,7 @@ Once called **“lad’s love”**, this silvery herb was grown by front gates i
 
 *Folklore:* A sprig worn in the shoe protected travelers. Hung by the door, it warded off illness and bad intentions.
 - *Magical Properties:* Protection, clarity, dreamwork.
-Growing Tip: Thrives in pots, prefers dry soil and sun.
+- Growing Tip: Thrives in pots, prefers dry soil and sun.
 
 ---
 
