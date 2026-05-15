@@ -247,7 +247,7 @@ Price: $5.95
 
 ---
 
-*Not sure if your current approach is working? read: **[12 Frequently-Made Protection Ritual Mistakes]*(/common-protection-rituals-mistakes/)**.
+*Not sure if your current approach is working? read*: **[12 Frequently-Made Protection Ritual Mistakes](/common-protection-rituals-mistakes/)**.
 
 ---
 
