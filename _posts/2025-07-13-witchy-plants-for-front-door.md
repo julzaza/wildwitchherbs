@@ -229,7 +229,7 @@ The door you walk through each day can become **a gate of magic**, a veil stitch
 
 If you want to go beyond plants and actually build protection that holds, start here:  
 
-→ **[Herbal Rituals for Protecting Your Home](/home-protection-herbal-rituals-guide/)**
+→ **[Herbal Rituals for Protecting Your Home](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)**
 
 12 specific workings + 1 spell to bind a living plant to your threshold 
 
