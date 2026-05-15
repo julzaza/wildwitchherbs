@@ -255,19 +255,10 @@ If your protection rituals never seem to “hold,” read: **[12 Frequently-Made
 
 That structure is exactly what the home protection guide is built around. It is not a collection of rituals to browse, but a working system of fourteen methods, placed in the order they were traditionally used, so you know not just what to do but when and why.
 
-If this post gave you the plants, the guide gives you the practice.
-→ **[Herbal Folk Rituals for House Protection and Boundary Work](/home-protection-herbal-rituals-guide/)**. 
+If this post gave you the plants, the guide gives you the practice.  
 
----
+→ **[Herbal Folk Rituals for House Protection and Boundary Work](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)**. 
 
-## Common Mistakes Protection Rituals
-
-In folk practice, the herb itself was only part of the work. Placement, timing, thresholds, and knowing whether something needed cleansing, removal, or boundary-setting mattered just as much.
-
-Many protection rituals fail not because the herb is weak, but because the method is wrong or performed incorrectly.
-
-If you have the right herbs but the protection still feels ineffective, read **[12 Frequently-Made Protection Ritual Mistakes](/common-protection-rituals-mistakes/)** to understand where traditional practice says most people go wrong.
-  
 ---
 
 ## Frequently Asked Questions About Protective Herbs
