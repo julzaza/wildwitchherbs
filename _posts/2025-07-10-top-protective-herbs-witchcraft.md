@@ -51,7 +51,7 @@ This guide is about those plants.
 
 ---
 
-## What Are Protective Herbs and How Were They Used?
+## The Plants
 
 ### Garlic (*Allium sativum*) 
 
@@ -162,8 +162,6 @@ Its feathery leaves were sewn into sachets and **tucked into beds to prevent spi
 
 Some witches say that if yarrow grows near your door, your home is already blessed.
 
-If protecting your household threshold is a priority (and it should be), check out: **[Witchy Herbs for the Front Door](/witchy-plants-for-front-door/)**, to pick the plant defense that is right for you. 
-
 ---
 
 ### Wormwood (Artemisia absinthium)
@@ -244,13 +242,12 @@ If this post gave you the plants, the guide gives you the practice.
 12 specific workings + 1 spell to bind a living plant to your threshold 
 
 Structured in sequence.  
-Available as a digital guide.  
+Available as a digital guide: PDF, instant download, yours to keep.
 Price: $5.95
 
+---
 
-Most failed protection work was not blamed on weak herbs, but on wrong timing, bad placement, broken thresholds, or skipped cleansing.
-
-If your current protection rituals never seem to “hold,” read: **[12 Frequently-Made Protection Ritual Mistakes](/common-protection-rituals-mistakes/)**.
+*Not sure if your current approach is working? read: **[12 Frequently-Made Protection Ritual Mistakes]*(/common-protection-rituals-mistakes/)**.
 
 ---
 
