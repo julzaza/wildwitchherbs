@@ -45,13 +45,9 @@ I grew up around some of these traditions without fully understanding them. Garl
 
 It took years to understand that **this wasn't superstition**. It was a **system**. A set of agreements between people and plants, built over generations, that said: you guard this threshold. I'll keep you alive.
 
-Across centuries and continents, witches, cunning folk, and healers have turned to the green world for protection. These aren’t just herbs, but sentinels, spirit allies, and guardians between worlds.
-
 What I kept noticing, across Slavic traditions, Balkan village practice, Appalachian folk magic, Mediterranean doorways: the **same plants appearing again and again**. Not because people were copying each other. Because something about these plants worked, and communities remembered what worked.
 
 This guide is about those plants.
-
-Now, let’s meet the eleven most enduring protective herbs in witchcraft, from Appalachian hills to Slavic meadows and Caribbean shores.
 
 ---
 
