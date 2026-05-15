@@ -60,7 +60,7 @@ If you want to understand which protection ritual actually fits your situation, 
 - hold the boundary after removal
 - choose long-term living protections
   
-See the **[Household Protection: Witchcraft & Folk Ritual Guide](/home-protection-herbal-rituals-guide/)**  to know exactly what to use and when.
+See the **[Household Protection: Witchcraft & Folk Ritual Guide](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)** to know exactly what to use and when. 
 
 ---
 
@@ -226,7 +226,11 @@ Protection magic is not about paranoia. It is about boundaries.
 
 Protect the entrance. Keep the house clean. Use the right herbs. Know when to act and when to leave things alone.
 
-For readers who want the actual practical workings behind threshold protection, floor washes, smoke cleansing, and old household boundary rituals, the **[Household Protection Ritual Guide](/home-protection-herbal-rituals-guide/)** goes deeper into the traditional methods used to protect the home properly.
+For readers who want the actual practical workings behind threshold protection, floor washes, smoke cleansing, and old household boundary rituals, the **[Household Protection Ritual Guide](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)** goes deeper into these traditional methods. 
+
+It contains 12 folk workings specific to the situation + 1 ritual to tie a living plant to your threshold. 
+
+The guide also helps you choose the method that is right for your problem.
 
 Most importantly, do not confuse performance with practice.
 
@@ -247,8 +251,6 @@ The most common mistake is confusing cleansing with protection.
 Cleansing removes stagnant energy, but it does not stop anything from returning. Traditional folk practice almost always followed cleansing with boundary work such as protecting thresholds, doors, and windows.
 
 An empty house is still an open house.
-
-
 
 ---
 
@@ -279,6 +281,8 @@ Yes.
 Repeated cleansing done from panic rather than purpose can turn protection work into obsession. Folk traditions valued steadiness and maintenance, not constant spiritual emergency.
 
 Protection should bring peace, not paranoia.
+
+---
 
 ### Why were protective charms often kept private?
 
