@@ -266,6 +266,6 @@ Yes. Herbs like basil, rosemary, lavender, and thyme adapt well to pots indoors.
 They still offer symbolic and energetic protection, but ritual, intention, and repeated care amplify their efficacy. Magic is both in the plant and in the hands and mind of the practitioner.
 
 ### Can these plants attract positive energy and blessings?
-Yes. Many threshold herbs, like vervain, rosemary, and lavender, were used to invite peace, love, prosperity, and harmonious energy into the home, in addition to warding off harm. Check out **[Why Witches Chose Rosemary to Guard the Front Door](/why-witches-plant-rosemary-front-door/)** for more.
+Yes. Many threshold herbs, like vervain, rosemary, and lavender, were used to invite peace, love, prosperity, and harmonious energy into the home, in addition to warding off harm. Check out **[Why Witches Chose Rosemary to Guard the Front Door](/why-witches-plant-rosemary-front-door/)** as an example of one of these plants.
 
 ---
