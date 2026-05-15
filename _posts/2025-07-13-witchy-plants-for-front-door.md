@@ -138,7 +138,8 @@ You're halfway through the list.
 
 If you're already thinking about how to actually use these plants together: where to place them, in what order, and what to do when planting alone isn't enough, then check out the guide that covers exactly that.  
 
-→ **[Herbal Rituals for Household Defense](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)** — 13 workings, structured in sequence. PDF format, $5.95
+→ **[Herbal Rituals for Household Defense](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)**  
+13 workings, structured in sequence. PDF format, $5.95
 
 Otherwise, keep reading, the second half has some of the most overlooked threshold plants in folk tradition.
 
