@@ -14,10 +14,10 @@ tags:
   - protective herbs
   - traditional witchcraft
 
-image_mobile: /assets/images/heroes/common-protection-rituals-mistakes/800x1000px-female-hands-holding-rosemary-herb.webp
-image_desktop_1280: /assets/images/heroes/common-protection-rituals-mistakes/1280x400px-female-hands-holding-rosemary-herb.webp
-image_alt: "a blue door with potted plants on both sides"
-teaser: /assets/images/heroes/common-protection-rituals-mistakes/800x1000px-female-hands-holding-rosemary-herb.webp
+image_mobile: /assets/images/heroes/common-protection-rituals-mistakes/800x1000px-females-hands-holding-rosemary-herb-twigs.webp
+image_desktop_1280: /assets/images/heroes/common-protection-rituals-mistakes/1280x400px-females-hands-holding-rosemary-herb.webp
+image_alt: "femal hands holdig a few twigs of rosemary herb"
+teaser: /assets/images/heroes/common-protection-rituals-mistakes/800x1000px-females-hands-holding-rosemary-herb-twigs.webp
 featured: true
 
 faq:
