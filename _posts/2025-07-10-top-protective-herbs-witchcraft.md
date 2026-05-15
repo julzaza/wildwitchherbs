@@ -157,7 +157,7 @@ A small bundle hung over the door works quietly, but fiercely.
 
 **The sentinel at the gate.**
 
-British, Slavic, and Appalachian witches agree—yarrow keeps the wrong kind of people and spirits away. 
+British, Slavic, and Appalachian witches agree: yarrow keeps the wrong kind of people and spirits away. 
 
 Its feathery leaves were sewn into sachets and **tucked into beds to prevent spiritual attack**. In Scottish folklore, yarrow was placed under pillows to protect sleeping children from being taken by the fae.
 
@@ -184,7 +184,7 @@ Check out **[Wormwood: From Babylon To The Balkans](/wormwood-witchcraft-war/)**
 
 Tall and luminous, angelica was once believed to bloom on the feast of St. Michael, and so it earned the name “Archangel Root.” 
 
-In Nordic and Appalachian folk magic, angelica is worn to **ward off illness, enchantment, and malevolent forces—especially for women and children**.
+In Nordic and Appalachian folk magic, angelica is worn to **ward off illness, enchantment, and malevolent forces, especially for women and children**.
 
 In Hoodoo, it is known as a powerful **protector for women against abuse or spiritual attack**. A piece of root carried in the pocket serves as a charm of strength and divine backing.
 
@@ -194,7 +194,7 @@ In Hoodoo, it is known as a powerful **protector for women against abuse or spir
 
 **The ordinary herb with extraordinary power.**
 
-In Haitian Vodou and Afro-Brazilian Candomblé, basil is sacred—used in cleansing baths, house washes, and offerings. 
+In Haitian Vodou and Afro-Brazilian Candomblé, basil is sacred. It is ritually used in cleansing baths, house washes, and offerings. 
 
 In Slavic Orthodoxy, basil is soaked in holy water and sprinkled in doorways during house blessings.
 
@@ -221,7 +221,7 @@ Dark, thorny, and fierce, blackthorn grows at the edge of wild places.
 
 In Celtic folklore, it is the tree of spiritual battle. Its wood is carved into protective wands and staves, used to break curses or cast circles in times of magical war.
 
-Hung above the hearth or worn as an amulet, **it keeps out intruders—both human and otherwise**.
+Hung above the hearth or worn as an amulet, **it keeps out intruders: both human and otherwise**.
 
 ---
 
