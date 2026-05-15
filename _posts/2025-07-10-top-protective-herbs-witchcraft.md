@@ -247,6 +247,7 @@ Structured in sequence.
 Available as a digital guide.  
 Price: $5.95
 
+
 Most failed protection work was not blamed on weak herbs, but on wrong timing, bad placement, broken thresholds, or skipped cleansing.
 
 If your current protection rituals never seem to “hold,” read: **[12 Frequently-Made Protection Ritual Mistakes](/common-protection-rituals-mistakes/)**.
