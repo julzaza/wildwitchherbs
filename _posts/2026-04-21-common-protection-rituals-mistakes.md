@@ -222,14 +222,6 @@ Protection magic is not about paranoia. It is about boundaries.
 
 Protect the entrance. Keep the house clean. Use the right herbs. Know when to act and when to leave things alone.
 
-For readers who want the actual practical workings behind threshold protection, floor washes, smoke cleansing, and old household boundary rituals, the **[Household Protection Ritual Guide](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)** goes deeper into these traditional methods. 
-
-It contains 12 folk workings specific to the situation + 1 ritual to tie a living plant to your threshold. 
-
-PDF format, instant download, your to keep for $5.95.
-
-The guide also helps you choose the right methods for your state of witchy affairs.
-
 Most importantly, do not confuse performance with practice.
 
 A powerful protection ritual does not need to look impressive.
@@ -237,6 +229,12 @@ A powerful protection ritual does not need to look impressive.
 It needs to work.
 
 Sometimes that means rosemary over the door, a clean floor washed with bitter herbs, and the quiet certainty that what does not belong here will not stay.
+
+If you want the actual workings behind this: threshold protection, floor washes, boundary-setting, smoke methods, structured in the order traditional practice used them:  
+
+→ **[Household Protection Ritual Guide](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)** goes deeper into these traditional methods. 
+
+12 folk workings + 1 ritual to bind a living plant to your threshold. PDF, instant download. $5.95
 
 ---
 
