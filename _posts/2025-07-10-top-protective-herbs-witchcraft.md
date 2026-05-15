@@ -242,7 +242,7 @@ If this post gave you the plants, the guide gives you the practice.
 12 specific workings + 1 spell to bind a living plant to your threshold 
 
 Structured in sequence.  
-Available as a digital guide: PDF, instant download, yours to keep.  
+Available as a digital guide (PDF, instant download), yours to keep.  
 Price: $5.95
 
 ---
