@@ -58,9 +58,9 @@ This post is about those plants: what they were, why they were chosen, and what 
 
 Once called **“lad’s love”**, this silvery herb was grown by front gates in Britain and Eastern Europe alike. It was said to **keep away snakes, bad spirits, and lustful men**.
 
-- *Folklore:* A sprig worn in the shoe protected travelers. Hung by the door, it warded off illness and bad intentions.
+*Folklore:* A sprig worn in the shoe protected travelers. Hung by the door, it warded off illness and bad intentions.
 - *Magical Properties:* Protection, clarity, dreamwork.
-- Growing Tip: Thrives in pots, prefers dry soil and sun.
+Growing Tip: Thrives in pots, prefers dry soil and sun.
 
 ---
 
