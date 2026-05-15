@@ -228,18 +228,6 @@ Hung above the hearth or worn as an amulet, **it keeps out intruders, both human
 
 ---
 
-## Make Your Own Charm
-**Spell: The Charm of Thorns and Smoke**
-
-Q: Can I combine protective herbs for a charm?
-A: Yes. Combine a few trusted herbs like **juniper, mugwort, rue, blackthorn thorn, basil.** Wrap them in a piece of red cloth, tie tightly with black thread, and whisper your intent as you bind it. 
-
-Pass it through incense smoke or over a candle’s flame, and bury it near your threshold, or hang it over your door.
-
-Let your herb guardians stand sentry.
-
----
-
 ## The Herb Is Only Half the Work
 
 Every tradition on this list understood something modern approaches tend to miss.
