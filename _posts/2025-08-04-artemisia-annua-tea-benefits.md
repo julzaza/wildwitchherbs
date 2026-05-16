@@ -166,17 +166,6 @@ Sometimes the bitter herb is already waiting at the door.
 
 ---
 
-## What Makes Our Tea Different
-
-Our *Artemisia annua* is wildcrafted in the sunny southern Balkans, where the **climate, mineral-rich soils, and traditional growing rhythms produce plants of striking potency**.
-
-- Hand-harvested at peak vitality  
-- Dried slowly in the shade to preserve aromatic compounds  
-- No fillers. No processing. Just the herb in her raw, intact form  
-- 50g per pack is enough for weeks of tea or ritual use  
-
----
-
 ## Who This Tea Is (and Isn’t) For
 
 - For people drawn to bitter herbs, ritual plants, ancestral practices
