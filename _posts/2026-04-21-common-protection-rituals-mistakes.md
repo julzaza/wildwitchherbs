@@ -238,7 +238,7 @@ Sometimes that means rosemary over the door, a clean floor washed with bitter he
 
 If you want the actual workings behind this: threshold protection, floor washes, boundary-setting, smoke methods, structured in the order traditional practice used them:  
 
-→ **[Household Protection Ritual Guide](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)** goes deeper into these traditional methods. 
+→ **[Household Protection Ritual Guide](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)**  
 
 12 folk workings + 1 ritual to bind a living plant to your threshold. PDF, instant download. $12
 
