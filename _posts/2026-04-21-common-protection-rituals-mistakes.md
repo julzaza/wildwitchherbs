@@ -240,7 +240,7 @@ If you want the actual workings behind this: threshold protection, floor washes,
 
 → **[Household Protection Ritual Guide](https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home)** goes deeper into these traditional methods. 
 
-12 folk workings + 1 ritual to bind a living plant to your threshold. PDF, instant download. $5.95
+12 folk workings + 1 ritual to bind a living plant to your threshold. PDF, instant download. $12
 
 ---
 
