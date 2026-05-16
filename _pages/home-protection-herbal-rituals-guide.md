@@ -182,24 +182,7 @@ You want folk practice, not modern wellness content. You're ready to stop guessi
 
 ## Access the Full Guide
 
-The full set of methods, written with exact instructions and correct use, can be found here → 
-
-<div style="margin: 25px 0;">
-  <a href="https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home" 
-     target="_blank" 
-     style="
-       display: inline-block;
-       padding: 12px 20px;
-       border: 1px solid #2f3e2f;
-       color: #2f3e2f;
-       text-decoration: none;
-       border-radius: 6px;">
-   Get the Complete Home Protection System PDF
-  </a>
-</div>
-
----
-
+The full set of methods, written with exact instructions and correct use, can be found here:
 
 <div style="margin: 30px 0; text-align: center;">
   <a href="https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home" 
