@@ -157,7 +157,7 @@ That is exactly what this guide is built for.
 
 ## The Guide
 
-It is a structured collection of 14 herbal home protection workings, based on this exact framework.
+It is a structured collection of 13 herbal home protection workings, based on this exact framework.
 
 It includes:
 
