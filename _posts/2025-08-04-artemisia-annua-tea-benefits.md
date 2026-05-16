@@ -172,19 +172,6 @@ Our *Artemisia annua* is wildcrafted in the sunny southern Balkans, where the **
 
 ---
 
-## Orders Yours Today
-
-This is not a tea you forget.  
-She’s bold. She’s ancient. She’s here to challenge and support.
-
-Whether you’re looking to clear fog, reconnect with herbal traditions, or work more deeply with protective plants in your practice — *Artemisia annua* is a potent ally.
-
-**[Order Artemisia Annua Tea Now](/shop/)**
-
-Harvested by hand. Crafted with care. Limited batches only.
-
----
-
 ## Who This Tea Is (and Isn’t) For
 
 - For people drawn to bitter herbs, ritual plants, ancestral practices
