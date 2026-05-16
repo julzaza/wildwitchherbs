@@ -16,6 +16,11 @@ tags:
   - wormwood
   - yarrow
   - dandelion
+  - 
+image_mobile: /assets/images/heroes/old-world-tradition-of-drinking-bitter-herbs/800x1000px-wormwood-plant-pelin.webp
+image_desktop_1280: /assets/images/heroes/old-world-tradition-of-drinking-bitter-herbs/1280x400px-wormwood-plant-pelin.webp
+image_alt: "artemisia absinthium a.k.a. wormwood plant close-up"
+teaser: /assets/images/heroes/old-world-tradition-of-drinking-bitter-herbs/800x1000px-wormwood-plant-pelin.webp
 
 faq:
   - question: "Why were bitter herbs used in summer?"
