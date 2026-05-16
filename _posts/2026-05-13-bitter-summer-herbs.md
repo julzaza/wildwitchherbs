@@ -98,6 +98,8 @@ Best method:
 
 Historically, wormwood was respected more than loved.
 
+Among the Artemisia family, sweet wormwood carries its own distinct tradition, which is older than most people expect: **[The Bitter Brew: Artemisia Annua Tea](/artemisia-annua-tea-benefits/)**.
+
 ---
 
 ## Yarrow (Achillea millefolium)
@@ -118,7 +120,7 @@ Best method:
 - Often mixed with mint or lemon balm
 - Used in moderate amounts
 
-Some traditions believed yarrow gathered during midsummer carried special strength.
+Yarrow gathered at midsummer believed to carry special strength and had specific uses beyond digestion, including **[Threshold Protection](/witchy-plants-for-front-door/)** that folk traditions took very seriously.
 
 ---
 
