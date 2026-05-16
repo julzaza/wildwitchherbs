@@ -32,9 +32,15 @@ faq:
     
 ---
 
-In older traditions, protection was not intuitive, and it **was never a one-time act**.
+## A Practical System of 13 Folk Workings for People Whose Protection Isn't Holding.
 
-It was built into the structure of the home itself: into the doorway, the floor, the threshold, the places where something could cross.
+You've cleansed the space. You've burned the herbs. You've set the intentions.
+
+And something still feels wrong.
+
+That's not a problem with your effort. It's a **problem with the sequence**.
+
+In older traditions, protection was not intuitive, and it **was never a one-time act**.
 
 And more importantly, **it followed a logic**.
 
@@ -164,6 +170,16 @@ Each one is placed where it belongs: entry, clearing, holding, or maintenance; s
 
 ---
 
+## This guide is for you if:
+
+You've cleansed repeatedly but the heaviness returns. 
+
+You have the herbs but don't know which situation calls for which method. 
+
+You want folk practice, not modern wellness content. You're ready to stop guessing.
+
+---
+
 ## Access the Full Guide
 
 The full set of methods, written with exact instructions and correct use, can be found here → 
@@ -178,7 +194,7 @@ The full set of methods, written with exact instructions and correct use, can be
        color: #2f3e2f;
        text-decoration: none;
        border-radius: 6px;">
-   Get the Protective Herbal Home Rituals: Full Guide
+   Get the Complete Home Protection System PDF
   </a>
 </div>
 
