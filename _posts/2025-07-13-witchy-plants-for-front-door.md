@@ -253,7 +253,7 @@ If you want to go beyond plants and actually build protection that holds, start 
 
 Structured in sequence.  
 Available as a digital guide (PDF, instant download), yours to keep.  
-Price: $5.95
+Price: $12
 
 ---
 
