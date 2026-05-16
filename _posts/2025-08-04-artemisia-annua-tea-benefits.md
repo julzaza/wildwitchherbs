@@ -204,6 +204,7 @@ Both. Artemisia annua sits at the crossroads of body, spirit, and threshold magi
 Yes, buy cautiously. This is not a “gentle” herb, but it is a wise one. Respect, moderation, and intention matter more than experience level.
 
 **Why is Artemisia associated with protection?**  
-Across Europe and the Balkans, it was believed to repel illness, harmful forces, and spiritual intrusion, especially when used near doors, windows, or thresholds.
+Across Europe and the Balkans, it was believed to repel illness, harmful forces, and spiritual intrusion, especially when used near doors, windows, or thresholds.  
+If herbal protection is the topic that interests you, dive deeper into it here: **[Top 11 Protective Plants in Witchcraft](/top-protective-herbs-witchcraft/)**.
 
 ---
