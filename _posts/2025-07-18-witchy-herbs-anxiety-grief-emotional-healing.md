@@ -57,7 +57,7 @@ faq:
 
 Witches have always known what the world is only beginning to remember: **healing the heart takes more than logic**. 
 
-It requires **ritual, plants, and spirit**—a return to the root. 
+It requires **ritual, plants, and spirit**, a return to the roots. 
 This is a guide to witchy herbs used for **emotional healing**, gathered from folk traditions, magical texts, and herbal wisdom. 
 
 Whether you're moving through grief, calming anxiety, or seeking inner restoration, these plants speak to the spirit as well as the body.
@@ -400,9 +400,9 @@ And here is **[How to Make Moon Water for Witchcraft](/moon-water-magic/)** in c
 
 ## ✧ Final Thought for the Healing
 
-Emotional healing in witchcraft is sacred work. It’s slow, rooted, and real. These herbs don’t promise escape—they offer *companionship* through the pain, *wisdom* for the storm, and a whisper that you are not alone.
+Emotional healing in witchcraft is sacred work. It’s slow, rooted, and real. These herbs don’t promise escape, they offer *companionship* through the pain, *wisdom* for the storm, and a whisper that you are not alone.
 
-If you want something you can return to in the moment—not just read and forget—we’ve gathered a simple, structured tea ritual for calming anxiety and emotional overwhelm.
+If you want something you can return to in the moment, not just read and forget: we’ve gathered a simple, structured tea ritual for calming anxiety and emotional overwhelm.
 
 It includes specific herb combinations for specific anxiety states, ratios, and a grounding practice you can follow this guide:
 
