@@ -83,6 +83,8 @@ Here are a few ways witches and folk healers use *Artemisia annua*:
 - **Moon Planting & Harvesting**: Use the tea during waxing moons or new moon planting to align with lunar cycles  
 - **Protection**: Place dried Artemisia near doors or windows for spiritual shielding  
 
+For the full system of threshold protection, including where Artemisia fits in the sequence, see: **[The Herbal Home Protection Guide](/home-protection-herbal-rituals-guide/)**. 
+
 ---
 
 ## How to Brew
