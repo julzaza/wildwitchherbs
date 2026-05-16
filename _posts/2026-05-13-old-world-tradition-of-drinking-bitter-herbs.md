@@ -64,7 +64,7 @@ In German-speaking communities across Central Europe, these spring preparations 
 
 Summer brought its own reasons: heat slowing digestion, food spoiling faster, heavy meals after long days of work. Bitter herbs were taken before meals throughout the warmer months to stimulate appetite, encourage digestion, and **reduce the heaviness that follows rich food in hot weather**. This is the tradition behind Pelinkovac.
 
-But the practice wasn't seasonal in the way we now think of seasonal wellness. Medieval monks cultivated wormwood in their medicinal gardens year-round, using it for digestive complaints, liver conditions, and as a general tonic across all seasons. The bitter drink before the meal was a daily habit more than a calendar ritual. 
+But the practice wasn't seasonal in the way we now think of seasonal wellness. **Medieval monks** cultivated wormwood in their medicinal gardens year-round, using it for digestive complaints, liver conditions, and as a general tonic across all seasons. The bitter drink before the meal was a daily habit more than a calendar ritual. 
 
 What changed by season was the plant itself: **which bitter herb was available**, at what potency, and what the body most needed at that moment. 
 
@@ -110,8 +110,6 @@ Historically, **wormwood was respected more than loved**. It was not a comfort h
 
 **How it was used:** small amounts, almost always blended with other herbs. In alcoholic infusions for adults, weak tea sweetened with honey for those who needed medicine without spirits. 
 Never casually, never in large quantities, and not for extended periods.
-
-Among the Artemisia family, sweet wormwood carries its own distinct tradition, which is older than most people expect: **[The Bitter Brew: Artemisia Annua Tea](/artemisia-annua-tea-benefits/)**.
 
 ---
 
@@ -166,6 +164,24 @@ Wild chicory growing beside roads became a familiar sight across much of Europe.
 
 ---
 
+## Sweet Wormwood (Artemisia annua) — the bitter cousin with a different role
+
+Artemisia annua belongs to the same family as wormwood and mugwort, and shares their characteristic bitterness, but its traditional role in the bitter drink tradition is more specific and less widespread in Europe.
+
+In Chinese tradition, preparations of qinghao included not only teas and decoctions but also **qinghao wine**, which is a bitter infusion that placed it squarely within the broader tradition of **medicinal bitter drinks**. 
+
+More broadly, Artemisia annua has been **documented as a flavoring for spirits**, including vermouth-style preparations, alongside its better-known relatives. Like the other bitter herbs in this tradition, its bitter compounds were traditionally associated with digestive support. It was **used for dyspepsia and loss of appetite** in folk medicine contexts. 
+
+Artemisia annua appears more consistently in purification, fever-clearing, and corruption-removal traditions, especially in Eurasian and Chinese contexts, rather than as a daily pre-meal digestive bitter. 
+
+**It was medicine first, drink second.** It was not a habitual table herb the way wormwood became in the Balkans. 
+
+If you want to understand this plant's full character and the strange story of how it found its way from ancient Chinese poetry to modern medicine, see:  **[The Bitter Brew: Artemisia Annua Tea](/artemisia-annua-tea-benefits/)**.
+
+This story is worth reading in full.
+
+---
+
 ## Why Bitterness Disappeared
 
 As humans evolved, we consumed vast amounts of wild bitter plants throughout the year. The loss of bitterness from modern diets happened gradually as **food became sweeter and more processed**, digestive complaints followed. 
@@ -174,6 +190,8 @@ Older herbal systems understood **bitterness as something the body expected and 
 
 But the bitter drink before the meal, the digestive tonic, the wormwood-infused wine — these were year-round habits embedded in daily life, not seasonal events.
 The drink placed on the table in Croatia before the meal wasn't a spring ritual. It was Tuesday.
+
+---
 
 ## A Simple Bitter Preparation
 
