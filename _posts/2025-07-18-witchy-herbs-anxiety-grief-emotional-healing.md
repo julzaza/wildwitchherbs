@@ -62,12 +62,6 @@ This is a guide to witchy herbs used for **emotional healing**, gathered from fo
 
 Whether you're moving through grief, calming anxiety, or seeking inner restoration, these plants speak to the spirit as well as the body.
 
-For targeted nervous system support and calming herbs, see:
-**[Best Herbs for Anxiety & Stress](/herbs-for-anxiety-and-stress/)**.
-
-To explore more herbs trusted for centuries to support the body, protect health, and restore strength, see: 
-**[Folk Healing Herbs for the Body (Traditional Remedies)](/witchy-herbs-for-healing/)**.
-
 ---
 
 ## ✦ 1. **Lemon Balm (_Melissa officinalis_)**
@@ -445,3 +439,12 @@ A classic blend includes **lemon balm, rose, chamomile, and hawthorn**, with **l
 **Are there herbs that should be avoided with antidepressants or medication?**  
 Yes. **St. John’s wort** is known to interact with many medications, including SSRIs. Always research herb–drug interactions and consult a qualified healthcare professional before combining herbs with prescriptions.
 
+---
+
+## Deep Dive Into Healing Herbs
+
+For targeted nervous system support and calming herbs, see:
+**[Best Herbs for Anxiety & Stress](/herbs-for-anxiety-and-stress/)**.
+
+To explore more herbs trusted for centuries to support the body, protect health, and restore strength, see: 
+**[Folk Healing Herbs for the Body (Traditional Remedies)](/witchy-herbs-for-healing/)**.
