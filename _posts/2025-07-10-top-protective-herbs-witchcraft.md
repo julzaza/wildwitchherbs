@@ -243,7 +243,7 @@ If this post gave you the plants, the guide gives you the practice.
 
 Structured in sequence.  
 Available as a digital guide (PDF, instant download), yours to keep.  
-Price: $5.95
+Price: $12
 
 ---
 
