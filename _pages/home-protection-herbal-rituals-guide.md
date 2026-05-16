@@ -208,7 +208,7 @@ The full set of methods, written with exact instructions and correct use, can be
        display: inline-block;
        padding: 16px 32px;
        background-color: #2f3e2f;
-       color: #ffffff;
+       color: #ffffff !important;
        text-decoration: none;
        border-radius: 4px;
        font-size: 1.05em;
