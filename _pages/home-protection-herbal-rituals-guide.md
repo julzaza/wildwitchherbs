@@ -200,6 +200,28 @@ The full set of methods, written with exact instructions and correct use, can be
 
 ---
 
+
+<div style="margin: 30px 0; text-align: center;">
+  <a href="https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home" 
+     target="_blank" 
+     style="
+       display: inline-block;
+       padding: 16px 32px;
+       background-color: #2f3e2f;
+       color: #f5f0e8;
+       text-decoration: none;
+       border-radius: 4px;
+       font-size: 1.05em;
+       letter-spacing: 0.03em;
+       font-weight: 600;">
+    Get the Complete Home Protection System → $12
+  </a>
+  <p style="margin-top: 12px; font-size: 0.85em; color: #666; letter-spacing: 0.02em;">
+    PDF · Instant download · Yours to keep
+  </p>
+</div>
+
+
 Protection is not about doing more.
 
 It is about doing the right thing, in the right place, at the right time.
