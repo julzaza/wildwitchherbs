@@ -203,7 +203,3 @@ Bitter herbs were commonly prepared as teas, decoctions, tinctures, wine infusio
 In many traditional cultures, bitterness became associated with digestion, resilience, endurance, and preventing sluggishness.
 
 ---
-
-Older herbal traditions rarely tried to make bitter plants pleasant. Their harshness was often considered part of their value.
-
-To many people, bitterness meant the herb was doing something important.
