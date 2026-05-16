@@ -68,6 +68,8 @@ In folk medicine, bitter herbs like Artemisia are **believed to “wake up” th
 
 In the Balkans, **where we source our tea, women once gathered Artemisia with the moon, drying it slowly** in shaded sheds and attics, away from harsh sunlight. The result is a clean, piercing infusion that feels alive. One cup is enough to remind you: this is no supermarket herb.
 
+Artemisia wasn't the only bitter herb folks turned to. The **[Tradition of Bitter Summer Herbs](/bitter-summer-herbs/)**: mugwort, wormwood and yarrow, is older and stranger than most people realize.
+
 --- 
 
 ## Magical Uses & Rituals
