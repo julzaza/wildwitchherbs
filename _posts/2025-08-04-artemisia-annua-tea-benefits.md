@@ -14,6 +14,11 @@ tags:
 description: Discover the ancient, bitter tradition of Artemisia annua tea, a wild Old World tonic rooted in folk medicine, seasonal cleansing, and protective witchcraft rituals.
 excerpt: Dive into the folklore, ritual uses, and traditional bitterness of Artemisia annua tea, a centuries-old brew used across Europe, Asia, and the Balkans for cleansing, protection, and resilience.
 
+image_mobile: /assets/images/heroes/artemisia-annua-tea-benefits/800x1000px-artemisia-annua.webp
+image_desktop_1280: /assets/images/heroes/artemisia-annua-tea-benefits/1280x400px-artemisia-annua.webp
+image_alt: "artemisia annua a.k.a. sweet wormwood plant close-up"
+teaser: /assets/images/heroes/artemisia-annua-tea-benefits/800x1000px-artemisia-annua.webp
+
 faq:
   - question: "What makes Artemisia annua a traditional bitter herb?"
     answer: "Old European folk healers prized bitter herbs like Artemisia for their ability to ‘wake’ digestion, clear stagnation, and align the body with seasonal rhythms."
