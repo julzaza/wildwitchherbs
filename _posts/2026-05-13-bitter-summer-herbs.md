@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Forgotten Tradition of Bitter Summer Herbs"
+title: "The Old World Tradition of Drinking Bitter Herbs"
 
 excerpt: "Long before modern detox culture existed, bitter herbs were traditionally used during summer to stimulate digestion, reduce heaviness, and help the body endure heat."
 description: "A folklore-rich guide to bitter summer herbs in traditional herbalism, including mugwort, wormwood, yarrow, dandelion, chicory, and old seasonal bitter drinks."
@@ -8,6 +8,8 @@ categories:
   - folklore-ancestral
 tags:
   - bitter-herbs
+  - pelinkovac
+  - pelin
   - summer-herbalism
   - folk-herbalism
   - mugwort
@@ -28,14 +30,24 @@ faq:
   - question: "Why did people value bitterness historically?"
     answer: "In many traditional cultures, bitterness became associated with digestion, resilience, endurance, and preventing sluggishness."
 ---
+While living in Croatia, I got introduced to a drink called Pelinkovac.
+It comes before the meal. Small glass, dark liquid, intensely bitter. 
 
-Modern food became increasingly sweet.
+It is simply placed on the table the way bread is placed on the table. 
+You drink it because that is what everyone does before eating. 
 
-Older herbal traditions often moved in the opposite direction.
+It is not discussed. It is not marketed as a wellness ritual. It is just there.
 
-Across Europe, the Balkans, and parts of the Middle East, bitter herbs were once considered an ordinary part of surviving summer heat, heavy meals, alcohol, physical labor, and stagnant digestion.
+Pelin is the Serbo-Croatian word for wormwood. Pelinkovac is, literally, the wormwood drink.
 
-Many of the plants people now call weeds or “witch herbs” were once consumed deliberately because of their bitterness.
+Before the drink was commercialized in the 19th century, it existed as a home remedy, which was used to cleanse the blood, get rid or parasites and to settle the stomach. Wormwood was believed to stimulate digestion, sharpen appetite, and ward off the kind of internal trouble that follows heavy eating. 
+
+The first commercial version was produced in Zagreb in 1862 by a chemist named Franjo Pokorny. It became successful enough to be exported to the Viennese and French royal courts. But the tradition behind it is older than any bottle. 
+
+What I noticed wasn't the commercial liqueur. It was the habit underneath it: the instinct that bitterness belonged before the meal, that the body needed something sharp and clarifying before sitting down to eat. 
+
+That instinct is not Croatian specifically. It runs across the Balkans, across Central Europe, across much of the older world.
+This post is about the plants behind that instinct.
 
 ## Why Bitter Herbs Became Summer Herbs
 
