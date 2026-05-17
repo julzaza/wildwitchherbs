@@ -76,10 +76,6 @@ A gentle balm for anxious hearts.
 
 Lemon balm was rarely used alone, but paired with other herbs to regulate the nervous system more deeply.
 
-If you want a set of these blends already structured and matched to different emotional states (sleepless nights, heavy heart, overwhelmed nervous system), you can find them here:
-
-**[Herbal Remedies for Anxiety & Emotional Balance: Tea Blend Guide](/herbal-remedies-for-anxiety-and-emotional-stability-guide/)**
-
 ---
 
 ## ✦ 2. **St. John’s Wort (_Hypericum perforatum_)**
