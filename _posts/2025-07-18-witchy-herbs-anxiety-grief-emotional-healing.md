@@ -359,7 +359,7 @@ When anxiety and emotional overwhelm take over, you need more than just informat
 
 It includes **specific herb combinations** for specific anxiety states, ratios, and a grounding practice.
 
-5 blends + 1 cold infusion for long term use. 
+**5 blends + 1** cold infusion for long term use. 
 
 **Night Nervous System** Tea for when you're wired but exhausted and sleep won't come. 
 
@@ -371,7 +371,7 @@ It includes **specific herb combinations** for specific anxiety states, ratios, 
 
 **Clear Mind Day Blend** for when you still have to function.
 
-Plus a **bonus cold infusion** for rebuilding a depleted nervous system over time.
+Plus a bonus cold infusion for rebuilding a depleted nervous system over time.
 
 Each recipe includes exact amounts, preparation method, when to use it, what it does, and why. 
 
