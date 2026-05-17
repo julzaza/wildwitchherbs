@@ -359,16 +359,12 @@ When anxiety and emotional overwhelm take over, you need more than just informat
 
 It includes **specific herb combinations** for specific anxiety states, ratios, and a grounding practice.
 
-**5 blends + 1** cold infusion for long term use. 
+**5 blends + 1** cold infusion for long term use:
 
-**Night Nervous System Tea** - for when you're wired but exhausted and sleep won't come. 
-
-**Tension Release Infusion** - for when the anxiety is in your chest and body, not your thoughts. 
-
-**Emergency Calm Blend** - for when it spikes fast and you need to come down now. 
-
-**Heavy Heart Tea** - for when grief or emotional weight is underneath the anxiety. 
-
+**Night Nervous System Tea** - for when you're wired but exhausted and sleep won't come.  
+**Tension Release Infusion** - for when the anxiety is in your chest and body, not your thoughts.  
+**Emergency Calm Blend** - for when it spikes fast and you need to come down now.  
+**Heavy Heart Tea** - for when grief or emotional weight is underneath the anxiety.  
 **Clear Mind Day Blend** - for when you still have to function.
 
 Plus a bonus cold infusion for rebuilding a depleted nervous system over time.
