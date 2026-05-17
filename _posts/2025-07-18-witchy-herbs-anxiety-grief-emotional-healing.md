@@ -2,7 +2,7 @@
 layout: single
 title: "Witchy Herbs for Emotional Healing: Anxiety & Grief"
 
-excerpt: "A deep, folklore-rich guide to witchy herbs for emotional healing—calming anxiety, easing grief, balancing the heart, and supporting spiritual resilience through plant magic."
+excerpt: "A deep, folklore-rich guide to witchy herbs for emotional healing: calming anxiety, easing grief, balancing the heart, and supporting spiritual resilience through plant magic."
 description: "Explore witchy herbs for emotional healing through Old World folklore, ritual magic, and herbal wisdom. Learn how plants like lemon balm, St. John’s wort, valerian, mugwort, and hawthorn soothe anxiety, grief, heartbreak, and spiritual exhaustion."
 categories: [natural-healing, folklore-ancestral]
 tags:
