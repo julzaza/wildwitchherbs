@@ -357,6 +357,36 @@ The sweet sleep sentinel.
 
 ---
 
+## ✧ Herbal Tea Recipes for Anxiety and Emotional Balance Guide
+
+When anxiety and emotional overwhelm take over, you need more than just information; you need a practice. Here is a simple, step-by-step tea ritual you can return to whenever you need to find your calm.
+
+It includes **specific herb combinations** for specific anxiety states, ratios, and a grounding practice.
+
+5 blends + 1 cold infusion for long term use. 
+
+**Night Nervous System** Tea for when you're wired but exhausted and sleep won't come. 
+
+**Tension Release Infusion** for when the anxiety is in your chest and body, not your thoughts. 
+
+**Emergency Calm Blend** for when it spikes fast and you need to come down now. 
+
+**Heavy Heart Tea** for when grief or emotional weight is underneath the anxiety. 
+
+**Clear Mind Day Blend** for when you still have to function.
+
+Plus a **bonus cold infusion** for rebuilding a depleted nervous system over time.
+
+Each recipe includes exact amounts, preparation method, when to use it, what it does, and why. 
+
+→ **[Anxiety & Emotional Balance Herbal Tea Recipes Guide](https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety)**
+
+PDF · Instant download · $10
+
+Drink the tea. Burn the bundle. Speak to the leaves. Let yourself feel, and let the plants do their quiet, ancient work.
+
+---
+
 ## ✧ Ritual: Smoke Bundle for Soothing the Heart
 
 **What you need:**
@@ -392,33 +422,13 @@ And here is **[How to Make Moon Water for Witchcraft](/moon-water-magic/)** in c
 
 ---
 
-## ✧ Herbal Tea Recipes for Anxiety and Emotional Balance Guide
+## Deep Dive Into Healing Herbs
 
-When anxiety and emotional overwhelm take over, you need more than just information; you need a practice. Here is a simple, step-by-step tea ritual you can return to whenever you need to find your calm.
+For targeted nervous system support and calming herbs, see:
+**[Best Herbs for Anxiety & Stress](/herbs-for-anxiety-and-stress/)**.
 
-It includes **specific herb combinations** for specific anxiety states, ratios, and a grounding practice.
-
-5 blends + 1 cold infusion for long term use. 
-
-**Night Nervous System** Tea for when you're wired but exhausted and sleep won't come. 
-
-**Tension Release Infusion** for when the anxiety is in your chest and body, not your thoughts. 
-
-**Emergency Calm Blend** for when it spikes fast and you need to come down now. 
-
-**Heavy Heart Tea** for when grief or emotional weight is underneath the anxiety. 
-
-**Clear Mind Day Blend** for when you still have to function.
-
-Plus a **bonus cold infusion** for rebuilding a depleted nervous system over time.
-
-Each recipe includes exact amounts, preparation method, when to use it, what it does, and why. 
-
-→ **[Anxiety & Emotional Balance Herbal Tea Recipes Guide](https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety)**
-
-PDF · Instant download · $10
-
-Drink the tea. Burn the bundle. Speak to the leaves. Let yourself feel, and let the plants do their quiet, ancient work.
+To explore more herbs trusted for centuries to support the body, protect health, and restore strength, see: 
+**[Folk Healing Herbs for the Body (Traditional Remedies)](/witchy-herbs-for-healing/)**.
 
 ---
 
@@ -455,11 +465,3 @@ A classic blend includes **lemon balm, rose, chamomile, and hawthorn**, with **l
 Yes. **St. John’s wort** is known to interact with many medications, including SSRIs. Always research herb–drug interactions and consult a qualified healthcare professional before combining herbs with prescriptions.
 
 ---
-
-## Deep Dive Into Healing Herbs
-
-For targeted nervous system support and calming herbs, see:
-**[Best Herbs for Anxiety & Stress](/herbs-for-anxiety-and-stress/)**.
-
-To explore more herbs trusted for centuries to support the body, protect health, and restore strength, see: 
-**[Folk Healing Herbs for the Body (Traditional Remedies)](/witchy-herbs-for-healing/)**.
