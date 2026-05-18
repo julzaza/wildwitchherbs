@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Plants Used to Break Love or Sever Bonds in Folk Magic"
-excerpt: "Across cultures, certain plants were used not to attract love—but to end it. These herbs appear in rites of separation, forgetting, banishment, and severed ties."
+excerpt: "Across cultures, certain plants were used not to attract love, but to end it. These herbs appear in rites of separation, forgetting, banishment, and severed ties."
 description: "A global folklore-based guide to plants historically used in love-breaking, separation, and bond-severing rituals across Balkan, Middle Eastern, African, Asian, and Indigenous traditions."
 author: "Wild Witch Herbs"
 
@@ -72,7 +72,7 @@ Not all magic was meant to bind.
 
 Across the world, people turned to plants of bitterness, forgetfulness, and decay when love became dangerous, obsessive, or destructive. These were not spells of revenge. They were acts of release.
 
-Some bonds were believed to rot the soul. Plants—closer to death than humans—knew how to cut them cleanly.
+Some bonds were believed to rot the soul. Plants knew how to cut them cleanly.
 
 Not all love magic meant to bind without consent, for contrast, see our post on ethical attraction magic to understand the duality of folk love practices: **[Love Attraction Rituals in Global Folk Magic](/love-attraction-rituals-global-folk-magic/)**
  
