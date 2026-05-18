@@ -71,6 +71,11 @@ Winter solstice dreaming belonged more to the long dark season of prophecy, the 
 Summer charged the herb.  
 Winter asked the question.
 
+Mugwort and wormwood were never only ritual plants.  
+Across the Balkans, Central Europe, and older monastic herbal traditions, these same bitter herbs were also drunk before meals, infused into wines, and used seasonally to “move stagnation” after winter heaviness. 
+
+Their medicinal and magical lives were never fully separate. Explore that older tradition here: **[The Old World Tradition of Drinking Bitter Herbs](/old-world-tradition-of-drinking-bitter-herbs/)**.
+
 ---
 
 ## Mugwort — The Dream-Mother
