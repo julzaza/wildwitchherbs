@@ -89,7 +89,7 @@ The root especially became connected with spring routines meant to replace winte
 
 For many people, dandelion was less a special medicine and more a seasonal ritual repeated each year.
 
-Dandelion root eventually became one of several classic herbs used in **[traditional folk skin routines](/three-top-herbs-for-clear-skin/)** focused on bitterness, nourishment, and seasonal cleansing.
+Dandelion was rarely used alone in these spring traditions. It appeared alongside wormwood, mugwort, yarrow, and chicory as part of a much older Old World habit of **[Drinking Bitter Herbs](/old-world-tradition-of-drinking-bitter-herbs/)**. 
 
 ---
 
