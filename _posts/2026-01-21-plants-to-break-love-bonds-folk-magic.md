@@ -129,12 +129,6 @@ Attachment-breaking rather than love-ending.
 
 ---
 
-## Herbs Used to Attract Love:
-
-Herbs were also used in witchcraft to attract the right match. See **[Love Magic Herbs to Attract the Right Partner](/love-magic-herbs-to-attract-the-right-partner/)** to explore these magical allies and ways to work with them. 
-
----
-
 ## How Bond-Severing Worked 
 
 Traditional separation rites often involved:
@@ -207,6 +201,11 @@ Historical sources consistently warned:
 
 Many traditions believed improper use could bind the practitioner to the grief instead.
 
+---
+
+## Herbs Used to Attract Love:
+
+Herbs were also used in witchcraft to attract the right match. See **[Love Magic Herbs to Attract the Right Partner](/love-magic-herbs-to-attract-the-right-partner/)** to explore these magical allies and ways to work with them. 
 
 Balkan traditions provide particularly rich documentation of attraction and love binding rites; for deeper exploration of these regional customs, see **[Balkan Love Magic: Folk Spells and Desire Rites](/balkan-love-magic-folklore/)** to explore the darker side of binding love magic.
 
