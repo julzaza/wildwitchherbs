@@ -32,7 +32,7 @@ faq:
 
 In the hidden corners of **European folk magic**, few herbs have walked the boundary between waking and dreaming like **wormwood (Artemisia absinthium)**. Its silver leaves and bitter aroma were said to **whisper to the dreamer**, *wake within your dream, see the unseen*.  
 
-Wormwood has a long history as both **protector and guide**: hung over doorways to repel spirits, burned in hearths to dispel nightmares, or steeped in water or wine to open the doors to other realms. This is **not a gentle plant**—its spirit is fierce, restless, and best approached with intention.
+Wormwood has a long history as both **protector and guide**: hung over doorways to repel spirits, burned in hearths to dispel nightmares, or steeped in water or wine to open the doors to other realms. This is **not a gentle plant**. Its spirit is fierce, restless, and best approached with intention.
 
 Check out **[Witchy Herbs for Your Bedroom](/witchy-plants-bedroom/)** for more household plant allies you need to know. 
 
@@ -42,9 +42,9 @@ Check out **[Witchy Herbs for Your Bedroom](/witchy-plants-bedroom/)** for more 
 
 The secret of wormwood lies in its **volatile oils**, particularly **thujone**, which gently stimulates the nervous system. The balance is delicate: too much can overwhelm, but in careful doses, it **awakens lucid and symbol-laden dreams**.  
 
-Historical grimoires repeatedly warn: *wormwood must be used with reverence and restraint*. Traditional practitioners only employed it on **new moons, crossroads nights, or during guided rituals**—never as a daily tonic.
+Historical grimoires repeatedly warn: *wormwood must be used with reverence and restraint*. Traditional practitioners only employed it on **new moons, crossroads nights, or during guided rituals**; never as a daily tonic.
 
-Strong herbs aren’t always the right choice when the spirit is unsettled. Folk practices warn about using wormwood in times of **emotional vulnerability**, so it is not recommended during early stages of grief or emotional shock. Find out more here: **[Herbs to Avoid When Emotionally Vulnerable](/herbs-to-avoid-when-emotionally-vulnerable/)**.
+Strong herbs aren’t always the right choice when the spirit is unsettled. Folk practices warn about using wormwood in times of **emotional vulnerability**, so it is not recommended during early stages of grief or emotional shock. Find out what **[Herbs to Avoid When Emotionally Vulnerable](/herbs-to-avoid-when-emotionally-vulnerable/)**.
 
 ---
 
@@ -52,10 +52,14 @@ Strong herbs aren’t always the right choice when the spirit is unsettled. Folk
 
 **Important:** Wormwood is **potent and potentially toxic**. For dreamwork:
 
-- Use sparingly—never in alcohol-based infusions.  
+- Use sparingly, avoid concentrated alcohol-based infusions or oils*.  
 - Combine with **gentler herbs** like chamomile or mugwort.  
 - Drink only in small doses, 2–3 nights per week.  
 
+* Genuinely risky: wormwood essential oil taken internally, very high doses, prolonged continuous use beyond 4 weeks, use during pregnancy or breastfeeding, use with seizure medications.
+Traditional low-dose uses like digestive bitters and aperitifs have a long history of safe use. In fact, wormwood bitters are still widely consumed in many cultures, see: **[Tradition of Drinking Bitter Herbs](/old-world-tradition-of-drinking-bitter-herbs/)** for more on that. 
+
+The risk lies in concentrated preparations and prolonged heavy use, not in the plant itself used respectfully and occasionally
 A properly prepared tea can **stimulate the liminal space between waking and dreaming**, guiding visions while maintaining clarity.
 
 ---
@@ -75,7 +79,7 @@ This traditional blend tempers wormwood’s intensity while enhancing dream clar
 3. Drink **half a cup 30–45 minutes before sleep**.  
 4. Limit to **2–3 nights per week**.  
 
-> Dreams may shimmer with **silver light, strange symbols, and lucid clarity**. Keep a notebook to capture messages and images.
+Dreams may shimmer with **silver light, strange symbols, and lucid clarity**. Keep a notebook to capture messages and images.
 
 ---
 
@@ -92,7 +96,7 @@ For those with access to living wormwood:
 2. Strain and drink **½ cup before bed**.  
 3. Optional: add **honey or mint** to temper bitterness.  
 
-This tea is **potent and electric**, suitable for ritual nights of vision or guided spiritual work—rare and intentional.
+This tea is **potent and electric**, suitable for ritual nights of vision or guided spiritual work, rare and intentional.
 
 ---
 
