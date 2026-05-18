@@ -114,11 +114,13 @@ Its stronger traditional uses include:
 
 Unlike mugwort, wormwood was not primarily the dream herb.
 
-It was the guard at the threshold.
+It was **the guard at the threshold**.
 
 Where mugwort opened the road, wormwood stood watch over who crossed it.
 
-That is why it was used sparingly and with clear purpose.
+During winter solstice rites, small amounts of wormwood were sometimes placed near beds, burned lightly in the hearth, or hung near entrances while dreams and omens for the coming year were sought. The plant’s bitterness itself carried symbolic meaning: clarity, endurance, protection, and the refusal of harmful influence.
+
+Unlike mugwort, wormwood was treated cautiously. Folk practitioners rarely approached it casually or continuously. It **belonged to intense nights, ritual boundaries, and moments when protection mattered** as much as vision itself.
 
 Wormwood’s broader folklore, dream traditions, and safe ritual use are explored further in **[Wormwood for Lucid Dreaming](/wormwood-lucid-dreaming/)**.
 
