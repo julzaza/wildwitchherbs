@@ -6,7 +6,6 @@ excerpt: "Explore wormwood’s mystical role in lucid dreaming, its rich folklor
 description: "Discover the ancient connection between wormwood (Artemisia absinthium) and lucid dreaming. Learn its European folk magic, dream tea recipes, and guidance for safe, visionary sleep rituals."
 categories: [herbal-magic, folklore-ancestral]
 tags: [wormwood, lucid dreaming]
-search: false
 
 image_mobile: /assets/images/heroes/wormwood-lucid-dreaming/800x1000px-wormwood-plant.webp
 image_desktop_1280: /assets/images/heroes/wormwood-lucid-dreaming/1280x400px-wormwood-plant.webp
