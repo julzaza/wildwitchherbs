@@ -115,4 +115,6 @@ Yes. Dandelion became strongly associated with spring cleansing traditions after
 
 Dandelion root survived in folk herbalism partly because it was highly effective and **partly because it was everywhere**. It pushed through fields, roadsides, gardens, and cracks in stone walls whether people welcomed it or not.
 
-That stubbornness became part of the plant’s reputation: persistent, bitter, cleansing, and difficult to remove once established.
+That **stubbornness became part of the plant’s reputation**: persistent, bitter, cleansing, and difficult to remove once established.
+
+However, it was rarely the only herb folk herbalists reached for when skin needed clearing from the inside. Nettle, cleavers, and burdock root each had their own specific role in this tradition. In fact, they are the **[Top Three Traditional Herbs for Healthy Skin](/three-top-herbs-for-clear-skin/)**. 
