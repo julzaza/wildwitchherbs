@@ -120,7 +120,7 @@ Where mugwort opened the road, wormwood stood watch over who crossed it.
 
 That is why it was used sparingly and with clear purpose.
 
-For deeper work with this plant, see **[Wormwood & Lucid Dreaming](/wormwood-lucid-dreaming/)**.
+Wormwood’s broader folklore, dream traditions, and safe ritual use are explored further in **[Wormwood for Lucid Dreaming](/wormwood-lucid-dreaming/)**.
 
 ---
 
