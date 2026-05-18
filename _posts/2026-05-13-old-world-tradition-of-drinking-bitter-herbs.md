@@ -91,6 +91,8 @@ It found its way **into old folk beer recipes** across Northern and Central Euro
 Intensely bitter and not a casual everyday drink. 
 Rarely used in large quantities.
 
+Mugwort's midsummer gathering wasn't only about digestion though. The solstice connection ran deep into dreamwork, prophecy, and the specific rites practiced on the longest nights. That magical side of the plant is explored in: **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)**. 
+
 ---
 
 ## Wormwood (Artemisia absinthium) — the one that gave pelinkovac its name
@@ -143,6 +145,8 @@ The **bitterness itself is most intense in spring**, before the plant flowers, a
 The root was used differently though. It was roasted as **a year-round drink**, a coffee substitute before coffee was common and a genuine bitter tonic in its own right throughout the colder months when fresh leaves weren't available.
 
 **How it was used:** fresh leaves in spring salads and bitter preparations, root decoction as a year-round drink, flowers in wine. The most accessible of all the bitter herbs and the one most directly tied to the rhythm of the seasons.
+
+Folk herbalists also connected dandelion's bitter action directly to the skin. The same internal clearing that helped digestion was believed to surface through the complexion. If blemishes are your problem, check out: **[Why Folk Herbalists Used Dandelion Root for Breakouts](/dandelion-root-for-breakouts/)**. 
 
 Dandelion remained popular partly because **it was everywhere**.
 
