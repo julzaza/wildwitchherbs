@@ -135,7 +135,7 @@ Herbs were also used in witchcraft to attract the right match. See **[Love Magic
 
 ---
 
-## How Bond-Severing Worked (Without Spells)
+## How Bond-Severing Worked 
 
 Traditional separation rites often involved:
 
@@ -149,6 +149,39 @@ Words were minimal. Action carried the intent.
 
 ---
 
+## A Traditional Folk Method for Releasing Attachment
+
+Across Balkan, Slavic, and Mediterranean folk practices, separation rituals were usually quiet rather than dramatic. 
+The goal was not theatrical revenge, but finality.
+
+One recurring method involved bitter or stinging plants, running water, and physical separation.
+
+A Simple Folk-Style Release Rite
+
+You will need:
+
+- a bitter or protective herb such as rue, wormwood, or nettle
+- a small piece of cloth or paper
+- running water or crossroads earth
+
+Write the name, memory, or burden you wish released.
+
+Wrap it with the herb tightly and bind it with thread.
+
+Do not speak excessively over it. In many traditions, silence carried more authority than elaborate incantation.
+
+Carry it away from the home and either:
+
+- bury it at a crossroads
+- cast it into running water
+- or leave it beneath a thorn tree
+
+Then wash your hands before re-entering the house.
+
+Historically, this cleansing mattered as much as the release itself. Folk traditions often treated attachment as something that lingered physically unless deliberately removed.
+
+---
+
 ## Timing of Separation Magic
 
 Folk calendars emphasized:
@@ -159,7 +192,7 @@ Folk calendars emphasized:
 - After betrayal or illness  
 - Before new marriages  
 
-Timing mattered—but finality mattered more.
+Timing mattered, but finality mattered more.
 
 ---
 
