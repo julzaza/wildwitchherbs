@@ -91,7 +91,8 @@ It found its way **into old folk beer recipes** across Northern and Central Euro
 Intensely bitter and not a casual everyday drink. 
 Rarely used in large quantities.
 
-Mugwort's midsummer gathering wasn't only about digestion though. The solstice connection ran deep into dreamwork, prophecy, and the specific rites practiced on the longest nights. That magical side of the plant is explored in: **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)**. 
+
+But mugwort’s connection to midsummer ran far beyond digestion. Across Old European traditions, the herb was gathered on solstice nights for prophetic dreaming, spirit-travel, and yearly omens. That older dream tradition is explored in: **[Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights](/solstice-dreaming-mugwort-wormwood/)**. 
 
 ---
 
