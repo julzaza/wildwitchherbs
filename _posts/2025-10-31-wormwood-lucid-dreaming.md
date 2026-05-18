@@ -56,7 +56,8 @@ Strong herbs aren’t always the right choice when the spirit is unsettled. Folk
 - Combine with **gentler herbs** like chamomile or mugwort.  
 - Drink only in small doses, 2–3 nights per week.  
 
-* Genuinely risky: wormwood essential oil taken internally, very high doses, prolonged continuous use beyond 4 weeks, use during pregnancy or breastfeeding, use with seizure medications.
+**Genuinely risky:** wormwood essential oil taken internally, very high doses, prolonged continuous use beyond 4 weeks, use during pregnancy or breastfeeding, use with seizure medications.
+
 Traditional low-dose uses like digestive bitters and aperitifs have a long history of safe use. In fact, wormwood bitters are still widely consumed in many cultures, see: **[Tradition of Drinking Bitter Herbs](/old-world-tradition-of-drinking-bitter-herbs/)** for more on that. 
 
 The risk lies in concentrated preparations and prolonged heavy use, not in the plant itself used respectfully and occasionally
