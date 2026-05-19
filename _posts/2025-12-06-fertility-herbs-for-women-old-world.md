@@ -415,6 +415,10 @@ Fertility was treated as something invited.
 
 ---
 
+Beyond these pages lies a deeper body of old fertility lore: womb rituals timed to the moon, blood and earth offerings, ancestral household rites, protective customs for conception and pregnancy, and the forgotten herb magic carried quietly through generations of women.
+
+A complete folk grimoire of fertility magic is now being prepared. Waiting list members will receive early access and a special launch price.
+
 <script async data-uid="a41c34ec1d" src="https://wild-witch-herbs.kit.com/a41c34ec1d/index.js"></script>
 
 ---
