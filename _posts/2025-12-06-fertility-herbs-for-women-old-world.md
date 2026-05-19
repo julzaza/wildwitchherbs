@@ -415,6 +415,9 @@ Fertility was treated as something invited.
 
 ---
 
+<script async data-uid="e551c9be9e" src="https://wild-witch-herbs.kit.com/e551c9be9e/index.js"></script>
+
+
 ## Deep Dive: Fertility Folklore and Magic of Creation
 
 If you are interested in learning about the folklore-rich conception rites, see:
