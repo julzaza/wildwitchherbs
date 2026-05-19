@@ -115,9 +115,9 @@ Learn how aligning your offerings with lunar cycles enhances their energy in our
 
 ---
 
-## The Fertility Magic Expanded Guide is Currently in the Works
+## The Expanded Fertility Magic Guide is Currently in the Works
 
-A longer ritual guide exploring fertility herbs, womb magic, menstrual rites, moon cycles, ancestral customs, and old European folk practices is currently in development.
+A ritual guide exploring fertility herbs, womb magic, menstrual rites, moon cycles, ancestral customs, and old European folk practices is currently in development.
 
 The guide will include deeper ritual systems, traditional household workings, seasonal practices, and expanded herbal lore not published on the site.
 
