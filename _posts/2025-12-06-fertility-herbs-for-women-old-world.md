@@ -415,13 +415,7 @@ Fertility was treated as something invited.
 
 ---
 
-<div class="fertility-waitlist">
-
-<p><em>A deeper guide to womb rituals, fertility herbs, menstrual magic, moon cycles, and ancestral folk practices is currently being prepared. Join the waiting list to be first to receive it.</em></p>
-
-<script async data-uid="e551c9be9e" src="https://wild-witch-herbs.kit.com/e551c9be9e/index.js"></script>
-
-</div>
+<script async data-uid="a41c34ec1d" src="https://wild-witch-herbs.kit.com/a41c34ec1d/index.js"></script>
 
 ---
 
