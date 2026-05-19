@@ -829,9 +829,11 @@ html, body {
 .formkit-powered-by,
 [data-element="powered-by"],
 [class*="powered"],
-a[href*="kit.com"] {
+/* REMOVE KIT BRANDING (SAFE VERSION) */
+.formkit-powered-by-convertkit-container,
+.formkit-powered-by,
+[data-element="powered-by"] {
   display: none !important;
 }
-
 
 
