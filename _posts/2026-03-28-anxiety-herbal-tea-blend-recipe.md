@@ -45,7 +45,7 @@ Something you can make, hold, and drink.
 
 A simple action that tells the body: *you can slow down now.*
 
-This is where a basic **anxiety tea recipe** becomes useful—not as a cure, but as a way to interrupt the pattern.
+This is where a basic **anxiety tea recipe** becomes useful: not as a cure, but as a way to interrupt the pattern.
 
 If you want a more structured approach, with specific **herbal blends for anxiety** matched to different states, you can find the full guide here:
 
@@ -101,11 +101,7 @@ This combination works by gently regulating the nervous system:
 
 It doesn’t knock you out.
 
-It takes the edge off—so your system can settle naturally.
-
-If you want a deeper understanding of how different herbs affect anxiety and the nervous system, start here: 
-
-**[Best Herbs for Anxiety and Strees](/herbs-for-anxiety-and-stress/)**
+It takes the edge off, so your system can settle naturally.
 
 ---
 
@@ -154,10 +150,8 @@ Herbal remedies for anxiety work best when they are:
 - matched to how anxiety actually shows up  
 
 ## ✦ Why This Tea Sometimes Doesn’t Work
-too weak (big one)
-
+too weak 
 inconsistent use
-
 expecting instant sedation
 
 ---
@@ -176,13 +170,13 @@ Sometimes it’s:
 
 One tea won’t cover all of that.
 
-If your anxiety is tied to something deeper: grief, emotional weight, or lingering tension, this approach may not be enough on its own, see: 
-
-**[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**
-
-When anxiety comes from emotional shock, gentler approaches like flower essences can sometimes be more appropriate:
-
-**[Flower Essences for Emotional Healing](/flower-essences-for-emotional-healing/)**
+**[The Full Herbal Anxiety System](https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety)**, with blends for each type, includes recipes for: 
+- daytime anxiety
+- physical tension
+- sleepless nights
+- long-term stress support infusion
+- emergency blend
+- heavy heart release 
 
 ---
 
@@ -200,6 +194,22 @@ Let your body register the warmth.
 It seems minor, but this is often what shifts the effect from “just tea” into something that actually calms the system.
 
 ---
+
+## Deep Dive Into Emotional Healing
+
+If you want a deeper understanding of how different herbs affect anxiety and the nervous system, start here: 
+
+**[Best Herbs for Anxiety and Strees](/herbs-for-anxiety-and-stress/)**
+
+If your anxiety is tied to something deeper: grief, emotional weight, or lingering tension, this approach may not be enough on its own, see: 
+
+**[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**
+
+When anxiety comes from emotional shock, gentler approaches like flower essences can sometimes be more appropriate:
+
+**[Flower Essences for Emotional Healing](/flower-essences-for-emotional-healing/)**
+
+
 
 ## ✦ Final Thought
 
