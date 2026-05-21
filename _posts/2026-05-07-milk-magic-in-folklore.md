@@ -201,7 +201,7 @@ Dairy offerings sit within a much older symbolic pattern connecting nourishment,
 
 Milk naturally became linked to fertility.
 
-Not only human fertility—but fertility of:
+Not only human fertility, but fertility of:
 
 - land
 - livestock
