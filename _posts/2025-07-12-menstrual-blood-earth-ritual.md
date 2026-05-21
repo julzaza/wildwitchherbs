@@ -99,7 +99,7 @@ To Earth I return, to life I attune.
 Seed and spirit, root and bone,  
 By blood, I call my power home.”*
 
-- Cover the offering gently with soil. Sit quietly and feel the exchange—**what leaves you also nourishes you.**
+- Cover the offering gently with soil. Sit quietly and feel the exchange: **what leaves you also nourishes you.**
 
 For a step-by-step guide on returning menstrual blood to the Earth in sync with the **White Moon and Red Moon cycles**, see **[Menstrual Blood Magic for Fertility](/fertility-rituals-menstrual-magic/)**.
 
@@ -119,9 +119,9 @@ Learn how aligning your offerings with lunar cycles enhances their energy in our
 
 A ritual guide exploring fertility herbs, womb magic, menstrual rites, moon cycles, ancestral customs, and old European folk practices is currently in development.
 
-The guide will include deeper ritual systems, traditional household workings, seasonal practices, and expanded herbal lore not published on the site.
+The guide will include **deeper ritual systems**, traditional household workings, seasonal practices, and expanded herbal lore not published on the site.
 
-Waiting list members will receive early access and a launch discount.
+Waiting list members will receive **early access and a launch discount**.
 
 <script async data-uid="a41c34ec1d" src="https://wild-witch-herbs.kit.com/a41c34ec1d/index.js"></script>
 
