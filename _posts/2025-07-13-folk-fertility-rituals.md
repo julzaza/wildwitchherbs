@@ -145,7 +145,7 @@ Through these rituals, the threads of ancestry, desire, and creation intertwine,
 
 Fertility magic was once woven quietly into ordinary life: into soup pots, hearth fires, garden soil, bridal rituals, moonlit prayers, and the careful hands of older women.
 
-The upcoming fertility grimoire explores these traditions far beyond what can fit into a single article, including old European womb rituals, blood offerings, fertility baths, rose rites, ancestral petitions, moon-cycle workings, and protective customs surrounding conception and pregnancy.
+The upcoming fertility grimoire **explores these traditions far beyond what can fit into a single article**, including old European womb rituals, blood offerings, **fertility baths**, rose rites, ancestral petitions, moon-cycle workings, and protective customs surrounding conception and pregnancy.
 
 If this path speaks to you, you can join the waiting list below.
 
