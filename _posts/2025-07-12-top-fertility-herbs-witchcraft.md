@@ -129,7 +129,7 @@ Folklore from the Americas and Appalachia tied wild yam to the changing seasons 
 
 ---
 
-## 
+## The Full Fertility Magic Guidebook Is Coming Soon
 
 The herbs shared here are only a small part of a much larger body of old fertility workings.
 
