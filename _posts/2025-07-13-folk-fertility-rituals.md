@@ -145,14 +145,6 @@ Through these rituals, the threads of ancestry, desire, and creation intertwine,
 
 ---
 
-## Slow Down to Create
-
-Fertility is magic made flesh. **These rituals remind us that creation is sacred, whether it results in a child, a spell, a new chapter, or a life reclaimed.**
-
-No ritual guarantees results. But the act of slowing down, speaking with the moon and soil, and honoring your body and spirit. That alone is healing, **that alone opens the door to miracles.**
-
----
-
 ## Fertility Magic Complete Guidebook Coming Soon
 
 Fertility magic was once woven quietly into ordinary life: into soup pots, hearth fires, garden soil, bridal rituals, moonlit prayers, and the careful hands of older women.
@@ -162,6 +154,14 @@ The upcoming fertility grimoire explores these traditions far beyond what can fi
 If this path speaks to you, you can join the waiting list below.
 
 <script async data-uid="a41c34ec1d" src="https://wild-witch-herbs.kit.com/a41c34ec1d/index.js"></script>
+
+---
+
+## Slow Down to Create
+
+Fertility is magic made flesh. **These rituals remind us that creation is sacred, whether it results in a child, a spell, a new chapter, or a life reclaimed.**
+
+No ritual guarantees results. But the act of slowing down, speaking with the moon and soil, and honoring your body and spirit. That alone is healing, **that alone opens the door to miracles.**
 
 ---
 
