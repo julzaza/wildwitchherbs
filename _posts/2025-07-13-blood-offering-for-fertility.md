@@ -46,6 +46,8 @@ Long before modern medicine or pharmaceutical interventions, women turned to her
 
 One of the most potent, sacred rituals in this tradition is the act of **offering menstrual blood to the Earth**, a practice observed in cultures across the globe, from ancient Slavs to indigenous tribes and modern-day witches reclaiming body sovereignty.
 
+---
+
 ## ✧ Menstrual Blood as Fertile Offering
 
 In folk magic, menstrual blood is more than just physical, it is **life-force made visible**, a blend of death and potential, rich with symbolic and literal fertility. It has been used:
@@ -81,6 +83,8 @@ Deepen your lunar magic with **[Full Moon Rituals with Sacred Herbs](/full-moon-
 
 Learn a full step-by-step guide for returning menstrual blood to the Earth in **[Blood and Soil: The Old Magic of Menstrual Offerings](/menstrual-blood-earth-ritual/)**.
 
+---
+
 ## ✧ What If You’re Not Bleeding During the New Moon?
 
 No need to wait.
@@ -94,6 +98,8 @@ If your cycle doesn’t align with the New Moon or if you no longer bleed, you c
 
 The key is **intention**, not timing. The blood carries meaning because *you give it meaning*.
 
+--- 
+
 ### Notes on Storing Blood for Rituals
 
 • **Short-term** (1–2 days max):  
@@ -106,6 +112,8 @@ Let a small amount **dry completely** on clean natural material (like cotton clo
 Instead of storing the blood itself, you can **link the working to your cycle**. For example, collect it during your period and use that time for intention-setting, then perform the fertility ritual during the appropriate moon phase using a symbolic link (like a written petition, thread, or stone you dedicated during your bleed).
 
 That last method is actually much closer to how older folk practices worked: less about preserving the physical substance, more about carrying the intention forward.
+
+---
 
 ## ✧ A Simple Blood Offering Fertility Ritual
 
@@ -129,7 +137,7 @@ You’ll need:
 
 ---
 
-## The In- Depth Fertility Magic Guidebook is Coming Soon
+## The In-Depth Fertility Magic Guidebook is Coming Soon
 
 The complete fertility rituals and herbal workings are being expanded into a full-length folk grimoire for readers who want deeper practice, not just introductory folklore.
 
@@ -144,7 +152,7 @@ The guide will include:
 - rites for conception, protection, recovery, and renewal
 - printable ritual pages and ceremonial frameworks
 
-The waiting list is now open for early readers.
+The waiting list is now open. Special launch price for early birds. 
 
 <script async data-uid="a41c34ec1d" src="https://wild-witch-herbs.kit.com/a41c34ec1d/index.js"></script>
 
