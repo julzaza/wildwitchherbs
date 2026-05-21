@@ -131,10 +131,6 @@ Before lying together, lovers might stuff the bed with herbs and flowers like **
 
   To bless a bed or room, sprinkle dried herbs and say: *“Let what is planted here be blessed and bloom.”*
 
-Deepen your knowledge of **[Top Fertility Herbs](/top-fertility-herbs-witchcraft/)**. These are remedies known to midwives, witches, and wise women through the ages.
-
-Some plants are used in cunning crafts to bring love into one's life, see: **[Herbs to Attract the Right Partner](/love-magic-herbs-to-attract-the-right-partner/)**. 
-  
 ---
 
 ## 8. Menstrual Blood Magic
@@ -145,7 +141,7 @@ Through these rituals, the threads of ancestry, desire, and creation intertwine,
 
 ---
 
-## Fertility Magic Complete Guidebook Coming Soon
+## Fertility Magic Complete Guidebook Coming Soon!
 
 Fertility magic was once woven quietly into ordinary life: into soup pots, hearth fires, garden soil, bridal rituals, moonlit prayers, and the careful hands of older women.
 
@@ -163,6 +159,14 @@ Fertility is magic made flesh. **These rituals remind us that creation is sacred
 
 No ritual guarantees results. But the act of slowing down, speaking with the moon and soil, and honoring your body and spirit. That alone is healing, **that alone opens the door to miracles.**
 
+---
+
+## Take A Deep Dive Into Fertility Herbs
+
+Deepen your knowledge of **[Top Fertility Herbs](/top-fertility-herbs-witchcraft/)**. These are remedies known to midwives, witches, and wise women through the ages.
+
+Some plants are used in cunning crafts to bring love into one's life, see: **[Herbs to Attract the Right Partner](/love-magic-herbs-to-attract-the-right-partner/)**. 
+  
 ---
 
 ## Frequently Asked Questions
