@@ -126,16 +126,11 @@ immediate: warmth + grounding
 15–30 min: nervous system shift
 after consistent use: baseline anxiety lowers
 
-## ✦ Why Warm Infusions Calm the Body (Folk Perspective)
-
-warmth = signal of safety
-bitter/aromatic herbs = regulate digestion + nerves
-
 ---
 
 ## ✦ Why Most Herbal Anxiety Teas Don’t Work
 
-The issue usually isn’t the herbs.
+The issue usually isn’t the herbs. 
 
 It’s how they’re used.
 
@@ -148,11 +143,6 @@ Herbal remedies for anxiety work best when they are:
 - simple  
 - consistent  
 - matched to how anxiety actually shows up  
-
-## ✦ Why This Tea Sometimes Doesn’t Work
-too weak 
-inconsistent use
-expecting instant sedation
 
 ---
 
