@@ -50,7 +50,7 @@ What is entering must be stopped.
 What has entered must be removed.  
 What has been removed must be kept out.
 
-Anything else is incomplete.
+**Anything else is incomplete.**
 
 ---
 
@@ -79,14 +79,12 @@ It refuses.
 
 If the space already feels altered: heavy, unsettled, or wrong, then the work shifts.
 
-This is no longer about prevention.
-
+This is no longer about prevention.  
 It is about removal.
 
 Floor sweeps, smoke work, and bitter washes were used not to “freshen” a space, but to **drive something out**. Ash, salt, and strong herbs were applied with intent and direction, often outward, toward doors or windows.
 
-The difference matters.
-
+The difference matters.  
 Clearing is not passive. It is corrective.
 
 
@@ -94,14 +92,13 @@ Clearing is not passive. It is corrective.
 
 This is where most modern approaches fail.
 
-Something is cleared, but nothing is done to **prevent its return**.
-
+Something is cleared, but nothing is done to **prevent its return**.  
 In traditional practice, this stage was essential.
 
-Objects were buried, boundaries reinforced, and repeated workings performed over consecutive nights. Not to add force, but to **set a condition**:
+Objects were buried, boundaries reinforced, and repeated workings performed over consecutive nights.  
+Not to add force, but to **set a condition**:
 
-That what has been removed does not come back.
-
+That what has been removed does not come back.  
 Without this step, protection breaks down quietly.
 
 
@@ -109,8 +106,7 @@ Without this step, protection breaks down quietly.
 
 Some protection was not performed, but maintained.
 
-Plants placed near entrances, thresholds, and windows acted as quiet, ongoing boundaries. Not dramatic, not forceful, but stable.
-
+Plants placed near entrances, thresholds, and windows acted as quiet, ongoing boundaries. Not dramatic, not forceful, but stable.  
 They were watered, tended, and kept alive.
 
 Protection, in this form, becomes part of the environment itself.
@@ -119,8 +115,7 @@ Protection, in this form, becomes part of the environment itself.
 
 ## Where Most Protection Advice Falls Apart
 
-Modern approaches tend to collapse all of this into one idea:
-
+Modern approaches tend to collapse all of this into one idea:  
 “Cleanse the space.”
 
 But **cleansing alone does not secure entry**.  
@@ -129,8 +124,7 @@ And it does not prevent return.
 
 This is why people repeat the same actions over and over, with little lasting effect.
 
-More is not stronger.
-
+More is not stronger.  
 Clarity is stronger.
 
 ---
@@ -187,22 +181,19 @@ The full set of methods, written with exact instructions and correct use, can be
   </p>
 </div>
 
-
-Protection is not about doing more.
-
-It is about doing the right thing, in the right place, at the right time.
-
-Once that is understood, the work becomes simpler, and far more effective.
+Protection is not about doing more.  
+It is about doing the right thing, in the right place, at the right time.  
+Once that is understood, **the work becomes simpler, and far more effective**.
 
 ---
 
 ## This guide is for you if:
 
-You've cleansed repeatedly but the heaviness returns. 
-
+You've cleansed repeatedly but the heaviness returns.  
 You have the herbs but don't know which situation calls for which method. 
 
-You want folk practice, not modern wellness content. You're ready to stop guessing.
+You want folk practice, not modern wellness content.  
+**You're ready to stop guessing.**
 
 ---
 
