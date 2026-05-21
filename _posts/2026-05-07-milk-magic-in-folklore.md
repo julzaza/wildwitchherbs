@@ -189,8 +189,10 @@ But offerings carried danger too.
 In some fairy traditions, accepting food from spirits created obligation.
 Likewise, feeding them carelessly could encourage attachment.
 
-Milk sat directly in the middle:
+Milk sat directly in the middle:  
 both gift and contract.
+
+Dairy offerings is actually part of the deeper folk tradition connecting **[Food, Land, and Women's Fertility Magic](/folk-fertility-rituals/)**. 
 
 ---
 
@@ -224,7 +226,7 @@ It became one of humanity’s oldest symbols of continuity itself.
 
 ## The Dangerous Side of Milk
 
-Milk was sacred—but also unstable.
+Milk was sacred, but also unstable.
 
 It spoiled quickly.
 Soured unexpectedly.
@@ -298,6 +300,8 @@ Others feared spirits lingering too close to milk stores or livestock.
 
 Again, milk occupied the threshold:
 life and death touching briefly through nourishment.
+
+See how old traditions approached grief and the lingering presence of the dead through **[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**.
 
 ---
 
