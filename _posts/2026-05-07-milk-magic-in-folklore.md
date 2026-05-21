@@ -264,7 +264,7 @@ Across the Balkans, Baltic regions, Slavic lands, and parts of India, household 
 - associated with ancestors
 - linked to land prosperity
 
-In Serbian and Balkan folklore especially, the house snake was often considered tied to the fate of the household itself.
+In Serbian and Balkan folklore especially, the **[House Snake](/house-snakes-ancestor-spirits-balkan-folklore/)** was often considered tied to the fate of the household itself.
 
 To harm it risked misfortune.
 
