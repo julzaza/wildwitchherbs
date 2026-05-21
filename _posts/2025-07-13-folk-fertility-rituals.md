@@ -46,6 +46,8 @@ Here are some of the most time-honored fertility rituals drawn from European, Sl
 
 For a deeper look into how land, livestock, and lineage were bound into one cycle of creation, explore **[Old World Fertility Magic: Land, Animals & Ancestral Life-Force](/old-world-fertility-magic/)**. It is a broader ancestral map of how magic moved through soil, hearth, and body.
 
+---
+
 ## 1. Moon Bathing for Womb Awakening
 
 The full moon has long been linked to fertility, menstruation, and conception. Witches would bathe under the moon—clothed or bare—asking the Moon Mother to cleanse the past and fill the womb with light. Sometimes they soaked in warm baths infused with **mugwort**, **rose petals**, and **raspberry leaf**.
@@ -59,11 +61,15 @@ The whispered call varied, but one version survived in Alpine lore:
 > “Moon that swells, swell me.  
 > Moon that moves tides, move me.”
 
+--- 
+
 ## 2. Beltane Bonfire Rites
 
 Beltane (May 1st) was one of the high fertility festivals of the Celtic calendar. Couples would jump over fires to bless their union. Women might leap the flames alone, seeking to “leap into life.” In Balkan spring festivals, ash from sacred fires was rubbed on the belly or scattered in the fields to bless fertility.
 
   **Symbolic use**: Fire for passion, ash for grounding, union for creation.
+
+---
 
 ## 3. Herb Bundles and Womb Charms
 
@@ -90,11 +96,15 @@ For a full guide to the plants of Old Europe traditionally used in fertility mag
 - **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
 - **[Herbs to Stay Away From if Trying to Get Pregnant](/herbs-to-avoid-when-getting-pregnant/)**
 
+---
+
 ## 4. Ancestral Spirit Offerings
 
 In many folk cultures, fertility was tied to ancestral blessings. Women would pour milk or wine onto the roots of fruit trees, asking their foremothers to walk with them. Offerings of bread and honey were also common, left on the threshold or buried under a favorite herb.
 
   **Offer at dusk** with intention: “May your blood flow in me again.”
+
+---
 
 ##  5. Womb Candle Spell
 
@@ -105,11 +115,15 @@ Carve your desire into a red or pink candle: names, dates, symbols of life. Anoi
 
   Place the candle between your hands and say: *“As fire catches wick, so may life catch in me.”*
 
+---
+
 ## 6. Earth Fertility Rite
 
 Some witches plant seeds, literally. Take a handful of **wheat**, **beans**, or **moonflowers**. Name each one for what you wish to grow: a child, an idea, a rebirth. Bury them in fertile soil, tend them, and speak to them daily. As they grow, so may your own creation unfold.
 
   **This ritual works** even if you're not seeking physical fertility, it's about birthing *anything*.
+
+---
 
 ## 7. Wildflower Bed Blessing
 
@@ -129,11 +143,25 @@ Some plants are used in cunning crafts to bring love into one's life, see: **[He
 
 Through these rituals, the threads of ancestry, desire, and creation intertwine, reminding us that fertility in folk magic encompasses body, spirit, and heart.
 
+---
+
 ## Slow Down to Create
 
 Fertility is magic made flesh. **These rituals remind us that creation is sacred, whether it results in a child, a spell, a new chapter, or a life reclaimed.**
 
 No ritual guarantees results. But the act of slowing down, speaking with the moon and soil, and honoring your body and spirit. That alone is healing, **that alone opens the door to miracles.**
+
+---
+
+## Fertility Magic Complete Guidebook Coming Soon
+
+Fertility magic was once woven quietly into ordinary life: into soup pots, hearth fires, garden soil, bridal rituals, moonlit prayers, and the careful hands of older women.
+
+The upcoming fertility grimoire explores these traditions far beyond what can fit into a single article, including old European womb rituals, blood offerings, fertility baths, rose rites, ancestral petitions, moon-cycle workings, and protective customs surrounding conception and pregnancy.
+
+If this path speaks to you, you can join the waiting list below.
+
+<script async data-uid="a41c34ec1d" src="https://wild-witch-herbs.kit.com/a41c34ec1d/index.js"></script>
 
 ---
 
