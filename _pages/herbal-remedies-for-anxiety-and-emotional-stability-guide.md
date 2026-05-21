@@ -96,6 +96,26 @@ You don’t use all of them at once.
 
 You learn which one matches your state and return to it when it matters.
 
+<div style="margin: 30px 0; text-align: center;">
+  <a href="https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety" 
+     target="_blank" 
+     style="
+       display: inline-block;
+       padding: 16px 32px;
+       background-color: #2f3e2f;
+       color: #ffffff !important;
+       text-decoration: none;
+       border-radius: 4px;
+       font-size: 1.05em;
+       letter-spacing: 0.03em;
+       font-weight: 600;">
+    Get the Anxiety Herbal Tea Guide → $10
+  </a>
+  <p style="margin-top: 12px; font-size: 0.85em; color: #666; letter-spacing: 0.02em;">
+    PDF · Instant download · Yours to keep
+  </p>
+</div>
+
 ---
 
 ## Sample Recipe for a Heavy Heart
@@ -141,22 +161,18 @@ This is for you if:
 
 ## Why Most Herbal Anxiety Guides Don’t Work
 
-Too many herbs.
-
-No structure.
-
+Too many herbs.  
+No structure.  
 No consistency.
 
 ---
 
 ## Why This Works
 
-Most herbal content gives you information without application.
+Most herbal content gives you information without application.  
+This guide gives you **structure**. A rhythm.  
 
-This gives you **structure**. A rhythm.  
-
-Instead of guessing what to use, you follow a repeatable method your body can recognize over time.
-
+Instead of guessing what to use, you follow a repeatable method your body can recognize over time.  
 That consistency is what actually calms the nervous system.
 
 ---
@@ -179,24 +195,9 @@ Included: a few easy witchy practices you can do while holding the mug.
 
 ---
 
-## Get the full 5 + 1 Bonus Tea Recipes Guide (Digital Download)
+## Get the full 5 + 1 Bonus Tea Recipes Guide
 
 If you want the full set of blends, already structured so you don’t have to think in the moment, you can access the full guide here:
-
-<div style="margin: 25px 0;">
-  <a href="https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety" 
-     target="_blank" 
-     style="
-       display: inline-block;
-       padding: 12px 20px;
-       border: 1px solid #2f3e2f;
-       color: #2f3e2f;
-       text-decoration: none;
-       border-radius: 6px;">
-    Get the Anxiety Herbal Tea Guide
-  </a>
-</div>
-
 
 <div style="margin: 30px 0; text-align: center;">
   <a href="https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety" 
