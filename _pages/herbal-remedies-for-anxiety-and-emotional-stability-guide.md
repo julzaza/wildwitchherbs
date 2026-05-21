@@ -197,6 +197,28 @@ If you want the full set of blends, already structured so you don’t have to th
   </a>
 </div>
 
+
+<div style="margin: 30px 0; text-align: center;">
+  <a href="https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety" 
+     target="_blank" 
+     style="
+       display: inline-block;
+       padding: 16px 32px;
+       background-color: #2f3e2f;
+       color: #ffffff !important;
+       text-decoration: none;
+       border-radius: 4px;
+       font-size: 1.05em;
+       letter-spacing: 0.03em;
+       font-weight: 600;">
+    Get the Anxiety Herbal Tea Guide → $10
+  </a>
+  <p style="margin-top: 12px; font-size: 0.85em; color: #666; letter-spacing: 0.02em;">
+    PDF · Instant download · Yours to keep
+  </p>
+</div>
+
+
 ---
 
 ## A Final Note
