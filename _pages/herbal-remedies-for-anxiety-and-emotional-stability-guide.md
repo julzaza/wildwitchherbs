@@ -197,7 +197,7 @@ Included: a few easy witchy practices you can do while holding the mug.
 
 ## Get the full 5 + 1 Bonus Tea Recipes Guide
 
-If you want the full set of blends, already structured so you don’t have to think in the moment, you can access the full guide here:
+If you want the full set of blends, already structured **so you don’t have to think in the moment**, you can access the full guide here:
 
 <div style="margin: 30px 0; text-align: center;">
   <a href="https://wildwitchherbs.gumroad.com/l/herbal-remedies-for-anxiety" 
