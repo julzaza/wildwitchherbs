@@ -32,8 +32,6 @@ faq:
     
 ---
 
-## 13 Folk Workings for People Whose Protection Isn't Holding
-
 You've cleansed the space. You've burned the herbs. You've set the intentions.
 
 And something still feels wrong.
@@ -51,6 +49,30 @@ What has entered must be removed.
 What has been removed must be kept out.
 
 **Anything else is incomplete.**
+
+---
+
+## 13 Folk Workings for People Whose Protection Isn't Holding
+
+<div style="margin: 30px 0; text-align: center;">
+  <a href="https://wildwitchherbs.gumroad.com/l/witchy-protective-herbs-for-the-home" 
+     target="_blank" 
+     style="
+       display: inline-block;
+       padding: 16px 32px;
+       background-color: #2f3e2f;
+       color: #ffffff !important;
+       text-decoration: none;
+       border-radius: 4px;
+       font-size: 1.05em;
+       letter-spacing: 0.03em;
+       font-weight: 600;">
+    Get the Complete Home Protection System → $12
+  </a>
+  <p style="margin-top: 12px; font-size: 0.85em; color: #666; letter-spacing: 0.02em;">
+    PDF · Instant download · Yours to keep
+  </p>
+</div>
 
 ---
 
