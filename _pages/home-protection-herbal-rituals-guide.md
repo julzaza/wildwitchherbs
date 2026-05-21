@@ -166,7 +166,7 @@ That is exactly what this guide is built for.
 
 ---
 
-## The Guide: 13 Protection Workings
+## The Guide: 12+1(Bonus) Protection Workings
 
 It is a structured collection of herbal home protection workings, based on this exact framework.
 
@@ -175,7 +175,7 @@ It includes:
 - threshold-based protections like **The Threshold Knot** and **The Bitter Water Mark**  
 - clearing methods such as **The Smoke of Refusal** and **Ash & Bitter Sweep**  
 - boundary-setting rituals like **The Three-Night Watch** and **Buried Guard Jar**  
-- and long-term practices like **The Planted Threshold Seal**
+- bonus long-term practice: **The Planted Threshold Seal**
 
 Each one is placed where it belongs: entry, clearing, holding, or maintenance; so you’re **not guessing what to use or when**.
 
