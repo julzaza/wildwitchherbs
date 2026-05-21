@@ -206,7 +206,6 @@ The full set of methods, written with exact instructions and correct use, can be
 </div>
 
 Protection is not about doing more.  
-
 It is about doing **the right thing, in the right place, at the right time**.  
 
 Once that is understood, the work becomes simpler, and far more effective.
