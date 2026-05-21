@@ -381,7 +381,9 @@ People used what worked.
 
 Fruit trees also carried powerful symbolism.
 
-In parts of the Balkans and rural Eastern Europe, women seeking conception left small offerings beneath apple, pear, or plum trees, especially in spring. Bread, milk, honey, or a strand of red thread might be placed at the roots.
+In parts of the Balkans and rural Eastern Europe, women seeking conception left small offerings beneath apple, pear, or plum trees, especially in spring. Bread, milk, honey, or a strand of red thread might be placed at the roots. 
+
+Milk in particular carried its own deep ritual weight in these offerings. As part of a much older pattern of dairy traditions, **[Milk is Woven Into Folk Protection, Fertility, and Spirit Work](/milk-magic-in-folklore/)**.
 
 Fruitfulness in the orchard mirrored fruitfulness in the body. A barren season in one was sometimes spoken of alongside barrenness in the other.
 
@@ -425,7 +427,6 @@ Waiting list members will receive early access and a special launch price.
 <script async data-uid="a41c34ec1d" src="https://wild-witch-herbs.kit.com/a41c34ec1d/index.js"></script>
 
 ---
-
 
 ## Deep Dive: Fertility Folklore and Magic of Creation
 
