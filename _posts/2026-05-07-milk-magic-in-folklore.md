@@ -144,7 +144,7 @@ Milk had to remain spiritually sealed.
 
 Because abundance was believed to attract envy.
 
-Protection of milk is part of the wider folk system of **[Protecting the Household from Spiritual Interference](/home-protection-herbal-rituals-guide/)**. 
+Protection of milk was never separate from the home itself; it belonged to the wider folk system of herbal and threshold-based **[Protection Practices for the Household Against Spiritual Interference](/home-protection-herbal-rituals-guide/)**. 
 
 ---
 
@@ -192,7 +192,8 @@ Likewise, feeding them carelessly could encourage attachment.
 Milk sat directly in the middle:  
 both gift and contract.
 
-Dairy offerings is actually part of the deeper folk tradition connecting **[Food, Land, and Women's Fertility Magic](/folk-fertility-rituals/)**. 
+
+Dairy offerings sit within a much older symbolic pattern connecting nourishment, land, and reproduction in what folk traditions understood as the relationship between **[Food, Land, and Women's Fertility Magic](/folk-fertility-rituals/)**. 
 
 ---
 
@@ -301,7 +302,8 @@ Others feared spirits lingering too close to milk stores or livestock.
 Again, milk occupied the threshold:
 life and death touching briefly through nourishment.
 
-See how old traditions approached grief and the lingering presence of the dead through **[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**.
+
+In many traditions, grief was not separated from the body or the home, and this emotional landscape was often tended with plants, as explored in **[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**.
 
 ---
 
