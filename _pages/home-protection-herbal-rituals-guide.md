@@ -32,7 +32,7 @@ faq:
     
 ---
 
-## A Practical System of 13 Folk Workings for People Whose Protection Isn't Holding.
+## 13 Folk Workings for People Whose Protection Isn't Holding
 
 You've cleansed the space. You've burned the herbs. You've set the intentions.
 
@@ -60,9 +60,7 @@ In folk practice, protection was not a single ritual, but a **sequence of action
 
 It can be understood in four parts:
 
----
-
-### Securing the Entry (Doorways & Thresholds)
+### 1. Securing the Entry (Doorways & Thresholds)
 
 Everything begins at the threshold.
 
@@ -76,9 +74,8 @@ In traditional homes, doorways were treated deliberately:
 When properly set, a threshold does not “filter.”  
 It refuses.
 
----
 
-### Clearing the Space (When Something Has Settled)
+### 2. Clearing the Space (When Something Has Settled)
 
 If the space already feels altered: heavy, unsettled, or wrong, then the work shifts.
 
@@ -92,9 +89,8 @@ The difference matters.
 
 Clearing is not passive. It is corrective.
 
----
 
-### Holding the Boundary (Preventing Return)
+### 3. Holding the Boundary (Preventing Return)
 
 This is where most modern approaches fail.
 
@@ -108,9 +104,8 @@ That what has been removed does not come back.
 
 Without this step, protection breaks down quietly.
 
----
 
-### Living Protection (Plants That Hold the Line)
+### 4. Living Protection (Plants That Hold the Line)
 
 Some protection was not performed, but maintained.
 
@@ -119,8 +114,6 @@ Plants placed near entrances, thresholds, and windows acted as quiet, ongoing bo
 They were watered, tended, and kept alive.
 
 Protection, in this form, becomes part of the environment itself.
-
-Learn which plants witches trust to hold the boundary here: **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**.
 
 ---
 
@@ -155,9 +148,9 @@ That is exactly what this guide is built for.
 
 ---
 
-## The Guide
+## The Guide: 13 Protection Workings
 
-It is a structured collection of 13 herbal home protection workings, based on this exact framework.
+It is a structured collection of herbal home protection workings, based on this exact framework.
 
 It includes:
 
@@ -167,16 +160,6 @@ It includes:
 - and long-term practices like **The Planted Threshold Seal**
 
 Each one is placed where it belongs: entry, clearing, holding, or maintenance; so you’re **not guessing what to use or when**.
-
----
-
-## This guide is for you if:
-
-You've cleansed repeatedly but the heaviness returns. 
-
-You have the herbs but don't know which situation calls for which method. 
-
-You want folk practice, not modern wellness content. You're ready to stop guessing.
 
 ---
 
@@ -213,6 +196,16 @@ Once that is understood, the work becomes simpler, and far more effective.
 
 ---
 
+## This guide is for you if:
+
+You've cleansed repeatedly but the heaviness returns. 
+
+You have the herbs but don't know which situation calls for which method. 
+
+You want folk practice, not modern wellness content. You're ready to stop guessing.
+
+---
+
 ## People Also Ask
 
 ### What herbs were traditionally used to protect the home?
@@ -222,7 +215,7 @@ Protective herbs varied by region, but bitter, thorned, or strongly aromatic pla
 No. Smoke can remove what is already present, but it does not secure entry or prevent return. In traditional practice, clearing was only one part of a larger system that included boundary-setting and reinforcement.
 
 ### Where should protection be placed in a home?
-Protection was focused on points of entry: doors, windows, thresholds, and sometimes hearths. These were considered the places where crossing occurred, and where action was most effective.
+Protection was focused on points of entry: doors, windows, thresholds, and sometimes hearths. These were considered the places where crossing occurred, and where action was most effective. Learn which plants witches trust to hold the boundary here: **[Witchy Plants for the Front Door](/witchy-plants-for-front-door/)**.
 
 ### What is threshold magic in folk traditions?
 Threshold magic refers to practices performed at doorways and entrances to control what can enter a space. This included markings, washes, knots, buried objects, and plant placements.
