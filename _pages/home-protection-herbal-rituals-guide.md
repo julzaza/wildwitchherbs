@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Herbal Home Protection: A Witchcraft & Folk Ritual Guide"
+title: "Herbal Home Protection: A Witchcraft Ritual Guide"
 categories: [folklore-ancestral, herbal-magic]
 tags: [herbal protection, folk magic, home protection, threshold magic, protective herbs, banishing rituals]
 
