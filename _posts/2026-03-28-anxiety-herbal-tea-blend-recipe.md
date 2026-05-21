@@ -114,7 +114,7 @@ This blend works best for:
 - end-of-day tension  
 - emotional overwhelm that isn’t extreme  
 
-It’s a good **baseline tea**—something you can return to regularly.
+It’s a good **baseline tea**, something you can return to regularly.
 
 ## ✦ Why This Blend Ratio Works
 lemon balm = dominant (nervous system regulator)
@@ -152,11 +152,7 @@ This is where most people get stuck.
 
 Not all anxiety feels the same.
 
-Sometimes it’s:
-- racing thoughts at night  
-- chest tightness and shallow breathing  
-- sudden spikes that come out of nowhere  
-- emotional heaviness that sits underneath everything  
+Sometimes it shows up as racing thoughts at night or chest tightness and shallow breathing; as sudden spikes that come out of nowhere or as lingering emotional heaviness that sits underneath everything. 
 
 One tea won’t cover all of that.
 
@@ -167,6 +163,9 @@ One tea won’t cover all of that.
 - long-term stress support infusion
 - emergency blend
 - heavy heart release 
+
+This guide is there for you when making another decission feel like too much.  
+It is easy to follow with simple, but powerful herbs that were trusted for generations to get the job done. 
 
 ---
 
