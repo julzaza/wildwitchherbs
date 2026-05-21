@@ -67,12 +67,14 @@ What has been removed must be kept out.
        font-size: 1.05em;
        letter-spacing: 0.03em;
        font-weight: 600;">
-    Get the Complete Home Protection System → $12
+    Get the Complete Home Protection Guide → $12
   </a>
   <p style="margin-top: 12px; font-size: 0.85em; color: #666; letter-spacing: 0.02em;">
     PDF · Instant download · Yours to keep
   </p>
 </div>
+
+Includes threshold rites, bitter washes, smoke workings, and planted protections.
 
 ---
 
