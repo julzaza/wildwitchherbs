@@ -143,6 +143,13 @@ In Greek and Ottoman Balkan households, it was called the â€œeye-closing seed.â€
 
 ---
 
+## Milk Protection 
+
+Milk and dairy were among the most spiritually vulnerable forms of household abundance.  
+The beliefs around protecting them, and the folk fear of stolen milk, are explored in depth in **[Milk Magic and The Folklore of Dairy Protection](/milk-magic-in-folklore/)**.
+
+---
+
 ## FAQ
 
 ### **Which herb was considered strongest in Europe?**  
