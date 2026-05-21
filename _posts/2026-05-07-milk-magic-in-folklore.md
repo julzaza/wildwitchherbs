@@ -134,7 +134,7 @@ These included:
 - blessing the first milk of spring animals
 - forbidding strangers from touching milking tools
 
-In parts of the Balkans, women circled milk pails with burning embers or **[Herbal Smoke to Protect Them From the Evil Eye](/herbs-that-keep-out-evil-eye/)**.
+In parts of the Balkans, women circled milk pails with burning embers and smoke, as part of the tradition of using **[Herbs to Guard Against the Evil Eye and Household Envy](/herbs-that-keep-out-evil-eye/)**.
 
 In Ireland and Scotland, milk was sometimes sprinkled at thresholds before dawn during seasonal festivals.
 
@@ -144,7 +144,7 @@ Milk had to remain spiritually sealed.
 
 Because abundance was believed to attract envy.
 
-Protection of milk was never separate from the home itself; it belonged to the wider folk system of herbal and threshold-based **[Protection Practices for the Household Against Spiritual Interference](/home-protection-herbal-rituals-guide/)**. 
+Protecting milk was never separate from protecting the home itself; it belonged to the same folk system of **[Threshold Protection Practices Against Spiritual Interference](/home-protection-herbal-rituals-guide/)**. 
 
 ---
 
