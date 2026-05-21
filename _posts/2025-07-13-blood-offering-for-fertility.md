@@ -129,6 +129,27 @@ You’ll need:
 
 ---
 
+## The In- Depth Fertility Magic Guidebook is Coming Soon
+
+The complete fertility rituals and herbal workings are being expanded into a full-length folk grimoire for readers who want deeper practice, not just introductory folklore.
+
+The guide will include:
+
+- detailed moon-cycle fertility rituals
+- traditional herbal preparations and womb-toning blends
+- fertility baths, oils, teas, and altar rites
+- menstrual magic practices and Earth offerings
+- Slavic and Balkan red thread customs
+- ancestor petitions and lineage healing rituals
+- rites for conception, protection, recovery, and renewal
+- printable ritual pages and ceremonial frameworks
+
+The waiting list is now open for early readers.
+
+<script async data-uid="a41c34ec1d" src="https://wild-witch-herbs.kit.com/a41c34ec1d/index.js"></script>
+
+---
+
 ## ✧ Final Thoughts
 
 The ritual of offering menstrual blood to the Earth is not a relic, it’s a remembered way of living in **intimate rhythm with nature**. It speaks to the **sacred ecology** of body and soil, womb and seed.
