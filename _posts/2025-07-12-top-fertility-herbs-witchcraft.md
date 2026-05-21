@@ -129,6 +129,28 @@ Folklore from the Americas and Appalachia tied wild yam to the changing seasons 
 
 ---
 
+## 
+
+The herbs shared here are only a small part of a much larger body of old fertility workings.
+
+The upcoming Fertility Magic Grimoire goes far deeper into:
+
+- red thread fertility rites
+- womb warming rituals and herbal steam traditions
+- menstrual blood offerings and moon magic
+- fertility baths and candle workings
+- rose, apple, and seed blessing ceremonies
+- ancestor petitions for conception
+- rituals for grief, loss, and restoring fertility after emotional hardship and miscarriage
+- protective rites used after pregnancy begins
+- traditional herbal protocols using raspberry leaf, mugwort, motherwort, nettle, red clover, and lady’s mantle
+
+Readers on the waiting list will receive early access before public release and special launch price.
+
+<script async data-uid="a41c34ec1d" src="https://wild-witch-herbs.kit.com/a41c34ec1d/index.js"></script>
+
+---
+
 ## Final Thoughts
 
 Fertility is not just about the body: it’s about **cycles, timing, soul, and spirit**. These herbs work not only through their physical effects, but through their stories, symbolism, and the quiet rituals they invite us into. 
