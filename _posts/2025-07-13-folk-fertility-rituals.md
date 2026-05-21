@@ -104,7 +104,7 @@ In many folk cultures, fertility was tied to ancestral blessings. Women would po
 
   **Offer at dusk** with intention: “May your blood flow in me again.”
 
-Milk carried particular weight in these offerings. Treated less as food and more as a living threshold substance that connected the household to spirits, ancestors, and land, as explored in the folklore of **[Milk as a Sacred Offering](/milk-magic-in-folklore/)**.
+Milk carried particular weight in these offerings. Treated less as food and more as a living threshold substance that connected the household to spirits, ancestors, and land, its role explored in the folklore of **[Milk as a Sacred Offering](/milk-magic-in-folklore/)**.
 
 ---
 
