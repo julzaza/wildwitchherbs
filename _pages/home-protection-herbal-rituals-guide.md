@@ -214,5 +214,4 @@ Threshold magic refers to practices performed at doorways and entrances to contr
 ### Why do protection rituals stop working?
 Most often because only one step is used: usually people focus just on the cleansing. But without securing entry and holding the boundary, the condition resets and the same issues return.  
 
-For more common protection ritual mistakes, see:  
-**[12 Frequently-Made Protection Ritual Mistakes](/common-protection-rituals-mistakes/)**
+For more common protection ritual mistakes, see: **[12 Frequently-Made Protection Ritual Mistakes](/common-protection-rituals-mistakes/)**.
