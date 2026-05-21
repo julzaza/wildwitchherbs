@@ -192,9 +192,6 @@ Likewise, feeding them carelessly could encourage attachment.
 Milk sat directly in the middle:  
 both gift and contract.
 
-
-Dairy offerings sit within a much older symbolic pattern connecting nourishment, land, and reproduction in what folk traditions understood as the relationship between **[Food, Land, and Women's Fertility Magic](/folk-fertility-rituals/)**. 
-
 ---
 
 ## Milk and Fertility Magic
@@ -222,6 +219,8 @@ The symbolism was obvious:
 milk nourishes life before teeth exist.
 
 It became one of humanity’s oldest symbols of continuity itself.
+
+Dairy offerings sit within a much older symbolic pattern connecting nourishment, land, and reproduction in what folk traditions understood as the relationship between **[Food, Land, and Women's Fertility Magic](/folk-fertility-rituals/)**. 
 
 ---
 
@@ -301,9 +300,6 @@ Others feared spirits lingering too close to milk stores or livestock.
 
 Again, milk occupied the threshold:
 life and death touching briefly through nourishment.
-
-
-In many traditions, grief was not separated from the body or the home, and this emotional landscape was often tended with plants, as explored in **[Witchy Herbs for Emotional Healing](/witchy-herbs-anxiety-grief-emotional-healing/)**.
 
 ---
 
