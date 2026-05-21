@@ -116,11 +116,6 @@ This blend works best for:
 
 It’s a good **baseline tea**, something you can return to regularly.
 
-## ✦ Why This Blend Ratio Works
-lemon balm = dominant (nervous system regulator)
-chamomile = physical relaxation
-lavender = modulator, not base
-
 ## ✦ When This Tea Starts Working
 immediate: warmth + grounding
 15–30 min: nervous system shift
