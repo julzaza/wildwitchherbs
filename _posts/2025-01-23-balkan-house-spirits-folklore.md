@@ -41,7 +41,7 @@ They were not symbolic archetypes.
 They were not friendly.  
 And they were never optional.
 
-To build a house without acknowledging what lived beneath it was considered reckless—and sometimes fatal.
+To build a house without acknowledging what lived beneath it was considered reckless, and sometimes fatal.
 
 ---
 
@@ -108,7 +108,7 @@ These beliefs intersect with practices described in **[Vlach Magic of Negotin](/
 
 ### Bulgaria
 The **domovnik** or **stopanin** guarded the household economy.  
-Offerings of bread or wine were made discreetly—never publicly.
+Offerings of bread or wine were made discreetly, never publicly.
 
 ### Croatia & Slovenia
 House spirits were less named but deeply feared.  
@@ -136,7 +136,7 @@ These domestic taboos align closely with **[Old European Yule Rituals](/oldest-y
 
 ## The House Spirits Themselves — Unnamed, Territorial, and Volatile Forces
 
-Beyond the house serpent, Balkan folk belief held that **something lived in every dwelling** — whether seen or not.
+Beyond the house serpent, Balkan folk belief held that **something lived in every dwelling**, whether seen or not.
 
 These beings were rarely given stable names.
 
@@ -164,11 +164,11 @@ They were understood as **territorial powers**, bound to:
 - the foundation and hearth  
 - earlier occupants or buried dead  
 
-Importantly, these spirits were not inherited in the way the house snake was. A family moving into an old house did not “receive” protection — they **entered a relationship already in progress**.
+Importantly, these spirits were not inherited in the way the house snake was. A family moving into an old house did not “receive” protection, they **entered a relationship already in progress**.
 
 Ethnographic records from eastern Serbia and western Bulgaria describe families abandoning houses where night pressure, recurring illness, and falling objects persisted despite silence and restraint. 
 
-No spirit was named, no ritual prescribed. The house was simply described as teška — “heavy” — and left behind.
+No spirit was named, no ritual prescribed. The house was simply described as teška, which means “heavy”, and left behind.
 
 This is why Balkan folklore repeatedly warns that some houses were simply *bad*.
 
@@ -190,7 +190,7 @@ These were not manners.
 
 They were survival strategies.
 
-Offerings, when made, were discreet and infrequent — a piece of bread left without comment, a bowl of water placed and removed before dawn. Direct requests were avoided.
+Offerings, when made, were discreet and infrequent: a piece of bread left without comment, a bowl of water placed and removed before dawn. Direct requests were avoided.
 
 To attract notice was to invite judgment.
 
@@ -220,7 +220,6 @@ People endured symptoms until:
 This fatalism is one of the clearest markers that these beings were **not romanticized folklore**, but active forces taken seriously in everyday life.
 
 Some houses were lived in carefully.
-Some were feared.
 Some were left to rot.
 
 And no one asked why.
@@ -249,7 +248,7 @@ The serpent had rules.
 
 The house spirits did not.
 
-They were older than the house, older than the family, and uninterested in human intention. Where the serpent protected continuity, house spirits enforced **boundaries** — and punished intrusion.
+They were older than the house, older than the family, and uninterested in human intention. Where the serpent protected continuity, house spirits enforced **boundaries** and punished intrusion.
 
 This is why Balkan domestic magic focused less on invocation and more on avoidance.
 
@@ -257,7 +256,7 @@ The safest relationship was distance.
 
 It is important to distinguish between **taboo fear** and **existential fear** in Balkan folk belief.
 
-The house serpent was feared in the sense that kinship violations were feared — its death carried consequences because it belonged.
+The house serpent was feared in the sense that kinship violations were feared: its death carried consequences because it belonged.
 
 The unnamed house spirits **were feared because they did not belong to the family at all**.
 
@@ -294,6 +293,15 @@ Sometimes. Often silence and restraint mattered more.
 ### Are these beliefs still alive?
 Yes—especially in rural areas, though rarely spoken aloud.
 
+
+---
+
+House spirits were not companions.
+
+They were **conditions of survival**.
+
+And they are not gone, they just got quieter.
+
 ---
 
 ## Sources & Further Reading
@@ -305,10 +313,4 @@ Yes—especially in rural areas, though rarely spoken aloud.
 - Balkan oral folklore collections (19th–20th c.)
 
 ---
-
-House spirits were not companions.
-
-They were **conditions of survival**.
-
-And they are not gone—only quieter.
 
