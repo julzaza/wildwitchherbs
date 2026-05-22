@@ -28,7 +28,7 @@ faq:
 **Plants That Have Protected, Poisoned, and Empowered Witches for Centuries**
 
 **Not every witch wears black. Some wear wormwood and carry rue.**  
-This is not a list of “gentle herbal allies.” These are the real ones — **folk medicine plants**, **poisonous protectors**, and **ritual tools** used in spells, curses, midwifery, and burial rites.  
+This is not a list of “gentle herbal allies.” These are the real ones: **folk medicine plants**, **poisonous protectors**, and **ritual tools** used in spells, curses, midwifery, and burial rites.  
 
 Whether you're new to the path or already deep in your craft, these ten herbs are your starting point. They bite. They heal. They teach.
 
@@ -110,7 +110,7 @@ Collected under moonlight without iron. Used by Druids and witches to stop bleed
 ## 8. **Dandelion** (*Taraxacum officinale*) — Ancestor Work & Spirit Communication  
 **The sun weed. The ancestor flower. The soul guide.**
 
-Roots for detox, flowers for grief, seeds for divination. The most underestimated plant in the garden — and one of the most powerful.
+Roots for detox, flowers for grief, seeds for divination. The most underestimated plant in the garden and one of the most powerful.
 
 > The weed you step on today might be the ghost who answers your call tomorrow.
 
@@ -130,7 +130,7 @@ Highly toxic. Once used in flying ointments, absorbed through the skin for out-o
 
 Burned in temples, steeped in mourning tea, poured into floor washes. In Balkan homes, thyme was a funeral herb and a rebirthing one.
 
-> Thyme clears grief. And when you’ve lost your way — it brings you back.
+> Thyme clears grief. And when you’ve lost your way, it brings you back.
 
 ---
 
@@ -149,7 +149,7 @@ Explore **[Spring Equinox Foraging: Folklore of Early Plants](/spring-equinox-fo
 ## Closing the Circle
 
 These ten herbs have been burned, buried, boiled, and feared.  
-They’re not decorations. They’re **tools of power** — and **witnesses** to old magic.  
+They’re not decorations. They’re **tools of power** and **witnesses** to old magic.  
 
 Start with the ones that call to you. Grow them if you can. Burn their leaves. Drink their roots. Speak their names.
 
@@ -177,7 +177,7 @@ Deepen your knowledge of protective and ritual herbs with these guides:
 **A:** These herbs are presented for educational and folkloric purposes. Some are highly toxic (e.g., Belladonna), and their modern use requires expert guidance.
 
 **Q:** Where can I find more detailed instructions for using Mugwort or Wormwood?  
-**A:** See **[Mugwort and Wormwood for Prophetic Dreaming](/solstice-dreaming-mugwort-wormwood/)** and **[Wormwood in Witchcraft & War](/wormwood-witchcraft-war/)** for ritual, dream, and protective practices.
+**A:** See **[Mugwort and Wormwood for Prophetic Dreaming](/solstice-dreaming-mugwort-wormwood/)** and **[Wormwood & Lucid Dreaming](/wormwood-lucid-dreaming/)** for ritual, dream, and protective practices.
 
 **Q:** Can I grow these herbs at home?  
 **A:** Many can be grown in pots or small gardens. Artemisia, Thyme, and Dandelion are beginner-friendly; toxic plants like Belladonna should not be cultivated without proper expertise.
