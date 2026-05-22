@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "The Witch’s Herbal Starter Kit: 10 Powerful Plants"
+title: "Witchy Herbs Starter Kit: 10 Powerful Plants"
 date: 2025-07-01
 description: "A folklore-rich guide to 10 essential witchy herbs every modern practitioner should know, including Mugwort, Wormwood, Artemisia annua, Nettle, Yarrow, Rue, Vervain, Dandelion, Belladonna, and Thyme. Explore their magical, protective, and ancestral uses in spells, rituals, and folk traditions."
 excerpt: "Discover 10 powerful herbs for the modern witch, from ancestral folklore to protective magic. Learn how Mugwort, Wormwood, Artemisia annua, and more have been used in rituals, spellwork, and traditional folk practices."
 
 categories: [herbal-magic, folklore-ancestral]
-tags: [herbs, witchcraft, rituals, artemisia, folklore, protection, healing, beginners]
+tags: [witchy herbs, witchcraft, rituals, artemisia, folklore, protection, healing, beginner witch, new to witchcraft]
 
 header:
   image: /assets/images/anise-small-sieve-with-various-dried-herbs-flat-lay-white-surface.webp
@@ -136,7 +136,7 @@ Burned in temples, steeped in mourning tea, poured into floor washes. In Balkan 
 
 ## Common Modern Misreadings
 
-- These herbs are not all “safe for everyone” — some are toxic.  
+- These herbs are not all “safe for everyone”, **some are toxic**.  
 - Folk practice did not treat all herbs as recreational, most were ceremonial or protective.  
 - Traditional witchcraft often included subtle dreamwork and protective magic, not always overt hallucinogens.
 
