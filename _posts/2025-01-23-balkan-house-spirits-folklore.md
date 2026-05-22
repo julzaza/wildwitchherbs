@@ -81,12 +81,12 @@ Folk accounts describe:
 - Crop failure
 - Family death within the year
 
-Milk was sometimes left near the hearth — rarely framed as an offering, but **as quiet appeasement or acknowledgment**.
+Milk was sometimes left near the hearth. It was rarely framed as an offering, but **as quiet appeasement or acknowledgment**.
 
 It was not invoked, named, or displayed.  
-It simply *existed* — and that existence carried obligation.
+It simply *existed* and that existence carried obligation.
 
-While the serpent is the most widely recorded form of Balkan house spirit, it was not the only one — and not always the most dangerous. 
+While the serpent is the most widely recorded form of Balkan house spirit, it was not the only one, and not always the most dangerous. 
 
 Other domestic beings, often unnamed, were believed to inhabit thresholds, hearths, and foundations with far less tolerance for human error. 
 
