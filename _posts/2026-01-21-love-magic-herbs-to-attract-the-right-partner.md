@@ -8,7 +8,6 @@ author: "Wild Witch Herbs"
 image_mobile: /assets/images/heroes/love-magic-herbs-to-attract-the-right-partner/800x1000px-jasmine-flowers.webp
 image_desktop_1280: /assets/images/heroes/love-magic-herbs-to-attract-the-right-partner/1280x400px-jasmine-flowers.webp
 image_alt: "jasmine plant with flowers"
-
 teaser: /assets/images/heroes/love-magic-herbs-to-attract-the-right-partner/800x1000px-jasmine-flowers.webp
 
 featured: true
