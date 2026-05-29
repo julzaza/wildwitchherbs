@@ -143,7 +143,7 @@ Learn more about this special plant and how to use it properly here: **[Sweet Wo
 In folk belief, war does not end when armies leave.  
 It remains in the land, the body, and the dreams.
 
-Both wormwood and mugwort appear in traditions concerned with **disturbed sleep, prophetic dreams, and visions following trauma**. These plants were believed to force truth to the surface—not gently, but honestly.
+Both wormwood and mugwort appear in traditions concerned with **disturbed sleep, prophetic dreams, and visions following trauma**. These plants were believed to force truth to the surface. They were not gentle, but honest.
 
 Dreamwork involving Artemisia was never recreational. It was diagnostic, ancestral, and often uncomfortable.
 
