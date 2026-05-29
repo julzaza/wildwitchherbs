@@ -104,7 +104,7 @@ They read signs in smoke and chicken bones, stirred healing charms into soup, an
 Their magic wasn’t for show.  
 It was **woven into survival**: dirty-fingernailed, blood-stained, whispered-in-the-night magic. 
 
-Even today, ritual remains tied to natural cycles—see **[Full Moon Rituals with Sacred Herbs](/full-moon-rituals/)** for a surviving form of this practice.
+Even today, ritual remains tied to natural cycles, see **[Full Moon Rituals with Sacred Herbs](/full-moon-rituals/)** for a surviving form of this practice.
 
 ---
 
@@ -135,7 +135,7 @@ Power without people is fragile.
 
 The Balkan witches survived because they **served their community**. Their craft was sacred because it was useful. Their rituals were powerful because they were real — grounded in blood, birth, illness, and death.
 
-Many modern misunderstandings come from projecting Western ideas onto Balkan traditions—broken down in **[3 Historically Wrong Myths About Balkan Witches](/three-wrong-myths-balkan-witches/)**.
+Many modern misunderstandings come from projecting Western ideas onto Balkan traditions. This topic is broken down in **[3 Historically Wrong Myths About Balkan Witches](/three-wrong-myths-balkan-witches/)**.
 
 So light your candles. Burn your herbs. But don’t forget the root:  
 **Magic is medicine, and medicine serves.**
