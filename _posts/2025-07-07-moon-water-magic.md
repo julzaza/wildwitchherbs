@@ -7,6 +7,12 @@ categories: [witchcraft-ritual, folklore-ancestral]
 tags: [moon water, full moon ritual, lunar witchcraft, water magic, herbal spells, witch tips]
 date: 2025-07-07
 permalink: /moon-water-magic/
+
+image_mobile: /assets/images/heroes/never-burn-herbs/800x1000px-herbs-never-burn-48KB.webp
+image_desktop_1280: /assets/images/heroes/moon-water-magic/1280x400px-full-moon-sky.webp
+image_alt: "Herbs burning ritual performed by two women"
+teaser: /assets/images/heroes/never-burn-herbs/800x1000px-herbs-never-burn-48KB.webp
+
 faq:
   - question: "What is moon water in witchcraft?"
     answer: "Moon water is water that has been placed under the moonlight to absorb lunar energy, used in spells, healing, dream work, and ancestral rituals."
