@@ -72,7 +72,7 @@ Making **sun water** with St. John’s Wort brings together the brightest forces
 
 ---
 
-## Folklore Flash
+## Folklore
 
 In folk tradition, St. John’s Wort was called the “Chase-Devil” or “Woundwort.” Soldiers carried it into battle, and healers used it to treat both physical and spiritual wounds. It was believed to hold the **power of the midsummer sun**, banishing evil spirits, nightmares, and melancholy.
 
