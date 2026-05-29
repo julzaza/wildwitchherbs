@@ -7,7 +7,7 @@ tags: [balkan witches, folk magic, artemisia, survival, rituals, history]
 
 image_mobile: /assets/images/heroes/balkan-witches/800x1000px-young-balkan-woman-in-the-field-in-sunlight-close-up.webp
 image_desktop_1280: /assets/images/heroes/balkan-witches/1280x400px-young-balkan-woman-in-the-field-in-sunlight.webp
-image_alt: "balkan young woman in a scarf"
+image_alt: "Balkan young woman in a scarf"
 teaser: /assets/images/heroes/balkan-witches/800x1000px-young-balkan-woman-in-the-field-in-sunlight-close-up.webp
 featured: true
 
@@ -46,7 +46,7 @@ faq:
       
 ---
 
-The witch hunts swept across Europe like wildfire, burning tens of thousands — mostly women — accused of heresy, devil worship, or simply knowing too much. But in the Balkans, something different happened.
+The witch hunts swept across Europe like wildfire, burning tens of thousands, mostly women, accused of heresy, devil worship, or simply knowing too much. But in the Balkans, something different happened.
 
 **Witches survived here**.
 
@@ -55,13 +55,13 @@ Not because they hid. Not because they were meek.
 
 In much of Europe, witchcraft meant heresy. In the Balkans, it meant responsibility.
 
-However, not everywhere was so fortunate—see how persecution unfolded in **[A Brief History of Balkan Witch Trials](/balkan-witch-trials/)**.
+However, not everywhere was so fortunate: see how persecution unfolded in **[A Brief History of Balkan Witch Trials](/balkan-witch-trials/)**.
 
 ---
 
 ### Witchcraft of the Commons, Not the Court
 
-In Western Europe, witches were often portrayed as **threats to Church or State — defiant women, wise men, midwives, herbalists**… anyone who didn’t fit into the control structure. The Inquisition labeled them heretics.
+In Western Europe, witches were often portrayed as **threats to Church or State: defiant women, wise men, midwives, herbalists**. Anyone who didn’t fit into the control structure, the Inquisition labeled them heretics.
 
 But in the Balkans, witches weren’t so easily scapegoated. Here, the line between **folk healer**, **village elder**, and **witch** blurred.
 
@@ -102,7 +102,7 @@ Witches weren’t casting glamour spells to get rich or hexes over lovers’ arg
 They read signs in smoke and chicken bones, stirred healing charms into soup, and taught daughters how to bury placenta at the crossroads so spirits wouldn't follow the baby home.
 
 Their magic wasn’t for show.  
-It was **woven into survival** — dirty-fingernailed, blood-stained, whispered-in-the-night magic. 
+It was **woven into survival**: dirty-fingernailed, blood-stained, whispered-in-the-night magic. 
 
 Even today, ritual remains tied to natural cycles—see **[Full Moon Rituals with Sacred Herbs](/full-moon-rituals/)** for a surviving form of this practice.
 
@@ -110,7 +110,7 @@ Even today, ritual remains tied to natural cycles—see **[Full Moon Rituals wit
 
 ### Why They Lived 
 
-These traditions didn’t begin with the Church—they existed long before it, as explored in **[Pre-Christian European Witchcraft](/pre-christian-europe-magic/)**.
+These traditions didn’t begin with the Church. They existed long before it, as explored in **[Pre-Christian European Witchcraft](/pre-christian-europe-magic/)**.
 
 The Church tried — make no mistake.
 
