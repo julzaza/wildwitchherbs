@@ -199,4 +199,4 @@ Yes, especially protective threading, herbal smoke cleansing, water rituals, and
 
 **What can modern witches learn from Balkan traditions?**
 
-Practicality, humility, community service, and the understanding that magic exists to support life—not decorate it.
+Practicality, humility, community service, and the understanding that magic exists to support life, not decorate it.
