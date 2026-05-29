@@ -76,6 +76,10 @@ Certain herbs appear again and again in witch trials, folk remedies, burial cust
 - **Calendula**: Bright and bold, calendula is used for healing, attracting positivity, and enhancing solar (sun) magic.
 - **Thyme**: Protected homes, dead bodies, and memories.
 
+In old traditions, wormwood, mugwort, and yarrow stood watch over homes, bodies, graves, and dreams. You can explore their deeper protective roles in **[Top 10 Protective Herbs](/top-protective-herbs-witchcraft/)**.
+
+Chamomile, lavender, and thyme appear again and again in folk remedies meant to soothe restless minds and exhausted hearts. Their gentler side is explored further in **[Top Herbs for Emotional Well-Being](/witchy-herbs-anxiety-grief-emotional-healing/)**.
+
 ---
 
 ##  How to Start Without Getting Overwhelmed
@@ -130,7 +134,6 @@ Not all herbal magic was written down. This article prioritizes **documented pat
 Dive deeper into **herbal magic, ritual work, and folk traditions**:
 
 - Learn **[How To Use Herbs for Smoke Cleansing in Folk Magic](/smoke-cleansing-folk-magic/)** and protect your space effectively.  
-- Discover the **[Difference Between Smoke Cleansing and Smudging](/smoke-cleansing-vs-smudging/)** to choose the right ritual for your intention.  
 - Understand which **[Herbs You Should Never Burn In Ritual](/never-burn-herbs/)** to avoid doing harm to yourself and others.
 
 ---
