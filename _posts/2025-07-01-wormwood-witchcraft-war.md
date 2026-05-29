@@ -97,7 +97,7 @@ Across multiple European traditions, it was used to:
 - Cleanse after violent death
 - Prevent spiritual contamination following war or plague
 
-Unlike herbs associated with comfort or blessing, wormwood was believed to **hold the line**—between the living and the dead, the past and the present, the safe and the unsafe.
+Unlike herbs associated with comfort or blessing, wormwood was believed to **hold the line**: between the living and the dead, the past and the present, the safe and the unsafe.
 
 This belief appears repeatedly in burial customs, threshold charms, and land-clearing rites.
 
@@ -177,7 +177,7 @@ The plant’s reputation is remarkably consistent: **bitter, protective, uncompr
 
 ## Babylonian Blood and Bitter Gods
 
-The earliest written records of wormwood go back to *Babylon*. Known to the Sumerians and Akkadians as a sacred herb, *Artemisia* was burned in **offerings to gods and used in rituals to drive out illness — or demons**. 
+The earliest written records of wormwood go back to *Babylon*. Known to the Sumerians and Akkadians as a sacred herb, *Artemisia* was burned in **offerings to gods and used in rituals to drive out illness or demons**. 
 
 It’s no accident that bitterness was linked to purification: *the more bitter the herb, the more potent its spirit-cleansing power*.
 
