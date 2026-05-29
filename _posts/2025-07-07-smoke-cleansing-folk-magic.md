@@ -75,7 +75,7 @@ If protecting your home from negative forces is a priority, see **[Household Def
 
 ## The Function of Smoke in Magic
 
-Not just symbolic — smoke **moves things**.
+Not just symbolic, smoke **moves things**.
 
 - **Cleanses** places of stagnant, harmful, or lingering energy  
 - **Carries** prayers or messages to spirits and deities  
