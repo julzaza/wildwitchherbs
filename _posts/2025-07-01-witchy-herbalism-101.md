@@ -46,9 +46,9 @@ If you want magic, healing, and connection, you start with understanding these h
 
 ## Why Witchy Herbalism Was Taken Seriously
 
-**Herbs are tools. Like knives or fire**. They can heal or hurt. They carry specific properties, histories, and uses that go beyond fairy tales. Learning about them means respecting their power—and knowing how to work with them safely and effectively.
+**Herbs are tools. Like knives or fire**. They can heal or hurt. They carry specific properties, histories, and uses that go beyond fairy tales. Learning about them means respecting their power and knowing how to work with them safely and effectively.
 
-In folk traditions herbs were **forces** — capable of healing wounds, ending pregnancies, breaking fevers, calling dreams, or bringing death.
+In folk traditions herbs were **forces** capable of healing wounds, ending pregnancies, breaking fevers, calling dreams, or bringing death.
 
 This is why herbalists were respected and feared in equal measure.
 
@@ -57,17 +57,17 @@ To know plants was to know:
 - how grief settled in the body  
 - how spirits were attracted, repelled, or fed  
 
-Herbal magic did not separate medicine from ritual.  
+Herbal magic **did not separate medicine from ritual**.  
 It never had the luxury to.
 
 ---
 
 ## The Plants That Refused to Disappear
 
-Certain herbs appear again and again in witch trials, folk remedies, burial customs, and seasonal rites — not because they were symbolic, but because they *did something*.
+Certain herbs appear again and again in witch trials, folk remedies, burial customs, and seasonal rites. Not because they were symbolic, but because they *did something*.
 
 - **Wormwood (Artemisia)**: This bitter, bold herb isn’t for casual dabblers. Used for protection, banishing, and opening your mind to the unseen, wormwood has a reputation for both healing and harsh truths. It’s often misunderstood but fiercely effective if you respect its strength.  
-- **Mugwort**: The go-to for dream work and psychic clarity. Don’t underestimate this wild herb—it’s sharp, it’s potent, and it’s been used for centuries to guard witches and shamans alike.  
+- **Mugwort**: The go-to for dream work and psychic clarity. Don’t underestimate this wild herb: it’s sharp, it’s potent, and it’s been used for centuries to guard witches and shamans alike.  
 - **Sage**: The classic cleanser. Used to clear space and mind. It’s blunt, effective, and absolutely necessary when you want to start fresh.  
 - **Chamomile**: Not just a calming tea. It’s subtle magic for peace, calming anxiety, and sometimes coaxing in good luck.  
 - **Lavender**: More than a pretty scent, lavender soothes nerves, invites calm, and is a staple for protection and love spells.  
@@ -93,7 +93,7 @@ People learned one plant slowly:
 Mistakes were remembered. Success was repeated.  
 Knowledge accumulated quietly.
 
-**This is why folk magic feels fragmented today — it was never meant to be explained all at once.**
+**This is why folk magic feels fragmented today. It was never meant to be explained all at once.**
 
 So keep a journal. Write what you feel. Be honest. Magic is messy and personal.
 
@@ -103,7 +103,7 @@ So keep a journal. Write what you feel. Be honest. Magic is messy and personal.
 
 Learn **[How to Make Moon Water and Use It in Magic](/moon-water-magic/)**, it is a great way to begin your witchy journey.  
 
-Can also **[Start Your Own Witchy Garden](/witch-garden/)** if getting your hands dirty doesn't scare you. And let's be honest - real witchcraft can get a bit messy...
+Can also **[Start Your Own Witchy Garden](/witch-garden/)** if getting your hands dirty doesn't scare you. And let's be honest, real witchcraft can get a bit messy...
 
 ---
 
@@ -115,7 +115,7 @@ These plants survived plague, famine, religious suppression, and modern dismissa
 They are not trends.
 
 If you want real magic, start where people always did:  
-with what grows near you — and what refuses to leave.
+with what grows near you and what refuses to leave.
 
 ---
 
