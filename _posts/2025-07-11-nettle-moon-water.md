@@ -64,7 +64,7 @@ In Old European folk medicine, nettle also appears in discussions of reproductiv
 - **Full Moon** – To amplify personal power, reinforce boundaries, and reclaim energy drained by others.  
 - **New Moon** – To root into courage and resilience at the start of a new cycle, especially after burnout or trauma.
 
-In the Balkans, nettle belongs to a wider cycle of seasonal plant rites, appearing alongside spring herbs gathered for protection, love, and renewal — a pattern still visible in **[Traditional Balkan Spring Herbal Rites](/balkan-courtship-love-rites/)**.
+In the Balkans, nettle belongs to a wider cycle of seasonal plant rites, appearing alongside spring herbs gathered for protection, love, and renewal. This pattern is still visible in **[Traditional Balkan Spring Herbal Rites](/balkan-courtship-love-rites/)**.
 
 ---
 
@@ -99,7 +99,7 @@ You will need:
 - Mist your space to clear lingering energy after arguments or unwanted visitors.  
 - If made with safe, dried nettle and clean water, it may be drunk to empower courage from within.
 
-Where nettle moon water cuts and fortifies, gentler lunar workings like **[St. John’s Wort Moon Water For Grief And Ancestral Healing](/st-johns-wort-moon-water/)** focus on softening sorrow rather than burning it away.
+Where nettle moon water cuts and fortifies, gentler lunar workings like **[St. John’s Wort Moon Water For Grief](/st-johns-wort-moon-water/)** focus on softening sorrow rather than burning it away.
 
 ---
 
