@@ -130,7 +130,8 @@ Carried by soldiers for bravery. Used in rituals to keep your heart strong and y
 
 **Folklore Note:** In British folk magic, yarrow was stuffed under pillows to dream of one’s true love or of one's enemies. Romans called it Herba Militaris, a soldier’s herb.
 
-In fact, yarrow, basil and rue are among the most well-known herbs used in protection magic workings. See **[Top Protective Plants in Witchcraft](/top-protective-herbs-witchcraft/)** to find out why and how to use them. 
+In fact, yarrow, basil and rue are among the most well-known herbs used in protection magic workings.  
+See **[Top Protective Plants in Witchcraft](/top-protective-herbs-witchcraft/)** to find out why and how to use them. 
 
 ---
 
