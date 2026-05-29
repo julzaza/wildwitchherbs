@@ -8,10 +8,10 @@ tags: [moon water, full moon ritual, lunar witchcraft, water magic, herbal spell
 date: 2025-07-07
 permalink: /moon-water-magic/
 
-image_mobile: /assets/images/heroes/never-burn-herbs/800x1000px-herbs-never-burn-48KB.webp
+image_mobile: /assets/images/heroes/moon-water-magic/800x1000px-full-moon-sky-clouds.webp
 image_desktop_1280: /assets/images/heroes/moon-water-magic/1280x400px-full-moon-sky-clouds.webp
-image_alt: "Herbs burning ritual performed by two women"
-teaser: /assets/images/heroes/never-burn-herbs/800x1000px-herbs-never-burn-48KB.webp
+image_alt: "dark grey sky with full mooon and small clouds"
+teaser: /assets/images/heroes/moon-water-magic/800x1000px-full-moon-sky-clouds.webp
 
 faq:
   - question: "What is moon water in witchcraft?"
