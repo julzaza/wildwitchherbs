@@ -34,7 +34,7 @@ faq:
 
 ## It's Golden Light for Heavy Days
 
-**St. John’s Wort (*Hypericum perforatum*) is the herb of the sun.** It bursts into yellow bloom at the height of summer, near the **summer solstice** or **St. John’s Day (June 24)**—a time long considered powerful for harvesting herbs and making magical preparations.
+**St. John’s Wort (*Hypericum perforatum*) is the herb of the sun.** It bursts into yellow bloom at the height of summer, near the **summer solstice** or **St. John’s Day (June 24)**. It is a time long considered powerful for harvesting herbs and making magical preparations.
 
 For centuries, people across Europe believed this herb could ward off evil spirits, chase away sadness, and light up the shadowed corners of the heart. Slavic, Celtic, and Germanic peoples hung it above doors, braided it into crowns, and used it in rites to divine love or reveal hidden sorcery.
 
@@ -128,25 +128,25 @@ In the Soviet Union, St. John’s Wort was widely used in folk medicine for its 
 ## Questions People Usually Ask About St. John’s Wort Sun Water
 
 **Is St. John’s Wort sun water safe for beginners?**  
-Yes — as long as it’s approached with respect. This is gentle, traditional folk magic, not aggressive spellwork. Beginners often start by using it externally (anointing, cleansing space, ritual baths) before experimenting with internal use.
+Yes, as long as it’s approached with respect. This is gentle, traditional folk magic, not aggressive spellwork. Beginners often start by using it externally (anointing, cleansing space, ritual baths) before experimenting with internal use.
 
 **Can I make sun water if I miss the solstice or St. John’s Day?**  
-Absolutely. While midsummer is traditional, any clear, bright day works. Folk magic adapts to real life — intention and awareness matter more than perfect timing.
+Absolutely. While midsummer is traditional, any clear, bright day works. Folk magic adapts to real life. Intention and awareness matter more than perfect timing.
 
 **Why do some people avoid drinking sun water?**  
 Because sun-infused water warms quickly and herbs can be potent. Many witches prefer external or ritual use to avoid safety concerns. In folk traditions, not every magical preparation was meant to be swallowed.
 
 **What does St. John’s Wort *feel* like energetically?**  
-Warm, steady, and protective. People often describe it as lifting heaviness rather than forcing happiness — like sunlight slowly returning after a long grey stretch.
+Warm, steady, and protective. People often describe it as lifting heaviness rather than forcing happiness, like sunlight slowly returning after a long grey stretch.
 
 **Can I combine St. John’s Wort sun water with other herbs or practices?**  
 Yes, but simplicity was favored in folk tradition. If blending, pair it with gentle solar allies like calendula or chamomile, or keep it standalone for clarity and strength.
 
 **Is this more magical or herbal?**  
-Historically, it was both. In folk practice, there was no separation between healing, protection, and spirit work — St. John’s Wort lived in all those worlds at once.
+Historically, it was both. In folk practice, there was no separation between healing, protection, and spirit work. St. John’s Wort lived in all those worlds at once.
 
 **How long does sun water keep?**  
-Traditionally, it was used fresh. If stored, keep it refrigerated or in a cool, dark place and use within a short time. When in doubt, make a new batch — folk magic values freshness over hoarding.
+Traditionally, it was used fresh. If stored, keep it refrigerated or in a cool, dark place and use within a short time. When in doubt, make a new batch. Folk magic values freshness over hoarding.
 
 **What if I feel emotional after working with it?**  
 That’s normal. St. John’s Wort has long been associated with lightening sorrow and protecting the spirit. Ground afterward — eat, rest, or touch the earth.
