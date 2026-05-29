@@ -45,7 +45,7 @@ You can also:
 
 - learn how to **[Make Moon Water](/moon-water-magic/)** and discover its ritual uses
 - use **[St. John’s Wort Moon Water for Grief and Ancestral Magic](/st-johns-wort-moon-water/)** to support emotional healing
-- or make **[Stinging Nettle Moon Water](/stinging-nettle-moon-water/)** for courage, protection, and cutting energetic ties 
+- or make **[Stinging Nettle Moon Water](/stinging-nettle-moon-water/)** for courage and cutting energetic ties 
 
 ## Sacred Herbs for Full Moon Rituals
 
@@ -95,7 +95,7 @@ White sage roots in **Indigenous American rituals** were used for purification, 
 
 Use rosemary or juniper if available. Light the bundle, waft smoke, and call on ancestors. Let it guide between worlds.
 
-Before burning, check **[Herbs You Should Never Burn in Ritual (And What to Use Instead)](/never-burn-herbs/)** for safer alternatives. 
+Before burning, check **[Herbs to Never Burn in Ritual](/never-burn-herbs/)** for safer alternatives. 
 
 White sage, for example, has become overharvested as it trends across social media. If you want to practice ethically, choose a substitute herb and reserve white sage for the Indigenous communities that hold it sacred.
 
@@ -158,7 +158,7 @@ Burn dried African blue basil. Place water with your family name whispered in it
 - Dry or store herbs in **glass or cloth**, away from sun.  
 - Label herbs with the moon phase for maximum potency.
 
-For more on working with phases in planting and harvesting, see **[Lunar Gardening: How Real Witches Plant with the Moon](/lunar-gardening-folklore/)**.
+For more on working with phases in planting and harvesting, see **[Lunar Gardening: Witches Plant with the Moon](/lunar-gardening-folklore/)**.
 
 ---
 
