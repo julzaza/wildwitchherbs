@@ -87,9 +87,9 @@ Balkan witches worked with what they had:
 
 Simple. Gritty. Real.
 
-And it worked—because people trusted it. **In a world with no doctor, no pharmacy, and no help coming, belief is powerful medicine**.
+And it worked, because people trusted it. **In a world with no doctor, no pharmacy, and no help coming, belief is powerful medicine**.
 
-These weren’t random traditions—many of these plants still form the backbone of Balkan herbal practice. 
+These weren’t random traditions. Many of these plants still form the backbone of Balkan herbal practice. 
 
 See **[Balkan Witchy Herbs and Their Uses](/balkan-witchy-herbs/)** for how this knowledge survives today.
 
@@ -122,7 +122,7 @@ She healed your child. She helped you through grief. She protected your animals.
 
 **You don’t burn your aunt**.
 
-This dynamic looked very different across regions—explored in **[Balkan Witchcraft by Region](/balkan-witchcraft-croatia-vs-serbia-vs-bosnia/)**.
+This dynamic looked very different across regions. To see how it varied from place to place, explore: **[Balkan Witchcraft by Region](/balkan-witchcraft-croatia-vs-serbia-vs-bosnia/)**.
 
 ---
 
