@@ -18,3 +18,13 @@
   availability: "InStock"
   condition: "NewCondition"
 
+- id: artemisia-annua-seeds
+  name: "Artemisia Annua Seeds – Wild Balkan Strain"
+  price: 5.00
+  currency: USD
+  url: "/shop/#artemisia-annua-seeds"
+
+  sku: "SEEDS-WILD-ARTEMISIA"
+  availability: "InStock"
+  condition: "NewCondition"
+  description: "These Artemisia annua seeds descend from hardy Balkan-grown plants shaped by intense sun, dry winds, and mineral-rich earth. Untouched by commercial breeding, they carry the fierce resilience this ancient herb is known for. Around 0.02 grams per packet."
