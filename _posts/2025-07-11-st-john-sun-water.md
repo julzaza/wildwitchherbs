@@ -112,7 +112,7 @@ In the Soviet Union, St. John’s Wort was widely used in folk medicine for its 
 
 ---
 
-**This is a potion of sunlight in a jar—joyful, cleansing, and full of golden magic.** We definitely enjoy a cup when feeling down and need our spirits lifted. 
+**This is a potion of sunlight in a jar: joyful, cleansing, and full of golden magic.** We definitely enjoy a cup when feeling down and need our spirits lifted. 
 
 **[St. John's Wort Moon Water](/st-johns-wort-moon-water/)** for grieving and mourning is also there for you for days when you need consolation and emotional support.
 
