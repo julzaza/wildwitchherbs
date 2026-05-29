@@ -24,7 +24,7 @@ The full moon marks a turning point. Across cultures, it’s a time when veils t
 
 For traditional herbalists, midwives, and witches, this is a time to **gather, craft, ask, and answer**.
 
-Herbs have long been tied to the moon—not just in theory, but in practice. Burned, brewed, or tucked under a pillow, they shape rituals in forests, temples, hearths, and gardens.  
+Herbs have long been tied to the moon not just in theory, but in practice. Burned, brewed, or tucked under a pillow, they shape rituals in forests, temples, hearths, and gardens.  
 
 Below are **full moon traditions rooted in herbal lore and lived memory**.
 
@@ -75,7 +75,7 @@ Place fresh tulsi leaves in water before sunset. Leave near moonlight, light a c
 
 ### Wormwood (Artemisia absinthium): The Banisher in the Balkans
 
-Wormwood clears interference—illness, spirits, and grief.
+Wormwood clears interference: illness, spirits, and grief.
 
 #### Ritual: Wormwood Protection Bundle
 
@@ -87,7 +87,7 @@ Bundle dried wormwood and hang over your door on the full moon. Speak: “Nothin
 
 ### White Sage (Salvia apiana): Purification in Ceremony
 
-White sage roots in **Indigenous American rituals**—for purification, gratitude, and spiritual alignment.
+White sage roots in **Indigenous American rituals** were used for purification, gratitude, and spiritual alignment.
 
 **Folklore:** Full moons were times for storytelling and passage rituals in Californian tribes.
 
@@ -166,7 +166,7 @@ For more on working with phases in planting and harvesting, see **[Lunar Gardeni
 
 Moon magic requires **intention more than tools**. Even a single herb, water bowl, or whispered truth can open doors. These rituals are **invitations, not instructions**. Merge old ways with your life, and the moon will guide you.
 
-**May the full moon find you exactly as you are—and remind you that it’s enough.**
+**May the full moon find you exactly as you are and remind you that it’s enough.**
 
 ---
 
