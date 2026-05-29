@@ -35,7 +35,8 @@ faq:
         
 ---
 
-Witchy herbalism was never about pretty jars or just spreading good vibes around.  
+Witchy herbalism was never about pretty jars or just spreading good vibes around. 
+
 It was about plants that were precise, that **got the job done**. Sometimes they worked violently, sometimes slowly, and sometimes at a cost.
 
 Long before witchcraft was an identity, it was a **necessity**. People turned to herbs because doctors were distant and survival demanded knowledge of the living world that could be passed quietly, hand to hand.
