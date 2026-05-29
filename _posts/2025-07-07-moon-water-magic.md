@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "How to Make Moon Water: A Witchcraft Ritual Guide"
-excerpt: "Moon water isn’t just trendy—it’s a powerful, ancient magical tool. Learn how witches across cultures have worked with lunar water, and how to craft, charge, and use it for spells, healing, and ancestral work."
+excerpt: "Moon water is a powerful, ancient magical tool. Learn how witches across cultures have worked with lunar water, and how to craft, charge, and use it for spells, healing, and ancestral work."
 author: Wild Witch Herbs 
 categories: [witchcraft-ritual, folklore-ancestral]
 tags: [moon water, full moon ritual, lunar witchcraft, water magic, herbal spells, witch tips]
