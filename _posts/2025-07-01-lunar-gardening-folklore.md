@@ -88,7 +88,7 @@ For those building a garden from the ground up, timing was inseparable from plan
 ### Waxing Moon – The Rising Tide  
 - Plant herbs that grow above ground: **mugwort**, **tulsi**, **basil**, **chamomile**, **motherwort**.  
 - Ideal for attraction work and strength spells.  
-- In parts of India, seeds were soaked and whispered over during the waxing crescent — not prayer, but pact.
+- In parts of India, seeds were soaked and whispered over during the waxing crescent. It was not a prayer, but a pact.
 
 ### Full Moon – The Bright Edge  
 - Harvest leafy herbs and flowers.  
@@ -166,7 +166,7 @@ They often watched lunar phases, seasonal signs, or stellar positions; timing wa
 Trying to follow every rule perfectly. Folk practice was flexible; rhythm matters more than precision.
 
 ### Are some herbs stronger when harvested on a full moon?  
-Yes. European, North African, and Middle Eastern lore holds that herbs gathered under a bright moon — especially **Artemisia, vervain, yarrow, and rue** — were considered more potent.
+Yes. European, North African, and Middle Eastern lore holds that herbs gathered under a bright moon were considered more potent, especially **Artemisia, vervain, yarrow, and rue**.
 
 ### Can I practice lunar gardening indoors?  
 Yes. Pots, bowls, or borrowed ground suffice. See **[Indoor Witchy Plants](/witchy-plants-to-grow-indoors/)**. And check out **[Plants Witches Keep in Bedrooms](/witchy-plants-bedroom/)** to make the best choice for you.
