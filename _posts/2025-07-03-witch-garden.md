@@ -98,7 +98,7 @@ We recently sourced a small batch of heirloom Artemisia annua tea and seeds from
 
 If you’re called to cultivate this plant yourself, you can find them here:
 
-**[Order Heirloom Artemisia Annua Seeds](/shop/#artemisia-annua-seeds--5/)** 
+**[Order Heirloom Artemisia Annua Seeds](/shop/#artemisia-annua-seeds)** 
 
 Limited harvest, once gone, gone.
 
