@@ -24,7 +24,7 @@ Forget altars full of colorful crystals for a second. **Moon water isn’t aesth
 
 It has roots far older than new age trends, pulsing through old Slavic wells, Andean lakes, Celtic springs, and desert rainwater collected in secret by Bedouin women who knew the moon was more than myth. They knew the moon was watching.
 
-Water remembers. It carries what it touches. It absorbs intention, sound, silence. And under the moon—especially a full or eclipsed one—it becomes charged with **power too strange for science to measure but too strong for any real witch to ignore**.
+Water remembers. It carries what it touches. It absorbs intention, sound, silence. And under the moon, especially a full or eclipsed one. It becomes charged with **power too strange for science to measure but too strong for any real witch to ignore**.
 
 This is not just water. This is a key.
 
@@ -55,7 +55,7 @@ Use spring water, river water, melted snow, collected rain—or even tap, if tha
 Learn more about **[Full Moon Rituals and Sacred Herbs](/full-moon-rituals/)**.
 
 ### 3. **Select Your Vessel**
-Glass jars are ideal. No plastic. A clear jar lets light through, but a dark jar can be used for shadow work. Lid optional—open if safe from bugs or dust, covered if outside in the wild.
+Glass jars are ideal. No plastic. A clear jar lets light through, but a dark jar can be used for shadow work. Lid optional: open if safe from bugs or dust, covered if outside in the wild.
 
 ### 4. **Add Herbs or Objects (Optional)**
 - **Rose** for love and softness  
@@ -98,6 +98,8 @@ Use in place of regular water in spell jars, brews, or baths. Combine with herbs
 
 ### 6. **Protection Spray**
 Mix moon water with rosemary or wormwood infusion. Pour into a spray bottle and mist your space, clothes, or pillow. Wards off energetic parasites.
+
+Rosemary and wormwood are actually two of the most well-known **[Witchy Plants for Protection](/top-protective-herbs-witchcraft/)**, but by far not the only ones.
 
 ---
 
