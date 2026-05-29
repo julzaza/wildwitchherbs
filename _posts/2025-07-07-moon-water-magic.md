@@ -26,7 +26,7 @@ faq:
 
 ## Not Just a Pretty Jar in Moonlight
 
-Forget altars full of colorful crystals for a second. **Moon water isn’t aesthetic—it’s a spell. A living, moving force**. 
+Forget altars full of colorful crystals for a second. **Moon water isn’t aesthetic, it’s a spell. A living, moving force**. 
 
 It has roots far older than new age trends, pulsing through old Slavic wells, Andean lakes, Celtic springs, and desert rainwater collected in secret by Bedouin women who knew the moon was more than myth. They knew the moon was watching.
 
@@ -49,7 +49,7 @@ Feel called to the moon? **Make your water tonight**, whisper your intentions, a
 ## How to Make Moon Water: Step-by-Step
 
 ### 1. **Choose Your Water**
-Use spring water, river water, melted snow, collected rain—or even tap, if that’s all you have. The key is your intention. Bless or boil if needed.
+Use spring water, river water, melted snow, collected rain or even tap, if that’s all you have. The key is your intention. Bless or boil if needed.
 
 ### 2. **Pick Your Moon**
 - **Full Moon**: Power, clarity, manifestation  
@@ -138,7 +138,7 @@ Water listens. The moon watches. That’s all the magic you need.
 
 So make the water. Speak your spell. Let it sit under the moon like a secret you’re ready to live.
 
-**Drink it in—not always with your mouth, but with your skin, your breath, your bones**.
+**Drink it in. Take it in not always with your mouth, but with your skin, your breath, your bones**.
 
 The moon won’t ask if you’re worthy. She’s already pouring down your name.
 
