@@ -45,7 +45,7 @@ faq:
 
 Long before apps and calendars told us when to sow seeds, people watched the moon. They didn’t do it because it was mystical. They did it because it worked.
 
-**Lunar gardening is practical magic**: a way of planting that follows the moon’s pull on water, sap flow, root energy, and the subtle vitality inside herbs. 
+**Lunar gardening is practical magic.** It is a way of planting that follows the moon’s pull on water, sap flow, root energy, and the subtle vitality inside herbs. 
 
 If you’ve ever noticed the ocean changing shape under moonlight, **imagine what it does to the tiny tides inside a leaf**.
 
