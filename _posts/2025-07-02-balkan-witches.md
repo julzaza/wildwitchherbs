@@ -194,7 +194,8 @@ Often, yes. Knowledge passed through grandmothers, mothers, and aunts within fam
 
 **Are any Balkan folk rituals still practiced?**
 
-Yes, especially protective threading, herbal smoke cleansing, water rituals, and seasonal household rites. **[Home Protection Magic](/home-protection-herbal-rituals-guide/)** is one of the most prominent surviving witchcraft traditions practiced today. 
+Yes, especially protective threading, herbal smoke cleansing, water rituals, and seasonal household rites.  
+**[Home Protection Magic](/home-protection-herbal-rituals-guide/)** is one of the most prominent surviving witchcraft traditions practiced today. 
 
 **What can modern witches learn from Balkan traditions?**
 
