@@ -65,7 +65,7 @@ This article **prioritizes documented patterns from folklore, ethnography, and h
 
 ## Why Moon Phases Matter in the Garden
 
-Plants respond to light, moisture, and gravity — and the moon influences all three.
+Plants respond to light, moisture, and gravity. And the moon influences all three.
 
 - **Waxing Moon** — sap rises, leaves strengthen, stems stretch upward  
 - **Waning Moon** — energy sinks down, roots deepen, soil settles  
@@ -74,7 +74,7 @@ Plants respond to light, moisture, and gravity — and the moon influences all t
 
 Farmers from the Andes to the Balkans to the Mediterranean worked with this rhythm instinctively.
 
-For those building a garden from the ground up, timing was inseparable from plant choice — a foundation explored further in **[How to Start a Real Witch’s Garden: Powerful Traditional Plants](/witch-garden/)**, which documents historically used plants chosen for function rather than aesthetics.
+For those building a garden from the ground up, timing was inseparable from plant choice. This is explored further in **[How to Start a Real Witch’s Garden: Powerful Traditional Plants](/witch-garden/)**, which documents historically used plants chosen for function rather than aesthetics.
 
 ---
 
@@ -100,9 +100,9 @@ For those building a garden from the ground up, timing was inseparable from plan
 - Prune, cut back, remove pests, uproot weeds.  
 - In Caribbean Vodou, offerings were buried under herbs planted during the waning moon, binding intention to the roots.
 
-This inward, descending phase was traditionally favored for banishing, grief work, and confrontation with the unseen — practices reflected in **[Herbs for a Shadow Work Garden](/herbs-shadow-work-garden/)**, where plants are chosen specifically for psychological depth, ancestral contact, and underworld-facing rites.
+This inward, descending phase was traditionally favored for banishing, grief work, and confrontation with the unseen. These practices are reflected in **[Herbs for a Shadow Work Garden](/herbs-shadow-work-garden/)**, where plants are chosen specifically for psychological depth, ancestral contact, and underworld-facing rites.
 
-Knowing how to work with the moon's phases is essential when making moon water for rituals, see **[How to Make Your Own Moon Water](/moon-water-magic/)** to get started.
+Knowing how to work with the moon's phases is also essential when making moon water for rituals, see **[How to Make Your Own Moon Water](/moon-water-magic/)** to get started.
 
 ---
 
@@ -143,15 +143,6 @@ Lunar gardening works anywhere:
 - forgotten patches of dirt
 
 What matters is timing, not acreage.
-
----
-
-## Moon-Raised Herbs from the Shop
-
-Our Artemisia annua is grown with moon phases in mind — planted during a waxing moon, harvested near the full, and dried slowly in shade.
-
-Explore moon-tended herbs here:  
-**[Artemisia Annua Tea, Tincture, and Seeds](/shop/)**
 
 ---
 
