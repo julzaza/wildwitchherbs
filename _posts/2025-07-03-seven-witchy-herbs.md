@@ -177,5 +177,3 @@ A: Traditionally, the root is brewed into a frothy tea before sleep. Start with 
 **Q: Can I combine these herbs in a single ritual?**  
 A: Yes, many witches blend herbs for layered effects. For example, combining Artemisia annua for protection with Frankincense for spiritual clarity.
 
-**Q: Where can I learn more about these herbs’ folklore?**  
-A: Our related posts cover forbidden herbs, dream magic, and protective plants — perfect for deepening your practice.
