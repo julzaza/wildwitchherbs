@@ -116,7 +116,7 @@ Rosemary and wormwood are actually two of the most well-known **[Witchy Plants f
 ## When Not to Use Moon Water
 
 - During solar eclipses or chaotic astrological events, unless you’re trained for it.  
-- If it smells off—never use moldy or spoiled water.  
+- If it smells off. Never use moldy or spoiled water.  
 - Don’t ingest unless it’s clean, sterile, and intentionally made for internal use.  
 - Never give it to animals unless you’re certain the herbs inside are safe for them.
 
