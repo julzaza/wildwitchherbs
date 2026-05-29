@@ -2,7 +2,7 @@
 layout: single
 title: "7 Witchy Herbs from Around the World"
 excerpt: "From Balkan graves to Amazonian rituals, these seven herbs are anything but ornamental. They’ve protected the dying, summoned ancestors, painted warriors, and guided dreams. This is witchcraft rooted in survival."
-description: "Explore seven powerful witchy herbs from around the world—Artemisia annua, Frankincense, Rue, African Dream Root, Basil, Yarrow, and Achiote. Learn their magical, protective, and ancestral uses in folk rituals, dreamwork, and spellcraft across cultures."
+description: "Explore seven powerful witchy herbs from around the world like Artemisia annua, Frankincense, Rue, African Dream Root, Basil, Yarrow, and Achiote. Learn their magical, protective, and ancestral uses in folk rituals, dreamwork, and spellcraft across cultures."
 author: Wild Witch Herbs
 categories: 
   - herbal-magic
@@ -56,7 +56,7 @@ That wasn’t for looks. That was a message.
 
 Across the world, certain herbs have followed us through war, sickness, birth, death, and dream. They're not cute. They’re **protective**, **prophetic**, and sometimes **provocative**. They’ve been burned on altars, tied to cradles, smeared on skin before battle. 
 
-Here are seven such herbs — the ones witches have always kept close.
+Here are seven such herbs, the ones witches have always kept close.
 
 ---
 
@@ -95,7 +95,7 @@ It’s bitter. And that’s exactly the point.
 ### Ritual Use: Curse Breaking + Warding + Spirit Defense  
 Used in baths to break hexes, in floor washes, or tucked in amulets to protect from envy and psychic attack.
 
-**Folklore Note:** In Sicilian folk magic, rue branches were used with holy water to bless homes and banish spirits. Known as the “herb of grace” — but not the kind of grace you want to cross.
+**Folklore Note:** In Sicilian folk magic, rue branches were used with holy water to bless homes and banish spirits. Known as the “herb of grace”, but not the kind of grace you want to cross.
 
 ---
 
@@ -106,7 +106,7 @@ It looks like nothing. Then you drink it, and it speaks.
 ### Ritual Use: Lucid Dreaming + Ancestral Visions  
 Prepared as frothy tea, traditionally used in rites of initiation to access dreams that offer guidance from ancestors.
 
-**Folklore Note:** Among the Xhosa, dreams from this root are not imagination — they’re **visits**. Often used before major life decisions or ceremonies.
+**Folklore Note:** Among the Xhosa, dreams from this root are not imagination, they’re **visits**. Often used before major life decisions or ceremonies.
 
 ---
 
@@ -128,7 +128,9 @@ Wound-healer. War plant. Wedding charm.
 ### Ritual Use: Emotional Protection + Psychic Boundaries + Courage  
 Carried by soldiers for bravery. Used in rituals to keep your heart strong and your mind clear during conflict or transformation.
 
-**Folklore Note:** In British folk magic, yarrow was stuffed under pillows to dream of one’s true love — or enemies. Romans called it Herba Militaris, a soldier’s herb.
+**Folklore Note:** In British folk magic, yarrow was stuffed under pillows to dream of one’s true love or of one's enemies. Romans called it Herba Militaris, a soldier’s herb.
+
+In fact, yarrow, basil and rue are among the most well-known herbs used in protection magic workings. See **[Top Protective Plants in Witchcraft](/top-protective-herbs-witchcraft/)** to find out why and how to use them. 
 
 ---
 
@@ -139,13 +141,13 @@ This plant paints the body and the spirit.
 ### Ritual Use: Warrior Protection + Solar Rites + Ancestor Power  
 Used as body paint in ritual to invoke ancestral strength and protect from harm. Seeds can be crushed into oil or dye.
 
-**Folklore Note:** Amazonian warriors marked their faces with achiote before battle or ceremony. The red wasn't for beauty — it was for **fire**, **bloodline**, and **boldness**.
+**Folklore Note:** Amazonian warriors marked their faces with achiote before battle or ceremony. The red wasn't for beauty, it was for **fire**, **bloodline**, and **boldness**.
 
 ---
 
 ## Final Words: Grow What Remembers You
 
-These are the plants that wake when called — not with commands, but with respect.
+These are the plants that wake when called: not with commands, but with respect.
 
 Plant them not just in soil, but in your practice. And if they answer, listen carefully.
 
@@ -173,7 +175,7 @@ A: Absolutely. These herbs retain their historical potency and can be incorporat
 A: Traditionally, the root is brewed into a frothy tea before sleep. Start with a small amount and ensure you're comfortable with its effects.
 
 **Q: Can I combine these herbs in a single ritual?**  
-A: Yes, many witches blend herbs for layered effects — for example, combining Artemisia annua for protection with Frankincense for spiritual clarity.
+A: Yes, many witches blend herbs for layered effects. For example, combining Artemisia annua for protection with Frankincense for spiritual clarity.
 
 **Q: Where can I learn more about these herbs’ folklore?**  
 A: Our related posts cover forbidden herbs, dream magic, and protective plants — perfect for deepening your practice.
