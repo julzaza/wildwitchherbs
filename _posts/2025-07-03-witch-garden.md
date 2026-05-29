@@ -104,9 +104,7 @@ Limited harvest, once gone, gone.
 
 If you’re ready to plant your own story, you might want some of these.
 
-**[Sweet Wormwood Tea and Tincture](/shop/#dried-artemisia-annua-tea--14)** also available in limited supply. 
-
-And don't forget to check out: **[Sweet Wormwood or Qinghao Tea Benefits](/artemisia-annua-tea-benefits/)**. 
+Explore **[Sweet Wormwood or Qinghao Tea Benefits](/artemisia-annua-tea-benefits/)** to find out why you must have it in your garden. 
 
 ---
 
