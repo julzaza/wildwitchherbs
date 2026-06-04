@@ -44,7 +44,7 @@ faq:
 
 For centuries, people across Europe believed this herb could ward off evil spirits, chase away sadness, and light up the shadowed corners of the heart. Slavic, Celtic, and Germanic peoples hung it above doors, braided it into crowns, and used it in rites to divine love or reveal hidden sorcery.
 
-Making **sun water** with St. John’s Wort brings together the brightest forces in nature—solar power, midsummer energy, and the herb’s mood-lifting, protective magic.
+Making **sun water** with St. John’s Wort brings together the brightest forces in nature: solar power, midsummer energy, and the herb’s mood-lifting, protective magic.
 
 ---
 
@@ -52,9 +52,11 @@ Making **sun water** with St. John’s Wort brings together the brightest forces
 
 - A glass jar (clear, for maximum sunlight)
 - Fresh or dried **St. John’s Wort flowers** (ideally harvested on St. John’s Day or during the summer solstice)
-- Spring water or rainwater
+- Spring water, dew or rainwater 
 - A small gold charm, coin, or sun symbol (optional)
 - Your **intention** written on a slip of paper (joy, courage, vitality, light)
+
+Not only plant power intensified on summer solstice. European dew traditions, where morning moisture collected before sunrise, was thought to carry the vitality of the night and the blessing of the turning sun. You can read more about it in **[Sacred Dew & Folk Magic](/dew-water-magic/)** if you'd like to make your St. John's Wort Sun Water even more potent. 
 
 ---
 
@@ -107,7 +109,7 @@ In the Soviet Union, St. John’s Wort was widely used in folk medicine for its 
 
 ## Make St. John's Wort Sun Water That is Safe for Drinking:
 
-- use spring water, rainwater that you’re sure is clean, or boiled/cooled water
+- use dew. spring water, rainwater that you’re sure is clean, or boiled/cooled water
 
 - only speak or chant your intention, rather than placing inked paper or talismans inside
 
