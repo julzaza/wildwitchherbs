@@ -9,9 +9,9 @@ categories: [folklore-ancestral, witchcraft-ritual]
 
 tags: [kupala, midsummer, solstice folklore, st johns eve, enyovden, dream divination, herb folklore, slavic folklore]
 
-image_mobile: /assets/images/heroes/kupala-night/800x1000px-kupala-bonfire.webp
-image_desktop_1280: /assets/images/heroes/kupala-night/1280x400px-kupala-bonfire.webp
-image_alt: "midsummer bonfire and flower wreaths at night"
+image_mobile: /
+image_desktop_1280: /
+image_alt: "---"
 
 faq:
   - question: "What is Ivan Kupala Night?"
