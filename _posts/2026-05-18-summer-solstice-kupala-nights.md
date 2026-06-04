@@ -392,4 +392,4 @@ For one brief night of fire, dew, songs, and restless wandering, people believed
 Many midsummer traditions discussed here are documented in ethnographic collections, folklore archives, and regional studies from Eastern Europe, the Balkans, and the Baltic countries. Customs varied by village, period, and region, and surviving traditions often combine pre-Christian seasonal practices with later Christian feast days.
 
 - **[St. John's Wort Sun Water](/st-johns-wort-sun-water/)**
-- 
+- **[Pre-Christian Europe Magic](/pre-christian-europe-magic/)**
