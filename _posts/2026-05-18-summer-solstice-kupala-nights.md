@@ -129,6 +129,10 @@ The night itself was considered permissive.
 
 Young women performed dream divinations seeking future husbands. Silence rituals were common: once certain herbs or flowers were gathered, the participant could not speak again before sleep or the omen would fail.
 
+Dream divination appears so frequently in midsummer folklore because many communities believed the solstice weakened the boundary between ordinary sleep and meaningful vision. 
+
+Certain herbs were also associated with prophetic dreaming, including wormwood, which appears in folk traditions connected to visions, dream work, and altered states. Learn more in **[Wormwood for Dreams, Visions & Folklore](/wormwood-lucid-dreaming/)**.
+
 Certain regions warned against sleeping outdoors because wandering spirits, rusalki, or deceptive beings moved freely during the solstice period.
 
 In Belarusian traditions, witches were believed especially active on Kupala Night. Villagers protected livestock by placing thorn branches, nettles, or iron near barns and gates.
@@ -223,6 +227,8 @@ This silence was part of the ritual technology itself.
 
 Particularly important was the collection of **“mute water”**:
 water gathered silently before dawn from springs or rivers and used in healing, beauty rites, and divination.
+
+These beliefs formed part of a much larger European tradition that treated dawn moisture as a source of blessing and vitality. From May Day beauty rites to midsummer healing customs, dew was often viewed as something far more powerful than ordinary water. Read more in **[Midsummer Dew, May Dew & Morning Magic: The Folklore of Sacred Dew](/dew-water-magic)**.
 
 People rolled in midsummer dew for health and fertility. Children were passed beneath woven herb arches for protection against illness. Large ritual wreaths containing dozens of plants were constructed and villagers passed through them symbolically for blessing and purification.
 
