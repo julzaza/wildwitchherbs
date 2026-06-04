@@ -175,6 +175,8 @@ Many traditions treated it as a physical manifestation of the solstice itself.
 
 For a few hours at dawn, the world was believed to contain more life than usual.
 
+On the summer solstice night people gathered healing herbs, watched bonfires burn across hillsides, floated wreaths on rivers, and searched forests for signs and omens. More on this truly magic night in **[Kupala Nights: Balkan & Slavic Solstice Folklore](/summer-solstice-kupala-nights/)**.
+
 ---
 
 # Dew, Fertility, and Agricultural Magic
