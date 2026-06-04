@@ -113,6 +113,8 @@ The legend itself depended on impossibility.
 
 The fern flower belonged to the category of things that could exist only when the world temporarily stopped behaving normally.
 
+Much of midsummer folklore shares this same logic: herbs become stronger, dew becomes healing, dreams become prophetic, and ordinary plants acquire extraordinary qualities for a single night.
+
 That is the true atmosphere of Kupala folklore.
 
 ---
