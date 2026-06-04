@@ -84,6 +84,14 @@ In folk tradition, St. John’s Wort was called the “Chase-Devil” or “Woun
 
 In Cornwall, it was even said that hanging it in the window would prevent thunder and lightning from striking the house.
 
+St. John's wort was only one part of a much larger midsummer worldview. 
+
+Across Eastern Europe and the Balkans, people believed that herbs strengthened, dew became healing, dreams became prophetic, and the boundary between the ordinary and supernatural briefly weakened. 
+
+Explore these wider traditions in **[Midsummer Fires & Kupala Nights: Balkan & Slavic Solstice Magic](/summer-solstice-kupala-nights/)**.
+
+---
+
 ## Slavic Antidepressant 
 
 In the Soviet Union, St. John’s Wort was widely used in folk medicine for its mood-lifting properties, earning it the nickname **'the antidepressant of the U.S.S.R.'** It was often recommended to combat melancholy and boost the spirit during difficult times.
