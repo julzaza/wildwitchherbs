@@ -177,6 +177,10 @@ People walked livestock near smoke to guard against disease and misfortune. Ash 
 
 Herbs blessed or gathered around Ivanje were often stored in homes throughout the year as protection against storms, illness, lightning, and evil influences.
 
+Among the most famous midsummer plants was St. John's wort, a herb so strongly associated with the season that its folk names throughout Europe often reference St. John himself. 
+
+In both folklore and folk Christianity, the plant became closely linked with protection, sunlight, and the power of the solstice. You can explore these traditions further in our guide to **[St. John's Wort, Sun Magic & Midsummer Folklore](/st-johns-wort-sun-water/)**.
+
 In some coastal regions, people believed sleeping outdoors on midsummer night exposed the dreamer to unusually vivid visions and spirit encounters.
 
 The boundary between dream and omen weakened during the solstice period.
@@ -333,6 +337,8 @@ Despite differences in language and region, the same motifs appear repeatedly:
 
 These recurring patterns suggest that many local customs preserve fragments of older European midsummer beliefs adapted to different cultures and religions.
 
+### Regional Names of Midsummer
+
 | Region    | Festival Name      |
 | --------- | ------------------ |
 | Ukraine   | Ivan Kupala        |
@@ -373,3 +379,11 @@ When the world changes, how do we know what comes next?
 
 For one brief night of fire, dew, songs, and restless wandering, people believed the answer might be found in the fields before sunrise.
 
+---
+
+## Further Reading
+
+Many midsummer traditions discussed here are documented in ethnographic collections, folklore archives, and regional studies from Eastern Europe, the Balkans, and the Baltic countries. Customs varied by village, period, and region, and surviving traditions often combine pre-Christian seasonal practices with later Christian feast days.
+
+- **[St. John's Wort Sun Water](/st-johns-wort-sun-water/)**
+- 
