@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Midsummer Fires & Kupala Nights: Balkan/Slavic Solstice Folklore"
+title: "Kupala Night: Midsummer Slavic Magic"
 
 description: "A folklore-rich exploration of Ivan Kupala Night, Enyovden, Jāņi, St. John’s fires, midsummer herb rites, dream omens, dew magic, and ancient solstice traditions across Eastern Europe and the Balkans."
 excerpt: "From Kupala bonfires and floating wreaths to Bulgarian dew rites and Baltic solstice songs, discover how Old European midsummer traditions preserved prophecy, fertility, herbs, fire, and the dangerous magic of the shortest night."
