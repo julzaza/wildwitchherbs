@@ -316,6 +316,39 @@ And for one unstable night each summer, much of Europe behaved as though the wor
 
 ---
 
+## Common Themes Found Across Midsummer Traditions
+
+Despite differences in language and region, the same motifs appear repeatedly:
+
+- Bonfires for protection and purification
+- Herbs gathered at dawn
+- Dew used for healing and beauty
+- Dream divination
+- Fertility customs
+- Floating wreaths
+- Spirit activity
+- Thresholds between worlds
+- Marriage omens
+- Seasonal renewal
+
+These recurring patterns suggest that many local customs preserve fragments of older European midsummer beliefs adapted to different cultures and religions.
+
+| Region    | Festival Name      |
+| --------- | ------------------ |
+| Ukraine   | Ivan Kupala        |
+| Belarus   | Kupalle            |
+| Russia    | Ivan Kupala        |
+| Bulgaria  | Enyovden           |
+| Serbia    | Ivanjdan / Ivandan |
+| Croatia   | Ivanje             |
+| Slovenia  | Kresna Noč         |
+| Poland    | Noc Kupały         |
+| Lithuania | Joninės / Rasos    |
+| Latvia    | Jāņi               |
+
+
+---
+
 ## After the Fires Went Out
 
 Most of the people who gathered herbs before sunrise, floated wreaths on rivers, watched the dawn after a sleepless night, or carried embers home from solstice fires never called themselves pagans, occultists, or practitioners of magic.
