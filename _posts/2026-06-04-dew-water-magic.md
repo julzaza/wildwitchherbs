@@ -1,7 +1,7 @@
 ---
 
 layout: single
-title: "Midsummer Dew, May Dew & Morning Magic: The Folklore of Sacred Dew"
+title: "Sacred Dew: Midsummer Magic"
 
 description: "Discover the folklore of dew across Europe: midsummer dew, May Day dew, healing rites, beauty traditions, fertility customs, dream magic, and the belief that dawn moisture carried the blessing of the natural world."
 
