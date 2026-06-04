@@ -30,10 +30,22 @@ faq:
 
   - question: "Did people really believe in prophetic dreams during midsummer?"
     answer: "Yes. Many midsummer customs included dream divination, especially concerning marriage, fertility, household fortune, and omens for the coming agricultural season."
+    
+  - question: "What is the fern flower in Slavic folklore?"
+    answer: "The fern flower is a legendary supernatural bloom said to appear only on midsummer night. Folklore claims it grants wealth, hidden knowledge, prophetic sight, or the ability to understand animals. Real ferns do not produce flowers, making the legend a symbol of the impossible and magical."
 
+  - question: "What is Enyovden in Bulgarian folklore?"
+    answer: "Enyovden is a Bulgarian midsummer festival associated with St. John’s Day. Traditional customs include gathering medicinal herbs before sunrise, collecting dew, passing through herb wreaths for blessing, and using silent rituals for healing and divination."
+
+  - question: "Why were midsummer bonfires important?"
+    answer: "Across Europe, midsummer bonfires were believed to protect against illness, misfortune, storms, and harmful spirits. Jumping over fires, carrying embers home, and scattering ashes in fields were common folklore practices."
+
+  - question: "What was midsummer dew believed to do?"
+    answer: "Folklore associated midsummer dew with beauty, fertility, healing, prosperity, and blessing. People washed in it, rolled in dew-covered grass, or collected it before sunrise for ritual and household use."
+    
 ---
 
-# The Shortest Night Was Never Empty
+## The Shortest Night Was Never Empty
 
 Across Eastern Europe and the Balkans, midsummer was not treated as a symbolic holiday.
 
@@ -61,7 +73,7 @@ It was agricultural timekeeping, fertility logic, ancestral fear, seasonal medic
 
 ---
 
-# Ivan Kupala Night — Fire, Water, and the Opened World
+## Ivan Kupala Night — Fire, Water, and the Opened World
 
 In Russia, Belarus, and Ukraine, the strongest surviving midsummer traditions became associated with **Ivan Kupala Night**.
 
@@ -105,7 +117,7 @@ That is the true atmosphere of Kupala folklore.
 
 ---
 
-# Night Walking and Dangerous Freedom
+## Night Walking and Dangerous Freedom
 
 Kupala Night carried an unusual loosening of ordinary social rules.
 
@@ -127,7 +139,7 @@ People tried to decide which doors should remain open and which should not.
 
 ---
 
-# Serbia — Ivanjdan and the Language of Plants
+## Serbia — Ivanjdan and the Language of Plants
 
 In Serbian folk tradition, midsummer survives most strongly through **Ivanjdan** or **Ivandan**, associated with St. John’s Day but layered over older seasonal herb customs.
 
@@ -153,7 +165,7 @@ the power belonged not to daylight itself, but to the transitional edge before d
 
 ---
 
-# Croatia — Ivanje and the Solstice Fires
+## Croatia — Ivanje and the Solstice Fires
 
 In Croatia, midsummer customs survive through **Ivanje** and older bonfire traditions known as **kresovi**.
 
@@ -171,7 +183,7 @@ The boundary between dream and omen weakened during the solstice period.
 
 ---
 
-# Slovenia — Kresna Noč and the Wild Summer Fires
+## Slovenia — Kresna Noč and the Wild Summer Fires
 
 In Slovenia, midsummer became associated with **kresna noč**, literally “bonfire night.”
 
@@ -189,7 +201,7 @@ In some traditions, people carried burning branches around fields or vineyards t
 
 ---
 
-# Bulgaria — Enyovden and the Secret Life of Herbs
+## Bulgaria — Enyovden and the Secret Life of Herbs
 
 Among all surviving midsummer traditions in Eastern Europe, Bulgarian **Enyovden** may preserve one of the richest herb cosmologies.
 
@@ -217,7 +229,7 @@ That strange fractional herb survives in Bulgarian folklore to this day.
 
 ---
 
-# Poland — Noc Kupały, Sobótka, and Floating Wreaths
+## Poland — Noc Kupały, Sobótka, and Floating Wreaths
 
 Polish midsummer traditions survived through **Noc Kupały**, **Sobótka**, and later **Wianki** celebrations.
 
@@ -242,7 +254,7 @@ The shortest night remained spiritually crowded.
 
 ---
 
-# Lithuania and Latvia — The Solstice That Never Fully Died
+## Lithuania and Latvia — The Solstice That Never Fully Died
 
 The Baltic regions preserved some of Europe’s strongest surviving solstice traditions.
 
@@ -270,7 +282,7 @@ to sleep through the solstice meant missing the year’s most powerful threshold
 
 ---
 
-# The Real Shape of Midsummer Folklore
+## The Real Shape of Midsummer Folklore
 
 Modern discussions often reduce midsummer to aesthetics:
 flower crowns, candles, pretty bonfires.
@@ -301,3 +313,30 @@ The names changed.
 The underlying logic remained astonishingly consistent.
 
 And for one unstable night each summer, much of Europe behaved as though the world itself had briefly opened.
+
+---
+
+## After the Fires Went Out
+
+Most of the people who gathered herbs before sunrise, floated wreaths on rivers, watched the dawn after a sleepless night, or carried embers home from solstice fires never called themselves pagans, occultists, or practitioners of magic.
+
+They were farmers, shepherds, fishermen, mothers, widows, village healers, and young people standing on the uncertain edge between childhood and adulthood.
+
+Yet for one night each year they acted as though the world revealed more than usual.
+
+They watched how water moved.
+
+They listened to dreams.
+
+They paid attention to herbs, birds, weather, and chance encounters.
+
+The solstice was not important because people believed they could control nature.
+
+It was important because they believed nature was speaking.
+
+Across the Balkans, Eastern Europe, and the Baltic lands, the old midsummer customs survived because they answered a question every generation asks:
+
+When the world changes, how do we know what comes next?
+
+For one brief night of fire, dew, songs, and restless wandering, people believed the answer might be found in the fields before sunrise.
+
