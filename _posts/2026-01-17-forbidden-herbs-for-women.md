@@ -5,6 +5,11 @@ excerpt: "Across history, certain herbs were forbidden to women due to reproduct
 description: "A deep, fact-based exploration of herbs historically forbidden or restricted to women in folk medicine and witchcraft, drawing from European midwifery, ritual folklore, and cross-cultural traditions."
 author: "Wild Witch Herbs"
 
+image_mobile: /assets/images/heroes/forbidden-herbs-for-women/800x1000px-wolfsbane.webp
+image_desktop_1280: /assets/images/heroes/forbidden-herbs-for-women/1280x400px-wolfsbane.webp
+image_alt: "wolfsbane flower"
+teaser: /assets/images/heroes/forbidden-herbs-for-women/800x1000px-wolfsbane.webp
+
 categories:
   - herbal-magic
   - folklore-ancestral
