@@ -6,6 +6,12 @@ excerpt: "From mugwort above the bed to juniper branches at the window, this is 
 categories: [witchcraft-ritual, herbal-magic]
 tags: [dreamwork folklore, night magic, protective herbs, european witchcraft, sleep magic]
 
+image_mobile: /assets/images/heroes/witchy-plants-bedroom/800x1000px-bedroom-plants.webp
+image_desktop_1280: /assets/images/heroes/witchy-plants-bedroom/1280x400px-bedroom-plants.webp
+image_alt: "dark female silhuette and lamp"
+teaser: /assets/images/heroes/witchy-plants-bedroom/800x1000px-bedroom-plants.webp
+featured: true
+
 faq:
   - question: "What plants were historically used for dreamwork in European folklore?"
     answer: "European and Mediterranean folklore frequently references mugwort, bay laurel, rosemary, juniper, lemon balm, and jasmine as plants used for dream protection, prophetic sleep, and nighttime spiritual safety."
