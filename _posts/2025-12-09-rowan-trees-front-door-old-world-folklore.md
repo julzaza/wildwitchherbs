@@ -8,7 +8,7 @@ tags: [rowan tree, threshold magic, household protection, european folklore, doo
 
 image_mobile: /assets/images/heroes/rowan-trees-front-door-old-world-folklore/800x1000px-rowan-tree.webp
 image_desktop_1280: /assets/images/heroes/rowan-trees-front-door-old-world-folklore/1280x400px-rowan-tree.webp
-image_alt: "dark female silhuette and lamp"
+image_alt: "rowan tree with red berries"
 teaser: /assets/images/heroes/rowan-trees-front-door-old-world-folklore/800x1000px-rowan-tree.webp
 
 faq:
