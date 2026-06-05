@@ -11,6 +11,13 @@ audience: "Witches, herbalists, and folklore enthusiasts interested in animal sp
 language: "en"
 difficulty: "Beginner to Intermediate"
 contentType: "Educational, Folklore, Magical Guide"
+
+image_mobile: /assets/images/heroes/balkan-animal-spirit-guides/800x1000px-owl-on-branch.webp
+image_desktop_1280: /assets/images/heroes/balkan-animal-spirit-guides/1280x400px-owl-on-branch.webp
+image_alt: "owl sitting on a branch"
+teaser: /assets/images/heroes/balkan-animal-spirit-guides/800x1000px-owl-on-branch.webp
+
+
 faq:
   - question: "What are animal spirits in Balkan folklore?"
     answer: "Animal spirits are supernatural manifestations of animals believed to guide, protect, and teach humans. They appear in dreams, visions, or during rituals, conveying messages from nature and ancestors."
