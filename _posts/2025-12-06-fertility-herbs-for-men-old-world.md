@@ -5,6 +5,11 @@ title: "Fertility Herbs for Men: Virility, Vitality & Old World Folklore"
 description: "A deep folklore-rich guide to fertility herbs for men: Old European virility herbs, ancestral plant lore, vitality tonics, and ritual practices for masculine strength, lineage, and creative fire."
 excerpt: "Old World fertility herbs for men: tribulus, nettle root, pine pollen, fenugreek, and virility folklore for strength, vitality, lineage, and masculine creative fire."
 
+image_mobile: /assets/images/heroes/fertility-herbs-for-men-old-world/800x1000px-mens-hand-wheat-field.webp
+image_desktop_1280: /assets/images/heroes/fertility-herbs-for-men-old-world/1280x400px-mens-hand-wheat-field.webp
+image_alt: "male hand stroking the wheat field"
+teaser: /assets/images/heroes/fertility-herbs-for-men-old-world/800x1000px-mens-hand-wheat-field.webp
+
 categories: [herbal-magic, folklore-ancestral]
 tags:
   - male fertility herbs
