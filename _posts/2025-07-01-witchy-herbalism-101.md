@@ -7,7 +7,12 @@ tags: [witchy herbs, herbal magic, witchcraft basics, rituals, artemisia]
 
 excerpt: "Discover the core herbs every modern witch should know. From wormwood and mugwort to sage and calendula, learn real-world uses rooted in folklore, protection, and ritual magic."
 description: "A practical guide to witchy herbalism: real plants, historical uses, protective magic, and ritual work. Learn the herbs that witches actually used and how to start your practice safely."
-author: Wild Witch Herbs
+
+image_mobile: /assets/images/heroes/witchy-herbalism-101/800x1000px-hand-in-the-grass-field-landscape.webp
+image_desktop_1280: /assets/images/heroes/witchy-herbalism-101/1280x400px-hand-in-the-grass-field-landscape.webp
+image_alt: "female hand stroking grass in the field"
+teaser: /assets/images/heroes/witchy-herbalism-101/800x1000px-hand-in-the-grass-field-landscape.webp
+
 faq:
   - question: "What is witchy herbalism and how do I start?"
     answer: "Witchy herbalism is the practice of working with plants for protection, healing, divination, and ritual magic. Beginners should start with one herb at a time, observe its effects, and use safe applications like teas, incense, charms, or simple rituals while journaling experiences."
