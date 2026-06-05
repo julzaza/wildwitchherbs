@@ -8,7 +8,7 @@ tags: [dreamwork folklore, night magic, protective herbs, european witchcraft, s
 
 image_mobile: /assets/images/heroes/witchy-plants-bedroom/800x1000px-bedroom-plants.webp
 image_desktop_1280: /assets/images/heroes/witchy-plants-bedroom/1280x400px-bedroom-plants.webp
-image_alt: "dark female silhuette and lamp"
+image_alt: "bed in a bedroom with plants"
 teaser: /assets/images/heroes/witchy-plants-bedroom/800x1000px-bedroom-plants.webp
 featured: true
 
