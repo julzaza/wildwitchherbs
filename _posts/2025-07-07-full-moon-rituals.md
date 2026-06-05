@@ -7,6 +7,11 @@ author: Wild Witch Herbs
 categories: [witchcraft-ritual, herbal-magic]
 tags: [full moon ritual, lunar magic, herbal witchcraft, sacred herbs, traditional folklore, moon plants]
 
+image_mobile: /assets/images/heroes/full-moon-rituals/800x100px-full-moon-over-ocean.webp
+image_desktop_1280: /assets/images/heroes/full-moon-rituals/1280x400px-full-moon-over-ocean.webp
+image_alt: "full moon on purple sky"
+teaser: /assets/images/heroes/full-moon-rituals/800x100px-full-moon-over-ocean.webp
+
 faq: 
   - question: "Which herbs are best for full moon rituals?"
     answer: "Mugwort, wormwood, tulsi, lavender, bay laurel, yarrow, and African blue basil are among the most potent herbs, each with unique ritual and folkloric uses."
