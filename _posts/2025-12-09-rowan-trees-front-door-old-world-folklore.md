@@ -6,6 +6,11 @@ excerpt: "Discover the Old European tradition of planting rowan trees at the doo
 categories: [folklore-ancestral, witchcraft-ritual]
 tags: [rowan tree, threshold magic, household protection, european folklore, doorway guardians, mountain ash]
 
+image_mobile: /assets/images/heroes/rowan-trees-front-door-old-world-folklore/800x1000px-rowan-tree.webp
+image_desktop_1280: /assets/images/heroes/rowan-trees-front-door-old-world-folklore/1280x400px-rowan-tree.webp
+image_alt: "dark female silhuette and lamp"
+teaser: /assets/images/heroes/rowan-trees-front-door-old-world-folklore/800x1000px-rowan-tree.webp
+
 faq:
   - question: "Why was rowan planted by the door?"
     answer: "Rowan was believed to protect the threshold from witches, spirits, the evil eye, and wandering dead. Its red berries and five-pointed star markings symbolized protection."
