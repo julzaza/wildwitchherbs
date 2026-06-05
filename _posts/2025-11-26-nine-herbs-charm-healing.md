@@ -9,7 +9,7 @@ categories: [herbal-magic, folklore-ancestral]
 tags: [Nine Herbs Charm, Nigon Wyrta Galdor, Lacnunga, Anglo-Saxon Magic, Protective Herbs]
 
 image_mobile: /assets/images/heroes/nine-herbs-charm-anglo-saxon/800x1000px-nine-herbs-charm-Harley-Manuscript-585.webp
-
+image_desktop_1280: /assets/images/heroes/nine-herbs-charm-anglo-saxon/1280x400px-chamomile-flowers.webp
 image_alt: "page from the old Harley Manuscript 585"
 teaser: /assets/images/heroes/nine-herbs-charm-anglo-saxon/800x1000px-nine-herbs-charm-Harley-Manuscript-585.webp
 
