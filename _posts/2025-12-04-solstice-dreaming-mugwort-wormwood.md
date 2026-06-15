@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Winter Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights"
+title: "Solstice Dreaming: Mugwort, Wormwood & Prophetic Nights"
 author: Wild Witch Herbs
 
 description: "A folklore-rich guide to solstice dreaming with mugwort and wormwood, exploring Old European prophetic rites, dream magic, and winter vision practices."
@@ -199,7 +199,7 @@ These same herbs were layered into **[The Witch’s Winter Bottle: Solstice Prot
 
 ---
 
-## Solstice FAQ 
+## Solstice Dreaming FAQ 
 
 **Q: When is the best night to do solstice dreaming?**  
 A: The solstice night itself (around local midnight) is primary; nights in the Twelve-Night season remain potent.
