@@ -95,9 +95,9 @@ When conception came or when the season of trying had passed, the bundle was bur
   
 These bundles were considered living amulets, small spirits who walked with the woman.
 
-For a deeper journey into the plants, charms, and seasonal practices surrounding fertility magic, explore the complete **[Fertility Magic Guidebook: A 4-Month Ritual System for Conception, Renewal & Sacred Creation](https://wildwitchherbs.gumroad.com/l/fertility-magic)**.
+For a deeper journey into the plants, charms, and seasonal practices surrounding fertility magic, explore the complete **[Fertility Magic: A 4-Month Ritual System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**.
 
-Inside the guidebook, you’ll discover a complete 4-month fertility ritual path with herbal tea blends, womb blessings, ancestral workings, fertility charms, and traditional rituals that reconnect you with the ancient rhythms of body, earth, and spirit.
+Inside the guidebook, you’ll discover a fertility ritual path with herbal tea blends, womb blessings, ancestral workings, fertility charms, and traditional rituals that reconnect you with the ancient rhythms of body, earth, and spirit.
 
 ---
 
