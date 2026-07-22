@@ -46,7 +46,7 @@ Here are some of the most time-honored fertility rituals drawn from European, Sl
 
 For a deeper look into how land, livestock, and lineage were bound into one cycle of creation, explore **[Old World Fertility Magic: Land, Animals & Ancestral Life-Force](/old-world-fertility-magic/)**. It is a broader ancestral map of how magic moved through soil, hearth, and body.
 
-If you are looking for a more structured, step-by-step path rather than individual rituals, explore the **[Fertility Magic Guidebook: A 4-Month Folk System for Conception & Sacred Creation](https://wildwitchherbs.gumroad.com/l/fertility-magic)**.
+If you are looking for a more structured, step-by-step path rather than individual rituals, explore the **[Fertility Magic Guidebook](https://wildwitchherbs.gumroad.com/l/fertility-magic)**.
 
 Inside, you’ll find a complete 4-month journey weaving together fertility rituals, herbal wisdom, ancestral practices, moon-cycle work, and sacred ceremonies designed to guide you through each stage of the process.
 
@@ -97,7 +97,7 @@ These bundles were considered living amulets, small spirits who walked with the 
 
 For a deeper journey into the plants, charms, and seasonal practices surrounding fertility magic, explore the complete **[Fertility Magic Guidebook: A 4-Month Ritual System for Conception, Renewal & Sacred Creation](https://wildwitchherbs.gumroad.com/l/fertility-magic)**.
 
-Inside the guidebook, you’ll discover a complete 4-month fertility ritual path with herbal tea blends, womb blessings, ancestral workings, fertility charms, moon-cycle practices, and traditional-inspired rituals designed to reconnect you with the ancient rhythms of body, earth, and spirit.
+Inside the guidebook, you’ll discover a complete 4-month fertility ritual path with herbal tea blends, womb blessings, ancestral workings, fertility charms, and traditional rituals that reconnect you with the ancient rhythms of body, earth, and spirit.
 
 ---
 
