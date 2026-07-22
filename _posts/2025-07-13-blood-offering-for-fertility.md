@@ -55,9 +55,9 @@ In folk magic, menstrual blood is more than just physical, it is **life-force ma
 - To anoint seeds before planting
 - To bless trees and sacred stones
 - To mark the thresholds of homes or birthing spaces
-- And, most often, **to feed the Earth directly**—returned with prayer, intention, and reverence.
+- And, most often, **to feed the Earth directly**. It is returned with prayer, intention, and reverence.
 
-Allowing a few drops of your blood to fall onto the soil, especially in your garden or under a chosen tree, is seen as an offering of partnership—**a pact between your body and the land**.
+Allowing a few drops of your blood to fall onto the soil, especially in your garden or under a chosen tree, is seen as an offering of partnership. **It is a pact between your body and the land**.
 
 But when is the right time to do such a ritual?
 
@@ -75,7 +75,7 @@ Rituals involving **menstrual offerings, fertility spells, or planting seeds of 
 ### • The Red Moon Cycle:
 This is when menstruation occurs during the **Full Moon**, often associated with **wild women, healers, priestesses, and witches**. It represents **creativity, transformation, and inner power** rather than physical fertility.
 
-Women on the Red Moon path may use their bleeding time for **shadow work, magical development, and spiritual fertility**—birthing ideas, art, or visions.
+Women on the Red Moon path may use their bleeding time for **shadow work, magical development, and spiritual fertility**: birthing ideas, art, or visions.
 
   *Whether you bleed with the White or Red Moon, your ritual is valid, powerful, and sacred.*
 
