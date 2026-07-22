@@ -146,7 +146,7 @@ Through these rituals, the threads of ancestry, desire, and creation intertwine,
 
 Fertility magic was once woven quietly into ordinary life: into soup pots, hearth fires, garden soil, bridal rituals, moonlit prayers, and the careful hands of older women.
 
-The **[Fertility Magic Guidebook: A 4-Month Ritual System for Conception, Renewal & Sacred Creation](https://wildwitchherbs.gumroad.com/l/fertility-magic)** transforms these ancient-inspired traditions into a complete guided journey.
+The **[Fertility Magic Guidebook: A 4-Month Ritual System for Conception](https://wildwitchherbs.gumroad.com/l/fertility-magic)** transforms these ancient-inspired traditions into a complete guided journey.
 
 Inside you will discover:
 
