@@ -136,25 +136,20 @@ You’ll need:
 5. Sit in silence, or sing to the Earth if you feel moved.
 
 ---
+## ✧ Continue Your Fertility Journey
 
-## The In-Depth Fertility Magic Guidebook is Coming Soon
+If you're looking for a complete fertility practice rather than a single ritual, I've created the Magic Fertility Guide, a 92-page collection of traditional Slavic & Balkan fertility folklore, herbal wisdom, and ancestral rituals.
 
-The complete fertility rituals and herbal workings are being expanded into a full-length folk grimoire for readers who want deeper practice, not just introductory folklore.
+Inside you'll discover:
 
-The guide will include:
+- a guided four-month fertility cycle with weekly rituals that gently build upon one another
+- herbal tea blend recipes inspired by traditional women's herbs
+- fertility baths, charms, petitions, and Earth offerings
+- rituals to support hope after pregnancy loss or miscarriage
+- Slavic and Balkan folk customs for conception and protection
+- printable ritual pages to help you follow the journey from beginning to end
 
-- detailed moon-cycle fertility rituals
-- traditional herbal preparations and womb-toning blends
-- fertility baths, oils, teas, and altar rites
-- menstrual magic practices and Earth offerings
-- Slavic and Balkan red thread customs
-- ancestor petitions and lineage healing rituals
-- rites for conception, protection, recovery, and renewal
-- printable ritual pages and ceremonial frameworks
-
-The waiting list is now open. Special launch price for early birds. 
-
-<script async data-uid="a41c34ec1d" src="https://wild-witch-herbs.kit.com/a41c34ec1d/index.js"></script>
+→ Explore the **[Magic Fertility Guide: a 4-Month Folk System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**
 
 ---
 
