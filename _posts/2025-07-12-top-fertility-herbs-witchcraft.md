@@ -42,12 +42,9 @@ faq:
 
 Fertility has always been a sacred mystery, one woven with the threads of moon cycles, soil magic, and the whispering spirits of plants. **For centuries, witches, midwives, and herbalists turned to nature to guide life into being**. These herbs are omens, offerings, and allies in the ancient rites of creation.
 
-For a deep dive into sex specific human fertility, see:  
-- **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**  
-- **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
+These plants are only one thread in the larger tapestry of fertility magic. If you are looking for a **complete ritual framework that brings herbs, seasonal timing, ancestral practices, and sacred workings together**, explore the **[Fertility Magic Guidebook: A 4-Month Old World Ritual System for Conception](https://wildwitchherbs.gumroad.com/l/fertility-magic)**.
 
-Also, learn about plants you should keep away from when trying to conceive:
-- **[Herbs to Avoid if Trying to Conceive](/herbs-to-avoid-when-getting-pregnant)**
+Inside the guidebook, these herbs become part of a guided four-month journey with fertility teas, womb blessings, herbal charms, moon-cycle rituals, and traditional-inspired practices for reconnecting with the rhythms of creation.
 
 Here are nine of the most potent fertility herbs in witchcraft and folklore, passed down through stories, spells, and the hands of wise women.
 
@@ -170,6 +167,13 @@ In certain traditions, fertility work blurred into desire and control. This dark
 
 - For Folk Fertility Rituals: see **[Traditional Fertility Rites For Conception](/folk-fertility-rituals/)**
 - To explore fertility in ancestral Europe: see **[Old World Fertility Witchcraft](/old-world-fertility-magic/)**
+
+For a deep dive into sex specific human fertility, see:  
+- **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**  
+- **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
+
+Also, learn about plants you should keep away from when trying to conceive:
+- **[Herbs to Avoid if Trying to Conceive](/herbs-to-avoid-when-getting-pregnant)**
 
 ---
 
