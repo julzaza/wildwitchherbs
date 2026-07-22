@@ -136,9 +136,9 @@ You’ll need:
 5. Sit in silence, or sing to the Earth if you feel moved.
 
 ---
-## ✧ Continue Your Fertility Journey
+## ✧ Begin the 4-Month Fertility Journey
 
-If you're looking for a complete fertility practice rather than a single ritual, I've created the Magic Fertility Guide, a 92-page collection of traditional Slavic & Balkan fertility folklore, herbal wisdom, and ancestral rituals.
+If you're looking for a complete fertility practice rather than a single ritual, I've created the **[Fertility Ritual Folk Guide](https://wildwitchherbs.gumroad.com/l/fertility-magic)**, a 92-page collection of traditional Slavic & Balkan fertility folklore, herbal wisdom, and ancestral rituals.
 
 Inside you'll discover:
 
