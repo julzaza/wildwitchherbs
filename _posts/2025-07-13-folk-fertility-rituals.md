@@ -142,15 +142,25 @@ Through these rituals, the threads of ancestry, desire, and creation intertwine,
 
 ---
 
-## Fertility Magic Complete Guidebook Coming Soon!
+## Folk Fertility Magic Guidebook is Finally Here!
 
 Fertility magic was once woven quietly into ordinary life: into soup pots, hearth fires, garden soil, bridal rituals, moonlit prayers, and the careful hands of older women.
 
-The upcoming fertility grimoire **explores these traditions far beyond what can fit into a single article**, including old European womb rituals, blood offerings, **fertility baths**, rose rites, ancestral petitions, moon-cycle workings, and protective customs surrounding conception and pregnancy.
+The **[Fertility Magic Guidebook: A 4-Month Ritual System for Conception, Renewal & Sacred Creation](https://wildwitchherbs.gumroad.com/l/fertility-magic)** transforms these ancient-inspired traditions into a complete guided journey.
 
-If this path speaks to you, you can join the waiting list below.
+Inside you will discover:
 
-<script async data-uid="a41c34ec1d" src="https://wild-witch-herbs.kit.com/a41c34ec1d/index.js"></script>
+- A 4-month fertility ritual cycle from Balkan and Slavic folk traditions
+- Herbal tea blends for different stages of the journey
+- Womb blessings, candle workings, and ancestral petitions
+- Fertility charms and protective rituals
+- Earth, seed, and renewal ceremonies
+- Practices for honoring the body and spirit after loss
+- A system for identifying blockages and finding solutions for them
+
+This is not a collection of random spells, but a complete seasonal pathway. It is a 92-page guidebook created for those who feel called to reconnect fertility with nature, ancestry, and sacred intention.
+
+→ **[Begin Your Fertility Magic Journey](https://wildwitchherbs.gumroad.com/l/fertility-magic)**
 
 ---
 
