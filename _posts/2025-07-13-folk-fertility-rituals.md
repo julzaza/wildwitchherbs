@@ -91,10 +91,9 @@ When conception came or when the season of trying had passed, the bundle was bur
   
 These bundles were considered living amulets, small spirits who walked with the woman.
 
-For a full guide to the plants of Old Europe traditionally used in fertility magic, see 
-- **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**  
-- **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
-- **[Herbs to Stay Away From if Trying to Get Pregnant](/herbs-to-avoid-when-getting-pregnant/)**
+For a deeper journey into the plants, charms, and seasonal practices surrounding fertility magic, explore the complete **[Fertility Magic Guidebook: A 4-Month Ritual System for Conception, Renewal & Sacred Creation](https://wildwitchherbs.gumroad.com/l/fertility-magic)**.
+
+Inside the guidebook, you’ll discover a complete 4-month fertility ritual path with herbal tea blends, womb blessings, ancestral workings, fertility charms, moon-cycle practices, and traditional-inspired rituals designed to reconnect you with the ancient rhythms of body, earth, and spirit.
 
 ---
 
@@ -187,3 +186,12 @@ While many rituals are womb-focused, fertility magic in folk traditions can supp
 
 ### Can I adapt these rituals for personal or modern use?
 Yes. Rituals should be approached with respect for their origins. Adapt them to your timing, intentions, and ancestral or personal spiritual practice.
+
+---
+
+## Dive Deeper Into Fertility Herbalism
+
+For a full guide to the plants of Old Europe traditionally used in fertility magic, see 
+- **[Fertility Herbs for Women](/fertility-herbs-for-women-old-world/)**  
+- **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**
+- **[Herbs to Stay Away From if Trying to Get Pregnant](/herbs-to-avoid-when-getting-pregnant/)**
