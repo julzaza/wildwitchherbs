@@ -129,25 +129,24 @@ Folklore from the Americas and Appalachia tied wild yam to the changing seasons 
 
 ---
 
-## The Full Fertility Magic Guidebook Is Coming Soon
+## Enter the Complete Fertility Magic Journey
 
-The herbs shared here are only a small part of a much larger body of old fertility workings.
+The herbs shared here are only a doorway into a much older tradition of fertility work.
 
-The upcoming Fertility Magic Grimoire goes far deeper into:
+The **[4-Month Fertility Ritual System Guidebook](https://wildwitchherbs.gumroad.com/l/fertility-magic)** expands beyond individual plants and offers a complete path combining herbal wisdom with ritual practice.
 
-- red thread fertility rites
-- womb warming rituals and herbal steam traditions
-- menstrual blood offerings and moon magic
-- fertility baths and candle workings
-- rose, apple, and seed blessing ceremonies
-- ancestor petitions for conception
-- rituals for grief, loss, and restoring fertility after emotional hardship and miscarriage
-- protective rites used after pregnancy begins
-- traditional herbal protocols using raspberry leaf, mugwort, motherwort, nettle, red clover, and lady’s mantle
+Inside a 92-page manual you will discover:
 
-Readers on the waiting list will receive early access before public release and special launch price.
+- Fertility tea blends using traditional herbal allies
+- Womb blessings, candle workings, and sacred ceremonies
+- Red thread fertility charms and protective workings
+- Rose, apple, seed, and ancestor rituals
+- Practices for renewal, healing after loss, and reconnecting with the creative force
+- Folk fertility symbolism and how to impliment it in your daily life
 
-<script async data-uid="a41c34ec1d" src="https://wild-witch-herbs.kit.com/a41c34ec1d/index.js"></script>
+This guide offers a structured 4-month journey through Slavic oldest traditions, where plants, body, land, and spirit were never separated.
+
+→ **[Begin Your Fertility Magic Journey](https://wildwitchherbs.gumroad.com/l/fertility-magic)**
 
 ---
 
