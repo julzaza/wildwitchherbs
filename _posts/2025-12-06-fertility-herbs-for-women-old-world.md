@@ -39,6 +39,8 @@ This post explores the plants that were once whispered over cradles, planted at 
 
 This is folklore, ancestral knowledge, and the craft of roots, leaves, and story. *This is not medical advice.*
 
+If you're looking for more than individual herbs, my **[Folk Fertility Magic: A Complete 4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)** brings these traditions together into a structured program. It also includes a Fertility Path Finder to help identify different fertility challenges, then guides you through month-by-month herbal practices, menstrual rites, moon work, and traditional folk rituals instead of leaving you with disconnected spells.
+
 - To explore fertility for men, see **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**.
 - Learn about what plants to stay away from: **[Herbs to Avoid if Trying to Conceive](/herbs-to-avoid-when-getting-pregnant/)**.
 
@@ -417,14 +419,13 @@ Fertility was treated as something invited.
 
 ---
 
-## Get on the Fertility Magic Waiting List
+## Get the Fertility Magic Waiting 4-Month Program 
 
 Beyond these pages lies a deeper body of old fertility magic. 
 
-A complete folk grimoire is now being prepared. 
-Waiting list members will receive early access and a special launch price.
+If you'd like a complete, step-by-step practice, get the **[Folk Fertility Magic: A 4-Month Guided System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**. 
 
-<script async data-uid="a41c34ec1d" src="https://wild-witch-herbs.kit.com/a41c34ec1d/index.js"></script>
+It combines herbal protocols, menstrual magic, moon-cycle work, fertility diagnostics, tea recipes, ancestral rituals, and traditional Slavic & Balkan folk practices into one cohesive system that you can follow from beginning to end.
 
 ---
 
