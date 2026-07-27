@@ -41,7 +41,7 @@ This is folklore, ancestral knowledge, and the craft of roots, leaves, and story
 
 If you're looking for more than individual herbs, my **[Folk Fertility Magic: A Complete 4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)** brings these traditions together into a structured program. It also includes a Fertility Path Finder to help identify different fertility challenges, then guides you through month-by-month herbal practices, menstrual rites, moon work, and traditional folk rituals instead of leaving you with disconnected spells.
 
-- To explore fertility for men, see **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**.
+- Explore fertility plants specifically for men, see **[Fertility Herbs for Men](/fertility-herbs-for-men-old-world/)**.
 - Learn about what plants to stay away from: **[Herbs to Avoid if Trying to Conceive](/herbs-to-avoid-when-getting-pregnant/)**.
 
 ---
