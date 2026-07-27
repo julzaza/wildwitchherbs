@@ -52,6 +52,8 @@ Long before shame was stitched to the hem of a woman’s skirt, menstrual blood 
 
 In the old ways, it was said that **to give your blood to the soil was to speak directly to the Earth**.
 
+If you're exploring menstrual rituals as part of a deeper fertility practice, my **[Fertility Magic Guide](https://wildwitchherbs.gumroad.com/l/fertility-magic)** walks you through a complete 4-month system of menstrual rites, herbal tea blends, moon-cycle workings, folk charms, and traditional fertility customs designed to be followed throughout the cycle. 
+
 ### A Ritual Older Than Religion
 
 Among **pre-Christian Slavs**, the act of returning menstrual blood to the ground was both **an offering and a bond**. A woman might squat in a garden’s corner, whispering her hopes for children, a good harvest, or healing. Her blood, rich with iron and intent, would soak into the roots. **No need for words, the soil understood.**
@@ -101,6 +103,8 @@ By blood, I call my power home.”*
 
 - Cover the offering gently with soil. Sit quietly and feel the exchange: **what leaves you also nourishes you.**
 
+This Earth offering is only one practice within a much larger tradition. For a complete 4-month path, which includes fertility herbs, womb-supporting teas, menstrual blood workings, protection rites, rituals after pregnancy loss, and ancestral folk practices: see the **[Complete Folk Fertility Magic Program](https://wildwitchherbs.gumroad.com/l/fertility-magic)**.
+
 For a step-by-step guide on returning menstrual blood to the Earth in sync with the **White Moon and Red Moon cycles**, see **[Menstrual Blood Magic for Fertility](/fertility-rituals-menstrual-magic/)**.
 
 Learn how aligning your offerings with lunar cycles enhances their energy in our guide on **[Full Moon Rituals and Sacred Herbs](/full-moon-rituals/)**.
@@ -115,15 +119,17 @@ Learn how aligning your offerings with lunar cycles enhances their energy in our
 
 ---
 
-## The Expanded Fertility Magic Guide is Currently in the Works
+## The Expanded Fertility Magic Guide is Finally Here!
 
-A ritual guide exploring fertility herbs, womb magic, menstrual rites, moon cycles, ancestral customs, and old European folk practices is currently in development.
+A **92-page fertility magic system** rooted in traditional herbal lore, womb wisdom, menstrual rites, moon cycles, ancestral customs, and old Slavic folk practices is now available.
 
-The guide will include **deeper ritual systems**, traditional household workings, seasonal practices, and expanded herbal lore not published on the site.
+Rather than offering a random collection of spells and rituals, this guide follows a **structured 4-month program** designed to help you work with your body's natural rhythms. 
 
-Waiting list members will receive **early access and a launch discount**.
+It also has a **Fertility Path Finder** that helps you identify the challenges you may be facing, whether your focus is preparing the womb, restoring emotional balance after loss, strengthening your connection to your cycle, or deepening your fertility practice. It directs you to the most appropriate rituals and herbal support.
 
-<script async data-uid="a41c34ec1d" src="https://wild-witch-herbs.kit.com/a41c34ec1d/index.js"></script>
+Inside, you'll find carefully sequenced ritual systems, traditional household workings, seasonal practices, herbal tea blends, and expanded folklore that goes far beyond what's published on this site.
+
+**[Folk Fertility Magic: A 4-Month Guided Program](https://wildwitchherbs.gumroad.com/l/fertility-magic)** is designed to accompany you step by step on your fertility journey. 
 
 ---
 
