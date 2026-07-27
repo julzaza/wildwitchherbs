@@ -103,8 +103,6 @@ By blood, I call my power home.”*
 
 - Cover the offering gently with soil. Sit quietly and feel the exchange: **what leaves you also nourishes you.**
 
-This Earth offering is only one practice within a much larger tradition. For a complete 4-month path, which includes fertility herbs, womb-supporting teas, menstrual blood workings, protection rites, rituals after pregnancy loss, and ancestral folk practices: see the **[Complete Folk Fertility Magic Program](https://wildwitchherbs.gumroad.com/l/fertility-magic)**.
-
 For a step-by-step guide on returning menstrual blood to the Earth in sync with the **White Moon and Red Moon cycles**, see **[Menstrual Blood Magic for Fertility](/fertility-rituals-menstrual-magic/)**.
 
 Learn how aligning your offerings with lunar cycles enhances their energy in our guide on **[Full Moon Rituals and Sacred Herbs](/full-moon-rituals/)**.
