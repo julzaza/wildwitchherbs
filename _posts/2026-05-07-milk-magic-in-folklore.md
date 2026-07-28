@@ -53,6 +53,7 @@ Milk fed not only the living.
 **It fed the unseen world too.**
 
 Ordinary foods, herbs, and household customs became part of women's fertility traditions. You'll find them woven into my **[Folk Fertility Magic: A Guided 4-Month Ritual System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**. 
+
 Rather than presenting isolated spells, it brings together herbal folklore, menstrual rites, moon cycles, ancestral customs, and a step-by-step practice.
 
 ---
@@ -224,6 +225,7 @@ milk nourishes life before teeth exist.
 It became one of humanity’s oldest symbols of continuity itself.
 
 Milk was only one thread in a much larger tapestry of fertility folklore. If you are starting your own fertility journey, I have something for you!  
+
 If you'd like to explore how milk offerings, fertility herbs, menstrual rituals, moon phases, and ancestral practices fit together into a single tradition, the **[Folk Fertility Magic](https://wildwitchherbs.gumroad.com/l/fertility-magic)** guides you through a structured 4-month journey, with a Fertility Path Finder to help you choose the practices best suited to your own path.
 
 ---
