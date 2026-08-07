@@ -244,7 +244,7 @@ The guide combines European fertility folklore, traditional herbal symbolism, se
 
 Rather than treating fertility as a single moment, this approach honors it as a journey.
 
-→  **[4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**
+→ explore **[4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**
 
 
 ---
