@@ -171,6 +171,8 @@ Red clover appeared in many European traditions as a symbol of abundance, prospe
 
 Rose was connected with love, beauty, devotion, and emotional opening.  In fertility folklore, roses often appeared in blessings, offerings, and rituals connected with love and union.
 
+Many of these plants carried centuries of folklore around women’s traditions, protection, love, and fertility. Explore the deeper stories behind these botanical allies in the **[Top Witchy Fertility Herbs](/top-fertility-herbs-witchcraft/)**. 
+
 ---
 
 ## Household Customs Before Conception
