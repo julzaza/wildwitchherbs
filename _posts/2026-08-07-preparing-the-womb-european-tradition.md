@@ -51,7 +51,7 @@ faq:
 
 Across old European villages, fertility was rarely seen as something that happened suddenly.
 
-The arrival of a child was not only a physical event — it was a transition involving the woman, the household, the ancestors, the land, and the unseen forces believed to shape life itself.
+The arrival of a child was not only a physical event, but a transition involving the woman, the household, the ancestors, the land, and the unseen forces believed to shape life itself.
 
 Before conception, many women entered a period of preparation.
 
@@ -60,6 +60,10 @@ They gathered herbs at the right season. They tended the hearth. They observed t
 The womb was not viewed as something to be rushed.
 
 It was something to be prepared.
+
+This belief, that fertility begins long before conception itself, forms the foundation of the **[4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**, a complete ritual guide with herbal tea blends, womb preparation practices, ancestral ceremonies, and seasonal fertility traditions.
+
+---
 
 ## Fertility Was Never Considered Instant
 
@@ -85,6 +89,8 @@ It was:
 
 *"How do we become ready to receive it?"*
 
+---
+
 ## The Womb Was Prepared Before Pregnancy
 
 Across regions of Europe, women used a combination of practical and symbolic preparations before conception.
@@ -104,6 +110,8 @@ The womb was often viewed as connected to the entire woman’s life.
 Her emotions, nourishment, relationship with the home, connection to nature, and spiritual state were all considered part of fertility.
 
 A woman preparing for pregnancy might spend months creating a peaceful environment, strengthening herself through traditional foods, and working with plants associated with feminine cycles.
+
+---
 
 ## Why Preparation Often Began Months Earlier
 
@@ -128,6 +136,8 @@ This period was not considered waiting.
 
 It was considered active preparation.
 
+---
+
 ## The Role of the Menstrual Cycle
 
 Women’s cycles were often connected with the rhythms of the moon, tides, and seasons.
@@ -145,10 +155,11 @@ Some folk customs encouraged women to observe their own rhythms and recognize ti
 
 The body was understood as moving through seasons of its own.
 
+---
+
 ## Herbs Traditionally Used in Fertility Folklore
 
-Plants played an important role in European women’s traditions.
-
+Plants played an important role in European women’s traditions. 
 Herbs were gathered not only for practical household uses but also for their symbolism, stories, and associations.
 
 ### Raspberry Leaf — The Leaf of Womanly Strength
