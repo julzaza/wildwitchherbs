@@ -187,6 +187,8 @@ Sustaining rituals often focused on:
 
 Rather than constantly seeking signs or answers, women were encouraged through tradition to remain connected to the rhythms around them.
 
+Safeguarding what has been conceived in folk practices is explored in detail in **[Old World Magic for Pregnancy Protection](/pregnancy-protection-old-world-magic/)**.
+
 ---
 
 ## The Connection Between Fertility and the Seasons
