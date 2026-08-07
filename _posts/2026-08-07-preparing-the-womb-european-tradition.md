@@ -184,6 +184,8 @@ Red clover appeared in many European traditions as a symbol of abundance, prospe
 
 Rose was connected with love, beauty, devotion, and emotional opening.  In fertility folklore, roses often appeared in blessings, offerings, and rituals connected with love and union.
 
+---
+
 ## Household Customs Before Conception
 
 Fertility was not separated from the home.  The household itself was considered a living space that needed harmony and protection.
@@ -199,6 +201,8 @@ Traditional customs included:
 The hearth especially held deep symbolism.
 
 It represented warmth, nourishment, family continuity, and the place where life was sustained.
+
+---
 
 ## Foods and Seasonal Living
 
@@ -218,6 +222,8 @@ The idea was not only nourishment but connection.
 
 Eating from the land meant participating in the same cycles that governed birth, growth, harvest, and renewal.
 
+---
+
 ## What Modern Readers Can Learn From These Traditions
 
 While we live in a very different world, these old customs still offer meaningful lessons.
@@ -236,6 +242,8 @@ Traditional women’s knowledge often emphasized slowing down, observing natural
 
 These practices can be approached today as rituals of intention, reflection, and connection with ancestral traditions.
 
+---
+
 ## A Four-Month Fertility Preparation Tradition
 
 Inspired by these older ideas of gradual preparation, I created a four-month fertility journey that follows the traditional belief that important transformations need time.
@@ -252,6 +260,9 @@ The guide combines European fertility folklore, traditional herbal symbolism, se
 Rather than treating fertility as a single moment, this approach honors it as a journey.
 
 → **[Explore the 4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**
+
+
+---
 
 ## Frequently Asked Questions
 
@@ -270,6 +281,8 @@ Many cultures viewed ancestors as connected to family continuity and the passing
 ### Is fertility preparation only about having a baby?
 
 In folk traditions, fertility was a broader concept connected with creativity, abundance, growth, renewal, and the ability to bring new life into the world in many forms.
+
+---
 
 ## References & Further Reading
 
