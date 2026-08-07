@@ -244,9 +244,9 @@ A flower representing abundance, growth, and the generosity of nature.
 
 ---
 
-## The Four-Month Fertility Preparation Tradition
+## The 4-Month Fertility Preparation Tradition
 
-The idea that fertility requires preparation, patience, and intention is the foundation behind my **[4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)** inspired by European folk traditions, fertility herbs, and ancestral rituals**.
+The idea that fertility requires preparation, patience, and intention is the foundation behind my **[4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)** inspired by European folk traditions, fertility herbs, and ancestral rituals.
 
 This approach follows the old belief that meaningful transformations unfold through stages:
 
@@ -304,3 +304,5 @@ Many people explore these traditions today as spiritual, cultural, or reflective
 - Hutton, Ronald. *The Stations of the Sun*
 - Frazer, James George. *The Golden Bough*
 - Opie, Iona & Tatem, Moira. *A Dictionary of Superstitions*
+
+---
