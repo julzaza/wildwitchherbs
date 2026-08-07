@@ -194,11 +194,8 @@ Rather than constantly seeking signs or answers, women were encouraged through t
 European folk traditions were deeply connected with seasonal change.
 
 Spring represented awakening.
-
 Summer represented abundance.
-
 Autumn represented harvest.
-
 Winter represented rest and preparation.
 
 Fertility followed the same symbolic pattern.
@@ -216,10 +213,7 @@ This is why fertility traditions often included plants, moon symbolism, gardens,
 
 ## Herbs as Traditional Fertility Allies
 
-Plants carried stories.
-
-They were not simply ingredients but companions with their own folklore.
-
+Plants carried stories.  They were not simply ingredients but companions with their own folklore. 
 Some commonly associated fertility plants included:
 
 ### Raspberry Leaf
@@ -244,21 +238,6 @@ A flower representing abundance, growth, and the generosity of nature.
 
 ---
 
-## The 4-Month Fertility Preparation Tradition
-
-The idea that fertility requires preparation, patience, and intention is the foundation behind my **[4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)** inspired by European folk traditions, fertility herbs, and ancestral rituals.
-
-This approach follows the old belief that meaningful transformations unfold through stages:
-
-- opening  
-- warming  
-- calling  
-- sustaining  
-
-The complete guide explores traditional herbal symbolism, ritual practices, seasonal timing, fertility tea blends, and ancestral-inspired ceremonies designed as a four-month journey.
-
----
-
 ## What Modern Readers Can Learn From Ancient Fertility Traditions
 
 The greatest lesson from these traditions is not about forcing nature.
@@ -271,6 +250,21 @@ Preparation creates intention.
 Nourishment creates strength.
 Ritual creates meaning.
 And patience creates space for possibility.
+
+---
+
+## The 4-Month Fertility Preparation Tradition
+
+The idea that fertility requires preparation, patience, and intention is the foundation behind my **[4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)** inspired by European folk traditions, fertility herbs, and ancestral rituals.
+
+This approach follows the old belief that meaningful transformations unfold through stages:
+
+- opening  
+- warming  
+- calling  
+- sustaining  
+
+The complete guide explores traditional herbal symbolism, ritual practices, seasonal timing, fertility tea blends, and ancestral-inspired ceremonies designed as a four-month journey.
 
 ---
 
