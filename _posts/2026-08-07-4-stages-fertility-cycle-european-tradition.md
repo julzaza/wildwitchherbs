@@ -86,6 +86,9 @@ Traditional wisdom often asked:
 
 *"How do we prepare ourselves to receive it?"*
 
+
+If you feel called to explore this tradition more deeply, my **[4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)** combines fertility herbs, ritual practices, seasonal ceremonies, and ancestral-inspired womb blessings into a guided 4-month path.
+
 ---
 
 ## Stage One: Opening — Preparing the Ground
@@ -241,7 +244,7 @@ A flower representing abundance, growth, and the generosity of nature.
 
 ## The Four-Month Fertility Preparation Tradition
 
-The idea that fertility requires preparation, patience, and intention is the foundation behind my **Four-Month Fertility System inspired by European folk traditions, fertility herbs, and ancestral rituals**.
+The idea that fertility requires preparation, patience, and intention is the foundation behind my **[4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)** inspired by European folk traditions, fertility herbs, and ancestral rituals**.
 
 This approach follows the old belief that meaningful transformations unfold through stages:
 
@@ -263,11 +266,8 @@ It is about working with it.
 Ancient women’s customs remind us that transformation has its own rhythm.
 
 Preparation creates intention.
-
 Nourishment creates strength.
-
 Ritual creates meaning.
-
 And patience creates space for possibility.
 
 ---
