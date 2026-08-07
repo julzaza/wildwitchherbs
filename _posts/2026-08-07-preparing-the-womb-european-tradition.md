@@ -233,18 +233,18 @@ These practices can be approached today as rituals of intention, reflection, and
 
 Inspired by these older ideas of gradual preparation, I created a four-month fertility journey that follows the traditional belief that important transformations need time.
 
-Inside the **4-Month Fertility System**, each month focuses on a different stage of preparation:
+Inside the **[4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**, each month focuses on a different stage of preparation:
 
- opening and cleansing  
- warming and nourishing  
- calling and blessing  
- sustaining and trusting  
+Month 1: opening and cleansing  
+Month 2: warming and nourishing  
+Month 3: calling and blessing  
+Month 4: sustaining and trusting  
 
 The guide combines European fertility folklore, traditional herbal symbolism, seasonal rituals, tea blend recipes, ancestor practices, and womb-focused ceremonies inspired by old folk customs.
 
 Rather than treating fertility as a single moment, this approach honors it as a journey.
 
-Explore: → **[4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**
+→  **[4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**
 
 
 ---
