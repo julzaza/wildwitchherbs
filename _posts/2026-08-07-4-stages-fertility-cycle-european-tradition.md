@@ -55,6 +55,8 @@ European folk traditions often reflected this same understanding of fertility.
 
 The body was not viewed as separate from the earth, but as part of the same living rhythm.
 
+This connection between the body, nature, and seasonal rhythms was at the heart of many old fertility customs. In many European traditions, women first entered a period of gradual preparation involving herbs, household blessings, nourishment, and ancestral practices. This tradition explored deeper in **[How Women Prepared the Womb for Conception in European Folk Tradition](https://wildwitchherbs.com/preparing-the-womb-european-tradition/)**.
+
 Preparation came first.
 Then nourishment.
 Then the invitation of new life.
