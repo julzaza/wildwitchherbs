@@ -164,39 +164,29 @@ Herbs were gathered not only for practical household uses but also for their sym
 
 ### Raspberry Leaf — The Leaf of Womanly Strength
 
-Raspberry leaf has long been connected with women’s herbal traditions.
-
+Raspberry leaf has long been connected with women’s herbal traditions.  
 In folk herbalism, raspberry was valued as a supportive plant and became associated with preparation, nurturing, and the cycles of womanhood.
 
 ### Lady’s Mantle — The Womb’s Protective Cloak
 
-The soft, folded leaves of lady’s mantle inspired many associations with femininity and protection.
-
+The soft, folded leaves of lady’s mantle inspired many associations with femininity and protection.  
 Its name itself reflects its connection with the Virgin Mary and feminine symbolism in European traditions.
 
 ### Nettle — Strength and Renewal
 
-Nettle was respected as a powerful nourishing plant.
-
-Though humble and often overlooked, it represented resilience, strength, and the ability to thrive in difficult conditions.
+Nettle was respected as a powerful nourishing plant.  Though humble and often overlooked, it represented resilience, strength, and the ability to thrive in difficult conditions.
 
 ### Red Clover — Blessing and Abundance
 
-Red clover appeared in many European traditions as a symbol of abundance, prosperity, and natural fertility.
-
-Its flowers were associated with growth, sweetness, and the generosity of the earth.
+Red clover appeared in many European traditions as a symbol of abundance, prosperity, and natural fertility.  Its flowers were associated with growth, sweetness, and the generosity of the earth.
 
 ### Rose — Love and the Heart
 
-Rose was connected with love, beauty, devotion, and emotional opening.
-
-In fertility folklore, roses often appeared in blessings, offerings, and rituals connected with love and union.
+Rose was connected with love, beauty, devotion, and emotional opening.  In fertility folklore, roses often appeared in blessings, offerings, and rituals connected with love and union.
 
 ## Household Customs Before Conception
 
-Fertility was not separated from the home.
-
-The household itself was considered a living space that needed harmony and protection.
+Fertility was not separated from the home.  The household itself was considered a living space that needed harmony and protection.
 
 Traditional customs included:
 
