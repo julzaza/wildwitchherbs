@@ -47,8 +47,6 @@ faq:
 
 ---
 
-# Preparing the Womb in European Folk Tradition
-
 Across old European villages, fertility was rarely seen as something that happened suddenly.
 
 The arrival of a child was not only a physical event, but a transition involving the woman, the household, the ancestors, the land, and the unseen forces believed to shape life itself.
