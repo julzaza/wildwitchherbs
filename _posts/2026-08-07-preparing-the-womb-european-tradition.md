@@ -81,14 +81,6 @@ So did the body.
 
 Many folk traditions emphasized patience, nourishment, and creating the right conditions rather than forcing an outcome.
 
-The question was not only:
-
-*"How do we create life?"*
-
-It was:
-
-*"How do we become ready to receive it?"*
-
 ---
 
 ## The Womb Was Prepared Before Pregnancy
