@@ -255,7 +255,7 @@ Rather than treating fertility as a single moment, this approach honors it as a 
 
 ### Did European women really perform fertility rituals?
 
-Yes. Across Europe, women practiced many forms of fertility-related customs including herbal traditions, prayers, blessings, charms, seasonal rituals, and household ceremonies. These practices varied widely by region and time period.
+Yes. Across Europe, women practiced many forms of fertility-related customs including herbal traditions, prayers, blessings, charms, seasonal rituals, and household ceremonies. These practices varied widely by region and time period. Learn more about these rituals here: **[Folk Fertility Rites](/folk-fertility-rituals/)**.
 
 ### Were fertility herbs considered magical?
 
