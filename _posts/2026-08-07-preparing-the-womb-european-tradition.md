@@ -159,18 +159,15 @@ The body was understood as moving through seasons of its own.
 
 ## Herbs Traditionally Used in Fertility Folklore
 
-Plants played an important role in European women’s traditions. 
-Herbs were gathered not only for practical household uses but also for their symbolism, stories, and associations.
+Plants played an important role in European women’s traditions.  Herbs were gathered not only for practical household uses but also for their symbolism, stories, and associations.
 
 ### Raspberry Leaf — The Leaf of Womanly Strength
 
-Raspberry leaf has long been connected with women’s herbal traditions.  
-In folk herbalism, raspberry was valued as a supportive plant and became associated with preparation, nurturing, and the cycles of womanhood.
+Raspberry leaf has long been connected with women’s herbal traditions.  In folk herbalism, raspberry was valued as a supportive plant and became associated with preparation, nurturing, and the cycles of womanhood.
 
 ### Lady’s Mantle — The Womb’s Protective Cloak
 
-The soft, folded leaves of lady’s mantle inspired many associations with femininity and protection.  
-Its name itself reflects its connection with the Virgin Mary and feminine symbolism in European traditions.
+The soft, folded leaves of lady’s mantle inspired many associations with femininity and protection.  Its name itself reflects its connection with the Virgin Mary and feminine symbolism in European traditions.
 
 ### Nettle — Strength and Renewal
 
@@ -232,10 +229,8 @@ The greatest theme found throughout European fertility folklore is not a magical
 
 It is preparation.
 
-Preparation of the body.
-
-Preparation of the home.
-
+Preparation of the body.  
+Preparation of the home.  
 Preparation of the heart.
 
 Traditional women’s knowledge often emphasized slowing down, observing natural rhythms, and creating space for transformation.
@@ -244,11 +239,11 @@ These practices can be approached today as rituals of intention, reflection, and
 
 ---
 
-## A Four-Month Fertility Preparation Tradition
+## A 4-Month Fertility Preparation Tradition
 
 Inspired by these older ideas of gradual preparation, I created a four-month fertility journey that follows the traditional belief that important transformations need time.
 
-Inside the **Four-Month Fertility System**, each month focuses on a different stage of preparation:
+Inside the **4-Month Fertility System**, each month focuses on a different stage of preparation:
 
  opening and cleansing  
  warming and nourishing  
@@ -259,7 +254,7 @@ The guide combines European fertility folklore, traditional herbal symbolism, se
 
 Rather than treating fertility as a single moment, this approach honors it as a journey.
 
-→ **[Explore the 4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**
+Explore: → **[4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**
 
 
 ---
