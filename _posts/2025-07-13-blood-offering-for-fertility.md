@@ -59,6 +59,8 @@ In folk magic, menstrual blood is more than just physical, it is **life-force ma
 
 Allowing a few drops of your blood to fall onto the soil, especially in your garden or under a chosen tree, is seen as an offering of partnership. **It is a pact between your body and the land**.
 
+Menstrual blood offerings are part of the **[Folk Fertility Magic 4-Month System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**, which is a fertility renewal program rooted in Balkan and Slavic witchcraft.
+
 But when is the right time to do such a ritual?
 
 ## ✧ The White Moon and Red Moon Cycles
