@@ -6,16 +6,15 @@ excerpt: "Explore the four traditional stages of fertility preparation found in 
 
 description: "Discover how European folk traditions viewed fertility as a gradual cycle of preparation, nourishment, ritual, and connection with nature. Learn about seasonal fertility customs, traditional herbs, womb symbolism, and ancestral practices."
 
-image_mobile: 
-image_desktop_1280: 
-image_alt: 
-teaser: 
-categories:
+image_mobile: /assets/images/heroes/4-stages-fertility-cycle-european-tradition/800x1000px-young-lady-in-the-forest.webp
+image_desktop_1280: /assets/images/heroes/4-stages-fertility-cycle-european-tradition/1280x400px-young-lady-in-the-forest.webp
+image_alt: "woman in the sunlit forest"
+teaser: /assets/images/heroes/4-stages-fertility-cycle-european-tradition/800x1000px-young-lady-in-the-forest.webp
 
+categories:
 - folklore-ancestral
 
 tags:
-
 - fertility cycle
 - fertility folklore
 - womb preparation
