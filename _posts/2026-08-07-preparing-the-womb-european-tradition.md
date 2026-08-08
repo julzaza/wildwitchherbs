@@ -6,10 +6,11 @@ excerpt: "Discover how women across Europe traditionally prepared the womb for c
 
 description: "Explore traditional European folk practices for preparing the womb before conception. Learn about fertility herbs, ancestral customs, menstrual cycles, ritual timing, and why fertility preparation was viewed as a gradual process rather than a single event."
 
-image_mobile: 
-image_desktop_1280: 
-image_alt: 
-teaser: 
+image_mobile: /assets/images/heroes/preparing-the-womb-european-tradition/800x1000px-blonde-woman-nature-field.webp
+image_desktop_1280: /assets/images/heroes/preparing-the-womb-european-tradition/1280x400px-blonde-woman-nature-field.webp
+image_alt: "blonde woman in the field with flowers and a bird"
+teaser: /assets/images/heroes/preparing-the-womb-european-tradition/800x1000px-blonde-woman-nature-field.webp
+featured: true
 
 categories:
 
