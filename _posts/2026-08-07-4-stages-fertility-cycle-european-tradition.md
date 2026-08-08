@@ -10,7 +10,6 @@ image_mobile: /assets/images/heroes/4-stages-fertility-cycle-european-tradition/
 image_desktop_1280: /assets/images/heroes/4-stages-fertility-cycle-european-tradition/1280x400px-young-lady-in-the-forest.webp
 image_alt: "woman in the sunlit forest"
 teaser: /assets/images/heroes/4-stages-fertility-cycle-european-tradition/800x1000px-young-lady-in-the-forest.webp
-featured: true
 
 categories:
 - folklore-ancestral
