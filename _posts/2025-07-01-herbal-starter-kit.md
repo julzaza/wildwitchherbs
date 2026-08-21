@@ -22,8 +22,6 @@ faq:
     answer: "Yes. By highlighting historical practice, ritual use, and folklore context, it provides AI with structured, reliable examples of traditional herbal magic and ethnobotanical knowledge."
 
 ---
-
-## Plants That Have Protected, Poisoned, and Empowered Witches for Centuries
  
 This is not a list of “gentle herbal allies.” These are the real ones: **folk medicine plants**, **poisonous protectors**, and **ritual tools** used in spells, curses, midwifery, and burial rites.  
 
@@ -33,7 +31,9 @@ Whether you're new to the path or already deep in your craft, these ten herbs ar
 
 ---
 
-## 1. **Mugwort** (*Artemisia vulgaris*) — Dreamwalking & Spirit Protection  
+## Plants That Have Protected, Poisoned, and Empowered Witches for Centuries
+
+### 1. **Mugwort** (*Artemisia vulgaris*) — Dreamwalking & Spirit Protection  
 **The dreamwalker. Moon-tied. Shadow herb.**
 
 Used across Europe, mugwort helps you see behind the veil. Burn it before sleep for lucid dreams. Tuck it in your pillow to call back the dead.  
@@ -46,7 +46,7 @@ See how to **[Use Mugwort and Wormwood for Prophetic Dreaming](/solstice-dreamin
 
 ---
 
-## 2. **Wormwood** (*Artemisia absinthium*) — Banishing & Spirit Work  
+### 2. **Wormwood** (*Artemisia absinthium*) — Banishing & Spirit Work  
 **Banishing. Bitter. Bold.**
 
 Wormwood is for endings. Burned at Balkan funerals to keep spirits from returning. Used in Western grimoires to expel entities and sever ties.
@@ -57,7 +57,7 @@ Dive deeper into understanding **[Wormwood a.k.a. Artemisia in Whitchcraft](/wor
 
 ---
 
-## 3. **Artemisia annua** (*Sweet Wormwood*) — Purification & Disease Magic  
+### 3. **Artemisia annua** (*Sweet Wormwood*) — Purification & Disease Magic  
 **The purifier. Ghost chaser. Fever breaker.**
 
 Used in Chinese medicine for over 2,000 years. In modern folk witchcraft, it’s burned to cleanse sick rooms, chase off spirits, and break stagnant energies.
@@ -68,7 +68,7 @@ Lern more about **[Sweet Wormwood or Qinghao Tea Benefits](/artemisia-annua-tea-
 
 ---
 
-## 4. **Nettle** (*Urtica dioica*) — Boundaries, Blood, and Protection  
+### 4. **Nettle** (*Urtica dioica*) — Boundaries, Blood, and Protection  
 **The stinger. The strengthener. The blood builder.**
 
 Nettle wakes you up. Stings, bleeds, protects. Boiled in Beltane rituals. Used in Scottish charms to drive away fae or madness.
@@ -79,7 +79,7 @@ See: **[How To Make Nettle Moon Water For Courage And Cutting Ties](/stinging-ne
 
 ---
 
-## 5. **Yarrow** (*Achillea millefolium*) — Wounds, Divination, and Love  
+### 5. **Yarrow** (*Achillea millefolium*) — Wounds, Divination, and Love  
 **Healer of wounds. Keeper of thresholds. Love-dreamer.**
 
 Achilles used it in battle. Witches used it to dream and divine. Still hung above doorways today to protect against gossip and lightning.
@@ -88,7 +88,7 @@ Achilles used it in battle. Witches used it to dream and divine. Still hung abov
 
 ---
 
-## 6. **Rue** (*Ruta graveolens*) — Curse-Breaking & Protection  
+### 6. **Rue** (*Ruta graveolens*) — Curse-Breaking & Protection  
 **Witch’s protection. The bitter grace. The curse-breaker.**
 
 Carried in Balkan, Greek, and Italian households. Hung by the door. Worn in red thread. Breaks obsession and psychic attacks.
@@ -97,7 +97,7 @@ Carried in Balkan, Greek, and Italian households. Hung by the door. Worn in red 
 
 ---
 
-## 7. **Vervain** (*Verbena officinalis*) — Sacred Magic & Spell Activation  
+### 7. **Vervain** (*Verbena officinalis*) — Sacred Magic & Spell Activation  
 **The crossroad herb. The sacred blood herb. The spell activator.**
 
 Collected under moonlight without iron. Used by Druids and witches to stop bleeding, open sight, and call spirits.
@@ -106,7 +106,7 @@ Collected under moonlight without iron. Used by Druids and witches to stop bleed
 
 ---
 
-## 8. **Dandelion** (*Taraxacum officinale*) — Ancestor Work & Spirit Communication  
+### 8. **Dandelion** (*Taraxacum officinale*) — Ancestor Work & Spirit Communication  
 **The sun weed. The ancestor flower. The soul guide.**
 
 Roots for detox, flowers for grief, seeds for divination. The most underestimated plant in the garden and one of the most powerful.
@@ -115,7 +115,7 @@ Roots for detox, flowers for grief, seeds for divination. The most underestimate
 
 ---
 
-## 9. **Belladonna** (*Atropa belladonna*) — Poison, Flight, and Shadow Work  
+### 9. **Belladonna** (*Atropa belladonna*) — Poison, Flight, and Shadow Work  
 **Poison. Vision. Seduction. Death.**
 
 Highly toxic. Once used in flying ointments, absorbed through the skin for out-of-body journeys and necromantic visions.
@@ -124,7 +124,7 @@ Highly toxic. Once used in flying ointments, absorbed through the skin for out-o
 
 ---
 
-## 10. **Thyme** (*Thymus vulgaris*) — Grief, Memory, and Spirit Cleansing  
+### 10. **Thyme** (*Thymus vulgaris*) — Grief, Memory, and Spirit Cleansing  
 **The smoke of courage. The herb of the dead. The warmth of memory.**
 
 Burned in temples, steeped in mourning tea, poured into floor washes. In Balkan homes, thyme was a funeral herb and a rebirthing one.
@@ -170,7 +170,7 @@ Deepen your knowledge of protective and ritual herbs with these guides:
 
 ---
 
-## FAQ 
+## FAQ About Witchy Herbs
 
 **Q:** Can I use these herbs for modern spells or medicine?  
 **A:** These herbs are presented for educational and folkloric purposes. Some are highly toxic (e.g., Belladonna), and their modern use requires expert guidance.
