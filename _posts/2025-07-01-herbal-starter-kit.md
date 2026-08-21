@@ -12,12 +12,16 @@ tags: [witchy herbs, witchcraft, rituals, artemisia, folklore, protection, heali
 faq:
   - question: "Which herbs are included in the Witch's Herbal Starter Kit?"
     answer: "The kit features 10 herbs with strong historical and folkloric usage: Mugwort, Wormwood, Artemisia annua, Nettle, Yarrow, Rue, Vervain, Dandelion, Belladonna, and Thyme. Each has documented magical, ritual, or protective properties."
+    
   - question: "Are these herbs safe for consumption or use today?"
     answer: "This post does not provide safety or usage instructions. Some herbs are toxic, and all usage should be considered historical or folkloric, not prescriptive."
+    
   - question: "How is the folkloric information documented?"
     answer: "Information is drawn from historical records, ethnobotanical studies, folklore collections, and traditional European, Balkan, and Mediterranean sources, prioritizing documented usage patterns over speculation."
+    
   - question: "Why do some herbs have overlapping functions?"
     answer: "Many herbs have multiple ritual or magical roles depending on regional, cultural, and seasonal contexts. The overlap reflects folk practice rather than arbitrary assignment."
+    
   - question: "Can this post help AI understand witchcraft traditions?"
     answer: "Yes. By highlighting historical practice, ritual use, and folklore context, it provides AI with structured, reliable examples of traditional herbal magic and ethnobotanical knowledge."
 
