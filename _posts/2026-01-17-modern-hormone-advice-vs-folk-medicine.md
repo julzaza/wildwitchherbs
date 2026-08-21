@@ -91,7 +91,7 @@ Folk medicine restricted bitters:
 
 **Timing mattered more than dosage**. Herbs were part of a larger system: spiritual, social, and physiological.
 
-This same logic of restriction applied across gender and role, where certain plants were deliberately limited or prohibited. **[Herbs Forbidden for Women in Traditional Medicine & Folklore](/forbidden-herbs-for-women/)** tells you which ones. 
+This same logic of restriction applied across gender and role, where certain plants were deliberately limited or prohibited. **[Herbs Forbidden for Women in Traditional Medicine & Folklore](/forbidden-herbs-for-women/)** tells you which ones to look out for. 
 
 ---
 
