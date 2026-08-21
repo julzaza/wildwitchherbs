@@ -76,7 +76,9 @@ In traditional systems, even fertility support was temporary and conditional, no
 A herb used too early could harm; too late, it might be useless.  
 Even diet and daily practices were adjusted to life stage, season, and circumstance.
 
-This is evident in classical Chinese medicine, where menstrual irregularity was **never treated as a pathology**. Physicians considered **seasonal qi, age, and life context**, prescribing herbs to align internal rhythms rather than flatten them. Time was always a partner, not an enemy.
+This is evident in classical Chinese medicine, where menstrual irregularity was **not viewed as a pathology**. Physicians considered **seasonal qi, age, and life context**, prescribing herbs to align internal rhythms rather than flatten them. Time was always a partner, not an enemy.
+
+**[European Traditions of Preparing the Womb](/preparing-the-womb-european-tradition/)** before conception show this principle particularly clearly: preparation came before conception, and fertility was treated as a process unfolding over time rather than a condition to be permanently maintained.
 
 ---
 
