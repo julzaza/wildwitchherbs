@@ -6,6 +6,11 @@ excerpt: "A folklore-rich journey into Europe's ancient magic, examining rituals
 categories: [folklore-ancestral, witchcraft-ritual]
 tags: [european folk magic, ancestral magic, pre-christian rituals, seasonal witchcraft, old world witchcraft]
 
+image_mobile: /assets/images/heroes/pre-christian-europe-magic/800x1000px-church-field-flowers.webp
+image_desktop_1280: /assets/images/heroes/pre-christian-europe-magic/1280x400px-church-field-flowers.webp
+image_alt: "field flowers with a church in the background"
+teaser: /assets/images/heroes/pre-christian-europe-magic/800x1000px-church-field-flowers.webp
+featured: true
 
 faq:
   - question: "What was the worldview of pre-Christian Europe?"
