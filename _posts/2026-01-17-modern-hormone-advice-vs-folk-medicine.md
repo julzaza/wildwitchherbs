@@ -186,6 +186,8 @@ They lacked modern emergency medicine.
 Yet they had a **precise understanding of female time**.  
 Modern advice is powerful, but often blind to rhythm.
 
+For women who want to explore this principle as a structured practice rather than simply read about it, I created a **[4-Month Folk Fertility Program](https://wildwitchherbs.gumroad.com/l/fertility-magic)** based on the same ideas of timing, preparation, ritual, and gradual progression. 
+
 ---
 
 ## What Integration Looks Like
