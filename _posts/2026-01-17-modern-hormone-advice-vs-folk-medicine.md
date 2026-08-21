@@ -195,8 +195,6 @@ For women who want to explore this principle as a structured practice rather tha
 - Not rejection.  
 - Not romanticization.  
 
-It’s remembering that **numbers are not the body — time is**.  
-
 Herbs, rituals, and social structures were designed to **support transitions, not flatten them**.
 
 In many cultures, transitions were also socially managed through ritual and courtship structures rather than medical suppression, as seen in **[Traditional Courtship and Love Rites](/balkan-courtship-love-rites/)**.
