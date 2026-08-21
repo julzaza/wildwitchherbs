@@ -30,13 +30,11 @@ faq:
 
 ---
 
-## Modern Hormone Advice Has One Goal: Control
+Modern hormone advice has one goal: **control**.
 
-Flatten symptoms.  
-Normalize charts.  
-Stabilize numbers.
+Its aim is to flatten the symptoms, stabilize the numbers.
 
-This is not inherently harmful — but it is **philosophically opposite** to how women were treated for thousands of years.
+This is not inherently harmful, but it is **philosophically opposite** to how women were treated for thousands of years.
 
 Folk medicine did not seek hormonal sameness.  
 It expected fluctuation.  
@@ -108,6 +106,8 @@ To understand how folk medicine perceived female change, we can look at **docume
 
   Scottish midwives kept **rue and yarrow** to ward off spirits that might drain strength during menstruation or perimenopause.
 
+  ---
+
 - **Balkan Fairies and Threshold Women (Pócs, *Fairies and Witches at the Boundary of South-Eastern Europe*)**  
 
   Women carried **mugwort or juniper pouches** to protect against intrusive fairies that could disrupt fertility or vitality.
@@ -116,11 +116,15 @@ To understand how folk medicine perceived female change, we can look at **docume
 
   These fears of uncontrolled female power also surface in binding rites and fertility workings surrounding marriage and reproduction, documented in **[Balkan Love Magic: What Was Done and Why It Was Feared](/balkan-love-magic-folklore)**.
 
+  ---
+
 - **Chinese Medicine (Unschuld, *Medicine in China*)**
   
   Irregular cycles were **read as messages**, not disorders.
 
   Herbs were prescribed contextually, respecting natural fluctuations, and interventions shifted across seasons, life stages, and personal constitution.
+
+---
 
 - **Japanese Menopause Myths (Lock, *Encounters with Aging*)**  
 
@@ -128,17 +132,23 @@ To understand how folk medicine perceived female change, we can look at **docume
 
   Physiological changes coincided with socially valuable liminal roles.
 
+  ---
+
 - **American Midwifery (Davis-Floyd, *Birth as an American Rite of Passage*)**  
 
   Perimenstrual and perimenopausal women were given ceremonial roles — **dreaming, divining, teaching young women** — and access to tonics for **endurance, blood, and nervous strength**.
 
   Transition phases were **socially functional, not clinical failures**.
 
+  ---
+
 - **Ayurveda (Wujastyk, *The Roots of Ayurveda*)**  
 
   Herbs and diet were aligned with reproductive cycles and hormonal shifts.
 
   Shatavari (*Asparagus racemosus*) supported vitality and spiritual readiness during perimenopause, **without suppressing natural changes**.
+
+  ---
 
 - **Midwives and Nurses in Early Modern Europe (Ehrenreich & English, *Witches, Midwives, and Nurses*)**  
 
