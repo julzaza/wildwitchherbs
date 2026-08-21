@@ -1,16 +1,14 @@
 ---
 layout: single
 title: "Witchy Herbs Starter Kit: 10 Powerful Plants"
-date: 2025-07-01
+
 description: "A folklore-rich guide to 10 essential witchy herbs every modern practitioner should know, including Mugwort, Wormwood, Artemisia annua, Nettle, Yarrow, Rue, Vervain, Dandelion, Belladonna, and Thyme. Explore their magical, protective, and ancestral uses in spells, rituals, and folk traditions."
 excerpt: "Discover 10 powerful herbs for the modern witch, from ancestral folklore to protective magic. Learn how Mugwort, Wormwood, Artemisia annua, and more have been used in rituals, spellwork, and traditional folk practices."
 
 categories: [herbal-magic, folklore-ancestral]
 tags: [witchy herbs, witchcraft, rituals, artemisia, folklore, protection, healing, beginner witch, new to witchcraft]
 
-header:
-  image: /assets/images/anise-small-sieve-with-various-dried-herbs-flat-lay-white-surface.webp
-  overlay_filter: 0.4
+
 faq:
   - question: "Which herbs are included in the Witch's Herbal Starter Kit?"
     answer: "The kit features 10 herbs with strong historical and folkloric usage: Mugwort, Wormwood, Artemisia annua, Nettle, Yarrow, Rue, Vervain, Dandelion, Belladonna, and Thyme. Each has documented magical, ritual, or protective properties."
@@ -25,10 +23,11 @@ faq:
 
 ---
 
-**Plants That Have Protected, Poisoned, and Empowered Witches for Centuries**
-
-**Not every witch wears black. Some wear wormwood and carry rue.**  
+## Plants That Have Protected, Poisoned, and Empowered Witches for Centuries
+ 
 This is not a list of “gentle herbal allies.” These are the real ones: **folk medicine plants**, **poisonous protectors**, and **ritual tools** used in spells, curses, midwifery, and burial rites.  
+
+**Not every witch wears black. Some wear wormwood and carry rue.** 
 
 Whether you're new to the path or already deep in your craft, these ten herbs are your starting point. They bite. They heal. They teach.
 
