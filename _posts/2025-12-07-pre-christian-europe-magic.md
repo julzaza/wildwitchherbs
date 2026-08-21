@@ -76,7 +76,7 @@ Keeper of plant lore, healing, poisons, and birth magic. She was midwife, funera
 A specialist in spoken magic: incantations, runic formulas, and protective verses passed through generations.
 
 ### The Magician-Smith  
-Working with iron—the metal believed to cut spirit influence—he wielded secrets tied to fire, transformation, and taboo.
+Working with iron (the metal believed to cut spirit influence) he wielded secrets tied to fire, transformation, and taboo.
 
 ### The Ritual Leader  
 Keeper of seasonal rites and community blessings—roles often held by women before later societies formalized male priesthood.
@@ -90,13 +90,13 @@ Magic was a communal practice. A seasonal necessity. A way to keep cows healthy,
 Europe’s pre-Christian worldview swarmed with spirits. Not demons. Not angels. **Spirits.**
 
 ### House Spirits  
-The domovoi, kobold, brownie, nisse—beings who guarded or haunted the home, depending on their treatment.
+The domovoi, kobold, brownie, nisse, these are beings who guarded or haunted the home, depending on their treatment.
 
 ### Land Wights  
 The wights, vættir, leshy, forest mothers: guardians of groves, hills, rivers, and wild places.
 
 ### Ancestral Dead  
-The most sacred presence in Old Europe. The family dead lived close—sometimes literally buried beneath the hearth, doorstep, or orchard.
+The most sacred presence in Old Europe. The family dead lived close, sometimes literally buried beneath the hearth, doorstep, or orchard.
 
 ### Tricksters & Night-Walkers  
 Not evil beings, but unpredictable ones: barn spirits, witches of the crossroads, night-airs, breath-stealers, storm riders.
