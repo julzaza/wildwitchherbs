@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Why Modern Hormone Advice Contradicts Folk Medicine"
+title: "Why Modern Hormone Advice Differs From European Folk Medicine"
 excerpt: "Modern hormone advice treats women as systems to be controlled. Folk medicine treated women as processes unfolding over time."
 description: "An evidence-based, folklore-grounded analysis of how modern hormone advice diverges from traditional women’s medicine—and why many women feel worse following contemporary protocols."
 categories:
@@ -31,9 +31,9 @@ faq:
 
 ---
 
-Modern hormone advice has one goal: **control**.
+A large part of modern hormone medicine is built around measurement, symptom management, and physiological control. 
 
-Its aim is to flatten the symptoms, stabilize the numbers.
+Traditional folk medicine approached women's reproductive lives differently: it often organized care around timing, life stage, transition, and circumstance.
 
 This is not inherently harmful, but it is **philosophically opposite** to how women were treated for thousands of years.
 
