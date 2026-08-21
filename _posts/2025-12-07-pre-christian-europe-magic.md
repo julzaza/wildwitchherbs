@@ -79,7 +79,7 @@ A specialist in spoken magic: incantations, runic formulas, and protective verse
 Working with iron (the metal believed to cut spirit influence) he wielded secrets tied to fire, transformation, and taboo.
 
 ### The Ritual Leader  
-Keeper of seasonal rites and community blessings—roles often held by women before later societies formalized male priesthood.
+Keeper of seasonal rites and community blessings roles were often held by women before later societies formalized male priesthood.
 
 Magic was a communal practice. A seasonal necessity. A way to keep cows healthy, ancestors fed, houses safe, children alive, and the dead appeased.
 
@@ -135,9 +135,9 @@ Many of these survive in Christianized versions that retain pagan structure bene
 ### Plant Magic  
 Pre-Christian Europe was a botanical landscape of power.
 
-Wormwood, mugwort, yarrow, juniper, oak, vervain, rowan, elder, birch—each carried spirit, not symbolism.
+Wormwood, mugwort, yarrow, juniper, oak, vervain, rowan, elder, birch carried spirit, not symbolism.
 
-Gathering herbs was ritualized:
+Gathering herbs was ritualize:
 
 - done at dawn or dusk  
 - accompanied by spoken words  
