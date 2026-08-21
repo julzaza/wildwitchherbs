@@ -34,7 +34,7 @@ faq:
       
 ---
 
-Before churches cast their shadows across the continent, Europe was a landscape stitched together by stories, spirits, and the old magic of the land. The people who lived here did not think of nature as scenery or metaphor. Forests were persons. Rivers had moods. Stones remembered. And magic was not a separate practice—it was woven into the rhythm of everyday life.
+Before churches cast their shadows across the continent, Europe was a landscape stitched together by stories, spirits, and the old magic of the land. The people who lived here did not think of nature as scenery or metaphor. Rivers had moods. Stones remembered. And magic was not a separate practice. It was woven into the rhythm of everyday life.
 
 This is the Europe beneath the Europe we know. A place where the borders between humans, spirits, animals, and ancestors were porous, negotiable, and often gleefully crossed.
 
@@ -54,9 +54,9 @@ A spring was a woman with cold hands.
 
 A stone was a skull of the earth, holding memory.
 
-Across the continent—Celtic, Slavic, Germanic, Baltic, Nordic, Thracian, Greek, and countless local tribal groups—people offered bread, milk, beer, coins, herbs, and blood to these beings not out of superstition, but out of relationship.
+Across the continent, Celtic, Slavic, Germanic, Baltic, Nordic, Thracian, Greek, and countless local tribal groups offered bread, milk, beer, coins, herbs, and blood to these beings. Not out of superstition, but out of relationship.
 
-Magic was an agreement, not a command.
+Magic was an agreement.
 
 ---
 
@@ -93,7 +93,7 @@ Europe’s pre-Christian worldview swarmed with spirits. Not demons. Not angels.
 The domovoi, kobold, brownie, nisse—beings who guarded or haunted the home, depending on their treatment.
 
 ### Land Wights  
-The wights, vættir, leshy, forest mothers—guardians of groves, hills, rivers, and wild places.
+The wights, vættir, leshy, forest mothers: guardians of groves, hills, rivers, and wild places.
 
 ### Ancestral Dead  
 The most sacred presence in Old Europe. The family dead lived close—sometimes literally buried beneath the hearth, doorstep, or orchard.
@@ -147,7 +147,7 @@ Gathering herbs was ritualized:
 Learn more about the **[Old European Witch's Garden: Plants of Power](/witch-garden/)**.
 
 ### Blood, Bone, and Soil  
-Before Christianity, offerings of blood—menstrual, animal, or symbolic—were common. Their sacred role in Old Europe is examined deeply in **[The Old Magic of Menstrual Blood Offerings](/menstrual-blood-earth-ritual/)**.
+Before Christianity, offerings of blood (menstrual, animal, or symbolic) were common. Their sacred role in Old Europe is examined deeply in **[The Old Magic of Menstrual Blood Offerings](/menstrual-blood-earth-ritual/)**.
 
 Bones were repositories of power. Soil was a living archive. 
 
