@@ -40,7 +40,7 @@ Used across Europe, mugwort helps you see behind the veil. Burn it before sleep 
 
 In Slavic Midsummer rituals, mugwort was braided and worn to protect against madness and wandering spirits. It’s been smoked, steeped, burned, and carried as a charm.  
 
-> Mugwort doesn’t ask for permission. She opens doors.
+*Mugwort doesn’t ask for permission. She opens doors.*
 
 See how to **[Use Mugwort and Wormwood for Prophetic Dreaming](/solstice-dreaming-mugwort-wormwood/)**.
 
@@ -51,7 +51,7 @@ See how to **[Use Mugwort and Wormwood for Prophetic Dreaming](/solstice-dreamin
 
 Wormwood is for endings. Burned at Balkan funerals to keep spirits from returning. Used in Western grimoires to expel entities and sever ties.
 
-> Think of wormwood as the herb of goodbye. Sharp, final, and unrepentant.
+*Think of wormwood as the herb of goodbye. Sharp, final, and unrepentant.*
 
 Dive deeper into understanding **[Wormwood a.k.a. Artemisia in Whitchcraft](/wormwood-witchcraft-war/)**.
 
@@ -61,8 +61,7 @@ Dive deeper into understanding **[Wormwood a.k.a. Artemisia in Whitchcraft](/wor
 **The purifier. Ghost chaser. Fever breaker.**
 
 Used in Chinese medicine for over 2,000 years. In modern folk witchcraft, it’s burned to cleanse sick rooms, chase off spirits, and break stagnant energies.
-
-> If you work with disease, death, or spirits, Artemisia annua belongs on your altar.
+*If you work with disease, death, or spirits, Artemisia annua belongs on your altar.*
 
 Lern more about **[Sweet Wormwood or Qinghao Tea Benefits](/artemisia-annua-tea-benefits/)**.
 
@@ -73,7 +72,7 @@ Lern more about **[Sweet Wormwood or Qinghao Tea Benefits](/artemisia-annua-tea-
 
 Nettle wakes you up. Stings, bleeds, protects. Boiled in Beltane rituals. Used in Scottish charms to drive away fae or madness.
 
-> Nettle teaches boundaries. She doesn’t ask — she tells.
+*Nettle teaches boundaries. She doesn’t ask, she tells.*
 
 See: **[How To Make Nettle Moon Water For Courage And Cutting Ties](/stinging-nettle-moon-water/)**.
 
@@ -84,7 +83,7 @@ See: **[How To Make Nettle Moon Water For Courage And Cutting Ties](/stinging-ne
 
 Achilles used it in battle. Witches used it to dream and divine. Still hung above doorways today to protect against gossip and lightning.
 
-> Carry yarrow if you want truth. Burn it if you want vision. Drink it if you want dreams.
+*Carry yarrow if you want truth. Burn it if you want vision. Drink it if you want dreams.*
 
 ---
 
@@ -93,7 +92,7 @@ Achilles used it in battle. Witches used it to dream and divine. Still hung abov
 
 Carried in Balkan, Greek, and Italian households. Hung by the door. Worn in red thread. Breaks obsession and psychic attacks.
 
-> Rue doesn’t ask what your problem is. She cuts it off at the root.
+*Rue doesn’t ask what your problem is. She cuts it off at the root.*
 
 ---
 
@@ -102,7 +101,7 @@ Carried in Balkan, Greek, and Italian households. Hung by the door. Worn in red 
 
 Collected under moonlight without iron. Used by Druids and witches to stop bleeding, open sight, and call spirits.
 
-> Vervain walks the line between sacred and profane.
+*Vervain walks the line between sacred and profane.*
 
 ---
 
@@ -111,7 +110,7 @@ Collected under moonlight without iron. Used by Druids and witches to stop bleed
 
 Roots for detox, flowers for grief, seeds for divination. The most underestimated plant in the garden and one of the most powerful.
 
-> The weed you step on today might be the ghost who answers your call tomorrow.
+*The weed you step on today might be the ghost who answers your call tomorrow.*
 
 ---
 
@@ -120,7 +119,7 @@ Roots for detox, flowers for grief, seeds for divination. The most underestimate
 
 Highly toxic. Once used in flying ointments, absorbed through the skin for out-of-body journeys and necromantic visions.
 
-> She’s the dark mirror in the herb world. You don’t work with Belladonna unless she chooses you.
+*She’s the dark mirror in the herb world. You don’t work with Belladonna unless she chooses you.*
 
 ---
 
@@ -129,7 +128,7 @@ Highly toxic. Once used in flying ointments, absorbed through the skin for out-o
 
 Burned in temples, steeped in mourning tea, poured into floor washes. In Balkan homes, thyme was a funeral herb and a rebirthing one.
 
-> Thyme clears grief. And when you’ve lost your way, it brings you back.
+*Thyme clears grief. And when you’ve lost your way, it brings you back.*
 
 ---
 
