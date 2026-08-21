@@ -12,6 +12,7 @@ tags:
   - perimenopause
   - menstrual health
   - herbal wisdom
+    
 faq:
   - question: "Why does modern hormone advice often contradict traditional medicine?"
     answer: "Modern hormone protocols focus on controlling numbers and symptoms, while traditional folk medicine emphasized supporting natural life stage transitions and respecting the body’s cycles."
@@ -40,7 +41,7 @@ Folk medicine did not seek hormonal sameness.
 It expected fluctuation.  
 It anticipated **cycles, thresholds, and transitions** as essential parts of a woman’s life.
 
-This approach only makes sense when women are understood as moving through distinct physiological and social phases — a worldview documented across cultures in **[Women’s Herbal Life Stages in Folk Medicine](/womens-herbs-life-stages-folk-medicine/)**.
+This approach only makes sense when women are understood as moving through distinct physiological and social phases. This worldview documented across cultures is explored in **[Women’s Herbal Life Stages in Folk Medicine](/womens-herbs-life-stages-folk-medicine/)**.
 
 ---
 
@@ -136,7 +137,7 @@ To understand how folk medicine perceived female change, we can look at **docume
 
 - **American Midwifery (Davis-Floyd, *Birth as an American Rite of Passage*)**  
 
-  Perimenstrual and perimenopausal women were given ceremonial roles — **dreaming, divining, teaching young women** — and access to tonics for **endurance, blood, and nervous strength**.
+  Perimenstrual and perimenopausal women were given ceremonial roles: **dreaming, divining, teaching young women**. As well as access to tonics for **endurance, blood, and nervous strength**.
 
   Transition phases were **socially functional, not clinical failures**.
 
@@ -181,7 +182,7 @@ Traditional systems had limits.
 They lacked modern emergency medicine.  
 
 Yet they had a **precise understanding of female time**.  
-Modern advice is powerful — but often blind to rhythm.
+Modern advice is powerful, but often blind to rhythm.
 
 ---
 
