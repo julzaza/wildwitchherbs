@@ -165,7 +165,7 @@ Local goddesses became Marian figures.
 River mothers became saints of springs.  
 Ancestral rites became “All Souls.”
 
-### Magic Became Sinful—But Essential  
+### Magic Became Sinful, But Essential  
 The Church taught that:
 
 - healing herbs were acceptable only if “God made them work”  
@@ -174,7 +174,7 @@ The Church taught that:
 - local rites were tolerated only if rebranded  
 
 ### Witches Became Enemies  
-The witch was originally a neutral role—a village magical specialist. After Christianization, she became a theological threat.
+The witch was originally a neutral role: a village magical specialist. After Christianization, she became a theological threat.
 
 By the late medieval period, the old magical workers were cast as servants of the devil, not practitioners of ancestral arts.
 
