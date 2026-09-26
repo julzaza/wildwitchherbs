@@ -14,7 +14,6 @@ image_mobile: /assets/images/heroes/dew-water-magic/800x1000px-dew-on-grass.webp
 image_desktop_1280: /assets/images/heroes/dew-water-magic/1280x400px-dew-on-grass.webp
 image_alt: "dew drops on grass leaves"
 teaser: /assets/images/heroes/dew-water-magic/800x1000px-dew-on-grass.webp
-featured: true
 
 faq:
   - question: "What is dew in folklore?"
