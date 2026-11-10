@@ -97,31 +97,21 @@ The social position of older women depended on property, inheritance, marital st
 
 This is important when examining the folklore of the wise woman. Her authority was not simply a gift bestowed by age or the end of menstruation. It was also shaped by the practical structures of the community around her.
 
-## 3. Balkan Folklore: The Older Woman at the Boundary
+## 3. Balkan Folklore: A Regional Perspective
 
-Across the Balkans, folk belief contains a rich world of healers, charms, protective customs, spirits and supernatural dangers.
+Across the Balkans, older women occupy a complicated place in folk belief, particularly in traditions surrounding healing, protection, death and supernatural danger.
 
-Women appear throughout this world as practitioners and transmitters of knowledge.
+But regional traditions deserve more than a passing comparison with wider European folklore.
 
-The village healer, the woman who knew which plants to gather, the person consulted about a child's illness or the woman who understood a protective custom could occupy an important place in community life.
+South Slavic and Albanian beliefs preserve distinct ideas about blood, ritual boundaries, protective practices and the women who maintained household and community knowledge.
 
-However, it would be misleading to suggest that all these roles belonged specifically to menopausal women.
+The relationship between menstruation, ageing and supernatural power is particularly intriguing, although the surviving evidence does not support a single universal Balkan interpretation.
 
-The evidence for Balkan folk practices is regional and varied. Customs differed between Orthodox Christian, Catholic and Muslim communities, between rural regions, and between generations.
+For a closer examination, see:
 
-There was no single Balkan system in which women automatically acquired magical authority after their reproductive years.
+**[Menopause in Balkan Folklore: Bloodless Women & Dangerous Wisdom](/menopause-balkan-folklore/)**
 
-What can be said is that older women often represented continuity.
 
-They remembered practices that younger generations might no longer follow. They knew family histories, local remedies and the unwritten rules surrounding birth, illness, death and the changing seasons.
-
-In a culture where knowledge was frequently transmitted orally, memory itself could become a form of authority.
-
-The same knowledge could also inspire suspicion.
-
-A woman who knew how to heal might be believed capable of harming. Someone who understood protective customs might also be suspected of knowing how to reverse them.
-
-The boundary between healer and witch was never as secure as modern categories suggest.
 
 ## 4. The Wise Woman and the Feared Witch
 
