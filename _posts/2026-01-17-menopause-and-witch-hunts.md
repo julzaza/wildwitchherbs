@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Menopause, Witch Hunts & the Real Pattern of Accusation"
-excerpt: "Witch hunts did not target menopause—but they disproportionately ensnared older, socially unprotected women whose lives no longer fit acceptable female roles."
+excerpt: "Witch hunts did not target menopause, but they disproportionately ensnared older, socially unprotected women whose lives no longer fit acceptable female roles."
 description: "A historically grounded examination of age, widowhood, fertility, and social power in European witch trials—separating folklore, fear, and fact."
 categories:
   - folklore-ancestral
@@ -13,15 +13,15 @@ tags:
   - elder women
   - european trials
   - balkan witchcraft
-faq_schema: |
-  type: FAQPage
-  mainEntity:
+    
+faq:
     - question: "Did witch hunts target menopausal women?"
       answer: "No. Witch hunts disproportionately targeted older women, many of whom were post-childbearing, but menopause itself was not a cause of accusation."
     - question: "Why were older women more vulnerable?"
       answer: "Age often coincided with widowhood, poverty, lack of protection, and social isolation—factors that increased suspicion."
     - question: "Were healers and midwives targeted?"
       answer: "Some were, but many accused women were not healers. The pattern is more social than professional."
+      
 ---
 
 ## The Claim That Needs Correction
