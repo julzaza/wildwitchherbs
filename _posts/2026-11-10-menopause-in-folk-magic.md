@@ -110,7 +110,7 @@ The relationship between menstruation, ageing and supernatural power is particul
 
 For a closer examination, see:
 
-**[Menopause in Balkan Folklore: Bloodless Women & Dangerous Wisdom](/menopause-balkan-folklore/)**
+**[Menopause in Balkan Folklore](/menopause-balkan-folklore/)**
 
 
 
@@ -312,8 +312,7 @@ There is no historical evidence for a universal belief that menopause itself inc
 
 ## Related Posts
 
-- **Herbs for Women Over 40: Power, Blood & Wisdom**
-  `/herbs-for-women-over-40`
+- **He
 
 ---
 
