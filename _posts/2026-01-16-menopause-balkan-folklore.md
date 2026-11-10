@@ -13,15 +13,15 @@ tags:
   - elder women magic
   - blood folklore
   - wise woman traditions
-faq_schema: |
-  type: FAQPage
-  mainEntity:
+
+faq:
     - question: "How was menopause viewed in Balkan folklore?"
       answer: "Menopause was viewed as a transition into a bloodless, more spiritually contained state associated with authority, protection, and dangerous knowledge."
     - question: "Were older women feared in Balkan traditions?"
       answer: "Yes. Elder women were both respected and feared due to their association with protection magic, death rites, and boundary knowledge."
     - question: "Why was blood important in Balkan folk belief?"
       answer: "Blood was believed to create spiritual permeability; women who no longer bled were considered less vulnerable to possession and external forces."
+      
 ---
 
 In the Balkans, menopause was not invisible.
