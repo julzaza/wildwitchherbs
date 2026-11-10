@@ -59,7 +59,7 @@ These were not soft roles. They were liminal ones.
 
 ---
 
-### **2. Menopause coincided with social vulnerability — not authority**
+### **2. Menopause coincided with social vulnerability, not authority**
 What truly shaped a woman’s position was **not fertility**, but **social placement**.
 
 Historians consistently show that risk followed:
