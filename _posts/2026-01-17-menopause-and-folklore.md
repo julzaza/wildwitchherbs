@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Menopause in Folk Magic: Power, Fear & the Unnamed Threshold"
-excerpt: "Across old European and global folk traditions, menopause marked a woman’s passage into a dangerous, powerful, and often unnamed threshold—neither fertile nor finished, but transformed."
+excerpt: "Across old European and global folk traditions, menopause marked a woman’s passage into a dangerous, powerful, and often unnamed threshold. She was neither fertile nor finished, but transformed."
 description: "A folklore-based exploration of menopause as a liminal state in European and global folk belief—examining power, suspicion, elder magic, and the social realities surrounding post-childbearing women."
 categories:
   - folklore-ancestral
@@ -13,27 +13,27 @@ tags:
   - women's rites of passage
   - european folk magic
   - liminal women
-faq_schema: |
-  type: FAQPage
-  mainEntity:
+    
+faq:
     - question: "Was menopause recognized in traditional folk cultures?"
       answer: "Menopause was rarely named directly, but many folk cultures recognized a post-childbearing transition marked by increased authority, danger, or spiritual potency."
     - question: "Were post-menopausal women considered powerful in folklore?"
       answer: "Yes. In many traditions, women beyond fertility were believed to hold stronger protective, cursing, or liminal powers, especially in matters of death, weather, and spirit contact."
     - question: "Did menopause itself cause persecution?"
       answer: "No. Social factors such as age, widowhood, poverty, and lack of male protection created vulnerability. Menopause often coincided with these conditions but was not the cause."
+      
 ---
 
 ## Menopause Was Rarely Named, But Always Felt
 
 In traditional folk cultures, menopause was not discussed as a biological milestone.  
-It was *recognized*, *felt*, and *responded to* — but seldom spoken aloud.
+It was *recognized*, *felt*, and *responded to*, but seldom spoken aloud.
 
 There were no celebrations for it.  
 No rituals announcing it openly.  
 No universal words for it across Europe.
 
-Instead, menopause appeared indirectly — in changed expectations, altered roles, and rising unease.
+Instead, menopause appeared indirectly in changed expectations, altered roles, and rising unease.
 
 A woman who no longer bled, no longer birthed, and no longer answered to reproductive cycles stood at a threshold that folk cultures did not fully trust.
 
@@ -48,7 +48,7 @@ Across Europe and beyond, older women often occupied roles that were both respec
 - Witnesses to birth and death  
 - Keepers of memory, remedies, and warnings  
 
-They were not automatically revered — but they were rarely ignored.
+They were not automatically revered, but they were rarely ignored.
 
 In Balkan villages, post-childbearing women were often entrusted with:
 - Washing the dead  
@@ -71,7 +71,7 @@ Historians consistently show that risk followed:
 A menopausal woman with land, sons, or strong kin networks could be respected.
 A fertile woman without protection could still be targeted.
 
-> **Social position, not biology, determined safety.**
+**Social position, not biology, determined safety.**
 
 ---
 
@@ -95,7 +95,7 @@ Power did not equal honor. It often meant suspicion.
 ## What Is Partially True (And Needs Careful Wording)
 
 ### **4. Menopause as symbolic danger**
-Menopause itself was not named as a threat — but **post-menopausal women were symbolically reclassified**.
+Menopause itself was not named as a threat, but **post-menopausal women were symbolically reclassified**.
 
 Under Galenic medical theory, older women were described as:
 - “Dry”
@@ -141,7 +141,7 @@ It was **threshold power**, and threshold power is never comfortable.
 
 ---
 
-## Human FAQ
+## FAQ
 
 ### Did folk cultures celebrate menopause?
 No. Menopause was acknowledged indirectly, often through changed roles rather than ritual celebration.
