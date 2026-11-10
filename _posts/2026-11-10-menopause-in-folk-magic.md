@@ -26,9 +26,8 @@ faq:
     answer: "The term menopause was introduced in French medical writing in the early nineteenth century. Medical interest in the cessation of menstruation developed gradually, rather than emerging as a fully formed diagnosis in ancient medicine."
   - question: "Is the modern crone archetype historically accurate?"
     answer: "It draws on genuine associations between older women, accumulated knowledge and supernatural power, but the modern image of the universally revered wise elder is a romantic simplification of a much more complicated history."
+    
 ---
-
-## The Woman Who Had Passed Beyond Blood
 
 There is a particular figure who appears repeatedly in European folklore: the older woman who lives at the edge of the village, knows the plants, remembers old customs and understands things that younger people have forgotten.
 
@@ -47,6 +46,8 @@ Yet the older woman occupied a particular place in the European imagination. She
 Her position could be powerful, but it was not necessarily secure.
 
 To understand the folklore surrounding older women, we must look beyond the romantic image of the wise crone and examine the uncomfortable relationship between knowledge, gender, age and fear.
+
+---
 
 ## 1. Menopause Before It Became a Medical Category
 
@@ -67,6 +68,8 @@ Women did not suddenly begin experiencing menopause when physicians named it. Wh
 For generations, the end of menstruation had existed as one part of a woman's changing life. It was not necessarily understood as a crisis, a liberation or a spiritual awakening.
 
 It was a bodily transition whose meaning depended heavily on the society in which a woman lived.
+
+---
 
 ## 2. The Older Woman: Knowledge, Authority and Social Position
 
@@ -153,6 +156,8 @@ The woman who understood protective charms might be suspected of knowing how to 
 
 In this way, the figure of the witch reflected wider anxieties about women's knowledge, independence and perceived influence.
 
+---
+
 ## 5. Blood, Fertility and the Symbolism of Transformation
 
 Menstruation has carried powerful symbolic meanings in many religious and folk traditions.
@@ -174,6 +179,8 @@ What we can recognize is that the cessation of menstruation marked the end of on
 It changed a woman's relationship to pregnancy and fertility. It did not erase her sexuality, her identity, her knowledge or her place in the community.
 
 The symbolism of that transition was never fixed.
+
+---
 
 ## 6. The Crone: Historical Figure or Modern Invention?
 
@@ -305,19 +312,15 @@ There is no historical evidence for a universal belief that menopause itself inc
 
 ---
 
-## Further Reading
-
-- [The French Invention of Menopause and the Medicalisation of Women's Ageing: A History](https://doi.org/10.1093/oso/9780192842916.001.0001), Alison M. Downham Moore.
-- [The Age of Menopause in Medieval Europe](https://digitalcommons.wayne.edu/humbiol/vol45/iss4/8/), Darrel W. Amundsen and Carol Jean Diers.
-- [Elderly Years Cause a Total Dispaire of Conception: Old Age, Sex and Infertility in Early Modern England](https://pmc.ncbi.nlm.nih.gov/articles/PMC5526455/).
-
 ## Related Posts
 
 - **Herbs for Women Over 40: Power, Blood & Wisdom**
   `/herbs-for-women-over-40`
 
-- **Wormwood in Witchcraft & War: From Babylon to Balkan Graves**
-  `/wormwood-witchcraft-war`
+---
 
-- **Wormwood & Mugwort for Lucid Dreaming**
-  `/wormwood-lucid-dreaming/`
+## Further Reading
+
+- [The French Invention of Menopause and the Medicalisation of Women's Ageing: A History](https://doi.org/10.1093/oso/9780192842916.001.0001), Alison M. Downham Moore.
+- [The Age of Menopause in Medieval Europe](https://digitalcommons.wayne.edu/humbiol/vol45/iss4/8/), Darrel W. Amundsen and Carol Jean Diers.
+- [Elderly Years Cause a Total Dispaire of Conception: Old Age, Sex and Infertility in Early Modern England](https://pmc.ncbi.nlm.nih.gov/articles/PMC5526455/).
