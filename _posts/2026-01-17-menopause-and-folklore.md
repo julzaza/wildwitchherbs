@@ -24,7 +24,7 @@ faq_schema: |
       answer: "No. Social factors such as age, widowhood, poverty, and lack of male protection created vulnerability. Menopause often coincided with these conditions but was not the cause."
 ---
 
-## Menopause Was Rarely Named — But Always Felt
+## Menopause Was Rarely Named, But Always Felt
 
 In traditional folk cultures, menopause was not discussed as a biological milestone.  
 It was *recognized*, *felt*, and *responded to* — but seldom spoken aloud.
