@@ -169,10 +169,8 @@ The old stories preserve both sides of this position: the woman whose knowledge 
 
 ## Related Posts
 
-- **[Menopause in Folk Magic: Power, Fear & the Unnamed Threshold](/menopause-folklore-modern-medicine/)**
+- **[Menopause in Folk Magic: Power, Fear & the Unnamed Threshold](/menopause-in-folk-magic/)**
 - **[Menstrual Blood in Balkan Folklore: Taboos, Magic & Ritual Boundaries](/menstrual-blood-balkan-folklore/)**
-- **[Wormwood in Witchcraft & War](/wormwood-witchcraft-war/)**
-- **[Mugwort & Dream Protection in European Folk Magic](/wormwood-lucid-dreaming/)**
 
 ---
 
