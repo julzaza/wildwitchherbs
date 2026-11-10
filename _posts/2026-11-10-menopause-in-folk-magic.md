@@ -328,7 +328,8 @@ There is no historical evidence for a universal belief that menopause itself inc
 
 ## Related Posts
 
-- **He
+- **[Blood and Soil: The Old Magic of Menstrual Offerings](/menstrual-blood-earth-ritual/)**
+- 
 
 ---
 
