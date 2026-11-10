@@ -161,17 +161,18 @@ The old stories preserve both sides of this position: the woman whose knowledge 
 
 ---
 
+## Related Posts
+
+- **[Menopause in Folk Magic](/menopause-in-folk-magic/)**
+- **[Menstrual Blood in Balkan Folklore](/menstrual-blood-balkan-folklore/)**
+
+---
+
 ## Further Reading
 
 - Andja Srdić Srebro, [“L’au-delà – une sphère féminine: L’autre monde, la mort et la femme dans l’imaginaire et la religion populaires serbes”](https://oskar-bordeaux.fr/handle/20.500.12278/199904), *Études balkaniques*, vol. 26, no. 1 (2022), pp. 41–54.
 - Sonja Petrović, [“Charmers on the Folk Practice of Charming in Serbia”](https://doi.org/10.7592/Incantatio2018_7_Petrović), *Incantatio* 7 (2018).
 - Margaret Beissinger, Jane Tylus and Susanne Wofford (eds.), [*Epic Traditions in the Contemporary World: The Poetics of Community*](https://publishing.cdlib.org/ucpressebooks/public/book/epic-traditions-in-the-contemporary-world-the-poetics-of-community.html), University of California Press (1999). Includes discussion of the old prophetess-witch in Njegoš's *The Mountain Wreath*.
 
-## Related Posts
-
-- **[Menopause in Folk Magic: Power, Fear & the Unnamed Threshold](/menopause-in-folk-magic/)**
-- **[Menstrual Blood in Balkan Folklore: Taboos, Magic & Ritual Boundaries](/menstrual-blood-balkan-folklore/)**
-
----
 
 *This article distinguishes documented ethnographic material and literary representations from broader interpretation. The traditions discussed belong to particular communities and historical contexts, not to every Balkan people or generation.*
