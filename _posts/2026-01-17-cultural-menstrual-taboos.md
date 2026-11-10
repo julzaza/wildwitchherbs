@@ -13,18 +13,16 @@ tags:
   - taboo traditions
   - witchcraft history
   - ancestral medicine
-faq_schema: |
-  type: FAQPage
-  mainEntity:
+
+faq:
     - question: "Were menstrual taboos meant to punish women?"
       answer: "Not always. In many cultures, taboos reflected fear of menstrual power rather than shame."
     - question: "Did all cultures isolate menstruating women?"
       answer: "No. Practices varied widely, from seclusion to ritual authority."
     - question: "Is menstrual blood considered sacred in folklore?"
       answer: "In many traditions, yes. Menstrual blood was often associated with fertility, danger, and liminality."
+      
 ---
-
-## Menstruation Was Never Neutral
 
 Across history, menstruation was not ignored.
 
@@ -107,13 +105,13 @@ In parts of West and Central Africa:
 - menstruating women were barred from crops
 - menstrual blood was believed to disrupt growth cycles
 
-This was not moral judgment — it was **cosmic interference theory**.
+This was not moral judgment, it was **cosmic interference theory**.
 
 ---
 
 ## Japan: Kegare and Sacred Disruption
 
-In Shinto belief, menstruation caused *kegare* — ritual disruption.
+In Shinto belief, menstruation caused *kegare*, a ritual disruption.
 
 But:
 - disruption ≠ sin  
@@ -172,7 +170,7 @@ When menstruation is framed as:
 - a disorder  
 - a productivity problem  
 
-We repeat the same mistake — just with better language.
+We repeat the same mistake, just with better language.
 
 Folk cultures feared menstrual blood.
 
