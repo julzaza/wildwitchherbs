@@ -59,8 +59,6 @@ In folk magic, menstrual blood is more than just physical, it is **life-force ma
 
 Allowing a few drops of your blood to fall onto the soil, especially in your garden or under a chosen tree, is seen as an offering of partnership. **It is a pact between your body and the land**.
 
-Menstrual blood offerings are part of the **[Folk Fertility Magic 4-Month System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**, which is a fertility renewal program rooted in Balkan and Slavic witchcraft.
-
 But when is the right time to do such a ritual?
 
 ## ✧ The White Moon and Red Moon Cycles
@@ -140,7 +138,7 @@ You’ll need:
 ---
 ## ✧ Begin the 4-Month Fertility Journey
 
-If you're looking for a complete fertility practice rather than a single ritual, I've created the **[Fertility Ritual Folk Guide](https://wildwitchherbs.gumroad.com/l/fertility-magic)**, a 92-page collection of traditional Slavic & Balkan fertility folklore, herbal wisdom, and ancestral rituals.
+If you're looking for a complete fertility practice rather than a single ritual, I've created the **[Fertility Ritual Folk Guide: a 4-Month Folk System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**, a 92-page collection of traditional Slavic & Balkan fertility folklore, herbal wisdom, and ancestral rituals.
 
 Inside you'll discover:
 
@@ -150,8 +148,6 @@ Inside you'll discover:
 - rituals to support hope after pregnancy loss or miscarriage
 - Slavic and Balkan folk customs for conception and protection
 - printable ritual pages to help you follow the journey from beginning to end
-
-→ Explore the **[Magic Fertility Guide: a 4-Month Folk System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**
 
 ---
 
@@ -163,7 +159,7 @@ Whether your desire is for a child, a creative harvest, or deeper spiritual conn
 
 Let the Earth receive what you no longer need. Let her feed you in return.
 
-Discover other **[Folk Fertility Rituals - Magic to Create](/folk-fertility-rituals/)** witches practice. These are not just for conception, but for new ideas, new beginnings and creations. 
+Discover other **[Folk Fertility Rituals](/folk-fertility-rituals/)** witches practice. These are not just for conception, but for new ideas, new beginnings and creations. 
 
 ---
 
