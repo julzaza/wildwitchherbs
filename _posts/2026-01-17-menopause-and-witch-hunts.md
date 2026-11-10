@@ -52,7 +52,7 @@ This pattern appears in:
 - Scandinavia  
 - The Balkans (later, with local variations)
 
-**Yes — non-fertile or post-childbearing women were overrepresented.**
+**Yes, non-fertile or post-childbearing women were overrepresented.**
 
 ---
 
@@ -88,7 +88,7 @@ However, women associated with:
 
 *did* face heightened suspicion in certain regions.
 
-This was not about medicine — it was about boundary proximity.
+This was about boundary proximity.
 
 ---
 
@@ -107,7 +107,7 @@ Under Galenic medicine, post-menopausal women were described as:
 - “Hot”
 - Melancholic  
 
-This symbolism fed fear — **indirectly**.
+This symbolism fed fear **indirectly**.
 
 ---
 
@@ -120,8 +120,7 @@ They were about:
 - Refusal  
 - Survival without permission  
 
-Older women were dangerous not because they no longer birthed —  
-but because they no longer fit.
+Older women were dangerous not because they no longer birthed, but because they no longer fit.
 
 ---
 
@@ -141,7 +140,7 @@ It was the **context**.
 ## FAQ
 
 ### Were young women accused?
-Yes, especially in cases involving sexuality or moral panic — but they were not the majority.
+Yes, especially in cases involving sexuality or moral panic, but they were not the majority.
 
 ### Were witch hunts about controlling reproduction?
 Indirectly. They enforced social order, not fertility outcomes.
