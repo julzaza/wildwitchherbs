@@ -31,7 +31,7 @@ faq:
 
 There is a particular figure who appears repeatedly in European folklore: the older woman who lives at the edge of the village, knows the plants, remembers old customs and understands things that younger people have forgotten.
 
-Sometimes she is sought out, but feared.
+Sometimes she is sought out.
 
 Sometimes she is accused of knowing too much.
 
@@ -105,8 +105,6 @@ This is important when examining the folklore of the wise woman. Her authority w
 Across the Balkans, older women occupy a complicated place in folk belief, particularly in traditions surrounding healing, protection, death and supernatural danger.
 
 But regional traditions deserve more than a passing comparison with wider European folklore.
-
-South Slavic and Albanian beliefs preserve distinct ideas about blood, ritual boundaries, protective practices and the women who maintained household and community knowledge.
 
 The relationship between menstruation, ageing and supernatural power is particularly intriguing, although the surviving evidence does not support a single universal Balkan interpretation.
 
