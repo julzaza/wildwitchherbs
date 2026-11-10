@@ -52,7 +52,7 @@ This pattern appears in:
 - Scandinavia  
 - The Balkans (later, with local variations)
 
-✔️ **Yes — non-fertile or post-childbearing women were overrepresented.**
+**Yes — non-fertile or post-childbearing women were overrepresented.**
 
 ---
 
