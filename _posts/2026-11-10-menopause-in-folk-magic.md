@@ -252,9 +252,9 @@ Menstrual blood carried meanings of fertility, vulnerability and transformation.
 
 These traditions deserve to be explored beyond the final cessation of menstruation.
 
-For a closer look at the relationship between the menstrual cycle and ancestral practice, read **[Fertility Rituals & Menstrual Magic](/folk-fertility-rituals/)**.
+For a closer look at the relationship between the menstrual cycle and ancestral practice, read **[Fertility Rituals & Menstrual Magic](/fertility-rituals-menstrual-magic/)**.
 
-For a deeper exploration of historical fertility customs, see **[Folk Fertility Rituals](/fertility-rituals-menstrual-magic/)**.
+For a deeper exploration of historical fertility customs, see **[Folk Fertility Rituals](/folk-fertility-rituals/)**.
 
 And for those interested in exploring these traditions through a structured four-month practice, the **[Four-Month Fertility Guide](https://wildwitchherbs.gumroad.com/l/fertility-magic)** brings together folk rituals, herbal traditions and seasonal practices in one illustrated guide.
 
