@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Cultural Menstrual Taboos: Blood, Power, and the Fear of Threshold Women"
-excerpt: "Across cultures, menstruation was not hidden because it was weak—but because it was powerful. Menstrual taboos marked women as dangerous, sacred, or untouchable at the same time."
+excerpt: "Across cultures, menstruation was not hidden because it was weak, but because it was powerful. Menstrual taboos marked women as dangerous, sacred, or untouchable at the same time."
 description: "A global, folklore-grounded exploration of menstrual taboos across ancient and traditional societies—examining blood, liminality, spiritual danger, and the cultural logic behind isolation, prohibition, and protection."
 categories:
   - folklore-ancestral
@@ -189,7 +189,7 @@ Sometimes. Sometimes they were protective.
 No. Resistance appears in many traditions.
 
 **Is menstrual blood used magically?**  
-Yes — often secretly and cautiously.
+Yes. Often secretly and cautiously.
 
 ---
 
