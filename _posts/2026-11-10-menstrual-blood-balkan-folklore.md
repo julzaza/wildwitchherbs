@@ -188,17 +188,16 @@ For the wider history of menopause and the changing cultural meaning of women's 
 
 ---
 
+## Related Posts
+
+- **[Older Women in Balkan Folklore: Wisdom, Death & the Witch](/menopause-balkan-folklore/)**
+- **[Fertility 4-Month Ritual Guide](https://wildwitchherbs.gumroad.com/l/fertility-magic)**
+
+---
+
 ## Further Reading
 
 - Miroslava Malešević, [“Sexual Maturation of Girls: Puberty Rites in a Traditional Serbian Village”](https://biblioteca-digitala.ro/reviste/carte/ISSEE/etudes-et-documents-balkaniques-et-mediterraneens_15_1990.pdf), *Études et Documents Balkaniques et Méditerranéens* (1990), pp. 82–87.
 - Mila Bankova, [“It Should Be Recalled It's a Women's Job”: Sociocultural Parameters of Menstruation in Bulgarian Traditional Culture and Folklore](https://www.ceeol.com/search/article-detail?id=1174507), *Български фолклор* (Bulgarian Folklore), vol. XLVIII, no. 3 (2022), pp. 332–355.
-
-## Related Posts
-
-- **[Older Women in Balkan Folklore: Wisdom, Death & the Witch](/older-women-balkan-folklore/)**
-- **[Menopause in Folk Magic: Power, Fear & the Unnamed Threshold](/menopause-folklore-modern-medicine/)**
-- **[Fertility Rituals & Menstrual Magic](/YOUR-ACTUAL-MENSTRUAL-MAGIC-SLUG/)**
-
----
 
 *The customs described here are drawn from specific ethnographic and folklore studies. They should not be treated as universal practices across the Balkans or as medical explanations of menstruation.*
