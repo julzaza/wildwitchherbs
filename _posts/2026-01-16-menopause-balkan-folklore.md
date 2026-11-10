@@ -33,13 +33,17 @@ She may be a keeper of family memory, a mourner who knows the proper words for t
 
 These figures belong to a world in which the female body was not understood as separate from the household, the natural world or the unseen. Blood, fertility, childbirth, illness and death all carried social and ritual significance.
 
-Menopause belongs within this wider history of women's lives, but the evidence requires care. The surviving ethnographic record documents beliefs about menstruation, women's ritual responsibilities and the symbolism of old age. It does not establish one universal Balkan doctrine in which a woman became spiritually sealed when her periods ended.
+Menopause belongs within this wider history of women's lives, but the evidence requires care. The surviving ethnographic record documents beliefs about menstruation, women's ritual responsibilities and the symbolism of old age. It does not establish one universal Balkan doctrine.
 
 The more revealing question is how a woman's position changed as she moved beyond the years of menstruation and childbearing, and how that change might have been understood within communities already accustomed to interpreting the female body through ideas of fertility, danger, kinship and ritual responsibility.
 
+
+
+
+
 ## The Balkans Were Never One Folklore Tradition
 
-The term *Balkan folklore* covers a large and culturally varied region. Serbian, Montenegrin, Bulgarian, Albanian, Macedonian, Romanian, Greek and other communities developed their own customs, religious practices and explanations of the unseen.
+The term *Balkan folklore* covers a large and culturally varied region. Serbian, Montenegrin, Bulgarian, Albanian, Macedonian, Romanian and other communities developed their own customs, religious practices and explanations of the unseen.
 
 Even within a single country, beliefs differed between villages, religious communities, social classes and generations. Orthodox Christian teaching, local custom, family practice and older ritual ideas could coexist without forming a consistent system.
 
@@ -49,67 +53,8 @@ The most useful evidence comes from particular places and particular records. Se
 
 These sources do not describe every Balkan community. They do, however, offer a way to understand the cultural landscape in which older women lived.
 
-## Blood: Fertility, Vulnerability and Magical Power
 
-In some South Slavic traditions, menstrual blood was understood as more than a biological substance. It could carry meanings associated with fertility, danger, protection and influence.
 
-One particularly valuable source is Miroslava Malešević's ethnographic study, *Sexual Maturation of Girls: Puberty Rites in a Traditional Serbian Village*, published in 1990. Her research draws on interviews with women from 72 Orthodox villages in western Serbia, many of whom remembered participating in puberty rituals during the first half of the twentieth century.
-
-The accounts reveal a strikingly ambivalent attitude towards menstrual blood.
-
-It could be treated as something that needed to be concealed. Girls were warned not to expose their blood or stained clothing because another person might use it to harm them through magic. Menstruating girls could also be restricted from entering gardens, handling certain foods, feeding livestock or entering church.
-
-At the same time, menstrual blood could be considered magically effective. The study records beliefs that it could influence romantic attachment, protect a soldier from bullets, or affect fertility and the future number of children.
-
-The same substance could therefore be feared, hidden and deliberately used.
-
-This contradiction is important. It suggests that menstrual blood was not simply regarded as worthless or dirty. Its perceived power made it something that required careful handling.
-
-The restrictions also reveal how ritual beliefs shaped ordinary work. A woman who was temporarily excluded from gardening, food preparation or other domestic tasks could disrupt the household's daily routine. Malešević observes that women used ritual practices in part to shorten or regulate the period of restriction and return to their usual responsibilities.
-
-These beliefs were not abstract symbolism. They were woven into the practical organisation of village life.
-
-## Menstruation as a Boundary
-
-Malešević's study describes menstruation as a temporary state in which a woman could be understood as both vulnerable and dangerous.
-
-The menstruating woman was believed to be susceptible to harmful magic, while her presence could also threaten certain activities, places and objects. The restrictions were therefore interpreted in two directions: protecting the community from what was considered the dangerous potential of menstrual blood, and protecting the woman herself from supernatural harm.
-
-This is a more complicated picture than the familiar idea of menstrual impurity alone.
-
-The woman was not simply excluded because she was considered inferior. She was also treated as someone whose body possessed a force that required regulation.
-
-Yet the social consequences were unequal. Restrictions placed particular burdens on women, whose work remained essential to the household. The language of ritual danger could offer an explanation for their temporary exclusion while also reinforcing expectations about female behaviour.
-
-The study is especially useful because it records the memories of women who had experienced these customs themselves. It also makes clear that the practices were not timeless: the particular puberty ritual described had largely disappeared by the middle of the twentieth century, although some menstrual taboos continued.
-
-What does this tell us about menopause?
-
-It establishes that menstruation could mark a woman's changing ritual and social position. It does not tell us precisely how every community understood the end of menstruation. We should not assume that the rules governing a menstruating woman were simply reversed once she reached menopause.
-
-The transition beyond menstruation may have carried its own meanings, but those meanings need to be documented rather than invented.
-
-## Women and the World of the Dead
-
-One of the strongest themes in Balkan folk tradition is the association between women and the care of the dead.
-
-In Serbian popular religion, this relationship has been examined by Andja Srdić Srebro in her study *L’au-delà – une sphère féminine: L’autre monde, la mort et la femme dans l’imaginaire et la religion populaires serbes* (2022).
-
-The study describes women's relationship with death as ambivalent. Women were associated with the preparation of the deceased, assistance to bereaved families and the performance of mourning rites. Their familiarity with these responsibilities placed them in a particular relationship with the world of the dead.
-
-The connection was not necessarily one of fear or supernatural power. It was also a matter of ritual responsibility.
-
-In many communities, women maintained the practices through which the dead were washed, dressed, mourned and remembered. They helped give form to the passage between death and burial, and to the continuing relationship between the living and their deceased relatives.
-
-Montenegrin traditions of lamentation provide another example. Women's mourning songs were not merely expressions of private grief. They could preserve family memory, honour the dead and give public form to loss.
-
-In the traditional world represented in Balkan oral epic, lamentation was a recognised female responsibility. The women who performed it held a specific place within the ritual life of the community.
-
-This work brought women into repeated contact with death, but it does not follow that only older or post-menopausal women could perform it. Nor does the evidence establish that menopause itself qualified a woman to handle the dead.
-
-A more defensible interpretation is that women acquired knowledge and experience through their participation in family and community life. As they grew older, they might become custodians of the words, customs and practical knowledge associated with mourning.
-
-Age could deepen that authority without being its sole source.
 
 ## The Older Woman: Knowledge, Memory and Social Position
 
@@ -151,25 +96,8 @@ The wise woman and the witch could sometimes occupy neighbouring imaginative ter
 
 The distinction was often shaped by reputation and circumstance.
 
-## Christianity, Menstrual Restrictions and Local Practice
 
-Christianity did not simply replace local beliefs with a uniform set of rules. In Balkan communities, church teaching, popular religious practice and inherited customs often existed alongside one another.
 
-Menstruation provides a clear example.
-
-Miroslava Malešević's research records women in Orthodox Serbian villages who were prohibited from entering church while menstruating. The restrictions were understood through ideas of ritual impurity and the perceived danger of menstrual blood.
-
-Research on traditional Bulgarian society also examines the influence of Christian interpretations on beliefs about women's blood. Mila Bankova's 2024 study, *“She Will be Unclean as Long as She Has the Discharge!”*, explores how biblical texts and church interpretations contributed to attitudes towards menstruation and the female body.
-
-The study also emphasises that Orthodox positions were not entirely static. Their interpretation and application varied over time.
-
-It is therefore too simple to say that Christianity condemned folk women while village life depended on them. The relationship between institutional religion and local practice was more complicated.
-
-A woman might observe church customs, participate in household rituals, pass on inherited remedies and consult local practitioners without necessarily seeing these activities as contradictory.
-
-Some practices were accepted as ordinary custom. Others were criticised as superstition or condemned as harmful magic. The boundaries were not always clear.
-
-The result was not a clean separation between Christianity and older belief, but a changing religious landscape in which people negotiated the meaning of ritual, purity and protection.
 
 ## What Can We Say About Menopause?
 
@@ -212,9 +140,6 @@ She was a person whose place in the family and community had been shaped by ever
 - **[Menopause in Folk Magic: Power, Fear & the Unnamed Threshold](/menopause-folklore-modern-medicine/)**  
   A wider exploration of menopause, older women, European folk belief and the changing cultural meaning of the female body.
 
-- **[Wormwood in Witchcraft & War](/wormwood-witchcraft-war/)**
-
-- **[Mugwort & Dream Protection in European Folk Magic](/wormwood-lucid-dreaming/)**
 
 ---
 
