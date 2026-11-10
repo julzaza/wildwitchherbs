@@ -2,7 +2,7 @@
 layout: single
 title: "Menopause, Witch Hunts & the Real Pattern of Accusation"
 excerpt: "Witch hunts did not target menopause, but they disproportionately ensnared older, socially unprotected women whose lives no longer fit acceptable female roles."
-description: "A historically grounded examination of age, widowhood, fertility, and social power in European witch trials—separating folklore, fear, and fact."
+description: "A historically grounded examination of age, widowhood, fertility, and social power in European witch trials. Let's separate folklore, fear, and facts."
 categories:
   - folklore-ancestral
   - witchcraft-ritual
@@ -27,9 +27,9 @@ faq:
 ## The Claim That Needs Correction
 
 You will often hear it said:
-> *“Witch hunts targeted menopausal women.”*
+*“Witch hunts targeted menopausal women.”*
 
-This is **not false**, but it is **incomplete** — and often misleading.
+This is **not false**, but it is **incomplete** and often misleading.
 
 The truth is sharper, more uncomfortable, and more revealing.
 
@@ -64,16 +64,16 @@ What placed women at risk was:
 - Economic marginality  
 - Social isolation  
 
-Menopause often *correlated* with these conditions — but it did not cause them.
+Menopause often *correlated* with these conditions, but it did not cause them.
 
 A fertile widow with land could be accused.
 A menopausal woman with strong kin could be safe.
 
-> **Social position, not biology, determined risk.**
+**Social position, not biology, determined risk.**
 
 ---
 
-### **3. Healers and midwives were targeted — but not exclusively**
+### **3. Healers and midwives were targeted, but not exclusively**
 This matters because popular narratives distort it.
 
 - Some midwives were accused  
@@ -138,7 +138,7 @@ It was the **context**.
 
 ---
 
-## Human FAQ
+## FAQ
 
 ### Were young women accused?
 Yes, especially in cases involving sexuality or moral panic — but they were not the majority.
