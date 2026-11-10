@@ -24,8 +24,6 @@ faq_schema: |
       answer: "Blood was believed to create spiritual permeability; women who no longer bled were considered less vulnerable to possession and external forces."
 ---
 
-# Menopause in Balkan Folklore: Bloodless Women & Dangerous Wisdom
-
 In the Balkans, menopause was not invisible.
 
 It was **noticed**, **named**, and quietly **feared**.
