@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Menopause in Balkan Folklore: Blood, Age & the Authority of Older Women"
