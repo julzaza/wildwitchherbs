@@ -242,6 +242,22 @@ Cultural history, family knowledge, traditional practices and personal experienc
 
 The important question is not whether medicine is wrong, but whether a medical explanation is sufficient to describe an entire stage of human life.
 
+## The Wider Cycle: Menstruation, Fertility and Women's Folk Knowledge
+
+Menopause is only one part of a much longer relationship between women, their bodies and the natural world.
+
+Across European folk traditions, menstruation, fertility, pregnancy and the transition into older age were surrounded by customs, plant knowledge and ritual practices. These were not isolated subjects, but interconnected aspects of women's lives.
+
+Menstrual blood carried meanings of fertility, vulnerability and transformation. Plants were gathered for women's health, protective customs accompanied important life transitions, and fertility was sometimes approached through offerings, prayers and household rituals.
+
+These traditions deserve to be explored beyond the final cessation of menstruation.
+
+For a closer look at the relationship between the menstrual cycle and ancestral practice, read **[Fertility Rituals & Menstrual Magic](/folk-fertility-rituals/)**.
+
+For a deeper exploration of historical fertility customs, see **[Folk Fertility Rituals](/fertility-rituals-menstrual-magic/)**.
+
+And for those interested in exploring these traditions through a structured four-month practice, the **[Four-Month Fertility Guide](https://wildwitchherbs.gumroad.com/l/fertility-magic)** brings together folk rituals, herbal traditions and seasonal practices in one illustrated guide.
+
 ## 8. What the Old Stories Leave Behind
 
 The older woman in European folklore is not an uncomplicated symbol of liberation.
