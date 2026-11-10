@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Menopause in Balkan Folklore: Bloodless Women & Dangerous Wisdom"
-excerpt: "In Balkan folklore, menopause was not decline — it was a threshold. Women without blood were feared, respected, and trusted with the most dangerous knowledge."
+excerpt: "In Balkan folklore, menopause was not decline, but a threshold. Women without blood were feared, respected, and trusted with the most dangerous knowledge."
 description: "A Balkan-focused folklore study of menopause, elder women, witchcraft, and social power in South Slavic, Albanian, and regional traditions, based on documented folk beliefs."
 categories:
   - folklore-ancestral
@@ -125,7 +125,7 @@ Christian villages continued relying on elder women for:
 
 Official doctrine condemned them. Daily life depended on them.
 
-This tension never resolved — it merely went underground.
+This tension never resolved, so it merely went underground.
 
 ---
 
