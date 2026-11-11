@@ -119,7 +119,7 @@ In some communities, menstruation was treated as a temporary condition that affe
 
 The distinction between religious doctrine and local custom is important. A rule recorded in one village does not establish what every Christian community believed.
 
-For a closer look at documented Serbian and Bulgarian material, see [Menstrual Blood in Balkan Folklore: Taboos, Magic and Ritual Boundaries](/menstrual-blood-balkan-folklore/).
+For a closer look at documented Serbian and Bulgarian material, see **[Menstrual Blood in Balkan Folklore](/menstrual-blood-balkan-folklore/)**.
 
 That research records particular beliefs about first menstruation, stained cloth, restrictions, washing and sacred space. It is valuable precisely because it identifies its regional evidence rather than claiming to describe all European or Balkan women.
 
@@ -147,7 +147,7 @@ There is no need to invent a universal ancient fear of menstruating women to mak
 
 The historical record is already compelling. It shows that a common human experience has been interpreted in remarkably different ways, and that these interpretations have shaped women's daily lives.
 
-For the wider history of ageing, reproductive life and the changing cultural position of older women, see [Menopause in Folk Magic: Power, Fear and the Unnamed Threshold](/menopause-in-folk-magic/).
+For the wider history of ageing, reproductive life and the changing cultural position of older women, see **[Menopause in Folk Magic](/menopause-in-folk-magic/)**.
 
 ## FAQ
 
