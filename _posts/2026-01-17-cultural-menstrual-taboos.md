@@ -14,6 +14,7 @@ tags:
   - menstrual blood
   - women's history
   - comparative folklore
+    
 faq:
   - question: "Did all traditional cultures consider menstrual blood dangerous?"
     answer: "No. Menstrual beliefs varied widely. Some traditions attached restrictions to menstruation, while others connected it with fertility, life, ritual power or particular social transitions."
@@ -25,6 +26,7 @@ faq:
     answer: "No. Ritual rules, religious interpretations, social customs and medical explanations are different kinds of knowledge and should be examined separately."
   - question: "Were menstrual beliefs the same across Indigenous cultures?"
     answer: "No. Indigenous communities have distinct histories, religious traditions and customs. They should not be grouped into one general account of menstruation."
+    
 ---
 
 Menstruation has never carried one meaning everywhere.
