@@ -123,9 +123,9 @@ Research on Serbian village traditions records restrictions surrounding menstrua
 
 They do not establish a universal belief that menopause brought a woman into a new magical status.
 
-For a closer examination of documented Serbian and Bulgarian material, read [Menstrual Blood in Balkan Folklore: Taboos, Magic and Ritual Boundaries](/menstrual-blood-balkan-folklore/).
+For a closer examination of documented Serbian and Bulgarian material, read [Menstrual Blood in Balkan Folklore](/menstrual-blood-balkan-folklore/).
 
-The wider European history of ageing, menopause and the changing social position of older women is explored in [Menopause in Folk Magic: Power, Fear and the Unnamed Threshold](/menopause-in-folk-magic/).
+The wider European history of ageing, menopause and the changing social position of older women is explored in [Menopause in Folk Magic](/menopause-in-folk-magic/).
 
 ## The older woman was never one figure
 
