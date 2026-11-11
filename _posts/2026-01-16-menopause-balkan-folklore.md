@@ -1,153 +1,133 @@
 ---
 layout: single
 title: "Older Women in Balkan Folklore: Wisdom, Death & the Witch"
-excerpt: "From the women who prepared the dead to the old prophetess-witch, Balkan traditions placed older women at the meeting point of memory, ritual and the unseen."
-description: "Explore the place of older women in Balkan folklore, including female ritual knowledge, mourning customs, death, witch figures and the changing social meaning of age and menopause."
+excerpt: "In Balkan traditions, older women appear as keepers of household knowledge, participants in mourning customs and figures in stories about the unseen. Their roles were never as simple as the wise grandmother or the feared witch."
+description: "Explore older women in Balkan folklore through Serbian mourning customs, female ritual knowledge, folk healing, literary witch figures and the changing meaning of age."
 categories:
   - folklore-ancestral
 tags:
   - balkan folklore
   - older women folklore
+  - serbian folklore
   - south slavic folklore
-  - menopause folklore
-  - wise women
-  - death and mourning
-  - witch folklore
   - montenegrin folklore
-
+  - mourning customs
+  - folk healing
+  - witch folklore
 faq:
-  - question: "What role did older women have in Balkan folklore?"
-    answer: "Older women could be keepers of family knowledge, folk remedies, mourning customs and ritual practices. Their roles varied by community, family position and local tradition."
-  - question: "Were older women associated with death in Serbian folk tradition?"
-    answer: "Research on Serbian popular religion describes women's important roles in washing the dead, assisting bereaved families and performing mourning rites. These responsibilities were not exclusive to post-menopausal women."
-  - question: "Were witches in Balkan folklore usually older women?"
-    answer: "Some literary and folk representations portray witches or prophetesses as old women, but there is no sound basis for claiming that Balkan witches were predominantly post-menopausal."
-  - question: "Did menopause give women special magical powers in Balkan tradition?"
-    answer: "The available evidence does not establish a universal Balkan belief that menopause gave women magical powers. It does show that age, fertility, blood, ritual responsibility and social position carried important meanings."
-
+  - question: "What roles did older women have in Balkan folklore?"
+    answer: "Their roles varied by community. Women could preserve household knowledge, participate in mourning customs, practise healing or appear as figures in stories about supernatural danger."
+  - question: "Were older women responsible for caring for the dead in Serbian tradition?"
+    answer: "Research on Serbian popular religion describes important roles for women in washing the dead, assisting bereaved families and carrying out mourning practices. These responsibilities were not exclusive to post-menopausal women."
+  - question: "Were Balkan witches usually old women?"
+    answer: "Some folk and literary representations portray witches or prophetesses as old women, but this does not establish that witches were generally older or post-menopausal."
+  - question: "Did menopause give women magical powers in Balkan tradition?"
+    answer: "The available evidence does not establish a universal Balkan belief that menopause granted magical power. Age, ritual responsibility, blood, healing and social position had different meanings in different communities."
 ---
 
-The older woman occupies an unusually complex place in the folklore of the Balkans.
+The older woman occupies a complicated place in the folklore of the Balkans.
 
 She may be the keeper of family memory, the woman who knows the words spoken over the dead, the neighbour consulted when a child is ill, or the person who remembers which custom must be observed at a particular moment. In stories, she may also appear as a prophetess, a witch or a figure whose knowledge makes others uneasy.
 
 These images are not interchangeable. They emerge from different traditions and tell us different things about the position of women in the communities that preserved them.
 
-Yet they share a common setting: a world in which knowledge was carried through families, ritual responsibilities shaped everyday life, and the boundaries between the living and the dead were marked by custom.
+Menopause belongs within this wider history of women's lives. It should not, however, be mistaken for a single documented passage into supernatural power. The evidence is stronger for women's ritual responsibilities, beliefs about menstruation, the symbolism of age and the social position of older women than it is for a distinct Balkan doctrine of menopause.
 
-Menopause belongs within this wider history of women's lives. It should not, however, be mistaken for a single documented passage into supernatural power. The historical evidence is stronger for women's ritual responsibilities, beliefs about menstruation, the symbolism of age and the social position of older women than it is for a distinct Balkan doctrine of menopause.
+To understand the older woman in Balkan folklore, it is necessary to look beyond the modern image of the wise crone and return to the customs, stories and relationships from which these figures emerged.
 
-To understand the older woman in Balkan folklore, it is necessary to look beyond the modern image of the wise crone and return to the customs, stories and social relationships from which these figures emerged.
-
-## A Region of Many Traditions
+## A region of many traditions
 
 There is no single Balkan folklore tradition. Serbian, Montenegrin, Bulgarian, Albanian, Macedonian, Romanian and other communities developed their own customs, stories and religious practices. Beliefs also differed between villages, generations and religious communities.
 
 Orthodox Christian practice, household custom and local ideas about spirits, illness and protection could coexist. They did not always form a consistent system.
 
-For this reason, claims about the role of older women need to be tied to particular sources and places. Research on Serbian popular religion, for example, offers valuable evidence about women's relationship with death and mourning. Montenegrin literature and oral tradition preserve striking images of older female figures. Studies of Serbian folk healing reveal how knowledge was transmitted and maintained by practitioners.
+For this reason, a Serbian village custom should not automatically be described as Montenegrin or Bulgarian. Nor should a literary image be treated as evidence of what women in every community did.
 
-These sources do not describe every Balkan woman. They offer something more useful: particular examples of how women's knowledge and social position were understood.
+This article focuses particularly on Serbian research and literary material, while recognising that these sources cannot stand for the entire peninsula.
 
-## The Woman Who Knew the Customs
+## Women, ritual knowledge and the household
 
-In rural communities, much practical knowledge was transmitted orally.
+In communities where practical knowledge was transmitted through families, women could become important custodians of custom.
 
-Women learned from mothers, grandmothers, neighbours and other experienced members of the household. Knowledge of childbirth, food preservation, household remedies, plants, animal care, mourning and seasonal customs was acquired through observation and repeated practice.
+Their knowledge might include the preparation of food, care of children, household remedies, the treatment of illness, the observance of religious days and the customs surrounding birth and death.
 
-Much of this knowledge would not necessarily have been described as magic. It belonged to the organisation of ordinary life. Yet its importance could give the woman who possessed it considerable influence.
+Some of this knowledge was learned through daily work. Some was transmitted orally. Some involved words, prayers or actions believed to protect a person or household.
 
-An older woman might remember the words used in a blessing, know how a household prepared for a funeral, or understand the customary response to illness or misfortune. She might know which plants were gathered at a particular season, how a remedy was prepared, or who in the village was known for treating a particular complaint.
+Older women could be important because they had lived through more of these events and had learned from earlier generations. But age alone did not make someone a ritual authority. Family position, reputation, experience and local relationships mattered.
 
-Such knowledge was not automatically respected. A woman's standing depended on her family, reputation, economic circumstances and relationships with others. A respected grandmother and a socially isolated widow could experience old age very differently.
+The phrase *wise woman* can be useful, but it can also conceal the variety of women's actual roles. A woman who knew how to care for the dying was not necessarily a healer. A woman who performed a protective custom was not necessarily a specialist. A woman who was portrayed as a witch in a story was not necessarily based on a real ritual practitioner.
 
-Still, age could bring a kind of authority that was difficult to acquire in youth: the authority of having witnessed, remembered and practised the customs of a community over many years.
+The distinctions matter if we want to understand women's lives rather than simply repeat familiar archetypes.
 
-## Women and the World of the Dead
+## Women and the world of the dead
 
-One of the most revealing aspects of Serbian popular religion is the close, ambivalent relationship between women and the dead.
+One of the most revealing areas of Serbian research concerns women's roles in death and mourning.
 
-In her 2022 study, *L’au-delà – une sphère féminine: L’autre monde, la mort et la femme dans l’imaginaire et la religion populaires serbes*, Andja Srdić Srebro examines the place of women in popular Serbian understandings of death and the afterlife.
+In her study of the place of women and death in Serbian popular religion, Andja Srdić Srebro examines the relationship between women, the otherworld and popular religious imagination.
 
-She describes women as having important responsibilities in several funeral and mourning practices. In many cases, it was women who washed and prepared the deceased, assisted bereaved families and carried out rites of mourning.
+Women's responsibilities could include washing the dead, preparing the body, assisting the bereaved and observing customs connected with mourning. These actions placed women in close contact with the practical and ritual boundaries between the living and the dead.
 
-These responsibilities made women more familiar with the practical and ritual dimensions of death. Their relationship with the deceased was not simply one of grief. It was also expressed through the customs that accompanied the dead and maintained the relationship between the living and those who had passed away.
+Such work was not necessarily understood as supernatural. It was part of the social and religious responsibilities through which a community responded to death.
 
-This association was ambivalent. Women could be understood as close to the world of the dead, while also being essential to the care and remembrance of the deceased.
+The distinction is important. A woman who prepared the dead was not thereby a witch or a medium. Her role could be practical, communal and deeply significant without requiring an explanation based on magical power.
 
-It is important not to turn this into a claim that only older women handled the dead. The responsibilities described in the research were not necessarily restricted by age or menopause. A woman's role could depend on kinship, household custom and the particular requirements of the funeral.
+The association between women and death also appears in stories and religious imagination. Yet the existence of a symbolic association does not prove that all women, or all older women, held the same ritual position.
 
-Nevertheless, older women could acquire considerable experience of these rites over a lifetime. They might become the people who instructed younger relatives in the proper customs and remembered what needed to be done.
+The evidence points instead to particular responsibilities within particular communities.
 
-The knowledge was practical, but it also carried emotional and religious weight.
+## The folk healer and the charmer
 
-## Mourning as Women's Knowledge
+Women also appear in research on Serbian folk healing and charming.
 
-In South Slavic traditions, women's mourning could take a highly formalised form.
+Sonja Petrović's study of charmers and the folk practice of charming in Serbia examines a tradition in which words and ritual actions were used to address particular problems.
 
-Lamentation was not merely the expression of private sorrow. It could give public language to grief, preserve the memory of the dead and articulate the obligations of the living towards the deceased.
+A *bajalica* or charmer was not simply a person who knew plants. Charming could involve spoken formulas, prescribed actions and a recognised relationship between practitioner and person seeking help.
 
-A lament might recall a person's qualities, describe the loss suffered by the family or speak directly to the dead as if the relationship continued beyond the grave.
+This is an important distinction for a site concerned with herbal traditions. Folk medicine, household remedies, ritual protection and charming could overlap, but they were not identical practices.
 
-In a society where oral tradition carried much of a family's memory, the ability to perform and remember these forms of mourning was significant.
+The person who knew a plant remedy might not perform charms. A charmer might work primarily through words and ritual actions. A woman responsible for household customs might never have been considered a specialist at all.
 
-Women were not simply present at funerals. In many documented traditions, they were among the people who gave mourning its words and structure.
+The category of the wise woman becomes more interesting when these distinctions are preserved. It allows us to see the different forms of knowledge women carried without turning them into one timeless figure.
 
-The association between women and death should therefore be understood through both ritual responsibility and popular imagination. It does not require the assumption that women possessed a special supernatural power because of their age.
+## The old prophetess and witch in literature
 
-## The Old Woman and the Witch
+The older woman also appears in South Slavic literary tradition.
 
-The older woman also appears in Balkan literature and folklore as a figure associated with witchcraft, prophecy and dangerous knowledge.
+A particularly striking example is the figure of the old prophetess-witch in Petar II Petrović-Njegoš's *The Mountain Wreath* (*Gorski vijenac*).
 
-In South Slavic traditions, the word *vještica* is commonly associated with a witch. Other female figures, including prophetic or supernatural women, belong to different local narratives and should not all be treated as the same character.
+The work is a literary text, not an ethnographic record. Its characters and images are shaped by poetry, political meaning and the dramatic world of the poem.
 
-An especially striking example appears in Petar II Petrović Njegoš's nineteenth-century work *The Mountain Wreath* (*Gorski vijenac*).
+The old woman figure is therefore valuable for understanding literary representations of age, prophecy and supernatural knowledge. It cannot, on its own, establish what ordinary Montenegrin women believed or how older women were treated in everyday life.
 
-The poem includes an old woman from Bar who appears before a gathering of Montenegrin men as a prophetess-witch. She claims to possess knowledge of witchcraft, but the episode becomes a political deception: she has been sent to confuse the men.
+The distinction between literature and ethnography is essential. A literary witch can preserve cultural anxieties and familiar imagery, but she is not direct evidence of a universal folk practice.
 
-The figure is an outsider, and her age and position are used to shape how the men interpret her. She is treated as suspicious and potentially dangerous, yet also as vulnerable to the threats of others.
+For the same reason, the old prophetess should not be used as proof that menopause was believed to confer supernatural powers.
 
-The scene is a literary construction, not an ethnographic record of how all Montenegrin communities understood older women. Its value lies in what it reveals about the imagination of the period: an old woman could be represented as occupying an uncertain position between the familiar social world and the supernatural.
+## The witch and the limits of the evidence
 
-The episode also reflects the gendered nature of the poem. The gathering is dominated by men, and the old woman becomes a figure through whom questions of deception, authority and belief are explored.
+The witch is one of the most recognisable figures associated with older women in European and Balkan storytelling. But the image has to be handled carefully.
 
-She is not a simple portrait of a village healer or wise woman. She is a character shaped by the political and literary purposes of the work.
+A story about an old witch does not establish the age of real women accused of witchcraft. A literary character does not prove that a particular ritual was widely practised. Nor can the presence of an old woman in a supernatural tale tell us whether the character was understood as menopausal.
 
-This distinction matters. Folklore and literature can preserve powerful images of women, but those images do not always describe the lives of the women who inspired them.
+Historical witchcraft accusations and folk representations of witches are different bodies of evidence.
 
-## The Healer and the Keeper of Hidden Knowledge
+Where a particular trial record exists, it can tell us about the accusation, the people involved and the circumstances of the case. A folk narrative can tell us about the images and anxieties that circulated in a community. Neither should be used to fill gaps in the other.
 
-The figure of the folk healer provides another perspective on women's authority.
+The figure of the witch may reveal fears surrounding women's knowledge, independence, speech or influence. But it is not a reliable portrait of every woman who practised healing or carried ritual knowledge.
 
-In Serbia, traditional healing and charming practices were transmitted through personal instruction, family relationships and local networks. Some practitioners were known for their ability to perform charms, diagnose misfortune or carry out protective and healing rituals.
+## Menstruation, age and the changing body
 
-Sonja Petrović's study, *Charmers on the Folk Practice of Charming in Serbia* (2018), draws on field interviews and written sources to examine the role of these practitioners. It discusses how magical knowledge was acquired, protected and passed on, and how charmers understood their relationships with patients and official medicine.
+Menstrual beliefs provide another way of understanding how women's bodies were placed within ritual and social life.
 
-The study is useful because it looks beyond the charm itself and considers the person who performs it. Knowledge was not simply a collection of words or recipes. It was also a social responsibility, a form of expertise and, in some cases, a source of personal standing.
+Research on Serbian village traditions records restrictions surrounding menstruation, the first menstrual blood and the return to ordinary activities after bleeding. These customs show that the body could be understood through ideas about vulnerability, fertility and ritual boundaries.
 
-Not all charmers were women, and not all practitioners were old. But the study helps explain why an experienced woman with a reputation for healing or ritual knowledge might be consulted when ordinary remedies seemed insufficient.
+They do not establish a universal belief that menopause brought a woman into a new magical status.
 
-It also shows that folk practice was not frozen in an ancient past. Practitioners adapted, combined methods and negotiated their place alongside changing medical and social institutions.
+For a closer examination of documented Serbian and Bulgarian material, read [Menstrual Blood in Balkan Folklore: Taboos, Magic and Ritual Boundaries](/menstrual-blood-balkan-folklore/).
 
-## Age, Menstruation and the Question of Menopause
+The wider European history of ageing, menopause and the changing social position of older women is explored in [Menopause in Folk Magic: Power, Fear and the Unnamed Threshold](/menopause-in-folk-magic/).
 
-The female life cycle carried social and ritual meanings in many Balkan communities.
-
-Menstruation, marriage, pregnancy, childbirth and motherhood could all affect how a woman was treated and what was expected of her. Ethnographic research from Serbia and Bulgaria records beliefs about menstrual blood, fertility and ritual restrictions.
-
-These beliefs are important for understanding the cultural setting in which menopause occurred. They show that women's bodies were not regarded as purely private or biological matters. They were connected to the household, family continuity, religious practice and the perceived order of the community.
-
-However, the evidence does not establish a single Balkan belief that a woman became spiritually protected, magically powerful or immune to supernatural harm when menstruation ended.
-
-It is tempting to imagine menopause as a passage from reproductive vulnerability into a new state of authority. That is an evocative interpretation, but it should not be presented as a documented universal tradition.
-
-A more careful reading is that a woman's social position could change as she moved through different stages of life. Her responsibilities, family relationships and accumulated knowledge might change with age. Menopause was one part of that larger transition, not necessarily its sole cause.
-
-For a closer examination of menstrual blood, its ritual meanings and the customs recorded in Serbian and Bulgarian research, see **[Menstrual Blood in Balkan Folklore: Taboos, Magic & Ritual Boundaries](/menstrual-blood-balkan-folklore/)**.
-
-For the wider European context of menopause, older women and folk belief, continue to **[Menopause in Folk Magic: Power, Fear & the Unnamed Threshold](/menopause-in-folk-magic/)**.
-
-## The Older Woman Was Never One Figure
+## The older woman was never one figure
 
 The older woman in Balkan folklore cannot be reduced to the wise grandmother or the feared witch.
 
@@ -159,20 +139,28 @@ The most interesting point is not that age automatically made a woman powerful. 
 
 The old stories preserve both sides of this position: the woman whose knowledge was sought, and the woman whose knowledge was feared.
 
----
+## FAQ
 
-## Related Posts
+### What role did older women have in Balkan folklore?
 
-- **[Menopause in Folk Magic](/menopause-in-folk-magic/)**
-- **[Menstrual Blood in Balkan Folklore](/menstrual-blood-balkan-folklore/)**
+Their roles varied. Women could preserve household knowledge, participate in mourning customs, practise healing or appear as figures in stories about supernatural danger.
 
----
+### Were older women responsible for caring for the dead in Serbian tradition?
+
+Research on Serbian popular religion describes important roles for women in washing the dead, assisting bereaved families and carrying out mourning practices. These responsibilities were not exclusive to post-menopausal women.
+
+### Were witches in Balkan folklore usually old women?
+
+Some literary and folk representations portray witches or prophetesses as old women. This does not establish that witches were generally older or post-menopausal.
+
+### Did menopause give women magical powers in Balkan tradition?
+
+The available evidence does not establish a universal Balkan belief that menopause granted magical power. Age, ritual responsibility, blood, healing and social position carried different meanings in different communities.
 
 ## Further Reading
 
 - Andja Srdić Srebro, [“L’au-delà – une sphère féminine: L’autre monde, la mort et la femme dans l’imaginaire et la religion populaires serbes”](https://oskar-bordeaux.fr/handle/20.500.12278/199904), *Études balkaniques*, vol. 26, no. 1 (2022), pp. 41–54.
 - Sonja Petrović, [“Charmers on the Folk Practice of Charming in Serbia”](https://doi.org/10.7592/Incantatio2018_7_Petrović), *Incantatio* 7 (2018).
 - Margaret Beissinger, Jane Tylus and Susanne Wofford (eds.), [*Epic Traditions in the Contemporary World: The Poetics of Community*](https://publishing.cdlib.org/ucpressebooks/public/book/epic-traditions-in-the-contemporary-world-the-poetics-of-community.html), University of California Press (1999). Includes discussion of the old prophetess-witch in Njegoš's *The Mountain Wreath*.
-
 
 *This article distinguishes documented ethnographic material and literary representations from broader interpretation. The traditions discussed belong to particular communities and historical contexts, not to every Balkan people or generation.*
