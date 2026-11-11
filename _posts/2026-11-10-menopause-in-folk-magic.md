@@ -85,7 +85,7 @@ Nevertheless, stories about witches often expressed anxieties about influence th
 
 These are cultural associations, not proof that herbal knowledge itself caused persecution.
 
-For a closer examination of the historical evidence, see [Menopause, Witch Hunts and the Pattern of Accusation](/menopause-witch-hunts/).
+For a closer examination of the historical evidence, see [Menopause, Witch Hunts and the Pattern of Accusation](/menopause-and-witch-hunts/).
 
 ## Menstruation, blood and the meaning of transition
 
