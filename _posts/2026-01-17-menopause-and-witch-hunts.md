@@ -156,4 +156,6 @@ There is no historical evidence that menopause caused the witch hunts. The perse
 
 ## Related Posts
 
-- 
+- **[Cultural Menstrual Blood Taboos](/cultural-menstrual-taboos/)**
+- **[Menopause in Folk Magic](/menopause-in-folk-magic/)**
+- **[Menstrual Blood in Balkan Folklore](/menstrual-blood-balkan-folklore/)**
