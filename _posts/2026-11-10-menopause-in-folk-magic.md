@@ -99,7 +99,7 @@ The end of menstruation could therefore have symbolic significance, but the evid
 
 The cessation of menstruation marked the end of one reproductive phase. It did not erase a woman's sexuality, identity, knowledge or place in her community.
 
-For regional evidence, see [Menstrual Blood in Balkan Folklore: Taboos, Magic and Ritual Boundaries](/menstrual-blood-balkan-folklore/).
+For regional evidence, see [Menstrual Blood in Balkan Folklore](/menstrual-blood-balkan-folklore/).
 
 ## The crone: historical figure or modern archetype?
 
@@ -141,9 +141,9 @@ Menstruation, fertility, pregnancy, childbirth and ageing were surrounded by cus
 
 These subjects are connected, but they should not be collapsed into a single system of ancient female wisdom.
 
-For the wider history of older women in a specific regional setting, read [Older Women in Balkan Folklore: Wisdom, Death and the Witch](/menopause-balkan-folklore/).
+For the wider history of older women in a specific regional setting, read [Older Women in Balkan Folklore](/menopause-balkan-folklore/).
 
-For the relationship between the menstrual cycle and ancestral practice, see [Fertility Rituals and Menstrual Magic](/fertility-rituals-menstrual-magic/) and [Folk Fertility Rituals](/folk-fertility-rituals/).
+For the relationship between the menstrual cycle and ancestral practice, see [Fertility Ritual: Menstrual Magic](/fertility-rituals-menstrual-magic/) and [Folk Fertility Rituals](/folk-fertility-rituals/).
 
 ## What the old stories leave behind
 
