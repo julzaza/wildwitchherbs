@@ -157,6 +157,12 @@ Some literary and folk representations portray witches or prophetesses as old wo
 
 The available evidence does not establish a universal Balkan belief that menopause granted magical power. Age, ritual responsibility, blood, healing and social position carried different meanings in different communities.
 
+## Related Posts
+
+- **[Menopause in Folk Magic](/menopause-in-folk-magic/)**
+- **[Menopause and Witch Hunts](/menopause-and-witch-hunts/)**
+- **[Menstrual Blood in Balkan Folklore](/menstrual-blood-balkan-folklore/)**
+  
 ## Further Reading
 
 - Andja Srdić Srebro, [“L’au-delà – une sphère féminine: L’autre monde, la mort et la femme dans l’imaginaire et la religion populaires serbes”](https://oskar-bordeaux.fr/handle/20.500.12278/199904), *Études balkaniques*, vol. 26, no. 1 (2022), pp. 41–54.
