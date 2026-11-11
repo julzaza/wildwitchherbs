@@ -147,8 +147,6 @@ There is no need to invent a universal ancient fear of menstruating women to mak
 
 The historical record is already compelling. It shows that a common human experience has been interpreted in remarkably different ways, and that these interpretations have shaped women's daily lives.
 
-For a more focused regional study, read [Menstrual Blood in Balkan Folklore: Taboos, Magic and Ritual Boundaries](/menstrual-blood-balkan-folklore/).
-
 For the wider history of ageing, reproductive life and the changing cultural position of older women, see [Menopause in Folk Magic: Power, Fear and the Unnamed Threshold](/menopause-in-folk-magic/).
 
 ## FAQ
@@ -173,7 +171,6 @@ No. Ritual rules, religious interpretations, social customs and medical explanat
 
 No. Indigenous communities have distinct histories, religious traditions and customs. They should not be grouped into one general account of menstruation.
 
-## Further Reading
+## Related Posts
 
-*This article should be expanded with named, community-specific sources before publication of detailed sections on South Asia, Japan, Indigenous communities or ancient Mesopotamia. Do not add a general reference list that gives the impression that every cultural example has been verified when the evidence has not yet been identified.*
-
+- 
