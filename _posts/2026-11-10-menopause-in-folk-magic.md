@@ -14,6 +14,7 @@ tags:
   - european folk belief
   - history of witchcraft
   - women's history
+    
 faq:
   - question: "Did traditional European cultures celebrate menopause?"
     answer: "There was no single European tradition of celebrating menopause. The end of menstruation was generally understood within wider ideas about ageing, family and social position, which varied between communities."
