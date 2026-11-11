@@ -185,6 +185,16 @@ The familiar framework is a modern spiritual interpretation. It should not be tr
 
 There is no evidence for a universal historical belief that menopause itself granted spiritual power. Some traditions associated older women with accumulated knowledge or supernatural influence, but interpretations varied.
 
+---
+
+## Related Posts
+
+- **[Cultural Menstrual Blood Taboos](/cultural-menstrual-taboos/)**
+- **[Menopause and Witch Hunts](/menopause-and-witch-hunts/)**
+- **[Menstrual Blood in Balkan Folklore](/menstrual-blood-balkan-folklore/)**
+
+---
+
 ## Further Reading
 
 - Alison M. Downham Moore, *The French Invention of Menopause and the Medicalisation of Women's Ageing: A History*. Oxford University Press.
