@@ -180,9 +180,9 @@ Yet they also show that menstrual blood was rarely understood as an insignifican
 
 The folklore preserves a world in which blood was not merely something a woman lost each month. It was something people interpreted, feared, concealed and sometimes sought to use.
 
-For a related exploration of age, women's ritual knowledge, mourning and the figure of the witch, read [Older Women in Balkan Folklore: Wisdom, Death and the Witch](/menopause-balkan-folklore/).
+For a related exploration of age, women's ritual knowledge, mourning and the figure of the witch, read [Older Women in Balkan Folklore](/menopause-balkan-folklore/).
 
-For the wider European history of menopause and the changing cultural meaning of women's bodies, see [Menopause in Folk Magic: Power, Fear and the Unnamed Threshold](/menopause-in-folk-magic/).
+For the wider European history of menopause and the changing cultural meaning of women's bodies, see [Menopause in Folk Magic](/menopause-in-folk-magic/).
 
 ## FAQ
 
