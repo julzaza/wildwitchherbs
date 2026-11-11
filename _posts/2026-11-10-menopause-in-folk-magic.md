@@ -99,8 +99,6 @@ The end of menstruation could therefore have symbolic significance, but the evid
 
 The cessation of menstruation marked the end of one reproductive phase. It did not erase a woman's sexuality, identity, knowledge or place in her community.
 
-For regional evidence, see [Menstrual Blood in Balkan Folklore](/menstrual-blood-balkan-folklore/).
-
 ## The crone: historical figure or modern archetype?
 
 The crone has become a familiar figure in modern witchcraft and contemporary pagan spirituality. She is often presented as the third stage of the Triple Goddess:
