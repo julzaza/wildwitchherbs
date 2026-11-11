@@ -110,7 +110,7 @@ It is possible to explore the cultural symbolism of ageing, fertility and women'
 
 Menopause is a biological transition. Witchcraft accusation was a social and legal process shaped by beliefs, relationships and institutions. A connection between the two must be demonstrated in specific evidence, not inferred from the fact that some accused women were older.
 
-The wider cultural history of menopause and the older woman is explored in [Menopause in Folk Magic: Power, Fear and the Unnamed Threshold](/menopause-in-folk-magic/).
+The wider cultural history of menopause and the older woman is explored in [Menopause in Folk Magic](/menopause-in-folk-magic/).
 
 ## The old woman in the imagination of the witch
 
@@ -154,7 +154,6 @@ It is misleading to assume that healers and midwives were routinely targeted bec
 
 There is no historical evidence that menopause caused the witch hunts. The persecutions developed through particular legal, religious and social conditions.
 
-## Further Reading
+## Related Posts
 
-*The regional and chronological limits of the evidence matter. Before adding numerical claims about the age, marital status or occupation of accused women, cite a study that identifies its specific trial records and methodology. Do not use a figure for one town or jurisdiction as a European-wide average.*
-
+- 
