@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Menopause, Witch Hunts & the Real Pattern of Accusation"
-permalink: /menopause-witch-hunts/
+
 excerpt: "Older women appear in the history and imagery of European witchcraft, but menopause was not the cause of the witch hunts. The records reveal a more complicated pattern of accusation, conflict and vulnerability."
 description: "Examine the historical pattern of women accused of witchcraft in Europe, including age, widowhood, social vulnerability, neighbourhood conflict and the limits of claims linking witch trials to menopause."
 categories:
