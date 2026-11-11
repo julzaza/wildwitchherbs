@@ -206,7 +206,6 @@ Some Orthodox Serbian village customs treated menstruation as a temporary state 
 
 - **[Cultural Menstrual Blood Taboos](/cultural-menstrual-taboos/)**
 - **[Menopause in Folk Magic](/menopause-in-folk-magic/)**
-- **[Menstrual Blood in Balkan Folklore](/menstrual-blood-balkan-folklore/)**
 - **[Menopause in Balkan Folklore](/menopause-balkan-folklore/)**
 
 ## Further Reading
