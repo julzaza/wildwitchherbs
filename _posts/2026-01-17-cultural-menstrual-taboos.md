@@ -173,4 +173,6 @@ No. Indigenous communities have distinct histories, religious traditions and cus
 
 ## Related Posts
 
-- 
+- **[Menopause in Folk Magic](/menopause-in-folk-magic/)**
+- **[Menstrual Blood in Balkan Folklore](/menstrual-blood-balkan-folklore/)**
+- **[Menstrual Blood Magic: Fertility Ritual](/fertility-rituals-menstrual-magic/)**
