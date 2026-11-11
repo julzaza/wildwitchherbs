@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Cultural Menstrual Taboos: Blood, Power & the Fear of Threshold Women"
-permalink: /cultural-menstrual-taboos/
+
 excerpt: "Menstrual customs across the world do not reveal one universal fear of female blood. They show different ways communities have understood the body, fertility, ritual boundaries and social life."
 description: "A comparative exploration of menstrual beliefs and restrictions across selected cultural settings, examining ritual purity, seclusion, fertility and the different meanings attached to menstrual blood."
 categories:
