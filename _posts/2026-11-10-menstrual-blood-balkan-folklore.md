@@ -202,6 +202,13 @@ In the Serbian villages documented by Malešević, menstruating girls and women 
 
 Some Orthodox Serbian village customs treated menstruation as a temporary state of ritual impurity. Local practice and religious interpretation were not identical everywhere.
 
+## Related Posts
+
+- **[Cultural Menstrual Blood Taboos](/cultural-menstrual-taboos/)**
+- **[Menopause in Folk Magic](/menopause-in-folk-magic/)**
+- **[Menstrual Blood in Balkan Folklore](/menstrual-blood-balkan-folklore/)**
+- **[Menopause in Balkan Folklore](/menopause-balkan-folklore/)**
+
 ## Further Reading
 
 - Miroslava Malešević, [“Sexual Maturation of Girls: Puberty Rites in a Traditional Serbian Village”](https://biblioteca-digitala.ro/reviste/carte/ISSEE/etudes-et-documents-balkaniques-et-mediterraneens_15_1990.pdf), *Études et Documents Balkaniques et Méditerranéens* (1990), pp. 82–87.
