@@ -25,7 +25,7 @@ faq:
     answer: "The available evidence does not establish a universal Balkan belief that menopause granted magical power. Age, ritual responsibility, blood, healing and social position had different meanings in different communities."
 ---
 
-The older woman occupies a complicated place in the folklore of the Balkans.
+The older woman occupies a complicated place in Balkan folklore.
 
 She may be the keeper of family memory, the woman who knows the words spoken over the dead, the neighbour consulted when a child is ill, or the person who remembers which custom must be observed at a particular moment. In stories, she may also appear as a prophetess, a witch or a figure whose knowledge makes others uneasy.
 
@@ -37,11 +37,11 @@ To understand the older woman in Balkan folklore, it is necessary to look beyond
 
 ## A region of many traditions
 
-There is no single Balkan folklore tradition. Serbian, Montenegrin, Bulgarian, Albanian, Macedonian, Romanian and other communities developed their own customs, stories and religious practices. Beliefs also differed between villages, generations and religious communities.
+There is no single Balkan folklore tradition. Communities developed their own customs, stories and religious practices. Beliefs also differed between villages, generations and religious communities.
 
 Orthodox Christian practice, household custom and local ideas about spirits, illness and protection could coexist. They did not always form a consistent system.
 
-For this reason, a Serbian village custom should not automatically be described as Montenegrin or Bulgarian. Nor should a literary image be treated as evidence of what women in every community did.
+For this reason, a Serbian village custom, for example, should not automatically be described as Bosnian or Bulgarian. Nor should a literary image be treated as evidence of what women in every community did.
 
 This article focuses particularly on Serbian research and literary material, while recognising that these sources cannot stand for the entire peninsula.
 
