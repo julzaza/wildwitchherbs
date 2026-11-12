@@ -7,6 +7,12 @@ date: 2025-09-22
 categories: [natural-healing]
 tags: [winter herbs, cold prevention, folk remedies, herbal recipes, witchcraft, seasonal herbalism]
 
+image_mobile: /assets/images/heroes/winter-herbal-remedies-cold-prevention/800x1000px-snowy-winter-mountain-landscape-with-pine-forest.webp
+image_desktop_1280: /assets/images/heroes/winter-herbal-remedies-cold-prevention/1280x400px-snowy-winter-mountain-landscape-with-pine-forest.webp
+image_alt: "winter forest and mountains"
+teaser: /assets/images/heroes/winter-herbal-remedies-cold-prevention/800x1000px-snowy-winter-mountain-landscape-with-pine-forest.webp
+featured: true
+
 faq:
   - question: "Which herbs are best for winter cold prevention?"
     answer: "Nettle, yarrow, rosemary, thyme, elderflower, sage, and linden were traditionally used across Europe to support immunity, warmth, and vitality during the cold season."
