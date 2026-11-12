@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Fertility Magic: The Four-Month Folk System"
+title: "Fertility Magic: The 4-Month Folk System"
 permalink: /fertility-magic-4-month-folk-system/
 excerpt: "A 92-page folk fertility guide exploring European botanical traditions, ancestral rituals, menstrual offerings and a four-month cycle of Opening, Warming, Calling and Sustaining."
 description: "Explore European, Balkan and Slavic-inspired fertility folklore, traditional plant symbolism and practical rituals in this 92-page, four-month folk guide."
