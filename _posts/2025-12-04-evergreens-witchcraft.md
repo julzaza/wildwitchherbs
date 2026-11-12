@@ -32,8 +32,14 @@ keywords:
   - juniper rituals
   - pre-christian evergreen traditions
 
-search: false
-author_profile: false
+featured: true
+author: "Wild Witch Herbs"
+
+image_mobile: /assets/images/heroes/evergreens-witchcraft/800x1000px-coniferous-tree-branch.webp
+image_desktop_1280: /assets/images/heroes/evergreens-witchcraft/1280x400px-coniferous-tree-branch.webp
+image_alt: "coniferous tree branch closeup"
+hero_overlay_opacity: 0
+teaser: /assets/images/heroes/evergreens-witchcraft/800x1000px-coniferous-tree-branch.webp
 
 faq:
   - question: "How did witches use evergreen trees before Christmas existed?"
