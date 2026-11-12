@@ -55,7 +55,7 @@ I created this guide to bring these traditions together into one carefully struc
 <p>
   <a href="https://wildwitchherbs.gumroad.com/l/fertility-magic"
      style="display: inline-block; padding: 12px 24px; background: #eae5d9; color: #394b3c; border: 1px solid #b9b09e; border-radius: 2px; text-decoration: none; font-family: Georgia, serif; font-size: 16px;">
-    EXPLORE THE FULL GUIDE
+    → EXPLORE THE FULL GUIDE
   </a>
 </p>
 
