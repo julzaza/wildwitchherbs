@@ -232,7 +232,36 @@ These practices can be approached today as rituals of intention, reflection, and
 
 ---
 
-## A 4-Month Fertility Preparation Tradition
+## A 4-Month Journey of Fertility Preparation
+
+In many traditional approaches to fertility, preparation was understood as something gradual, woven into the rhythms of the body, the household and the changing seasons. It was not always a matter of performing a single ritual and waiting for a result.
+
+Inspired by this older understanding, I developed **Folk Fertility Magic: A 4-Month Ritual Guide**, a structured journey drawing on European folk traditions, with a particular interest in Balkan and Slavic ancestral practices.
+
+The four months follow a sequence of preparation:
+
+**Month 1: Opening and Cleansing**  
+Practices centred on clearing, beginnings and preparing the way.
+
+**Month 2: Warming and Nourishing**  
+Herbal traditions, hearth symbolism and rituals associated with warmth and nourishment.
+
+**Month 3: Calling and Blessing**  
+Ancestor petitions, offerings, spring water and traditional symbols of fertility and abundance.
+
+**Month 4: Sustaining and Trusting**  
+Protective charms, continued observances and practices of patience and quiet trust.
+
+The 95-page guide brings together guided rituals, traditional herbal symbolism, tea blend recipes, ancestral practices, womb-focused ceremonies and printable working pages.
+
+It is designed as a complete four-month experience rather than a collection of unrelated fertility spells. Each stage builds on the previous one, giving the practices a shared rhythm and structure.
+
+**Explore the complete guide: [Folk Fertility Magic: The 4-Month Ritual Guide](https://wildwitchherbs.gumroad.com/l/fertility-magic)**
+
+*A contemporary ritual guide inspired by historical European folk traditions. These practices are spiritual and cultural in nature, not medical fertility treatments or a substitute for medical advice.*
+
+
+
 
 Inspired by these older ideas of gradual preparation, I created a four-month fertility journey that follows the traditional belief that important transformations need time.
 
