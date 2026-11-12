@@ -14,6 +14,13 @@ tags:
   - perchta
   - ancestral-rites
   - european-folklore
+
+image_mobile: /assets/images/heroes/twelve-nights-witchcraft/800x1000px-winter-tree-field-day.jpg
+image_desktop_1280: /assets/images/heroes/twelve-nights-witchcraft/1280x400px-winter-tree-field-day.jpg
+image_alt: "winter trees with snow in the field"
+teaser: /assets/images/heroes/twelve-nights-witchcraft/800x1000px-winter-tree-field-day.jpg
+featured: true
+
 faq:
   - question: "What are the Twelve Nights in European folklore?"
     answer: "The Twelve Nights are the liminal period between Christmas and Epiphany, when the boundaries between the living and spirit worlds were believed to thin. During this time, wandering spirits, ancestral forces, and the Wild Hunt were thought to move freely, and witches performed protection, divination, and household rituals."
