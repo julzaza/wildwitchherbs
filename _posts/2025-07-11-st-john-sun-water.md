@@ -21,7 +21,7 @@ image_mobile: /assets/images/heroes/st-johns-wort-sun-water/800x100px-st-johns-w
 image_desktop_1280: /assets/images/heroes/st-johns-wort-sun-water/1280x400px-st-johns-wort.webp
 image_alt: "St. John's Wort Flower"
 teaser: /assets/images/heroes/st-johns-wort-sun-water/800x100px-st-johns-wort.webp
-featured: true
+
 
 faq:
   - question: "Is St. John’s Wort safe to use in sun water?"
