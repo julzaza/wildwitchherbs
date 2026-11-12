@@ -52,7 +52,12 @@ I created this guide to bring these traditions together into one carefully struc
 
 **92 pages. Seven parts. One complete four-month folk system.**
 
-[**EXPLORE THE COMPLETE GUIDE →**](https://wildwitchherbs.gumroad.com/l/fertility-magic){: .btn .btn--primary .btn--large}
+<p>
+  <a href="https://wildwitchherbs.gumroad.com/l/fertility-magic"
+     style="display: inline-block; padding: 12px 24px; background: #eae5d9; color: #394b3c; border: 1px solid #b9b09e; border-radius: 2px; text-decoration: none; font-family: Georgia, serif; font-size: 16px;">
+    Explore the Guide
+  </a>
+</p>
 
 *Digital PDF · Instant access after purchase*
 
