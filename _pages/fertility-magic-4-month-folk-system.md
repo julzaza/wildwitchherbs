@@ -6,9 +6,9 @@ excerpt: "A 92-page folk fertility guide exploring European botanical traditions
 description: "Explore European, Balkan and Slavic-inspired fertility folklore, traditional plant symbolism and practical rituals in this 92-page, four-month folk guide."
 author_profile: false
 
-image_mobile: /assets/images/heroes/fertility-magic-4-month-folk-system-page/800x1000px-pregnant-woman-hand-on-belly-sunset.webp
-image_desktop_1280: /assets/images/heroes/fertility-magic-4-month-folk-system-page/1280x400px-pregnant-woman-hand-on-belly-sunset.webp
-image_alt: "Woman resting her hands on her abdomen in a sunlit field"
+image_mobile: /assets/images/heroes/fertility-magic-4-month-folk-system-page/800x1000px-hands-soil-plant.webp
+image_desktop_1280: /assets/images/heroes/fertility-magic-4-month-folk-system-page/1280x400px-hands-soil-plant.webp
+image_alt: "hands covered in soil next to a small plant"
 
 faq:
   - question: "What is included in the Fertility Magic guide?"
