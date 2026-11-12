@@ -131,13 +131,6 @@ Practices include:
 
 Each month builds upon the previous one. Rather than approaching fertility as a single moment, the cycle gives the practices a shared structure and rhythm.
 
-<p>
-  <a href="https://wildwitchherbs.gumroad.com/l/fertility-magic"
-     style="display: inline-block; padding: 12px 24px; background: #eae5d9; color: #394b3c; border: 1px solid #b9b09e; border-radius: 2px; text-decoration: none; font-family: Georgia, serif; font-size: 16px;">
-    → Begin the 4-Month Journey
-  </a>
-</p>
-
 ---
 
 ## What You'll Find Inside the 92-Page Guide
