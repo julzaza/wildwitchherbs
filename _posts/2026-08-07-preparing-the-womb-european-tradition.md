@@ -258,27 +258,6 @@ It is designed as a complete four-month experience rather than a collection of u
 
 **Explore the complete guide: [Folk Fertility Magic: The 4-Month Ritual Guide](https://wildwitchherbs.gumroad.com/l/fertility-magic)**
 
-*A contemporary ritual guide inspired by historical European folk traditions. These practices are spiritual and cultural in nature, not medical fertility treatments or a substitute for medical advice.*
-
-
-
-
-Inspired by these older ideas of gradual preparation, I created a four-month fertility journey that follows the traditional belief that important transformations need time.
-
-Inside the **[4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**, each month focuses on a different stage of preparation:
-
-Month 1: opening and cleansing  
-Month 2: warming and nourishing  
-Month 3: calling and blessing  
-Month 4: sustaining and trusting  
-
-The guide combines European fertility folklore, traditional herbal symbolism, seasonal rituals, tea blend recipes, ancestor practices, and womb-focused ceremonies inspired by old folk customs.
-
-Rather than treating fertility as a single moment, this approach honors it as a journey.
-
-→ explore **[4-Month Fertility System](https://wildwitchherbs.gumroad.com/l/fertility-magic)**
-
-
 ---
 
 ## Frequently Asked Questions
