@@ -305,17 +305,6 @@ Or perhaps you're simply drawn to the old relationship between women, plants, bl
 
 Whatever first brought you here, this guide offers a complete collection to explore at your own pace.
 
-**Fertility Magic: The Four-Month Folk System**
-
-- 92-page digital PDF
-- Seven comprehensive sections
-- Four-month guided ritual cycle
-- Traditional herbal preparations and tea recipes
-- Extensive ritual library
-- Ancestral, seasonal and protective practices
-- Separate sections on restoration after loss and protection after conception
-
-
 <p>
   <a href="https://wildwitchherbs.gumroad.com/l/fertility-magic"
      style="display: inline-block; padding: 12px 24px; background: #eae5d9; color: #394b3c; border: 1px solid #b9b09e; border-radius: 2px; text-decoration: none; font-family: Georgia, serif; font-size: 16px;">
