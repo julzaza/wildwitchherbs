@@ -4,8 +4,6 @@ title: "How Witches Used Evergreen Trees Before Christmas Existed"
 permalink: /evergreens-witchcraft/
 description: "Explore the ancient, pre-Christian witchcraft traditions of evergreen trees. From Balkan winter rites to Germanic threshold magic, discover how witches used pine, fir, and juniper long before Christmas."
 excerpt: "Long before Christmas, witches used pine, fir, and juniper for threshold protection, ancestral rites, spirit-warding, and winter solstice magic. This is the story of Europe’s original evergreen witchcraft."
-author: Wild Witch Herbs
-date: 2025-07-07
 
 categories:
   - folklore-ancestral
@@ -32,7 +30,6 @@ keywords:
   - juniper rituals
   - pre-christian evergreen traditions
 
-author: "Wild Witch Herbs"
 
 image_mobile: /assets/images/heroes/evergreens-witchcraft/800x1000px-coniferous-tree-branch.webp
 image_desktop_1280: /assets/images/heroes/evergreens-witchcraft/1280x400px-coniferous-tree-branch.webp
