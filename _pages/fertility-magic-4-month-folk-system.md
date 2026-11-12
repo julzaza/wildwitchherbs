@@ -55,7 +55,7 @@ I created this guide to bring these traditions together into one carefully struc
 <p>
   <a href="https://wildwitchherbs.gumroad.com/l/fertility-magic"
      style="display: inline-block; padding: 12px 24px; background: #eae5d9; color: #394b3c; border: 1px solid #b9b09e; border-radius: 2px; text-decoration: none; font-family: Georgia, serif; font-size: 16px;">
-    → EXPLORE THE FULL GUIDE
+    → Explore The Full Guide
   </a>
 </p>
 
@@ -134,7 +134,7 @@ Each month builds upon the previous one. Rather than approaching fertility as a 
 <p>
   <a href="https://wildwitchherbs.gumroad.com/l/fertility-magic"
      style="display: inline-block; padding: 12px 24px; background: #eae5d9; color: #394b3c; border: 1px solid #b9b09e; border-radius: 2px; text-decoration: none; font-family: Georgia, serif; font-size: 16px;">
-    → BEGIN THE 4-MONTH JOURNEY
+    → Begin the 4-Month Journey
   </a>
 </p>
 
