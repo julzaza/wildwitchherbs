@@ -252,7 +252,7 @@ Ancestor petitions, offerings, spring water and traditional symbols of fertility
 **Month 4: Sustaining and Trusting**  
 Protective charms, continued observances and practices of patience and quiet trust.
 
-The 95-page guide brings together guided rituals, traditional herbal symbolism, tea blend recipes, ancestral practices, womb-focused ceremonies and printable working pages.
+The 92-page guide brings together guided rituals, traditional herbal symbolism, tea blend recipes, ancestral practices, womb-focused ceremonies and printable working pages.
 
 It is designed as a complete four-month experience rather than a collection of unrelated fertility spells. Each stage builds on the previous one, giving the practices a shared rhythm and structure.
 
