@@ -322,7 +322,13 @@ Whatever first brought you here, this guide offers a complete collection to expl
 - Ancestral, seasonal and protective practices
 - Separate sections on restoration after loss and protection after conception
 
-[**GET YOUR COPY OF FERTILITY MAGIC →**](https://wildwitchherbs.gumroad.com/l/fertility-magic){: .btn .btn--primary .btn--large}
+
+<p>
+  <a href="https://wildwitchherbs.gumroad.com/l/fertility-magic"
+     style="display: inline-block; padding: 12px 24px; background: #eae5d9; color: #394b3c; border: 1px solid #b9b09e; border-radius: 2px; text-decoration: none; font-family: Georgia, serif; font-size: 16px;">
+    → Get Your Copy of Fertility Magic  
+  </a>
+</p>
 
 *Begin with the traditions. Follow the cycle. Carry the old knowledge forward.*
 
@@ -370,6 +376,12 @@ It lived in the plants, the household, the changing seasons and the customs pass
 
 **We are still here to remember it.**
 
-[**EXPLORE FERTILITY MAGIC — GET YOUR COPY →**](https://wildwitchherbs.gumroad.com/l/fertility-magic){: .btn .btn--primary .btn--large}
+<p>
+  <a href="https://wildwitchherbs.gumroad.com/l/fertility-magic"
+     style="display: inline-block; padding: 12px 24px; background: #eae5d9; color: #394b3c; border: 1px solid #b9b09e; border-radius: 2px; text-decoration: none; font-family: Georgia, serif; font-size: 16px;">
+   → Explore Fertility Magic - Get Your Copy
+  </a>
+</p>
+
 
 <small>Wild Witch Herbs · Folklore, botanical traditions and the old ways of knowing.</small>
