@@ -17,6 +17,7 @@ image_mobile: /assets/images/heroes/balkan-oak-tree-cult/800x1000px-oak-tree-lea
 image_desktop_1280: /assets/images/heroes/balkan-oak-tree-cult/1280x400px-oak-tree-leaves-close-up.webp
 image_alt: "oak tree leaves close-up"
 teaser: /assets/images/heroes/balkan-oak-tree-cult/800x1000px-oak-tree-leaves.webp
+featured: true
 
 excerpt: "Long before churches, the oak ruled the Balkans. Sacred oaks were worshipped, feared, and protected—some still are. This is the real history of the Balkan oak cult."
 description: "A historical and folkloric deep dive into the Balkan oak cult, including sacred trees (zapis), Slavic thunder gods, rituals, and Christian survivals rooted in pre-Christian belief."
