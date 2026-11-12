@@ -50,12 +50,12 @@ Across European folk traditions, including those of the Balkans and Slavic lands
 
 I created this guide to bring these traditions together into one carefully structured collection: a four-month journey through the symbolism, herbal knowledge and ritual practices of folk fertility magic.
 
-**92 pages. Seven parts. One complete four-month folk system.**
+**92 pages. Seven parts. One complete 4-month folk system.**
 
 <p>
   <a href="https://wildwitchherbs.gumroad.com/l/fertility-magic"
      style="display: inline-block; padding: 12px 24px; background: #eae5d9; color: #394b3c; border: 1px solid #b9b09e; border-radius: 2px; text-decoration: none; font-family: Georgia, serif; font-size: 16px;">
-    Explore the Guide
+    EXPLORE THE FULL GUIDE
   </a>
 </p>
 
@@ -132,6 +132,13 @@ Practices include:
 Each month builds upon the previous one. Rather than approaching fertility as a single moment, the cycle gives the practices a shared structure and rhythm.
 
 [**BEGIN THE FOUR-MONTH JOURNEY →**](https://wildwitchherbs.gumroad.com/l/fertility-magic){: .btn .btn--primary}
+
+<p>
+  <a href="https://wildwitchherbs.gumroad.com/l/fertility-magic"
+     style="display: inline-block; padding: 12px 24px; background: #eae5d9; color: #394b3c; border: 1px solid #b9b09e; border-radius: 2px; text-decoration: none; font-family: Georgia, serif; font-size: 16px;">
+    **→ BEGIN THE 4-MONTH JOURNEY**
+  </a>
+</p>
 
 ---
 
