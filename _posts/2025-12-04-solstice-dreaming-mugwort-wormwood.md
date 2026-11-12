@@ -10,6 +10,12 @@ categories: [herbal-magic, witchcraft-ritual]
 
 tags: [vision practices, lucid dreaming, folk magic, spirit communication, dream work, prophetic dreams, winter solstice, mugwort, wormwood, artemisia herbs]
 
+image_mobile: /assets/images/heroes/solstice-dreaming-mugwort-wormwood/800x1000px-winter-landscape-trees-snow.webp
+image_desktop_1280: /assets/images/heroes/solstice-dreaming-mugwort-wormwood/1280x400px-winter-landscape-trees-snow.webp
+image_alt: "winter sun shining through a tree"
+teaser: /assets/images/heroes/solstice-dreaming-mugwort-wormwood/800x1000px-winter-landscape-trees-snow.webp
+featured: true
+
 faq:
   - question: "When is the best night to practice solstice dreaming?"
     answer: "The winter solstice night itself is the most potent for prophetic dreaming, marking the longest night of the year. The following Twelve Nights were also traditionally used for continued dream-omens."
